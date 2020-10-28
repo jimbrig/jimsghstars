@@ -1331,6 +1331,7 @@
 
 ## Others 
 
+- [awesome-stars](https://github.com/jimbrig/awesome-stars) - A curated list of my GitHub stars! ⭐
 - [my-stars](https://github.com/kissgyorgy/my-stars) - My GitHub starred repositories
 - [awesome-stars](https://github.com/chinanf-boy/awesome-stars) - A curated list of my GitHub stars!
 - [Stars](https://github.com/1132719438/Stars) - A curated list of my GitHub stars!
