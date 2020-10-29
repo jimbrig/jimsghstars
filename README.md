@@ -211,6 +211,7 @@
 
 ## C++ 
 
+- [skift](https://github.com/skiftOS/skift) - 🥑 A simple, handmade, operating system with a graphical user interface.
 - [LEMMA](https://github.com/LocalEpi/LEMMA) - Local  Epidemic Modeling for Management & Action (LEMMA)
 - [websocket](https://github.com/rstudio/websocket) - WebSocket client for R
 - [duckdb](https://github.com/cwida/duckdb) - DuckDB is an embeddable SQL OLAP Database Management System
@@ -417,6 +418,7 @@
 
 ## Dart 
 
+- [next-joke](https://github.com/Maddoxx88/next-joke) - Random Two Part Joke App using Flutter.
 - [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
 - [hivedb_flutter_saved_list_sample](https://github.com/atiqsamtia/hivedb_flutter_saved_list_sample) - Sample for Getting list of saved items in a box.
 
@@ -448,6 +450,8 @@
 
 ## Go 
 
+- [blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
+- [maintainer](https://github.com/gaocegege/maintainer) - :octocat: :man_technologist: :whale: Generate personal daily reports or summary, AUTHORS, CONTRIBUTING, CHANGELOG and so on for GitHub user or repository.
 - [limo](https://github.com/lucmski/limo) - A CLI for managing starred Git repositories
 - [sort-awesome-lists](https://github.com/kvnxiao/sort-awesome-lists) - Sorts awesome lists by number of stars in each GitHub repository
 - [go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars) - :star: Web frameworks for Go, most starred on GitHub
@@ -809,6 +813,10 @@
 
 ## JavaScript 
 
+- [developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer.
+- [generator-jekyll-starter-kit](https://github.com/nirgn975/generator-jekyll-starter-kit) - :rocket: Jekyll Progressive Web App Generator.
+- [faviator](https://github.com/faviator/faviator) - A simple easy favicon generator.
+- [streaker](https://github.com/jamieweavis/streaker) - 🐙 GitHub contribution streak & stat tracking menu bar app
 - [GitHubWidgets](https://github.com/smuyyh/GitHubWidgets) - GitHub html widget, include User Widget、Repo Widget and Activity Widget.
 - [starred](https://github.com/sinchang/starred) - Show one random repo from your starred repos on the GitHub homepage
 - [github-is-starred-cli](https://github.com/transitive-bullshit/github-is-starred-cli) - CLI for checking if a user has starred a particular GitHub repo.
@@ -1331,6 +1339,8 @@
 
 ## Others 
 
+- [DenverCoder1](https://github.com/DenverCoder1/DenverCoder1) - Profile README for DenverCoder1
+- [jimbrig](https://github.com/jimbrig/jimbrig) - Github Homepage
 - [awesome-stars](https://github.com/jimbrig/awesome-stars) - A curated list of my GitHub stars! ⭐
 - [my-stars](https://github.com/kissgyorgy/my-stars) - My GitHub starred repositories
 - [awesome-stars](https://github.com/chinanf-boy/awesome-stars) - A curated list of my GitHub stars!
@@ -1806,6 +1816,7 @@
 
 ## PHP 
 
+- [crud-generator](https://github.com/appzcoder/crud-generator) - Laravel CRUD Generator
 - [knot-server](https://github.com/knotworks/knot-server) - A decentralized server to build private social networks from.
 - [valet](https://github.com/laravel/valet) - 
 - [labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
@@ -1893,6 +1904,8 @@
 
 ## Python 
 
+- [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
+- [explain-starred](https://github.com/chinanf-boy/explain-starred) - manager your star ,simple py run, explain to you
 - [github-starmap](https://github.com/khast3x/github-starmap) - Python utility to export a user's starred repositories list into a CSV file
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [export-stars](https://github.com/JeffCarpenter/export-stars) - Export (your) GitHub stars to a CSV file
@@ -3888,6 +3901,7 @@
 
 ## Shell 
 
+- [dotfilesync](https://github.com/snvishna/dotfilesync) - A bash script that syncs a list of local files that you define, into a secret gist, that you own.
 - [nrgh-sync](https://github.com/pschmitt/nrgh-sync) - Sync your GitHub starred repositories with newreleases.io
 - [smb_git](https://github.com/karthik/smb_git) - A review paper describing how git can be used to improve reproducibility in science
 - [g](https://github.com/schloerke/g) - autocomplete functionality given your current github command context
@@ -4078,6 +4092,7 @@
 
 ## TypeScript 
 
+- [sao](https://github.com/saojs/sao) - ⚔ Futuristic scaffolding tool
 - [random-starred-repo](https://github.com/LaksCastro/random-starred-repo) - 💡 A tiny website to open random repositories that you starred, available in: https://lakscastro.github.io/random-starred-repo
 - [note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) - Allows for text selections to be copied (refactored) into new notes.
 - [obsidian-url-into-selection](https://github.com/denolehov/obsidian-url-into-selection) - Paste URLs into selected text "notion style"
