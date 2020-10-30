@@ -442,6 +442,7 @@
 
 ## Emacs Lisp 
 
+- [configuration](https://github.com/yihui/configuration) - My configuration files
 - [zettel-mode](https://github.com/vifon/zettel-mode) - A Zettelkasten-style note-taking helper
 
 ## Gherkin 
@@ -538,6 +539,8 @@
 
 ## HTML 
 
+- [xran](https://github.com/yihui/xran) - Xie's R Archive Network (experimental and for my personal interest only)
+- [webhook-logger](https://github.com/w01fgang/webhook-logger) - 
 - [gitstars](https://github.com/znlbwo/gitstars) - Github Stars Repositories Manager
 - [bottomupcs](https://github.com/ianw/bottomupcs) - Bottom Up Computer Science
 - [containerssh.github.io](https://github.com/ContainerSSH/containerssh.github.io) - The ContainerSSH website
@@ -813,6 +816,9 @@
 
 ## JavaScript 
 
+- [obelisk.js](https://github.com/nosir/obelisk.js) - Build pixel isometric graphics with HTML5 canvas
+- [systeminformation](https://github.com/sebhildebrandt/systeminformation) - System Information Library for Node.JS
+- [shinytableau](https://github.com/rstudio/shinytableau) - Extend Tableau dashboards using Shiny
 - [developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer.
 - [generator-jekyll-starter-kit](https://github.com/nirgn975/generator-jekyll-starter-kit) - :rocket: Jekyll Progressive Web App Generator.
 - [faviator](https://github.com/faviator/faviator) - A simple easy favicon generator.
@@ -972,6 +978,7 @@
 - [windows-workstation](https://github.com/szepeviktor/windows-workstation) - Prepare my Windows 10 workstation
 - [juicer](https://github.com/noamross/juicer) - A thin wrapper for in-lining CSS styles into HTML
 - [redirectr-ff](https://github.com/noamross/redirectr-ff) - 
+- [giganotes-desktop](https://github.com/FourthByteLabs/giganotes-desktop) - GigaNotes note taking application
 - [mdlinks](https://github.com/ColinFay/mdlinks) - A Google Chrome extension to create Markdown links for the current page
 - [vectorInput](https://github.com/whitwort/vectorInput) - A shiny input widget that returns a (possibly named) vector of values.
 - [telemetry](https://github.com/strongh/telemetry) - R Shiny inputs for geolocation and sensor data
@@ -1135,7 +1142,7 @@
 - [evolui](https://github.com/gvergnaud/evolui) - A tiny reactive user interface library, built on top of RxJs.
 - [feedback.js](https://github.com/niklasvh/feedback.js) - Feedback form with screenshot
 - [togetherjs](https://github.com/jsfiddle/togetherjs) - A service for your website that makes it surprisingly easy to collaborate in real-time.
-- [uid](https://github.com/lukeed/uid) - A tiny (134B) and fast utility to generate random IDs of fixed length
+- [uid](https://github.com/lukeed/uid) - A tiny (130B to 205B) and fast utility to generate random IDs of fixed length
 - [wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 📝 The website builder for Hugo. Build and deploy a beautiful website in minutes!
 - [todo](https://github.com/JasonEtco/todo) - 🤖✅ GitHub App that creates new issues from actionable comments in your code.
 - [Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for developers on Mac, Windows and Linux.
@@ -1410,7 +1417,6 @@
 - [awesome-software-patreons](https://github.com/uraimo/awesome-software-patreons) - A curated list of awesome programmers and software projects you can support!
 - [awesome-purescript](https://github.com/passy/awesome-purescript) - A curation of awesome PureScript libraries, resources and shiny things.
 - [awesome-oss-funding](https://github.com/sustainers/awesome-oss-funding) - A curated list of awesome resources for funding open source projects and authors.
-- [awesome-management](https://github.com/kdeldycke/awesome-management) - 👔 Awesome Engineering Team Management
 - [awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps) - A curated list of roadmaps.
 - [awesome-smart-contracts](https://github.com/Overtorment/awesome-smart-contracts) - 🕶 List of awesome platforms for smart contracts
 - [UI-Design](https://github.com/tipoqueno/UI-Design) - :fire: A curated list of useful resources related to User Interface Design
@@ -1839,6 +1845,7 @@
 
 ## PowerShell 
 
+- [WSL](https://github.com/MicrosoftDocs/WSL) - Source code behind the Windows Subsystem for Linux documentation.
 - [dotfiles](https://github.com/Laoujin/dotfiles) - Sync Windows configuration, program settings, dotfiles and PowerShell profiles
 - [Chocolatey-Packages](https://github.com/jivkok/Chocolatey-Packages) - Repo for hosting Chocolatey packages
 - [tinytex-releases](https://github.com/yihui/tinytex-releases) - Windows/macOS/Linux binaries and installation methods of TinyTeX
@@ -2093,6 +2100,16 @@
 
 ## R 
 
+- [runr](https://github.com/yihui/runr) - Run external programs from R (experimental)
+- [animation](https://github.com/yihui/animation) - A gallery of animations in statistics and utilities to create animations
+- [mime](https://github.com/yihui/mime) - Map filenames to MIME types
+- [fun](https://github.com/yihui/fun) - Use R for Fun
+- [evaluate](https://github.com/yihui/evaluate) - A version of eval for R that returns more information about what happened
+- [PLSDAbatch](https://github.com/EvaYiwenWang/PLSDAbatch) - R package for batch effect correction
+- [flipdownr](https://github.com/feddelegrand7/flipdownr) - 📆📆📆 Implement a Countdown in RMarkdown Documents and Shiny Applications
+- [sparklyr](https://github.com/sparklyr/sparklyr) - R interface for Apache Spark
+- [forge](https://github.com/rstudio/forge) - forge: Casting values into shape
+- [decodeR](https://github.com/kbodwin/decodeR) - Fun activities for practicing R by decoding secret pictures and messages
 - [starwarsdb](https://github.com/gadenbuie/starwarsdb) - Relational Data from the Star Wars API for Learning and Teaching
 - [naturalsort](https://github.com/kos59125/naturalsort) - Natural ordering in R
 - [generator](https://github.com/paulhendricks/generator) - Generate data containing fake  Personally Identifiable Information (PII) in R
@@ -3042,7 +3059,7 @@
 - [webshot2](https://github.com/rstudio/webshot2) - Take screenshots of web pages from R
 - [EDA_Helper](https://github.com/YanArt/EDA_Helper) - Code for "EDA Helper" shiny app
 - [xportEDA](https://github.com/ehrlinger/xportEDA) - A shiny app for visually exploring plotting data files
-- [GWSDAT](https://github.com/levvers/GWSDAT) - GroundWater Spatiotemporal Data Analysis Tool (GWSDAT) R-Shiny implementation.
+- [GWSDAT](https://github.com/WayneGitShell/GWSDAT) - GroundWater Spatiotemporal Data Analysis Tool (GWSDAT) R-Shiny implementation.
 - [rvcheck](https://github.com/GuangchuangYu/rvcheck) - :white_check_mark:R/Package Version Check
 - [mirt](https://github.com/philchalmers/mirt) - Multidimensional item response theory
 - [js4shiny](https://github.com/gadenbuie/js4shiny) - Companion Package for JavaScript for Shiny Users
@@ -3901,6 +3918,8 @@
 
 ## Shell 
 
+- [bootcamp](https://github.com/openecs/bootcamp) - Hands-on DevOps workshop
+- [rust-cookbook](https://github.com/rust-lang-nursery/rust-cookbook) - https://rust-lang-nursery.github.io/rust-cookbook
 - [dotfilesync](https://github.com/snvishna/dotfilesync) - A bash script that syncs a list of local files that you define, into a secret gist, that you own.
 - [nrgh-sync](https://github.com/pschmitt/nrgh-sync) - Sync your GitHub starred repositories with newreleases.io
 - [smb_git](https://github.com/karthik/smb_git) - A review paper describing how git can be used to improve reproducibility in science
@@ -4094,7 +4113,7 @@
 
 - [sao](https://github.com/saojs/sao) - ⚔ Futuristic scaffolding tool
 - [random-starred-repo](https://github.com/LaksCastro/random-starred-repo) - 💡 A tiny website to open random repositories that you starred, available in: https://lakscastro.github.io/random-starred-repo
-- [note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) - Allows for text selections to be copied (refactored) into new notes.
+- [note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) - Allows for text selections to be copied (refactored) into new notes and notes to be split into other notes.
 - [obsidian-url-into-selection](https://github.com/denolehov/obsidian-url-into-selection) - Paste URLs into selected text "notion style"
 - [obsidian-text-expand](https://github.com/mrjackphil/obsidian-text-expand) - A simple text expand plugin for Obsidian.md
 - [slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
@@ -4134,7 +4153,6 @@
 - [obsidian-todoist-plugin](https://github.com/jamiebrynes7/obsidian-todoist-plugin) - Materialize Todoist tasks in Obsidian notes
 - [labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests
 - [ueli](https://github.com/oliverschwendener/ueli) - This is a keystroke launcher for Windows and macOS.
-- [giganotes-desktop](https://github.com/FourthByteLabs/giganotes-desktop) - GigaNotes note taking application
 - [react-query](https://github.com/tannerlinsley/react-query) - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
 - [DataCleanRoomUI](https://github.com/prathamesh24307/DataCleanRoomUI) - 
 - [github-mention-highlighter](https://github.com/benbalter/github-mention-highlighter) - A Chrome extension that automatically highlights any time you are mentioned on a GitHub issue or pull request thread by highlighting your username, any team you're a member of, and the border of any containing comment.
