@@ -816,6 +816,7 @@
 
 ## JavaScript 
 
+- [pg-formatter](https://github.com/gajus/pg-formatter) - A PostgreSQL SQL syntax beautifier.
 - [obelisk.js](https://github.com/nosir/obelisk.js) - Build pixel isometric graphics with HTML5 canvas
 - [systeminformation](https://github.com/sebhildebrandt/systeminformation) - System Information Library for Node.JS
 - [shinytableau](https://github.com/rstudio/shinytableau) - Extend Tableau dashboards using Shiny
@@ -1911,6 +1912,7 @@
 
 ## Python 
 
+- [groupme_stats](https://github.com/youyanggu/groupme_stats) - Tool to download and optionally display interesting stats about GroupMe messages
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 - [explain-starred](https://github.com/chinanf-boy/explain-starred) - manager your star ,simple py run, explain to you
 - [github-starmap](https://github.com/khast3x/github-starmap) - Python utility to export a user's starred repositories list into a CSV file
@@ -2100,6 +2102,7 @@
 
 ## R 
 
+- [validateIt](https://github.com/Luwei-Ying/validateIt) - 
 - [runr](https://github.com/yihui/runr) - Run external programs from R (experimental)
 - [animation](https://github.com/yihui/animation) - A gallery of animations in statistics and utilities to create animations
 - [mime](https://github.com/yihui/mime) - Map filenames to MIME types
@@ -2496,7 +2499,6 @@
 - [languageserver](https://github.com/REditorSupport/languageserver) - An implementation of the Language Server Protocol for R
 - [distributional](https://github.com/mitchelloharawild/distributional) - Vectorised distributions for R
 - [sticky](https://github.com/decisionpatterns/sticky) - Persist attributes through data manipulations
-- [berlinxbikes](https://github.com/Z3tt/berlinxbikes) - A shiny app to explore bike lane types and bike accidents in Berlin.
 - [rmdshower](https://github.com/MangoTheCat/rmdshower) - R Markdown template for shower
 - [collaborator](https://github.com/kamclean/collaborator) - Scalable multi-centre research using R and REDCap applications
 - [bit64](https://github.com/truecluster/bit64) - An R package with an S3 Class for Vectors of 64bit Integers
