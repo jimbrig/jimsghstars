@@ -1050,7 +1050,7 @@
 - [stat-distributions-js](https://github.com/richarddmorey/stat-distributions-js) - Javascript library for the visualization of statistical distributions
 - [awesome-libraries](https://github.com/sourcerer-io/awesome-libraries) - :sunglasses: Libraries that are being shown in Sourcerer profiles.
 - [foam-template-gatsby-search](https://github.com/ingalless/foam-template-gatsby-search) - Foam template, built with Gatsby, plus search
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (October 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2020)
 - [DocumentTemplate](https://github.com/renrousousuo/DocumentTemplate) - 文件 Markdown 格式。方便书写各种文档。
 - [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -1931,7 +1931,7 @@
 - [gedit-wakatime](https://github.com/wakatime/gedit-wakatime) - Gedit 3.8+ plugin for automatic time tracking and metrics generated from your programming activity.
 - [podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 - [scripttest](https://github.com/pypa/scripttest) - Utilities to help with testing command line scripts
-- [youtube-dl](https://github.com/l1ving/youtube-dl) - A copyright-respecting fork of youtube-dl
+- [youtube-dl](https://github.com/l1ving/youtube-dl) - A fork of youtube-dl, for archival purposes.
 - [mkdocs-autolinks-plugin](https://github.com/midnightprioriem/mkdocs-autolinks-plugin) - An MkDocs plugin that automagically generates relative links between markdown pages
 - [mkdocs-awesome-pages-plugin](https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin) - An MkDocs plugin that simplifies configuring page titles and their order
 - [mkdocs-pdf-export-plugin](https://github.com/zhaoterryy/mkdocs-pdf-export-plugin) - An MkDocs plugin to export content pages as PDF files
@@ -2222,7 +2222,6 @@
 - [R-Program](https://github.com/Psingh12354/R-Program) - 
 - [LENOVO---Stochastic-Optimization-and-Predictive-Modeling](https://github.com/madhura711/LENOVO---Stochastic-Optimization-and-Predictive-Modeling) - 
 - [The-Airbnb-Classification-Project](https://github.com/siddh30/The-Airbnb-Classification-Project) - This project is from the Airbnb Recruitment Challenge on Kaggle. The challenge is to solve a multi-class classification problem of predicting new users first booking destination.
-- [transcriptome-analysis](https://github.com/VGrinev/transcriptome-analysis) - This is an open source project in R programming. The main objective of the project is development of package TranscriptsFeatures for comprehensive structural and functional annotation of the This is an open source project in R programming. The main objective of the project is development of package transcriptomeFeatures for comprehensive structural and functional annotation of the transcriptome of human cells.
 - [kiwisR](https://github.com/rywhale/kiwisR) - Provides a simplified method for bringing tidy data into R from KISTERS WISKI databases via KiWIS API.
 - [r-youtube-personal-history-analysis](https://github.com/cosmoduende/r-youtube-personal-history-analysis) - Explore your activity on YouTube with R: How to analyze and visualize your personal pata history. Find out how you consume YouTube using a copy of your personal data from Google Takeout.
 - [awesome-R](https://github.com/anishsingh20/awesome-R) - A curated list of awesome R frameworks, packages and software.
