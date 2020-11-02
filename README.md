@@ -384,7 +384,6 @@
 - [notebook-template](https://github.com/timoast/notebook-template) - Template for a computational lab notebook using bookdown
 - [icon](https://github.com/ropenscilabs/icon) - R package to easily insert web icons to RMarkdown
 - [iziModal](https://github.com/marcelodolza/iziModal) - Elegant, responsive, flexible and lightweight modal plugin with jQuery.
-- [htmlwidgetsgallery](https://github.com/hafen/htmlwidgetsgallery) - 
 - [fresh](https://github.com/dreamRs/fresh) - Fresh shiny themes
 - [dashboard](https://github.com/karthik/dashboard) - A R package dashboard generator
 - [justdelete.me](https://github.com/justdeleteme/justdelete.me) - A directory of direct links to delete your account from web services.
@@ -3903,6 +3902,7 @@
 - [rsthemes](https://github.com/gadenbuie/rsthemes) - 🔮 Full RStudio IDE and Syntax Themes
 - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [bootstraplib](https://github.com/rstudio/bootstraplib) - Tools for theming shiny and rmarkdown from R via Bootstrap (3 or 4) Sass.
+- [htmlwidgetsgallery](https://github.com/hafen/htmlwidgetsgallery) - 
 - [docs-travis-ci-com](https://github.com/travis-ci/docs-travis-ci-com) - The Travis CI Documentation
 - [prettydoc](https://github.com/yixuan/prettydoc) - Creating Pretty HTML From R Markdown
 
@@ -4037,6 +4037,7 @@
 - [rddj-template](https://github.com/grssnbchr/rddj-template) - A template for bootstrapping reproducible RMarkdown documents for data journalistic purposes.
 - [gitflow-avh](https://github.com/petervanderdoes/gitflow-avh) - AVH Edition of the git extensions to provide high-level repository operations for Vincent Driessen's branching model
 - [sysreqsdb](https://github.com/r-hub/sysreqsdb) - SystemRequirements mappings for R packages
+- [dotfiles](https://github.com/strboul/dotfiles) - My dotfiles with a setup script :rocket:
 - [rhub-linux-builders](https://github.com/jcheng5/rhub-linux-builders) - Docker configuration for the Linux builders
 - [professional-programming](https://github.com/luong-komorebi/professional-programming) - A collection of full-stack resources for programmers.
 - [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -4230,7 +4231,6 @@
 - [til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [dotfiles](https://github.com/maxpou/dotfiles) - :computer: my dotfiles (Ubuntu&MacOS)
 - [vim-rif](https://github.com/smbache/vim-rif) - Relative Importing of Files
-- [dotfiles](https://github.com/strboul/dotfiles) - My dotfiles with a setup script :rocket:
 
 ## VimL 
 
