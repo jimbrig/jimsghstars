@@ -1612,7 +1612,7 @@
 - [reMarkable-typescript](https://github.com/andymatuschak/reMarkable-typescript) - A typescript reMarkable Cloud API
 - [Andy-Grove---High-Output-Management](https://github.com/julian-englert/Andy-Grove---High-Output-Management) - Summary of the book High Output Management by Andy Grove
 - [obsidian-plugins](https://github.com/binyamin/obsidian-plugins) - Obsidian Plugin Ideas
-- [Slipbox](https://github.com/ShannaSeigel/Slipbox) - knowledgebase sharing experiment
+- [slipbox](https://github.com/ShannaSeigel/slipbox) - knowledgebase sharing experiment
 - [editorial-obsidian](https://github.com/tekacs/editorial-obsidian) - Editorial scripts for Obsidian (unofficial)
 - [kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - Example recipes for Kubernetes Network Policies that you can just copy paste
 - [cloud-run-faq](https://github.com/ahmetb/cloud-run-faq) - Unofficial FAQ for Google Cloud Run✨
@@ -2389,7 +2389,7 @@
 - [rnotify](https://github.com/ColinFay/rnotify) - A Wrapper Around the 'node-notify-cli' module, in R.
 - [tidystringdist](https://github.com/ColinFay/tidystringdist) - String distance calculation the tidy way.
 - [meToolkit](https://github.com/tbilab/meToolkit) - A package of shiny modules and helper functions designed to help modularize the code for ME apps.
-- [shinypipe](https://github.com/rajkar86/shinypipe) - R Package for shiny modules to be used as reusable components in building data processing pipelines
+- [shinypipe](https://github.com/rajkar86/shinypipe) - R Package for shiny modules to be used as reusable components for building data-science related apps.
 - [shinymod](https://github.com/cabaceo/shinymod) - A R package of shiny modules and helper functions for making shiny apps or flexdashboards
 - [shinyModules](https://github.com/paul-shannon/shinyModules) - module wrappers for some useful widgets: igv, plotly, ggplot, cyjShiny, DT
 - [shiny-session-info](https://github.com/colearendt/shiny-session-info) - A Shiny app showing the types of session information stored in Shiny
