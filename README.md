@@ -377,7 +377,6 @@
 - [shinytemplate](https://github.com/tyluRp/shinytemplate) - :sparkles: A personal template for shiny dashboards
 - [shiny-explorer](https://github.com/dkilfoyle/shiny-explorer) - Shiny based data explorer with report templates based on field selection
 - [hugo-universal-theme](https://github.com/devcows/hugo-universal-theme) - Port of the Universal theme to Hugo
-- [startbootstrap-coming-soon](https://github.com/StartBootstrap/startbootstrap-coming-soon) - A coming soon theme with a video background for Bootstrap 4
 - [shiny-components](https://github.com/JesseVent/shiny-components) - Work in Progress of custom shiny widgets for use in dashboards
 - [shinyr-knowledge-repo](https://github.com/JesseVent/shinyr-knowledge-repo) - The shinyR curated knowledge sharing platform
 - [night-owlish](https://github.com/batpigandme/night-owlish) - 🌙🦉 An RStudio, tmThemes, and Ace editor adaptation of @sdras' Night Owl VS Code theme…
@@ -815,6 +814,7 @@
 
 ## JavaScript 
 
+- [metrics](https://github.com/lowlighter/metrics) - 📊 An image generator with 20+ metrics about your GitHub account such as activity, community, repositories, coding habits, website performances, etc. that you can put on your profile or elsewhere !
 - [pg-formatter](https://github.com/gajus/pg-formatter) - A PostgreSQL SQL syntax beautifier.
 - [obelisk.js](https://github.com/nosir/obelisk.js) - Build pixel isometric graphics with HTML5 canvas
 - [systeminformation](https://github.com/sebhildebrandt/systeminformation) - System Information Library for Node.JS
@@ -3902,6 +3902,7 @@
 - [rsthemes](https://github.com/gadenbuie/rsthemes) - 🔮 Full RStudio IDE and Syntax Themes
 - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [bootstraplib](https://github.com/rstudio/bootstraplib) - Tools for theming shiny and rmarkdown from R via Bootstrap (3 or 4) Sass.
+- [startbootstrap-coming-soon](https://github.com/StartBootstrap/startbootstrap-coming-soon) - A coming soon theme with a video background for Bootstrap 4
 - [htmlwidgetsgallery](https://github.com/hafen/htmlwidgetsgallery) - 
 - [docs-travis-ci-com](https://github.com/travis-ci/docs-travis-ci-com) - The Travis CI Documentation
 - [prettydoc](https://github.com/yixuan/prettydoc) - Creating Pretty HTML From R Markdown
