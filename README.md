@@ -816,6 +816,9 @@
 
 ## JavaScript 
 
+- [shinyServeExamples](https://github.com/yusuzech/shinyServeExamples) - 
+- [flexdashboard](https://github.com/rstudio/flexdashboard) - Easy interactive dashboards for R
+- [github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) - 🔥 Add Programming Quotes To Your GitHub Readme
 - [inky](https://github.com/inkle/inky) - An editor for ink: inkle's narrative scripting language
 - [metrics](https://github.com/lowlighter/metrics) - 📊 An image generator with 20+ metrics about your GitHub account such as activity, community, repositories, coding habits, website performances, etc. that you can put on your profile or elsewhere !
 - [pg-formatter](https://github.com/gajus/pg-formatter) - A PostgreSQL SQL syntax beautifier.
@@ -1349,6 +1352,7 @@
 
 ## Others 
 
+- [markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your Profile and Projects.
 - [DenverCoder1](https://github.com/DenverCoder1/DenverCoder1) - Profile README for DenverCoder1
 - [jimbrig](https://github.com/jimbrig/jimbrig) - Github Homepage
 - [awesome-stars](https://github.com/jimbrig/awesome-stars) - A curated list of my GitHub stars! ⭐
@@ -1914,6 +1918,7 @@
 
 ## Python 
 
+- [pyUtility](https://github.com/yusuzech/pyUtility) - utility functions
 - [groupme_stats](https://github.com/youyanggu/groupme_stats) - Tool to download and optionally display interesting stats about GroupMe messages
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 - [explain-starred](https://github.com/chinanf-boy/explain-starred) - manager your star ,simple py run, explain to you
@@ -2104,6 +2109,12 @@
 
 ## R 
 
+- [r2d3-graphs](https://github.com/yusuzech/r2d3-graphs) - Make graphs in D3 and create templates for r2d3 package
+- [shinySessionTracker](https://github.com/yusuzech/shinySessionTracker) - Track user behaviors in shiny sessions.
+- [R6_examples](https://github.com/yusuzech/R6_examples) - Create some examples for using R6.
+- [dfutils](https://github.com/yusuzech/dfutils) - Utility functions for interacting with tabular data.
+- [timeR](https://github.com/yusuzech/timeR) - A simple R package for timing your code.
+- [sfarrow](https://github.com/wcjochem/sfarrow) - Experimental R package for reading/writing `sf` objects from/to parquet files with `arrow`.
 - [scrollrevealR](https://github.com/feddelegrand7/scrollrevealR) - Animate shiny elements when they scroll into view   🍁 🍁 🍁
 - [automagic](https://github.com/cole-brokamp/automagic) - automagically install packages necessary to run R code
 - [validateIt](https://github.com/Luwei-Ying/validateIt) - 
@@ -2761,7 +2772,7 @@
 - [geosparklines](https://github.com/datagistips/geosparklines) - An R Package to put SparkLines on a Map
 - [dplyr-cli](https://github.com/coolbutuseless/dplyr-cli) - Manipulate CSV files on the command line using dplyr
 - [flagon](https://github.com/coolbutuseless/flagon) - Flags of the World
-- [poorman](https://github.com/nathaneastwood/poorman) - A poor man's dependency free recreation of {dplyr}
+- [poorman](https://github.com/nathaneastwood/poorman) - A poor man's dependency free grammar of data manipulation
 - [safejoin](https://github.com/moodymudskipper/safejoin) - Wrappers around dplyr functions to join safely     using various checks
 - [terra](https://github.com/rspatial/terra) - R package for spatial data handling
 - [tidyft](https://github.com/hope-data-science/tidyft) - Tidy Verbs for Fast Data Operations by Reference
@@ -3906,7 +3917,7 @@
 - [Blunt](https://github.com/f-prime/Blunt) - A CSS framework that helps with layouts and leaves your styling alone.
 - [rsthemes](https://github.com/gadenbuie/rsthemes) - 🔮 Full RStudio IDE and Syntax Themes
 - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
-- [bootstraplib](https://github.com/rstudio/bootstraplib) - Tools for theming shiny and rmarkdown from R via Bootstrap (3 or 4) Sass.
+- [bslib](https://github.com/rstudio/bslib) - Tools for theming shiny and rmarkdown from R via Bootstrap (3 or 4) Sass.
 - [startbootstrap-coming-soon](https://github.com/StartBootstrap/startbootstrap-coming-soon) - A coming soon theme with a video background for Bootstrap 4
 - [htmlwidgetsgallery](https://github.com/hafen/htmlwidgetsgallery) - 
 - [docs-travis-ci-com](https://github.com/travis-ci/docs-travis-ci-com) - The Travis CI Documentation
@@ -4119,6 +4130,7 @@
 
 ## TypeScript 
 
+- [profile-readme](https://github.com/actions-js/profile-readme) - 🗣 Display profile activity and other cool widgets in your profile README.md
 - [sao](https://github.com/saojs/sao) - ⚔ Futuristic scaffolding tool
 - [random-starred-repo](https://github.com/LaksCastro/random-starred-repo) - 💡 A tiny website to open random repositories that you starred, available in: https://lakscastro.github.io/random-starred-repo
 - [note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) - Allows for text selections to be copied (refactored) into new notes and notes to be split into other notes.
