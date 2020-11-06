@@ -588,7 +588,6 @@
 - [rstudio4edu-book](https://github.com/rstudio4edu/rstudio4edu-book) - Organizing rstudio4edu project progress
 - [zero-to-shinyproxy](https://github.com/remche/zero-to-shinyproxy) - Deploy Shinyproxy with Helm
 - [parcel-static-site-starterkit](https://github.com/InsaneNaman/parcel-static-site-starterkit) - A starter kit to get Advanced features like SASS support, Uglification, Hot Module Reload in Static Website
-- [vscode-docker](https://github.com/microsoft/vscode-docker) - Docker extension for Visual Studio Code
 - [dplyr-100](https://github.com/mrchypark/dplyr-100) - 100 dplyr exercises
 - [spiralHeatMaps](https://github.com/hbnordin2/spiralHeatMaps) - Inspired by: https://bl.ocks.org/tomshanley/0a024581fd0b7c4e483203d5bff9631b
 - [concept-maps](https://github.com/rstudio/concept-maps) - Concept maps for all things data science
@@ -796,6 +795,7 @@
 
 ## Java 
 
+- [actuarialcalculator](https://github.com/thfreud/actuarialcalculator) - A simple mathematical software application for life insurance and annuities.
 - [jdk](https://github.com/openjdk/jdk) - JDK main-line development
 - [milkman](https://github.com/warmuuh/milkman) - 
 - [selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
@@ -816,6 +816,10 @@
 
 ## JavaScript 
 
+- [npm-install](https://github.com/bahmutov/npm-install) - GitHub Action for install npm dependencies with caching without any configuration
+- [Loss-Data-Analytics](https://github.com/ewfrees/Loss-Data-Analytics) - Loss Data Analytics is an interactive, online, freely available text. It provides core training on one of the foundations of actuarial science, loss data modeling.
+- [Loss-Data-Analytics](https://github.com/OpenActTexts/Loss-Data-Analytics) - Loss Data Analytics is an interactive, online, freely available text. It provides core training on one of the foundations of actuarial science, loss data modeling.
+- [RedditSmartShareChrome](https://github.com/RedditSmartShare/RedditSmartShareChrome) - 
 - [shinyServeExamples](https://github.com/yusuzech/shinyServeExamples) - 
 - [flexdashboard](https://github.com/rstudio/flexdashboard) - Easy interactive dashboards for R
 - [github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) - 🔥 Add Programming Quotes To Your GitHub Readme
@@ -1277,6 +1281,8 @@
 
 ## Jupyter Notebook 
 
+- [covid_19_data](https://github.com/casact/covid_19_data) - Data collection and exploratory analysis related to COVID-19 for general insurance actuaries and the public
+- [actuary](https://github.com/validatehealth/actuary) - Python code examples to support the Python for Actuaries webinars sponsored by ACTEX Learning
 - [cracking-the-data-science-interview](https://github.com/khanhnamle1994/cracking-the-data-science-interview) - A Collection of Cheatsheets, Books, Questions, and Portfolio For DS/ML Interview Prep
 - [gists](https://github.com/wayfair-contribs/gists) - because you can't create gists as an organization
 - [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
@@ -1352,6 +1358,11 @@
 
 ## Others 
 
+- [open-actuarial-site](https://github.com/robbie-sp/open-actuarial-site) - Website for Open Actuarial
+- [research-papers](https://github.com/casact/research-papers) - This will house subprojects associated with research papers sponsored by the CAS
+- [meta](https://github.com/casact/meta) - Information about the CAS organizational account
+- [IndClaimDev](https://github.com/robbie-sp/IndClaimDev) - Individual Claim Development Model for General (P&C) Insurance Claims
+- [actuarial-foss](https://github.com/genedan/actuarial-foss) - A curated list of free and open source actuarial software
 - [markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your Profile and Projects.
 - [DenverCoder1](https://github.com/DenverCoder1/DenverCoder1) - Profile README for DenverCoder1
 - [jimbrig](https://github.com/jimbrig/jimbrig) - Github Homepage
@@ -1918,6 +1929,9 @@
 
 ## Python 
 
+- [PCDM](https://github.com/casact/PCDM) - Property Casualty Data Model Specification
+- [MIES](https://github.com/genedan/MIES) - Miniature Insurance Economic Simulator
+- [tidyverse_notes](https://github.com/yusuzech/tidyverse_notes) - Avoid common mistake and write efficient codes in tidyverse.
 - [pyUtility](https://github.com/yusuzech/pyUtility) - utility functions
 - [groupme_stats](https://github.com/youyanggu/groupme_stats) - Tool to download and optionally display interesting stats about GroupMe messages
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
@@ -2109,6 +2123,18 @@
 
 ## R 
 
+- [lossrunAnalyzer](https://github.com/jimbrig/lossrunAnalyzer) - R Package and Shiny App to Analyze Insurance Lossruns
+- [triangleStat](https://github.com/bparvanov1/triangleStat) - Generate IBNR data with R
+- [distributacalcul](https://github.com/alec42/distributacalcul) - Calculatrice de moments, mesures de risques, fonctions de densité et répartition, et plus pour plusieurs distributions continues, discrètes et composées. Un outil crée avec les étudiants en actuariat à l'Université Laval en tête.
+- [tidylife](https://github.com/robjhyndman/tidylife) - Tidy Analysis Tools for Mortality, Fertility, Migration and Population Data
+- [funtsibble](https://github.com/robjhyndman/funtsibble) - R package for functional time series based on tsibbles
+- [reproducible-actuarial-work](https://github.com/philipdarke/reproducible-actuarial-work) - Reproducible data science techniques in actuarial work
+- [mbbefd](https://github.com/spedygiorgio/mbbefd) - Destruction rate modeling with the Maxwell Boltzmann Bose Einstein Fermi Dirac (MBBEFD) distribution
+- [favir](https://github.com/cran/favir) - Formatted Actuarial Vignettes in R
+- [demography](https://github.com/robjhyndman/demography) - demography package for R
+- [SOMbrero](https://github.com/tuxette/SOMbrero) - 
+- [tibbleprint](https://github.com/moodymudskipper/tibbleprint) - Print Data Frames Like Tibbles
+- [datasearch](https://github.com/moodymudskipper/datasearch) - Find Datasets Observing Specific Conditions
 - [r2d3-graphs](https://github.com/yusuzech/r2d3-graphs) - Make graphs in D3 and create templates for r2d3 package
 - [shinySessionTracker](https://github.com/yusuzech/shinySessionTracker) - Track user behaviors in shiny sessions.
 - [R6_examples](https://github.com/yusuzech/R6_examples) - Create some examples for using R6.
@@ -3936,6 +3962,7 @@
 
 ## Shell 
 
+- [CS2](https://github.com/agarbiak/CS2) - R code examples for IFoA's CS2 - risk modelling and survival analysis
 - [bootcamp](https://github.com/openecs/bootcamp) - Hands-on DevOps workshop
 - [rust-cookbook](https://github.com/rust-lang-nursery/rust-cookbook) - https://rust-lang-nursery.github.io/rust-cookbook
 - [dotfilesync](https://github.com/snvishna/dotfilesync) - A bash script that syncs a list of local files that you define, into a secret gist, that you own.
@@ -4085,6 +4112,13 @@
 
 ## TeX 
 
+- [bspagedjs](https://github.com/maelle/bspagedjs) - Playing with bookdown::bs4_book() and pagedjs-cli to get both HTML and PDF book out of the same Rmd products.
+- [predictive-analytics-supplementary-notes](https://github.com/Daniellinders/predictive-analytics-supplementary-notes) - Supplementary notes to Daniel Linders's lectures on predictive analytics with insurance and actuarial science applications.
+- [rp-bnn-claims](https://github.com/casact/rp-bnn-claims) - Individual Claims Forecasting with Bayesian Mixture Density Networks
+- [rmd4sci](https://github.com/robjhyndman/rmd4sci) - Rmarkdown for Scientists
+- [Rmarkdown2020](https://github.com/robjhyndman/Rmarkdown2020) - Talk for Rstudio conf
+- [ResearchHabits](https://github.com/robjhyndman/ResearchHabits) - Talk to honours students on developing good research habits
+- [LDARcode](https://github.com/OpenActTexts/LDARcode) - R Code to Support the Loss Data Analytics Book
 - [scholmd](https://github.com/scholmd/scholmd) - Learn how to use scholarly markdown
 - [markdown_science](https://github.com/karthik/markdown_science) - Learn how to use markdown for science
 - [bib](https://github.com/tallguyjenks/bib) - my biber file for all relevant references i make
@@ -4167,6 +4201,7 @@
 - [vscode-mssql](https://github.com/microsoft/vscode-mssql) - Visual Studio Code SQL Server extension.
 - [vscode-live-server](https://github.com/ritwickdey/vscode-live-server) - Launch a development local Server with live reload feature for static & dynamic pages.
 - [ketting](https://github.com/badgateway/ketting) - Ketting is a Hypermedia client for javascript
+- [vscode-docker](https://github.com/microsoft/vscode-docker) - Docker extension for Visual Studio Code
 - [use-asset](https://github.com/pmndrs/use-asset) - 📦  A data fetching strategy for React Suspense
 - [github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
 - [docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
