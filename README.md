@@ -288,6 +288,7 @@
 
 ## CSS 
 
+- [obsidian-minimal](https://github.com/kepano/obsidian-minimal) - Minimal theme for Obsidian
 - [tooltipsterR](https://github.com/timelyportfolio/tooltipsterR) - R htmlwidget for tooltipster
 - [Rgitbook](https://github.com/jbryer/Rgitbook) - Gitbook for R Markdown
 - [wondr-blog](https://github.com/alandipert/wondr-blog) - Source code for my R blog
@@ -422,6 +423,7 @@
 
 ## Dockerfile 
 
+- [dockerfiles](https://github.com/dirmeier/dockerfiles) - A collection of docker files.
 - [obsidiand-docker](https://github.com/chrishasl/obsidiand-docker) - Easily provision obsidiand using Docker
 - [register](https://github.com/codecheckers/register) - Register of CODECHECK certificates
 - [awesome-cloudrun](https://github.com/steren/awesome-cloudrun) - 👓 ⏩ A curated list of resources about all things Cloud Run
@@ -537,6 +539,7 @@
 
 ## HTML 
 
+- [hugo-theme-introduction](https://github.com/victoriadrake/hugo-theme-introduction) - Minimal, single page, smooth-scrolling theme for Hugo static site generator.
 - [validation](https://github.com/thebioengineer/validation) - Repository for Validation of R Packages
 - [javascript-for-r](https://github.com/JohnCoene/javascript-for-r) - JavaScript for R CRC Book
 - [xran](https://github.com/yihui/xran) - Xie's R Archive Network (experimental and for my personal interest only)
@@ -795,6 +798,7 @@
 
 ## Java 
 
+- [timetable](https://github.com/fwcd/timetable) - Calendar and task management application
 - [actuarialcalculator](https://github.com/thfreud/actuarialcalculator) - A simple mathematical software application for life insurance and annuities.
 - [jdk](https://github.com/openjdk/jdk) - JDK main-line development
 - [milkman](https://github.com/warmuuh/milkman) - 
@@ -816,6 +820,12 @@
 
 ## JavaScript 
 
+- [generator-generator](https://github.com/yeoman/generator-generator) - Generate a Yeoman generator
+- [docker-nginx-vue-express-node-sqlite-app-template](https://github.com/dirmeier/docker-nginx-vue-express-node-sqlite-app-template) - A template for a web-app.
+- [generator-newpackage](https://github.com/kirillseva/generator-newpackage) - Scaffold your new R package
+- [wiki](https://github.com/westurner/wiki) - https://westurner.org/wiki
+- [gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
+- [github-diff-navigator-extension](https://github.com/daattali/github-diff-navigator-extension) - Chrome/Firefox extension that allows you to easily navigate through the changes in a file that has been edited on GitHub.
 - [npm-install](https://github.com/bahmutov/npm-install) - GitHub Action for install npm dependencies with caching without any configuration
 - [Loss-Data-Analytics](https://github.com/ewfrees/Loss-Data-Analytics) - Loss Data Analytics is an interactive, online, freely available text. It provides core training on one of the foundations of actuarial science, loss data modeling.
 - [Loss-Data-Analytics](https://github.com/OpenActTexts/Loss-Data-Analytics) - Loss Data Analytics is an interactive, online, freely available text. It provides core training on one of the foundations of actuarial science, loss data modeling.
@@ -1281,6 +1291,8 @@
 
 ## Jupyter Notebook 
 
+- [notebooks](https://github.com/westurner/notebooks) - Jupyter notebooks (.ipynb, data) https://westurner.org/notebooks/
+- [probability](https://github.com/dirmeier/probability) - Probabilistic reasoning and statistical analysis in TensorFlow
 - [covid_19_data](https://github.com/casact/covid_19_data) - Data collection and exploratory analysis related to COVID-19 for general insurance actuaries and the public
 - [actuary](https://github.com/validatehealth/actuary) - Python code examples to support the Python for Actuaries webinars sponsored by ACTEX Learning
 - [cracking-the-data-science-interview](https://github.com/khanhnamle1994/cracking-the-data-science-interview) - A Collection of Cheatsheets, Books, Questions, and Portfolio For DS/ML Interview Prep
@@ -1358,6 +1370,9 @@
 
 ## Others 
 
+- [rstan](https://github.com/dirmeier/rstan) - RStan, the R interface to Stan
+- [essential-R](https://github.com/dirmeier/essential-R) - :blue_book: Essential tools and libraries for programming in R
+- [subject](https://github.com/jcub-cms/subject) - Subject details for CP3402 & CP5637 - Content Management Systems, IT@JCU
 - [open-actuarial-site](https://github.com/robbie-sp/open-actuarial-site) - Website for Open Actuarial
 - [research-papers](https://github.com/casact/research-papers) - This will house subprojects associated with research papers sponsored by the CAS
 - [meta](https://github.com/casact/meta) - Information about the CAS organizational account
@@ -1929,6 +1944,8 @@
 
 ## Python 
 
+- [pgs](https://github.com/westurner/pgs) - Serve a directory or a git revision over HTTP with Bottle and WSGI; and try_files $1.html https://pypi.python.org/pypi/pgs
+- [Commander](https://github.com/Keeper-Security/Commander) - Keeper Commander
 - [PCDM](https://github.com/casact/PCDM) - Property Casualty Data Model Specification
 - [MIES](https://github.com/genedan/MIES) - Miniature Insurance Economic Simulator
 - [tidyverse_notes](https://github.com/yusuzech/tidyverse_notes) - Avoid common mistake and write efficient codes in tidyverse.
@@ -2123,6 +2140,20 @@
 
 ## R 
 
+- [shiny-auto-refresh](https://github.com/colearendt/shiny-auto-refresh) - JavaScript auto-refresh playground in a Shiny app
+- [shiny-shell](https://github.com/colearendt/shiny-shell) - A Shiny app that exposes a simple (and not secure) shell
+- [shinycookie](https://github.com/colearendt/shinycookie) - Cookies in Shiny
+- [r-docker-ex](https://github.com/colearendt/r-docker-ex) - A simple example of using R with docker
+- [mischelper](https://github.com/dracodoc/mischelper) - RStudio Addin that collected several miscellaneous helper functions to save some time
+- [example-r-analysis](https://github.com/klmr/example-r-analysis) - An example for an R analysis workflow using a Makefile, shell scripts and Knitr
+- [knitrhooks](https://github.com/nathaneastwood/knitrhooks) - Extend {knitr} with hooks
+- [rstanarm](https://github.com/dirmeier/rstanarm) - rstanarm R package for Bayesian applied regression modeling
+- [dag-gnn](https://github.com/dirmeier/dag-gnn) - A variational autoencoder to learn the DAG of a structural equations model
+- [netReg](https://github.com/dirmeier/netReg) - :bar_chart: Generalized linear regression models with network-regularization in R.
+- [R-bones](https://github.com/dirmeier/R-bones) - A yeoman-generator for R projects.
+- [tidyverse-dev-day](https://github.com/mitchelloharawild/tidyverse-dev-day) - Shiny app for tracking tidyverse developer day issues
+- [shinyApps](https://github.com/sebkopf/shinyApps) - collection of shiny apps
+- [cranalerts](https://github.com/daattali/cranalerts) - Get email alerts when a CRAN package gets updated
 - [lossrunAnalyzer](https://github.com/jimbrig/lossrunAnalyzer) - R Package and Shiny App to Analyze Insurance Lossruns
 - [triangleStat](https://github.com/bparvanov1/triangleStat) - Generate IBNR data with R
 - [distributacalcul](https://github.com/alec42/distributacalcul) - Calculatrice de moments, mesures de risques, fonctions de densité et répartition, et plus pour plusieurs distributions continues, discrètes et composées. Un outil crée avec les étudiants en actuariat à l'Université Laval en tête.
@@ -3321,7 +3352,7 @@
 - [foofactors](https://github.com/jennybc/foofactors) - Make Factors Less Aggravating
 - [expectdata](https://github.com/dgarmat/expectdata) - Test Expectations of a Data Frame
 - [pkgkitten](https://github.com/eddelbuettel/pkgkitten) - Create simple packages which pass R CMD check
-- [template](https://github.com/Pakillo/template) - A template for research or data analysis projects structured as R packages
+- [template](https://github.com/Pakillo/template) - A template for data analysis projects structured as R packages
 - [datapack](https://github.com/ropensci/datapack) - An R package to handle data packages
 - [rdataretriever](https://github.com/ropensci/rdataretriever) - R interface to the Data Retriever
 - [tinytest](https://github.com/markvanderloo/tinytest) - A lightweight, no-dependency, but full-featured package for unit testing in R
@@ -4271,6 +4302,7 @@
 
 ## Vim script 
 
+- [dotfiles](https://github.com/dirmeier/dotfiles) - Collection of dotfiles.
 - [vim-dot](https://github.com/smbache/vim-dot) - quick drop of vim dot files
 - [.dotfiles](https://github.com/tallguyjenks/.dotfiles) - My dot files
 - [win_dotfiles](https://github.com/Surumerf/win_dotfiles) - Dotfiles for Windows
