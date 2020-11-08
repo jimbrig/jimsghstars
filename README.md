@@ -15,6 +15,7 @@
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
   - [Common Lisp](#common-lisp)
+  - [D](#d)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Elixir](#elixir)
@@ -83,6 +84,7 @@
 
 ## Batchfile 
 
+- [ws-folder-template-provisioner](https://github.com/wandersick/ws-folder-template-provisioner) - This Windows batch script provisions (copies) new folders with exact permissions and content from a specified existing folder (template) based on the information (first name and last name) inputted by a user via its command-line interface.
 - [wt-contextmenu](https://github.com/nt4f04uNd/wt-contextmenu) - A short guide with batch files to add windows terminal to windows context menu
 - [dotfiles-windows](https://github.com/snovvcrash/dotfiles-windows) - Dotfiles for Windows boxes
 - [offlineinsiderenroll](https://github.com/abbodi1406/offlineinsiderenroll) - OfflineInsiderEnroll - A script to enable access to the Windows Insider Program on machines not signed in with Microsoft Account
@@ -148,6 +150,13 @@
 
 ## C# # 
 
+- [Somewhere](https://github.com/chaojian-zhang/Somewhere) - A tag based file management system.
+- [clippy](https://github.com/refactorsaurusrex/clippy) - "Copy as path"... but better
+- [wtfd](https://github.com/garyng/wtfd) - What This Folder Does? — Documentation for folders.
+- [FolderBackup](https://github.com/DuAell/FolderBackup) - Backup folders and restore them easily using pre-defined path configurations
+- [UltimateFileManager](https://github.com/FulanoD3Tal/UltimateFileManager) - C# library to manipulate files and folders in Windows enviroment
+- [file-organizer](https://github.com/b3coded/file-organizer) - :rocket: Organize your files faster with a few clicks.
+- [Quick-File-Organizer](https://github.com/saulojoab/Quick-File-Organizer) - :rocket: Quickly organize files in a folder with a few clicks.
 - [certify](https://github.com/webprofusion/certify) - SSL Certificate Manager UI for Windows, powered by Let's Encrypt. Download from certifytheweb.com
 - [MarkdownMonster](https://github.com/RickStrahl/MarkdownMonster) - An extensible Markdown Editor, Viewer and Weblog Publisher for Windows
 - [Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - Creative and unusual things that can be done with the Windows API.
@@ -211,6 +220,8 @@
 
 ## C++ 
 
+- [vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
+- [file-structures-organization-and-processing](https://github.com/mhmelshaaer/file-structures-organization-and-processing) - Implementing basic file manipulations concepts and algorithms in c++
 - [skift](https://github.com/skiftOS/skift) - 🥑 A simple, handmade, operating system with a graphical user interface.
 - [LEMMA](https://github.com/LocalEpi/LEMMA) - Local  Epidemic Modeling for Management & Action (LEMMA)
 - [websocket](https://github.com/rstudio/websocket) - WebSocket client for R
@@ -415,6 +426,10 @@
 
 - [nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - Be productive.
 
+## D 
+
+- [RESYNC](https://github.com/senselogic/RESYNC) - Local folder synchronizer.
+
 ## Dart 
 
 - [next-joke](https://github.com/Maddoxx88/next-joke) - Random Two Part Joke App using Flutter.
@@ -451,6 +466,8 @@
 
 ## Go 
 
+- [folder-manager](https://github.com/DataHearth/folder-manager) - Open source folder manager with encryption/decryption feature, watching folders/files.
+- [diskusage](https://github.com/aleksaan/diskusage) - Searching for top largest folders/files on the disk.
 - [blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
 - [maintainer](https://github.com/gaocegege/maintainer) - :octocat: :man_technologist: :whale: Generate personal daily reports or summary, AUTHORS, CONTRIBUTING, CHANGELOG and so on for GitHub user or repository.
 - [limo](https://github.com/lucmski/limo) - A CLI for managing starred Git repositories
@@ -539,6 +556,7 @@
 
 ## HTML 
 
+- [goffer](https://github.com/xxxzeus/goffer) - Beautiful and basic file manager written on electron.js
 - [hugo-theme-introduction](https://github.com/victoriadrake/hugo-theme-introduction) - Minimal, single page, smooth-scrolling theme for Hugo static site generator.
 - [validation](https://github.com/thebioengineer/validation) - Repository for Validation of R Packages
 - [javascript-for-r](https://github.com/JohnCoene/javascript-for-r) - JavaScript for R CRC Book
@@ -820,6 +838,13 @@
 
 ## JavaScript 
 
+- [Mr.Dclutterer](https://github.com/deep5050/Mr.Dclutterer) - A Minimal Looking Cross-Platform Desktop Application Made With Electron That Handles Quick File Aggregation And Bulk Renaming
+- [folderize](https://github.com/9-43/folderize) - Copy files from multiple sources into a single folder sorted by their modification date while preventing duplicate content.
+- [dir-snap](https://github.com/LanceTurri/dir-snap) - A library for comparing snapshots of files and folders on your system.
+- [local-share](https://github.com/toan2406/local-share) - Share your folders/files in local network
+- [empty-dir](https://github.com/gulpjs/empty-dir) - Check if a directory is empty.
+- [DownGit](https://github.com/MinhasKamal/DownGit) - Create GitHub Resource Download Link (git-github-direct-zip-directory-folder-file)
+- [ftags](https://github.com/miriti/ftags) - Command-line files tagging tool
 - [generator-generator](https://github.com/yeoman/generator-generator) - Generate a Yeoman generator
 - [docker-nginx-vue-express-node-sqlite-app-template](https://github.com/dirmeier/docker-nginx-vue-express-node-sqlite-app-template) - A template for a web-app.
 - [generator-newpackage](https://github.com/kirillseva/generator-newpackage) - Scaffold your new R package
@@ -1343,6 +1368,7 @@
 
 ## Makefile 
 
+- [relink](https://github.com/maandree/relink) - A simple utility that modifies your symlinks
 - [rocker-tiledb](https://github.com/eddelbuettel/rocker-tiledb) - Unofficial Development Docker files for R and TileDB
 - [awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [gitpr](https://github.com/susam/gitpr) - Quick reference guide on fork and pull request workflow
@@ -1370,6 +1396,9 @@
 
 ## Others 
 
+- [hamster-system](https://github.com/slowernews/hamster-system) - Ultra-simple framework to organize your life.
+- [organize-my-files](https://github.com/Qiplex/organize-my-files) - One-click file organizer for Windows, Mac and Linux
+- [backup-folders](https://github.com/bjoern-hempel/backup-folders) - A script to easily backup folders.
 - [rstan](https://github.com/dirmeier/rstan) - RStan, the R interface to Stan
 - [essential-R](https://github.com/dirmeier/essential-R) - :blue_book: Essential tools and libraries for programming in R
 - [subject](https://github.com/jcub-cms/subject) - Subject details for CP3402 & CP5637 - Content Management Systems, IT@JCU
@@ -1878,6 +1907,8 @@
 
 ## PowerShell 
 
+- [SgtPoSh](https://github.com/stephengtuggy/SgtPoSh) - A collection of several of my most useful PowerShell scripts
+- [GetSTFolderSize](https://github.com/EliteLoser/GetSTFolderSize) - Get folder sizes blazingly fast with PowerShell
 - [WSL](https://github.com/MicrosoftDocs/WSL) - Source code behind the Windows Subsystem for Linux documentation.
 - [dotfiles](https://github.com/Laoujin/dotfiles) - Sync Windows configuration, program settings, dotfiles and PowerShell profiles
 - [Chocolatey-Packages](https://github.com/jivkok/Chocolatey-Packages) - Repo for hosting Chocolatey packages
@@ -1944,6 +1975,20 @@
 
 ## Python 
 
+- [Python-auto-folder-organise](https://github.com/arsalanj123/Python-auto-folder-organise) - Automatically organise your windows folders according to extensions
+- [move-my-files](https://github.com/jan25/move-my-files) - mmf is a CLI tool to organise files on your computer
+- [PC-Automation](https://github.com/arturmark/PC-Automation) - Anything what helps to improve productivity with work on PC.
+- [Folder-Organiser](https://github.com/mohitsharmaaa/Folder-Organiser) - Folder Organiser / Desktop Cleaner
+- [Monitoring-Folder](https://github.com/lucioerlan/Monitoring-Folder) - 🐑 Monitor the status of a folder on your system
+- [gitdir](https://github.com/sdushantha/gitdir) - 📁 Download a single directory/folder from a GitHub repo
+- [folder-organizer](https://github.com/ibLeDy/folder-organizer) - Move all the files that match set extensions to a windows-like folder structure
+- [file-sorter](https://github.com/AndriiVal/file-sorter) - This GUI tool will help you to end the chaos of your unorganized files in just a few clicks
+- [file-mover](https://github.com/tekord/file-mover) - Batch file moving based on rules in YAML file
+- [cluttermanager](https://github.com/puneet29/cluttermanager) - Sort out your files into folders using Clutter Manager
+- [reorder](https://github.com/Geekdude/reorder) - Script to rename, reorder, add, and remove files in a directory with a numerical naming scheme.
+- [Windows-File-Organizer](https://github.com/Dhirru12/Windows-File-Organizer) - Will sort files into folders based on file type
+- [filetracker](https://github.com/qks1lver/filetracker) - Super lightweight program to keep track of files you already have
+- [File-Sorter](https://github.com/smahesh29/File-Sorter) - This is a python program for sorting files.
 - [pgs](https://github.com/westurner/pgs) - Serve a directory or a git revision over HTTP with Bottle and WSGI; and try_files $1.html https://pypi.python.org/pypi/pgs
 - [Commander](https://github.com/Keeper-Security/Commander) - Keeper Commander
 - [PCDM](https://github.com/casact/PCDM) - Property Casualty Data Model Specification
@@ -2140,6 +2185,13 @@
 
 ## R 
 
+- [insight](https://github.com/easystats/insight) - :crystal_ball: Easy access to model information for various model objects
+- [brochure](https://github.com/ColinFay/brochure) - [WIP - do not use] Build multipage 'shiny' apps
+- [colorizer](https://github.com/zumbov2/colorizer) - An R wrapper for the DeOldify image colorization API on DeepAI.
+- [basicfinancial](https://github.com/karlp-asrs/basicfinancial) - 
+- [rdataone](https://github.com/DataONEorg/rdataone) - R package for reading and writing data at DataONE data repositories
+- [om_skeleton](https://github.com/open-meta/om_skeleton) - This is a public, reusable skeleton for building multi-page, multi-user web sites with authentication. Based on R and Shiny.
+- [uiStub](https://github.com/open-meta/uiStub) - Demonstration of how to create a URL-based, multi-page Shiny web site.
 - [shiny-auto-refresh](https://github.com/colearendt/shiny-auto-refresh) - JavaScript auto-refresh playground in a Shiny app
 - [shiny-shell](https://github.com/colearendt/shiny-shell) - A Shiny app that exposes a simple (and not secure) shell
 - [shinycookie](https://github.com/colearendt/shinycookie) - Cookies in Shiny
@@ -2697,8 +2749,8 @@
 - [charter](https://github.com/JohnCoene/charter) - Chart.js for R
 - [statnet.common](https://github.com/statnet/statnet.common) - Common R Scripts and Utilities Used by the Statnet Project Software
 - [dashboardThemeDesigner](https://github.com/nik01010/dashboardThemeDesigner) - Live shinydashboard theme designer
-- [debugr](https://github.com/jsugarelli/debugr) - Debug Tool to Watch Objects/Expressions While Running an R Script
-- [packagefinder](https://github.com/jsugarelli/packagefinder) - R package that provides tools to search for R packages on CRAN from within the R console.
+- [debugr](https://github.com/jsugarelli/debugr) - Debug tool to watch objects/expressions while running an R script
+- [packagefinder](https://github.com/jsugarelli/packagefinder) - Comfortable search for R packages on CRAN, either directly from the R console or with an R Studio add-in
 - [hex-stickers](https://github.com/rstudio/hex-stickers) - RStudio hex stickers
 - [recipes](https://github.com/R-macos/recipes) - System for building static dependent libraries for CRAN packages
 - [bulletchartr](https://github.com/ACDIVOCATech/bulletchartr) - This package builds bullet charts suitable for tracking KPIs, and used by ACDI/VOCA to track progress against indicators
@@ -2942,7 +2994,6 @@
 - [tie](https://github.com/romainfrancois/tie) - Multiple output version of dplyr::summarise
 - [hybrid](https://github.com/romainfrancois/hybrid) - Playground for hybrid evaluation
 - [silgelib](https://github.com/juliasilge/silgelib) - Personal R package
-- [trump](https://github.com/romainfrancois/trump) - Will you shut up man ..
 - [rap](https://github.com/romainfrancois/rap) - yet another experimental way of processing a data.frame rowwisely
 - [broomExtra](https://github.com/IndrajeetPatil/broomExtra) - Helpers for regression analyses using `broom` & `easystats` packages  📈 🔍
 - [warp](https://github.com/DavisVaughan/warp) - Group Dates
@@ -2962,7 +3013,6 @@
 - [liftr](https://github.com/nanxstats/liftr) - 🐳 Containerize R Markdown documents for continuous reproducibility
 - [completejourney](https://github.com/bradleyboehmke/completejourney) - An R data 📦 of retail shopping transactions for 2469 households over one year
 - [passhelpr](https://github.com/maxheld83/passhelpr) - Gets a password, in that order from 1) env var, 2) system keychain, 3) prompt
-- [2019-r-package-development-workshop](https://github.com/rladies-irvine/2019-r-package-development-workshop) - All materials presented in the R-Ladies Irvine 2019 R Package Development Workshop
 - [shinytestPackageExample](https://github.com/rstudio/shinytestPackageExample) - Example package that uses shinytest to test application created by a function
 - [terminaltools](https://github.com/rstudio/terminaltools) - RStudio addin with additional commands for the integrated terminal pane
 - [drat](https://github.com/eddelbuettel/drat) - Drat R Archive Template
@@ -3993,6 +4043,11 @@
 
 ## Shell 
 
+- [sydf](https://github.com/filiparag/sydf) - Symlink Your Damn Files
+- [zsh-johnnydecimal](https://github.com/CRTified/zsh-johnnydecimal) - Collection of zsh scripts for working with Johnny.Decimal structure https://johnnydecimal.com/
+- [directory-cli-tool](https://github.com/dennyzhang/directory-cli-tool) - :file_folder: CLI tools for directories
+- [dirjumper](https://github.com/akoskovacs/dirjumper) - Jump between directories via aliases
+- [ansible-for-kubernetes](https://github.com/geerlingguy/ansible-for-kubernetes) - Ansible and Kubernetes examples from Ansible for Kubernetes Book
 - [CS2](https://github.com/agarbiak/CS2) - R code examples for IFoA's CS2 - risk modelling and survival analysis
 - [bootcamp](https://github.com/openecs/bootcamp) - Hands-on DevOps workshop
 - [rust-cookbook](https://github.com/rust-lang-nursery/rust-cookbook) - https://rust-lang-nursery.github.io/rust-cookbook
@@ -4143,6 +4198,8 @@
 
 ## TeX 
 
+- [probability_cheatsheet](https://github.com/wzchen/probability_cheatsheet) - A comprehensive 10-page probability cheatsheet that covers a semester's worth of introduction to probability.
+- [R_for_Data_Science](https://github.com/perlatex/R_for_Data_Science) - Materials for teaching R and tidyverse
 - [bspagedjs](https://github.com/maelle/bspagedjs) - Playing with bookdown::bs4_book() and pagedjs-cli to get both HTML and PDF book out of the same Rmd products.
 - [predictive-analytics-supplementary-notes](https://github.com/Daniellinders/predictive-analytics-supplementary-notes) - Supplementary notes to Daniel Linders's lectures on predictive analytics with insurance and actuarial science applications.
 - [rp-bnn-claims](https://github.com/casact/rp-bnn-claims) - Individual Claims Forecasting with Bayesian Mixture Density Networks
@@ -4195,6 +4252,8 @@
 
 ## TypeScript 
 
+- [zip](https://github.com/papb/zip) - Zipping & unzipping, simplified.
+- [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [profile-readme](https://github.com/actions-js/profile-readme) - 🗣 Display profile activity and other cool widgets in your profile README.md
 - [sao](https://github.com/saojs/sao) - ⚔ Futuristic scaffolding tool
 - [random-starred-repo](https://github.com/LaksCastro/random-starred-repo) - 💡 A tiny website to open random repositories that you starred, available in: https://lakscastro.github.io/random-starred-repo
