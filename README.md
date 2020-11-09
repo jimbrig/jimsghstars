@@ -220,6 +220,7 @@
 
 ## C++ 
 
+- [QtSemanticNotes](https://github.com/YoukaiCat/QtSemanticNotes) - QtSemanticNotes is a personal knowledge base, personal wiki or just note taking application that features automatic linking, tree view and tags. Inspired by WikidPad and Zim.
 - [vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [file-structures-organization-and-processing](https://github.com/mhmelshaaer/file-structures-organization-and-processing) - Implementing basic file manipulations concepts and algorithms in c++
 - [skift](https://github.com/skiftOS/skift) - 🥑 A simple, handmade, operating system with a graphical user interface.
@@ -287,7 +288,6 @@
 - [tidyxl](https://github.com/nacnudus/tidyxl) - Read untidy Excel files in R https://nacnudus.github.io/tidyxl/
 - [refinr](https://github.com/ChrisMuir/refinr) - Cluster and merge similar char values: an R implementation of Open Refine clustering algorithms
 - [semver](https://github.com/johndharrison/semver) - 'Semantic Versioning V2.0.0' Parser and Renderer
-- [RClickhouse](https://github.com/IMSMWU/RClickhouse) - A 'DBI' Interface to the Yandex Clickhouse Database Providing Basic 'dplyr' Support
 - [jsonify](https://github.com/SymbolixAU/jsonify) - R package to convert R objects to JSON
 - [subprocess](https://github.com/lbartnik/subprocess) - 
 - [later](https://github.com/r-lib/later) - Schedule an R function or formula to run after a specified period of time.
@@ -299,6 +299,10 @@
 
 ## CSS 
 
+- [betterObsidian](https://github.com/phibr0/betterObsidian) - My CSS Theme for the Obsidian Note Taking App.
+- [gitsidian](https://github.com/ishgunacar/gitsidian) - An obsidian theme inspired by GitHub markdown styles
+- [foamy-nextjs](https://github.com/yenly/foamy-nextjs) - Basic Foam + NextJS with MDX starter for building a digital garden
+- [vault](https://github.com/luissimas/vault) - Obsidian vault
 - [obsidian-minimal](https://github.com/kepano/obsidian-minimal) - Minimal theme for Obsidian
 - [tooltipsterR](https://github.com/timelyportfolio/tooltipsterR) - R htmlwidget for tooltipster
 - [Rgitbook](https://github.com/jbryer/Rgitbook) - Gitbook for R Markdown
@@ -334,7 +338,6 @@
 - [pensieve](https://github.com/nerdalot/pensieve) - My notes using loosely the Zettelkasten method and the app Obsidian
 - [obsidian-css-tweaks](https://github.com/lucasrla/obsidian-css-tweaks) - A few (minimal) tweaks and fixes to Obsidian's CSS
 - [Obsidian-JG-Method](https://github.com/joshwingreene/Obsidian-JG-Method) - A starter kit that follows how I use Obsidian to manage my goals, tasks, notes, and software development knowledge base.
-- [obsidian-docs](https://github.com/obsidianmd/obsidian-docs) - Help documentation for Obsidian
 - [bootsy](https://github.com/gillesbertaux/bootsy) - Bootstrap small projects and keep them organized with a simple folder structure.
 - [skeleton](https://github.com/ColinFay/skeleton) - Skeleton CSS for Shiny
 - [shinyInputs](https://github.com/Beachnad/shinyInputs) - 
@@ -432,6 +435,7 @@
 
 ## Dart 
 
+- [GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [next-joke](https://github.com/Maddoxx88/next-joke) - Random Two Part Joke App using Flutter.
 - [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
 - [hivedb_flutter_saved_list_sample](https://github.com/atiqsamtia/hivedb_flutter_saved_list_sample) - Sample for Getting list of saved items in a box.
@@ -466,6 +470,7 @@
 
 ## Go 
 
+- [note-maps](https://github.com/google/note-maps) - A personal knowledge base intended for use on mobile devices.
 - [folder-manager](https://github.com/DataHearth/folder-manager) - Open source folder manager with encryption/decryption feature, watching folders/files.
 - [diskusage](https://github.com/aleksaan/diskusage) - Searching for top largest folders/files on the disk.
 - [blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
@@ -556,6 +561,8 @@
 
 ## HTML 
 
+- [nyt-2020-election-scraper](https://github.com/alex/nyt-2020-election-scraper) - 
+- [notenote.link](https://github.com/Maxence-L/notenote.link) - A digital garden using a custom version of simply-jekyll, optimised for integration with Obsidian. It is more oriented on note-taking and aims to help you build a nice knowledge base that can scale with time.
 - [goffer](https://github.com/xxxzeus/goffer) - Beautiful and basic file manager written on electron.js
 - [hugo-theme-introduction](https://github.com/victoriadrake/hugo-theme-introduction) - Minimal, single page, smooth-scrolling theme for Hugo static site generator.
 - [validation](https://github.com/thebioengineer/validation) - Repository for Validation of R Packages
@@ -838,6 +845,16 @@
 
 ## JavaScript 
 
+- [pgtune](https://github.com/le0pard/pgtune) - Pgtune - tuning PostgreSQL config by your hardware
+- [quicksettings](https://github.com/bit101/quicksettings) - JavaScript library for making a quick settings panel to control code parameters.
+- [obsidian-link-indexer](https://github.com/aviskase/obsidian-link-indexer) - 
+- [browser-extension](https://github.com/dnote/browser-extension) - Instantly take encrypted notes inside Chrome or Firefox
+- [learning-notes](https://github.com/slowernews/learning-notes) - Notes on programming (frontend, chrome extensions), portuguese taxes, polish language .. (WIP)
+- [notebook](https://github.com/wayanjimmy/notebook) - Personal notes
+- [dschapman-com](https://github.com/dschapman/dschapman-com) - Gatsby Blog built as a digital garden. It's is meant to be curated, read, and explored. Trying to think about this as a place I want to use first and foremost.
+- [next-mdx-digital-garden-starter](https://github.com/RyanWarner/next-mdx-digital-garden-starter) - An opinionated starting point for Digital Garden content authoring.
+- [digital-garden](https://github.com/eliciaauduong/digital-garden) - An ongoing work in progress of all my thoughts and notes.
+- [digital-garden](https://github.com/johno/digital-garden) - 🌻[WIP] Gatsby Theme to build your own digital garden 🌻🥀🌸
 - [Mr.Dclutterer](https://github.com/deep5050/Mr.Dclutterer) - A Minimal Looking Cross-Platform Desktop Application Made With Electron That Handles Quick File Aggregation And Bulk Renaming
 - [folderize](https://github.com/9-43/folderize) - Copy files from multiple sources into a single folder sorted by their modification date while preventing duplicate content.
 - [dir-snap](https://github.com/LanceTurri/dir-snap) - A library for comparing snapshots of files and folders on your system.
@@ -1396,6 +1413,12 @@
 
 ## Others 
 
+- [knowledge](https://github.com/dotcli/knowledge) - What do I know? Do I know things? Let's find out!
+- [wiki_example](https://github.com/bit101/wiki_example) - 
+- [obsidian-plugins](https://github.com/Razumihin/obsidian-plugins) - Small plugins for Obsidian note taking tool
+- [BrainStash](https://github.com/AgarwalPragy/BrainStash) - BrainStash is a cross platform desktop application for personal knowledge management. ETA: ??
+- [docs](https://github.com/cristianmiranda/docs) - 🌱 Digital Garden
+- [notes](https://github.com/jpeach/notes) - Obsidian notes vault
 - [hamster-system](https://github.com/slowernews/hamster-system) - Ultra-simple framework to organize your life.
 - [organize-my-files](https://github.com/Qiplex/organize-my-files) - One-click file organizer for Windows, Mac and Linux
 - [backup-folders](https://github.com/bjoern-hempel/backup-folders) - A script to easily backup folders.
@@ -1618,7 +1641,7 @@
 - [awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) - A tiny list limited to the best JavaScript Learning Resources
 - [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation) - A collection of AWESOME things about domian adaptation
 - [awesome-code-review](https://github.com/joho/awesome-code-review) - An "Awesome" list of code review resources - articles, papers, tools, etc
-- [awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
+- [awesome-linux](https://github.com/inputsh/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
 - [awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) - Yet another resource for collecting articles, videos etc. regarding functional programming
 - [awesome-go-storage](https://github.com/gostor/awesome-go-storage) - A curated list of awesome Go storage projects and libraries
 - [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
@@ -1676,6 +1699,7 @@
 - [obsidian-plugins](https://github.com/binyamin/obsidian-plugins) - Obsidian Plugin Ideas
 - [slipbox](https://github.com/ShannaSeigel/slipbox) - knowledgebase sharing experiment
 - [editorial-obsidian](https://github.com/tekacs/editorial-obsidian) - Editorial scripts for Obsidian (unofficial)
+- [obsidian-docs](https://github.com/obsidianmd/obsidian-docs) - Help documentation for Obsidian
 - [kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - Example recipes for Kubernetes Network Policies that you can just copy paste
 - [cloud-run-faq](https://github.com/ahmetb/cloud-run-faq) - Unofficial FAQ for Google Cloud Run✨
 - [scheduling_r_scripts](https://github.com/RMHogervorst/scheduling_r_scripts) - 
@@ -1975,6 +1999,7 @@
 
 ## Python 
 
+- [DayOne-JSON-to-MD](https://github.com/ze-kel/DayOne-JSON-to-MD) - Converts jsons from Day One app to Markdown. Intended for transferring from DayOne to Obsidian but should work with everything else.
 - [Python-auto-folder-organise](https://github.com/arsalanj123/Python-auto-folder-organise) - Automatically organise your windows folders according to extensions
 - [move-my-files](https://github.com/jan25/move-my-files) - mmf is a CLI tool to organise files on your computer
 - [PC-Automation](https://github.com/arturmark/PC-Automation) - Anything what helps to improve productivity with work on PC.
@@ -2185,6 +2210,7 @@
 
 ## R 
 
+- [vegviz](https://github.com/datavizvg/vegviz) - R tools for dataviz.vg
 - [insight](https://github.com/easystats/insight) - :crystal_ball: Easy access to model information for various model objects
 - [brochure](https://github.com/ColinFay/brochure) - [WIP - do not use] Build multipage 'shiny' apps
 - [colorizer](https://github.com/zumbov2/colorizer) - An R wrapper for the DeOldify image colorization API on DeepAI.
@@ -3579,6 +3605,7 @@
 - [textdata](https://github.com/EmilHvitfeldt/textdata) - Download, parse, store, and load text datasets instead of storing it in packages
 - [internetarchive](https://github.com/ropensci/internetarchive) - Search the Internet Archive, retrieve metadata, and download files
 - [expss](https://github.com/gdemin/expss) - expss: Tables and Labels in R
+- [RClickhouse](https://github.com/IMSMWU/RClickhouse) - A 'DBI' Interface to the Yandex Clickhouse Database Providing Basic 'dplyr' Support
 - [cleanEHR](https://github.com/ropensci/cleanEHR) - Essential tools and utility functions to facilitate the data processing pipeline, data cleaning and data analysing of clinical data from CC-HIC
 - [excel.link](https://github.com/gdemin/excel.link) - Convenient Data Exchange between R and Microsoft Excel
 - [pkginstall](https://github.com/r-lib/pkginstall) - Provides a replacement for `utils::install.packages()`
@@ -3954,6 +3981,7 @@
 
 ## Ruby 
 
+- [pkb](https://github.com/wezm/pkb) - Personal knowledge base
 - [gharchive.org](https://github.com/igrigorik/gharchive.org) - GH Archive is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis.
 - [bundle-star](https://github.com/ma2gedev/bundle-star) - Star github repositories automatically when you bundle installing
 - [illacceptanything](https://github.com/illacceptanything/illacceptanything) - The project where literally anything* goes.
@@ -4016,6 +4044,7 @@
 
 ## SCSS 
 
+- [notes.ajb.app](https://github.com/andybyers21/notes.ajb.app) - This is the data for my Evergreen notes vault
 - [foam-template](https://github.com/foambubble/foam-template) - Foam workpace template
 - [clair-de-lune-obsidian-theme](https://github.com/jamiebrynes7/clair-de-lune-obsidian-theme) - An obsidian.md theme inspired by the Moonlight family of themes
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
@@ -4043,6 +4072,8 @@
 
 ## Shell 
 
+- [winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office in Linux (Ubuntu) and GNOME as if they were a part of the native OS, including Nautilus integration.
+- [version](https://github.com/bit101/version) - What version do I have of ___?
 - [sydf](https://github.com/filiparag/sydf) - Symlink Your Damn Files
 - [zsh-johnnydecimal](https://github.com/CRTified/zsh-johnnydecimal) - Collection of zsh scripts for working with Johnny.Decimal structure https://johnnydecimal.com/
 - [directory-cli-tool](https://github.com/dennyzhang/directory-cli-tool) - :file_folder: CLI tools for directories
@@ -4073,7 +4104,7 @@
 - [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 - [BusinessCard](https://github.com/tallguyjenks/BusinessCard) - 💳 My curl-able business card
 - [mro-docker](https://github.com/nuest/mro-docker) - Docker image for Microsoft R Open
-- [r-travis](https://github.com/eddelbuettel/r-travis) - Tools for using R with Travis (http://travis-ci.org) -- see this page for more
+- [r-travis](https://github.com/eddelbuettel/r-travis) - Tools for using R with Travis, GitHub Actions and other CI backends
 - [dotfiles_wsl](https://github.com/clarenceb/dotfiles_wsl) - Windows Subsystem for Linux (WSL) Dotfiles
 - [wsl_dotfiles](https://github.com/Surumerf/wsl_dotfiles) - Dotfiles for Ubuntu on Windows
 - [dotfiles](https://github.com/JBlond/dotfiles) - my dot files with git and docker extension for windows and linux
@@ -4252,6 +4283,13 @@
 
 ## TypeScript 
 
+- [vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
+- [searchpp](https://github.com/nhaouari/searchpp) - Allow inserting text context search results on the active note.
+- [obsidian-discordrpc](https://github.com/lukeleppan/obsidian-discordrpc) - Update your Discord Status to show your friends what you are working on in Obsidian. With Discord Rich Presence.
+- [obsidian-convert-url-to-iframe](https://github.com/FHachez/obsidian-convert-url-to-iframe) - Plugin for Obsidian.md to convert a selected URL to an iframe.
+- [obsidian-crosslink-between-notes](https://github.com/mrjackphil/obsidian-crosslink-between-notes) - This plugin adds a command which allows to add a link to the current note at the bottom of selected notes
+- [obsidian-copy-markdown](https://github.com/mrjackphil/obsidian-copy-markdown) - It adds "Copy Markdown: copy" in Command Palette. It replaces wiki links to markdown links and copy result into clipboard.
+- [Templater](https://github.com/SilentVoid13/Templater) - A template plugin for obsidian
 - [zip](https://github.com/papb/zip) - Zipping & unzipping, simplified.
 - [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [profile-readme](https://github.com/actions-js/profile-readme) - 🗣 Display profile activity and other cool widgets in your profile README.md
