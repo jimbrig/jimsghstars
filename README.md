@@ -845,6 +845,8 @@
 
 ## JavaScript 
 
+- [slack-clicky](https://github.com/joshfarrant/slack-clicky) - #Clicky is a Chrome Extension which lets you share links to Slack in a single click!
+- [slack](https://github.com/integrations/slack) - Bring your code to the conversations you care about with the GitHub and Slack integration
 - [pgtune](https://github.com/le0pard/pgtune) - Pgtune - tuning PostgreSQL config by your hardware
 - [quicksettings](https://github.com/bit101/quicksettings) - JavaScript library for making a quick settings panel to control code parameters.
 - [obsidian-link-indexer](https://github.com/aviskase/obsidian-link-indexer) - 
@@ -2210,6 +2212,9 @@
 
 ## R 
 
+- [actuar](https://github.com/cran/actuar) - :exclamation: This is a read-only mirror of the CRAN R package repository.  actuar — Actuarial Functions and Heavy Tailed Distributions. Homepage: https://gitlab.com/vigou3/actuar  Report bugs for this package: https://gitlab.com/vigou3/actuar/issues
+- [async](https://github.com/gaborcsardi/async) - Asynchronous HTTP and computation in R
+- [mandalorian](https://github.com/asadpervez123/mandalorian) - Analyzing the reviews of The Mandalorian: Season 1 using Natural Language Processing in R and providing recommendations to The Walt Disney Company for Season 2.
 - [vegviz](https://github.com/datavizvg/vegviz) - R tools for dataviz.vg
 - [insight](https://github.com/easystats/insight) - :crystal_ball: Easy access to model information for various model objects
 - [brochure](https://github.com/ColinFay/brochure) - [WIP - do not use] Build multipage 'shiny' apps
@@ -2986,7 +2991,6 @@
 - [shinyCustom](https://github.com/homerhanumat/shinyCustom) - Customized versions of Shiny widgets
 - [ptexamples](https://github.com/rstudio/ptexamples) - A simple R package showcasing how RStudio project templates can be used.
 - [Shiny-R-SaaS](https://github.com/MarkEdmondson1234/Shiny-R-SaaS) - Bootstrap a paid R SaaS using Shiny, Firebase and Paddle
-- [DataFilter](https://github.com/redmonc/DataFilter) - R-shiny app for subsetting data
 - [RBusiness](https://github.com/RConsortium/RBusiness) - Rbusiness
 - [ribir](https://github.com/richelbilderbeek/ribir) - My personal R package
 - [tableone](https://github.com/kaz-yos/tableone) - R package to create "Table 1", description of baseline characteristics with or without propensity score weighting
@@ -4072,7 +4076,7 @@
 
 ## Shell 
 
-- [winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office in Linux (Ubuntu) and GNOME as if they were a part of the native OS, including Nautilus integration.
+- [winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 - [version](https://github.com/bit101/version) - What version do I have of ___?
 - [sydf](https://github.com/filiparag/sydf) - Symlink Your Damn Files
 - [zsh-johnnydecimal](https://github.com/CRTified/zsh-johnnydecimal) - Collection of zsh scripts for working with Johnny.Decimal structure https://johnnydecimal.com/
@@ -4308,7 +4312,7 @@
 - [hotkeysplus-obsidian](https://github.com/argenos/hotkeysplus-obsidian) - Adds hotkeys to toggle todos, ordered/unordered lists and blockquotes in Obsidian
 - [nldates-obsidian](https://github.com/argenos/nldates-obsidian) - Create date-links based on natural language in Obsidian
 - [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - :package: Install C++ Build Tools for Windows using npm
-- [devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 95% code sharing between them
+- [devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [git-repo-manager](https://github.com/valor-software/git-repo-manager) - 
 - [angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [firebase-tools](https://github.com/firebase/firebase-tools) - The Firebase Command Line Tools
