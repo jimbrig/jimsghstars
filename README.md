@@ -420,6 +420,7 @@
 
 ## CoffeeScript 
 
+- [pivottable](https://github.com/nicolaskruchten/pivottable) - Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop.
 - [misc](https://github.com/rweekly/misc) - Goodies from R Weekly
 - [docpad](https://github.com/docpad/docpad) - Empower your website frontends with layouts, meta-data, pre-processors (markdown, jade, coffeescript, etc.), partials, skeletons, file watching, querying, and an amazing plugin system. DocPad will streamline your web development process allowing you to craft powerful static sites quicker than ever before.
 - [wintersmith](https://github.com/jnordberg/wintersmith) - A flexible static site generator
@@ -443,7 +444,6 @@
 ## Dockerfile 
 
 - [dockerfiles](https://github.com/dirmeier/dockerfiles) - A collection of docker files.
-- [obsidiand-docker](https://github.com/chrishasl/obsidiand-docker) - Easily provision obsidiand using Docker
 - [register](https://github.com/codecheckers/register) - Register of CODECHECK certificates
 - [awesome-cloudrun](https://github.com/steren/awesome-cloudrun) - 👓 ⏩ A curated list of resources about all things Cloud Run
 - [r-docker](https://github.com/rstudio/r-docker) - Docker images for R
@@ -461,6 +461,7 @@
 
 ## Emacs Lisp 
 
+- [dotfiles](https://github.com/cole-brokamp/dotfiles) - dotfiles
 - [configuration](https://github.com/yihui/configuration) - My configuration files
 - [zettel-mode](https://github.com/vifon/zettel-mode) - A Zettelkasten-style note-taking helper
 
@@ -601,7 +602,7 @@
 - [shinydevseries_site](https://github.com/rpodcast/shinydevseries_site) - Web site for Shiny Developer Series
 - [git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 - [papis](https://github.com/alejandrogallo/papis) - Powerful and highly extensible command-line based document and bibliography manager.
-- [TiddlyResearch](https://github.com/kebifurai/TiddlyResearch) - Free and local note-taking environment based on TiddlyWiki
+- [TiddlyResearch](https://github.com/kebifurai/TiddlyResearch) - Local and Anki-compatible note-taking tool based on TiddlyWiki
 - [waylonwalkerv2](https://github.com/WaylonWalker/waylonwalkerv2) - My personal website, mostly a blog, always a work in progress.
 - [awesome-br.github.io](https://github.com/awesome-br/awesome-br.github.io) - 
 - [awesome-streamlit](https://github.com/MarcSkovMadsen/awesome-streamlit) - The purpose of this project is to share knowledge on how awesome Streamlit is and can be
@@ -1387,6 +1388,7 @@
 
 ## Makefile 
 
+- [singr](https://github.com/cole-brokamp/singr) - A singularity image designed for R and renv
 - [relink](https://github.com/maandree/relink) - A simple utility that modifies your symlinks
 - [rocker-tiledb](https://github.com/eddelbuettel/rocker-tiledb) - Unofficial Development Docker files for R and TileDB
 - [awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
@@ -1415,6 +1417,9 @@
 
 ## Others 
 
+- [dockeR](https://github.com/cole-brokamp/dockeR) - 
+- [tmuxr](https://github.com/cole-brokamp/tmuxr) - Manage tmux from R
+- [tallguyjenks](https://github.com/tallguyjenks/tallguyjenks) - 
 - [knowledge](https://github.com/dotcli/knowledge) - What do I know? Do I know things? Let's find out!
 - [wiki_example](https://github.com/bit101/wiki_example) - 
 - [obsidian-plugins](https://github.com/Razumihin/obsidian-plugins) - Small plugins for Obsidian note taking tool
@@ -2001,6 +2006,7 @@
 
 ## Python 
 
+- [dash-pivottable](https://github.com/plotly/dash-pivottable) - react-pivottable in Dash
 - [DayOne-JSON-to-MD](https://github.com/ze-kel/DayOne-JSON-to-MD) - Converts jsons from Day One app to Markdown. Intended for transferring from DayOne to Obsidian but should work with everything else.
 - [Python-auto-folder-organise](https://github.com/arsalanj123/Python-auto-folder-organise) - Automatically organise your windows folders according to extensions
 - [move-my-files](https://github.com/jan25/move-my-files) - mmf is a CLI tool to organise files on your computer
@@ -2212,12 +2218,28 @@
 
 ## R 
 
+- [bindertools](https://github.com/cole-brokamp/bindertools) - 
+- [pkg](https://github.com/cole-brokamp/pkg) - A fresh approach to package installation
+- [CB](https://github.com/cole-brokamp/CB) - My personal R package
+- [dep](https://github.com/cole-brokamp/dep) - Find, document, and deploy packages that an R project depends on
+- [mappp](https://github.com/cole-brokamp/mappp) - map in parallel with progress
+- [CIDAtools](https://github.com/ledbettc/CIDAtools) - 
+- [pivotr](https://github.com/ismailmuller/pivotr) - Computing pivot tables
+- [dataTableExample](https://github.com/neilhatfield/dataTableExample) - Shiny app for exploring the DT package
+- [tabler](https://github.com/datasketch/tabler) - HTMLWidget to render tables from Google Sheets database
+- [R_data.table_intro](https://github.com/rsaporta/R_data.table_intro) - An introduction to the data.table package for R
+- [rpivotTableMD](https://github.com/jienagu/rpivotTableMD) - This is a Shiny app to fetch users' activity and interact with Rmarkdown (pdf/word) report
+- [flattabler](https://github.com/josesamos/flattabler) - Obtaining a Flat Table from Pivot Tables
+- [pivotable](https://github.com/edgararuiz/pivotable) - 
+- [pivot](https://github.com/halpo/pivot) - pivot extensions for dbplyr
+- [r-big-pivot](https://github.com/joyofdata/r-big-pivot) - Pivoting and charting big tabular data sets in a browser UI based on R and Shiny.
+- [PivotalR](https://github.com/greenplum-db/PivotalR) - An convenient R tool for manipulating tables in PostgreSQL type databases and a wrapper of Apache MADlib.
 - [actuar](https://github.com/cran/actuar) - :exclamation: This is a read-only mirror of the CRAN R package repository.  actuar — Actuarial Functions and Heavy Tailed Distributions. Homepage: https://gitlab.com/vigou3/actuar  Report bugs for this package: https://gitlab.com/vigou3/actuar/issues
 - [async](https://github.com/gaborcsardi/async) - Asynchronous HTTP and computation in R
 - [mandalorian](https://github.com/asadpervez123/mandalorian) - Analyzing the reviews of The Mandalorian: Season 1 using Natural Language Processing in R and providing recommendations to The Walt Disney Company for Season 2.
 - [vegviz](https://github.com/datavizvg/vegviz) - R tools for dataviz.vg
 - [insight](https://github.com/easystats/insight) - :crystal_ball: Easy access to model information for various model objects
-- [brochure](https://github.com/ColinFay/brochure) - [WIP - do not use] Build multipage 'shiny' apps
+- [brochure](https://github.com/ColinFay/brochure) - [WIP - do not use] Natively Multipage Shiny Apps
 - [colorizer](https://github.com/zumbov2/colorizer) - An R wrapper for the DeOldify image colorization API on DeepAI.
 - [basicfinancial](https://github.com/karlp-asrs/basicfinancial) - 
 - [rdataone](https://github.com/DataONEorg/rdataone) - R package for reading and writing data at DataONE data repositories
@@ -2493,7 +2515,7 @@
 - [tidytext](https://github.com/juliasilge/tidytext) - Text mining using tidy tools :sparkles::page_facing_up::sparkles:
 - [tidyr](https://github.com/tidyverse/tidyr) - Easily tidy data with spread and gather functions.
 - [Demo_Dashboard](https://github.com/cc-skuehn/Demo_Dashboard) - Interactive Dashboard in R using flexdashboard, shiny and plotly
-- [Data-is-present](https://github.com/pablobernabeu/Data-is-present) - This project offers free activities to practise reproducible data presentation. Pablo Bernabeu organises these events in the context of a Software Sustainability Institute Fellowship.
+- [Data-is-present](https://github.com/pablobernabeu/Data-is-present) - This project offered free activities to practise reproducible data presentation. Pablo Bernabeu organised these events in the context of a Software Sustainability Institute Fellowship.
 - [rshiny-ga-article-attribution-dashboard](https://github.com/empirical-path/rshiny-ga-article-attribution-dashboard) - Source code for R Shiny Dashboard
 - [roxygenlabs](https://github.com/gaborcsardi/roxygenlabs) - Experimental roxygen tags and extensions
 - [Actuary-Project](https://github.com/chadih/Actuary-Project) - Tarification, forecast, etc...
@@ -4032,7 +4054,7 @@
 - [emplace](https://github.com/tversteeg/emplace) - 👩‍❤️‍💋‍👩 Track and synchronize installed packages
 - [ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [clog-cli](https://github.com/clog-tool/clog-cli) - Generate beautiful changelogs from your Git commit history
-- [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - A curated list of static analysis tools for all programming languages, config files, build tools, and more.
+- [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
 - [digital-garden](https://github.com/ChristopherBiscardi/digital-garden) - 
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths 🌳
@@ -4233,6 +4255,7 @@
 
 ## TeX 
 
+- [colebrokamp.com](https://github.com/cole-brokamp/colebrokamp.com) - 
 - [probability_cheatsheet](https://github.com/wzchen/probability_cheatsheet) - A comprehensive 10-page probability cheatsheet that covers a semester's worth of introduction to probability.
 - [R_for_Data_Science](https://github.com/perlatex/R_for_Data_Science) - Materials for teaching R and tidyverse
 - [bspagedjs](https://github.com/maelle/bspagedjs) - Playing with bookdown::bs4_book() and pagedjs-cli to get both HTML and PDF book out of the same Rmd products.
