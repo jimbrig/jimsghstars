@@ -106,6 +106,7 @@
 - [rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [ps](https://github.com/r-lib/ps) - R package to query, list, manipulate system processes
 - [rsync](https://github.com/AndyA/rsync) - My rsync fork
+- [HeatmapGenerator](https://github.com/Bohdan-Khomtchouk/HeatmapGenerator) - Cross-platform GUI desktop application for making biological heatmaps
 - [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [WindowsProgrammingNotes](https://github.com/liuxuanhai/WindowsProgrammingNotes) - Windows程序设计(第5版 珍藏版)
 - [pkg-aws-checksums](https://github.com/eddelbuettel/pkg-aws-checksums) - (Unofficial) Debian packaging for AWS CRC32c and CRC32 C interface
@@ -150,6 +151,7 @@
 
 ## C# # 
 
+- [Schema.NET](https://github.com/RehanSaeed/Schema.NET) - Schema.org objects turned into strongly typed C# POCO classes for use in .NET. All classes can be serialized into JSON/JSON-LD and XML, typically used to represent structured data in the head section of html page.
 - [Somewhere](https://github.com/chaojian-zhang/Somewhere) - A tag based file management system.
 - [clippy](https://github.com/refactorsaurusrex/clippy) - "Copy as path"... but better
 - [wtfd](https://github.com/garyng/wtfd) - What This Folder Does? — Documentation for folders.
@@ -240,7 +242,6 @@
 - [AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) - An installation and update framework for Windows desktop apps
 - [gitahead](https://github.com/gitahead/gitahead) - Understand your Git history!
-- [HeatmapGenerator](https://github.com/Bohdan-Khomtchouk/HeatmapGenerator) - Cross-platform GUI desktop application for making biological heatmaps
 - [gaselect](https://github.com/eddelbuettel/gaselect) - Genetic Algorithm for Variable Selection using Partial Least Squares
 - [NothingOS](https://github.com/NothingSoftwares/NothingOS) - 
 - [makefolders](https://github.com/Bazzadwarf/makefolders) - It makes folders
@@ -562,6 +563,7 @@
 
 ## HTML 
 
+- [schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
 - [nyt-2020-election-scraper](https://github.com/alex/nyt-2020-election-scraper) - 
 - [notenote.link](https://github.com/Maxence-L/notenote.link) - A digital garden using a custom version of simply-jekyll, optimised for integration with Obsidian. It is more oriented on note-taking and aims to help you build a nice knowledge base that can scale with time.
 - [goffer](https://github.com/xxxzeus/goffer) - Beautiful and basic file manager written on electron.js
@@ -846,6 +848,10 @@
 
 ## JavaScript 
 
+- [react-structured-data](https://github.com/bentaylor2/react-structured-data) - React Structured Data provides an easy way to add structured data to your React apps
+- [structured-filter](https://github.com/evoluteur/structured-filter) - jQuery UI widget for structured queries like "Contacts where Firstname starts with A and Birthday before 1/1/2000 and State in (CA, NY, FL)"...
+- [compressed-size-action](https://github.com/preactjs/compressed-size-action) - GitHub Action that adds compressed size changes to your PRs.
+- [tabler](https://github.com/datasketch/tabler) - HTMLWidget to render tables from Google Sheets database
 - [slack-clicky](https://github.com/joshfarrant/slack-clicky) - #Clicky is a Chrome Extension which lets you share links to Slack in a single click!
 - [slack](https://github.com/integrations/slack) - Bring your code to the conversations you care about with the GitHub and Slack integration
 - [pgtune](https://github.com/le0pard/pgtune) - Pgtune - tuning PostgreSQL config by your hardware
@@ -1043,7 +1049,6 @@
 - [windows-workstation](https://github.com/szepeviktor/windows-workstation) - Prepare my Windows 10 workstation
 - [juicer](https://github.com/noamross/juicer) - A thin wrapper for in-lining CSS styles into HTML
 - [redirectr-ff](https://github.com/noamross/redirectr-ff) - 
-- [giganotes-desktop](https://github.com/FourthByteLabs/giganotes-desktop) - GigaNotes note taking application
 - [mdlinks](https://github.com/ColinFay/mdlinks) - A Google Chrome extension to create Markdown links for the current page
 - [vectorInput](https://github.com/whitwort/vectorInput) - A shiny input widget that returns a (possibly named) vector of values.
 - [telemetry](https://github.com/strongh/telemetry) - R Shiny inputs for geolocation and sensor data
@@ -1209,6 +1214,7 @@
 - [togetherjs](https://github.com/jsfiddle/togetherjs) - A service for your website that makes it surprisingly easy to collaborate in real-time.
 - [uid](https://github.com/lukeed/uid) - A tiny (130B to 205B) and fast utility to generate random IDs of fixed length
 - [wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 📝 The website builder for Hugo. Build and deploy a beautiful website in minutes!
+- [octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [todo](https://github.com/JasonEtco/todo) - 🤖✅ GitHub App that creates new issues from actionable comments in your code.
 - [Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for developers on Mac, Windows and Linux.
 - [academic-kickstart](https://github.com/jhrcook/academic-kickstart) - Personal website made user Academic & Hugo, hosted on Netlify
@@ -1417,6 +1423,8 @@
 
 ## Others 
 
+- [Structured-Data-JSON-LD](https://github.com/JayHoltslander/Structured-Data-JSON-LD) - Collection of structured data snippets in Google preferred JSON-LD format.
+- [You-Dont-Know-UI](https://github.com/MenaiAla/You-Dont-Know-UI) - Learn how to build universal, modern and scalable user interfaces
 - [dockeR](https://github.com/cole-brokamp/dockeR) - 
 - [tmuxr](https://github.com/cole-brokamp/tmuxr) - Manage tmux from R
 - [tallguyjenks](https://github.com/tallguyjenks/tallguyjenks) - 
@@ -1847,7 +1855,6 @@
 - [MyZettelkasten](https://github.com/arantespp/MyZettelkasten) - Welcome to my second memory.
 - [TidyverseSkeptic](https://github.com/matloff/TidyverseSkeptic) - An opinionated view of the Tidyverse "dialect" of the R language.
 - [onedrive-community-samples](https://github.com/OneDrive/onedrive-community-samples) - Repository for community samples in OneDrive GitHub organization.
-- [octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [awesome-roam](https://github.com/roam-unofficial/awesome-roam) - A curated list of https://roamresearch.com/ resources
 - [content-style-guide](https://github.com/mailchimp/content-style-guide) - This is our company style guide. It helps us write clear and consistent content across teams and channels
@@ -1915,6 +1922,7 @@
 
 ## PHP 
 
+- [all-in-one-seo-pack](https://github.com/awesomemotive/all-in-one-seo-pack) - All in One SEO Pack plugin for WordPress SEO
 - [crud-generator](https://github.com/appzcoder/crud-generator) - Laravel CRUD Generator
 - [knot-server](https://github.com/knotworks/knot-server) - A decentralized server to build private social networks from.
 - [valet](https://github.com/laravel/valet) - 
@@ -2006,6 +2014,7 @@
 
 ## Python 
 
+- [sentry-kubernetes](https://github.com/getsentry/sentry-kubernetes) - Kubernetes event reporter for Sentry
 - [dash-pivottable](https://github.com/plotly/dash-pivottable) - react-pivottable in Dash
 - [DayOne-JSON-to-MD](https://github.com/ze-kel/DayOne-JSON-to-MD) - Converts jsons from Day One app to Markdown. Intended for transferring from DayOne to Obsidian but should work with everything else.
 - [Python-auto-folder-organise](https://github.com/arsalanj123/Python-auto-folder-organise) - Automatically organise your windows folders according to extensions
@@ -2218,6 +2227,8 @@
 
 ## R 
 
+- [PPBDS](https://github.com/davidkane9/PPBDS) - 
+- [tmuxr](https://github.com/datascienceworkshops/tmuxr) - Manage tmux from R
 - [bindertools](https://github.com/cole-brokamp/bindertools) - 
 - [pkg](https://github.com/cole-brokamp/pkg) - A fresh approach to package installation
 - [CB](https://github.com/cole-brokamp/CB) - My personal R package
@@ -2226,7 +2237,6 @@
 - [CIDAtools](https://github.com/ledbettc/CIDAtools) - 
 - [pivotr](https://github.com/ismailmuller/pivotr) - Computing pivot tables
 - [dataTableExample](https://github.com/neilhatfield/dataTableExample) - Shiny app for exploring the DT package
-- [tabler](https://github.com/datasketch/tabler) - HTMLWidget to render tables from Google Sheets database
 - [R_data.table_intro](https://github.com/rsaporta/R_data.table_intro) - An introduction to the data.table package for R
 - [rpivotTableMD](https://github.com/jienagu/rpivotTableMD) - This is a Shiny app to fetch users' activity and interact with Rmarkdown (pdf/word) report
 - [flattabler](https://github.com/josesamos/flattabler) - Obtaining a Flat Table from Pivot Tables
