@@ -856,7 +856,6 @@
 - [slack](https://github.com/integrations/slack) - Bring your code to the conversations you care about with the GitHub and Slack integration
 - [pgtune](https://github.com/le0pard/pgtune) - Pgtune - tuning PostgreSQL config by your hardware
 - [quicksettings](https://github.com/bit101/quicksettings) - JavaScript library for making a quick settings panel to control code parameters.
-- [obsidian-link-indexer](https://github.com/aviskase/obsidian-link-indexer) - 
 - [browser-extension](https://github.com/dnote/browser-extension) - Instantly take encrypted notes inside Chrome or Firefox
 - [learning-notes](https://github.com/slowernews/learning-notes) - Notes on programming (frontend, chrome extensions), portuguese taxes, polish language .. (WIP)
 - [notebook](https://github.com/wayanjimmy/notebook) - Personal notes
@@ -865,7 +864,7 @@
 - [digital-garden](https://github.com/eliciaauduong/digital-garden) - An ongoing work in progress of all my thoughts and notes.
 - [digital-garden](https://github.com/johno/digital-garden) - 🌻[WIP] Gatsby Theme to build your own digital garden 🌻🥀🌸
 - [Mr.Dclutterer](https://github.com/deep5050/Mr.Dclutterer) - A Minimal Looking Cross-Platform Desktop Application Made With Electron That Handles Quick File Aggregation And Bulk Renaming
-- [folderize](https://github.com/9-43/folderize) - Copy files from multiple sources into a single folder sorted by their modification date while preventing duplicate content.
+- [folderize](https://github.com/xprueg/folderize) - Copy files from multiple sources into a single folder sorted by their modification date while preventing duplicate content.
 - [dir-snap](https://github.com/LanceTurri/dir-snap) - A library for comparing snapshots of files and folders on your system.
 - [local-share](https://github.com/toan2406/local-share) - Share your folders/files in local network
 - [empty-dir](https://github.com/gulpjs/empty-dir) - Check if a directory is empty.
@@ -2014,6 +2013,7 @@
 
 ## Python 
 
+- [linguist](https://github.com/douban/linguist) - Language Savant, Python clone of github/linguist.
 - [sentry-kubernetes](https://github.com/getsentry/sentry-kubernetes) - Kubernetes event reporter for Sentry
 - [dash-pivottable](https://github.com/plotly/dash-pivottable) - react-pivottable in Dash
 - [DayOne-JSON-to-MD](https://github.com/ze-kel/DayOne-JSON-to-MD) - Converts jsons from Day One app to Markdown. Intended for transferring from DayOne to Obsidian but should work with everything else.
@@ -2227,6 +2227,8 @@
 
 ## R 
 
+- [raster](https://github.com/rspatial/raster) - R raster package
+- [urlchecker](https://github.com/r-lib/urlchecker) - Run CRAN URL checks from older versions of R
 - [PPBDS](https://github.com/davidkane9/PPBDS) - 
 - [tmuxr](https://github.com/datascienceworkshops/tmuxr) - Manage tmux from R
 - [bindertools](https://github.com/cole-brokamp/bindertools) - 
@@ -4017,6 +4019,7 @@
 
 ## Ruby 
 
+- [forem](https://github.com/forem/forem) - For empowering community 🌱
 - [pkb](https://github.com/wezm/pkb) - Personal knowledge base
 - [gharchive.org](https://github.com/igrigorik/gharchive.org) - GH Archive is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis.
 - [bundle-star](https://github.com/ma2gedev/bundle-star) - Star github repositories automatically when you bundle installing
@@ -4321,6 +4324,7 @@
 ## TypeScript 
 
 - [vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
+- [obsidian-link-indexer](https://github.com/aviskase/obsidian-link-indexer) - 
 - [searchpp](https://github.com/nhaouari/searchpp) - Allow inserting text context search results on the active note.
 - [obsidian-discordrpc](https://github.com/lukeleppan/obsidian-discordrpc) - Update your Discord Status to show your friends what you are working on in Obsidian. With Discord Rich Presence.
 - [obsidian-convert-url-to-iframe](https://github.com/FHachez/obsidian-convert-url-to-iframe) - Plugin for Obsidian.md to convert a selected URL to an iframe.
