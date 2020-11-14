@@ -94,6 +94,7 @@
 
 ## C 
 
+- [HummusJS](https://github.com/galkahana/HummusJS) - Node.js module for high performance creation, modification and parsing of PDF files and streams
 - [st](https://github.com/kmaasrud/st) - My personal fork of st
 - [virgo](https://github.com/henkman/virgo) - :virgo::computer::computer::computer::computer: Virtual desktops for Windows
 - [HackSysExtremeVulnerableDriver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver) - HackSys Extreme Vulnerable Windows Driver
@@ -417,6 +418,7 @@
 ## Clojure 
 
 - [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
+- [logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge sharing and management.
 - [drake](https://github.com/Factual/drake) - Data workflow tool, like a "Make for data"
 
 ## CoffeeScript 
@@ -472,6 +474,8 @@
 
 ## Go 
 
+- [unipdf-examples](https://github.com/unidoc/unipdf-examples) - Examples for creating and processing PDF files with UniPDF https://github.com/unidoc/unipdf
+- [unipdf](https://github.com/unidoc/unipdf) - Golang PDF library for creating and processing PDF files (pure go)
 - [note-maps](https://github.com/google/note-maps) - A personal knowledge base intended for use on mobile devices.
 - [folder-manager](https://github.com/DataHearth/folder-manager) - Open source folder manager with encryption/decryption feature, watching folders/files.
 - [diskusage](https://github.com/aleksaan/diskusage) - Searching for top largest folders/files on the disk.
@@ -551,7 +555,7 @@
 - [evernote2md](https://github.com/wormi4ok/evernote2md) - Convert Evernote .enex file to Markdown
 - [immudb](https://github.com/codenotary/immudb) - immudb is a lightweight, high-speed immutable database for systems and applications
 - [exposure-notifications-server](https://github.com/google/exposure-notifications-server) - Exposure Notification Reference Server | Covid-19 Exposure Notifications
-- [charts](https://github.com/helm/charts) - Curated applications for Kubernetes
+- [charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [xxhash](https://github.com/OneOfOne/xxhash) - A native implementation of the excellent XXHash hashing algorithm.
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [cue](https://github.com/cuelang/cue) - Validate and define text-based and dynamic configuration
@@ -563,6 +567,8 @@
 
 ## HTML 
 
+- [iframe.illustrations](https://github.com/ThinkR-open/iframe.illustrations) - Some iframe for our blog posts on thinkr.fr
+- [docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
 - [nyt-2020-election-scraper](https://github.com/alex/nyt-2020-election-scraper) - 
 - [notenote.link](https://github.com/Maxence-L/notenote.link) - A digital garden using a custom version of simply-jekyll, optimised for integration with Obsidian. It is more oriented on note-taking and aims to help you build a nice knowledge base that can scale with time.
@@ -574,7 +580,6 @@
 - [webhook-logger](https://github.com/w01fgang/webhook-logger) - 
 - [gitstars](https://github.com/znlbwo/gitstars) - Github Stars Repositories Manager
 - [bottomupcs](https://github.com/ianw/bottomupcs) - Bottom Up Computer Science
-- [containerssh.github.io](https://github.com/ContainerSSH/containerssh.github.io) - The ContainerSSH website
 - [compiler-team](https://github.com/rust-lang/compiler-team) - A home for compiler team planning documents, meeting minutes, and other such things.
 - [mkdocs-bootstrap4](https://github.com/byrnereese/mkdocs-bootstrap4) - Bootstrap 4.0+ theme for MkDocs
 - [scratchpad](https://github.com/raghuveerdotnet/scratchpad) - As the name suggests, this is my scratchpad to try out code to understand a concept or try out new ideas
@@ -826,6 +831,7 @@
 
 ## Java 
 
+- [itext7](https://github.com/itext/itext7) - iText 7 for Java represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, high and low-level programming capabilities and the ability to create, edit and enhance PDF documents, iText 7 can be a boon to nearly every workflow.
 - [timetable](https://github.com/fwcd/timetable) - Calendar and task management application
 - [actuarialcalculator](https://github.com/thfreud/actuarialcalculator) - A simple mathematical software application for life insurance and annuities.
 - [jdk](https://github.com/openjdk/jdk) - JDK main-line development
@@ -848,6 +854,13 @@
 
 ## JavaScript 
 
+- [html2pdf.js](https://github.com/eKoopmans/html2pdf.js) - Client-side HTML-to-PDF rendering using pure JS.
+- [screenshoteer](https://github.com/vladocar/screenshoteer) - Make website screenshots and mobile emulations from the command line.
+- [resumake.io](https://github.com/saadq/resumake.io) - 📝 A website for automatically generating elegant LaTeX resumes.
+- [pdf-bot](https://github.com/esbenp/pdf-bot) - 🤖 A Node queue API for generating PDFs using headless Chrome. Comes with a CLI, S3 storage and webhooks for notifying subscribers about generated PDFs
+- [clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
+- [zeroclipr](https://github.com/smbache/zeroclipr) - Simple ZeroClipboard Clipboard Functionality for Shiny/R Applications
+- [medium-cli](https://github.com/djadmin/medium-cli) - Medium for Hackers - :computer: A CLI for Medium Stories.
 - [react-structured-data](https://github.com/bentaylor2/react-structured-data) - React Structured Data provides an easy way to add structured data to your React apps
 - [structured-filter](https://github.com/evoluteur/structured-filter) - jQuery UI widget for structured queries like "Contacts where Firstname starts with A and Birthday before 1/1/2000 and State in (CA, NY, FL)"...
 - [compressed-size-action](https://github.com/preactjs/compressed-size-action) - GitHub Action that adds compressed size changes to your PRs.
@@ -1377,6 +1390,7 @@
 
 ## Lua 
 
+- [sile](https://github.com/sile-typesetter/sile) - Simon’s Improved Layout Engine
 - [nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [lua-filters](https://github.com/pandoc/lua-filters) - A collection of lua filters for pandoc
 - [kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
@@ -1814,7 +1828,6 @@
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [personal-sites](https://github.com/aranibatta/personal-sites) - List of Hackathon Hackers' personal sites.
 - [toolbox](https://github.com/danburzo/toolbox) - Assorted tools, libraries, APIs and data sources for building things.
-- [logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge sharing and management.
 - [notes](https://github.com/yoshuawuyts/notes) - notes on things
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
@@ -1921,6 +1934,8 @@
 
 ## PHP 
 
+- [KnpSnappyBundle](https://github.com/KnpLabs/KnpSnappyBundle) - Easily create PDF and images in Symfony by converting html using webkit
+- [dompdf](https://github.com/dompdf/dompdf) - HTML to PDF converter for PHP
 - [all-in-one-seo-pack](https://github.com/awesomemotive/all-in-one-seo-pack) - All in One SEO Pack plugin for WordPress SEO
 - [crud-generator](https://github.com/appzcoder/crud-generator) - Laravel CRUD Generator
 - [knot-server](https://github.com/knotworks/knot-server) - A decentralized server to build private social networks from.
@@ -2013,6 +2028,7 @@
 
 ## Python 
 
+- [obsidian-scripts](https://github.com/jplattel/obsidian-scripts) - A collection of scripts that I use with Obsidian
 - [linguist](https://github.com/douban/linguist) - Language Savant, Python clone of github/linguist.
 - [sentry-kubernetes](https://github.com/getsentry/sentry-kubernetes) - Kubernetes event reporter for Sentry
 - [dash-pivottable](https://github.com/plotly/dash-pivottable) - react-pivottable in Dash
@@ -2056,6 +2072,7 @@
 - [gedit-wakatime](https://github.com/wakatime/gedit-wakatime) - Gedit 3.8+ plugin for automatic time tracking and metrics generated from your programming activity.
 - [podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 - [scripttest](https://github.com/pypa/scripttest) - Utilities to help with testing command line scripts
+- [containerssh.github.io](https://github.com/ContainerSSH/containerssh.github.io) - The ContainerSSH website
 - [youtube-dl](https://github.com/l1ving/youtube-dl) - A fork of youtube-dl, for archival purposes.
 - [mkdocs-autolinks-plugin](https://github.com/midnightprioriem/mkdocs-autolinks-plugin) - An MkDocs plugin that automagically generates relative links between markdown pages
 - [mkdocs-awesome-pages-plugin](https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin) - An MkDocs plugin that simplifies configuring page titles and their order
@@ -2227,6 +2244,13 @@
 
 ## R 
 
+- [devindocker](https://github.com/ThinkR-open/devindocker) - Development in a Docker container
+- [sentryR](https://github.com/ozean12/sentryR) - Unofficial R client for Sentry
+- [weasydoc](https://github.com/RLesur/weasydoc) - Convert R Markdown to PDF Using Weasyprint (or Prince XML)
+- [flexpivot](https://github.com/dreamRs/flexpivot) - Simple frequency table
+- [SqlRender](https://github.com/OHDSI/SqlRender) - This is an R package and Java library for rendering parameterized SQL, and translating it to different SQL dialects.
+- [ShinyDeploy](https://github.com/OHDSI/ShinyDeploy) - Shiny apps in this repository will be automatically deployed to the OHDSI Shiny server.
+- [clipr](https://github.com/mdlincoln/clipr) - R functions for reading and writing from the system clipboard
 - [raster](https://github.com/rspatial/raster) - R raster package
 - [urlchecker](https://github.com/r-lib/urlchecker) - Run CRAN URL checks from older versions of R
 - [PPBDS](https://github.com/davidkane9/PPBDS) - 
@@ -4019,6 +4043,7 @@
 
 ## Ruby 
 
+- [hexapdf](https://github.com/gettalong/hexapdf) - Versatile PDF creation and manipulation for Ruby
 - [forem](https://github.com/forem/forem) - For empowering community 🌱
 - [pkb](https://github.com/wezm/pkb) - Personal knowledge base
 - [gharchive.org](https://github.com/igrigorik/gharchive.org) - GH Archive is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis.
@@ -4111,7 +4136,7 @@
 
 ## Shell 
 
-- [winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
+- [winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 - [version](https://github.com/bit101/version) - What version do I have of ___?
 - [sydf](https://github.com/filiparag/sydf) - Symlink Your Damn Files
 - [zsh-johnnydecimal](https://github.com/CRTified/zsh-johnnydecimal) - Collection of zsh scripts for working with Johnny.Decimal structure https://johnnydecimal.com/
@@ -4268,6 +4293,7 @@
 
 ## TeX 
 
+- [pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
 - [colebrokamp.com](https://github.com/cole-brokamp/colebrokamp.com) - 
 - [probability_cheatsheet](https://github.com/wzchen/probability_cheatsheet) - A comprehensive 10-page probability cheatsheet that covers a semester's worth of introduction to probability.
 - [R_for_Data_Science](https://github.com/perlatex/R_for_Data_Science) - Materials for teaching R and tidyverse
@@ -4323,6 +4349,8 @@
 
 ## TypeScript 
 
+- [html-pdf-chrome](https://github.com/westy92/html-pdf-chrome) - HTML to PDF converter via Chrome/Chromium
+- [pdf-lib](https://github.com/Hopding/pdf-lib) - Create and modify PDF documents in any JavaScript environment
 - [vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [obsidian-link-indexer](https://github.com/aviskase/obsidian-link-indexer) - 
 - [searchpp](https://github.com/nhaouari/searchpp) - Allow inserting text context search results on the active note.
