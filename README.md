@@ -37,6 +37,7 @@
   - [M4](#m4)
   - [Makefile](#makefile)
   - [Nim](#nim)
+  - [Nix](#nix)
   - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [Others](#others)
@@ -301,6 +302,7 @@
 
 ## CSS 
 
+- [Obsidian-Obsidianite](https://github.com/TriDiamond/Obsidian-Obsidianite) - 🎨 Obsidian.md custom theme, it's dark and simple but yet still stays sparkles!
 - [betterObsidian](https://github.com/phibr0/betterObsidian) - My CSS Theme for the Obsidian Note Taking App.
 - [gitsidian](https://github.com/ishgunacar/gitsidian) - An obsidian theme inspired by GitHub markdown styles
 - [foamy-nextjs](https://github.com/yenly/foamy-nextjs) - Basic Foam + NextJS with MDX starter for building a digital garden
@@ -854,6 +856,9 @@
 
 ## JavaScript 
 
+- [tweet-to-markdown](https://github.com/kbravh/tweet-to-markdown) - A command line tool to convert Tweets to Markdown.
+- [markdown-links](https://github.com/thomaskoppelaar/markdown-links) - Command that displays a graph of local links between markdown files
+- [js-multiformats](https://github.com/multiformats/js-multiformats) - Multiformats interface (multihash, multicodec, multibase and CID)
 - [html2pdf.js](https://github.com/eKoopmans/html2pdf.js) - Client-side HTML-to-PDF rendering using pure JS.
 - [screenshoteer](https://github.com/vladocar/screenshoteer) - Make website screenshots and mobile emulations from the command line.
 - [resumake.io](https://github.com/saadq/resumake.io) - 📝 A website for automatically generating elegant LaTeX resumes.
@@ -1419,6 +1424,10 @@
 ## Nim 
 
 - [arturo](https://github.com/arturo-lang/arturo) - Simple, modern and powerful interpreted programming language for efficient scripting.
+
+## Nix 
+
+- [nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 
 ## OCaml 
 
@@ -4349,6 +4358,9 @@
 
 ## TypeScript 
 
+- [obsidian-backlinks-in-document](https://github.com/mrjackphil/obsidian-backlinks-in-document) - A hacky workaround which put backlinks section into the document
+- [Website](https://github.com/thenewboston-developers/Website) - The website and documentation for thenewboston.
+- [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
 - [html-pdf-chrome](https://github.com/westy92/html-pdf-chrome) - HTML to PDF converter via Chrome/Chromium
 - [pdf-lib](https://github.com/Hopding/pdf-lib) - Create and modify PDF documents in any JavaScript environment
 - [vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
