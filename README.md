@@ -324,7 +324,7 @@
 - [cobalt2-obsidian](https://github.com/binyamin/cobalt2-obsidian) - A port of the cobalt2 theme (@wesbos) for Obsidian.md
 - [obsidian-matte-theme](https://github.com/steakscience/obsidian-matte-theme) - A theme for Obsidian. Focus on what matters.
 - [typora-theme-obsidian](https://github.com/TriDiamond/typora-theme-obsidian) - A elegant theme with dark and light styles
-- [LibrinoAvventura_RegaloCompleanno](https://github.com/StefanoCecere/LibrinoAvventura_RegaloCompleanno) - il LibroGame da regalare ad un fratellino di 5 anni
+- [BuboLibro_RegaloSpeciale](https://github.com/StefanoCecere/BuboLibro_RegaloSpeciale) - il LibroGame da regalare ad un fratellino di 5 anni
 - [photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
 - [Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 - [Writing](https://github.com/Createdd/Writing) - 📚📝  Notes on the journey
@@ -1822,7 +1822,7 @@
 - [lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
 - [Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
 - [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
-- [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
+- [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.
 - [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
@@ -2286,7 +2286,7 @@
 - [insight](https://github.com/easystats/insight) - :crystal_ball: Easy access to model information for various model objects
 - [brochure](https://github.com/ColinFay/brochure) - [WIP - do not use] Natively Multipage Shiny Apps
 - [colorizer](https://github.com/zumbov2/colorizer) - An R wrapper for the DeOldify image colorization API on DeepAI.
-- [basicfinancial](https://github.com/karlp-asrs/basicfinancial) - 
+- [basicfinancial](https://github.com/karlpolen/basicfinancial) - 
 - [rdataone](https://github.com/DataONEorg/rdataone) - R package for reading and writing data at DataONE data repositories
 - [om_skeleton](https://github.com/open-meta/om_skeleton) - This is a public, reusable skeleton for building multi-page, multi-user web sites with authentication. Based on R and Shiny.
 - [uiStub](https://github.com/open-meta/uiStub) - Demonstration of how to create a URL-based, multi-page Shiny web site.
