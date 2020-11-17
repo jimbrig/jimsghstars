@@ -569,6 +569,8 @@
 
 ## HTML 
 
+- [parallaxr](https://github.com/martinctc/parallaxr) - Generate a parallax scroll document in R with YAML and Markdown
+- [githubCalendar](https://github.com/MayaGans/githubCalendar) - Creating a visual in Observable, then turning it into a widget. All the R user will need to supply is a data frame of dates and values... I hope)
 - [iframe.illustrations](https://github.com/ThinkR-open/iframe.illustrations) - Some iframe for our blog posts on thinkr.fr
 - [docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
@@ -856,6 +858,9 @@
 
 ## JavaScript 
 
+- [gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
+- [notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - an enhancer/customiser for the all-in-one productivity workspace notion.so
+- [create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) - A GitHub action to create or update an issue or pull request comment
 - [tweet-to-markdown](https://github.com/kbravh/tweet-to-markdown) - A command line tool to convert Tweets to Markdown.
 - [markdown-links](https://github.com/thomaskoppelaar/markdown-links) - Command that displays a graph of local links between markdown files
 - [js-multiformats](https://github.com/multiformats/js-multiformats) - Multiformats interface (multihash, multicodec, multibase and CID)
@@ -2025,7 +2030,7 @@
 - [Win10Script](https://github.com/madbomb122/Win10Script) - Win 10 Powershell Script to tweak and change windows settings
 - [scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
 - [Windows-10-Sophia-Script](https://github.com/farag2/Windows-10-Sophia-Script) - Script to setup Windows 10 LTSC/1903/1909/2004/2009
-- [Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A collection of Scripts which disable / remove Windows 10 Features and Apps
+- [Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 - [universal-dashboard](https://github.com/ironmansoftware/universal-dashboard) - Build beautiful websites with PowerShell.
 - [Zotero-Obdisian-Picker-Windows](https://github.com/AlexanderSavenkov/Zotero-Obdisian-Picker-Windows) - Allows you to call up a Zotero picker from within Obsidian in Windows 10
 - [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
@@ -2082,7 +2087,7 @@
 - [podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 - [scripttest](https://github.com/pypa/scripttest) - Utilities to help with testing command line scripts
 - [containerssh.github.io](https://github.com/ContainerSSH/containerssh.github.io) - The ContainerSSH website
-- [youtube-dl](https://github.com/l1ving/youtube-dl) - A fork of youtube-dl, for archival purposes.
+- [youtube-dl](https://github.com/l1ving/youtube-dl) - A fork of youtube-dl, for archival purposes. | ORIGINAL REPO NOW REINSTATED
 - [mkdocs-autolinks-plugin](https://github.com/midnightprioriem/mkdocs-autolinks-plugin) - An MkDocs plugin that automagically generates relative links between markdown pages
 - [mkdocs-awesome-pages-plugin](https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin) - An MkDocs plugin that simplifies configuring page titles and their order
 - [mkdocs-pdf-export-plugin](https://github.com/zhaoterryy/mkdocs-pdf-export-plugin) - An MkDocs plugin to export content pages as PDF files
@@ -2253,6 +2258,9 @@
 
 ## R 
 
+- [Tesis](https://github.com/Mcotsar/Tesis) - PhD Thesis: Cuantificando el cambio cultural: Una aproximación evolutiva a la producción de ánforas de aceite de oliva en la zona de la Bética (ss. I-III d.C.)
+- [patrick](https://github.com/google/patrick) - Parameterized testing in R is kind of cool!
+- [applause](https://github.com/gadenbuie/applause) - :clap: Zero-Configuration Applause/Claps/Kudos Button for R Markdown and Shiny apps
 - [devindocker](https://github.com/ThinkR-open/devindocker) - Development in a Docker container
 - [sentryR](https://github.com/ozean12/sentryR) - Unofficial R client for Sentry
 - [weasydoc](https://github.com/RLesur/weasydoc) - Convert R Markdown to PDF Using Weasyprint (or Prince XML)
@@ -4145,6 +4153,7 @@
 
 ## Shell 
 
+- [slack-disable-wysiwyg-bookmarklet](https://github.com/kfahy/slack-disable-wysiwyg-bookmarklet) - Disables the WYSIWYG editor in Slack.
 - [winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 - [version](https://github.com/bit101/version) - What version do I have of ___?
 - [sydf](https://github.com/filiparag/sydf) - Symlink Your Damn Files
@@ -4358,6 +4367,9 @@
 
 ## TypeScript 
 
+- [VSCode-R-Debugger](https://github.com/ManuelHentschel/VSCode-R-Debugger) - R Debugger Extension for Visual Studio Code
+- [obsidian-calendar-plugin](https://github.com/liamcain/obsidian-calendar-plugin) - Simple calendar widget for Obsidian.
+- [sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for Javascript
 - [obsidian-backlinks-in-document](https://github.com/mrjackphil/obsidian-backlinks-in-document) - A hacky workaround which put backlinks section into the document
 - [Website](https://github.com/thenewboston-developers/Website) - The website and documentation for thenewboston.
 - [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
@@ -4514,7 +4526,7 @@
 - [export-github-stars](https://github.com/KeziahMoselle/export-github-stars) - View / Sort / Export your Starred repositories.
 - [raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
 - [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
-- [ycp.so](https://github.com/ycpso/ycp.so) - 🎧 Personal note taking system and public blog, inspired by Andy Matuschak's notes.
+- [ycparak.com](https://github.com/ycparak/ycparak.com) - 🎧 Personal note taking system and public blog, inspired by Andy Matuschak's notes.
 - [awesome-github-profile](https://github.com/zzetao/awesome-github-profile) - 🌐  A website of awesome Github Profile READMEs
 - [devAwesome](https://github.com/lusaxweb/devAwesome) - 🐣 Upload your own sites as portfolio or projects of your github
 - [massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
