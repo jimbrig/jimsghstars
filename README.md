@@ -95,6 +95,7 @@
 
 ## C 
 
+- [colorout](https://github.com/jalvesaq/colorout) - Colorize R output in terminal emulators
 - [HummusJS](https://github.com/galkahana/HummusJS) - Node.js module for high performance creation, modification and parsing of PDF files and streams
 - [st](https://github.com/kmaasrud/st) - My personal fork of st
 - [virgo](https://github.com/henkman/virgo) - :virgo::computer::computer::computer::computer: Virtual desktops for Windows
@@ -350,7 +351,6 @@
 - [xaringanExtra](https://github.com/gadenbuie/xaringanExtra) - :ferris_wheel: A playground of enhancements and extensions for xaringan slides.
 - [xaringan](https://github.com/yihui/xaringan) - Presentation Ninja 幻灯忍者 · 写轮眼
 - [colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
-- [Flat-UI](https://github.com/designmodo/Flat-UI) - Flat UI Free - Design Framework (html/css3/less/js). Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites.
 - [normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [bookdown-demo](https://github.com/rstudio/bookdown-demo) - A minimal book example using bookdown
@@ -565,6 +565,7 @@
 
 ## Groovy 
 
+- [templates](https://github.com/embeddedartistry/templates) - Document templates for open-source projects (README, CONTRIBUTING, GitHub templates)
 - [r-ci-samples](https://github.com/MichaelChirico/r-ci-samples) - Sample CI&metadata files from popular R package repos
 
 ## HTML 
@@ -689,6 +690,7 @@
 - [robservable](https://github.com/juba/robservable) - Observable notebooks as R htmlwidgets
 - [hugodown-testing](https://github.com/jemus42/hugodown-testing) - Playing around with {hugodown} to see if I can make it work for me.
 - [r-bugs](https://github.com/MichaelChirico/r-bugs) - A ⚠️read-only⚠️mirror of https://bugs.r-project.org/
+- [worcs](https://github.com/cjvanlissa/worcs) - Rstudio project template and convenience functions for the Workflow     for Open Reproducible Code in Science (WORCS)
 - [bookclub-Advanced_R](https://github.com/r4ds/bookclub-Advanced_R) - 
 - [intro-shiny-rmarkdown](https://github.com/rstudio-education/intro-shiny-rmarkdown) - Materials for the "Intro to Shiny and R Markdown" 2-day workshop at rstudio::conf 2018
 - [teach-shiny](https://github.com/rstudio-education/teach-shiny) - Materials for the Shiny Train the Trainer workshop
@@ -841,6 +843,7 @@
 - [jdk](https://github.com/openjdk/jdk) - JDK main-line development
 - [milkman](https://github.com/warmuuh/milkman) - 
 - [selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
+- [Programming_cheat_sheets](https://github.com/brianspinos777/Programming_cheat_sheets) - notes and tutorials
 - [useful-java-links](https://github.com/Vedenin/useful-java-links) - A list of useful Java frameworks, libraries, software and hello worlds examples
 - [zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.
 - [bank-of-anthos](https://github.com/GoogleCloudPlatform/bank-of-anthos) - Anthos sample application for retail banking
@@ -858,6 +861,8 @@
 
 ## JavaScript 
 
+- [wuffle](https://github.com/nikku/wuffle) - A multi-repository task board for GitHub issues.
+- [create-issue-from-file](https://github.com/peter-evans/create-issue-from-file) - A GitHub action to create an issue using content from a file
 - [gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - an enhancer/customiser for the all-in-one productivity workspace notion.so
 - [create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) - A GitHub action to create or update an issue or pull request comment
@@ -982,7 +987,6 @@
 - [realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [de-rse.github.io](https://github.com/DE-RSE/de-rse.github.io) - Web repository
 - [mdnext](https://github.com/domitriusclark/mdnext) - The opinionated ecosystem for MDX powered NextJS apps for blogs, documentation, and more.
-- [Programming_cheat_sheets](https://github.com/brianspinos777/Programming_cheat_sheets) - notes and tutorials
 - [todoist-shortcuts](https://github.com/mgsloan/todoist-shortcuts) - Comprehensive keyboard shortcuts for Todoist, via browser extension
 - [dotfiles](https://github.com/Alex-D/dotfiles) - Windows + WSL 2 Ubuntu + Windows Terminal + zsh + p10k + Docker + IntelliJ IDEA
 - [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
@@ -1110,6 +1114,7 @@
 - [github-dashboard](https://github.com/muan/github-dashboard) - [Web extension] Filter events on github.com activity dashboard.
 - [chrome-github-boxcutter](https://github.com/mike-north/chrome-github-boxcutter) - A Google Chrome extension, for enhanced Github package manifests
 - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
+- [Flat-UI](https://github.com/designmodo/Flat-UI) - Flat UI Free - Design Framework (html/css3/less/js). Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites.
 - [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [github-stats-box](https://github.com/bokub/github-stats-box) - 📌 Update a gist to contain your GitHub stats
 - [toggl-box](https://github.com/tobimori/toggl-box) - 📊⏱️ Update a pinned gist to contain your weekly Toggl Track stats
@@ -1450,6 +1455,8 @@
 
 ## Others 
 
+- [template_shinydashboard](https://github.com/jimbrig/template_shinydashboard) - Template for creating a shinydashboard at Tychobra
+- [tools](https://github.com/mkorenkov/tools) - GitHub issues import has moved to other repo
 - [Structured-Data-JSON-LD](https://github.com/JayHoltslander/Structured-Data-JSON-LD) - Collection of structured data snippets in Google preferred JSON-LD format.
 - [You-Dont-Know-UI](https://github.com/MenaiAla/You-Dont-Know-UI) - Learn how to build universal, modern and scalable user interfaces
 - [dockeR](https://github.com/cole-brokamp/dockeR) - 
@@ -2042,6 +2049,7 @@
 
 ## Python 
 
+- [nought](https://github.com/cole-wilson/nought) - A super customizable file cleaner/organizer/automator.
 - [obsidian-scripts](https://github.com/jplattel/obsidian-scripts) - A collection of scripts that I use with Obsidian
 - [linguist](https://github.com/douban/linguist) - Language Savant, Python clone of github/linguist.
 - [sentry-kubernetes](https://github.com/getsentry/sentry-kubernetes) - Kubernetes event reporter for Sentry
@@ -2258,6 +2266,9 @@
 
 ## R 
 
+- [shiny-demo-apps](https://github.com/thomas-neitmann/shiny-demo-apps) - A collection of (simple) apps showcasing various shiny features
+- [deploying-r-on-cloud](https://github.com/holken1/deploying-r-on-cloud) - Tutorials and sample code/config for deploying R code like Shiny to the cloud
+- [plumberDeploy](https://github.com/meztez/plumberDeploy) - 
 - [Tesis](https://github.com/Mcotsar/Tesis) - PhD Thesis: Cuantificando el cambio cultural: Una aproximación evolutiva a la producción de ánforas de aceite de oliva en la zona de la Bética (ss. I-III d.C.)
 - [patrick](https://github.com/google/patrick) - Parameterized testing in R is kind of cool!
 - [applause](https://github.com/gadenbuie/applause) - :clap: Zero-Configuration Applause/Claps/Kudos Button for R Markdown and Shiny apps
@@ -2881,7 +2892,6 @@
 - [slurmR](https://github.com/USCbiostats/slurmR) - slurmR: A Lightweight Wrapper for Slurm
 - [abrupt](https://github.com/regime-shifts/abrupt) - Methods for detecting abrupt change in temporal, spatial, and spatiotemporal data series
 - [shinydisconnect](https://github.com/daattali/shinydisconnect) - Show a nice message when a Shiny app disconnects or errors
-- [worcs](https://github.com/cjvanlissa/worcs) - Rstudio project template and convenience functions for the Workflow     for Open Reproducible Code in Science (WORCS)
 - [logician](https://github.com/dirkschumacher/logician) - 🖖 Prolog-style Logic Programming in pure R
 - [batata](https://github.com/feddelegrand7/batata) - Managing R packages removal
 - [htmlwidgets](https://github.com/hafen/htmlwidgets) - HTML Widgets for R
@@ -4098,6 +4108,7 @@
 
 ## Rust 
 
+- [ghlabel](https://github.com/jimmycuadra/ghlabel) - Automatically creates and deletes labels on GitHub Issues to match a template
 - [kbgen](https://github.com/jmg-duarte/kbgen) - kbgen is a tool to generate Foam knowledge base documents
 - [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
@@ -4153,6 +4164,8 @@
 
 ## Shell 
 
+- [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
+- [gtm](https://github.com/laughedelic/gtm) - :stopwatch: git task/time manager
 - [slack-disable-wysiwyg-bookmarklet](https://github.com/kfahy/slack-disable-wysiwyg-bookmarklet) - Disables the WYSIWYG editor in Slack.
 - [winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 - [version](https://github.com/bit101/version) - What version do I have of ___?
@@ -4367,6 +4380,7 @@
 
 ## TypeScript 
 
+- [github-issues-notice](https://github.com/linyows/github-issues-notice) - :octocat: Notify labeled issues to Slack
 - [VSCode-R-Debugger](https://github.com/ManuelHentschel/VSCode-R-Debugger) - R Debugger Extension for Visual Studio Code
 - [obsidian-calendar-plugin](https://github.com/liamcain/obsidian-calendar-plugin) - Simple calendar widget for Obsidian.
 - [sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for Javascript
@@ -4526,7 +4540,7 @@
 - [export-github-stars](https://github.com/KeziahMoselle/export-github-stars) - View / Sort / Export your Starred repositories.
 - [raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
 - [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
-- [ycparak.com](https://github.com/ycparak/ycparak.com) - 🎧 Personal note taking system and public blog, inspired by Andy Matuschak's notes.
+- [ycparak.com](https://github.com/ycparak/ycparak.com) - 🎧 Personal site and note taking system, inspired by Andy Matuschak's notes.
 - [awesome-github-profile](https://github.com/zzetao/awesome-github-profile) - 🌐  A website of awesome Github Profile READMEs
 - [devAwesome](https://github.com/lusaxweb/devAwesome) - 🐣 Upload your own sites as portfolio or projects of your github
 - [massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
