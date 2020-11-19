@@ -85,6 +85,8 @@
 
 ## Batchfile 
 
+- [win10_simplifier](https://github.com/mattreecebentley/win10_simplifier) - Windows 10 Simplifier - A script for automating simplifications and maintenance
+- [mpv-install](https://github.com/rossy/mpv-install) - Sets up file associations for mpv on Windows
 - [ws-folder-template-provisioner](https://github.com/wandersick/ws-folder-template-provisioner) - This Windows batch script provisions (copies) new folders with exact permissions and content from a specified existing folder (template) based on the information (first name and last name) inputted by a user via its command-line interface.
 - [wt-contextmenu](https://github.com/nt4f04uNd/wt-contextmenu) - A short guide with batch files to add windows terminal to windows context menu
 - [dotfiles-windows](https://github.com/snovvcrash/dotfiles-windows) - Dotfiles for Windows boxes
@@ -433,7 +435,7 @@
 
 ## Common Lisp 
 
-- [nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - Be productive.
+- [nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the internet on your terms.
 
 ## D 
 
@@ -448,6 +450,8 @@
 
 ## Dockerfile 
 
+- [mkit](https://github.com/darkbitio/mkit) - MKIT is a Managed Kubernetes Inspection Tool that validates several common security-related configuration settings of managed Kubernetes cluster objects and the workloads/resources running inside the cluster.
+- [actions](https://github.com/maddox/actions) - A collection of useful GitHub Actions
 - [dockerfiles](https://github.com/dirmeier/dockerfiles) - A collection of docker files.
 - [register](https://github.com/codecheckers/register) - Register of CODECHECK certificates
 - [awesome-cloudrun](https://github.com/steren/awesome-cloudrun) - 👓 ⏩ A curated list of resources about all things Cloud Run
@@ -476,6 +480,9 @@
 
 ## Go 
 
+- [assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
+- [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
+- [flyte](https://github.com/ExpediaGroup/flyte) - Flyte binds together the tools you use into easily defined, automated workflows
 - [unipdf-examples](https://github.com/unidoc/unipdf-examples) - Examples for creating and processing PDF files with UniPDF https://github.com/unidoc/unipdf
 - [unipdf](https://github.com/unidoc/unipdf) - Golang PDF library for creating and processing PDF files (pure go)
 - [note-maps](https://github.com/google/note-maps) - A personal knowledge base intended for use on mobile devices.
@@ -570,6 +577,8 @@
 
 ## HTML 
 
+- [web-launch-checklist](https://github.com/HarrisJT/web-launch-checklist) - :clipboard: A simple website launch checklist to keep track of the most important enrichment possibilities for a website.
+- [gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [parallaxr](https://github.com/martinctc/parallaxr) - Generate a parallax scroll document in R with YAML and Markdown
 - [githubCalendar](https://github.com/MayaGans/githubCalendar) - Creating a visual in Observable, then turning it into a widget. All the R user will need to supply is a data frame of dates and values... I hope)
 - [iframe.illustrations](https://github.com/ThinkR-open/iframe.illustrations) - Some iframe for our blog posts on thinkr.fr
@@ -791,7 +800,6 @@
 - [craneur](https://github.com/ColinFay/craneur) - Create your own R Archive Network
 - [radiant.data](https://github.com/radiant-rstats/radiant.data) - Code for the Data menu in Radiant
 - [ActuarialDataScience](https://github.com/JSchelldorfer/ActuarialDataScience) - Code for the Actuarial Data Science Tutorials published at https://actuarialdatascience.org.
-- [R-Fundamentals](https://github.com/dlab-berkeley/R-Fundamentals) - 12-hour intro to data science in R, no prior knowledge assumed
 - [encryptedRmd](https://github.com/dirkschumacher/encryptedRmd) - 🔑 Password protected markdown html reports in R using libsodium
 - [pacman](https://github.com/trinker/pacman) - A package management tools for R
 - [ensurer](https://github.com/smbache/ensurer) - Ensure values are as expected at runtime
@@ -861,9 +869,14 @@
 
 ## JavaScript 
 
+- [maid](https://github.com/egoist/maid) - Markdown driven task runner.
+- [Azure-Readiness-Checklist](https://github.com/ghostinthewires/Azure-Readiness-Checklist) - This checklist is your guide to the best practices for deploying secure, scalable, and highly available infrastructure in Azure. Before you go live, go through each item, and make sure you haven't missed anything important!
+- [metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
+- [sitemap-generator](https://github.com/lgraubner/sitemap-generator) - Easily create XML sitemaps for your website.
+- [awesome-seo](https://github.com/teles/awesome-seo) - :star2: A curated list of SEO (Search Engine Optimization) links.
+- [sharec](https://github.com/lamartire/sharec) - 📦 Store your configs in one place and share between projects without any pain
 - [wuffle](https://github.com/nikku/wuffle) - A multi-repository task board for GitHub issues.
 - [create-issue-from-file](https://github.com/peter-evans/create-issue-from-file) - A GitHub action to create an issue using content from a file
-- [gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - an enhancer/customiser for the all-in-one productivity workspace notion.so
 - [create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) - A GitHub action to create or update an issue or pull request comment
 - [tweet-to-markdown](https://github.com/kbravh/tweet-to-markdown) - A command line tool to convert Tweets to Markdown.
@@ -942,7 +955,6 @@
 - [docable-notebooks](https://github.com/ottomatica/docable-notebooks) - 
 - [wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
 - [chrome-wakatime](https://github.com/wakatime/chrome-wakatime) - Chrome extension for automatic time tracking and metrics generated from your browsing activity.
-- [design-system](https://github.com/storybookjs/design-system) - 🗃 Storybook Design System
 - [electron-learn-project](https://github.com/khaosdoctor/electron-learn-project) - Simple electron project to learn the framework
 - [make-dir](https://github.com/sindresorhus/make-dir) - Make a directory and its parents if needed - Think `mkdir -p`
 - [typewriterjs](https://github.com/tameemsafi/typewriterjs) - A simple yet powerful native javascript plugin for a cool typewriter effect.
@@ -1405,6 +1417,7 @@
 
 ## Lua 
 
+- [dotfiles](https://github.com/onodera-punpun/dotfiles) - My dotfiles and themes.
 - [sile](https://github.com/sile-typesetter/sile) - Simon’s Improved Layout Engine
 - [nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [lua-filters](https://github.com/pandoc/lua-filters) - A collection of lua filters for pandoc
@@ -1422,6 +1435,10 @@
 
 ## Makefile 
 
+- [developer](https://github.com/phodal/developer) - developer roadmap. use growth https://github.com/phodal/growth replace this
+- [badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
+- [How-to-be-a-good-programmer](https://github.com/niudai/How-to-be-a-good-programmer) - I'm here to tell you some amazing stuff which teacher would never tell you.
+- [kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook) - Kubernetes Handbook （Kubernetes指南）   https://kubernetes.feisky.xyz
 - [singr](https://github.com/cole-brokamp/singr) - A singularity image designed for R and renv
 - [relink](https://github.com/maandree/relink) - A simple utility that modifies your symlinks
 - [rocker-tiledb](https://github.com/eddelbuettel/rocker-tiledb) - Unofficial Development Docker files for R and TileDB
@@ -1955,6 +1972,8 @@
 
 ## PHP 
 
+- [SEO-Helper](https://github.com/ARCANEDEV/SEO-Helper) - :mag: SEO Helper is a package that provides tools and helpers for SEO (Search Engine Optimization).
+- [schema-org](https://github.com/spatie/schema-org) - A fluent builder Schema.org types and ld+json generator
 - [KnpSnappyBundle](https://github.com/KnpLabs/KnpSnappyBundle) - Easily create PDF and images in Symfony by converting html using webkit
 - [dompdf](https://github.com/dompdf/dompdf) - HTML to PDF converter for PHP
 - [all-in-one-seo-pack](https://github.com/awesomemotive/all-in-one-seo-pack) - All in One SEO Pack plugin for WordPress SEO
@@ -1981,6 +2000,9 @@
 
 ## PowerShell 
 
+- [ChocolateyPackages](https://github.com/bcurran3/ChocolateyPackages) - My published Chocolatey packages
+- [OrgKit](https://github.com/SwiftOnSecurity/OrgKit) - Provision a brand-new company with proper defaults in Windows, Offic365, and Azure
+- [reference-architectures](https://github.com/mspnp/reference-architectures) - templates and scripts for deploying Azure Reference Architectures
 - [SgtPoSh](https://github.com/stephengtuggy/SgtPoSh) - A collection of several of my most useful PowerShell scripts
 - [GetSTFolderSize](https://github.com/EliteLoser/GetSTFolderSize) - Get folder sizes blazingly fast with PowerShell
 - [WSL](https://github.com/MicrosoftDocs/WSL) - Source code behind the Windows Subsystem for Linux documentation.
@@ -2049,6 +2071,9 @@
 
 ## Python 
 
+- [azure-devops-cli-extension](https://github.com/Azure/azure-devops-cli-extension) - Azure DevOps Extension for Azure CLI
+- [advertools](https://github.com/eliasdabbas/advertools) - advertools - online marketing productivity and analysis tools
+- [webapp-checklist](https://github.com/dhilipsiva/webapp-checklist) - Technical details that a programmer of a web application should consider before making the site public.
 - [nought](https://github.com/cole-wilson/nought) - A super customizable file cleaner/organizer/automator.
 - [obsidian-scripts](https://github.com/jplattel/obsidian-scripts) - A collection of scripts that I use with Obsidian
 - [linguist](https://github.com/douban/linguist) - Language Savant, Python clone of github/linguist.
@@ -2266,6 +2291,8 @@
 
 ## R 
 
+- [Shiny_app_Azure](https://github.com/kwhitehall/Shiny_app_Azure) - End to end deployment of R Shiny in Azure using Docker, Azure Container Registry and Azure Web Apps
+- [googleKubernetesR](https://github.com/RhysJackson/googleKubernetesR) - An R package for the Google Kubernetes Engine API
 - [shiny-demo-apps](https://github.com/thomas-neitmann/shiny-demo-apps) - A collection of (simple) apps showcasing various shiny features
 - [deploying-r-on-cloud](https://github.com/holken1/deploying-r-on-cloud) - Tutorials and sample code/config for deploying R code like Shiny to the cloud
 - [plumberDeploy](https://github.com/meztez/plumberDeploy) - 
@@ -2492,7 +2519,7 @@
 - [rmdtools](https://github.com/skranz/rmdtools) - Tools for RMarkdown
 - [RTutor](https://github.com/skranz/RTutor) - Creating interactive R Problem Sets. Automatic hints and solution checks. (Shiny or RStudio)
 - [YoMos2020](https://github.com/selinaZitrone/YoMos2020) - Example of Good Scientific Programming Practice
-- [stacks](https://github.com/tidymodels/stacks) - Tools for tidy model stacking
+- [stacks](https://github.com/tidymodels/stacks) - Tidy model stacking
 - [AOI](https://github.com/mikejohnson51/AOI) - An R 📦   to find, process, and describe "areas of interest"
 - [dockeRs](https://github.com/ismailsunni/dockeRs) - A collection of docker image of various R implementations on various platform both vanilla and with geospatial R packages.
 - [testcontainerit](https://github.com/benmarwick/testcontainerit) - 
@@ -2511,7 +2538,7 @@
 - [shinysaurus](https://github.com/rpodcast/shinysaurus) - Visualizing the datasauRus dozen in Shiny
 - [metamer](https://github.com/eliocamp/metamer) - Create data sets with identical statistics.
 - [data-package-best-practices](https://github.com/EDIorg/data-package-best-practices) - Best Practices for data packages. a gh-pages website, with sections for metadata concepts and aspects of data packaging
-- [DataEditR](https://github.com/DillonHammill/DataEditR) - An Interactive R Package for Viewing, Entering and Editing Data
+- [DataEditR](https://github.com/DillonHammill/DataEditR) - An Interactive R Package for Viewing, Entering Filtering and Editing Data
 - [web_geochemistry](https://github.com/arf-berkeley/web_geochemistry) - R-Shiny project for visualizing XRF and NAA geochemistry concentrations
 - [VolcaNoseR](https://github.com/JoachimGoedhart/VolcaNoseR) - Shiny app for making and annotating Volcano plots
 - [cloudrun-helloworld-r](https://github.com/Jinksi/cloudrun-helloworld-r) - An example of creating serverless functions using R, plumber and Docker
@@ -3715,6 +3742,7 @@
 - [progressr](https://github.com/HenrikBengtsson/progressr) - 三 R package: An Inclusive, Unifying API for Progress Updates
 - [speedtest](https://github.com/hrbrmstr/speedtest) - :triangular_ruler: Measure upload/download speed/bandwidth for your network with R
 - [notary](https://github.com/ropenscilabs/notary) - :lock_with_ink_pen::package: Signing & verification of R packages
+- [R-Fundamentals](https://github.com/dlab-berkeley/R-Fundamentals) - 12-hour intro to data science in R, no prior knowledge assumed
 - [compareDF](https://github.com/alexsanjoseph/compareDF) - R Tool to compare two data.frames
 - [financial-asset-comparison-tool](https://github.com/pmaji/financial-asset-comparison-tool) - R Shiny app to compare the relative performance of cryptos and equities.
 - [startr](https://github.com/globeandmail/startr) - A template for data journalism in R
@@ -4380,6 +4408,8 @@
 
 ## TypeScript 
 
+- [appsmith](https://github.com/appsmithorg/appsmith) - A web framework to build admin panels and internal tools.
+- [env-cmd](https://github.com/toddbluhm/env-cmd) - Setting environment variables from a file
 - [github-issues-notice](https://github.com/linyows/github-issues-notice) - :octocat: Notify labeled issues to Slack
 - [VSCode-R-Debugger](https://github.com/ManuelHentschel/VSCode-R-Debugger) - R Debugger Extension for Visual Studio Code
 - [obsidian-calendar-plugin](https://github.com/liamcain/obsidian-calendar-plugin) - Simple calendar widget for Obsidian.
@@ -4411,6 +4441,7 @@
 - [memex](https://github.com/steve-1820/memex) - A brief POC of what a Memex could potentially be.
 - [actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - 
+- [design-system](https://github.com/storybookjs/design-system) - 🗃 Storybook Design System
 - [zotero-citations](https://github.com/retorquere/zotero-citations) - Zotero Markdown citations for the Atom editor
 - [hotkeysplus-obsidian](https://github.com/argenos/hotkeysplus-obsidian) - Adds hotkeys to toggle todos, ordered/unordered lists and blockquotes in Obsidian
 - [nldates-obsidian](https://github.com/argenos/nldates-obsidian) - Create date-links based on natural language in Obsidian
