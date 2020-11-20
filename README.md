@@ -577,6 +577,8 @@
 
 ## HTML 
 
+- [causal_inference_r_workshop](https://github.com/malcolmbarrett/causal_inference_r_workshop) - Causal Inference in R Workshop
+- [browser-search-engines](https://github.com/pcdevil/browser-search-engines) - 
 - [web-launch-checklist](https://github.com/HarrisJT/web-launch-checklist) - :clipboard: A simple website launch checklist to keep track of the most important enrichment possibilities for a website.
 - [gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [parallaxr](https://github.com/martinctc/parallaxr) - Generate a parallax scroll document in R with YAML and Markdown
@@ -869,6 +871,9 @@
 
 ## JavaScript 
 
+- [screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
+- [domtoimage](https://github.com/jjunici/domtoimage) - 
+- [FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
 - [maid](https://github.com/egoist/maid) - Markdown driven task runner.
 - [Azure-Readiness-Checklist](https://github.com/ghostinthewires/Azure-Readiness-Checklist) - This checklist is your guide to the best practices for deploying secure, scalable, and highly available infrastructure in Azure. Before you go live, go through each item, and make sure you haven't missed anything important!
 - [metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
@@ -1472,6 +1477,7 @@
 
 ## Others 
 
+- [blog](https://github.com/jtommaney/blog) - notes on parallel analytic operators
 - [template_shinydashboard](https://github.com/jimbrig/template_shinydashboard) - Template for creating a shinydashboard at Tychobra
 - [tools](https://github.com/mkorenkov/tools) - GitHub issues import has moved to other repo
 - [Structured-Data-JSON-LD](https://github.com/JayHoltslander/Structured-Data-JSON-LD) - Collection of structured data snippets in Google preferred JSON-LD format.
@@ -2071,6 +2077,9 @@
 
 ## Python 
 
+- [kodiak](https://github.com/chdsbd/kodiak) - 🔮 A bot to automatically update and merge GitHub PRs
+- [docker-replay](https://github.com/bcicen/docker-replay) - Generate docker commands to rerun existing containers
+- [opensearch](https://github.com/dewitt/opensearch) - OpenSearch is a collection of simple formats for the sharing of search results.
 - [azure-devops-cli-extension](https://github.com/Azure/azure-devops-cli-extension) - Azure DevOps Extension for Azure CLI
 - [advertools](https://github.com/eliasdabbas/advertools) - advertools - online marketing productivity and analysis tools
 - [webapp-checklist](https://github.com/dhilipsiva/webapp-checklist) - Technical details that a programmer of a web application should consider before making the site public.
@@ -2291,6 +2300,8 @@
 
 ## R 
 
+- [changer](https://github.com/helske/changer) - Change R Package Name
+- [shiny.semantic-hackathon-2020](https://github.com/Appsilon/shiny.semantic-hackathon-2020) - Appsilon shiny.semantic hackathon 2020
 - [Shiny_app_Azure](https://github.com/kwhitehall/Shiny_app_Azure) - End to end deployment of R Shiny in Azure using Docker, Azure Container Registry and Azure Web Apps
 - [googleKubernetesR](https://github.com/RhysJackson/googleKubernetesR) - An R package for the Google Kubernetes Engine API
 - [shiny-demo-apps](https://github.com/thomas-neitmann/shiny-demo-apps) - A collection of (simple) apps showcasing various shiny features
@@ -2848,7 +2859,7 @@
 - [data2gRaph](https://github.com/muhendis/data2gRaph) - The data2gRaph project is a web-based data visualization tool that can also be used off-line.
 - [shinyAppGallery](https://github.com/davidruvolo51/shinyAppGallery) - My library of shiny apps
 - [atl-salary-data](https://github.com/tmasjc/atl-salary-data) - Simpson's paradox: a case study exercise
-- [shinyssd](https://github.com/flor14/shinyssd) - shinyssd v1.0: Species Sensitivity Distributions for Ecotoxicological Risk Assessment
+- [shinyssd](https://github.com/flor14/shinyssd) - ✨📦👩‍💻 shinyssd v1.0: Species Sensitivity Distributions for Ecotoxicological Risk Assessment
 - [shinyPlugins](https://github.com/Tazovsky/shinyPlugins) - Shiny Plugins implementation
 - [Shiny_NextPreviousArrow](https://github.com/AntoineGuillot2/Shiny_NextPreviousArrow) - Code to create Next and Previous arrow in a tabBox in Shiny Dashboard
 - [ContentSecurityPolicy](https://github.com/dirkschumacher/ContentSecurityPolicy) - Content Security Policies for Shiny Apps
