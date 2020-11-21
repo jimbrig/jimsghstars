@@ -305,6 +305,7 @@
 
 ## CSS 
 
+- [browsr](https://github.com/jimbrig/browsr) - Query advanced searches from your R console!
 - [Obsidian-Obsidianite](https://github.com/TriDiamond/Obsidian-Obsidianite) - 🎨 Obsidian.md custom theme, it's dark and simple but yet still stays sparkles!
 - [betterObsidian](https://github.com/phibr0/betterObsidian) - My CSS Theme for the Obsidian Note Taking App.
 - [gitsidian](https://github.com/ishgunacar/gitsidian) - An obsidian theme inspired by GitHub markdown styles
@@ -480,6 +481,15 @@
 
 ## Go 
 
+- [docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+- [onecache](https://github.com/adelowo/onecache) - One caching API, Multiple backends
+- [netbug](https://github.com/e-dard/netbug) - Package netbug provides a handler for registering profilers on your own ServeMux.
+- [moldova](https://github.com/StabbyCutyou/moldova) - A lightweight templating system for generating random data
+- [jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits. ✌️
+- [gtm](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git
+- [chyle](https://github.com/antham/chyle) - Changelog generator : use a git repository and various data sources and publish the result on external services
+- [boilr](https://github.com/tmrts/boilr) - :zap: boilerplate template manager that generates files or directories from template repositories
+- [docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker technologies, with real DevOps practice!
 - [assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
 - [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [flyte](https://github.com/ExpediaGroup/flyte) - Flyte binds together the tools you use into easily defined, automated workflows
@@ -528,7 +538,6 @@
 - [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
 - [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
 - [dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers
-- [boilr](https://github.com/tmrts/boilr) - :zap: boilerplate template manager that generates files or directories from template repositories
 - [docker-shell](https://github.com/Trendyol/docker-shell) - A simple interactive prompt for docker
 - [lstags](https://github.com/ivanilves/lstags) - Explore Docker registries and manipulate Docker images!
 - [WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons) - ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting
@@ -577,6 +586,8 @@
 
 ## HTML 
 
+- [quick-skeleton-templates](https://github.com/arthrp/quick-skeleton-templates) - Templates for quick-skeleton scaffolding engine
+- [freelance](https://github.com/KasperZutterman/freelance) - 
 - [causal_inference_r_workshop](https://github.com/malcolmbarrett/causal_inference_r_workshop) - Causal Inference in R Workshop
 - [browser-search-engines](https://github.com/pcdevil/browser-search-engines) - 
 - [web-launch-checklist](https://github.com/HarrisJT/web-launch-checklist) - :clipboard: A simple website launch checklist to keep track of the most important enrichment possibilities for a website.
@@ -871,6 +882,7 @@
 
 ## JavaScript 
 
+- [wt-editor-cli](https://github.com/BlackPhlox/wt-editor-cli) - Real-time command-line editor for Windows Terminal settings
 - [screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
 - [domtoimage](https://github.com/jjunici/domtoimage) - 
 - [FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
@@ -1477,6 +1489,8 @@
 
 ## Others 
 
+- [bookmarks](https://github.com/BookmarksDev/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.bookmarks.dev
+- [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub
 - [blog](https://github.com/jtommaney/blog) - notes on parallel analytic operators
 - [template_shinydashboard](https://github.com/jimbrig/template_shinydashboard) - Template for creating a shinydashboard at Tychobra
 - [tools](https://github.com/mkorenkov/tools) - GitHub issues import has moved to other repo
@@ -2006,6 +2020,7 @@
 
 ## PowerShell 
 
+- [Utilities](https://github.com/farag2/Utilities) - Useful things
 - [ChocolateyPackages](https://github.com/bcurran3/ChocolateyPackages) - My published Chocolatey packages
 - [OrgKit](https://github.com/SwiftOnSecurity/OrgKit) - Provision a brand-new company with proper defaults in Windows, Offic365, and Azure
 - [reference-architectures](https://github.com/mspnp/reference-architectures) - templates and scripts for deploying Azure Reference Architectures
@@ -2077,6 +2092,7 @@
 
 ## Python 
 
+- [Notifly](https://github.com/rexdivakar/Notifly) - 
 - [kodiak](https://github.com/chdsbd/kodiak) - 🔮 A bot to automatically update and merge GitHub PRs
 - [docker-replay](https://github.com/bcicen/docker-replay) - Generate docker commands to rerun existing containers
 - [opensearch](https://github.com/dewitt/opensearch) - OpenSearch is a collection of simple formats for the sharing of search results.
@@ -2300,6 +2316,11 @@
 
 ## R 
 
+- [nasaR](https://github.com/Liu-Zhichao/nasaR) - nasaR API Client
+- [nasadata](https://github.com/Eflores89/nasadata) - R package to interact with NASA API's :earth_americas: :earth_africa:
+- [getDTeval](https://github.com/Zoe0409/getDTeval) - 
+- [Insurance-Dashboard-with-Rshiny](https://github.com/Zoe0409/Insurance-Dashboard-with-Rshiny) - Source code for https://zoe0409.shinyapps.io/insurance-dashboard-with-rshiny/
+- [cransays](https://github.com/lockedata/cransays) - Creates an Overview of CRAN Incoming Submissions :mailbox_with_mail:
 - [changer](https://github.com/helske/changer) - Change R Package Name
 - [shiny.semantic-hackathon-2020](https://github.com/Appsilon/shiny.semantic-hackathon-2020) - Appsilon shiny.semantic hackathon 2020
 - [Shiny_app_Azure](https://github.com/kwhitehall/Shiny_app_Azure) - End to end deployment of R Shiny in Azure using Docker, Azure Container Registry and Azure Web Apps
@@ -4147,6 +4168,8 @@
 
 ## Rust 
 
+- [cb](https://github.com/yaa110/cb) - Command line interface to manage clipboard
+- [monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [ghlabel](https://github.com/jimmycuadra/ghlabel) - Automatically creates and deletes labels on GitHub Issues to match a template
 - [kbgen](https://github.com/jmg-duarte/kbgen) - kbgen is a tool to generate Foam knowledge base documents
 - [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
@@ -4238,7 +4261,7 @@
 - [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 - [BusinessCard](https://github.com/tallguyjenks/BusinessCard) - 💳 My curl-able business card
 - [mro-docker](https://github.com/nuest/mro-docker) - Docker image for Microsoft R Open
-- [r-travis](https://github.com/eddelbuettel/r-travis) - Tools for using R with Travis, GitHub Actions and other CI backends
+- [r-ci](https://github.com/eddelbuettel/r-ci) - Tools for using R with Travis, GitHub Actions and other CI backends
 - [dotfiles_wsl](https://github.com/clarenceb/dotfiles_wsl) - Windows Subsystem for Linux (WSL) Dotfiles
 - [wsl_dotfiles](https://github.com/Surumerf/wsl_dotfiles) - Dotfiles for Ubuntu on Windows
 - [dotfiles](https://github.com/JBlond/dotfiles) - my dot files with git and docker extension for windows and linux
@@ -4419,6 +4442,8 @@
 
 ## TypeScript 
 
+- [bookmarks.dev](https://github.com/BookmarksDev/bookmarks.dev) - Bookmarks and Code Snippets Manager for Developers & Co
+- [wikilinks-to-mdlinks-obsidian](https://github.com/agathauy/wikilinks-to-mdlinks-obsidian) - 
 - [appsmith](https://github.com/appsmithorg/appsmith) - A web framework to build admin panels and internal tools.
 - [env-cmd](https://github.com/toddbluhm/env-cmd) - Setting environment variables from a file
 - [github-issues-notice](https://github.com/linyows/github-issues-notice) - :octocat: Notify labeled issues to Slack
