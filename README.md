@@ -85,6 +85,7 @@
 
 ## Batchfile 
 
+- [batchfiles](https://github.com/ggrothendieck/batchfiles) - Automatically exported from code.google.com/p/batchfiles
 - [win10_simplifier](https://github.com/mattreecebentley/win10_simplifier) - Windows 10 Simplifier - A script for automating simplifications and maintenance
 - [mpv-install](https://github.com/rossy/mpv-install) - Sets up file associations for mpv on Windows
 - [ws-folder-template-provisioner](https://github.com/wandersick/ws-folder-template-provisioner) - This Windows batch script provisions (copies) new folders with exact permissions and content from a specified existing folder (template) based on the information (first name and last name) inputted by a user via its command-line interface.
@@ -156,6 +157,7 @@
 
 ## C# # 
 
+- [ThisDevelopersLife](https://github.com/hishamco/ThisDevelopersLife) - Scott Hanselman "This Developer's Life" podcast using Razor Pages
 - [Schema.NET](https://github.com/RehanSaeed/Schema.NET) - Schema.org objects turned into strongly typed C# POCO classes for use in .NET. All classes can be serialized into JSON/JSON-LD and XML, typically used to represent structured data in the head section of html page.
 - [Somewhere](https://github.com/chaojian-zhang/Somewhere) - A tag based file management system.
 - [clippy](https://github.com/refactorsaurusrex/clippy) - "Copy as path"... but better
@@ -451,6 +453,7 @@
 
 ## Dockerfile 
 
+- [EfficientR_Docker](https://github.com/G-Thomson/EfficientR_Docker) - Unofficial Docker image for Efficient R programming by Colin Gillespie and  Robin Lovelace
 - [mkit](https://github.com/darkbitio/mkit) - MKIT is a Managed Kubernetes Inspection Tool that validates several common security-related configuration settings of managed Kubernetes cluster objects and the workloads/resources running inside the cluster.
 - [actions](https://github.com/maddox/actions) - A collection of useful GitHub Actions
 - [dockerfiles](https://github.com/dirmeier/dockerfiles) - A collection of docker files.
@@ -586,6 +589,8 @@
 
 ## HTML 
 
+- [easyMake](https://github.com/GShotwell/easyMake) - Automatically generate Makefiles for R projects
+- [ScottHands.github.io](https://github.com/ScottHands/ScottHands.github.io) - Portfolio
 - [quick-skeleton-templates](https://github.com/arthrp/quick-skeleton-templates) - Templates for quick-skeleton scaffolding engine
 - [freelance](https://github.com/KasperZutterman/freelance) - 
 - [causal_inference_r_workshop](https://github.com/malcolmbarrett/causal_inference_r_workshop) - Causal Inference in R Workshop
@@ -882,6 +887,7 @@
 
 ## JavaScript 
 
+- [portfolio-v2](https://github.com/gillescj/portfolio-v2) - My current portfolio showcasing recent projects. Developed with React.
 - [wt-editor-cli](https://github.com/BlackPhlox/wt-editor-cli) - Real-time command-line editor for Windows Terminal settings
 - [screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
 - [domtoimage](https://github.com/jjunici/domtoimage) - 
@@ -1489,6 +1495,7 @@
 
 ## Others 
 
+- [devcomrade](https://github.com/shanselman/devcomrade) - DevComrade - A copy/paste/run productivity improvement utility for developers
 - [bookmarks](https://github.com/BookmarksDev/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.bookmarks.dev
 - [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub
 - [blog](https://github.com/jtommaney/blog) - notes on parallel analytic operators
@@ -2316,6 +2323,9 @@
 
 ## R 
 
+- [samatha](https://github.com/DASpringate/samatha) - Build static websites in R
+- [rstudioSettings](https://github.com/pat-s/rstudioSettings) - Apply RStudio configs across devices
+- [R-template-project](https://github.com/drsimonj/R-template-project) - Basic template for an R Project, including folder structure and useful functions
 - [nasaR](https://github.com/Liu-Zhichao/nasaR) - nasaR API Client
 - [nasadata](https://github.com/Eflores89/nasadata) - R package to interact with NASA API's :earth_americas: :earth_africa:
 - [getDTeval](https://github.com/Zoe0409/getDTeval) - 
