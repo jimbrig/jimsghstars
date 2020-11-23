@@ -158,6 +158,7 @@
 
 ## C# # 
 
+- [FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer.
 - [Windows-Wifi-Manager](https://github.com/shanselman/Windows-Wifi-Manager) - Windows Wifi Manager
 - [devcomrade](https://github.com/postprintum/devcomrade) - DevComrade - A copy/paste/run productivity improvement utility for developers
 - [ThisDevelopersLife](https://github.com/hishamco/ThisDevelopersLife) - Scott Hanselman "This Developer's Life" podcast using Razor Pages
@@ -594,6 +595,7 @@
 
 ## HTML 
 
+- [jekyll-toc](https://github.com/allejo/jekyll-toc) - A GitHub Pages compatible Table of Contents generator without a plugin or JavaScript :octocat:
 - [distill_blog](https://github.com/iamericfletcher/distill_blog) - 
 - [EDA](https://github.com/iamericfletcher/EDA) - 
 - [easyMake](https://github.com/GShotwell/easyMake) - Automatically generate Makefiles for R projects
@@ -1538,7 +1540,7 @@
 - [markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your Profile and Projects.
 - [DenverCoder1](https://github.com/DenverCoder1/DenverCoder1) - Profile README for DenverCoder1
 - [jimbrig](https://github.com/jimbrig/jimbrig) - Github Homepage
-- [awesome-stars](https://github.com/jimbrig/awesome-stars) - A curated list of my GitHub stars! ⭐
+- [jimsghstars](https://github.com/jimbrig/jimsghstars) - A curated list of my GitHub stars! ⭐
 - [my-stars](https://github.com/kissgyorgy/my-stars) - My GitHub starred repositories
 - [awesome-stars](https://github.com/chinanf-boy/awesome-stars) - A curated list of my GitHub stars!
 - [Stars](https://github.com/1132719438/Stars) - A curated list of my GitHub stars!
