@@ -98,6 +98,7 @@
 
 ## C 
 
+- [yori](https://github.com/malxau/yori) - Yori is a CMD replacement shell that supports backquotes, job control, and improves tab completion, file matching, aliases, command history, and more.
 - [colorout](https://github.com/jalvesaq/colorout) - Colorize R output in terminal emulators
 - [HummusJS](https://github.com/galkahana/HummusJS) - Node.js module for high performance creation, modification and parsing of PDF files and streams
 - [st](https://github.com/kmaasrud/st) - My personal fork of st
@@ -157,6 +158,8 @@
 
 ## C# # 
 
+- [Windows-Wifi-Manager](https://github.com/shanselman/Windows-Wifi-Manager) - Windows Wifi Manager
+- [devcomrade](https://github.com/postprintum/devcomrade) - DevComrade - A copy/paste/run productivity improvement utility for developers
 - [ThisDevelopersLife](https://github.com/hishamco/ThisDevelopersLife) - Scott Hanselman "This Developer's Life" podcast using Razor Pages
 - [Schema.NET](https://github.com/RehanSaeed/Schema.NET) - Schema.org objects turned into strongly typed C# POCO classes for use in .NET. All classes can be serialized into JSON/JSON-LD and XML, typically used to represent structured data in the head section of html page.
 - [Somewhere](https://github.com/chaojian-zhang/Somewhere) - A tag based file management system.
@@ -307,6 +310,7 @@
 
 ## CSS 
 
+- [firsttimersonly](https://github.com/shanselman/firsttimersonly) - The Repository for the FirstTimersOnly movement in Open Source. We want projects to reserve some issues for newbies.
 - [browsr](https://github.com/jimbrig/browsr) - Query advanced searches from your R console!
 - [Obsidian-Obsidianite](https://github.com/TriDiamond/Obsidian-Obsidianite) - 🎨 Obsidian.md custom theme, it's dark and simple but yet still stays sparkles!
 - [betterObsidian](https://github.com/phibr0/betterObsidian) - My CSS Theme for the Obsidian Note Taking App.
@@ -476,6 +480,7 @@
 
 - [dotfiles](https://github.com/cole-brokamp/dotfiles) - dotfiles
 - [configuration](https://github.com/yihui/configuration) - My configuration files
+- [dotfiles](https://github.com/kdai9o/dotfiles) - My dotfiles
 - [zettel-mode](https://github.com/vifon/zettel-mode) - A Zettelkasten-style note-taking helper
 
 ## Gherkin 
@@ -589,6 +594,8 @@
 
 ## HTML 
 
+- [distill_blog](https://github.com/iamericfletcher/distill_blog) - 
+- [EDA](https://github.com/iamericfletcher/EDA) - 
 - [easyMake](https://github.com/GShotwell/easyMake) - Automatically generate Makefiles for R projects
 - [ScottHands.github.io](https://github.com/ScottHands/ScottHands.github.io) - Portfolio
 - [quick-skeleton-templates](https://github.com/arthrp/quick-skeleton-templates) - Templates for quick-skeleton scaffolding engine
@@ -625,6 +632,7 @@
 - [dataviz](https://github.com/clauswilke/dataviz) - A book covering the fundamentals of data visualization
 - [milesmcbain.com](https://github.com/MilesMcBain/milesmcbain.com) - Seeing if I can make my website look any good with distill...
 - [tallguyjenks.github.io](https://github.com/tallguyjenks/tallguyjenks.github.io) - My personal Website
+- [streaming](https://github.com/tallguyjenks/streaming) - 
 - [Basic-data-manipulation](https://github.com/bdavis19/Basic-data-manipulation) - Springboard - Data Wrangling Exercise 1
 - [Health-analytics](https://github.com/nunesma/Health-analytics) - Data analysis focusing on health problems
 - [Business-Analytics-with-R](https://github.com/yujunkuo/Business-Analytics-with-R) - This is my homework in the course of Business Analytics with R, 2019@NCCU
@@ -1495,6 +1503,10 @@
 
 ## Others 
 
+- [FAQ](https://github.com/BryanJenksCommunity/FAQ) - Where I answer questions
+- [awesome-r-learning-resources](https://github.com/iamericfletcher/awesome-r-learning-resources) - A curated collection of free resources to help deepen your understanding of the R programming language. Updated regularly. Contributions encouraged via pull request (see contributing.md).
+- [learninggit](https://github.com/shanselman/learninggit) - 
+- [WindowsTerminalHere](https://github.com/shanselman/WindowsTerminalHere) - a .inf file for a right click Explorer "windows terminal here" for Windows Terminal until it's supported directly
 - [devcomrade](https://github.com/shanselman/devcomrade) - DevComrade - A copy/paste/run productivity improvement utility for developers
 - [bookmarks](https://github.com/BookmarksDev/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.bookmarks.dev
 - [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub
@@ -1553,7 +1565,6 @@
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [pocket-tech-writing-list](https://github.com/rubymorillo/pocket-tech-writing-list) - A small but formidable list of technical writing resources for developers
 - [theme-obsidian-doc](https://github.com/TriDiamond/theme-obsidian-doc) - Documentation for theme `Obisidian`
-- [streaming](https://github.com/tallguyjenks/streaming) - 
 - [template](https://github.com/tallguyjenks/template) - My Template Repo
 - [FAQ](https://github.com/tallguyjenks/FAQ) - Frequently Asked Questions
 - [LEARNING](https://github.com/tallguyjenks/LEARNING) - Using issues and project boards to track all my questions to learn new languages
@@ -2027,6 +2038,7 @@
 
 ## PowerShell 
 
+- [posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 - [Utilities](https://github.com/farag2/Utilities) - Useful things
 - [ChocolateyPackages](https://github.com/bcurran3/ChocolateyPackages) - My published Chocolatey packages
 - [OrgKit](https://github.com/SwiftOnSecurity/OrgKit) - Provision a brand-new company with proper defaults in Windows, Offic365, and Azure
@@ -4212,7 +4224,6 @@
 - [foam-template](https://github.com/foambubble/foam-template) - Foam workpace template
 - [clair-de-lune-obsidian-theme](https://github.com/jamiebrynes7/clair-de-lune-obsidian-theme) - An obsidian.md theme inspired by the Moonlight family of themes
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
-- [knowledgebase](https://github.com/tianheg/knowledgebase) - This is my knowledgebase site with the help of https://github.com/foambubble/foam.
 - [devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [Blunt](https://github.com/f-prime/Blunt) - A CSS framework that helps with layouts and leaves your styling alone.
 - [rsthemes](https://github.com/gadenbuie/rsthemes) - 🔮 Full RStudio IDE and Syntax Themes
@@ -4271,7 +4282,7 @@
 - [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 - [BusinessCard](https://github.com/tallguyjenks/BusinessCard) - 💳 My curl-able business card
 - [mro-docker](https://github.com/nuest/mro-docker) - Docker image for Microsoft R Open
-- [r-ci](https://github.com/eddelbuettel/r-ci) - Tools for using R with Travis, GitHub Actions and other CI backends
+- [r-travis](https://github.com/eddelbuettel/r-travis) - Tools for using R with Travis, GitHub Actions and other CI backends
 - [dotfiles_wsl](https://github.com/clarenceb/dotfiles_wsl) - Windows Subsystem for Linux (WSL) Dotfiles
 - [wsl_dotfiles](https://github.com/Surumerf/wsl_dotfiles) - Dotfiles for Ubuntu on Windows
 - [dotfiles](https://github.com/JBlond/dotfiles) - my dot files with git and docker extension for windows and linux
@@ -4281,7 +4292,6 @@
 - [dotfiles](https://github.com/jakecobley/dotfiles) - Dotfiles - personal preferences for various applications, editors, linters, and packages on macOS and Windows 10 with Windows Subsystem for Linux 2 (WSL2).
 - [dotfiles](https://github.com/pawelbialaszczyk/dotfiles) - Windows dotfiles managed using a bare git repository.
 - [dotfiles](https://github.com/ridhwaans/dotfiles) - 💻Personal dotfiles for mac and wsl
-- [dotfiles](https://github.com/kdai9o/dotfiles) - My dotfiles
 - [wsl-dotfiles](https://github.com/Xyene/wsl-dotfiles) - My dotfiles for running an i3-based environment within the Windows Subsystem for Linux (WSL).
 - [dotfiles](https://github.com/cretueusebiu/dotfiles) - My dotfiles for Windows
 - [dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
