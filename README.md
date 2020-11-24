@@ -158,6 +158,7 @@
 
 ## C# # 
 
+- [RTVS](https://github.com/microsoft/RTVS) - R Tools for Visual Studio.
 - [FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer.
 - [Windows-Wifi-Manager](https://github.com/shanselman/Windows-Wifi-Manager) - Windows Wifi Manager
 - [devcomrade](https://github.com/postprintum/devcomrade) - DevComrade - A copy/paste/run productivity improvement utility for developers
@@ -897,6 +898,7 @@
 
 ## JavaScript 
 
+- [md-file-tree](https://github.com/michalbe/md-file-tree) - Generate markdown list of all the files in a directory. Now also with emoji 📂 📄
 - [portfolio-v2](https://github.com/gillescj/portfolio-v2) - My current portfolio showcasing recent projects. Developed with React.
 - [wt-editor-cli](https://github.com/BlackPhlox/wt-editor-cli) - Real-time command-line editor for Windows Terminal settings
 - [screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
@@ -2113,6 +2115,7 @@
 
 ## Python 
 
+- [todoist-cli](https://github.com/Raytray/todoist-cli) - Python command line tool to quickly add tasks to projects with due dates.
 - [Notifly](https://github.com/rexdivakar/Notifly) - 
 - [kodiak](https://github.com/chdsbd/kodiak) - 🔮 A bot to automatically update and merge GitHub PRs
 - [docker-replay](https://github.com/bcicen/docker-replay) - Generate docker commands to rerun existing containers
@@ -2333,7 +2336,7 @@
 - [papermill](https://github.com/nteract/papermill) - 📚 Parameterize, execute, and analyze notebooks
 - [paper-tips-and-tricks](https://github.com/Wookai/paper-tips-and-tricks) - Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab.
 - [LaTeXTools](https://github.com/SublimeText/LaTeXTools) - LaTeX plugin for Sublime Text 2 and 3
-- [ArchiveBox](https://github.com/pirate/ArchiveBox) - 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 
 ## R 
 
@@ -4249,6 +4252,7 @@
 
 ## Shell 
 
+- [dotfiles](https://github.com/pat-s/dotfiles) - 
 - [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [gtm](https://github.com/laughedelic/gtm) - :stopwatch: git task/time manager
 - [slack-disable-wysiwyg-bookmarklet](https://github.com/kfahy/slack-disable-wysiwyg-bookmarklet) - Disables the WYSIWYG editor in Slack.
