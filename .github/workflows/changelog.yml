@@ -1,0 +1,2 @@
+- name: Get a changelog between two references
+  uses: metcalfc/changelog-generator@v0.4.4
