@@ -158,6 +158,7 @@
 
 ## C# # 
 
+- [Jump-Location](https://github.com/tkellogg/Jump-Location) - Powershell `cd` that reads your mind
 - [RTVS](https://github.com/microsoft/RTVS) - R Tools for Visual Studio.
 - [FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer.
 - [Windows-Wifi-Manager](https://github.com/shanselman/Windows-Wifi-Manager) - Windows Wifi Manager
@@ -209,7 +210,7 @@
 - [optimizer](https://github.com/hellzerg/optimizer) - Make Windows faster and more secure
 - [Luna](https://github.com/adrianmteo/Luna) - Automatic dark mode for Windows 10
 - [Windows-Auto-Night-Mode](https://github.com/Armin2208/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10
-- [WindowsCommunityToolkit](https://github.com/windows-toolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10. The toolkit is part of the .NET Foundation.
+- [WindowsCommunityToolkit](https://github.com/windows-toolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP and .NET apps for Windows 10. The toolkit is part of the .NET Foundation.
 - [PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
 - [OotD](https://github.com/mscrivo/OotD) - Outlook on the Desktop (OotD)
 - [Integration](https://github.com/microsoft/Integration) - Public repository for Microsoft Integration open source samples, code and tools
@@ -371,7 +372,6 @@
 - [glossRy](https://github.com/rstudio-education/glossRy) - A glossary of terms used in  and around data science.
 - [simplefolio](https://github.com/cobidev/simplefolio) - ⚡️ A minimal portfolio template for Developers
 - [Zettels](https://github.com/crisrojas/Zettels) - Zettels Hugo Theme
-- [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
 - [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [obsidian](https://github.com/busterbenson/obsidian) - Obsidian Letterpress Notes
@@ -491,6 +491,7 @@
 
 ## Go 
 
+- [depscloud](https://github.com/depscloud/depscloud) - Track, monitor, and connect project dependencies across languages and toolchains.
 - [docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [onecache](https://github.com/adelowo/onecache) - One caching API, Multiple backends
 - [netbug](https://github.com/e-dard/netbug) - Package netbug provides a handler for registering profilers on your own ServeMux.
@@ -596,6 +597,7 @@
 
 ## HTML 
 
+- [cv](https://github.com/nstrayer/cv) - My CV built using RMarkdown and the pagedown package.
 - [jekyll-toc](https://github.com/allejo/jekyll-toc) - A GitHub Pages compatible Table of Contents generator without a plugin or JavaScript :octocat:
 - [distill_blog](https://github.com/iamericfletcher/distill_blog) - 
 - [EDA](https://github.com/iamericfletcher/EDA) - 
@@ -898,6 +900,8 @@
 
 ## JavaScript 
 
+- [updates](https://github.com/silverwind/updates) - Flexible npm dependency update tool
+- [git-label](https://github.com/jasonbellamy/git-label) - Automate and simplify the creation of labels for your GitHub repositories
 - [md-file-tree](https://github.com/michalbe/md-file-tree) - Generate markdown list of all the files in a directory. Now also with emoji 📂 📄
 - [portfolio-v2](https://github.com/gillescj/portfolio-v2) - My current portfolio showcasing recent projects. Developed with React.
 - [wt-editor-cli](https://github.com/BlackPhlox/wt-editor-cli) - Real-time command-line editor for Windows Terminal settings
@@ -1470,6 +1474,7 @@
 
 ## Makefile 
 
+- [workflow-showcase](https://github.com/aaronpeikert/workflow-showcase) - 
 - [developer](https://github.com/phodal/developer) - developer roadmap. use growth https://github.com/phodal/growth replace this
 - [badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
 - [How-to-be-a-good-programmer](https://github.com/niudai/How-to-be-a-good-programmer) - I'm here to tell you some amazing stuff which teacher would never tell you.
@@ -1507,7 +1512,8 @@
 
 ## Others 
 
-- [FAQ](https://github.com/BryanJenksCommunity/FAQ) - Where I answer questions
+- [awesome-cloudbuild](https://github.com/Timtech4u/awesome-cloudbuild) - A curated list of resources about all things Google Cloud Build
+- [world.geo.json](https://github.com/johan/world.geo.json) - Annotated geo-json geometry files for the world
 - [awesome-r-learning-resources](https://github.com/iamericfletcher/awesome-r-learning-resources) - A curated collection of free resources to help deepen your understanding of the R programming language. Updated regularly. Contributions encouraged via pull request (see contributing.md).
 - [learninggit](https://github.com/shanselman/learninggit) - 
 - [WindowsTerminalHere](https://github.com/shanselman/WindowsTerminalHere) - a .inf file for a right click Explorer "windows terminal here" for Windows Terminal until it's supported directly
@@ -2115,6 +2121,8 @@
 
 ## Python 
 
+- [git-machete](https://github.com/VirtusLab/git-machete) - Probably the sharpest git repository organizer & rebase/merge workflow automation tool you've ever seen ;)
+- [cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [todoist-cli](https://github.com/Raytray/todoist-cli) - Python command line tool to quickly add tasks to projects with due dates.
 - [Notifly](https://github.com/rexdivakar/Notifly) - 
 - [kodiak](https://github.com/chdsbd/kodiak) - 🔮 A bot to automatically update and merge GitHub PRs
@@ -2340,6 +2348,8 @@
 
 ## R 
 
+- [repro](https://github.com/aaronpeikert/repro) - Easy Setup of a Reproducible Workflow
+- [FAQ](https://github.com/BryanJenksCommunity/FAQ) - Where I answer questions
 - [samatha](https://github.com/DASpringate/samatha) - Build static websites in R
 - [rstudioSettings](https://github.com/pat-s/rstudioSettings) - Apply RStudio configs across devices
 - [R-template-project](https://github.com/drsimonj/R-template-project) - Basic template for an R Project, including folder structure and useful functions
@@ -4195,6 +4205,7 @@
 
 ## Rust 
 
+- [check-if-email-exists](https://github.com/amaurymartiny/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust.
 - [cb](https://github.com/yaa110/cb) - Command line interface to manage clipboard
 - [monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [ghlabel](https://github.com/jimmycuadra/ghlabel) - Automatically creates and deletes labels on GitHub Issues to match a template
@@ -4230,6 +4241,7 @@
 - [clair-de-lune-obsidian-theme](https://github.com/jamiebrynes7/clair-de-lune-obsidian-theme) - An obsidian.md theme inspired by the Moonlight family of themes
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
+- [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [Blunt](https://github.com/f-prime/Blunt) - A CSS framework that helps with layouts and leaves your styling alone.
 - [rsthemes](https://github.com/gadenbuie/rsthemes) - 🔮 Full RStudio IDE and Syntax Themes
 - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
@@ -4252,6 +4264,9 @@
 
 ## Shell 
 
+- [spells](https://github.com/nelsonmestevao/spells) - :crystal_ball: Handcrafted spells
+- [us-atlas](https://github.com/topojson/us-atlas) - Pre-built TopoJSON from the U.S. Census Bureau.
+- [world-atlas](https://github.com/topojson/world-atlas) - Pre-built TopoJSON from Natural Earth.
 - [dotfiles](https://github.com/pat-s/dotfiles) - 
 - [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [gtm](https://github.com/laughedelic/gtm) - :stopwatch: git task/time manager
@@ -4468,6 +4483,7 @@
 
 ## TypeScript 
 
+- [data-dictionary](https://github.com/hasura/data-dictionary) - 
 - [bookmarks.dev](https://github.com/BookmarksDev/bookmarks.dev) - Bookmarks and Code Snippets Manager for Developers & Co
 - [wikilinks-to-mdlinks-obsidian](https://github.com/agathauy/wikilinks-to-mdlinks-obsidian) - 
 - [appsmith](https://github.com/appsmithorg/appsmith) - A web framework to build admin panels and internal tools.
@@ -4599,6 +4615,7 @@
 
 ## Vim script 
 
+- [dotfiles](https://github.com/jasonbellamy/dotfiles) - 
 - [dotfiles](https://github.com/dirmeier/dotfiles) - Collection of dotfiles.
 - [vim-dot](https://github.com/smbache/vim-dot) - quick drop of vim dot files
 - [.dotfiles](https://github.com/tallguyjenks/.dotfiles) - My dot files
