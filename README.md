@@ -900,6 +900,8 @@
 
 ## JavaScript 
 
+- [changelog-generator](https://github.com/metcalfc/changelog-generator) - GitHub Action to generate changelogs, release notes, whatever
+- [githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
 - [updates](https://github.com/silverwind/updates) - Flexible npm dependency update tool
 - [git-label](https://github.com/jasonbellamy/git-label) - Automate and simplify the creation of labels for your GitHub repositories
 - [md-file-tree](https://github.com/michalbe/md-file-tree) - Generate markdown list of all the files in a directory. Now also with emoji 📂 📄
@@ -2348,6 +2350,8 @@
 
 ## R 
 
+- [pro_reports_talk](https://github.com/lindblb/pro_reports_talk) - 
+- [jtools](https://github.com/jacob-long/jtools) - Tools for summarizing/visualizing regressions and other helpful stuff
 - [repro](https://github.com/aaronpeikert/repro) - Easy Setup of a Reproducible Workflow
 - [FAQ](https://github.com/BryanJenksCommunity/FAQ) - Where I answer questions
 - [samatha](https://github.com/DASpringate/samatha) - Build static websites in R
