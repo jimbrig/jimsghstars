@@ -24,6 +24,7 @@
   - [Gherkin](#gherkin)
   - [Go](#go)
   - [Groovy](#groovy)
+  - [HCL](#hcl)
   - [HTML](#html)
   - [Handlebars](#handlebars)
   - [Haskell](#haskell)
@@ -202,7 +203,7 @@
 - [perfview](https://github.com/microsoft/perfview) - PerfView is a CPU and memory performance-analysis tool
 - [PowerGist](https://github.com/lawrencegripper/PowerGist) - An addin for the Powershell ISE to allow quick access, update and creation of Gists
 - [GitLink](https://github.com/GitTools/GitLink) - Making .NET open source accessible!
-- [GitHubReleaseNotes](https://github.com/StefH/GitHubReleaseNotes) - Generate Release Notes in markdown format from GitHub using Oktokit and LibGit2Sharp
+- [GitHubReleaseNotes](https://github.com/StefH/GitHubReleaseNotes) - Generate Release Notes in markdown format from GitHub projects using Oktokit and LibGit2Sharp.
 - [Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
 - [RepoZ](https://github.com/awaescher/RepoZ) - 👨‍💻  A zero-conf git repository hub for Windows and macOS with Windows Explorer- & CLI-enhancements
 - [ProjectConfigurationManager](https://github.com/tom-englert/ProjectConfigurationManager) - A Visual Studio extension to ease management of solution and project configurations.
@@ -595,6 +596,11 @@
 - [templates](https://github.com/embeddedartistry/templates) - Document templates for open-source projects (README, CONTRIBUTING, GitHub templates)
 - [r-ci-samples](https://github.com/MichaelChirico/r-ci-samples) - Sample CI&metadata files from popular R package repos
 
+## HCL 
+
+- [rshiny-with-polished-tech-eks](https://github.com/jerowe/rshiny-with-polished-tech-eks) - Example RShiny Authentication with Polished Tech hosted on AWS EKS with Terraform.
+- [rstudio-server-terraform](https://github.com/ginocoates/rstudio-server-terraform) - A terraform project for provisioning an rstudio server of the desired size
+
 ## HTML 
 
 - [cv](https://github.com/nstrayer/cv) - My CV built using RMarkdown and the pagedown package.
@@ -900,6 +906,9 @@
 
 ## JavaScript 
 
+- [leaflet-providers](https://github.com/leaflet-extras/leaflet-providers) - An extension to Leaflet that contains configurations for various free tile providers.
+- [github-issue-widget](https://github.com/azu/github-issue-widget) - Showcase your Github(repository)'s issue list via iframe.
+- [pinforgithub](https://github.com/vantezzen/pinforgithub) - 📌 Save repositories on GitHub for later without having to star them
 - [changelog-generator](https://github.com/metcalfc/changelog-generator) - GitHub Action to generate changelogs, release notes, whatever
 - [githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
 - [updates](https://github.com/silverwind/updates) - Flexible npm dependency update tool
@@ -2123,6 +2132,7 @@
 
 ## Python 
 
+- [mdlinkprocessor](https://github.com/pdazero/mdlinkprocessor) - Makes markdown links more compatible, and other tools
 - [git-machete](https://github.com/VirtusLab/git-machete) - Probably the sharpest git repository organizer & rebase/merge workflow automation tool you've ever seen ;)
 - [cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [todoist-cli](https://github.com/Raytray/todoist-cli) - Python command line tool to quickly add tasks to projects with due dates.
@@ -2350,7 +2360,11 @@
 
 ## R 
 
-- [pro_reports_talk](https://github.com/lindblb/pro_reports_talk) - 
+- [hutils](https://github.com/HughParsonage/hutils) - Miscellaneous R functions and aliases
+- [easypackages](https://github.com/cran/easypackages) - :exclamation: This is a read-only mirror of the CRAN R package repository.  easypackages — Easy Loading and Installing of Packages
+- [packager](https://github.com/cran/packager) - :exclamation: This is a read-only mirror of the CRAN R package repository.  packager — Create, Build and Maintain Packages. Homepage: https://gitlab.com/fvafrCU/packager
+- [alsoran](https://github.com/sellorm/alsoran) - 
+- [pro_reports_talk](https://github.com/lindblb/pro_reports_talk) - This is the companion repository for the lightning talk given December 2020 to the R Finance group
 - [jtools](https://github.com/jacob-long/jtools) - Tools for summarizing/visualizing regressions and other helpful stuff
 - [repro](https://github.com/aaronpeikert/repro) - Easy Setup of a Reproducible Workflow
 - [FAQ](https://github.com/BryanJenksCommunity/FAQ) - Where I answer questions
@@ -4268,6 +4282,7 @@
 
 ## Shell 
 
+- [r-config](https://github.com/INWTlab/r-config) - R installation and configuration
 - [spells](https://github.com/nelsonmestevao/spells) - :crystal_ball: Handcrafted spells
 - [us-atlas](https://github.com/topojson/us-atlas) - Pre-built TopoJSON from the U.S. Census Bureau.
 - [world-atlas](https://github.com/topojson/world-atlas) - Pre-built TopoJSON from Natural Earth.
