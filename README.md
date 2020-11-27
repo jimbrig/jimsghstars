@@ -419,6 +419,7 @@
 - [justdelete.me](https://github.com/justdeleteme/justdelete.me) - A directory of direct links to delete your account from web services.
 - [thinkrtemplate](https://github.com/ThinkR-open/thinkrtemplate) - A pkgdown template for ThinkR packages
 - [tidytemplate](https://github.com/tidyverse/tidytemplate) - A pkgdown template for core tidyverse packages
+- [rmdformats](https://github.com/juba/rmdformats) - HTML output formats for RMarkdown documents
 - [flipCards](https://github.com/RinteRface/flipCards) - Rotating cards with Bootstrap
 - [dev_guide](https://github.com/ropensci/dev_guide) - rOpenSci Packages: Development, Maintenance, and Peer Review
 - [markdowntemplates](https://github.com/hrbrmstr/markdowntemplates) - :white_check_mark::small_red_triangle_down: A collection of alternate R markdown templates
@@ -850,7 +851,6 @@
 - [licensing-r](https://github.com/ThinkR-open/licensing-r) - A Bookdown about R & licenses
 - [rdoxygen](https://github.com/mlysy/rdoxygen) - Create doxygen documentation for R package C++ code
 - [insert_table](https://github.com/lbusett/insert_table) - R function and addin to easily insert tables in Rmd code chunks
-- [rmdformats](https://github.com/juba/rmdformats) - HTML output formats for RMarkdown documents
 - [posterdown](https://github.com/brentthorne/posterdown) - Use RMarkdown to generate PDF Conference Posters via HTML
 - [data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [example-rmd-templates](https://github.com/dr-harper/example-rmd-templates) - 📄 A selection of minimal examples used to highlight R Markdown templates, as referred to in the "R Markdown Definitive Guide"
@@ -1898,7 +1898,7 @@
 - [TimePage-Clone](https://github.com/ThasianX/TimePage-Clone) - TimePage components written in SwiftUI and UIKit
 - [Ken_Portfolio](https://github.com/PlayingNumbers/Ken_Portfolio) - Example data science portfolio
 - [wiki](https://github.com/chuanqisun/wiki) - A personal knowledge base, a Today I Learned (TIL) journal, A Second brain. Automated with Markdown Page Summary.
-- [WindowsRegistry](https://github.com/k3rn31p4nic/WindowsRegistry) - Windows Registry Tweaks & Hacks
+- [WindowsRegistry](https://github.com/iamtraction/WindowsRegistry) - Windows Registry Tweaks & Hacks
 - [Windows10-Privacy](https://github.com/adolfintel/Windows10-Privacy) - Windows 10 Privacy Guide
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [channels](https://github.com/andrew--r/channels) - 📺 A collection of useful YouTube channels for javascript developers and web designers
