@@ -461,6 +461,7 @@
 
 ## Dockerfile 
 
+- [coeos](https://github.com/mcanouil/coeos) - My own Docker image
 - [EfficientR_Docker](https://github.com/G-Thomson/EfficientR_Docker) - Unofficial Docker image for Efficient R programming by Colin Gillespie and  Robin Lovelace
 - [mkit](https://github.com/darkbitio/mkit) - MKIT is a Managed Kubernetes Inspection Tool that validates several common security-related configuration settings of managed Kubernetes cluster objects and the workloads/resources running inside the cluster.
 - [actions](https://github.com/maddox/actions) - A collection of useful GitHub Actions
@@ -604,6 +605,8 @@
 
 ## HTML 
 
+- [rpackages](https://github.com/mcanouil/rpackages) - A short introduction on building R-packages
+- [rshiny](https://github.com/mcanouil/rshiny) - Introduction to the 'shiny' package
 - [cv](https://github.com/nstrayer/cv) - My CV built using RMarkdown and the pagedown package.
 - [jekyll-toc](https://github.com/allejo/jekyll-toc) - A GitHub Pages compatible Table of Contents generator without a plugin or JavaScript :octocat:
 - [distill_blog](https://github.com/iamericfletcher/distill_blog) - 
@@ -677,6 +680,7 @@
 - [zero-to-shinyproxy](https://github.com/remche/zero-to-shinyproxy) - Deploy Shinyproxy with Helm
 - [parcel-static-site-starterkit](https://github.com/InsaneNaman/parcel-static-site-starterkit) - A starter kit to get Advanced features like SASS support, Uglification, Hot Module Reload in Static Website
 - [dplyr-100](https://github.com/mrchypark/dplyr-100) - 100 dplyr exercises
+- [ShinyServer](https://github.com/egarpor/ShinyServer) - A served-oriented repository of Shiny apps and Rmd documents
 - [spiralHeatMaps](https://github.com/hbnordin2/spiralHeatMaps) - Inspired by: https://bl.ocks.org/tomshanley/0a024581fd0b7c4e483203d5bff9631b
 - [concept-maps](https://github.com/rstudio/concept-maps) - Concept maps for all things data science
 - [dotfiles-new](https://github.com/jimbrig/dotfiles-new) - Personal dotfiles on Windows 10 Professional - Dev Insider Edition
@@ -906,6 +910,8 @@
 
 ## JavaScript 
 
+- [startr-cli](https://github.com/globeandmail/startr-cli) - A command-line scaffolder for the startr R project template
+- [highcharts-editor](https://github.com/highcharts/highcharts-editor) - 
 - [leaflet-providers](https://github.com/leaflet-extras/leaflet-providers) - An extension to Leaflet that contains configurations for various free tile providers.
 - [github-issue-widget](https://github.com/azu/github-issue-widget) - Showcase your Github(repository)'s issue list via iframe.
 - [pinforgithub](https://github.com/vantezzen/pinforgithub) - 📌 Save repositories on GitHub for later without having to star them
@@ -1208,7 +1214,7 @@
 - [stat-distributions-js](https://github.com/richarddmorey/stat-distributions-js) - Javascript library for the visualization of statistical distributions
 - [awesome-libraries](https://github.com/sourcerer-io/awesome-libraries) - :sunglasses: Libraries that are being shown in Sourcerer profiles.
 - [foam-template-gatsby-search](https://github.com/ingalless/foam-template-gatsby-search) - Foam template, built with Gatsby, plus search
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2020)
 - [DocumentTemplate](https://github.com/renrousousuo/DocumentTemplate) - 文件 Markdown 格式。方便书写各种文档。
 - [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -1523,6 +1529,7 @@
 
 ## Others 
 
+- [rstartup](https://github.com/mcanouil/rstartup) - Tips to start working with R
 - [awesome-cloudbuild](https://github.com/Timtech4u/awesome-cloudbuild) - A curated list of resources about all things Google Cloud Build
 - [world.geo.json](https://github.com/johan/world.geo.json) - Annotated geo-json geometry files for the world
 - [awesome-r-learning-resources](https://github.com/iamericfletcher/awesome-r-learning-resources) - A curated collection of free resources to help deepen your understanding of the R programming language. Updated regularly. Contributions encouraged via pull request (see contributing.md).
@@ -2132,6 +2139,7 @@
 
 ## Python 
 
+- [datakit-project](https://github.com/associatedpress/datakit-project) - Project generator for use with the datakit framework.
 - [mdlinkprocessor](https://github.com/pdazero/mdlinkprocessor) - Makes markdown links more compatible, and other tools
 - [git-machete](https://github.com/VirtusLab/git-machete) - Probably the sharpest git repository organizer & rebase/merge workflow automation tool you've ever seen ;)
 - [cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
@@ -2360,6 +2368,42 @@
 
 ## R 
 
+- [R_template_test](https://github.com/GregoryIreland/R_template_test) - 
+- [CARoT](https://github.com/omicsr/CARoT) - Centralised and Automated RepOrting Tools
+- [resume_template](https://github.com/mcanouil/resume_template) - Curriculum Vitae based on "pagedown::html_resume"
+- [clere](https://github.com/mcanouil/clere) - Simultaneous Variables Clustering and Regression
+- [DEV](https://github.com/mcanouil/DEV) - Some functions/utils in development ...
+- [mctools](https://github.com/mcanouil/mctools) - Mickaël Canouil's tools
+- [rain](https://github.com/mcanouil/rain) - Reference-based Ancestry INference
+- [mctemplates](https://github.com/mcanouil/mctemplates) - Mickaël Canouil's Rmarkdown & Rstudio templates
+- [insane](https://github.com/mcanouil/insane) - An Interactive Web Application for Quality Control and Analysis of Insulin Secretion from Pancreatic Beta Cells
+- [rstudio_mybinder_env](https://github.com/franzbischoff/rstudio_mybinder_env) - This is a template environment, pre-configured to run Github Classroom assessments.
+- [reproducible_paper_template](https://github.com/jpgmv1998/reproducible_paper_template) - Template repository for starting a new paper project implementing good practices for reproducibility
+- [template](https://github.com/rOpenGov/template) - rOpenGov minimal package template
+- [project_template](https://github.com/epicentre-msf/project_template) - Everything you need to start a new project, based on Rmarkdown, and publish it as a website
+- [heroku-shiny-app](https://github.com/virtualstaticvoid/heroku-shiny-app) - Example Shiny Application on Heroku
+- [plumberAPI](https://github.com/fdrennan/plumberAPI) - Template for a Plumber API with load balancing
+- [project_template](https://github.com/DrewWham/project_template) - 
+- [livedat](https://github.com/weecology/livedat) - Template for living data workflow
+- [minimalTemplate](https://github.com/kguidonimartins/minimalTemplate) - A R package to create a minimal template for scientific manuscripts in .docx
+- [resume](https://github.com/ColinFay/resume) - Bootstrap Resume Template for Shiny
+- [r-server-template](https://github.com/HarlanH/r-server-template) - R application framework for a server that runs continuously
+- [testingTemplates](https://github.com/kabagg/testingTemplates) - scripts and tweaks to customize report look and feel
+- [r-project-structure](https://github.com/Public-Health-Scotland/r-project-structure) - A template for R projects
+- [ygdashboard_app](https://github.com/gyang274/ygdashboard_app) - an R shiny app template of ygdashboard.
+- [unilur](https://github.com/koncina/unilur) - A rmarkdown template to create tutorials/practicals or examination papers.
+- [r-package-template](https://github.com/robertzk/r-package-template) - A template for R packages
+- [deploy_shiny_app](https://github.com/TelethonKids/deploy_shiny_app) - Template to deploy Shiny Apps via Docker and ShinyProxy
+- [report_factories_templates](https://github.com/reconhub/report_factories_templates) - Templates of report factories
+- [rshiny-template](https://github.com/moj-analytical-services/rshiny-template) - Template RShiny project
+- [replication-template](https://github.com/plsc-31101/replication-template) - A simple template for research replication code. Originally designed for PLSC-31101 final projects.
+- [plotly-shiny](https://github.com/chriddyp/plotly-shiny) - Templates for embedding interactive plotly graphs in Shiny apps
+- [shinyproxy-template](https://github.com/openanalytics/shinyproxy-template) - Template for Deploying Shiny Apps on ShinyProxy
+- [Azure-TDSP-ProjectTemplate](https://github.com/Azure/Azure-TDSP-ProjectTemplate) - TDSP: Data science project template repository with standardized directory structure and document templates to support efficient project execution and collaboration.
+- [afrilearndata](https://github.com/afrimapr/afrilearndata) - small africa map datasets for learning
+- [ggsignif](https://github.com/const-ae/ggsignif) - Easily add significance brackets to your ggplots
+- [emoGG](https://github.com/dill/emoGG) - :chart_with_upwards_trend::heart_eyes_cat: Emoji in ggplot2 :heart_eyes_cat::chart_with_upwards_trend:
+- [doRNG](https://github.com/renozao/doRNG) - R package - Generic Reproducible Parallel Backend for foreach
 - [hutils](https://github.com/HughParsonage/hutils) - Miscellaneous R functions and aliases
 - [easypackages](https://github.com/cran/easypackages) - :exclamation: This is a read-only mirror of the CRAN R package repository.  easypackages — Easy Loading and Installing of Packages
 - [packager](https://github.com/cran/packager) - :exclamation: This is a read-only mirror of the CRAN R package repository.  packager — Create, Build and Maintain Packages. Homepage: https://gitlab.com/fvafrCU/packager
@@ -2684,7 +2728,6 @@
 - [litsearchr](https://github.com/elizagrames/litsearchr) - litsearchr is an R package to partially automate search term selection for systematic reviews using keyword co-occurrence networks. In addition to identifying search terms, it can write Boolean searches and translate them into over 50 languages.
 - [imputeR](https://github.com/SteffenMoritz/imputeR) - CRAN R package: Impute missing values based on automated variable selection
 - [rexpect](https://github.com/datascienceworkshops/rexpect) - Automate Interactive Applications in R
-- [ShinyServer](https://github.com/egarpor/ShinyServer) - A served-oriented repository of Shiny apps and Rmd documents
 - [reflowdoc](https://github.com/mkearney/reflowdoc) - ䷗ Hard-Wrapping Rstudio Add-In ䷗
 - [shinySCP](https://github.com/sdhutchins/shinySCP) - shinySCP is a shiny app built for fun to mimic existing SCP apps such as WinSCP or FileZilla.
 - [flatr](https://github.com/EvilGRAHAM/flatr) - Tidy and analyse contingency tables
@@ -4446,6 +4489,7 @@
 
 ## TeX 
 
+- [knitr-examples](https://github.com/cderv/knitr-examples) - a collection of knitr examples
 - [pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
 - [colebrokamp.com](https://github.com/cole-brokamp/colebrokamp.com) - 
 - [probability_cheatsheet](https://github.com/wzchen/probability_cheatsheet) - A comprehensive 10-page probability cheatsheet that covers a semester's worth of introduction to probability.
