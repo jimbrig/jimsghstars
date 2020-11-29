@@ -86,6 +86,7 @@
 
 ## Batchfile 
 
+- [Script-Reset-Windows-Update-Tool](https://github.com/ManuelGil/Script-Reset-Windows-Update-Tool) - This script reset the Windows Update Components.
 - [batchfiles](https://github.com/ggrothendieck/batchfiles) - Automatically exported from code.google.com/p/batchfiles
 - [win10_simplifier](https://github.com/mattreecebentley/win10_simplifier) - Windows 10 Simplifier - A script for automating simplifications and maintenance
 - [mpv-install](https://github.com/rossy/mpv-install) - Sets up file associations for mpv on Windows
@@ -159,6 +160,12 @@
 
 ## C# # 
 
+- [cinemadrape-windows](https://github.com/aurelitec/cinemadrape-windows) - Minimize distractions and focus on your current task by blacking out or dimming other screen areas.
+- [Modules](https://github.com/PowerShell/Modules) - 
+- [markdig](https://github.com/lunet-io/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET
+- [Pager](https://github.com/PowerShell/Pager) - Project for console pager, which is published as a NuGet package Microsoft.PowerShell.Pager
+- [PSReadLine](https://github.com/PowerShell/PSReadLine) - A bash inspired readline implementation for PowerShell
+- [PowerShellGet](https://github.com/PowerShell/PowerShellGet) - PowerShellGet is the package manager for PowerShell
 - [Jump-Location](https://github.com/tkellogg/Jump-Location) - Powershell `cd` that reads your mind
 - [RTVS](https://github.com/microsoft/RTVS) - R Tools for Visual Studio.
 - [FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer.
@@ -236,6 +243,7 @@
 
 ## C++ 
 
+- [Reset-Windows-Update-Tool](https://github.com/ManuelGil/Reset-Windows-Update-Tool) - Troubleshooting Tool with Windows Updates (Developed in Dev-C++).
 - [QtSemanticNotes](https://github.com/YoukaiCat/QtSemanticNotes) - QtSemanticNotes is a personal knowledge base, personal wiki or just note taking application that features automatic linking, tree view and tags. Inspired by WikidPad and Zim.
 - [vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [file-structures-organization-and-processing](https://github.com/mhmelshaaer/file-structures-organization-and-processing) - Implementing basic file manipulations concepts and algorithms in c++
@@ -314,6 +322,7 @@
 
 ## CSS 
 
+- [cookiecutter-reproducible-research](https://github.com/timtroendle/cookiecutter-reproducible-research) - A cookiecutter template for reproducible research projects using Python, Snakemake, and Pandoc.
 - [firsttimersonly](https://github.com/shanselman/firsttimersonly) - The Repository for the FirstTimersOnly movement in Open Source. We want projects to reserve some issues for newbies.
 - [browsr](https://github.com/jimbrig/browsr) - Query advanced searches from your R console!
 - [Obsidian-Obsidianite](https://github.com/TriDiamond/Obsidian-Obsidianite) - 🎨 Obsidian.md custom theme, it's dark and simple but yet still stays sparkles!
@@ -354,7 +363,7 @@
 - [brain](https://github.com/kmaasrud/brain) - 🧠 Personal knowledge base hosted through GitHub Pages
 - [bazzadwarf-obsidian-vault](https://github.com/Bazzadwarf/bazzadwarf-obsidian-vault) - My Obsidian vault that I use for taking notes!
 - [pensieve](https://github.com/nerdalot/pensieve) - My notes using loosely the Zettelkasten method and the app Obsidian
-- [obsidian-css-tweaks](https://github.com/lucasrla/obsidian-css-tweaks) - A few (minimal) tweaks and fixes to Obsidian's CSS
+- [obsidian-css-tweaks](https://github.com/lucasrla/obsidian-css-tweaks) - CSS snippet for Obsidian – just a few (minimal) tweaks and fixes
 - [Obsidian-JG-Method](https://github.com/joshwingreene/Obsidian-JG-Method) - A starter kit that follows how I use Obsidian to manage my goals, tasks, notes, and software development knowledge base.
 - [bootsy](https://github.com/gillesbertaux/bootsy) - Bootstrap small projects and keep them organized with a simple folder structure.
 - [skeleton](https://github.com/ColinFay/skeleton) - Skeleton CSS for Shiny
@@ -422,6 +431,7 @@
 - [rmdformats](https://github.com/juba/rmdformats) - HTML output formats for RMarkdown documents
 - [flipCards](https://github.com/RinteRface/flipCards) - Rotating cards with Bootstrap
 - [dev_guide](https://github.com/ropensci/dev_guide) - rOpenSci Packages: Development, Maintenance, and Peer Review
+- [waiter](https://github.com/JohnCoene/waiter) - 🕰️ Loading screens for Shiny
 - [markdowntemplates](https://github.com/hrbrmstr/markdowntemplates) - :white_check_mark::small_red_triangle_down: A collection of alternate R markdown templates
 - [drake](https://github.com/ropensci-books/drake) - The user manual for the drake R package
 - [pagedown](https://github.com/rstudio/pagedown) - Paginate the HTML Output of R Markdown with CSS for Print
@@ -494,6 +504,10 @@
 
 ## Go 
 
+- [github-release](https://github.com/github-release/github-release) - Commandline app to create and edit releases on Github (and upload artifacts)
+- [triage](https://github.com/tj/triage) - Interactive command-line GitHub issue & notification triaging tool.
+- [ws](https://github.com/windler/ws) - cli app to list your workspaces, git branch info and custom information
+- [codebase](https://github.com/go-codebase/codebase) - Manage your codebase like a boss!
 - [depscloud](https://github.com/depscloud/depscloud) - Track, monitor, and connect project dependencies across languages and toolchains.
 - [docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [onecache](https://github.com/adelowo/onecache) - One caching API, Multiple backends
@@ -595,6 +609,7 @@
 
 ## Groovy 
 
+- [devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [templates](https://github.com/embeddedartistry/templates) - Document templates for open-source projects (README, CONTRIBUTING, GitHub templates)
 - [r-ci-samples](https://github.com/MichaelChirico/r-ci-samples) - Sample CI&metadata files from popular R package repos
 
@@ -605,6 +620,8 @@
 
 ## HTML 
 
+- [introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
+- [R-Markdown-Parallax](https://github.com/holtzy/R-Markdown-Parallax) - How to use parallax on your R Markdown output
 - [rpackages](https://github.com/mcanouil/rpackages) - A short introduction on building R-packages
 - [rshiny](https://github.com/mcanouil/rshiny) - Introduction to the 'shiny' package
 - [cv](https://github.com/nstrayer/cv) - My CV built using RMarkdown and the pagedown package.
@@ -910,6 +927,8 @@
 
 ## JavaScript 
 
+- [dirbook](https://github.com/nickroberts404/dirbook) - :book: A tool I use to organize my directories/projects in the terminal.
+- [templates](https://github.com/perryrh0dan/templates) - 
 - [startr-cli](https://github.com/globeandmail/startr-cli) - A command-line scaffolder for the startr R project template
 - [highcharts-editor](https://github.com/highcharts/highcharts-editor) - 
 - [leaflet-providers](https://github.com/leaflet-extras/leaflet-providers) - An extension to Leaflet that contains configurations for various free tile providers.
@@ -1529,6 +1548,7 @@
 
 ## Others 
 
+- [cookiecutter-r-analysis-template](https://github.com/pgcudahy/cookiecutter-r-analysis-template) - Cookiecutter template for R data analysis with jupyter notebooks
 - [rstartup](https://github.com/mcanouil/rstartup) - Tips to start working with R
 - [awesome-cloudbuild](https://github.com/Timtech4u/awesome-cloudbuild) - A curated list of resources about all things Google Cloud Build
 - [world.geo.json](https://github.com/johan/world.geo.json) - Annotated geo-json geometry files for the world
@@ -2038,6 +2058,7 @@
 
 ## PHP 
 
+- [project-cli](https://github.com/chriha/project-cli) - Project and environment management in your terminal
 - [SEO-Helper](https://github.com/ARCANEDEV/SEO-Helper) - :mag: SEO Helper is a package that provides tools and helpers for SEO (Search Engine Optimization).
 - [schema-org](https://github.com/spatie/schema-org) - A fluent builder Schema.org types and ld+json generator
 - [KnpSnappyBundle](https://github.com/KnpLabs/KnpSnappyBundle) - Easily create PDF and images in Symfony by converting html using webkit
@@ -2066,6 +2087,8 @@
 
 ## PowerShell 
 
+- [win-cli](https://github.com/roose/win-cli) - Windows command line tools
+- [PSDirTag](https://github.com/wtjones/PSDirTag) - DirTags are relative paths that appear as variables in the Powershell prompt that update as you navigate. Saves keystrokes when navigating folder structures.
 - [posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 - [Utilities](https://github.com/farag2/Utilities) - Useful things
 - [ChocolateyPackages](https://github.com/bcurran3/ChocolateyPackages) - My published Chocolatey packages
@@ -2139,6 +2162,10 @@
 
 ## Python 
 
+- [classifier](https://github.com/bhrigu123/classifier) - Organize files in your directory instantly, by classifying them into different folders
+- [gittagstats](https://github.com/mcharleb/gittagstats) - 
+- [ansible-tools](https://github.com/jctanner/ansible-tools) - 
+- [vcspull](https://github.com/vcs-python/vcspull) - :arrows_counterclockwise: synchronize projects via yaml/json manifest. built on libvcs
 - [datakit-project](https://github.com/associatedpress/datakit-project) - Project generator for use with the datakit framework.
 - [mdlinkprocessor](https://github.com/pdazero/mdlinkprocessor) - Makes markdown links more compatible, and other tools
 - [git-machete](https://github.com/VirtusLab/git-machete) - Probably the sharpest git repository organizer & rebase/merge workflow automation tool you've ever seen ;)
@@ -2368,6 +2395,8 @@
 
 ## R 
 
+- [workbench-r](https://github.com/alexkyllo/workbench-r) - An R data science project template for use with the cookiecutter templating tool
+- [staries](https://github.com/cgpu/staries) - The *ies. A series of &lt;star&gt;-ies util snippets, scripts or templates that I use day to day.
 - [R_template_test](https://github.com/GregoryIreland/R_template_test) - 
 - [CARoT](https://github.com/omicsr/CARoT) - Centralised and Automated RepOrting Tools
 - [resume_template](https://github.com/mcanouil/resume_template) - Curriculum Vitae based on "pagedown::html_resume"
@@ -4087,7 +4116,6 @@
 - [tippy](https://github.com/JohnCoene/tippy) - 💬 Tippy.js for R htmlwidget
 - [rintrojs](https://github.com/carlganz/rintrojs) - Wrapper for the Intro.js library
 - [echarts4r](https://github.com/JohnCoene/echarts4r) - 🐳 ECharts 4 for R
-- [waiter](https://github.com/JohnCoene/waiter) - 🕰️ Loading screens for Shiny
 - [shinycustomloader](https://github.com/emitanaka/shinycustomloader) - Add a custom loader for R shiny
 - [shinyTime](https://github.com/burgerga/shinyTime) - A timeInput widget for Shiny
 - [shiny-directory-input](https://github.com/wleepang/shiny-directory-input) - An shiny input widget for selecting directories
@@ -4325,6 +4353,7 @@
 
 ## Shell 
 
+- [wsl-alias](https://github.com/leongrdic/wsl-alias) - Create aliases for Linux commands in Windows command line (for WSL)
 - [r-config](https://github.com/INWTlab/r-config) - R installation and configuration
 - [spells](https://github.com/nelsonmestevao/spells) - :crystal_ball: Handcrafted spells
 - [us-atlas](https://github.com/topojson/us-atlas) - Pre-built TopoJSON from the U.S. Census Bureau.
@@ -4372,7 +4401,7 @@
 - [windows-dev-setup](https://github.com/julie-ng/windows-dev-setup) - Dev environment on windows with Oh My ZSH, Hyper.js and more
 - [dotfiles](https://github.com/bushidocodes/dotfiles) - Dotbot managed dotfiles for a polyglot dev using WSL. Includes PowerShell stuff for Windows Installation
 - [dotfiles](https://github.com/LumaKernel/dotfiles) - ⭐ My own world.
-- [dotfiles](https://github.com/jakecobley/dotfiles) - Dotfiles - personal preferences for various applications, editors, linters, and packages on macOS and Windows 10 with Windows Subsystem for Linux 2 (WSL2).
+- [dotfiles](https://github.com/101115/dotfiles) - Dotfiles - personal preferences for various applications, editors, linters, and packages on macOS and Windows 10 with Windows Subsystem for Linux 2 (WSL2).
 - [dotfiles](https://github.com/pawelbialaszczyk/dotfiles) - Windows dotfiles managed using a bare git repository.
 - [dotfiles](https://github.com/ridhwaans/dotfiles) - 💻Personal dotfiles for mac and wsl
 - [wsl-dotfiles](https://github.com/Xyene/wsl-dotfiles) - My dotfiles for running an i3-based environment within the Windows Subsystem for Linux (WSL).
@@ -4546,6 +4575,10 @@
 
 ## TypeScript 
 
+- [opensource-portal](https://github.com/microsoft/opensource-portal) - Microsoft's GitHub-at-scale self-service monolithic portal
+- [git-project-manager](https://github.com/felipecaputo/git-project-manager) - A Git Project Manager extension for vsCode
+- [MagicBox](https://github.com/akatrukhin/MagicBox) - Organize your workspace, keep files optimized, prepare images for publishing
+- [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
 - [data-dictionary](https://github.com/hasura/data-dictionary) - 
 - [bookmarks.dev](https://github.com/BookmarksDev/bookmarks.dev) - Bookmarks and Code Snippets Manager for Developers & Co
 - [wikilinks-to-mdlinks-obsidian](https://github.com/agathauy/wikilinks-to-mdlinks-obsidian) - 
@@ -4710,6 +4743,7 @@
 
 ## Vue 
 
+- [pile](https://github.com/mtobeiyf/pile) - :zap: A simple & powerful app to organize your piled work at one place~
 - [export-github-stars](https://github.com/KeziahMoselle/export-github-stars) - View / Sort / Export your Starred repositories.
 - [raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
 - [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
