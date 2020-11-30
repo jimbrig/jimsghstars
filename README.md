@@ -160,6 +160,7 @@
 
 ## C# # 
 
+- [XTR-Toolbox](https://github.com/Zeeex/XTR-Toolbox) - 🛠 Versatile tool to optimize Windows
 - [cinemadrape-windows](https://github.com/aurelitec/cinemadrape-windows) - Minimize distractions and focus on your current task by blacking out or dimming other screen areas.
 - [Modules](https://github.com/PowerShell/Modules) - 
 - [markdig](https://github.com/lunet-io/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET
@@ -243,6 +244,7 @@
 
 ## C++ 
 
+- [memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
 - [Reset-Windows-Update-Tool](https://github.com/ManuelGil/Reset-Windows-Update-Tool) - Troubleshooting Tool with Windows Updates (Developed in Dev-C++).
 - [QtSemanticNotes](https://github.com/YoukaiCat/QtSemanticNotes) - QtSemanticNotes is a personal knowledge base, personal wiki or just note taking application that features automatic linking, tree view and tags. Inspired by WikidPad and Zim.
 - [vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
@@ -329,7 +331,6 @@
 - [betterObsidian](https://github.com/phibr0/betterObsidian) - My CSS Theme for the Obsidian Note Taking App.
 - [gitsidian](https://github.com/ishgunacar/gitsidian) - An obsidian theme inspired by GitHub markdown styles
 - [foamy-nextjs](https://github.com/yenly/foamy-nextjs) - Basic Foam + NextJS with MDX starter for building a digital garden
-- [vault](https://github.com/luissimas/vault) - Obsidian vault
 - [obsidian-minimal](https://github.com/kepano/obsidian-minimal) - Minimal theme for Obsidian
 - [tooltipsterR](https://github.com/timelyportfolio/tooltipsterR) - R htmlwidget for tooltipster
 - [Rgitbook](https://github.com/jbryer/Rgitbook) - Gitbook for R Markdown
@@ -927,6 +928,7 @@
 
 ## JavaScript 
 
+- [modclean](https://github.com/ModClean/modclean) - Remove unwanted files and directories from your node_modules folder
 - [dirbook](https://github.com/nickroberts404/dirbook) - :book: A tool I use to organize my directories/projects in the terminal.
 - [templates](https://github.com/perryrh0dan/templates) - 
 - [startr-cli](https://github.com/globeandmail/startr-cli) - A command-line scaffolder for the startr R project template
@@ -979,6 +981,7 @@
 - [next-mdx-digital-garden-starter](https://github.com/RyanWarner/next-mdx-digital-garden-starter) - An opinionated starting point for Digital Garden content authoring.
 - [digital-garden](https://github.com/eliciaauduong/digital-garden) - An ongoing work in progress of all my thoughts and notes.
 - [digital-garden](https://github.com/johno/digital-garden) - 🌻[WIP] Gatsby Theme to build your own digital garden 🌻🥀🌸
+- [vault](https://github.com/luissimas/vault) - Obsidian vault
 - [Mr.Dclutterer](https://github.com/deep5050/Mr.Dclutterer) - A Minimal Looking Cross-Platform Desktop Application Made With Electron That Handles Quick File Aggregation And Bulk Renaming
 - [folderize](https://github.com/xprueg/folderize) - Copy files from multiple sources into a single folder sorted by their modification date while preventing duplicate content.
 - [dir-snap](https://github.com/LanceTurri/dir-snap) - A library for comparing snapshots of files and folders on your system.
@@ -1548,6 +1551,7 @@
 
 ## Others 
 
+- [CleanmgrPlus](https://github.com/builtbybel/CleanmgrPlus) - 🐾 A Improved Replacement for Microsoft Disk Cleanup
 - [cookiecutter-r-analysis-template](https://github.com/pgcudahy/cookiecutter-r-analysis-template) - Cookiecutter template for R data analysis with jupyter notebooks
 - [rstartup](https://github.com/mcanouil/rstartup) - Tips to start working with R
 - [awesome-cloudbuild](https://github.com/Timtech4u/awesome-cloudbuild) - A curated list of resources about all things Google Cloud Build
@@ -2058,6 +2062,7 @@
 
 ## PHP 
 
+- [skrub](https://github.com/ssx/skrub) - A package to remove junk from Composer installations and trim build sizes.
 - [project-cli](https://github.com/chriha/project-cli) - Project and environment management in your terminal
 - [SEO-Helper](https://github.com/ARCANEDEV/SEO-Helper) - :mag: SEO Helper is a package that provides tools and helpers for SEO (Search Engine Optimization).
 - [schema-org](https://github.com/spatie/schema-org) - A fluent builder Schema.org types and ld+json generator
@@ -2087,6 +2092,7 @@
 
 ## PowerShell 
 
+- [PowerShell-WSL-Interop](https://github.com/mikebattista/PowerShell-WSL-Interop) - Integrate Linux commands into Windows with PowerShell and the Windows Subsystem for Linux (WSL).
 - [win-cli](https://github.com/roose/win-cli) - Windows command line tools
 - [PSDirTag](https://github.com/wtjones/PSDirTag) - DirTags are relative paths that appear as variables in the Powershell prompt that update as you navigate. Saves keystrokes when navigating folder structures.
 - [posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
@@ -2395,6 +2401,8 @@
 
 ## R 
 
+- [econocharts](https://github.com/R-CoderDotCom/econocharts) - Microeconomics/macroeconomics charts in ggplot2
+- [err](https://github.com/devOpifex/err) - Error handling for R
 - [workbench-r](https://github.com/alexkyllo/workbench-r) - An R data science project template for use with the cookiecutter templating tool
 - [staries](https://github.com/cgpu/staries) - The *ies. A series of &lt;star&gt;-ies util snippets, scripts or templates that I use day to day.
 - [R_template_test](https://github.com/GregoryIreland/R_template_test) - 
@@ -4294,6 +4302,10 @@
 
 ## Rust 
 
+- [dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
+- [czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [tin-summer](https://github.com/vmchale/tin-summer) - Find build artifacts that are taking up disk space
+- [kondo](https://github.com/tbillington/kondo) - Save disk space by cleaning non-essential files from software projects.
 - [check-if-email-exists](https://github.com/amaurymartiny/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust.
 - [cb](https://github.com/yaa110/cb) - Command line interface to manage clipboard
 - [monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
@@ -4353,6 +4365,7 @@
 
 ## Shell 
 
+- [Autocommit](https://github.com/donnaken15/Autocommit) - using rather than committing every week holding back specific data, to look like any other user making daily contributions
 - [wsl-alias](https://github.com/leongrdic/wsl-alias) - Create aliases for Linux commands in Windows command line (for WSL)
 - [r-config](https://github.com/INWTlab/r-config) - R installation and configuration
 - [spells](https://github.com/nelsonmestevao/spells) - :crystal_ball: Handcrafted spells
@@ -4739,6 +4752,7 @@
 
 ## Visual Basic .NET 
 
+- [Winapp2](https://github.com/MoscaDotTo/Winapp2) - A database of extended cleaning routines for popular Windows PC based maintenance software.
 - [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) - Center Windows taskbar icons with a variety of animations and options.
 
 ## Vue 
