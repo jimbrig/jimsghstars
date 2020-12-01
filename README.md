@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [AppleScript](#applescript)
   - [Assembly](#assembly)
   - [AutoHotkey](#autohotkey)
   - [Batchfile](#batchfile)
@@ -17,6 +18,7 @@
   - [Common Lisp](#common-lisp)
   - [D](#d)
   - [Dart](#dart)
+  - [Dhall](#dhall)
   - [Dockerfile](#dockerfile)
   - [Elixir](#elixir)
   - [Elm](#elm)
@@ -73,6 +75,10 @@
   - [XSLT](#xslt)
   - [sed](#sed)
 
+## AppleScript 
+
+- [HydroTouch](https://github.com/dnnsmnstrr/HydroTouch) - An Extension to the BetterTouchTool preset 'AquaTouch'
+
 ## Assembly 
 
 - [Hmisc](https://github.com/harrelfe/Hmisc) - Harrell Miscellaneous
@@ -86,6 +92,7 @@
 
 ## Batchfile 
 
+- [Windows10Tools](https://github.com/L33Tech/Windows10Tools) - Tools for Windows 10
 - [Script-Reset-Windows-Update-Tool](https://github.com/ManuelGil/Script-Reset-Windows-Update-Tool) - This script reset the Windows Update Components.
 - [batchfiles](https://github.com/ggrothendieck/batchfiles) - Automatically exported from code.google.com/p/batchfiles
 - [win10_simplifier](https://github.com/mattreecebentley/win10_simplifier) - Windows 10 Simplifier - A script for automating simplifications and maintenance
@@ -100,6 +107,7 @@
 
 ## C 
 
+- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
 - [yori](https://github.com/malxau/yori) - Yori is a CMD replacement shell that supports backquotes, job control, and improves tab completion, file matching, aliases, command history, and more.
 - [colorout](https://github.com/jalvesaq/colorout) - Colorize R output in terminal emulators
 - [HummusJS](https://github.com/galkahana/HummusJS) - Node.js module for high performance creation, modification and parsing of PDF files and streams
@@ -160,6 +168,9 @@
 
 ## C# # 
 
+- [Win10BloatRemover](https://github.com/Fs00/Win10BloatRemover) - Configurable CLI tool to easily and aggressively debloat and tweak Windows 10 by removing preinstalled UWP apps, services and more. Originally based on the W10 de-botnet guide made by @adolfintel.
+- [bloatbox](https://github.com/builtbybel/bloatbox) - ☑️🌠 Remove Bloatwares from Windows 10
+- [privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
 - [XTR-Toolbox](https://github.com/Zeeex/XTR-Toolbox) - 🛠 Versatile tool to optimize Windows
 - [cinemadrape-windows](https://github.com/aurelitec/cinemadrape-windows) - Minimize distractions and focus on your current task by blacking out or dimming other screen areas.
 - [Modules](https://github.com/PowerShell/Modules) - 
@@ -244,6 +255,7 @@
 
 ## C++ 
 
+- [dotfiles](https://github.com/palikar/dotfiles) - Almost full setup for my Debian system.
 - [memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
 - [Reset-Windows-Update-Tool](https://github.com/ManuelGil/Reset-Windows-Update-Tool) - Troubleshooting Tool with Windows Updates (Developed in Dev-C++).
 - [QtSemanticNotes](https://github.com/YoukaiCat/QtSemanticNotes) - QtSemanticNotes is a personal knowledge base, personal wiki or just note taking application that features automatic linking, tree view and tags. Inspired by WikidPad and Zim.
@@ -443,6 +455,7 @@
 
 ## Clojure 
 
+- [athens](https://github.com/athensresearch/athens) - Open-Source Networked Thought. The Closed Beta is underway! Join the waitlist via https://forms.gle/9L1D1T7R3G7pvh1e7. Sponsor us to get the beta faster!
 - [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 - [logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge sharing and management.
 - [drake](https://github.com/Factual/drake) - Data workflow tool, like a "Make for data"
@@ -469,6 +482,11 @@
 - [next-joke](https://github.com/Maddoxx88/next-joke) - Random Two Part Joke App using Flutter.
 - [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
 - [hivedb_flutter_saved_list_sample](https://github.com/atiqsamtia/hivedb_flutter_saved_list_sample) - Sample for Getting list of saved items in a box.
+
+## Dhall 
+
+- [zettelkasten](https://github.com/dnnsmnstrr/zettelkasten) - 
+- [haskell.zettel.page](https://github.com/Kuratoro/haskell.zettel.page) - Haskell knowledgebase, Zettelkasten style (~2 months experiment, which resulted in migration to srid.ca)
 
 ## Dockerfile 
 
@@ -505,6 +523,8 @@
 
 ## Go 
 
+- [markdown](https://github.com/mlesniak/markdown) - Markdown-based webserver using Dropbox as storage medium to allow editing content using miscellaneous applications.
+- [zettelstore](https://github.com/zettelstore/zettelstore) - A storage for zettel notes that provides some services.
 - [github-release](https://github.com/github-release/github-release) - Commandline app to create and edit releases on Github (and upload artifacts)
 - [triage](https://github.com/tj/triage) - Interactive command-line GitHub issue & notification triaging tool.
 - [ws](https://github.com/windler/ws) - cli app to list your workspaces, git branch info and custom information
@@ -621,6 +641,14 @@
 
 ## HTML 
 
+- [Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Fully Optimize, Harden, and Debloat Windows 10 Deployments to Windows Best Practices and DoD STIG/SRG Requirements. The ultimate Windows 10 security and privacy script!
+- [CoursesWithR](https://github.com/skranz/CoursesWithR) - 
+- [webdash](https://github.com/jadjoubran/webdash) - 🔥 Orchestrate your web project with Webdash the customizable web dashboard
+- [KasperZutterman.github.io](https://github.com/KasperZutterman/KasperZutterman.github.io) - Personal website:
+- [thought-tank](https://github.com/Thought-Tank/thought-tank) - Your second brain belongs to you.
+- [SPB](https://github.com/SinglePageBookProject/SPB) - Pragmatical way to create cheat-sheets, bookmarks, full-books in a single page. (Zettlekasten the web!)
+- [IT_notes](https://github.com/SinglePageBookProject/IT_notes) - A new way to document for the 21st century
+- [canro91.github.io](https://github.com/canro91/canro91.github.io) - My personal site
 - [introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
 - [R-Markdown-Parallax](https://github.com/holtzy/R-Markdown-Parallax) - How to use parallax on your R Markdown output
 - [rpackages](https://github.com/mcanouil/rpackages) - A short introduction on building R-packages
@@ -904,6 +932,8 @@
 
 ## Java 
 
+- [zttl-client](https://github.com/cokeSchlumpf/zttl-client) - Zettels is a note taking application written with JavaFX. It follows the principles Niklas Luhman's Zettelkasten.
+- [GitPKM](https://github.com/han-chao/GitPKM) - Git-based Personal Knowledge Management
 - [itext7](https://github.com/itext/itext7) - iText 7 for Java represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, high and low-level programming capabilities and the ability to create, edit and enhance PDF documents, iText 7 can be a boon to nearly every workflow.
 - [timetable](https://github.com/fwcd/timetable) - Calendar and task management application
 - [actuarialcalculator](https://github.com/thfreud/actuarialcalculator) - A simple mathematical software application for life insurance and annuities.
@@ -928,6 +958,9 @@
 
 ## JavaScript 
 
+- [wisely](https://github.com/brendanhcullen/wisely) - Using R more "wisely": Column-wise and row-wise operations with dplyr
+- [Gettlr](https://github.com/thomaskoppelaar/Gettlr) - A Markdown Editor for me, mostly.
+- [x](https://github.com/DustinBrett/x) - Desktop environment in the browser.
 - [modclean](https://github.com/ModClean/modclean) - Remove unwanted files and directories from your node_modules folder
 - [dirbook](https://github.com/nickroberts404/dirbook) - :book: A tool I use to organize my directories/projects in the terminal.
 - [templates](https://github.com/perryrh0dan/templates) - 
@@ -954,6 +987,7 @@
 - [sharec](https://github.com/lamartire/sharec) - 📦 Store your configs in one place and share between projects without any pain
 - [wuffle](https://github.com/nikku/wuffle) - A multi-repository task board for GitHub issues.
 - [create-issue-from-file](https://github.com/peter-evans/create-issue-from-file) - A GitHub action to create an issue using content from a file
+- [obsidian-calendar-plugin](https://github.com/liamcain/obsidian-calendar-plugin) - Simple calendar widget for Obsidian.
 - [notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - an enhancer/customiser for the all-in-one productivity workspace notion.so
 - [create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) - A GitHub action to create or update an issue or pull request comment
 - [tweet-to-markdown](https://github.com/kbravh/tweet-to-markdown) - A command line tool to convert Tweets to Markdown.
@@ -981,7 +1015,6 @@
 - [next-mdx-digital-garden-starter](https://github.com/RyanWarner/next-mdx-digital-garden-starter) - An opinionated starting point for Digital Garden content authoring.
 - [digital-garden](https://github.com/eliciaauduong/digital-garden) - An ongoing work in progress of all my thoughts and notes.
 - [digital-garden](https://github.com/johno/digital-garden) - 🌻[WIP] Gatsby Theme to build your own digital garden 🌻🥀🌸
-- [vault](https://github.com/luissimas/vault) - Obsidian vault
 - [Mr.Dclutterer](https://github.com/deep5050/Mr.Dclutterer) - A Minimal Looking Cross-Platform Desktop Application Made With Electron That Handles Quick File Aggregation And Bulk Renaming
 - [folderize](https://github.com/xprueg/folderize) - Copy files from multiple sources into a single folder sorted by their modification date while preventing duplicate content.
 - [dir-snap](https://github.com/LanceTurri/dir-snap) - A library for comparing snapshots of files and folders on your system.
@@ -1300,7 +1333,7 @@
 - [markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [Ghost](https://github.com/TryGhost/Ghost) - 👻 The #1 headless Node.js CMS for professional publishing
 - [developers-brain](https://github.com/nitishMehrotra/developers-brain) - Building a 🧠 Developers' Brain around People, Tools and every developer's day-to-day workflows.
-- [gatsby-digital-garden](https://github.com/mathieudutour/gatsby-digital-garden) - Create a digital garden with Gatsby
+- [gatsby-digital-garden](https://github.com/mathieudutour/gatsby-digital-garden) - 🌷 🌻 🌺 Create a digital garden with Gatsby
 - [shinytutorials](https://github.com/davidruvolo51/shinytutorials) - static site for shinyAppTutorials :building_construction:
 - [Awesome-shiny-apps-for-statistics](https://github.com/huyingjie/Awesome-shiny-apps-for-statistics) - 🌟 A curated list of Awesome Shiny Apps for Statistics (ASAS)🌟
 - [D3partitionR](https://github.com/AntoineGuillot2/D3partitionR) - R package to visualise interactively hierarchical data.
@@ -1482,6 +1515,7 @@
 
 ## Kotlin 
 
+- [orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists
 - [DragRating](https://github.com/saran2020/DragRating) - Easy to use Drag Rating with customisation with custom assets
 - [sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 - [Kotlin-AgendaCalendarView](https://github.com/ognev-zair/Kotlin-AgendaCalendarView) - Android calendar library provides easy to use widget with events
@@ -1533,6 +1567,7 @@
 
 ## Nix 
 
+- [pandoc-link-context](https://github.com/srid/pandoc-link-context) - Extract context around links in Pandoc
 - [nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 
 ## OCaml 
@@ -1551,6 +1586,16 @@
 
 ## Others 
 
+- [snipsnap](https://github.com/snipsnapdev/snipsnap) - The ultimate snippets collection for VS Code
+- [ontologies](https://github.com/KasperZutterman/ontologies) - This project describes the two ontologies used by https://www.datavillage.me to build the Digital Twins of people and to process these Digital Twins in a fully transparent way. This project uses WIDICO (https://github.com/dgarijo/Widoco) to generate documentation of ontologies. The generated ontology websites are automatically deployed on https://www.netlify.com.
+- [Contribute-To-This-Project](https://github.com/KasperZutterman/Contribute-To-This-Project) - This project is waiting for your contribution. If you have never contributed code on GitHub before, this is the project to get you started.
+- [zettelstore-manual](https://github.com/zettelstore/zettelstore-manual) - Manual for Zettelstore
+- [wikinota](https://github.com/wikinota/wikinota) - A blazing fast personal Wiki for your life. lives on at our own gitServer https://git.openlibre.org
+- [awesome-zettelkasten](https://github.com/fhoehl/awesome-zettelkasten) - A list of awesome Zettelkasten resources.
+- [zk-tools](https://github.com/seanakabry/zk-tools) - Keyboard Maestro macros to aid in managing plain text notes following wiki and Zettelkasten conventions
+- [ontology](https://github.com/beAWARE-project/ontology) - This repository contains the crisis management ontology for the beAWARE H2020 project along with the relevant documentation.
+- [Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet) - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
+- [useful-dev-tools](https://github.com/canro91/useful-dev-tools) - :star: A list with useful tools that help many Developers. Hacktoberfest :star:
 - [CleanmgrPlus](https://github.com/builtbybel/CleanmgrPlus) - 🐾 A Improved Replacement for Microsoft Disk Cleanup
 - [cookiecutter-r-analysis-template](https://github.com/pgcudahy/cookiecutter-r-analysis-template) - Cookiecutter template for R data analysis with jupyter notebooks
 - [rstartup](https://github.com/mcanouil/rstartup) - Tips to start working with R
@@ -2092,6 +2137,12 @@
 
 ## PowerShell 
 
+- [windows10-debloat](https://github.com/Daksh777/windows10-debloat) - Collection of various scripts and apps to debloat Windows 10 for better privacy, performance and optimization.
+- [Windows-On-Reins](https://github.com/gordonbay/Windows-On-Reins) - Windows 10 Ameliorated, Debloat, Optimize, Privacy fix
+- [Longhorn](https://github.com/VincentXE/Longhorn) - Windows 10 Debloater
+- [Win10Debloat](https://github.com/Raphire/Win10Debloat) - A simple powershell script to remove bloatware apps from windows 10, disable bing in windows search aswell as perform various other changes to declutter the windows 10 experience.
+- [Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove) - A Powershell-Script for removing / debloating Windows 10 apps. Mandatory apps which can't be uninstalled via start menu will be removed too.
+- [Optimize-Offline](https://github.com/DrEmpiricism/Optimize-Offline) - Optimize-Offline is a Windows 10 offline image optimization framework.
 - [PowerShell-WSL-Interop](https://github.com/mikebattista/PowerShell-WSL-Interop) - Integrate Linux commands into Windows with PowerShell and the Windows Subsystem for Linux (WSL).
 - [win-cli](https://github.com/roose/win-cli) - Windows command line tools
 - [PSDirTag](https://github.com/wtjones/PSDirTag) - DirTags are relative paths that appear as variables in the Powershell prompt that update as you navigate. Saves keystrokes when navigating folder structures.
@@ -2168,6 +2219,18 @@
 
 ## Python 
 
+- [PyDebloatX](https://github.com/Teraskull/PyDebloatX) - Python GUI for uninstalling the default Windows 10 apps.
+- [dotcommon](https://github.com/Kharacternyk/dotcommon) - What do people have in their dotfiles?
+- [metaflow](https://github.com/Netflix/metaflow) - Build and manage real-life data science projects with ease.
+- [jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
+- [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
+- [zettel-hugo-postmaker](https://github.com/balaji-dutt/zettel-hugo-postmaker) - A set of Python scripts that converts wikilinks in Markdown files into standard Hugo links.
+- [verzettler](https://github.com/klieret/verzettler) - Helper scripts for Zettelkasten.
+- [zettel-link-rewriter](https://github.com/balaji-dutt/zettel-link-rewriter) - Python script that converts wikilinks in Markdown files into standard Markdown links
+- [slipbox](https://github.com/lggruspe/slipbox) - A static site generator for Zettelkasten notes
+- [memex](https://github.com/djplaner/memex) - Nascent attempt at using Foam to curate and leverage a personal memex
+- [promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize any software project as a database of reusable components with common automation actions and extensible meta descriptions based on FAIR principles (findability, accessibility, interoperability, and reusability). See real-world use cases from MLPerf, Arm, General Motors, dividiti, IBM and ACM:
 - [classifier](https://github.com/bhrigu123/classifier) - Organize files in your directory instantly, by classifying them into different folders
 - [gittagstats](https://github.com/mcharleb/gittagstats) - 
 - [ansible-tools](https://github.com/jctanner/ansible-tools) - 
@@ -2401,8 +2464,11 @@
 
 ## R 
 
+- [reporteR](https://github.com/ekstroem/reporteR) - 
+- [stantargets](https://github.com/wlandau/stantargets) - Reproducible Bayesian data analysis pipelines with targets and cmdstanr
+- [ergm](https://github.com/statnet/ergm) - Fit, Simulate and Diagnose Exponential-Family Models for Networks
 - [econocharts](https://github.com/R-CoderDotCom/econocharts) - Microeconomics/macroeconomics charts in ggplot2
-- [err](https://github.com/devOpifex/err) - Error handling for R
+- [err](https://github.com/devOpifex/err) - Error & warning handling for R inspired by go
 - [workbench-r](https://github.com/alexkyllo/workbench-r) - An R data science project template for use with the cookiecutter templating tool
 - [staries](https://github.com/cgpu/staries) - The *ies. A series of &lt;star&gt;-ies util snippets, scripts or templates that I use day to day.
 - [R_template_test](https://github.com/GregoryIreland/R_template_test) - 
@@ -2942,7 +3008,6 @@
 - [dance](https://github.com/romainfrancois/dance) - tibble() dancing 💃
 - [tidyquery](https://github.com/ianmcook/tidyquery) - Query R data frames with SQL
 - [timetk](https://github.com/business-science/timetk) - A toolkit for working with time series in R
-- [gcc](https://github.com/czxa/gcc) - GitHub Contributions Chart Generator
 - [shinyaccess](https://github.com/leonawicz/shinyaccess) - Web Accessibility in Shiny
 - [tenzing](https://github.com/marton-balazs-kovacs/tenzing) - tenzing: documening contributorship with CRediT
 - [intro_to_shiny_workshop](https://github.com/OmaymaS/intro_to_shiny_workshop) - Building Web Applications with Shiny (Workshop Material)
@@ -3020,7 +3085,7 @@
 - [Shiny_NextPreviousArrow](https://github.com/AntoineGuillot2/Shiny_NextPreviousArrow) - Code to create Next and Previous arrow in a tabBox in Shiny Dashboard
 - [ContentSecurityPolicy](https://github.com/dirkschumacher/ContentSecurityPolicy) - Content Security Policies for Shiny Apps
 - [noteMD](https://github.com/jienagu/noteMD) - Print text from shiny ui (support markdown syntax) to pdf or word report
-- [mailtoR](https://github.com/feddelegrand7/mailtoR) - Creates a Friendly User Interface for Emails Sending in Shiny and RMarkdown
+- [mailtoR](https://github.com/feddelegrand7/mailtoR) - 🐹🐹🐹 Creates a Friendly User Interface for Emails Sending in Shiny and RMarkdown
 - [polaroid](https://github.com/jhk0530/polaroid) - Shiny application to generate hexsticker
 - [shinyapps](https://github.com/iliastsergoulas/shinyapps) - Shiny applications and dashboards in R
 - [accessibleshiny](https://github.com/davidruvolo51/accessibleshiny) - Create accessible components in shinyapps (in progress 🏗)
@@ -3473,11 +3538,9 @@
 - [peity](https://github.com/JohnCoene/peity) - Inline charts for R
 - [billboard](https://github.com/JohnCoene/billboard) - 📊 htmlwidget for billboard.js
 - [eventdropR](https://github.com/timelyportfolio/eventdropR) - EventDrops d3.js timeline as R htmlwidget
-- [hwordcloud](https://github.com/czxa/hwordcloud) - Create Word Cloud Charts
 - [summarywidget](https://github.com/kent37/summarywidget) - htmlwidget that shows a single summary statistic
 - [echarter](https://github.com/jeevanyue/echarter) - R Interface to Echarts
 - [datamaps](https://github.com/JohnCoene/datamaps) - 📍 datamaps htmlwidget for R
-- [hpackedbubble](https://github.com/czxa/hpackedbubble) - Create Split Packed Bubble Charts
 - [deckgl](https://github.com/crazycapivara/deckgl) - An R Interface to deck.gl
 - [echarts](https://github.com/JohnCoene/echarts) - 🐳 echarts for R - htmlwidget
 - [explor](https://github.com/juba/explor) - Interfaces for Multivariate Analysis in R
@@ -4264,6 +4327,7 @@
 
 ## Ruby 
 
+- [tracks](https://github.com/TracksApp/tracks) - Tracks is a GTD™ web application, built with Ruby on Rails
 - [hexapdf](https://github.com/gettalong/hexapdf) - Versatile PDF creation and manipulation for Ruby
 - [forem](https://github.com/forem/forem) - For empowering community 🌱
 - [pkb](https://github.com/wezm/pkb) - Personal knowledge base
@@ -4302,6 +4366,7 @@
 
 ## Rust 
 
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [tin-summer](https://github.com/vmchale/tin-summer) - Find build artifacts that are taking up disk space
@@ -4337,6 +4402,7 @@
 
 ## SCSS 
 
+- [wtfcrt](https://github.com/nikvoronin/wtfcrt) - A personal wiki-like notebooks aka zettelkasten
 - [notes.ajb.app](https://github.com/andybyers21/notes.ajb.app) - This is the data for my Evergreen notes vault
 - [foam-template](https://github.com/foambubble/foam-template) - Foam workpace template
 - [clair-de-lune-obsidian-theme](https://github.com/jamiebrynes7/clair-de-lune-obsidian-theme) - An obsidian.md theme inspired by the Moonlight family of themes
@@ -4365,6 +4431,10 @@
 
 ## Shell 
 
+- [Debloat](https://github.com/KushagraKarira/Debloat) - Remove ads, bloatware and speed up your device.
+- [notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
+- [tiddlywiki-docker](https://github.com/m0wer/tiddlywiki-docker) - NodeJS based TiddlyWiki 5 Docker image.
+- [journal](https://github.com/mrhwick/journal) - easily installed and used CLI journal using obsidian
 - [Autocommit](https://github.com/donnaken15/Autocommit) - using rather than committing every week holding back specific data, to look like any other user making daily contributions
 - [wsl-alias](https://github.com/leongrdic/wsl-alias) - Create aliases for Linux commands in Windows command line (for WSL)
 - [r-config](https://github.com/INWTlab/r-config) - R installation and configuration
@@ -4588,6 +4658,9 @@
 
 ## TypeScript 
 
+- [brain](https://github.com/jmoyers/brain) - Brain: Take and Organize Notes
+- [zettel-lint](https://github.com/zettel-lint/zettel-lint) - A linter/compiler for markdown-based Zettelkasten git repositories
+- [vscode-notes](https://github.com/hacdias/vscode-notes) - Note-taking helper extension for VSCode
 - [opensource-portal](https://github.com/microsoft/opensource-portal) - Microsoft's GitHub-at-scale self-service monolithic portal
 - [git-project-manager](https://github.com/felipecaputo/git-project-manager) - A Git Project Manager extension for vsCode
 - [MagicBox](https://github.com/akatrukhin/MagicBox) - Organize your workspace, keep files optimized, prepare images for publishing
@@ -4599,7 +4672,6 @@
 - [env-cmd](https://github.com/toddbluhm/env-cmd) - Setting environment variables from a file
 - [github-issues-notice](https://github.com/linyows/github-issues-notice) - :octocat: Notify labeled issues to Slack
 - [VSCode-R-Debugger](https://github.com/ManuelHentschel/VSCode-R-Debugger) - R Debugger Extension for Visual Studio Code
-- [obsidian-calendar-plugin](https://github.com/liamcain/obsidian-calendar-plugin) - Simple calendar widget for Obsidian.
 - [sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for Javascript
 - [obsidian-backlinks-in-document](https://github.com/mrjackphil/obsidian-backlinks-in-document) - A hacky workaround which put backlinks section into the document
 - [Website](https://github.com/thenewboston-developers/Website) - The website and documentation for thenewboston.
@@ -4757,6 +4829,7 @@
 
 ## Vue 
 
+- [GitXplore-Search](https://github.com/appbaseio-apps/GitXplore-Search) - An application to explore github repositories.
 - [pile](https://github.com/mtobeiyf/pile) - :zap: A simple & powerful app to organize your piled work at one place~
 - [export-github-stars](https://github.com/KeziahMoselle/export-github-stars) - View / Sort / Export your Starred repositories.
 - [raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
