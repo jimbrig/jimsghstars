@@ -107,6 +107,7 @@
 
 ## C 
 
+- [longears](https://github.com/atheriel/longears) - A RabbitMQ client for R
 - [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
 - [yori](https://github.com/malxau/yori) - Yori is a CMD replacement shell that supports backquotes, job control, and improves tab completion, file matching, aliases, command history, and more.
 - [colorout](https://github.com/jalvesaq/colorout) - Colorize R output in terminal emulators
@@ -1009,7 +1010,7 @@
 - [pgtune](https://github.com/le0pard/pgtune) - Pgtune - tuning PostgreSQL config by your hardware
 - [quicksettings](https://github.com/bit101/quicksettings) - JavaScript library for making a quick settings panel to control code parameters.
 - [browser-extension](https://github.com/dnote/browser-extension) - Instantly take encrypted notes inside Chrome or Firefox
-- [learning-notes](https://github.com/slowernews/learning-notes) - Notes on programming (frontend, chrome extensions), portuguese taxes, polish language .. (WIP)
+- [learning-notes](https://github.com/slowernews/learning-notes) - Notes on programming (frontend, chrome extensions), Portuguese taxes, Polish language .. (WIP)
 - [notebook](https://github.com/wayanjimmy/notebook) - Personal notes
 - [dschapman-com](https://github.com/dschapman/dschapman-com) - Gatsby Blog built as a digital garden. It's is meant to be curated, read, and explored. Trying to think about this as a place I want to use first and foremost.
 - [next-mdx-digital-garden-starter](https://github.com/RyanWarner/next-mdx-digital-garden-starter) - An opinionated starting point for Digital Garden content authoring.
@@ -1586,6 +1587,8 @@
 
 ## Others 
 
+- [pandoc-action-example](https://github.com/pandoc/pandoc-action-example) - using the pandoc document converter on GitHub Actions
+- [awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) - A curated list of awesome note-taking software.
 - [snipsnap](https://github.com/snipsnapdev/snipsnap) - The ultimate snippets collection for VS Code
 - [ontologies](https://github.com/KasperZutterman/ontologies) - This project describes the two ontologies used by https://www.datavillage.me to build the Digital Twins of people and to process these Digital Twins in a fully transparent way. This project uses WIDICO (https://github.com/dgarijo/Widoco) to generate documentation of ontologies. The generated ontology websites are automatically deployed on https://www.netlify.com.
 - [Contribute-To-This-Project](https://github.com/KasperZutterman/Contribute-To-This-Project) - This project is waiting for your contribution. If you have never contributed code on GitHub before, this is the project to get you started.
@@ -1648,7 +1651,6 @@
 - [readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates & updates markdown content (like your README.md)
 - [obsidian-colors](https://github.com/dmytrodanylyk/obsidian-colors) - 
 - [ObsidianPages](https://github.com/matthias-samwald/ObsidianPages) - 
-- [Claims-DB](https://github.com/jimbrig/Claims-DB) - Shiny App with built in database backend meant for managing lossruns and insurance claims data.
 - [mindforger-repository](https://github.com/dvorka/mindforger-repository) - MindForger documentation repository.
 - [Guides](https://github.com/codingforentrepreneurs/Guides) - Guides for learning + doing better web and app development. Created by Coding for Entrepreneurs.
 - [sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config) - Sysmon configuration file template with default high-quality event tracing
@@ -2464,6 +2466,9 @@
 
 ## R 
 
+- [osrm](https://github.com/rCarto/osrm) - Shortest Paths and Travel Time from OpenStreetMap with R
+- [safepaths](https://github.com/bcgov/safepaths) - An R 📦 to safely set & use a path to a private network
+- [aws.secrets](https://github.com/cloudyr/aws.secrets) - 
 - [reporteR](https://github.com/ekstroem/reporteR) - 
 - [stantargets](https://github.com/wlandau/stantargets) - Reproducible Bayesian data analysis pipelines with targets and cmdstanr
 - [ergm](https://github.com/statnet/ergm) - Fit, Simulate and Diagnose Exponential-Family Models for Networks
@@ -4327,6 +4332,7 @@
 
 ## Ruby 
 
+- [snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
 - [tracks](https://github.com/TracksApp/tracks) - Tracks is a GTD™ web application, built with Ruby on Rails
 - [hexapdf](https://github.com/gettalong/hexapdf) - Versatile PDF creation and manipulation for Ruby
 - [forem](https://github.com/forem/forem) - For empowering community 🌱
@@ -4366,6 +4372,7 @@
 
 ## Rust 
 
+- [cli-hex-rgb](https://github.com/Shriram-Balaji/cli-hex-rgb) - 🎨 A Rust CLI Program to convert `hexcode` color representation to `rgb`.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
@@ -4601,6 +4608,7 @@
 
 ## TeX 
 
+- [reproducible-research](https://github.com/rr-mrc-bsu/reproducible-research) - The most recent build from master is available at:
 - [knitr-examples](https://github.com/cderv/knitr-examples) - a collection of knitr examples
 - [pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
 - [colebrokamp.com](https://github.com/cole-brokamp/colebrokamp.com) - 
@@ -4829,6 +4837,7 @@
 
 ## Vue 
 
+- [code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [GitXplore-Search](https://github.com/appbaseio-apps/GitXplore-Search) - An application to explore github repositories.
 - [pile](https://github.com/mtobeiyf/pile) - :zap: A simple & powerful app to organize your piled work at one place~
 - [export-github-stars](https://github.com/KeziahMoselle/export-github-stars) - View / Sort / Export your Starred repositories.
