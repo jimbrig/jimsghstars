@@ -35,7 +35,6 @@
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
-  - [Less](#less)
   - [Lua](#lua)
   - [M4](#m4)
   - [Makefile](#makefile)
@@ -337,6 +336,7 @@
 
 ## CSS 
 
+- [gha_r_tutorial](https://github.com/yonicd/gha_r_tutorial) - Short tutorial for using GitHub Actions and R
 - [cookiecutter-reproducible-research](https://github.com/timtroendle/cookiecutter-reproducible-research) - A cookiecutter template for reproducible research projects using Python, Snakemake, and Pandoc.
 - [firsttimersonly](https://github.com/shanselman/firsttimersonly) - The Repository for the FirstTimersOnly movement in Open Source. We want projects to reserve some issues for newbies.
 - [browsr](https://github.com/jimbrig/browsr) - Query advanced searches from your R console!
@@ -547,7 +547,7 @@
 - [unipdf](https://github.com/unidoc/unipdf) - Golang PDF library for creating and processing PDF files (pure go)
 - [note-maps](https://github.com/google/note-maps) - A personal knowledge base intended for use on mobile devices.
 - [folder-manager](https://github.com/DataHearth/folder-manager) - Open source folder manager with encryption/decryption feature, watching folders/files.
-- [diskusage](https://github.com/aleksaan/diskusage) - Searching for top largest folders/files on the disk.
+- [diskusage](https://github.com/aleksaan/diskusage) - Find top largest folders/files on the disk.
 - [blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
 - [maintainer](https://github.com/gaocegege/maintainer) - :octocat: :man_technologist: :whale: Generate personal daily reports or summary, AUTHORS, CONTRIBUTING, CHANGELOG and so on for GitHub user or repository.
 - [limo](https://github.com/lucmski/limo) - A CLI for managing starred Git repositories
@@ -642,7 +642,7 @@
 
 ## HTML 
 
-- [Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Fully Optimize, Harden, and Debloat Windows 10 Deployments to Windows Best Practices and DoD STIG/SRG Requirements. The ultimate Windows 10 security and privacy script!
+- [spAddins](https://github.com/GegznaV/spAddins) - :white_check_mark: A Set of RStudio Addins
 - [CoursesWithR](https://github.com/skranz/CoursesWithR) - 
 - [webdash](https://github.com/jadjoubran/webdash) - 🔥 Orchestrate your web project with Webdash the customizable web dashboard
 - [KasperZutterman.github.io](https://github.com/KasperZutterman/KasperZutterman.github.io) - Personal website:
@@ -1150,6 +1150,7 @@
 - [awesome-captcha](https://github.com/ZYSzys/awesome-captcha) - :key: Curated list of awesome captcha libraries and crack tools.
 - [getAwesomeness](https://github.com/panzhangwang/getAwesomeness) - Use this method to retrieve all amazing awesomeness from Github
 - [awesomelists-index](https://github.com/John-Lin/awesomelists-index) - Generate the awesome lists in JSON file.
+- [AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in one second.
 - [awesome-gulp](https://github.com/alferov/awesome-gulp) - :tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp
 - [awesome-ui-component-library](https://github.com/anubhavsrivastava/awesome-ui-component-library) - Curated list of framework component libraries for UI styles/toolkit
 - [awesome-web-animation](https://github.com/sergey-pimenov/awesome-web-animation) - A list of awesome web animation libraries, books, apps etc.
@@ -1524,10 +1525,6 @@
 - [shinycannon](https://github.com/rstudio/shinycannon) - Load generation tool, part of shinyloadtest
 - [sponge](https://github.com/spypunk/sponge) - sponge is a website crawler and links downloader command-line tool
 
-## Less 
-
-- [AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in one second.
-
 ## Lua 
 
 - [dotfiles](https://github.com/onodera-punpun/dotfiles) - My dotfiles and themes.
@@ -1587,6 +1584,7 @@
 
 ## Others 
 
+- [alfred-r](https://github.com/pat-s/alfred-r) - #rstats Alfred workflow
 - [pandoc-action-example](https://github.com/pandoc/pandoc-action-example) - using the pandoc document converter on GitHub Actions
 - [awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) - A curated list of awesome note-taking software.
 - [snipsnap](https://github.com/snipsnapdev/snipsnap) - The ultimate snippets collection for VS Code
@@ -2143,6 +2141,7 @@
 - [Windows-On-Reins](https://github.com/gordonbay/Windows-On-Reins) - Windows 10 Ameliorated, Debloat, Optimize, Privacy fix
 - [Longhorn](https://github.com/VincentXE/Longhorn) - Windows 10 Debloater
 - [Win10Debloat](https://github.com/Raphire/Win10Debloat) - A simple powershell script to remove bloatware apps from windows 10, disable bing in windows search aswell as perform various other changes to declutter the windows 10 experience.
+- [Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Fully Optimize, Harden, and Debloat Windows 10 Deployments to Windows Best Practices and DoD STIG/SRG Requirements. The ultimate Windows 10 security and privacy script!
 - [Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove) - A Powershell-Script for removing / debloating Windows 10 apps. Mandatory apps which can't be uninstalled via start menu will be removed too.
 - [Optimize-Offline](https://github.com/DrEmpiricism/Optimize-Offline) - Optimize-Offline is a Windows 10 offline image optimization framework.
 - [PowerShell-WSL-Interop](https://github.com/mikebattista/PowerShell-WSL-Interop) - Integrate Linux commands into Windows with PowerShell and the Windows Subsystem for Linux (WSL).
@@ -2221,6 +2220,7 @@
 
 ## Python 
 
+- [strictyaml](https://github.com/crdoconnor/strictyaml) - Type-safe YAML parser and validator.
 - [PyDebloatX](https://github.com/Teraskull/PyDebloatX) - Python GUI for uninstalling the default Windows 10 apps.
 - [dotcommon](https://github.com/Kharacternyk/dotcommon) - What do people have in their dotfiles?
 - [metaflow](https://github.com/Netflix/metaflow) - Build and manage real-life data science projects with ease.
@@ -2466,10 +2466,31 @@
 
 ## R 
 
+- [docopt.R](https://github.com/docopt/docopt.R) - Command-line interface description language for R (http://docopt.org)
+- [librarian](https://github.com/DesiQuintans/librarian) - Install, Update, Load Packages from CRAN, Bioconductor, and GitHub in One Step
+- [bcgovr](https://github.com/bcgov/bcgovr) - An R package to automate set up and sharing of R projects in bcgov GitHub following bcgov guidelines
+- [DescTools](https://github.com/AndriSignorell/DescTools) - Tools for Descriptive Statistics and Exploratory Data Analysis
+- [recommenderlab](https://github.com/mhahsler/recommenderlab) - recommenderlab - Lab for Developing and Testing Recommender Algorithms - R package
+- [rawrr](https://github.com/acastroaraujo/rawrr) - reddit api wrapper for R
+- [rawr](https://github.com/raredd/rawr) - rawr package
+- [anyLib](https://github.com/achateigner/anyLib) - 
+- [strcode](https://github.com/lorenzwalthert/strcode) - Structure your code better.
+- [Hr](https://github.com/thomasp85/Hr) - Easy Access to Uppercase H
+- [rscontract](https://github.com/rstudio/rscontract) - Integrate your project with the RStudio IDE's Connections Pane
+- [craninfo](https://github.com/yonicd/craninfo) - sessioninfo with cran check information
+- [places](https://github.com/yonicd/places) - Reliably store, manage and verify multiple file paths of a project   using a simple and consistent API.
+- [vcs](https://github.com/yonicd/vcs) - Remote repository file querying, structure  inspection, script sourcing directly from R
+- [texblocks](https://github.com/yonicd/texblocks) - WIP: tex table building blocks
+- [slackcalls](https://github.com/yonicd/slackcalls) - generic package to call slack api from R
+- [slackposts](https://github.com/yonicd/slackposts) - Interact with chats and files methods of Slack API in R
+- [slackblocks](https://github.com/yonicd/slackblocks) - Slack Blocks in R
+- [shinyHeatmaply](https://github.com/yonicd/shinyHeatmaply) - 
+- [slackteams](https://github.com/yonicd/slackteams) - Manage and Interact with multiple Slack teams in R
+- [mltools](https://github.com/ben519/mltools) - Exploratory and diagnostic machine learning tools for R
 - [osrm](https://github.com/rCarto/osrm) - Shortest Paths and Travel Time from OpenStreetMap with R
 - [safepaths](https://github.com/bcgov/safepaths) - An R 📦 to safely set & use a path to a private network
 - [aws.secrets](https://github.com/cloudyr/aws.secrets) - 
-- [reporteR](https://github.com/ekstroem/reporteR) - 
+- [dataReporter](https://github.com/ekstroem/dataReporter) - 
 - [stantargets](https://github.com/wlandau/stantargets) - Reproducible Bayesian data analysis pipelines with targets and cmdstanr
 - [ergm](https://github.com/statnet/ergm) - Fit, Simulate and Diagnose Exponential-Family Models for Networks
 - [econocharts](https://github.com/R-CoderDotCom/econocharts) - Microeconomics/macroeconomics charts in ggplot2
@@ -2482,7 +2503,7 @@
 - [clere](https://github.com/mcanouil/clere) - Simultaneous Variables Clustering and Regression
 - [DEV](https://github.com/mcanouil/DEV) - Some functions/utils in development ...
 - [mctools](https://github.com/mcanouil/mctools) - Mickaël Canouil's tools
-- [rain](https://github.com/mcanouil/rain) - Reference-based Ancestry INference
+- [rain](https://github.com/umr1283/rain) - Reference-based Ancestry INference
 - [mctemplates](https://github.com/mcanouil/mctemplates) - Mickaël Canouil's Rmarkdown & Rstudio templates
 - [insane](https://github.com/mcanouil/insane) - An Interactive Web Application for Quality Control and Analysis of Insulin Secretion from Pancreatic Beta Cells
 - [rstudio_mybinder_env](https://github.com/franzbischoff/rstudio_mybinder_env) - This is a template environment, pre-configured to run Github Classroom assessments.
@@ -4372,7 +4393,7 @@
 
 ## Rust 
 
-- [cli-hex-rgb](https://github.com/Shriram-Balaji/cli-hex-rgb) - 🎨 A Rust CLI Program to convert `hexcode` color representation to `rgb`.
+- [cli-hex-rgb](https://github.com/Shriram-Balaji/cli-hex-rgb) - A Rust CLI Program to convert hexadecimal color-code to RGB
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
@@ -4438,6 +4459,7 @@
 
 ## Shell 
 
+- [heroku-buildpack-r](https://github.com/yonicd/heroku-buildpack-r) - Heroku buildpack for R (http://www.r-project.org)
 - [Debloat](https://github.com/KushagraKarira/Debloat) - Remove ads, bloatware and speed up your device.
 - [notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
 - [tiddlywiki-docker](https://github.com/m0wer/tiddlywiki-docker) - NodeJS based TiddlyWiki 5 Docker image.
@@ -4666,6 +4688,8 @@
 
 ## TypeScript 
 
+- [auto-assign-action](https://github.com/kentaro-m/auto-assign-action) - An action which adds reviewers to the pull request when the pull request is opened.
+- [assets](https://github.com/rainx/assets) - Javascript/Typescript assets management toolset
 - [brain](https://github.com/jmoyers/brain) - Brain: Take and Organize Notes
 - [zettel-lint](https://github.com/zettel-lint/zettel-lint) - A linter/compiler for markdown-based Zettelkasten git repositories
 - [vscode-notes](https://github.com/hacdias/vscode-notes) - Note-taking helper extension for VSCode
