@@ -80,6 +80,7 @@
 
 ## Assembly 
 
+- [tools](https://github.com/nullsecuritynet/tools) - Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts.
 - [Hmisc](https://github.com/harrelfe/Hmisc) - Harrell Miscellaneous
 
 ## AutoHotkey 
@@ -106,6 +107,7 @@
 
 ## C 
 
+- [development-references](https://github.com/robenkleene/development-references) - References for programming tools.
 - [longears](https://github.com/atheriel/longears) - A RabbitMQ client for R
 - [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
 - [yori](https://github.com/malxau/yori) - Yori is a CMD replacement shell that supports backquotes, job control, and improves tab completion, file matching, aliases, command history, and more.
@@ -336,6 +338,8 @@
 
 ## CSS 
 
+- [shinyMergely](https://github.com/stla/shinyMergely) - A Shiny app allowing to compare and merge two files.
+- [devnotes](https://github.com/kevjose/devnotes) - notes from the journey of a software engineer 🤗
 - [gha_r_tutorial](https://github.com/yonicd/gha_r_tutorial) - Short tutorial for using GitHub Actions and R
 - [cookiecutter-reproducible-research](https://github.com/timtroendle/cookiecutter-reproducible-research) - A cookiecutter template for reproducible research projects using Python, Snakemake, and Pandoc.
 - [firsttimersonly](https://github.com/shanselman/firsttimersonly) - The Repository for the FirstTimersOnly movement in Open Source. We want projects to reserve some issues for newbies.
@@ -505,6 +509,7 @@
 
 ## Elixir 
 
+- [lifelong-learning](https://github.com/daryllxd/lifelong-learning) - ✅ ✅ ✅ A massive repo filled with notes on everything from coding to philosophy to psychology to marketing to product
 - [papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 
 ## Elm 
@@ -642,6 +647,11 @@
 
 ## HTML 
 
+- [notes](https://github.com/nbelzer/notes) - My Personal Notes 📚
+- [gigsterous.github.io](https://github.com/gigsterous/gigsterous.github.io) - Gigsterous blog for sharing thoughts, technical insights and more.
+- [enjoyment-work](https://github.com/brennanbrown/enjoyment-work) - 🗃️ A Digital Garden: Capturing my daily thoughts and progress, as well as curated ideas with unique synthesis—a personal zettelkasten. Built on Simply Jekyll by Raghuveer S.
+- [tools](https://github.com/googlecodelabs/tools) - Codelabs management & hosting tools
+- [whyR-2020](https://github.com/ekstroem/whyR-2020) - 
 - [spAddins](https://github.com/GegznaV/spAddins) - :white_check_mark: A Set of RStudio Addins
 - [CoursesWithR](https://github.com/skranz/CoursesWithR) - 
 - [webdash](https://github.com/jadjoubran/webdash) - 🔥 Orchestrate your web project with Webdash the customizable web dashboard
@@ -959,6 +969,19 @@
 
 ## JavaScript 
 
+- [shinyDatetimePickers](https://github.com/stla/shinyDatetimePickers) - Datetime pickers for Shiny.
+- [shinyPrettier](https://github.com/stla/shinyPrettier) - 
+- [shinyChakraSlider](https://github.com/stla/shinyChakraSlider) - A combined slider and number input for Shiny.
+- [monaco](https://github.com/stla/monaco) - Yet another second editor in RStudio.
+- [ProbabilityDistributionsViewer](https://github.com/ksmzn/ProbabilityDistributionsViewer) - Shiny web app for live demonstration of probability distributions.
+- [ObsidianBookmark](https://github.com/Liamballin/ObsidianBookmark) - Chrome extension and nodejs server to allow web clipping to Obsidian.
+- [cm-editor-syntax-highlight-obsidian](https://github.com/deathau/cm-editor-syntax-highlight-obsidian) - A plugin for [Obsidian](https://obsidian.md) which allows syntax highlighting for code blocks in the editor.
+- [sync-diigo-to-folder](https://github.com/TehShrike/sync-diigo-to-folder) - Sync all your Diigo bookmarks to a directory as Markdown files.  Intended for use with Obsidian
+- [ContentTools](https://github.com/GetmeUK/ContentTools) - A JS library for building WYSIWYG editors for HTML content.
+- [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
+- [Advent-of-Code-2020---Javascript](https://github.com/DenverCoder1/Advent-of-Code-2020---Javascript) - Advent of Code 2020 Solutions in JavaScript
+- [rjs](https://github.com/kdpsingh/rjs) - R in JavaScript
+- [wmr](https://github.com/preactjs/wmr) - 👩‍🚀 The tiny all-in-one development tool for modern web apps.
 - [wisely](https://github.com/brendanhcullen/wisely) - Using R more "wisely": Column-wise and row-wise operations with dplyr
 - [Gettlr](https://github.com/thomaskoppelaar/Gettlr) - A Markdown Editor for me, mostly.
 - [x](https://github.com/DustinBrett/x) - Desktop environment in the browser.
@@ -1556,6 +1579,7 @@
 - [awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [gitpr](https://github.com/susam/gitpr) - Quick reference guide on fork and pull request workflow
 - [datacurator-filetree](https://github.com/roboyoshi/datacurator-filetree) - a standard filetree for /r/datacurator [ and r/datahoarder ]
+- [recipes](https://github.com/R-macos/recipes) - System for building static dependent libraries for CRAN packages
 - [demo-linking-native](https://github.com/Accio/demo-linking-native) - Demo of linking native routines in other packages in R
 - [awesome-blogdown](https://github.com/sellorm/awesome-blogdown) - An awesome curated list of blogs built using blogdown
 
@@ -1574,6 +1598,7 @@
 
 ## Objective-C 
 
+- [DailyLearning](https://github.com/FrizzleFur/DailyLearning) - My Daily Learning~
 - [DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - Developer Utilities for macOS
 - [dotfiles](https://github.com/noamross/dotfiles) - 
 - [tlutility](https://github.com/amaxwell/tlutility) - TeX Live Utility, a Mac OS GUI for the TeX Live Manager
@@ -1584,6 +1609,13 @@
 
 ## Others 
 
+- [exobrain](https://github.com/karlicoss/exobrain) - My external brain 🧠
+- [Technical_Notes](https://github.com/KOVERcjm/Technical_Notes) - Personal technical summary notes
+- [TechnicalNote](https://github.com/jobhope/TechnicalNote) - Repository to store what we have studied. :book: We want everyone to get a job through TechnicalNote.
+- [community-search](https://github.com/AthenaAI/community-search) - A community-curated repository of 🔥 learning resources
+- [obsidian-alfred](https://github.com/hauselin/obsidian-alfred) - Alfred workflow for Obsidian note-taking app. Open vaults and files in Obsidian.
+- [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
+- [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) - A list of resources for those interested in getting started in bug bounties
 - [alfred-r](https://github.com/pat-s/alfred-r) - #rstats Alfred workflow
 - [pandoc-action-example](https://github.com/pandoc/pandoc-action-example) - using the pandoc document converter on GitHub Actions
 - [awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) - A curated list of awesome note-taking software.
@@ -1896,6 +1928,7 @@
 - [obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - 
 - [articles](https://github.com/objcio/articles) - All current objc.io articles
 - [reMarkable-typescript](https://github.com/andymatuschak/reMarkable-typescript) - A typescript reMarkable Cloud API
+- [ycparak.com](https://github.com/ycparak/ycparak.com) - 🎧 Personal site and note taking system, inspired by Andy Matuschak's notes.
 - [Andy-Grove---High-Output-Management](https://github.com/julian-englert/Andy-Grove---High-Output-Management) - Summary of the book High Output Management by Andy Grove
 - [obsidian-plugins](https://github.com/binyamin/obsidian-plugins) - Obsidian Plugin Ideas
 - [slipbox](https://github.com/ShannaSeigel/slipbox) - knowledgebase sharing experiment
@@ -2220,6 +2253,8 @@
 
 ## Python 
 
+- [cheatsheet](https://github.com/vrachieru/cheatsheet) - Various brain dumps gathered throughout my journey of poking a bunch of things with a stick.
+- [obsidian-utilities](https://github.com/macedotavares/obsidian-utilities) - An Alfred workflow focusing on quick entry and logging.
 - [strictyaml](https://github.com/crdoconnor/strictyaml) - Type-safe YAML parser and validator.
 - [PyDebloatX](https://github.com/Teraskull/PyDebloatX) - Python GUI for uninstalling the default Windows 10 apps.
 - [dotcommon](https://github.com/Kharacternyk/dotcommon) - What do people have in their dotfiles?
@@ -2466,6 +2501,20 @@
 
 ## R 
 
+- [shinyCheckboxTree](https://github.com/stla/shinyCheckboxTree) - A checkbox tree widget for Shiny.
+- [shinyMultiActionButton](https://github.com/stla/shinyMultiActionButton) - A multi action button for Shiny.
+- [prettifyAddins](https://github.com/stla/prettifyAddins) - RStudio addins to prettify JavaScript/HTML/CSS/Markdown/C++ and more.
+- [shinyApps](https://github.com/nicebread/shinyApps) - Shiny app: Robustness analysis for Bayes factors: Two sample t test
+- [ggeffects](https://github.com/strengejacke/ggeffects) - Estimated Marginal Means and Marginal Effects from Regression Models for ggplot2
+- [patchwork](https://github.com/thomasp85/patchwork) - The Composer of ggplots
+- [fable](https://github.com/tidyverts/fable) - Tidy time series forecasting
+- [githubr](https://github.com/brian-bot/githubr) - Making it easy to talk to GitHub from R
+- [wordpiece](https://github.com/jonathanbratt/wordpiece) - 
+- [heatmaply](https://github.com/talgalili/heatmaply) - Interactive Heat Maps for R Using plotly
+- [rstudio.testthat.tests](https://github.com/kevinushey/rstudio.testthat.tests) - A small R package with a couple failing tests. Primarily for driving testing of the RStudio Build pane with tests.
+- [savonliquide](https://github.com/feddelegrand7/savonliquide) - 🧼🧼🧼 Check for Color Contrast Accessibility
+- [remotes](https://github.com/r-lib/remotes) - Install R packages from GitHub, GitLab, Bitbucket, git, svn repositories, URLs
+- [pkgattrs](https://github.com/rich-iannone/pkgattrs) - Get information on the contents of one or more R packages
 - [docopt.R](https://github.com/docopt/docopt.R) - Command-line interface description language for R (http://docopt.org)
 - [librarian](https://github.com/DesiQuintans/librarian) - Install, Update, Load Packages from CRAN, Bioconductor, and GitHub in One Step
 - [bcgovr](https://github.com/bcgov/bcgovr) - An R package to automate set up and sharing of R projects in bcgov GitHub following bcgov guidelines
@@ -3154,7 +3203,6 @@
 - [debugr](https://github.com/jsugarelli/debugr) - Debug tool to watch objects/expressions while running an R script
 - [packagefinder](https://github.com/jsugarelli/packagefinder) - Comfortable search for R packages on CRAN, either directly from the R console or with an R Studio add-in
 - [hex-stickers](https://github.com/rstudio/hex-stickers) - RStudio hex stickers
-- [recipes](https://github.com/R-macos/recipes) - System for building static dependent libraries for CRAN packages
 - [bulletchartr](https://github.com/ACDIVOCATech/bulletchartr) - This package builds bullet charts suitable for tracking KPIs, and used by ACDI/VOCA to track progress against indicators
 - [Vizumap](https://github.com/lydialucchesi/Vizumap) - R package for visualizing uncertainty in spatial data
 - [terse](https://github.com/coolbutuseless/terse) - Terse output for nested lists and data.frames
@@ -4353,6 +4401,7 @@
 
 ## Ruby 
 
+- [vincents-productivity-suite-for-alfred](https://github.com/voostindie/vincents-productivity-suite-for-alfred) - A CLI and automatically generated Alfred workflows to make my daily computer work more efficient.
 - [snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
 - [tracks](https://github.com/TracksApp/tracks) - Tracks is a GTD™ web application, built with Ruby on Rails
 - [hexapdf](https://github.com/gettalong/hexapdf) - Versatile PDF creation and manipulation for Ruby
@@ -4459,6 +4508,9 @@
 
 ## Shell 
 
+- [knowledge](https://github.com/d2s/knowledge) - :cloud: 2016→ — A curated list of Tools and Resources.
+- [ds-toolkit](https://github.com/VasudevGupta7/ds-toolkit) - This repo is having some useful stuff for data scientist related stuff.
+- [adr-tools](https://github.com/npryce/adr-tools) - Command-line tools for working with Architecture Decision Records
 - [heroku-buildpack-r](https://github.com/yonicd/heroku-buildpack-r) - Heroku buildpack for R (http://www.r-project.org)
 - [Debloat](https://github.com/KushagraKarira/Debloat) - Remove ads, bloatware and speed up your device.
 - [notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
@@ -4688,6 +4740,17 @@
 
 ## TypeScript 
 
+- [cycle-through-panes](https://github.com/phibr0/cycle-through-panes) - Cycle through Panes - Obsidian Plugin
+- [find-unlinked-files](https://github.com/Vinzent03/find-unlinked-files) - Find files, which are nowhere linked, so they are maybe lost in your vault.
+- [obsidian-smart-random-note](https://github.com/erichalldev/obsidian-smart-random-note) - A smart random note plugin for Obsidian
+- [obsidian-reading-time](https://github.com/avr/obsidian-reading-time) - 
+- [advanced-tables-obsidian](https://github.com/tgrosinger/advanced-tables-obsidian) - Improved table navigation, formatting, and manipulation in Obsidian.md
+- [Obsidian-shortcuts-extender](https://github.com/ryjjin/Obsidian-shortcuts-extender) - Plugin for Obsidian: Use shortcuts for input special symbols and changing level of headings without language switching
+- [note-tools](https://github.com/rbrcsk/note-tools) - A collection of my tools related to notetaking
+- [better-word-count](https://github.com/lukeleppan/better-word-count) - Counts the words of selected text in the editor.
+- [obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
+- [tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
+- [takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers. (Demo only)
 - [auto-assign-action](https://github.com/kentaro-m/auto-assign-action) - An action which adds reviewers to the pull request when the pull request is opened.
 - [assets](https://github.com/rainx/assets) - Javascript/Typescript assets management toolset
 - [brain](https://github.com/jmoyers/brain) - Brain: Take and Organize Notes
@@ -4699,7 +4762,7 @@
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
 - [data-dictionary](https://github.com/hasura/data-dictionary) - 
 - [bookmarks.dev](https://github.com/BookmarksDev/bookmarks.dev) - Bookmarks and Code Snippets Manager for Developers & Co
-- [wikilinks-to-mdlinks-obsidian](https://github.com/agathauy/wikilinks-to-mdlinks-obsidian) - 
+- [wikilinks-to-mdlinks-obsidian](https://github.com/agathauy/wikilinks-to-mdlinks-obsidian) - An Obsidian md plugin which allows for the conversion of individually selected wikilinks to markdown links, and vice versa.
 - [appsmith](https://github.com/appsmithorg/appsmith) - A web framework to build admin panels and internal tools.
 - [env-cmd](https://github.com/toddbluhm/env-cmd) - Setting environment variables from a file
 - [github-issues-notice](https://github.com/linyows/github-issues-notice) - :octocat: Notify labeled issues to Slack
@@ -4867,7 +4930,6 @@
 - [export-github-stars](https://github.com/KeziahMoselle/export-github-stars) - View / Sort / Export your Starred repositories.
 - [raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
 - [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
-- [ycparak.com](https://github.com/ycparak/ycparak.com) - 🎧 Personal site and note taking system, inspired by Andy Matuschak's notes.
 - [awesome-github-profile](https://github.com/zzetao/awesome-github-profile) - 🌐  A website of awesome Github Profile READMEs
 - [devAwesome](https://github.com/lusaxweb/devAwesome) - 🐣 Upload your own sites as portfolio or projects of your github
 - [massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
