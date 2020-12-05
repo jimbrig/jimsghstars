@@ -969,6 +969,9 @@
 
 ## JavaScript 
 
+- [highcharts-themes-collection](https://github.com/jbkunst/highcharts-themes-collection) - Highcharts themes collection
+- [diffviewer](https://github.com/jbkunst/diffviewer) - HTML Widget That Shows Differences Between Files
+- [gramr](https://github.com/ropenscilabs/gramr) - RStudio Addin, function, & shiny app for the write-good linter  :pencil:
 - [shinyDatetimePickers](https://github.com/stla/shinyDatetimePickers) - Datetime pickers for Shiny.
 - [shinyPrettier](https://github.com/stla/shinyPrettier) - 
 - [shinyChakraSlider](https://github.com/stla/shinyChakraSlider) - A combined slider and number input for Shiny.
@@ -1609,6 +1612,11 @@
 
 ## Others 
 
+- [highcharter-rmarkdown](https://github.com/jbkunst/highcharter-rmarkdown) - 
+- [d3-waffle](https://github.com/jbkunst/d3-waffle) - I'm hungry for data!
+- [R](https://github.com/gizotso/R) - my examples, tips and projects with R language
+- [pointblank_demo](https://github.com/kmasiello/pointblank_demo) - 
+- [tidyghql](https://github.com/yonicd/tidyghql) - create tidy outputs of open github issues and prs using graphql
 - [exobrain](https://github.com/karlicoss/exobrain) - My external brain 🧠
 - [Technical_Notes](https://github.com/KOVERcjm/Technical_Notes) - Personal technical summary notes
 - [TechnicalNote](https://github.com/jobhope/TechnicalNote) - Repository to store what we have studied. :book: We want everyone to get a job through TechnicalNote.
@@ -1928,7 +1936,6 @@
 - [obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - 
 - [articles](https://github.com/objcio/articles) - All current objc.io articles
 - [reMarkable-typescript](https://github.com/andymatuschak/reMarkable-typescript) - A typescript reMarkable Cloud API
-- [ycparak.com](https://github.com/ycparak/ycparak.com) - 🎧 Personal site and note taking system, inspired by Andy Matuschak's notes.
 - [Andy-Grove---High-Output-Management](https://github.com/julian-englert/Andy-Grove---High-Output-Management) - Summary of the book High Output Management by Andy Grove
 - [obsidian-plugins](https://github.com/binyamin/obsidian-plugins) - Obsidian Plugin Ideas
 - [slipbox](https://github.com/ShannaSeigel/slipbox) - knowledgebase sharing experiment
@@ -2240,7 +2247,7 @@
 - [windows](https://github.com/equk/windows) - 💎 tweaks & fixes for windows 10 - mostly powershell
 - [Win10Script](https://github.com/madbomb122/Win10Script) - Win 10 Powershell Script to tweak and change windows settings
 - [scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
-- [Windows-10-Sophia-Script](https://github.com/farag2/Windows-10-Sophia-Script) - Script to setup Windows 10 LTSC/1903/1909/2004/2009
+- [Windows-10-Sophia-Script](https://github.com/farag2/Windows-10-Sophia-Script) - Script to setup Windows 10 LTSC/1903/1909/2004 (20H1)/20H2 (2009)
 - [Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 - [universal-dashboard](https://github.com/ironmansoftware/universal-dashboard) - Build beautiful websites with PowerShell.
 - [Zotero-Obdisian-Picker-Windows](https://github.com/AlexanderSavenkov/Zotero-Obdisian-Picker-Windows) - Allows you to call up a Zotero picker from within Obsidian in Windows 10
@@ -2501,6 +2508,26 @@
 
 ## R 
 
+- [John-Hopkins-University-Mastering-Software-Development-in-R](https://github.com/garynth41/John-Hopkins-University-Mastering-Software-Development-in-R) - This repository covers R software development for building data science tools. As the field of data science evolves, it has become clear that software development skills are essential for producing useful data science results and products. You will obtain rigorous training in the R language, including the skills for handling complex data, building R packages and developing custom data visualizations. You will learn modern software development practices to build tools that are highly reusable, modular, and suitable for use in a team-based environment or a community of developers.
+- [ezsetup](https://github.com/LarsenLab/ezsetup) - development of ezsetup package
+- [pkgTemplateR](https://github.com/CTU-Basel/pkgTemplateR) - R package development template
+- [R-Package-Development](https://github.com/preethinarayanan/R-Package-Development) - 
+- [packageR](https://github.com/ARawles/packageR) - An R package to inspect R packages
+- [ez](https://github.com/mike-lawrence/ez) - Development repository for the `ez` package for R
+- [jbkmisc](https://github.com/jbkunst/jbkmisc) - No description or website will be provided. A collection of raw shortcuts for my daily lies.
+- [yyyymm](https://github.com/jbkunst/yyyymm) - yyyymm
+- [risk3r](https://github.com/jbkunst/risk3r) - risk3r
+- [highcharter-shiny](https://github.com/jbkunst/highcharter-shiny) - Some highcharter examples
+- [codefolder](https://github.com/ijlyttle/codefolder) - Enable per-page code-folding for Bookdown and Distill
+- [rcli](https://github.com/HenrikBengtsson/rcli) - R package: rcli - R Command-Line Interface Extras
+- [test_repo_buildx_renv](https://github.com/howisonlab/test_repo_buildx_renv) - 
+- [crul](https://github.com/ropensci/crul) - R6 based http client for R (made for developers)
+- [docsifier](https://github.com/etiennebacher/docsifier) - Use docsify.js to create the documentation for an R package
+- [r-source](https://github.com/wch/r-source) - Read-only mirror of R source code from https://svn.r-project.org/R/, updated hourly. See the build instructions on the wiki page.
+- [pRometheus](https://github.com/cfmack/pRometheus) - Prometheus Client Library for R and Plumber
+- [debugin](https://github.com/ColinFay/debugin) - An RStudio Addin for Debugging
+- [analyze-github-stuff-with-r](https://github.com/jennybc/analyze-github-stuff-with-r) - Marshal data from the GitHub API with R
+- [dccvalidator](https://github.com/Sage-Bionetworks/dccvalidator) - Metadata Validation for Data Coordinating Centers
 - [shinyCheckboxTree](https://github.com/stla/shinyCheckboxTree) - A checkbox tree widget for Shiny.
 - [shinyMultiActionButton](https://github.com/stla/shinyMultiActionButton) - A multi action button for Shiny.
 - [prettifyAddins](https://github.com/stla/prettifyAddins) - RStudio addins to prettify JavaScript/HTML/CSS/Markdown/C++ and more.
@@ -2512,7 +2539,7 @@
 - [wordpiece](https://github.com/jonathanbratt/wordpiece) - 
 - [heatmaply](https://github.com/talgalili/heatmaply) - Interactive Heat Maps for R Using plotly
 - [rstudio.testthat.tests](https://github.com/kevinushey/rstudio.testthat.tests) - A small R package with a couple failing tests. Primarily for driving testing of the RStudio Build pane with tests.
-- [savonliquide](https://github.com/feddelegrand7/savonliquide) - 🧼🧼🧼 Check for Color Contrast Accessibility
+- [savonliquide](https://github.com/feddelegrand7/savonliquide) - 🧼🧼🧼 Check for Color Contrast Accessibility in R
 - [remotes](https://github.com/r-lib/remotes) - Install R packages from GitHub, GitLab, Bitbucket, git, svn repositories, URLs
 - [pkgattrs](https://github.com/rich-iannone/pkgattrs) - Get information on the contents of one or more R packages
 - [docopt.R](https://github.com/docopt/docopt.R) - Command-line interface description language for R (http://docopt.org)
@@ -2547,7 +2574,7 @@
 - [workbench-r](https://github.com/alexkyllo/workbench-r) - An R data science project template for use with the cookiecutter templating tool
 - [staries](https://github.com/cgpu/staries) - The *ies. A series of &lt;star&gt;-ies util snippets, scripts or templates that I use day to day.
 - [R_template_test](https://github.com/GregoryIreland/R_template_test) - 
-- [CARoT](https://github.com/omicsr/CARoT) - Centralised and Automated RepOrting Tools
+- [CARoT](https://github.com/umr1283/CARoT) - Centralised and Automated RepOrting Tools
 - [resume_template](https://github.com/mcanouil/resume_template) - Curriculum Vitae based on "pagedown::html_resume"
 - [clere](https://github.com/mcanouil/clere) - Simultaneous Variables Clustering and Regression
 - [DEV](https://github.com/mcanouil/DEV) - Some functions/utils in development ...
@@ -3155,7 +3182,7 @@
 - [data2gRaph](https://github.com/muhendis/data2gRaph) - The data2gRaph project is a web-based data visualization tool that can also be used off-line.
 - [shinyAppGallery](https://github.com/davidruvolo51/shinyAppGallery) - My library of shiny apps
 - [atl-salary-data](https://github.com/tmasjc/atl-salary-data) - Simpson's paradox: a case study exercise
-- [shinyssd](https://github.com/flor14/shinyssd) - ✨📦👩‍💻 shinyssd v1.0: Species Sensitivity Distributions for Ecotoxicological Risk Assessment
+- [shinyssd](https://github.com/flor14/shinyssd) - ⚠️ working in version 1.1 ⚠️ - ✨📦👩‍💻 shinyssd v1.0: Species Sensitivity Distributions for Ecotoxicological Risk Assessment
 - [shinyPlugins](https://github.com/Tazovsky/shinyPlugins) - Shiny Plugins implementation
 - [Shiny_NextPreviousArrow](https://github.com/AntoineGuillot2/Shiny_NextPreviousArrow) - Code to create Next and Previous arrow in a tabBox in Shiny Dashboard
 - [ContentSecurityPolicy](https://github.com/dirkschumacher/ContentSecurityPolicy) - Content Security Policies for Shiny Apps
@@ -4483,6 +4510,7 @@
 - [notes.ajb.app](https://github.com/andybyers21/notes.ajb.app) - This is the data for my Evergreen notes vault
 - [foam-template](https://github.com/foambubble/foam-template) - Foam workpace template
 - [clair-de-lune-obsidian-theme](https://github.com/jamiebrynes7/clair-de-lune-obsidian-theme) - An obsidian.md theme inspired by the Moonlight family of themes
+- [ycparak.com](https://github.com/ycparak/ycparak.com) - 🎧 Personal site and note taking system, inspired by Andy Matuschak's notes.
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
@@ -4740,6 +4768,7 @@
 
 ## TypeScript 
 
+- [pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
 - [cycle-through-panes](https://github.com/phibr0/cycle-through-panes) - Cycle through Panes - Obsidian Plugin
 - [find-unlinked-files](https://github.com/Vinzent03/find-unlinked-files) - Find files, which are nowhere linked, so they are maybe lost in your vault.
 - [obsidian-smart-random-note](https://github.com/erichalldev/obsidian-smart-random-note) - A smart random note plugin for Obsidian
@@ -4750,7 +4779,7 @@
 - [better-word-count](https://github.com/lukeleppan/better-word-count) - Counts the words of selected text in the editor.
 - [obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
 - [tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
-- [takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers. (Demo only)
+- [takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
 - [auto-assign-action](https://github.com/kentaro-m/auto-assign-action) - An action which adds reviewers to the pull request when the pull request is opened.
 - [assets](https://github.com/rainx/assets) - Javascript/Typescript assets management toolset
 - [brain](https://github.com/jmoyers/brain) - Brain: Take and Organize Notes
