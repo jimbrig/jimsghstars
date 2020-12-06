@@ -529,6 +529,7 @@
 
 ## Go 
 
+- [docker-credential-helpers](https://github.com/docker/docker-credential-helpers) - Programs to keep Docker login credentials safe by storing in platform keystores
 - [markdown](https://github.com/mlesniak/markdown) - Markdown-based webserver using Dropbox as storage medium to allow editing content using miscellaneous applications.
 - [zettelstore](https://github.com/zettelstore/zettelstore) - A storage for zettel notes that provides some services.
 - [github-release](https://github.com/github-release/github-release) - Commandline app to create and edit releases on Github (and upload artifacts)
@@ -647,6 +648,8 @@
 
 ## HTML 
 
+- [digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Start your own digital garden using this Jekyll template 🌱
+- [r-docker-tutorial](https://github.com/ropenscilabs/r-docker-tutorial) - A docker tutorial for reproducible research
 - [notes](https://github.com/nbelzer/notes) - My Personal Notes 📚
 - [gigsterous.github.io](https://github.com/gigsterous/gigsterous.github.io) - Gigsterous blog for sharing thoughts, technical insights and more.
 - [enjoyment-work](https://github.com/brennanbrown/enjoyment-work) - 🗃️ A Digital Garden: Capturing my daily thoughts and progress, as well as curated ideas with unique synthesis—a personal zettelkasten. Built on Simply Jekyll by Raghuveer S.
@@ -1703,7 +1706,6 @@
 - [pocket-tech-writing-list](https://github.com/rubymorillo/pocket-tech-writing-list) - A small but formidable list of technical writing resources for developers
 - [theme-obsidian-doc](https://github.com/TriDiamond/theme-obsidian-doc) - Documentation for theme `Obisidian`
 - [template](https://github.com/tallguyjenks/template) - My Template Repo
-- [FAQ](https://github.com/tallguyjenks/FAQ) - Frequently Asked Questions
 - [LEARNING](https://github.com/tallguyjenks/LEARNING) - Using issues and project boards to track all my questions to learn new languages
 - [Obsidian-Workflow](https://github.com/tallguyjenks/Obsidian-Workflow) - An Alfred workflow for Obsidian
 - [RWorkflow](https://github.com/tallguyjenks/RWorkflow) - :bookmark_tabs: My approach to an analysis or product produced with R
@@ -2260,6 +2262,7 @@
 
 ## Python 
 
+- [dotfiles](https://github.com/Omar-Elrefaei/dotfiles) - My .files  😄
 - [cheatsheet](https://github.com/vrachieru/cheatsheet) - Various brain dumps gathered throughout my journey of poking a bunch of things with a stick.
 - [obsidian-utilities](https://github.com/macedotavares/obsidian-utilities) - An Alfred workflow focusing on quick entry and logging.
 - [strictyaml](https://github.com/crdoconnor/strictyaml) - Type-safe YAML parser and validator.
@@ -2281,6 +2284,7 @@
 - [vcspull](https://github.com/vcs-python/vcspull) - :arrows_counterclockwise: synchronize projects via yaml/json manifest. built on libvcs
 - [datakit-project](https://github.com/associatedpress/datakit-project) - Project generator for use with the datakit framework.
 - [mdlinkprocessor](https://github.com/pdazero/mdlinkprocessor) - Makes markdown links more compatible, and other tools
+- [spells](https://github.com/nelsonmestevao/spells) - :crystal_ball: Handcrafted spells
 - [git-machete](https://github.com/VirtusLab/git-machete) - Probably the sharpest git repository organizer & rebase/merge workflow automation tool you've ever seen ;)
 - [cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [todoist-cli](https://github.com/Raytray/todoist-cli) - Python command line tool to quickly add tasks to projects with due dates.
@@ -2508,6 +2512,15 @@
 
 ## R 
 
+- [tic.package](https://github.com/ropenscilabs/tic.package) - tic example: Building a package with pkgdown documentation
+- [renv-docker](https://github.com/robertdj/renv-docker) - A guide to getting renv projects into Docker images
+- [dockyard](https://github.com/thebioengineer/dockyard) - Tools for building and working with docker containers in R
+- [dockerterm](https://github.com/blairj09/dockerterm) - An RStudio Addin for running docker containers in the RStudio terminal
+- [docker-rstats](https://github.com/Kaggle/docker-rstats) - Kaggle R docker image
+- [cmdstanr](https://github.com/stan-dev/cmdstanr) - CmdStanR: the R interface to CmdStan
+- [sysdep](https://github.com/jlisic/sysdep) - SysDep is an R package to identify system dependencies of installed packages and suggest dependencies for packages not installed.
+- [dockermachine](https://github.com/cboettig/dockermachine) - Simple wrapper around docker-machine tool for creating and managing cloud instances across many providers
+- [harbor](https://github.com/wch/harbor) - An R package for controlling docker containers on local and remote hosts
 - [John-Hopkins-University-Mastering-Software-Development-in-R](https://github.com/garynth41/John-Hopkins-University-Mastering-Software-Development-in-R) - This repository covers R software development for building data science tools. As the field of data science evolves, it has become clear that software development skills are essential for producing useful data science results and products. You will obtain rigorous training in the R language, including the skills for handling complex data, building R packages and developing custom data visualizations. You will learn modern software development practices to build tools that are highly reusable, modular, and suitable for use in a team-based environment or a community of developers.
 - [ezsetup](https://github.com/LarsenLab/ezsetup) - development of ezsetup package
 - [pkgTemplateR](https://github.com/CTU-Basel/pkgTemplateR) - R package development template
@@ -4547,7 +4560,6 @@
 - [Autocommit](https://github.com/donnaken15/Autocommit) - using rather than committing every week holding back specific data, to look like any other user making daily contributions
 - [wsl-alias](https://github.com/leongrdic/wsl-alias) - Create aliases for Linux commands in Windows command line (for WSL)
 - [r-config](https://github.com/INWTlab/r-config) - R installation and configuration
-- [spells](https://github.com/nelsonmestevao/spells) - :crystal_ball: Handcrafted spells
 - [us-atlas](https://github.com/topojson/us-atlas) - Pre-built TopoJSON from the U.S. Census Bureau.
 - [world-atlas](https://github.com/topojson/world-atlas) - Pre-built TopoJSON from Natural Earth.
 - [dotfiles](https://github.com/pat-s/dotfiles) - 
@@ -4788,7 +4800,7 @@
 - [opensource-portal](https://github.com/microsoft/opensource-portal) - Microsoft's GitHub-at-scale self-service monolithic portal
 - [git-project-manager](https://github.com/felipecaputo/git-project-manager) - A Git Project Manager extension for vsCode
 - [MagicBox](https://github.com/akatrukhin/MagicBox) - Organize your workspace, keep files optimized, prepare images for publishing
-- [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [data-dictionary](https://github.com/hasura/data-dictionary) - 
 - [bookmarks.dev](https://github.com/BookmarksDev/bookmarks.dev) - Bookmarks and Code Snippets Manager for Developers & Co
 - [wikilinks-to-mdlinks-obsidian](https://github.com/agathauy/wikilinks-to-mdlinks-obsidian) - An Obsidian md plugin which allows for the conversion of individually selected wikilinks to markdown links, and vice versa.
@@ -4920,6 +4932,7 @@
 
 ## Vim script 
 
+- [dotfiles](https://github.com/SerhatTeker/dotfiles) - Personal dotfiles
 - [dotfiles](https://github.com/jasonbellamy/dotfiles) - 
 - [dotfiles](https://github.com/dirmeier/dotfiles) - Collection of dotfiles.
 - [vim-dot](https://github.com/smbache/vim-dot) - quick drop of vim dot files
