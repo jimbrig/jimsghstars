@@ -648,6 +648,7 @@
 
 ## HTML 
 
+- [awesome-resources](https://github.com/lyfeyaj/awesome-resources) - Awesome resources for coding and learning: open source projects, websites, books e.g.
 - [digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Start your own digital garden using this Jekyll template 🌱
 - [r-docker-tutorial](https://github.com/ropenscilabs/r-docker-tutorial) - A docker tutorial for reproducible research
 - [notes](https://github.com/nbelzer/notes) - My Personal Notes 📚
@@ -946,6 +947,7 @@
 
 ## Java 
 
+- [Learning-Resources](https://github.com/GDGAhmedabad/Learning-Resources) - "Technology Gold mine" to collect and share materials/resources
 - [zttl-client](https://github.com/cokeSchlumpf/zttl-client) - Zettels is a note taking application written with JavaFX. It follows the principles Niklas Luhman's Zettelkasten.
 - [GitPKM](https://github.com/han-chao/GitPKM) - Git-based Personal Knowledge Management
 - [itext7](https://github.com/itext/itext7) - iText 7 for Java represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, high and low-level programming capabilities and the ability to create, edit and enhance PDF documents, iText 7 can be a boon to nearly every workflow.
@@ -972,6 +974,7 @@
 
 ## JavaScript 
 
+- [ResourcesSaverExt](https://github.com/up209d/ResourcesSaverExt) - Chrome Extension for one click downloading all resources files and keeping folder structures.
 - [highcharts-themes-collection](https://github.com/jbkunst/highcharts-themes-collection) - Highcharts themes collection
 - [diffviewer](https://github.com/jbkunst/diffviewer) - HTML Widget That Shows Differences Between Files
 - [gramr](https://github.com/ropenscilabs/gramr) - RStudio Addin, function, & shiny app for the write-good linter  :pencil:
@@ -1615,6 +1618,8 @@
 
 ## Others 
 
+- [drat](https://github.com/HenrikBengtsson/drat) - R package repository
+- [docker-resources](https://github.com/hangyan/docker-resources) - Docker resources collection. docker资源汇总
 - [highcharter-rmarkdown](https://github.com/jbkunst/highcharter-rmarkdown) - 
 - [d3-waffle](https://github.com/jbkunst/d3-waffle) - I'm hungry for data!
 - [R](https://github.com/gizotso/R) - my examples, tips and projects with R language
@@ -2512,6 +2517,11 @@
 
 ## R 
 
+- [rptPlus](https://github.com/hyginn/rptPlus) - ...
+- [dotfiles-for-R](https://github.com/HenrikBengtsson/dotfiles-for-R) - My dotfiles for R, e.g. .Rprofile and .Renviron
+- [globals](https://github.com/HenrikBengtsson/globals) - 🌐 R package: Identify Global Objects in R Expressions
+- [doFuture](https://github.com/HenrikBengtsson/doFuture) - :rocket: R package: doFuture - A Universal Foreach Parallel Adaptor using the Future API of the 'future' Package
+- [purrr-tutorial](https://github.com/cwickham/purrr-tutorial) - A introduction to purrr
 - [tic.package](https://github.com/ropenscilabs/tic.package) - tic example: Building a package with pkgdown documentation
 - [renv-docker](https://github.com/robertdj/renv-docker) - A guide to getting renv projects into Docker images
 - [dockyard](https://github.com/thebioengineer/dockyard) - Tools for building and working with docker containers in R
@@ -4549,6 +4559,7 @@
 
 ## Shell 
 
+- [resources](https://github.com/zero-to-mastery/resources) - Here is a list of best resources to get you started with learning how to code (mostly related to Web Development). Feel free to add your favorite  resources as well and help others in their journey of learning.
 - [knowledge](https://github.com/d2s/knowledge) - :cloud: 2016→ — A curated list of Tools and Resources.
 - [ds-toolkit](https://github.com/VasudevGupta7/ds-toolkit) - This repo is having some useful stuff for data scientist related stuff.
 - [adr-tools](https://github.com/npryce/adr-tools) - Command-line tools for working with Architecture Decision Records
