@@ -529,6 +529,7 @@
 
 ## Go 
 
+- [nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
 - [docker-credential-helpers](https://github.com/docker/docker-credential-helpers) - Programs to keep Docker login credentials safe by storing in platform keystores
 - [markdown](https://github.com/mlesniak/markdown) - Markdown-based webserver using Dropbox as storage medium to allow editing content using miscellaneous applications.
 - [zettelstore](https://github.com/zettelstore/zettelstore) - A storage for zettel notes that provides some services.
@@ -797,7 +798,6 @@
 - [shinyAppTutorials](https://github.com/davidruvolo51/shinyAppTutorials) - a collection of shiny app demonstrations :bar_chart:
 - [hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 - [therdispatch-blogdown](https://github.com/jimbrig/therdispatch-blogdown) - The R Dispatch - An R Related Blog and Knowledge Base
-- [listdown](https://github.com/kaneplusplus/listdown) - Programmatically create R/Markdown documents from lists.
 - [making-websites-using-R](https://github.com/anthro-data-science/making-websites-using-R) - Short workshop on making professional websites with R, Blogdown, Hugo and the Academic template. View the slides here:
 - [robservable](https://github.com/juba/robservable) - Observable notebooks as R htmlwidgets
 - [hugodown-testing](https://github.com/jemus42/hugodown-testing) - Playing around with {hugodown} to see if I can make it work for me.
@@ -1618,6 +1618,7 @@
 
 ## Others 
 
+- [distill-example](https://github.com/jhrcook/distill-example) - An example website built with Distill and R Markdown
 - [drat](https://github.com/HenrikBengtsson/drat) - R package repository
 - [docker-resources](https://github.com/hangyan/docker-resources) - Docker resources collection. docker资源汇总
 - [highcharter-rmarkdown](https://github.com/jbkunst/highcharter-rmarkdown) - 
@@ -2216,7 +2217,7 @@
 - [dotfiles](https://github.com/neiesc/dotfiles) - dotfiles (GNU/Linux and Windows 10)
 - [WSLab](https://github.com/microsoft/WSLab) - Windows Server rapid lab deployment scripts
 - [psutils](https://github.com/lukesampson/psutils) - Command line utilities written in Powershell
-- [PSProfiles](https://github.com/matt9ucci/PSProfiles) - My Windows PowerShell profiles
+- [PSProfiles](https://github.com/matt9ucci/PSProfiles) - My PowerShell profiles
 - [awesome-azure-learning](https://github.com/ddneves/awesome-azure-learning) - This repo includes plenty of references for Azure learning, especially for the Azure certs and Azure architecture, and any other learning materials e.g. security and automation topics.
 - [awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
 - [PSSlack](https://github.com/RamblingCookieMonster/PSSlack) - PowerShell module for simple Slack integration
@@ -2267,6 +2268,7 @@
 
 ## Python 
 
+- [repostatus.org](https://github.com/jantman/repostatus.org) - A standard to easily communicate to humans and machines the development/support and usability status of software repositories/projects.
 - [dotfiles](https://github.com/Omar-Elrefaei/dotfiles) - My .files  😄
 - [cheatsheet](https://github.com/vrachieru/cheatsheet) - Various brain dumps gathered throughout my journey of poking a bunch of things with a stick.
 - [obsidian-utilities](https://github.com/macedotavares/obsidian-utilities) - An Alfred workflow focusing on quick entry and logging.
@@ -2517,6 +2519,8 @@
 
 ## R 
 
+- [httr](https://github.com/r-lib/httr) - httr: a friendly http package for R
+- [poppr](https://github.com/grunwaldlab/poppr) - 🌶 An R package for genetic analysis of populations with mixed (clonal/sexual) reproduction
 - [rptPlus](https://github.com/hyginn/rptPlus) - ...
 - [dotfiles-for-R](https://github.com/HenrikBengtsson/dotfiles-for-R) - My dotfiles for R, e.g. .Rprofile and .Renviron
 - [globals](https://github.com/HenrikBengtsson/globals) - 🌐 R package: Identify Global Objects in R Expressions
@@ -4559,6 +4563,7 @@
 
 ## Shell 
 
+- [convert-mp4-to-gif](https://github.com/komali2/convert-mp4-to-gif) - Dead simple script to convert all .mp4 files in directory to relatively well proportioned .gif files.
 - [resources](https://github.com/zero-to-mastery/resources) - Here is a list of best resources to get you started with learning how to code (mostly related to Web Development). Feel free to add your favorite  resources as well and help others in their journey of learning.
 - [knowledge](https://github.com/d2s/knowledge) - :cloud: 2016→ — A curated list of Tools and Resources.
 - [ds-toolkit](https://github.com/VasudevGupta7/ds-toolkit) - This repo is having some useful stuff for data scientist related stuff.
@@ -4761,6 +4766,7 @@
 - [binb](https://github.com/eddelbuettel/binb) - Binb is not Beamer
 - [knitr-book](https://github.com/yihui/knitr-book) - Dynamic Documents with R and knitr
 - [cphb](https://github.com/pllk/cphb) - Competitive Programmer's Handbook
+- [listdown](https://github.com/kaneplusplus/listdown) - Programmatically create R/Markdown documents from lists.
 - [the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
 - [tidyverse-cookbook](https://github.com/rstudio-education/tidyverse-cookbook) - Code recipes for doing data science with R's tidyverse
 - [outstanding-shiny-ui](https://github.com/DivadNojnarg/outstanding-shiny-ui) - Develop custom Shiny UI
