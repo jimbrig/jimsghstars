@@ -1,0 +1,13 @@
+name: jimsghstars
+title: jimsghstars
+username:
+account: jimbrigapps
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3376078
+bundleId: 3963721
+url: https://jimbrigapps.shinyapps.io/jimsghstars/
+when: 1607487371.74414
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .gitmodules|_config.yml|README.md|.github/workflows/main.yml|.github/workflows/release.yml|data/2020-12-07-jimbrig-github-starred-repos.qs|starred

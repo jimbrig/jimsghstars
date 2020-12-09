@@ -1,0 +1,3 @@
+[submodule "starred"]
+	path = starred
+	url = git@github.com:jimbrig/starred.git
