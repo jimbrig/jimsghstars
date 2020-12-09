@@ -107,6 +107,7 @@
 
 ## C 
 
+- [sys](https://github.com/jeroen/sys) - Powerful replacements for base::system2
 - [development-references](https://github.com/robenkleene/development-references) - References for programming tools.
 - [longears](https://github.com/atheriel/longears) - A RabbitMQ client for R
 - [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
@@ -379,7 +380,6 @@
 - [Blue-Topaz-with-Andy-mode_Obsidian_css](https://github.com/whyt-byte/Blue-Topaz-with-Andy-mode_Obsidian_css) - An Andy Matuschak-mode blue theme for Obsidian.
 - [obsidian_ia](https://github.com/rcvd/obsidian_ia) - A clean and minimal theme for obsidian, heavily inspired by iA Writer.
 - [brain](https://github.com/kmaasrud/brain) - 🧠 Personal knowledge base hosted through GitHub Pages
-- [bazzadwarf-obsidian-vault](https://github.com/Bazzadwarf/bazzadwarf-obsidian-vault) - My Obsidian vault that I use for taking notes!
 - [pensieve](https://github.com/nerdalot/pensieve) - My notes using loosely the Zettelkasten method and the app Obsidian
 - [obsidian-css-tweaks](https://github.com/lucasrla/obsidian-css-tweaks) - CSS snippet for Obsidian – just a few (minimal) tweaks and fixes
 - [Obsidian-JG-Method](https://github.com/joshwingreene/Obsidian-JG-Method) - A starter kit that follows how I use Obsidian to manage my goals, tasks, notes, and software development knowledge base.
@@ -495,6 +495,8 @@
 
 ## Dockerfile 
 
+- [r-dockerfiles](https://github.com/robertdj/r-dockerfiles) - Dockerfiles for R
+- [rlang-shiny-oci-docker](https://github.com/ericsgagnon/rlang-shiny-oci-docker) - Multi-stage docker build to extend rocker/shiny-verse with oracle oci
 - [coeos](https://github.com/mcanouil/coeos) - My own Docker image
 - [EfficientR_Docker](https://github.com/G-Thomson/EfficientR_Docker) - Unofficial Docker image for Efficient R programming by Colin Gillespie and  Robin Lovelace
 - [mkit](https://github.com/darkbitio/mkit) - MKIT is a Managed Kubernetes Inspection Tool that validates several common security-related configuration settings of managed Kubernetes cluster objects and the workloads/resources running inside the cluster.
@@ -1459,7 +1461,6 @@
 - [openlayers](https://github.com/openlayers/openlayers) - OpenLayers
 - [react-big-calendar](https://github.com/jquense/react-big-calendar) - gcal/outlook like calendar component
 - [Darkmode.js](https://github.com/sandoche/Darkmode.js) - 🌓 Add a dark-mode / night-mode to your website in a few seconds
-- [reactor](https://github.com/yonicd/reactor) - unit testing for shiny reactivity
 - [golemize](https://github.com/ColinFay/golemize) - Example of turning apps to golem
 - [glouton](https://github.com/ColinFay/glouton) - 'JS-cookies' in Shiny
 - [F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
@@ -1577,6 +1578,7 @@
 
 ## Makefile 
 
+- [maker](https://github.com/ComputationalProteomicsUnit/maker) - Makefile for R packages
 - [workflow-showcase](https://github.com/aaronpeikert/workflow-showcase) - 
 - [developer](https://github.com/phodal/developer) - developer roadmap. use growth https://github.com/phodal/growth replace this
 - [badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
@@ -1618,6 +1620,7 @@
 
 ## Others 
 
+- [plan](https://github.com/tianheg/plan) - All my work will start here
 - [distill-example](https://github.com/jhrcook/distill-example) - An example website built with Distill and R Markdown
 - [drat](https://github.com/HenrikBengtsson/drat) - R package repository
 - [docker-resources](https://github.com/hangyan/docker-resources) - Docker resources collection. docker资源汇总
@@ -2180,6 +2183,7 @@
 
 ## Perl 
 
+- [rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management
 - [distro](https://github.com/foswiki/distro) - START HERE!  This is the Foswiki project "Distribution".  It is a monolith repository with the core + default extensions.
 - [analysis_framework](https://github.com/jimhester/analysis_framework) - A skeleton analysis framework for use with knitr and git.
 
@@ -2519,6 +2523,11 @@
 
 ## R 
 
+- [rtcl](https://github.com/rdatsci/rtcl) - R tools for the command line
+- [r-argparse](https://github.com/trevorld/r-argparse) - R package providing a command line optional and positional argument parser.
+- [r-source](https://github.com/SurajGupta/r-source) - R Source Code
+- [deploy-bookdown-demo](https://github.com/cderv/deploy-bookdown-demo) - [WIP] An example of bookdown deployment to RStudio Connect
+- [rsconnect](https://github.com/rstudio/rsconnect) - Publish Shiny Applications, RMarkdown Documents, Jupyter Notebooks, Plumber APIs, and more
 - [httr](https://github.com/r-lib/httr) - httr: a friendly http package for R
 - [poppr](https://github.com/grunwaldlab/poppr) - 🌶 An R package for genetic analysis of populations with mixed (clonal/sexual) reproduction
 - [rptPlus](https://github.com/hyginn/rptPlus) - ...
@@ -2549,7 +2558,7 @@
 - [rcli](https://github.com/HenrikBengtsson/rcli) - R package: rcli - R Command-Line Interface Extras
 - [test_repo_buildx_renv](https://github.com/howisonlab/test_repo_buildx_renv) - 
 - [crul](https://github.com/ropensci/crul) - R6 based http client for R (made for developers)
-- [docsifier](https://github.com/etiennebacher/docsifier) - Use docsify.js to create the documentation for an R package
+- [docsifier](https://github.com/etiennebacher/docsifier) - Use docsify.js to create the documentation for R projects and packages
 - [r-source](https://github.com/wch/r-source) - Read-only mirror of R source code from https://svn.r-project.org/R/, updated hourly. See the build instructions on the wiki page.
 - [pRometheus](https://github.com/cfmack/pRometheus) - Prometheus Client Library for R and Plumber
 - [debugin](https://github.com/ColinFay/debugin) - An RStudio Addin for Debugging
@@ -3799,6 +3808,7 @@
 - [shinyCV](https://github.com/DivadNojnarg/shinyCV) - create beautiful CV with shiny and adminLTE2
 - [shiny-chart-builder](https://github.com/sicarul/shiny-chart-builder) - Shiny app for building charts with a point-and-click interface
 - [shinyreforms](https://github.com/piotrbajger/shinyreforms) - Add & Validate forms in your Shiny App!
+- [reactor](https://github.com/yonicd/reactor) - unit testing for shiny reactivity
 - [orderdiv](https://github.com/ColinFay/orderdiv) - 
 - [golemexample](https://github.com/ColinFay/golemexample) - An example app for illustrating golem features
 - [darkmode](https://github.com/ColinFay/darkmode) - 'darkmode.js' for 'Shiny'
@@ -4518,7 +4528,7 @@
 - [ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [clog-cli](https://github.com/clog-tool/clog-cli) - Generate beautiful changelogs from your Git commit history
 - [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
-- [digital-garden](https://github.com/ChristopherBiscardi/digital-garden) - 
+- [digital-garden](https://github.com/rust-adventure/digital-garden) - 
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths 🌳
 - [zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
@@ -4621,7 +4631,7 @@
 - [windows-dev-setup](https://github.com/julie-ng/windows-dev-setup) - Dev environment on windows with Oh My ZSH, Hyper.js and more
 - [dotfiles](https://github.com/bushidocodes/dotfiles) - Dotbot managed dotfiles for a polyglot dev using WSL. Includes PowerShell stuff for Windows Installation
 - [dotfiles](https://github.com/LumaKernel/dotfiles) - ⭐ My own world.
-- [dotfiles](https://github.com/101115/dotfiles) - Dotfiles - personal preferences for various applications, editors, linters, and packages on macOS and Windows 10 with Windows Subsystem for Linux 2 (WSL2).
+- [dotfiles](https://github.com/jakecobley/dotfiles) - Dotfiles - personal preferences for various applications, editors, linters, and packages on macOS and Windows 10 with Windows Subsystem for Linux 2 (WSL2).
 - [dotfiles](https://github.com/pawelbialaszczyk/dotfiles) - Windows dotfiles managed using a bare git repository.
 - [dotfiles](https://github.com/ridhwaans/dotfiles) - 💻Personal dotfiles for mac and wsl
 - [wsl-dotfiles](https://github.com/Xyene/wsl-dotfiles) - My dotfiles for running an i3-based environment within the Windows Subsystem for Linux (WSL).
