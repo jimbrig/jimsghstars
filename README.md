@@ -258,6 +258,7 @@
 
 ## C++ 
 
+- [named-operator](https://github.com/klmr/named-operator) - Named operators for C++
 - [dotfiles](https://github.com/palikar/dotfiles) - Almost full setup for my Debian system.
 - [memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
 - [Reset-Windows-Update-Tool](https://github.com/ManuelGil/Reset-Windows-Update-Tool) - Troubleshooting Tool with Windows Updates (Developed in Dev-C++).
@@ -531,6 +532,8 @@
 
 ## Go 
 
+- [gh_fsync](https://github.com/Matt-Gleich/gh_fsync) - 🔄 GitHub action to sync files across repos in GitHub
+- [duck](https://github.com/snwfdhmp/duck) - Create command snippets for repetitive development task. Share them to an online repository system (self hosted options available).
 - [nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
 - [docker-credential-helpers](https://github.com/docker/docker-credential-helpers) - Programs to keep Docker login credentials safe by storing in platform keystores
 - [markdown](https://github.com/mlesniak/markdown) - Markdown-based webserver using Dropbox as storage medium to allow editing content using miscellaneous applications.
@@ -580,7 +583,7 @@
 - [nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [WinCryptSSHAgent](https://github.com/buptczq/WinCryptSSHAgent) - Using a Yubikey for SSH Authentication on Windows Seamlessly
-- [gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos for secrets using regex and entropy 🔑
+- [gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos (or files) for secrets using regex and entropy 🔑
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [gitjacker](https://github.com/liamg/gitjacker) - 🔪 :octocat: Leak git repositories from misconfigured websites
 - [doctl](https://github.com/digitalocean/doctl) - The official command line interface for the DigitalOcean API.
@@ -646,6 +649,7 @@
 
 ## HCL 
 
+- [terraform_book_code](https://github.com/paeselhz/terraform_book_code) - Project containing my experiments while studying Terraform
 - [rshiny-with-polished-tech-eks](https://github.com/jerowe/rshiny-with-polished-tech-eks) - Example RShiny Authentication with Polished Tech hosted on AWS EKS with Terraform.
 - [rstudio-server-terraform](https://github.com/ginocoates/rstudio-server-terraform) - A terraform project for provisioning an rstudio server of the desired size
 
@@ -711,7 +715,6 @@
 - [dataviz](https://github.com/clauswilke/dataviz) - A book covering the fundamentals of data visualization
 - [milesmcbain.com](https://github.com/MilesMcBain/milesmcbain.com) - Seeing if I can make my website look any good with distill...
 - [tallguyjenks.github.io](https://github.com/tallguyjenks/tallguyjenks.github.io) - My personal Website
-- [streaming](https://github.com/tallguyjenks/streaming) - 
 - [Basic-data-manipulation](https://github.com/bdavis19/Basic-data-manipulation) - Springboard - Data Wrangling Exercise 1
 - [Health-analytics](https://github.com/nunesma/Health-analytics) - Data analysis focusing on health problems
 - [Business-Analytics-with-R](https://github.com/yujunkuo/Business-Analytics-with-R) - This is my homework in the course of Business Analytics with R, 2019@NCCU
@@ -950,6 +953,7 @@
 
 ## Java 
 
+- [openemm](https://github.com/agnitas-org/openemm) - Web-based software for email automation and marketing (newsletters, mutli-stage mail campaigns, transaction mails, autoresponder, etc.)
 - [Learning-Resources](https://github.com/GDGAhmedabad/Learning-Resources) - "Technology Gold mine" to collect and share materials/resources
 - [zttl-client](https://github.com/cokeSchlumpf/zttl-client) - Zettels is a note taking application written with JavaFX. It follows the principles Niklas Luhman's Zettelkasten.
 - [GitPKM](https://github.com/han-chao/GitPKM) - Git-based Personal Knowledge Management
@@ -977,6 +981,8 @@
 
 ## JavaScript 
 
+- [setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A collection of GitHub Actions for interfacing with Google Cloud Platform.
+- [awesome-utils-dev](https://github.com/pegaltier/awesome-utils-dev) - 📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...
 - [serverless-image-handler](https://github.com/awslabs/serverless-image-handler) - A solution to dynamically handle images on the fly, utilizing SharpJS
 - [electron-website-downloader](https://github.com/wouterverweirder/electron-website-downloader) - Desktop application to download a website with all of it's internal links and assets to your local machine.
 - [ResourcesSaverExt](https://github.com/up209d/ResourcesSaverExt) - Chrome Extension for one click downloading all resources files and keeping folder structures.
@@ -1458,7 +1464,6 @@
 - [vue2-datepicker](https://github.com/mengxiong10/vue2-datepicker) - A datepicker / datetimepicker component for Vue2
 - [shinypop](https://github.com/dreamRs/shinypop) - Collection of notifications, confirm dialogs and alerts for 'Shiny' applications
 - [supercaliheatmapwidget](https://github.com/hrbrmstr/supercaliheatmapwidget) - 📅 Supercalifragilistic HTML Calendar Heatmaps
-- [nomnoml](https://github.com/rstudio/nomnoml) - Sassy 'UML' Diagrams for R
 - [shinyglide](https://github.com/juba/shinyglide) - Glide.js component for Shiny apps
 - [flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
 - [openlayers](https://github.com/openlayers/openlayers) - OpenLayers
@@ -1622,6 +1627,16 @@
 
 ## Others 
 
+- [R-Tools-Google-Cloud-FollowUp](https://github.com/paeselhz/R-Tools-Google-Cloud-FollowUp) - This is a followup of the original document - RStudio and Shiny Server on GCP
+- [RStudio-Shiny-Server-on-GCP](https://github.com/paeselhz/RStudio-Shiny-Server-on-GCP) - The ultimate guide to deploy Rstudio Open Source and Shiny Server Open Source at Google Cloud Platform
+- [AKS](https://github.com/Azure/AKS) - Azure Kubernetes Service
+- [ProductivityTools](https://github.com/averygue/ProductivityTools) - 🎓  A list of Organizational / Productivity tools useful for Students and Startups
+- [awesome-startup-stack](https://github.com/cristobalcl/awesome-startup-stack) - Curated list of technologies for your next startup
+- [awesome-free-and-essential-products-for-startups](https://github.com/jitenbansal/awesome-free-and-essential-products-for-startups) - Curated list of free and essential products
+- [awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list) - List of all tools (apps, services) that startups should use.
+- [PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
+- [seo-browser-extensions](https://github.com/Awesome-SEO/seo-browser-extensions) - A list of awesome browser extensions to help ith SEO and rank higher!
+- [startuptoolbox](https://github.com/alexanderisora/startuptoolbox) - The startup founder toolbelt. A forever-updating crowdsourced collection.
 - [plan](https://github.com/tianheg/plan) - All my work will start here
 - [distill-example](https://github.com/jhrcook/distill-example) - An example website built with Distill and R Markdown
 - [drat](https://github.com/HenrikBengtsson/drat) - R package repository
@@ -1719,7 +1734,7 @@
 - [LEARNING](https://github.com/tallguyjenks/LEARNING) - Using issues and project boards to track all my questions to learn new languages
 - [Obsidian-Workflow](https://github.com/tallguyjenks/Obsidian-Workflow) - An Alfred workflow for Obsidian
 - [RWorkflow](https://github.com/tallguyjenks/RWorkflow) - :bookmark_tabs: My approach to an analysis or product produced with R
-- [RPackageReviews](https://github.com/tallguyjenks/RPackageReviews) - My List of my most commonly used R packages, what they're used for and my review video on them
+- [RPackageReviews](https://github.com/BryanJenksCommunity/RPackageReviews) - My List of my most commonly used R packages, what they're used for and my review video on them
 - [Personal-Activity-Predictor](https://github.com/gmgyan/Personal-Activity-Predictor) - The goal of this project is to use data from accelerometers on the belt, forearm, arm, and dumbbell of 6 participants to predict the manner in which they did the exercise
 - [Human-Resource-Analytics](https://github.com/hardikchheda13/Human-Resource-Analytics) - This is the project where I have tried to analyze the dataset of employees, where I am predicting, which employee will leave the company.
 - [cran-libraries](https://github.com/stevecondylios/cran-libraries) - CRAN packages and number of downloads in JSON
@@ -2273,6 +2288,8 @@
 
 ## Python 
 
+- [ulauncher-obsidian](https://github.com/mikebarkmin/ulauncher-obsidian) - An ulauncher extension for obsidian.md
+- [pgtricks](https://github.com/akaihola/pgtricks) - Handy helpers for PostgreSQL users
 - [repostatus.org](https://github.com/jantman/repostatus.org) - A standard to easily communicate to humans and machines the development/support and usability status of software repositories/projects.
 - [dotfiles](https://github.com/Omar-Elrefaei/dotfiles) - My .files  😄
 - [cheatsheet](https://github.com/vrachieru/cheatsheet) - Various brain dumps gathered throughout my journey of poking a bunch of things with a stick.
@@ -2289,7 +2306,7 @@
 - [slipbox](https://github.com/lggruspe/slipbox) - A static site generator for Zettelkasten notes
 - [memex](https://github.com/djplaner/memex) - Nascent attempt at using Foam to curate and leverage a personal memex
 - [promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
-- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize any software project as a database of reusable components with common automation actions and extensible meta descriptions based on FAIR principles (findability, accessibility, interoperability, and reusability). See real-world use cases from MLPerf, Arm, General Motors, dividiti, IBM and ACM:
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize any software project as a database of reusable components and micro-services with common APIs, automation actions and extensible meta descriptions. See real-world use cases from MLPerf, Arm, General Motors, IBM, Raspberry Pi and ACM:
 - [classifier](https://github.com/bhrigu123/classifier) - Organize files in your directory instantly, by classifying them into different folders
 - [gittagstats](https://github.com/mcharleb/gittagstats) - 
 - [ansible-tools](https://github.com/jctanner/ansible-tools) - 
@@ -2524,6 +2541,12 @@
 
 ## R 
 
+- [rstudioProjectTemplate](https://github.com/paeselhz/rstudioProjectTemplate) - Package that builds RStudio Project Template
+- [ghActionsDockerShiny](https://github.com/paeselhz/ghActionsDockerShiny) - Example integrating Github Actions tools to build a containerized shiny app
+- [shiny-farkle](https://github.com/donaldrauscher/shiny-farkle) - Shiny app for the game of Farkle
+- [learnrhash](https://github.com/rundel/learnrhash) - 
+- [mmetrics](https://github.com/y-bar/mmetrics) - Easy computation of Marketing Metrics in R
+- [rmd_workshop](https://github.com/resulumit/rmd_workshop) - Materials for a workshop on writing reproducible research papers with R Markdown
 - [ghql](https://github.com/ropensci/ghql) - GraphQL R client
 - [rtcl](https://github.com/rdatsci/rtcl) - R tools for the command line
 - [r-argparse](https://github.com/trevorld/r-argparse) - R package providing a command line optional and positional argument parser.
@@ -2537,7 +2560,7 @@
 - [globals](https://github.com/HenrikBengtsson/globals) - 🌐 R package: Identify Global Objects in R Expressions
 - [doFuture](https://github.com/HenrikBengtsson/doFuture) - :rocket: R package: doFuture - A Universal Foreach Parallel Adaptor using the Future API of the 'future' Package
 - [purrr-tutorial](https://github.com/cwickham/purrr-tutorial) - A introduction to purrr
-- [tic.package](https://github.com/ropenscilabs/tic.package) - tic example: Building a package with pkgdown documentation
+- [tic.package](https://github.com/ropensci-archive/tic.package) - tic example: Building a package with pkgdown documentation
 - [renv-docker](https://github.com/robertdj/renv-docker) - A guide to getting renv projects into Docker images
 - [dockyard](https://github.com/thebioengineer/dockyard) - Tools for building and working with docker containers in R
 - [dockerterm](https://github.com/blairj09/dockerterm) - An RStudio Addin for running docker containers in the RStudio terminal
@@ -3785,6 +3808,7 @@
 - [cellranger](https://github.com/rsheets/cellranger) - Helper functions to work with spreadsheets and the "A1:D10" style of cell range specification
 - [xaringanthemer](https://github.com/gadenbuie/xaringanthemer) - 😎 Give your xaringan slides some style
 - [syn](https://github.com/ropenscilabs/syn) - syn - the thesaurus
+- [nomnoml](https://github.com/rstudio/nomnoml) - Sassy 'UML' Diagrams for R
 - [memoise](https://github.com/r-lib/memoise) - Easy memoisation for R
 - [rco](https://github.com/jcrodriguez1989/rco) - Package: The R Code Optimizer
 - [hexmake](https://github.com/ColinFay/hexmake) - A Shiny App for Making Hex Stickers.
@@ -4107,7 +4131,7 @@
 - [desctable](https://github.com/MaximeWack/desctable) - An R package to produce descriptive and comparative tables
 - [sessioninfo](https://github.com/r-lib/sessioninfo) - Print Session Information
 - [shiny-apps](https://github.com/jbkunst/shiny-apps) - Some ideas
-- [datapkg](https://github.com/ropenscilabs/datapkg) - Read and Write Data Packages
+- [datapkg](https://github.com/ropensci-archive/datapkg) - Read and Write Data Packages
 - [customLayout](https://github.com/zzawadz/customLayout) - Simple extension of basic layout function from R.
 - [webreadr](https://github.com/Ironholds/webreadr) - A package for consuming and munging access log data
 - [progressr](https://github.com/HenrikBengtsson/progressr) - 三 R package: An Inclusive, Unifying API for Progress Updates
@@ -4131,7 +4155,7 @@
 - [searcher](https://github.com/r-assist/searcher) - Query Search Portals from R
 - [dapr](https://github.com/mkearney/dapr) - ☝🏼👉🏼👇🏼👈🏼 Dependency-free purrr-like apply/map/iterate functions
 - [prettycode](https://github.com/r-lib/prettycode) - Syntax highlight R code in the terminal
-- [travis](https://github.com/ropenscilabs/travis) - Set up Travis CI for testing and deployment
+- [travis](https://github.com/ropensci-archive/travis) - Set up Travis CI for testing and deployment
 - [beyond-single-core-R](https://github.com/ljdursi/beyond-single-core-R) - Short tour of parallel and foreach packages, and how to think about scaling data analyses
 - [datastructures](https://github.com/dirmeier/datastructures) - :rocket: Implementation of core data structures for R.
 - [docxtractr](https://github.com/hrbrmstr/docxtractr) - :scissors: Extract Tables from Microsoft Word Documents with R
@@ -4509,6 +4533,7 @@
 
 ## Rust 
 
+- [anyshortcut-cli](https://github.com/anyshortcut/anyshortcut-cli) - CLI (Commnad line interface) version of Anyshortcut
 - [cli-hex-rgb](https://github.com/Shriram-Balaji/cli-hex-rgb) - A Rust CLI Program to convert hexadecimal color-code to RGB
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
@@ -4810,6 +4835,10 @@
 
 ## TypeScript 
 
+- [google-api-fetch-token-action](https://github.com/cardinalby/google-api-fetch-token-action) - Call Google Auth API to prevent you refresh token being expired
+- [login-action](https://github.com/docker/login-action) - :octocat: GitHub Action to login against a Docker registry
+- [release-notes-preview](https://github.com/snyk/release-notes-preview) - GitHub Action for providing release notes preview for semantic releases
+- [client-book](https://github.com/JoRyGu/client-book) - 
 - [pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
 - [cycle-through-panes](https://github.com/phibr0/cycle-through-panes) - Cycle through Panes - Obsidian Plugin
 - [find-unlinked-files](https://github.com/Vinzent03/find-unlinked-files) - Find files, which are nowhere linked, so they are maybe lost in your vault.
