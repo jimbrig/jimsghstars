@@ -171,6 +171,7 @@
 
 ## C# # 
 
+- [Start-Menu-Manager](https://github.com/James231/Start-Menu-Manager) - App to add websites/software/files/folders/scripts to the Windows 10 Start Menu and Taskbar, and priority shortcuts to Windows 10 Search.
 - [Win10BloatRemover](https://github.com/Fs00/Win10BloatRemover) - Configurable CLI tool to easily and aggressively debloat and tweak Windows 10 by removing preinstalled UWP apps, services and more. Originally based on the W10 de-botnet guide made by @adolfintel.
 - [bloatbox](https://github.com/builtbybel/bloatbox) - ☑️🌠 Remove Bloatwares from Windows 10
 - [privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
@@ -258,6 +259,7 @@
 
 ## C++ 
 
+- [MoveToDesktop](https://github.com/Eun/MoveToDesktop) - Move windows using hotkeys or the system menu
 - [named-operator](https://github.com/klmr/named-operator) - Named operators for C++
 - [dotfiles](https://github.com/palikar/dotfiles) - Almost full setup for my Debian system.
 - [memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
@@ -349,7 +351,6 @@
 - [Obsidian-Obsidianite](https://github.com/TriDiamond/Obsidian-Obsidianite) - 🎨 Obsidian.md custom theme, it's dark and simple but yet still stays sparkles!
 - [betterObsidian](https://github.com/phibr0/betterObsidian) - My CSS Theme for the Obsidian Note Taking App.
 - [gitsidian](https://github.com/ishgunacar/gitsidian) - An obsidian theme inspired by GitHub markdown styles
-- [foamy-nextjs](https://github.com/yenly/foamy-nextjs) - Basic Foam + NextJS with MDX starter for building a digital garden
 - [obsidian-minimal](https://github.com/kepano/obsidian-minimal) - Minimal theme for Obsidian
 - [tooltipsterR](https://github.com/timelyportfolio/tooltipsterR) - R htmlwidget for tooltipster
 - [Rgitbook](https://github.com/jbryer/Rgitbook) - Gitbook for R Markdown
@@ -655,6 +656,7 @@
 
 ## HTML 
 
+- [wisteria](https://github.com/overtrue/wisteria) - Beautiful document tool for your project.
 - [awesome-resources](https://github.com/lyfeyaj/awesome-resources) - Awesome resources for coding and learning: open source projects, websites, books e.g.
 - [digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Start your own digital garden using this Jekyll template 🌱
 - [r-docker-tutorial](https://github.com/ropenscilabs/r-docker-tutorial) - A docker tutorial for reproducible research
@@ -819,7 +821,7 @@
 - [proper](https://github.com/datasciencecampus/proper) - A repository for the R tool propeR, which analyses travel time and cost using an OTP graph (see datasciencecampus/graphite)
 - [nglShiny](https://github.com/paul-shannon/nglShiny) - Alexander Rose's nglviewer as an R/Shiny widget
 - [hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) - A Hugo theme component to cloak email adresses
-- [cranchecksdocs](https://github.com/ropenscilabs/cranchecksdocs) - 
+- [cranchecksdocs](https://github.com/ropensci-org/cranchecksdocs) - 
 - [textures](https://github.com/hypertidy/textures) - simple texture plot
 - [docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [tidymodels.org](https://github.com/tidymodels/tidymodels.org) - Source of tidymodels.org
@@ -842,6 +844,7 @@
 - [ssdeepr](https://github.com/hrbrmstr/ssdeepr) - Context Triggered Piecewise Hash Computation Using 'ssdeep' for R
 - [r-talks](https://github.com/jangorecki/r-talks) - R talks, auto-mirror from GitLab
 - [website](https://github.com/UVa-R-Users-Group/website) - 
+- [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [colortable](https://github.com/thebioengineer/colortable) - Add coloring and styling to data.frame and tibble records!
 - [pro_admin_training_assets](https://github.com/rstudio/pro_admin_training_assets) - Public assets for the RStudio Professional Admin Training
 - [guides](https://github.com/reconhub/guides) - Recon's guidelines for writing statistical analyses reports
@@ -981,6 +984,10 @@
 
 ## JavaScript 
 
+- [docanary](https://github.com/stickmy/docanary) - :memo: Site generator. Markdown -&gt; Site
+- [markdown-magic](https://github.com/DavidWells/markdown-magic) - 💫 Automatically format markdown files, sync external docs/src code & make better docs
+- [opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
+- [todoist-readme](https://github.com/abhisheknaiidu/todoist-readme) - 🚧 Updates README with Todoist Stats of a user
 - [setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A collection of GitHub Actions for interfacing with Google Cloud Platform.
 - [awesome-utils-dev](https://github.com/pegaltier/awesome-utils-dev) - 📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...
 - [serverless-image-handler](https://github.com/awslabs/serverless-image-handler) - A solution to dynamically handle images on the fly, utilizing SharpJS
@@ -1055,6 +1062,7 @@
 - [browser-extension](https://github.com/dnote/browser-extension) - Instantly take encrypted notes inside Chrome or Firefox
 - [learning-notes](https://github.com/slowernews/learning-notes) - Notes on programming (frontend, chrome extensions), Portuguese taxes, Polish language .. (WIP)
 - [notebook](https://github.com/wayanjimmy/notebook) - Personal notes
+- [foamy-nextjs](https://github.com/yenly/foamy-nextjs) - Basic Foam + NextJS with MDX starter for building a digital garden
 - [dschapman-com](https://github.com/dschapman/dschapman-com) - Gatsby Blog built as a digital garden. It's is meant to be curated, read, and explored. Trying to think about this as a place I want to use first and foremost.
 - [next-mdx-digital-garden-starter](https://github.com/RyanWarner/next-mdx-digital-garden-starter) - An opinionated starting point for Digital Garden content authoring.
 - [digital-garden](https://github.com/eliciaauduong/digital-garden) - An ongoing work in progress of all my thoughts and notes.
@@ -1080,7 +1088,7 @@
 - [flexdashboard](https://github.com/rstudio/flexdashboard) - Easy interactive dashboards for R
 - [github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) - 🔥 Add Programming Quotes To Your GitHub Readme
 - [inky](https://github.com/inkle/inky) - An editor for ink: inkle's narrative scripting language
-- [metrics](https://github.com/lowlighter/metrics) - 📊 An image generator with 20+ metrics about your GitHub account such as activity, community, repositories, coding habits, website performances, etc. that you can put on your profile or elsewhere !
+- [metrics](https://github.com/lowlighter/metrics) - 📊 An image generator with 20+ metrics about your GitHub account such as activity, community, repositories, coding habits, website performances, music played, starred topics, etc. that you can put on your profile or elsewhere !
 - [pg-formatter](https://github.com/gajus/pg-formatter) - A PostgreSQL SQL syntax beautifier.
 - [obelisk.js](https://github.com/nosir/obelisk.js) - Build pixel isometric graphics with HTML5 canvas
 - [systeminformation](https://github.com/sebhildebrandt/systeminformation) - System Information Library for Node.JS
@@ -1627,6 +1635,10 @@
 
 ## Others 
 
+- [PrettyWindowsTerminalThings](https://github.com/shanselman/PrettyWindowsTerminalThings) - A place for how to make your Windows Terminal Pretty
+- [shanselman](https://github.com/shanselman/shanselman) - 
+- [Windows10_Hardening](https://github.com/beerisgood/Windows10_Hardening) - My Windows 10 x64 security hardening guide
+- [maic](https://github.com/markvanderloo/maic) - Mark's Attempt to Imitate CRAN
 - [R-Tools-Google-Cloud-FollowUp](https://github.com/paeselhz/R-Tools-Google-Cloud-FollowUp) - This is a followup of the original document - RStudio and Shiny Server on GCP
 - [RStudio-Shiny-Server-on-GCP](https://github.com/paeselhz/RStudio-Shiny-Server-on-GCP) - The ultimate guide to deploy Rstudio Open Source and Shiny Server Open Source at Google Cloud Platform
 - [AKS](https://github.com/Azure/AKS) - Azure Kubernetes Service
@@ -1969,7 +1981,7 @@
 - [editorial-obsidian](https://github.com/tekacs/editorial-obsidian) - Editorial scripts for Obsidian (unofficial)
 - [obsidian-docs](https://github.com/obsidianmd/obsidian-docs) - Help documentation for Obsidian
 - [kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - Example recipes for Kubernetes Network Policies that you can just copy paste
-- [cloud-run-faq](https://github.com/ahmetb/cloud-run-faq) - Unofficial FAQ for Google Cloud Run✨
+- [cloud-run-faq](https://github.com/ahmetb/cloud-run-faq) - Unofficial FAQ and everything you've been wondering for Google Cloud Run  ✨
 - [scheduling_r_scripts](https://github.com/RMHogervorst/scheduling_r_scripts) - 
 - [WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [analysis-flow](https://github.com/deanmarchiori/analysis-flow) - The meta-concepts of data analysis, reproducible workflows and projects for research and industry
@@ -2205,6 +2217,8 @@
 
 ## PowerShell 
 
+- [CleanWin](https://github.com/pratyakshm/CleanWin) - A community powered project that aims to make Windows 10 better.
+- [virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [windows10-debloat](https://github.com/Daksh777/windows10-debloat) - Collection of various scripts and apps to debloat Windows 10 for better privacy, performance and optimization.
 - [Windows-On-Reins](https://github.com/gordonbay/Windows-On-Reins) - Windows 10 Ameliorated, Debloat, Optimize, Privacy fix
 - [Longhorn](https://github.com/VincentXE/Longhorn) - Windows 10 Debloater
@@ -2288,6 +2302,7 @@
 
 ## Python 
 
+- [great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [ulauncher-obsidian](https://github.com/mikebarkmin/ulauncher-obsidian) - An ulauncher extension for obsidian.md
 - [pgtricks](https://github.com/akaihola/pgtricks) - Handy helpers for PostgreSQL users
 - [repostatus.org](https://github.com/jantman/repostatus.org) - A standard to easily communicate to humans and machines the development/support and usability status of software repositories/projects.
@@ -2541,6 +2556,11 @@
 
 ## R 
 
+- [AzureContainers](https://github.com/cloudyr/AzureContainers) - Containers in Azure: AKS, ACR, ACI. Submit issues and PRs at https://github.com/Azure/AzureContainers.
+- [coveffectsplot](https://github.com/smouksassi/coveffectsplot) - A Shiny App that Produce Forest Plots to Visualize Covariate Effects
+- [wayback](https://github.com/petermeissner/wayback) - #rstats package to handle package installations on legacy #rstats systems
+- [potential](https://github.com/riatelab/potential) - An R package to compute the potential model as defined by Stewart (1941).
+- [autotest](https://github.com/ropenscilabs/autotest) - Automatic testing of R packages
 - [rstudioProjectTemplate](https://github.com/paeselhz/rstudioProjectTemplate) - Package that builds RStudio Project Template
 - [ghActionsDockerShiny](https://github.com/paeselhz/ghActionsDockerShiny) - Example integrating Github Actions tools to build a containerized shiny app
 - [shiny-farkle](https://github.com/donaldrauscher/shiny-farkle) - Shiny app for the game of Farkle
@@ -3397,7 +3417,7 @@
 - [tidyquant](https://github.com/business-science/tidyquant) - Bringing financial analysis to the tidyverse
 - [liblog](https://github.com/moodymudskipper/liblog) - Log Calls to loadNamespace
 - [arcadefont](https://github.com/coolbutuseless/arcadefont) - Oldschool arcade vector font
-- [webmiddens](https://github.com/ropensci/webmiddens) - cache http requests
+- [webmiddens](https://github.com/sckott/webmiddens) - cache http requests
 - [shrtcts](https://github.com/gadenbuie/shrtcts) - Make Anything an RStudio Shortcut
 - [bookdown.org](https://github.com/rstudio/bookdown.org) - Source documents to generate the bookdown.org website
 - [shiny.info](https://github.com/Appsilon/shiny.info) - Display simple diagnostic info of your Shiny app
@@ -3984,7 +4004,7 @@
 - [loadtest](https://github.com/tmobile/loadtest) - an R package that automates performance testing of ML models and summarizes the results in a dashboard w/ rad visualizations
 - [rstudiothemes](https://github.com/mkearney/rstudiothemes) - A curated list of RStudio themes found on Github
 - [RecodeReorder](https://github.com/milosvil/RecodeReorder) - RStudio addin for interactively renaming, collapsing and reordering factor levels.
-- [rawr](https://github.com/stevecondylios/rawr) - rawr: Extract the raw R code directly from popular R webpages, including Github, Kaggle, Stack Overflow, Datacamp, and sites made using Blogdown.
+- [rawr](https://github.com/stevecondylios/rawr) - Extract the raw R code directly from popular R webpages, including Github, Kaggle, Stack Overflow, Datacamp, and sites made using Blogdown.
 - [instaR](https://github.com/pablobarbera/instaR) - Dev version of instaR package: Access to Instagram API via R
 - [rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization
 - [shinyML](https://github.com/JeanBertinR/shinyML) - shinyML is a R package that use h2o and Spark  frameworks to easily compare supervised machine learning models on regression or classification tasks (published on CRAN in July 2019)
@@ -4581,7 +4601,6 @@
 - [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [Blunt](https://github.com/f-prime/Blunt) - A CSS framework that helps with layouts and leaves your styling alone.
 - [rsthemes](https://github.com/gadenbuie/rsthemes) - 🔮 Full RStudio IDE and Syntax Themes
-- [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [bslib](https://github.com/rstudio/bslib) - Tools for theming shiny and rmarkdown from R via Bootstrap (3 or 4) Sass.
 - [startbootstrap-coming-soon](https://github.com/StartBootstrap/startbootstrap-coming-soon) - A coming soon theme with a video background for Bootstrap 4
 - [htmlwidgetsgallery](https://github.com/hafen/htmlwidgetsgallery) - 
@@ -4601,6 +4620,7 @@
 
 ## Shell 
 
+- [docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker
 - [convert-mp4-to-gif](https://github.com/komali2/convert-mp4-to-gif) - Dead simple script to convert all .mp4 files in directory to relatively well proportioned .gif files.
 - [resources](https://github.com/zero-to-mastery/resources) - Here is a list of best resources to get you started with learning how to code (mostly related to Web Development). Feel free to add your favorite  resources as well and help others in their journey of learning.
 - [knowledge](https://github.com/d2s/knowledge) - :cloud: 2016→ — A curated list of Tools and Resources.
@@ -4776,6 +4796,7 @@
 
 ## TeX 
 
+- [thesisdown](https://github.com/ismayc/thesisdown) - An updated R Markdown thesis template using the bookdown package
 - [reproducible-research](https://github.com/rr-mrc-bsu/reproducible-research) - The most recent build from master is available at:
 - [knitr-examples](https://github.com/cderv/knitr-examples) - a collection of knitr examples
 - [pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
@@ -4835,6 +4856,8 @@
 
 ## TypeScript 
 
+- [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
+- [Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Material Based Cursors 🚀
 - [google-api-fetch-token-action](https://github.com/cardinalby/google-api-fetch-token-action) - Call Google Auth API to prevent you refresh token being expired
 - [login-action](https://github.com/docker/login-action) - :octocat: GitHub Action to login against a Docker registry
 - [release-notes-preview](https://github.com/snyk/release-notes-preview) - GitHub Action for providing release notes preview for semantic releases
