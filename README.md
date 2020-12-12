@@ -656,6 +656,7 @@
 
 ## HTML 
 
+- [htmlvault](https://github.com/dirkschumacher/htmlvault) - Encrypt files in self-decrypting html files using libsodium
 - [wisteria](https://github.com/overtrue/wisteria) - Beautiful document tool for your project.
 - [awesome-resources](https://github.com/lyfeyaj/awesome-resources) - Awesome resources for coding and learning: open source projects, websites, books e.g.
 - [digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Start your own digital garden using this Jekyll template 🌱
@@ -1072,7 +1073,7 @@
 - [dir-snap](https://github.com/LanceTurri/dir-snap) - A library for comparing snapshots of files and folders on your system.
 - [local-share](https://github.com/toan2406/local-share) - Share your folders/files in local network
 - [empty-dir](https://github.com/gulpjs/empty-dir) - Check if a directory is empty.
-- [DownGit](https://github.com/MinhasKamal/DownGit) - Create GitHub Resource Download Link (git-github-direct-zip-directory-folder-file)
+- [DownGit](https://github.com/MinhasKamal/DownGit) - Create GitHub Resource Download Link
 - [ftags](https://github.com/miriti/ftags) - Command-line files tagging tool
 - [generator-generator](https://github.com/yeoman/generator-generator) - Generate a Yeoman generator
 - [docker-nginx-vue-express-node-sqlite-app-template](https://github.com/dirmeier/docker-nginx-vue-express-node-sqlite-app-template) - A template for a web-app.
@@ -1472,6 +1473,7 @@
 - [vue2-datepicker](https://github.com/mengxiong10/vue2-datepicker) - A datepicker / datetimepicker component for Vue2
 - [shinypop](https://github.com/dreamRs/shinypop) - Collection of notifications, confirm dialogs and alerts for 'Shiny' applications
 - [supercaliheatmapwidget](https://github.com/hrbrmstr/supercaliheatmapwidget) - 📅 Supercalifragilistic HTML Calendar Heatmaps
+- [nomnoml](https://github.com/rstudio/nomnoml) - Sassy 'UML' Diagrams for R
 - [shinyglide](https://github.com/juba/shinyglide) - Glide.js component for Shiny apps
 - [flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
 - [openlayers](https://github.com/openlayers/openlayers) - OpenLayers
@@ -1635,6 +1637,7 @@
 
 ## Others 
 
+- [templates](https://github.com/kbariotis/templates) - A set of standard document templates.
 - [PrettyWindowsTerminalThings](https://github.com/shanselman/PrettyWindowsTerminalThings) - A place for how to make your Windows Terminal Pretty
 - [shanselman](https://github.com/shanselman/shanselman) - 
 - [Windows10_Hardening](https://github.com/beerisgood/Windows10_Hardening) - My Windows 10 x64 security hardening guide
@@ -2302,6 +2305,7 @@
 
 ## Python 
 
+- [dotfiles](https://github.com/jbernard/dotfiles) - Dotfile management made easy
 - [great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [ulauncher-obsidian](https://github.com/mikebarkmin/ulauncher-obsidian) - An ulauncher extension for obsidian.md
 - [pgtricks](https://github.com/akaihola/pgtricks) - Handy helpers for PostgreSQL users
@@ -2316,7 +2320,7 @@
 - [jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
 - [zettel-hugo-postmaker](https://github.com/balaji-dutt/zettel-hugo-postmaker) - A set of Python scripts that converts wikilinks in Markdown files into standard Hugo links.
-- [verzettler](https://github.com/klieret/verzettler) - Helper scripts for Zettelkasten.
+- [verzettler](https://github.com/klieret/verzettler) - Non-linear, non-hierarchical knowledge management: Helper scripts for your Zettelkasten.
 - [zettel-link-rewriter](https://github.com/balaji-dutt/zettel-link-rewriter) - Python script that converts wikilinks in Markdown files into standard Markdown links
 - [slipbox](https://github.com/lggruspe/slipbox) - A static site generator for Zettelkasten notes
 - [memex](https://github.com/djplaner/memex) - Nascent attempt at using Foam to curate and leverage a personal memex
@@ -2556,6 +2560,9 @@
 
 ## R 
 
+- [shiny_workshop](https://github.com/veeps/shiny_workshop) - This is a one day intro to Shiny workshop for the R Conference 2020.
+- [dime-r-training](https://github.com/worldbank/dime-r-training) - Dime Analytics R Training
+- [CANSIM-retail-trade-shiny](https://github.com/bcgov/CANSIM-retail-trade-shiny) - R code for visualization app for retail trade data from Statistics Canada
 - [AzureContainers](https://github.com/cloudyr/AzureContainers) - Containers in Azure: AKS, ACR, ACI. Submit issues and PRs at https://github.com/Azure/AzureContainers.
 - [coveffectsplot](https://github.com/smouksassi/coveffectsplot) - A Shiny App that Produce Forest Plots to Visualize Covariate Effects
 - [wayback](https://github.com/petermeissner/wayback) - #rstats package to handle package installations on legacy #rstats systems
@@ -2855,7 +2862,7 @@
 - [rpinterest](https://github.com/ColinFay/rpinterest) - An R package to access the Pinterest API
 - [printr](https://github.com/yihui/printr) - Some (magical) printing methods for knitr
 - [pkgsearch](https://github.com/r-hub/pkgsearch) - Search R packages on CRAN
-- [ghrecipes](https://github.com/ropenscilabs/ghrecipes) - Provides some helper functions for using GitHub V4 API
+- [ghrecipes](https://github.com/ropensci-archive/ghrecipes) - Provides some helper functions for using GitHub V4 API
 - [shinyteamdashboard](https://github.com/schloerke/shinyteamdashboard) - Tidyverse activity dashboard
 - [opendatarte](https://github.com/cderv/opendatarte) - Access https://data.rte-france.com API from R
 - [proxyconfig](https://github.com/cderv/proxyconfig) - Tools to Configure Proxy Interactively
@@ -3828,7 +3835,6 @@
 - [cellranger](https://github.com/rsheets/cellranger) - Helper functions to work with spreadsheets and the "A1:D10" style of cell range specification
 - [xaringanthemer](https://github.com/gadenbuie/xaringanthemer) - 😎 Give your xaringan slides some style
 - [syn](https://github.com/ropenscilabs/syn) - syn - the thesaurus
-- [nomnoml](https://github.com/rstudio/nomnoml) - Sassy 'UML' Diagrams for R
 - [memoise](https://github.com/r-lib/memoise) - Easy memoisation for R
 - [rco](https://github.com/jcrodriguez1989/rco) - Package: The R Code Optimizer
 - [hexmake](https://github.com/ColinFay/hexmake) - A Shiny App for Making Hex Stickers.
