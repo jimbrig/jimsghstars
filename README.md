@@ -650,6 +650,7 @@
 
 ## HCL 
 
+- [terraform-google-cloud-run](https://github.com/CallePuzzle/terraform-google-cloud-run) - Terraform module to deploy a Cloud Run component
 - [terraform_book_code](https://github.com/paeselhz/terraform_book_code) - Project containing my experiments while studying Terraform
 - [rshiny-with-polished-tech-eks](https://github.com/jerowe/rshiny-with-polished-tech-eks) - Example RShiny Authentication with Polished Tech hosted on AWS EKS with Terraform.
 - [rstudio-server-terraform](https://github.com/ginocoates/rstudio-server-terraform) - A terraform project for provisioning an rstudio server of the desired size
@@ -1061,7 +1062,7 @@
 - [pgtune](https://github.com/le0pard/pgtune) - Pgtune - tuning PostgreSQL config by your hardware
 - [quicksettings](https://github.com/bit101/quicksettings) - JavaScript library for making a quick settings panel to control code parameters.
 - [browser-extension](https://github.com/dnote/browser-extension) - Instantly take encrypted notes inside Chrome or Firefox
-- [learning-notes](https://github.com/slowernews/learning-notes) - Notes on programming (frontend, chrome extensions), Portuguese taxes, Polish language .. (WIP)
+- [learning-notes](https://github.com/slowernews/learning-notes) - Notes on programming, Portuguese taxes, Polish language .. (WIP)
 - [notebook](https://github.com/wayanjimmy/notebook) - Personal notes
 - [foamy-nextjs](https://github.com/yenly/foamy-nextjs) - Basic Foam + NextJS with MDX starter for building a digital garden
 - [dschapman-com](https://github.com/dschapman/dschapman-com) - Gatsby Blog built as a digital garden. It's is meant to be curated, read, and explored. Trying to think about this as a place I want to use first and foremost.
@@ -1158,6 +1159,7 @@
 - [dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [github-selfies](https://github.com/thieman/github-selfies) - Everything is better with selfies. Yes, even pull requests. Trust me.
 - [gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
+- [archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
 - [organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 - [ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
@@ -2292,7 +2294,7 @@
 - [windows](https://github.com/equk/windows) - 💎 tweaks & fixes for windows 10 - mostly powershell
 - [Win10Script](https://github.com/madbomb122/Win10Script) - Win 10 Powershell Script to tweak and change windows settings
 - [scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
-- [Windows-10-Sophia-Script](https://github.com/farag2/Windows-10-Sophia-Script) - Script to setup Windows 10 LTSC/1903/1909/2004 (20H1)/20H2 (2009)
+- [Windows-10-Sophia-Script](https://github.com/farag2/Windows-10-Sophia-Script) - Script to setup Windows 10 LTSC/2004 (20H1)/20H2 (2009)
 - [Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 - [universal-dashboard](https://github.com/ironmansoftware/universal-dashboard) - Build beautiful websites with PowerShell.
 - [Zotero-Obdisian-Picker-Windows](https://github.com/AlexanderSavenkov/Zotero-Obdisian-Picker-Windows) - Allows you to call up a Zotero picker from within Obsidian in Windows 10
@@ -2421,7 +2423,6 @@
 - [Raven-coding](https://github.com/Rilfanayasmin/Raven-coding) - Practice programming with R and Python on all data science algorithms
 - [rinse](https://github.com/datasnakes/rinse) - A configurable installer CLI for installing R from source   (sudo and non-sudo).
 - [gita](https://github.com/nosarthur/gita) - Manage many git repos with sanity 从容管理多个git库
-- [archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
 - [hatch](https://github.com/ofek/hatch) - A modern project, package, and virtual env manager for Python
 - [git-imerge](https://github.com/mhagger/git-imerge) - Incremental merge for git
 - [repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images
@@ -2560,6 +2561,7 @@
 
 ## R 
 
+- [polishedpayments](https://github.com/Tychobra/polishedpayments) - 
 - [shiny_workshop](https://github.com/veeps/shiny_workshop) - This is a one day intro to Shiny workshop for the R Conference 2020.
 - [dime-r-training](https://github.com/worldbank/dime-r-training) - Dime Analytics R Training
 - [CANSIM-retail-trade-shiny](https://github.com/bcgov/CANSIM-retail-trade-shiny) - R code for visualization app for retail trade data from Statistics Canada
@@ -4017,7 +4019,7 @@
 - [BioInstaller](https://github.com/JhuangLab/BioInstaller) - A comprehensive R package to construct interactive and reproducible biological data analysis applications based on the R platform
 - [anor](https://github.com/clindet/anor) - anor: an annotation and visualization system based on R and Shiny framework
 - [collections](https://github.com/randy3k/collections) - High-performance container datatypes for R
-- [supreme](https://github.com/strboul/supreme) - Modeling tool helping users better structure 'Shiny applications' developed with 'Shiny' modules
+- [supreme](https://github.com/strboul/supreme) - Generate UML diagrams of Shiny modules
 - [appForms](https://github.com/skranz/appForms) - Tools to create and arrange input forms for shiny apps using simple yaml field specification
 - [webforms](https://github.com/skranz/webforms) - Forms for shinyEvents apps
 - [shinyEventsLogin](https://github.com/skranz/shinyEventsLogin) - Login Module for ShinyEvents Apps
@@ -4597,6 +4599,7 @@
 
 ## SCSS 
 
+- [workshops-setup_-cloud_analytics_machine](https://github.com/lvalnegri/workshops-setup_-cloud_analytics_machine) - Tips and Tricks to setup a cloud machine for Analytics and Data Science with R, RStudio and Shiny Servers, Python and JupyterLab
 - [wtfcrt](https://github.com/nikvoronin/wtfcrt) - A personal wiki-like notebooks aka zettelkasten
 - [notes.ajb.app](https://github.com/andybyers21/notes.ajb.app) - This is the data for my Evergreen notes vault
 - [foam-template](https://github.com/foambubble/foam-template) - Foam workpace template
