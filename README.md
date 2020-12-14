@@ -131,7 +131,6 @@
 - [WindowsProgrammingNotes](https://github.com/liuxuanhai/WindowsProgrammingNotes) - Windows程序设计(第5版 珍藏版)
 - [pkg-aws-checksums](https://github.com/eddelbuettel/pkg-aws-checksums) - (Unofficial) Debian packaging for AWS CRC32c and CRC32 C interface
 - [dieharder](https://github.com/eddelbuettel/dieharder) - 
-- [dotfiles](https://github.com/antoniosarosi/dotfiles) - My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.
 - [wsltty](https://github.com/mintty/wsltty) - Mintty as a terminal for Bash on Ubuntu on Windows / WSL
 - [mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
 - [awesome-nginx](https://github.com/agile6v/awesome-nginx) - A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:
@@ -441,7 +440,6 @@
 - [shinyr-knowledge-repo](https://github.com/JesseVent/shinyr-knowledge-repo) - The shinyR curated knowledge sharing platform
 - [night-owlish](https://github.com/batpigandme/night-owlish) - 🌙🦉 An RStudio, tmThemes, and Ace editor adaptation of @sdras' Night Owl VS Code theme…
 - [notebook-template](https://github.com/timoast/notebook-template) - Template for a computational lab notebook using bookdown
-- [icon](https://github.com/ropenscilabs/icon) - R package to easily insert web icons to RMarkdown
 - [iziModal](https://github.com/marcelodolza/iziModal) - Elegant, responsive, flexible and lightweight modal plugin with jQuery.
 - [fresh](https://github.com/dreamRs/fresh) - Fresh shiny themes
 - [dashboard](https://github.com/karthik/dashboard) - A R package dashboard generator
@@ -2294,7 +2292,7 @@
 - [windows](https://github.com/equk/windows) - 💎 tweaks & fixes for windows 10 - mostly powershell
 - [Win10Script](https://github.com/madbomb122/Win10Script) - Win 10 Powershell Script to tweak and change windows settings
 - [scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
-- [Windows-10-Sophia-Script](https://github.com/farag2/Windows-10-Sophia-Script) - Script to setup Windows 10 LTSC/2004 (20H1)/20H2 (2009)
+- [Windows-10-Sophia-Script](https://github.com/farag2/Windows-10-Sophia-Script) - A module for fune-tuning Windows 10 LTSC/2004 (20H1)/20H2 (2009)
 - [Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 - [universal-dashboard](https://github.com/ironmansoftware/universal-dashboard) - Build beautiful websites with PowerShell.
 - [Zotero-Obdisian-Picker-Windows](https://github.com/AlexanderSavenkov/Zotero-Obdisian-Picker-Windows) - Allows you to call up a Zotero picker from within Obsidian in Windows 10
@@ -3569,7 +3567,6 @@
 - [cleanr](https://github.com/alastairrushworth/cleanr) - 
 - [htmldf](https://github.com/alastairrushworth/htmldf) - 🖥  ✂️  📁  Simple scraping and tidy webpage summaries
 - [blockCV](https://github.com/rvalavi/blockCV) - The blockCV package creates spatially or environmentally separated training and testing folds for cross-validation to provide a robust error estimation in spatially structured environments. See
-- [icon](https://github.com/mitchelloharawild/icon) - Embed SVG icons in slides, reports and apps using R
 - [roxytest](https://github.com/mikldk/roxytest) - Inline testthat tests with roxygen2
 - [bench](https://github.com/r-lib/bench) - High Precision Timing of R Expressions
 - [TileMaker](https://github.com/DataStrategist/TileMaker) - An R package that enables the creation of data tiles for inclusion in a html dashboard or some such.
@@ -3960,6 +3957,7 @@
 - [jobstatus](https://github.com/ropenscilabs/jobstatus) - Send Job Information Between Functions and Processes
 - [pkginspector](https://github.com/ropenscilabs/pkginspector) - An R package that provides tools to review other R packages
 - [dirdf](https://github.com/ropenscilabs/dirdf) - R package: dirdf - Extracts Metadata from Directory and File Names
+- [icon](https://github.com/mitchelloharawild/icon) - R package to easily insert web icons to RMarkdown
 - [fstplyr](https://github.com/krlmlr/fstplyr) - A dplyr interface to fst
 - [metadatar](https://github.com/annakrystalli/metadatar) - Tools for creating metadata files for reproducible research.
 - [optiRum](https://github.com/lockedata/optiRum) - R Package 📦 of useful helper functions from Optimum Credit :moneybag:
@@ -5030,6 +5028,7 @@
 - [.dotfiles](https://github.com/tallguyjenks/.dotfiles) - My dot files
 - [win_dotfiles](https://github.com/Surumerf/win_dotfiles) - Dotfiles for Windows
 - [kickassdotfiles](https://github.com/ntkzwane/kickassdotfiles) - Dotfiles (configuration files) for various dev tools e.g editors, window managers, themes etc.
+- [dotfiles](https://github.com/antoniosarosi/dotfiles) - My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.
 - [dotfiles](https://github.com/willwm/dotfiles) - My default Linux/macOS/Windows configuration
 - [dotfiles](https://github.com/nickjj/dotfiles) - Settings for various tools I use.
 - [vim-rmarkdown](https://github.com/vim-pandoc/vim-rmarkdown) - Rmarkdown support for vim
