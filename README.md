@@ -995,7 +995,7 @@
 - [ResourcesSaverExt](https://github.com/up209d/ResourcesSaverExt) - Chrome Extension for one click downloading all resources files and keeping folder structures.
 - [highcharts-themes-collection](https://github.com/jbkunst/highcharts-themes-collection) - Highcharts themes collection
 - [diffviewer](https://github.com/jbkunst/diffviewer) - HTML Widget That Shows Differences Between Files
-- [gramr](https://github.com/ropenscilabs/gramr) - RStudio Addin, function, & shiny app for the write-good linter  :pencil:
+- [gramr](https://github.com/maelle/gramr) - RStudio Addin, function, & shiny app for the write-good linter  :pencil:
 - [shinyDatetimePickers](https://github.com/stla/shinyDatetimePickers) - Datetime pickers for Shiny.
 - [shinyPrettier](https://github.com/stla/shinyPrettier) - 
 - [shinyChakraSlider](https://github.com/stla/shinyChakraSlider) - A combined slider and number input for Shiny.
@@ -1038,7 +1038,6 @@
 - [sharec](https://github.com/lamartire/sharec) - 📦 Store your configs in one place and share between projects without any pain
 - [wuffle](https://github.com/nikku/wuffle) - A multi-repository task board for GitHub issues.
 - [create-issue-from-file](https://github.com/peter-evans/create-issue-from-file) - A GitHub action to create an issue using content from a file
-- [obsidian-calendar-plugin](https://github.com/liamcain/obsidian-calendar-plugin) - Simple calendar widget for Obsidian.
 - [notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - an enhancer/customiser for the all-in-one productivity workspace notion.so
 - [create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) - A GitHub action to create or update an issue or pull request comment
 - [tweet-to-markdown](https://github.com/kbravh/tweet-to-markdown) - A command line tool to convert Tweets to Markdown.
@@ -2658,7 +2657,7 @@
 - [stantargets](https://github.com/wlandau/stantargets) - Reproducible Bayesian data analysis pipelines with targets and cmdstanr
 - [ergm](https://github.com/statnet/ergm) - Fit, Simulate and Diagnose Exponential-Family Models for Networks
 - [econocharts](https://github.com/R-CoderDotCom/econocharts) - Microeconomics/macroeconomics charts in ggplot2
-- [err](https://github.com/devOpifex/err) - Error & warning handling for R inspired by go
+- [erratum](https://github.com/devOpifex/erratum) - Error & warning handling for R inspired by go
 - [workbench-r](https://github.com/alexkyllo/workbench-r) - An R data science project template for use with the cookiecutter templating tool
 - [staries](https://github.com/cgpu/staries) - The *ies. A series of &lt;star&gt;-ies util snippets, scripts or templates that I use day to day.
 - [R_template_test](https://github.com/GregoryIreland/R_template_test) - 
@@ -4897,6 +4896,7 @@
 - [env-cmd](https://github.com/toddbluhm/env-cmd) - Setting environment variables from a file
 - [github-issues-notice](https://github.com/linyows/github-issues-notice) - :octocat: Notify labeled issues to Slack
 - [VSCode-R-Debugger](https://github.com/ManuelHentschel/VSCode-R-Debugger) - R Debugger Extension for Visual Studio Code
+- [obsidian-calendar-plugin](https://github.com/liamcain/obsidian-calendar-plugin) - Simple calendar widget for Obsidian.
 - [sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for Javascript
 - [obsidian-backlinks-in-document](https://github.com/mrjackphil/obsidian-backlinks-in-document) - A hacky workaround which put backlinks section into the document
 - [Website](https://github.com/thenewboston-developers/Website) - The website and documentation for thenewboston.
