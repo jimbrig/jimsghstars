@@ -107,6 +107,7 @@
 
 ## C 
 
+- [Rsftp](https://github.com/Sage-Bionetworks/Rsftp) - R package for sftp and other ssh-related functionality
 - [sys](https://github.com/jeroen/sys) - Powerful replacements for base::system2
 - [development-references](https://github.com/robenkleene/development-references) - References for programming tools.
 - [longears](https://github.com/atheriel/longears) - A RabbitMQ client for R
@@ -166,7 +167,7 @@
 - [getPass](https://github.com/wrathematics/getPass) - Password function for R with masking (where supported)
 - [processx](https://github.com/r-lib/processx) - Execute and Control Subrocesses from R
 - [xml2](https://github.com/r-lib/xml2) - Bindings to libxml2
-- [RMySQL](https://github.com/r-dbi/RMySQL) - An R interface for MySQL
+- [RMySQL](https://github.com/r-dbi/RMySQL) - Legacy DBI interface for MySQL
 
 ## C# # 
 
@@ -984,6 +985,7 @@
 
 ## JavaScript 
 
+- [dime-r-training](https://github.com/worldbank/dime-r-training) - Dime Analytics R Training
 - [docanary](https://github.com/stickmy/docanary) - :memo: Site generator. Markdown -&gt; Site
 - [markdown-magic](https://github.com/DavidWells/markdown-magic) - 💫 Automatically format markdown files, sync external docs/src code & make better docs
 - [opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
@@ -995,7 +997,7 @@
 - [ResourcesSaverExt](https://github.com/up209d/ResourcesSaverExt) - Chrome Extension for one click downloading all resources files and keeping folder structures.
 - [highcharts-themes-collection](https://github.com/jbkunst/highcharts-themes-collection) - Highcharts themes collection
 - [diffviewer](https://github.com/jbkunst/diffviewer) - HTML Widget That Shows Differences Between Files
-- [gramr](https://github.com/maelle/gramr) - RStudio Addin, function, & shiny app for the write-good linter  :pencil:
+- [gramr](https://github.com/jasdumas/gramr) - RStudio Addin, function, & shiny app for the write-good linter  :pencil:
 - [shinyDatetimePickers](https://github.com/stla/shinyDatetimePickers) - Datetime pickers for Shiny.
 - [shinyPrettier](https://github.com/stla/shinyPrettier) - 
 - [shinyChakraSlider](https://github.com/stla/shinyChakraSlider) - A combined slider and number input for Shiny.
@@ -1983,7 +1985,6 @@
 - [editorial-obsidian](https://github.com/tekacs/editorial-obsidian) - Editorial scripts for Obsidian (unofficial)
 - [obsidian-docs](https://github.com/obsidianmd/obsidian-docs) - Help documentation for Obsidian
 - [kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - Example recipes for Kubernetes Network Policies that you can just copy paste
-- [cloud-run-faq](https://github.com/ahmetb/cloud-run-faq) - Unofficial FAQ and everything you've been wondering for Google Cloud Run  ✨
 - [scheduling_r_scripts](https://github.com/RMHogervorst/scheduling_r_scripts) - 
 - [WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [analysis-flow](https://github.com/deanmarchiori/analysis-flow) - The meta-concepts of data analysis, reproducible workflows and projects for research and industry
@@ -2388,7 +2389,6 @@
 - [podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 - [scripttest](https://github.com/pypa/scripttest) - Utilities to help with testing command line scripts
 - [containerssh.github.io](https://github.com/ContainerSSH/containerssh.github.io) - The ContainerSSH website
-- [youtube-dl](https://github.com/l1ving/youtube-dl) - A fork of youtube-dl, for archival purposes. | ORIGINAL REPO NOW REINSTATED
 - [mkdocs-autolinks-plugin](https://github.com/midnightprioriem/mkdocs-autolinks-plugin) - An MkDocs plugin that automagically generates relative links between markdown pages
 - [mkdocs-awesome-pages-plugin](https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin) - An MkDocs plugin that simplifies configuring page titles and their order
 - [mkdocs-pdf-export-plugin](https://github.com/zhaoterryy/mkdocs-pdf-export-plugin) - An MkDocs plugin to export content pages as PDF files
@@ -2558,9 +2558,10 @@
 
 ## R 
 
+- [threadr](https://github.com/skgrange/threadr) - Tools to Thread Pieces Of Data Analysis Together
+- [credentials](https://github.com/r-lib/credentials) - Tools for Managing SSH and Git Credentials
 - [polishedpayments](https://github.com/Tychobra/polishedpayments) - 
 - [shiny_workshop](https://github.com/veeps/shiny_workshop) - This is a one day intro to Shiny workshop for the R Conference 2020.
-- [dime-r-training](https://github.com/worldbank/dime-r-training) - Dime Analytics R Training
 - [CANSIM-retail-trade-shiny](https://github.com/bcgov/CANSIM-retail-trade-shiny) - R code for visualization app for retail trade data from Statistics Canada
 - [AzureContainers](https://github.com/cloudyr/AzureContainers) - Containers in Azure: AKS, ACR, ACI. Submit issues and PRs at https://github.com/Azure/AzureContainers.
 - [coveffectsplot](https://github.com/smouksassi/coveffectsplot) - A Shiny App that Produce Forest Plots to Visualize Covariate Effects
@@ -4596,7 +4597,7 @@
 
 ## SCSS 
 
-- [workshops-setup_-cloud_analytics_machine](https://github.com/lvalnegri/workshops-setup_-cloud_analytics_machine) - Tips and Tricks to setup a cloud machine for Analytics and Data Science with R, RStudio and Shiny Servers, Python and JupyterLab
+- [workshops-setup_cloud_analytics_machine](https://github.com/lvalnegri/workshops-setup_cloud_analytics_machine) - Tips and Tricks to setup a cloud machine for Analytics and Data Science with R, RStudio and Shiny Servers, Python and JupyterLab
 - [wtfcrt](https://github.com/nikvoronin/wtfcrt) - A personal wiki-like notebooks aka zettelkasten
 - [notes.ajb.app](https://github.com/andybyers21/notes.ajb.app) - This is the data for my Evergreen notes vault
 - [foam-template](https://github.com/foambubble/foam-template) - Foam workpace template
@@ -4723,6 +4724,7 @@
 - [awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
+- [cloud-run-faq](https://github.com/ahmetb/cloud-run-faq) - Unofficial FAQ and everything you've been wondering for Google Cloud Run  ✨
 - [serverless-url-redirect](https://github.com/ahmetb/serverless-url-redirect) - Simple click-to-deploy serverless URL redirect service
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [docker](https://github.com/radiant-rstats/docker) - Use R, Rstudio, Shiny, Radiant, Python, and Jupyter in a Docker container
@@ -4730,7 +4732,7 @@
 - [ubuntu-windows-dotfiles](https://github.com/ow/ubuntu-windows-dotfiles) - Ubuntu on Windows dotfiles
 - [github-action-dynamic-profile-page](https://github.com/umutphp/github-action-dynamic-profile-page) - GitHub Action to push updates to your special profile repository.
 - [oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃  A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [computational-project-cookie-cutter](https://github.com/chendaniely/computational-project-cookie-cutter) - A cookie cutter to set up a folder structure for a computational project
 - [dotfiles](https://github.com/isair/dotfiles) - 🖥️ Backup your packages, apps, and configurations directly to git in the form of profiles. Set up any new (virtual) machine using a profile in one line. Share profiles between multiple machines. Configure auto update, clean-up, and back-up. Works for all linux flavors, Mac OS, and Windows.
 - [dotfiles](https://github.com/radum/dotfiles) - 🛠 Global apps, modules, packages, .files, sensible hacker defaults for macOS and Windows
@@ -4862,6 +4864,7 @@
 
 ## TypeScript 
 
+- [manypkg](https://github.com/Thinkmill/manypkg) - ☔️ An umbrella for your monorepo
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Material Based Cursors 🚀
 - [google-api-fetch-token-action](https://github.com/cardinalby/google-api-fetch-token-action) - Call Google Auth API to prevent you refresh token being expired
