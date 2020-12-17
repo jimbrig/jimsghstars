@@ -59,6 +59,7 @@
   - [Scala](#scala)
   - [Shell](#shell)
   - [Stan](#stan)
+  - [Svelte](#svelte)
   - [Swift](#swift)
   - [TSQL](#tsql)
   - [Tcl](#tcl)
@@ -342,6 +343,7 @@
 
 ## CSS 
 
+- [12factor](https://github.com/heroku/12factor) - 
 - [shinyMergely](https://github.com/stla/shinyMergely) - A Shiny app allowing to compare and merge two files.
 - [devnotes](https://github.com/kevjose/devnotes) - notes from the journey of a software engineer 🤗
 - [gha_r_tutorial](https://github.com/yonicd/gha_r_tutorial) - Short tutorial for using GitHub Actions and R
@@ -523,7 +525,6 @@
 
 - [dotfiles](https://github.com/cole-brokamp/dotfiles) - dotfiles
 - [configuration](https://github.com/yihui/configuration) - My configuration files
-- [dotfiles](https://github.com/kdai9o/dotfiles) - My dotfiles
 - [zettel-mode](https://github.com/vifon/zettel-mode) - A Zettelkasten-style note-taking helper
 
 ## Gherkin 
@@ -766,6 +767,7 @@
 - [imageclipr](https://github.com/Toniiiio/imageclipr) - RStudio Addin: Copy Image from Clipboard into RMarkdown .Rmd file
 - [pade](https://github.com/igniterealtime/pade) - Pàdé (Yoruba word for Meet) is a browser extension (Chrome/Edge) based unified communications desktop client for Openfire.
 - [hexo-theme-clean-blog](https://github.com/klugjo/hexo-theme-clean-blog) - Hexo implementation of Clean Blog http://blackrockdigital.github.io/startbootstrap-clean-blog/index.html
+- [awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 - [cuttlebelle](https://github.com/cuttlebelle/cuttlebelle) - The react static site generator that separates editing and code concerns
 - [interAdapt](https://github.com/aaronjfisher/interAdapt) - Shiny app for looking at the pros and cons of adaptive trial designs
 - [polished_example_apps](https://github.com/Tychobra/polished_example_apps) - Example Apps for Polished
@@ -985,6 +987,8 @@
 
 ## JavaScript 
 
+- [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
+- [mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 - [dime-r-training](https://github.com/worldbank/dime-r-training) - Dime Analytics R Training
 - [docanary](https://github.com/stickmy/docanary) - :memo: Site generator. Markdown -&gt; Site
 - [markdown-magic](https://github.com/DavidWells/markdown-magic) - 💫 Automatically format markdown files, sync external docs/src code & make better docs
@@ -1188,7 +1192,7 @@
 - [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather for your city from your terminal
 - [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations
 - [idea](https://github.com/IonicaBizau/idea) - :bulb: A lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
-- [moro](https://github.com/albacoretuna/moro) - Simple CLI tool for tracking work hours
+- [moro](https://github.com/albacoretuna/moro) - Simple CLI tool for tracking work hours. Note: Heavy changes are happening in this repository. Docs might not be up to date, and things might be broken. Only the released NPM version is stable.
 - [g3l](https://github.com/sahin/g3l) - Git is easy, github cli is easy but g3l easiest git cli in the w0rld!
 - [npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [npm-user-cli](https://github.com/sindresorhus/npm-user-cli) - Get user info of an npm user
@@ -1258,6 +1262,7 @@
 - [telemetry](https://github.com/strongh/telemetry) - R Shiny inputs for geolocation and sensor data
 - [precision-inputs](https://github.com/jhnsnc/precision-inputs) - Vanilla JS input component for knobs/dials. Highly customizable, portable, and accessible.
 - [shinycamera](https://github.com/dselivanov/shinycamera) - Video stream input to shiny applications
+- [daterangepicker](https://github.com/trafficonese/daterangepicker) - Shiny Input for Date Ranges
 - [shinyinvoer](https://github.com/datasketch/shinyinvoer) - Shiny inputs
 - [send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
 - [rChartsCalmap](https://github.com/ramnathv/rChartsCalmap) - An htmlwidgets binding for calendar heat maps using d3
@@ -2018,7 +2023,6 @@
 - [markdown-licenses](https://github.com/IQAndreas/markdown-licenses) - A collection of open source licenses in Markdown format. Contributions are always welcome!
 - [tmetricr](https://github.com/jimbrig/tmetricr) - TMetric API in R
 - [kubernetic](https://github.com/harbur/kubernetic) - Kubernetic - Supercharge your Kubernetes clusters
-- [awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 - [Static-Site-Generators](https://github.com/pinceladasdaweb/Static-Site-Generators) - A definitive list of tools for generating static websites.
 - [awesome-gatsby](https://github.com/prayash/awesome-gatsby) - ⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.
 - [awesome-vuepress](https://github.com/vuepress/awesome-vuepress) - 🎉 A curated list of awesome things related to VuePress
@@ -3100,7 +3104,6 @@
 - [shiny-colour-gradient-input](https://github.com/daattali/shiny-colour-gradient-input) - Colour gradient input for R-Shiny
 - [shinykeyboard](https://github.com/willdebras/shinykeyboard) - R package to create an on-screen keyboard as a custom R Shiny input binding
 - [input_output_shiny_group](https://github.com/KatieKey/input_output_shiny_group) - R Programming Final Project Group 1
-- [daterangepicker](https://github.com/trafficonese/daterangepicker) - Shiny Input for Date Ranges
 - [DT_editable_as_shiny_input](https://github.com/jienagu/DT_editable_as_shiny_input) - Editable DT tables as shiny inputs and passed as reactives
 - [dynguidelines](https://github.com/dynverse/dynguidelines) - Selecting the optimal trajectory inference based on a given dataset and user input 🔮
 - [shinyTypeahead](https://github.com/ThomasSiegmund/shinyTypeahead) - A typeahead text input for Shiny based on the Bootstrap2 typeahead plugin
@@ -4783,6 +4786,10 @@
 
 - [The-Value-of-Insurance](https://github.com/rajesh06/The-Value-of-Insurance) - 
 - [ef_yield_curve_generators](https://github.com/ResearchActuary/ef_yield_curve_generators) - 
+
+## Svelte 
+
+- [mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - New implementation of the live editor
 
 ## Swift 
 
