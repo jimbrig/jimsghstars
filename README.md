@@ -1168,6 +1168,7 @@
 - [realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [de-rse.github.io](https://github.com/DE-RSE/de-rse.github.io) - Web repository
 - [mdnext](https://github.com/domitriusclark/mdnext) - The opinionated ecosystem for MDX powered NextJS apps for blogs, documentation, and more.
+- [programming-notes](https://github.com/WojciechMatuszewski/programming-notes) - Programming notes. About anything really.
 - [todoist-shortcuts](https://github.com/mgsloan/todoist-shortcuts) - Comprehensive keyboard shortcuts for Todoist, via browser extension
 - [dotfiles](https://github.com/Alex-D/dotfiles) - Windows + WSL 2 Ubuntu + Windows Terminal + zsh + p10k + Docker + IntelliJ IDEA
 - [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
@@ -1614,7 +1615,6 @@
 - [awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [gitpr](https://github.com/susam/gitpr) - Quick reference guide on fork and pull request workflow
 - [datacurator-filetree](https://github.com/roboyoshi/datacurator-filetree) - a standard filetree for /r/datacurator [ and r/datahoarder ]
-- [recipes](https://github.com/R-macos/recipes) - System for building static dependent libraries for CRAN packages
 - [demo-linking-native](https://github.com/Accio/demo-linking-native) - Demo of linking native routines in other packages in R
 - [awesome-blogdown](https://github.com/sellorm/awesome-blogdown) - An awesome curated list of blogs built using blogdown
 
@@ -1767,7 +1767,6 @@
 - [Rguides](https://github.com/courtiol/Rguides) - Alternative cheat sheets for R
 - [awesome-reproducible-R](https://github.com/datasnakes/awesome-reproducible-R) - An awesome list of resources for reproducible research in R.  Includes a table of comparison for different tools.
 - [Webdev-Study-Notes](https://github.com/maxx1128/Webdev-Study-Notes) - Notebook on programming, web development, nonfiction, and some fiction (ARCHIVED)
-- [programming-notes](https://github.com/WojciechMatuszewski/programming-notes) - Programming notes. About anything really.
 - [Operating-Systems-Notes](https://github.com/Aniruddha-Tapas/Operating-Systems-Notes) - :books: Compendium of all the important OS concepts and key points. https://applied-programming.github.io/Operating-Systems-Notes/
 - [notes](https://github.com/yang/notes) - Gitit wiki notes on computer science and programming
 - [programming-notes](https://github.com/randyviandaputra/programming-notes) - Semua catatan tentang teknologi dan development 😎
@@ -2309,6 +2308,7 @@
 
 ## Python 
 
+- [gitlint](https://github.com/jorisroovers/gitlint) - Linting for your git commit messages
 - [dotfiles](https://github.com/jbernard/dotfiles) - Dotfile management made easy
 - [great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [ulauncher-obsidian](https://github.com/mikebarkmin/ulauncher-obsidian) - An ulauncher extension for obsidian.md
@@ -2562,6 +2562,9 @@
 
 ## R 
 
+- [shinyfullscreen](https://github.com/etiennebacher/shinyfullscreen) - Display HTML Elements on Full Screen in 'Shiny' Apps Using 'Screenfull.js'
+- [usemodels](https://github.com/tidymodels/usemodels) - Boilerplate Code for tidymodels
+- [status](https://github.com/gadenbuie/status) - 
 - [threadr](https://github.com/skgrange/threadr) - Tools to Thread Pieces Of Data Analysis Together
 - [credentials](https://github.com/r-lib/credentials) - Tools for Managing SSH and Git Credentials
 - [polishedpayments](https://github.com/Tychobra/polishedpayments) - 
@@ -3237,7 +3240,6 @@
 - [testthat_example](https://github.com/MayaGans/testthat_example) - Using Test That with Shiny
 - [golem_demo](https://github.com/MayaGans/golem_demo) - 
 - [shinyDataFilter](https://github.com/dgkf/shinyDataFilter) - data-agnostic, shiny-idiomatic filter module
-- [Advanced-R-Solutions](https://github.com/Tazinho/Advanced-R-Solutions) - Set of solutions for the Advanced R programming book
 - [PhishDashboard](https://github.com/MayaGans/PhishDashboard) - Using TheSloth data to create a Phish from TT dashboard
 - [shinyBody](https://github.com/MayaGans/shinyBody) - An SVG clickable body that can be colored using data and returns the clicked on body part
 - [spatialR](https://github.com/asmae-toumi/spatialR) - 
@@ -3322,6 +3324,7 @@
 - [debugr](https://github.com/jsugarelli/debugr) - Debug tool to watch objects/expressions while running an R script
 - [packagefinder](https://github.com/jsugarelli/packagefinder) - Comfortable search for R packages on CRAN, either directly from the R console or with an R Studio add-in
 - [hex-stickers](https://github.com/rstudio/hex-stickers) - RStudio hex stickers
+- [recipes](https://github.com/R-macos/recipes) - System for building static dependent libraries for CRAN packages
 - [bulletchartr](https://github.com/ACDIVOCATech/bulletchartr) - This package builds bullet charts suitable for tracking KPIs, and used by ACDI/VOCA to track progress against indicators
 - [Vizumap](https://github.com/lydialucchesi/Vizumap) - R package for visualizing uncertainty in spatial data
 - [terse](https://github.com/coolbutuseless/terse) - Terse output for nested lists and data.frames
@@ -4623,6 +4626,7 @@
 
 ## Scala 
 
+- [learning-resources](https://github.com/DevInsideYou/learning-resources) - Cheat sheets for all the things
 - [diffy](https://github.com/opendiffy/diffy) - 
 - [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
 - [codacy-coverage-reporter](https://github.com/codacy/codacy-coverage-reporter) - Multi-language coverage reporter for Codacy
@@ -4839,6 +4843,7 @@
 - [yart](https://github.com/sebastiansauer/yart) - RMarkdown Template for writing PDF reports
 - [binb](https://github.com/eddelbuettel/binb) - Binb is not Beamer
 - [knitr-book](https://github.com/yihui/knitr-book) - Dynamic Documents with R and knitr
+- [Advanced-R-Solutions](https://github.com/Tazinho/Advanced-R-Solutions) - Set of solutions for the Advanced R programming book
 - [cphb](https://github.com/pllk/cphb) - Competitive Programmer's Handbook
 - [listdown](https://github.com/kaneplusplus/listdown) - Programmatically create R/Markdown documents from lists.
 - [the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
