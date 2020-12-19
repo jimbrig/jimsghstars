@@ -1643,6 +1643,7 @@
 
 ## Others 
 
+- [obsidian-api](https://github.com/obsidianmd/obsidian-api) - 
 - [templates](https://github.com/kbariotis/templates) - A set of standard document templates.
 - [PrettyWindowsTerminalThings](https://github.com/shanselman/PrettyWindowsTerminalThings) - A place for how to make your Windows Terminal Pretty
 - [shanselman](https://github.com/shanselman/shanselman) - 
@@ -2488,7 +2489,7 @@
 - [ProjectCreationAutomation](https://github.com/eichingertim/ProjectCreationAutomation) - Short script that enables a "create"-command for the command-line to create a new project-folder with a local and remote github repository
 - [commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
 - [diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
-- [core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
+- [core](https://github.com/home-assistant/core) - WE ARE ON HOLIDAY. REVIEWS WILL TAKE A WHILE. HAPPY HOLIDAYS! ✨ :house_with_garden: Open source home automation that puts local control and privacy first
 - [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
 - [sofine](https://github.com/marksweiss/sofine) - Lightweight framework for creating data-collecting plugins and chaining calls to them from CLI, REST or Python to return unified data sets.
@@ -4565,6 +4566,7 @@
 
 ## Rust 
 
+- [obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
 - [anyshortcut-cli](https://github.com/anyshortcut/anyshortcut-cli) - CLI (Commnad line interface) version of Anyshortcut
 - [cli-hex-rgb](https://github.com/Shriram-Balaji/cli-hex-rgb) - A Rust CLI Program to convert hexadecimal color-code to RGB
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
