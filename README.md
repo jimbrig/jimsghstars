@@ -222,7 +222,7 @@
 - [docfx](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects
 - [ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
 - [PSDocs](https://github.com/BernieWhite/PSDocs) - Generate markdown from PowerShell.
-- [jumplist-extender](https://github.com/marcolovescode/jumplist-extender) - A custom Jump List creator for any program on Windows.
+- [jumplist-extender](https://github.com/mazmazz/jumplist-extender) - A custom Jump List creator for any program on Windows.
 - [GitVersion](https://github.com/GitTools/GitVersion) - Easy Semantic Versioning (http://semver.org) for projects using Git
 - [perfview](https://github.com/microsoft/perfview) - PerfView is a CPU and memory performance-analysis tool
 - [PowerGist](https://github.com/lawrencegripper/PowerGist) - An addin for the Powershell ISE to allow quick access, update and creation of Gists
@@ -732,7 +732,7 @@
 - [R](https://github.com/richelbilderbeek/R) - My notes on the R programming language
 - [2020_presentations](https://github.com/rinpharma/2020_presentations) - 
 - [stackoverflow](https://github.com/eddelbuettel/stackoverflow) - Grabbag repo collecting some answers I posted. If only I had started this repo a decade ago...
-- [shinydevseries_site](https://github.com/rpodcast/shinydevseries_site) - Web site for Shiny Developer Series
+- [shinydevseries_site](https://github.com/shinydevseries/shinydevseries_site) - Web site for Shiny Developer Series
 - [git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 - [papis](https://github.com/alejandrogallo/papis) - Powerful and highly extensible command-line based document and bibliography manager.
 - [TiddlyResearch](https://github.com/kebifurai/TiddlyResearch) - Local and Anki-compatible note-taking tool based on TiddlyWiki
@@ -1168,7 +1168,6 @@
 - [realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [de-rse.github.io](https://github.com/DE-RSE/de-rse.github.io) - Web repository
 - [mdnext](https://github.com/domitriusclark/mdnext) - The opinionated ecosystem for MDX powered NextJS apps for blogs, documentation, and more.
-- [programming-notes](https://github.com/WojciechMatuszewski/programming-notes) - Programming notes. About anything really.
 - [todoist-shortcuts](https://github.com/mgsloan/todoist-shortcuts) - Comprehensive keyboard shortcuts for Todoist, via browser extension
 - [dotfiles](https://github.com/Alex-D/dotfiles) - Windows + WSL 2 Ubuntu + Windows Terminal + zsh + p10k + Docker + IntelliJ IDEA
 - [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
@@ -1768,6 +1767,7 @@
 - [Rguides](https://github.com/courtiol/Rguides) - Alternative cheat sheets for R
 - [awesome-reproducible-R](https://github.com/datasnakes/awesome-reproducible-R) - An awesome list of resources for reproducible research in R.  Includes a table of comparison for different tools.
 - [Webdev-Study-Notes](https://github.com/maxx1128/Webdev-Study-Notes) - Notebook on programming, web development, nonfiction, and some fiction (ARCHIVED)
+- [programming-notes](https://github.com/WojciechMatuszewski/programming-notes) - Programming notes. About anything really.
 - [Operating-Systems-Notes](https://github.com/Aniruddha-Tapas/Operating-Systems-Notes) - :books: Compendium of all the important OS concepts and key points. https://applied-programming.github.io/Operating-Systems-Notes/
 - [notes](https://github.com/yang/notes) - Gitit wiki notes on computer science and programming
 - [programming-notes](https://github.com/randyviandaputra/programming-notes) - Semua catatan tentang teknologi dan development 😎
@@ -4640,7 +4640,7 @@
 - [convert-mp4-to-gif](https://github.com/komali2/convert-mp4-to-gif) - Dead simple script to convert all .mp4 files in directory to relatively well proportioned .gif files.
 - [resources](https://github.com/zero-to-mastery/resources) - Here is a list of best resources to get you started with learning how to code (mostly related to Web Development). Feel free to add your favorite  resources as well and help others in their journey of learning.
 - [knowledge](https://github.com/d2s/knowledge) - :cloud: 2016→ — A curated list of Tools and Resources.
-- [ds-toolkit](https://github.com/VasudevGupta7/ds-toolkit) - This repo is having some useful stuff for data scientist related stuff.
+- [ds-toolkit](https://github.com/vasudevgupta7/ds-toolkit) - This repo is having some useful stuff for data scientist related stuff.
 - [adr-tools](https://github.com/npryce/adr-tools) - Command-line tools for working with Architecture Decision Records
 - [heroku-buildpack-r](https://github.com/yonicd/heroku-buildpack-r) - Heroku buildpack for R (http://www.r-project.org)
 - [Debloat](https://github.com/KushagraKarira/Debloat) - Remove ads, bloatware and speed up your device.
