@@ -179,7 +179,7 @@
 - [XTR-Toolbox](https://github.com/Zeeex/XTR-Toolbox) - 🛠 Versatile tool to optimize Windows
 - [cinemadrape-windows](https://github.com/aurelitec/cinemadrape-windows) - Minimize distractions and focus on your current task by blacking out or dimming other screen areas.
 - [Modules](https://github.com/PowerShell/Modules) - 
-- [markdig](https://github.com/lunet-io/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET
+- [markdig](https://github.com/xoofx/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET
 - [Pager](https://github.com/PowerShell/Pager) - Project for console pager, which is published as a NuGet package Microsoft.PowerShell.Pager
 - [PSReadLine](https://github.com/PowerShell/PSReadLine) - A bash inspired readline implementation for PowerShell
 - [PowerShellGet](https://github.com/PowerShell/PowerShellGet) - PowerShellGet is the package manager for PowerShell
@@ -1642,6 +1642,7 @@
 
 ## Others 
 
+- [discord-slash-commands](https://github.com/partycorgi/discord-slash-commands) - slash commands!
 - [obsidian-api](https://github.com/obsidianmd/obsidian-api) - 
 - [templates](https://github.com/kbariotis/templates) - A set of standard document templates.
 - [PrettyWindowsTerminalThings](https://github.com/shanselman/PrettyWindowsTerminalThings) - A place for how to make your Windows Terminal Pretty
@@ -1690,6 +1691,7 @@
 - [CleanmgrPlus](https://github.com/builtbybel/CleanmgrPlus) - 🐾 A Improved Replacement for Microsoft Disk Cleanup
 - [cookiecutter-r-analysis-template](https://github.com/pgcudahy/cookiecutter-r-analysis-template) - Cookiecutter template for R data analysis with jupyter notebooks
 - [rstartup](https://github.com/mcanouil/rstartup) - Tips to start working with R
+- [reproducible_paper_template](https://github.com/jpgmv1998/reproducible_paper_template) - Template repository for starting a new paper project implementing good practices for reproducibility
 - [awesome-cloudbuild](https://github.com/Timtech4u/awesome-cloudbuild) - A curated list of resources about all things Google Cloud Build
 - [world.geo.json](https://github.com/johan/world.geo.json) - Annotated geo-json geometry files for the world
 - [awesome-r-learning-resources](https://github.com/iamericfletcher/awesome-r-learning-resources) - A curated collection of free resources to help deepen your understanding of the R programming language. Updated regularly. Contributions encouraged via pull request (see contributing.md).
@@ -1908,7 +1910,7 @@
 - [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
 - [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome) - :octocat: A a curated list of curated lists of awesome lists.
 - [awesome-charting](https://github.com/zingchart/awesome-charting) - A curated list of the best charting and dataviz resources that developers may find useful, including the best JavaScript charting libraries
-- [awesome-product-design](https://github.com/teoga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
+- [awesome-product-design](https://github.com/matttga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
 - [awesome-api](https://github.com/Kikobeats/awesome-api) - A curated list of awesome resources for design and implement RESTful API's.
 - [search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization) - :mag: A helpful checklist/collection of Search Engine Optimization (SEO) tips and techniques.
 - [awesome-html5](https://github.com/diegocard/awesome-html5) - :memo: A curated list of awesome HTML5 resources
@@ -2563,6 +2565,8 @@
 
 ## R 
 
+- [excalidrawr](https://github.com/timelyportfolio/excalidrawr) - Excalidraw for R
+- [googleway](https://github.com/SymbolixAU/googleway) - R Package for accessing and plotting Google Maps
 - [shinyfullscreen](https://github.com/etiennebacher/shinyfullscreen) - Display HTML Elements on Full Screen in 'Shiny' Apps Using 'Screenfull.js'
 - [usemodels](https://github.com/tidymodels/usemodels) - Boilerplate Code for tidymodels
 - [status](https://github.com/gadenbuie/status) - 
@@ -2679,7 +2683,6 @@
 - [mctemplates](https://github.com/mcanouil/mctemplates) - Mickaël Canouil's Rmarkdown & Rstudio templates
 - [insane](https://github.com/mcanouil/insane) - An Interactive Web Application for Quality Control and Analysis of Insulin Secretion from Pancreatic Beta Cells
 - [rstudio_mybinder_env](https://github.com/franzbischoff/rstudio_mybinder_env) - This is a template environment, pre-configured to run Github Classroom assessments.
-- [reproducible_paper_template](https://github.com/jpgmv1998/reproducible_paper_template) - Template repository for starting a new paper project implementing good practices for reproducibility
 - [template](https://github.com/rOpenGov/template) - rOpenGov minimal package template
 - [project_template](https://github.com/epicentre-msf/project_template) - Everything you need to start a new project, based on Rmarkdown, and publish it as a website
 - [heroku-shiny-app](https://github.com/virtualstaticvoid/heroku-shiny-app) - Example Shiny Application on Heroku
