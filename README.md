@@ -260,6 +260,7 @@
 
 ## C++ 
 
+- [x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows.
 - [MoveToDesktop](https://github.com/Eun/MoveToDesktop) - Move windows using hotkeys or the system menu
 - [named-operator](https://github.com/klmr/named-operator) - Named operators for C++
 - [dotfiles](https://github.com/palikar/dotfiles) - Almost full setup for my Debian system.
@@ -657,6 +658,7 @@
 
 ## HTML 
 
+- [preferably](https://github.com/amirmasoudabdol/preferably) - An accessible template for `pkgdown` websites with dynamic light/dark mode support
 - [htmlvault](https://github.com/dirkschumacher/htmlvault) - Encrypt files in self-decrypting html files using libsodium
 - [wisteria](https://github.com/overtrue/wisteria) - Beautiful document tool for your project.
 - [awesome-resources](https://github.com/lyfeyaj/awesome-resources) - Awesome resources for coding and learning: open source projects, websites, books e.g.
@@ -1431,6 +1433,7 @@
 - [textych](https://github.com/daranzolin/textych) - Create interactive text parallels :page_with_curl: :page_with_curl: :page_with_curl:
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 - [shiny-server](https://github.com/rstudio/shiny-server) - Host Shiny applications over the web.
+- [shinyjster](https://github.com/schloerke/shinyjster) - Run javascript testing which will autokill an app on successful testing
 - [shinycoreci-apps](https://github.com/rstudio/shinycoreci-apps) - Apps for Shiny continuous integration testing
 - [chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [BulmaJS](https://github.com/VizuaaLOG/BulmaJS) - Unofficial javascript extension to the awesome Bulma CSS framework.
@@ -1642,7 +1645,6 @@
 
 ## Others 
 
-- [discord-slash-commands](https://github.com/partycorgi/discord-slash-commands) - slash commands!
 - [obsidian-api](https://github.com/obsidianmd/obsidian-api) - 
 - [templates](https://github.com/kbariotis/templates) - A set of standard document templates.
 - [PrettyWindowsTerminalThings](https://github.com/shanselman/PrettyWindowsTerminalThings) - A place for how to make your Windows Terminal Pretty
@@ -2226,6 +2228,8 @@
 
 ## PowerShell 
 
+- [winsetup](https://github.com/jimbrig/winsetup) - Windows 10 Setup
+- [WindowsSetup](https://github.com/asears/WindowsSetup) - Apps for Windows
 - [CleanWin](https://github.com/pratyakshm/CleanWin) - A community powered project that aims to make Windows 10 better.
 - [virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [windows10-debloat](https://github.com/Daksh777/windows10-debloat) - Collection of various scripts and apps to debloat Windows 10 for better privacy, performance and optimization.
@@ -2298,7 +2302,7 @@
 - [windows](https://github.com/equk/windows) - 💎 tweaks & fixes for windows 10 - mostly powershell
 - [Win10Script](https://github.com/madbomb122/Win10Script) - Win 10 Powershell Script to tweak and change windows settings
 - [scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
-- [Windows-10-Sophia-Script](https://github.com/farag2/Windows-10-Sophia-Script) - A module for fune-tuning Windows 10 LTSC/2004 (20H1)/20H2 (2009)
+- [Windows-10-Sophia-Script](https://github.com/farag2/Windows-10-Sophia-Script) - :zap: A PowerShell module for fune-tuning Windows 10
 - [Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 - [universal-dashboard](https://github.com/ironmansoftware/universal-dashboard) - Build beautiful websites with PowerShell.
 - [Zotero-Obdisian-Picker-Windows](https://github.com/AlexanderSavenkov/Zotero-Obdisian-Picker-Windows) - Allows you to call up a Zotero picker from within Obsidian in Windows 10
@@ -3593,7 +3597,6 @@
 - [pixiedust](https://github.com/nutterb/pixiedust) - Tables So Beautifully Fine-Tuned You Will Believe It's Magic.
 - [shinyapps-package-dependencies](https://github.com/rstudio/shinyapps-package-dependencies) - Collection of bash scripts that install R package system dependencies
 - [IEDA](https://github.com/krupanss/IEDA) - R Package for the Interactive Shiny Application for exploratory data analysis thru visualization
-- [shinyjster](https://github.com/schloerke/shinyjster) - Run javascript testing which will autokill an app on successful testing
 - [distill](https://github.com/rstudio/distill) - Distill for R Markdown
 - [semantic.dashboard](https://github.com/Appsilon/semantic.dashboard) - Quick, beautiful and customizable dashboard template for Shiny based on shiny.semantic and Semantic UI.
 - [iNEXT](https://github.com/JohnsonHsieh/iNEXT) - R package for interpolation and extrapolation
@@ -4569,6 +4572,7 @@
 
 ## Rust 
 
+- [discord-slash-commands](https://github.com/partycorgi/discord-slash-commands) - slash commands!
 - [obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
 - [anyshortcut-cli](https://github.com/anyshortcut/anyshortcut-cli) - CLI (Commnad line interface) version of Anyshortcut
 - [cli-hex-rgb](https://github.com/Shriram-Balaji/cli-hex-rgb) - A Rust CLI Program to convert hexadecimal color-code to RGB
