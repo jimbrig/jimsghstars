@@ -2228,6 +2228,7 @@
 
 ## PowerShell 
 
+- [ZLocation](https://github.com/vors/ZLocation) - ZLocation is the new Jump-Location
 - [winsetup](https://github.com/jimbrig/winsetup) - Windows 10 Setup
 - [WindowsSetup](https://github.com/asears/WindowsSetup) - Apps for Windows
 - [CleanWin](https://github.com/pratyakshm/CleanWin) - A community powered project that aims to make Windows 10 better.
@@ -4234,7 +4235,7 @@
 - [freshdeskr](https://github.com/jjanuszczak/freshdeskr) - R client for Freshdesk
 - [attachment](https://github.com/ThinkR-open/attachment) - Tools to deal with dependencies in scripts, Rmd and packages
 - [shinymetaTest](https://github.com/zappingseb/shinymetaTest) - An example App to test shinyMeta
-- [inspectdf](https://github.com/alastairrushworth/inspectdf) - 📈 📊 Tools for Exploring and Comparing Data Frames
+- [inspectdf](https://github.com/alastairrushworth/inspectdf) - 🛠️ 📊 Tools for Exploring and Comparing Data Frames
 - [dataPreparation](https://github.com/ELToulemonde/dataPreparation) - Data preparation for data science projects.
 - [containerit](https://github.com/o2r-project/containerit) - Package an R workspace and all dependencies as a Docker container
 - [arsenal](https://github.com/mayoverse/arsenal) - An Arsenal of 'R' Functions for Large-Scale Statistical Summaries
