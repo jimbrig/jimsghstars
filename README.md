@@ -279,7 +279,7 @@
 - [Guitar](https://github.com/soramimi/Guitar) - Git GUI Client
 - [winmerge](https://github.com/WinMerge/winmerge) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
 - [mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
-- [PJON](https://github.com/gioblu/PJON) - With PJON you build networks of devices for free with no need of a cloud service or a centralised platform you don’t fully control.
+- [PJON](https://github.com/gioblu/PJON) - With PJON you build networks of devices for free with no need of a cloud service or a centralized platform you don’t fully control.
 - [Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn.
 - [pywin32](https://github.com/mhammond/pywin32) - Python for Windows (pywin32) Extensions
 - [node-packer](https://github.com/pmq20/node-packer) - Packing your Node.js application into a single executable.
@@ -989,6 +989,9 @@
 
 ## JavaScript 
 
+- [cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
+- [date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
+- [lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
 - [mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 - [dime-r-training](https://github.com/worldbank/dime-r-training) - Dime Analytics R Training
@@ -1194,7 +1197,7 @@
 - [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather for your city from your terminal
 - [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations
 - [idea](https://github.com/IonicaBizau/idea) - :bulb: A lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
-- [moro](https://github.com/albacoretuna/moro) - Simple CLI tool for tracking work hours. Note: Heavy changes are happening in this repository. Docs might not be up to date, and things might be broken. Only the released NPM version is stable.
+- [moro](https://github.com/getmoro/moro) - Simple CLI tool for tracking work hours. Note: Heavy changes are happening in this repository. Docs might not be up to date, and things might be broken. Only the released NPM version is stable.
 - [g3l](https://github.com/sahin/g3l) - Git is easy, github cli is easy but g3l easiest git cli in the w0rld!
 - [npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [npm-user-cli](https://github.com/sindresorhus/npm-user-cli) - Get user info of an npm user
@@ -1477,7 +1480,7 @@
 - [shiny-graph](https://github.com/ctlab/shiny-graph) - Graph module for R Shiny
 - [shinyswipr](https://github.com/nstrayer/shinyswipr) - An R Shiny module to put swiping interfaces in your app!
 - [shinyCluster](https://github.com/fxi/shinyCluster) - Node.js module to launch a R Shiny app in multiple workers
-- [sortablejs](https://github.com/SortableJS/sortablejs) - Create and reorder lists with drag-and-drop. For use with modern browsers and touch devices
+- [Sortable](https://github.com/SortableJS/Sortable) - Create and reorder lists with drag-and-drop. For use with modern browsers and touch devices
 - [uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 - [vue2-datepicker](https://github.com/mengxiong10/vue2-datepicker) - A datepicker / datetimepicker component for Vue2
 - [shinypop](https://github.com/dreamRs/shinypop) - Collection of notifications, confirm dialogs and alerts for 'Shiny' applications
@@ -1693,7 +1696,6 @@
 - [CleanmgrPlus](https://github.com/builtbybel/CleanmgrPlus) - 🐾 A Improved Replacement for Microsoft Disk Cleanup
 - [cookiecutter-r-analysis-template](https://github.com/pgcudahy/cookiecutter-r-analysis-template) - Cookiecutter template for R data analysis with jupyter notebooks
 - [rstartup](https://github.com/mcanouil/rstartup) - Tips to start working with R
-- [reproducible_paper_template](https://github.com/jpgmv1998/reproducible_paper_template) - Template repository for starting a new paper project implementing good practices for reproducibility
 - [awesome-cloudbuild](https://github.com/Timtech4u/awesome-cloudbuild) - A curated list of resources about all things Google Cloud Build
 - [world.geo.json](https://github.com/johan/world.geo.json) - Annotated geo-json geometry files for the world
 - [awesome-r-learning-resources](https://github.com/iamericfletcher/awesome-r-learning-resources) - A curated collection of free resources to help deepen your understanding of the R programming language. Updated regularly. Contributions encouraged via pull request (see contributing.md).
@@ -2688,6 +2690,7 @@
 - [mctemplates](https://github.com/mcanouil/mctemplates) - Mickaël Canouil's Rmarkdown & Rstudio templates
 - [insane](https://github.com/mcanouil/insane) - An Interactive Web Application for Quality Control and Analysis of Insulin Secretion from Pancreatic Beta Cells
 - [rstudio_mybinder_env](https://github.com/franzbischoff/rstudio_mybinder_env) - This is a template environment, pre-configured to run Github Classroom assessments.
+- [reproducible_paper_template](https://github.com/jpgmv1998/reproducible_paper_template) - Template repository for starting a new paper project implementing good practices for reproducibility
 - [template](https://github.com/rOpenGov/template) - rOpenGov minimal package template
 - [project_template](https://github.com/epicentre-msf/project_template) - Everything you need to start a new project, based on Rmarkdown, and publish it as a website
 - [heroku-shiny-app](https://github.com/virtualstaticvoid/heroku-shiny-app) - Example Shiny Application on Heroku
@@ -4790,7 +4793,6 @@
 - [rddj-template](https://github.com/grssnbchr/rddj-template) - A template for bootstrapping reproducible RMarkdown documents for data journalistic purposes.
 - [gitflow-avh](https://github.com/petervanderdoes/gitflow-avh) - AVH Edition of the git extensions to provide high-level repository operations for Vincent Driessen's branching model
 - [sysreqsdb](https://github.com/r-hub/sysreqsdb) - SystemRequirements mappings for R packages
-- [dotfiles](https://github.com/strboul/dotfiles) - My dotfiles with a setup script :rocket:
 - [rhub-linux-builders](https://github.com/jcheng5/rhub-linux-builders) - Docker configuration for the Linux builders
 - [professional-programming](https://github.com/luong-komorebi/professional-programming) - A collection of full-stack resources for programmers.
 - [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -5063,6 +5065,7 @@
 - [til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [dotfiles](https://github.com/maxpou/dotfiles) - :computer: my dotfiles (Ubuntu&MacOS)
 - [vim-rif](https://github.com/smbache/vim-rif) - Relative Importing of Files
+- [dotfiles](https://github.com/strboul/dotfiles) - My dotfiles with a setup script :rocket:
 
 ## VimL 
 
