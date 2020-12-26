@@ -108,11 +108,13 @@
 
 ## C 
 
+- [mcwin32](https://github.com/adamyg/mcwin32) - Midnight Commander for Windows
 - [Rsftp](https://github.com/Sage-Bionetworks/Rsftp) - R package for sftp and other ssh-related functionality
 - [sys](https://github.com/jeroen/sys) - Powerful replacements for base::system2
 - [development-references](https://github.com/robenkleene/development-references) - References for programming tools.
 - [longears](https://github.com/atheriel/longears) - A RabbitMQ client for R
 - [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
+- [memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
 - [yori](https://github.com/malxau/yori) - Yori is a CMD replacement shell that supports backquotes, job control, and improves tab completion, file matching, aliases, command history, and more.
 - [colorout](https://github.com/jalvesaq/colorout) - Colorize R output in terminal emulators
 - [HummusJS](https://github.com/galkahana/HummusJS) - Node.js module for high performance creation, modification and parsing of PDF files and streams
@@ -172,6 +174,7 @@
 
 ## C# # 
 
+- [VisualStudio](https://github.com/dariusz-wozniak/VisualStudio) - GitHub Extension for Visual Studio
 - [Start-Menu-Manager](https://github.com/James231/Start-Menu-Manager) - App to add websites/software/files/folders/scripts to the Windows 10 Start Menu and Taskbar, and priority shortcuts to Windows 10 Search.
 - [Win10BloatRemover](https://github.com/Fs00/Win10BloatRemover) - Configurable CLI tool to easily and aggressively debloat and tweak Windows 10 by removing preinstalled UWP apps, services and more. Originally based on the W10 de-botnet guide made by @adolfintel.
 - [bloatbox](https://github.com/builtbybel/bloatbox) - ☑️🌠 Remove Bloatwares from Windows 10
@@ -260,11 +263,11 @@
 
 ## C++ 
 
+- [ConsoleTool](https://github.com/bitcrazed/ConsoleTool) - Handy tools for exploring the Windows Console
 - [x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows.
 - [MoveToDesktop](https://github.com/Eun/MoveToDesktop) - Move windows using hotkeys or the system menu
 - [named-operator](https://github.com/klmr/named-operator) - Named operators for C++
 - [dotfiles](https://github.com/palikar/dotfiles) - Almost full setup for my Debian system.
-- [memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
 - [Reset-Windows-Update-Tool](https://github.com/ManuelGil/Reset-Windows-Update-Tool) - Troubleshooting Tool with Windows Updates (Developed in Dev-C++).
 - [QtSemanticNotes](https://github.com/YoukaiCat/QtSemanticNotes) - QtSemanticNotes is a personal knowledge base, personal wiki or just note taking application that features automatic linking, tree view and tags. Inspired by WikidPad and Zim.
 - [vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
@@ -2230,6 +2233,8 @@
 
 ## PowerShell 
 
+- [PowerShell-Docs](https://github.com/dariusz-wozniak/PowerShell-Docs) - The official PowerShell documentation sources
+- [Chocolatey-Packages](https://github.com/dariusz-wozniak/Chocolatey-Packages) - 🍫 Chocolatey packages
 - [ZLocation](https://github.com/vors/ZLocation) - ZLocation is the new Jump-Location
 - [winsetup](https://github.com/jimbrig/winsetup) - Windows 10 Setup
 - [WindowsSetup](https://github.com/asears/WindowsSetup) - Apps for Windows
@@ -3252,6 +3257,7 @@
 - [testthat_example](https://github.com/MayaGans/testthat_example) - Using Test That with Shiny
 - [golem_demo](https://github.com/MayaGans/golem_demo) - 
 - [shinyDataFilter](https://github.com/dgkf/shinyDataFilter) - data-agnostic, shiny-idiomatic filter module
+- [Advanced-R-Solutions](https://github.com/Tazinho/Advanced-R-Solutions) - Set of solutions for the Advanced R programming book
 - [PhishDashboard](https://github.com/MayaGans/PhishDashboard) - Using TheSloth data to create a Phish from TT dashboard
 - [shinyBody](https://github.com/MayaGans/shinyBody) - An SVG clickable body that can be colored using data and returns the clicked on body part
 - [spatialR](https://github.com/asmae-toumi/spatialR) - 
@@ -4647,6 +4653,8 @@
 
 ## Shell 
 
+- [gitbook-build-publish-action](https://github.com/onejar99/gitbook-build-publish-action) - A GitHub Action to build and publish GitBook.
+- [config](https://github.com/mdo/config) - Personal checklist for setting up a new Mac's dev environment.
 - [docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker
 - [convert-mp4-to-gif](https://github.com/komali2/convert-mp4-to-gif) - Dead simple script to convert all .mp4 files in directory to relatively well proportioned .gif files.
 - [resources](https://github.com/zero-to-mastery/resources) - Here is a list of best resources to get you started with learning how to code (mostly related to Web Development). Feel free to add your favorite  resources as well and help others in their journey of learning.
@@ -4855,7 +4863,6 @@
 - [yart](https://github.com/sebastiansauer/yart) - RMarkdown Template for writing PDF reports
 - [binb](https://github.com/eddelbuettel/binb) - Binb is not Beamer
 - [knitr-book](https://github.com/yihui/knitr-book) - Dynamic Documents with R and knitr
-- [Advanced-R-Solutions](https://github.com/Tazinho/Advanced-R-Solutions) - Set of solutions for the Advanced R programming book
 - [cphb](https://github.com/pllk/cphb) - Competitive Programmer's Handbook
 - [listdown](https://github.com/kaneplusplus/listdown) - Programmatically create R/Markdown documents from lists.
 - [the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
@@ -5014,7 +5021,7 @@
 - [Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
 - [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [aws-appsync-backend](https://github.com/ttoss/aws-appsync-backend) - AWS AppSync client for backend
-- [react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based editors, flow charts and diagrams
+- [react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams
 - [html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [Litepicker](https://github.com/wakirin/Litepicker) - Date range picker - lightweight, no dependencies
 - [gist-box](https://github.com/JasonEtco/gist-box) - 📌📋 A helper class for updating a single-file Gist
