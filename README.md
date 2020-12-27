@@ -347,6 +347,7 @@
 
 ## CSS 
 
+- [typora-panda-theme](https://github.com/gilbertohasnofb/typora-panda-theme) - Panda theme for Typora
 - [12factor](https://github.com/heroku/12factor) - 
 - [shinyMergely](https://github.com/stla/shinyMergely) - A Shiny app allowing to compare and merge two files.
 - [devnotes](https://github.com/kevjose/devnotes) - notes from the journey of a software engineer 🤗
@@ -537,6 +538,8 @@
 
 ## Go 
 
+- [lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
+- [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [gh_fsync](https://github.com/Matt-Gleich/gh_fsync) - 🔄 GitHub action to sync files across repos in GitHub
 - [duck](https://github.com/snwfdhmp/duck) - Create command snippets for repetitive development task. Share them to an online repository system (self hosted options available).
 - [nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
@@ -992,6 +995,8 @@
 
 ## JavaScript 
 
+- [webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) - A CLI dashboard for webpack dev server
+- [pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
@@ -1320,7 +1325,7 @@
 - [nextein](https://github.com/elmasse/nextein) - A static site generator with markdown + react for Next.js
 - [gatsby-advanced-starter](https://github.com/Vagr9K/gatsby-advanced-starter) - A high performance skeleton starter for GatsbyJS that focuses on SEO/Social features/development environment.
 - [gatsby-starter-netlify-cms](https://github.com/netlify-templates/gatsby-starter-netlify-cms) - Example gatsby + netlify cms project
-- [staticman](https://github.com/eduardoboucas/staticman) - 💪  Static sites with superpowers
+- [staticman](https://github.com/eduardoboucas/staticman) - 💪  User-generated content for Git-powered websites
 - [react-static](https://github.com/react-static/react-static) - ⚛️ 🚀 A progressive static site generator for React.
 - [hexo-theme-livemylife](https://github.com/V-Vincen/hexo-theme-livemylife) - 
 - [hexo-deployer-git](https://github.com/hexojs/hexo-deployer-git) - Git deployer plugin for Hexo.
@@ -1363,7 +1368,6 @@
 - [uuid](https://github.com/netnr/uuid) - A decentralized favorites and bookmarks based on Git hosting
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
 - [jbPivot](https://github.com/uniclau/jbPivot) - A simple jQuery pivot table widget
-- [ShinyBlocks](https://github.com/MayaGans/ShinyBlocks) - Using JQuery drag and drop to create an interface tracking the contents of two correlated drop zones
 - [vue-vscode-snippets](https://github.com/sdras/vue-vscode-snippets) - These snippets were built to supercharge my workflow in the most seamless manner possible.
 - [privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
 - [readwise-blog](https://github.com/readwise/readwise-blog) - ReadWise Dev Blog
@@ -2323,6 +2327,8 @@
 
 ## Python 
 
+- [tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
+- [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [gitlint](https://github.com/jorisroovers/gitlint) - Linting for your git commit messages
 - [dotfiles](https://github.com/jbernard/dotfiles) - Dotfile management made easy
 - [great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
@@ -3252,13 +3258,9 @@
 - [mlr3book](https://github.com/mlr-org/mlr3book) - mlr3 manual
 - [funneljoin](https://github.com/robinsones/funneljoin) - Join tables based on events occurring in sequence in a funnel.
 - [ProjectManagement](https://github.com/leonawicz/ProjectManagement) - Project management project
-- [TableGenerator](https://github.com/MayaGans/TableGenerator) - 
-- [dragulaR](https://github.com/MayaGans/dragulaR) - Adding clone to dragulaR
 - [testthat_example](https://github.com/MayaGans/testthat_example) - Using Test That with Shiny
-- [golem_demo](https://github.com/MayaGans/golem_demo) - 
 - [shinyDataFilter](https://github.com/dgkf/shinyDataFilter) - data-agnostic, shiny-idiomatic filter module
 - [Advanced-R-Solutions](https://github.com/Tazinho/Advanced-R-Solutions) - Set of solutions for the Advanced R programming book
-- [PhishDashboard](https://github.com/MayaGans/PhishDashboard) - Using TheSloth data to create a Phish from TT dashboard
 - [shinyBody](https://github.com/MayaGans/shinyBody) - An SVG clickable body that can be colored using data and returns the clicked on body part
 - [spatialR](https://github.com/asmae-toumi/spatialR) - 
 - [jstor](https://github.com/ropensci/jstor) - Import journal data from DfR (JSTOR)
@@ -4582,6 +4584,7 @@
 
 ## Rust 
 
+- [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [discord-slash-commands](https://github.com/partycorgi/discord-slash-commands) - slash commands!
 - [obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
 - [anyshortcut-cli](https://github.com/anyshortcut/anyshortcut-cli) - CLI (Commnad line interface) version of Anyshortcut
@@ -4895,6 +4898,8 @@
 
 ## TypeScript 
 
+- [PicGo-Core](https://github.com/PicGo/PicGo-Core) - :zap:A tool for pictures uploading. Both CLI & API supports.
+- [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [manypkg](https://github.com/Thinkmill/manypkg) - ☔️ An umbrella for your monorepo
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Material Based Cursors 🚀
