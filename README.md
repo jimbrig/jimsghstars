@@ -3775,7 +3775,7 @@
 - [vdiffr](https://github.com/r-lib/vdiffr) - Visual regression testing and graphical diffing with testthat
 - [Rd2roxygen](https://github.com/yihui/Rd2roxygen) - Convert Rd to roxygen documentation
 - [metathis](https://github.com/gadenbuie/metathis) - :information_source: &lt;meta&gt; tags and social media cards for R-made web things
-- [Shiny-GEM](https://github.com/dm3ll3n/Shiny-GEM) - A data analysis web-app written in R Shiny.
+- [Shiny-GEM](https://github.com/clevr-dev/Shiny-GEM) - A data analysis web-app written in R Shiny.
 - [miniUI](https://github.com/rstudio/miniUI) - 
 - [shinyapps_links](https://github.com/mkearney/shinyapps_links) - A collection of Shiny applications (links shared on Twitter)
 - [fcuk](https://github.com/ThinkR-open/fcuk) - A R package designed to help people with clumsy fingers.
@@ -4807,7 +4807,7 @@
 - [rhub-linux-builders](https://github.com/jcheng5/rhub-linux-builders) - Docker configuration for the Linux builders
 - [professional-programming](https://github.com/luong-komorebi/professional-programming) - A collection of full-stack resources for programmers.
 - [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
-- [ShinyStudio](https://github.com/dm3ll3n/ShinyStudio) - A fully Dockerized, self-hosted development environment for teams. Develop where you serve.
+- [ShinyStudio](https://github.com/clevr-dev/ShinyStudio) - A fully Dockerized, self-hosted development environment for teams. Develop where you serve.
 
 ## Stan 
 
