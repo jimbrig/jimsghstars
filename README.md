@@ -413,7 +413,6 @@
 - [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [obsidian](https://github.com/busterbenson/obsidian) - Obsidian Letterpress Notes
 - [paperesque](https://github.com/capnfabs/paperesque) - A lightweight theme for Hugo (gohugo.io)
-- [hexo-theme-Wikitten](https://github.com/zthxxx/hexo-theme-Wikitten) - A theme of Hexo for personal wiki which seems like Wikitten style.
 - [wiki-site](https://github.com/zthxxx/wiki-site) - My personal knowledge management site.
 - [tweet-conf-dash](https://github.com/gadenbuie/tweet-conf-dash) - A shiny twitter conference dashboard
 - [stylestage](https://github.com/5t3ph/stylestage) - A modern CSS showcase styled by community contributions. Add your stylesheet!
@@ -1404,6 +1403,7 @@
 - [mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [Ghost](https://github.com/TryGhost/Ghost) - 👻 The #1 headless Node.js CMS for professional publishing
+- [hexo-theme-Wikitten](https://github.com/zthxxx/hexo-theme-Wikitten) - A theme of Hexo for personal wiki which seems like Wikitten style.
 - [developers-brain](https://github.com/nitishMehrotra/developers-brain) - Building a 🧠 Developers' Brain around People, Tools and every developer's day-to-day workflows.
 - [gatsby-digital-garden](https://github.com/mathieudutour/gatsby-digital-garden) - 🌷 🌻 🌺 Create a digital garden with Gatsby
 - [shinytutorials](https://github.com/davidruvolo51/shinytutorials) - static site for shinyAppTutorials :building_construction:
@@ -1710,7 +1710,7 @@
 - [WindowsTerminalHere](https://github.com/shanselman/WindowsTerminalHere) - a .inf file for a right click Explorer "windows terminal here" for Windows Terminal until it's supported directly
 - [devcomrade](https://github.com/shanselman/devcomrade) - DevComrade - A copy/paste/run productivity improvement utility for developers
 - [bookmarks](https://github.com/BookmarksDev/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.bookmarks.dev
-- [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub
+- [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 - [blog](https://github.com/jtommaney/blog) - notes on parallel analytic operators
 - [template_shinydashboard](https://github.com/jimbrig/template_shinydashboard) - Template for creating a shinydashboard at Tychobra
 - [tools](https://github.com/mkorenkov/tools) - GitHub issues import has moved to other repo
@@ -2314,7 +2314,7 @@
 - [windows](https://github.com/equk/windows) - 💎 tweaks & fixes for windows 10 - mostly powershell
 - [Win10Script](https://github.com/madbomb122/Win10Script) - Win 10 Powershell Script to tweak and change windows settings
 - [scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
-- [Windows-10-Sophia-Script](https://github.com/farag2/Windows-10-Sophia-Script) - :zap: A PowerShell module for fune-tuning Windows 10
+- [Windows-10-Sophia-Script](https://github.com/farag2/Windows-10-Sophia-Script) - :zap: A powerful PowerShell module for fune-tuning Windows 10
 - [Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 - [universal-dashboard](https://github.com/ironmansoftware/universal-dashboard) - Build beautiful websites with PowerShell.
 - [Zotero-Obdisian-Picker-Windows](https://github.com/AlexanderSavenkov/Zotero-Obdisian-Picker-Windows) - Allows you to call up a Zotero picker from within Obsidian in Windows 10
@@ -2378,7 +2378,7 @@
 - [move-my-files](https://github.com/jan25/move-my-files) - mmf is a CLI tool to organise files on your computer
 - [PC-Automation](https://github.com/arturmark/PC-Automation) - Anything what helps to improve productivity with work on PC.
 - [Folder-Organiser](https://github.com/mohitsharmaaa/Folder-Organiser) - Folder Organiser / Desktop Cleaner
-- [Monitoring-Folder](https://github.com/lucioerlan/Monitoring-Folder) - 🐑 Monitor the status of a folder on your system
+- [Monitoring-Files](https://github.com/lucioerlan/Monitoring-Files) - 🐑 Monitor the status of a folder on your system
 - [gitdir](https://github.com/sdushantha/gitdir) - 📁 Download a single directory/folder from a GitHub repo
 - [folder-organizer](https://github.com/ibLeDy/folder-organizer) - Move all the files that match set extensions to a windows-like folder structure
 - [file-sorter](https://github.com/AndriiVal/file-sorter) - This GUI tool will help you to end the chaos of your unorganized files in just a few clicks
@@ -4601,7 +4601,7 @@
 - [kbgen](https://github.com/jmg-duarte/kbgen) - kbgen is a tool to generate Foam knowledge base documents
 - [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
-- [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator
+- [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [wslgit](https://github.com/andy-5/wslgit) - Use Git installed in Bash on Windows/Windows Subsystem for Linux (WSL) from Windows and Visual Studio Code (VSCode)
 - [akri](https://github.com/deislabs/akri) - A Kubernetes Resource Interface for the Edge
 - [espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
@@ -4811,7 +4811,6 @@
 
 ## Stan 
 
-- [The-Value-of-Insurance](https://github.com/rajesh06/The-Value-of-Insurance) - 
 - [ef_yield_curve_generators](https://github.com/ResearchActuary/ef_yield_curve_generators) - 
 
 ## Svelte 
@@ -4866,6 +4865,7 @@
 - [yart](https://github.com/sebastiansauer/yart) - RMarkdown Template for writing PDF reports
 - [binb](https://github.com/eddelbuettel/binb) - Binb is not Beamer
 - [knitr-book](https://github.com/yihui/knitr-book) - Dynamic Documents with R and knitr
+- [The-Value-of-Insurance](https://github.com/rajesh06/The-Value-of-Insurance) - 
 - [cphb](https://github.com/pllk/cphb) - Competitive Programmer's Handbook
 - [listdown](https://github.com/kaneplusplus/listdown) - Programmatically create R/Markdown documents from lists.
 - [the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
