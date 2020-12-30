@@ -174,6 +174,7 @@
 
 ## C# # 
 
+- [chemo](https://github.com/t-richards/chemo) - Remove pre-installed junk from Windows 10.
 - [VisualStudio](https://github.com/dariusz-wozniak/VisualStudio) - GitHub Extension for Visual Studio
 - [Start-Menu-Manager](https://github.com/James231/Start-Menu-Manager) - App to add websites/software/files/folders/scripts to the Windows 10 Start Menu and Taskbar, and priority shortcuts to Windows 10 Search.
 - [Win10BloatRemover](https://github.com/Fs00/Win10BloatRemover) - Configurable CLI tool to easily and aggressively debloat and tweak Windows 10 by removing preinstalled UWP apps, services and more. Originally based on the W10 de-botnet guide made by @adolfintel.
@@ -347,6 +348,7 @@
 
 ## CSS 
 
+- [obsidian-charts](https://github.com/phibr0/obsidian-charts) - Charts - Obsidian Plugin
 - [typora-panda-theme](https://github.com/gilbertohasnofb/typora-panda-theme) - Panda theme for Typora
 - [12factor](https://github.com/heroku/12factor) - 
 - [shinyMergely](https://github.com/stla/shinyMergely) - A Shiny app allowing to compare and merge two files.
@@ -502,6 +504,7 @@
 
 ## Dockerfile 
 
+- [docker_scripts](https://github.com/icolwell/docker_scripts) - This repo contains the Dockerfiles for the images hosted on my dockerhub
 - [r-dockerfiles](https://github.com/robertdj/r-dockerfiles) - Dockerfiles for R
 - [rlang-shiny-oci-docker](https://github.com/ericsgagnon/rlang-shiny-oci-docker) - Multi-stage docker build to extend rocker/shiny-verse with oracle oci
 - [coeos](https://github.com/mcanouil/coeos) - My own Docker image
@@ -537,6 +540,12 @@
 
 ## Go 
 
+- [dignore](https://github.com/orisano/dignore) - dockerignore generator for monorepo
+- [includeimage](https://github.com/bergkvist/includeimage) - Dockerfile syntax extension for combining multiple Docker images into one. (INCLUDE &lt;image&gt;)
+- [castage](https://github.com/orisano/castage) - castage is multi-stage builds helper for caching
+- [targd](https://github.com/orisano/targd) - targd is multistage build helper
+- [machine](https://github.com/docker/machine) - Machine management for a container-centric world
+- [docker-registry-pruner](https://github.com/tumblr/docker-registry-pruner) - Tool to apply retention logic to docker images in a Docker Registry
 - [lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [gh_fsync](https://github.com/Matt-Gleich/gh_fsync) - 🔄 GitHub action to sync files across repos in GitHub
@@ -966,6 +975,7 @@
 
 ## Java 
 
+- [jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [openemm](https://github.com/agnitas-org/openemm) - Web-based software for email automation and marketing (newsletters, mutli-stage mail campaigns, transaction mails, autoresponder, etc.)
 - [Learning-Resources](https://github.com/GDGAhmedabad/Learning-Resources) - "Technology Gold mine" to collect and share materials/resources
 - [zttl-client](https://github.com/cokeSchlumpf/zttl-client) - Zettels is a note taking application written with JavaFX. It follows the principles Niklas Luhman's Zettelkasten.
@@ -1123,7 +1133,6 @@
 - [github-star-stats](https://github.com/zerosoul/github-star-stats) - awesome GitHub repo star statistics generator
 - [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [lovely-forks](https://github.com/musically-ut/lovely-forks) - 💚 🍴 Show notable forks of GitHub repositories under their names.
-- [cm-show-whitespace-obsidian](https://github.com/deathau/cm-show-whitespace-obsidian) - A plugin for [Obsidian](https://obsidian.md) which shows whitespace in the editor.
 - [stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
@@ -1655,6 +1664,9 @@
 
 ## Others 
 
+- [future-kubernetes](https://github.com/paciorek/future-kubernetes) - Instructions for setting up and using a Kubernetes cluster for running R in parallel using the future package.
+- [awesome-appimage](https://github.com/AppImage/awesome-appimage) - Lovingly crafted AppImage tools and resources
+- [reproducible-science](https://github.com/oliviergimenez/reproducible-science) - material for teaching reproducible science with R and RStudio
 - [obsidian-api](https://github.com/obsidianmd/obsidian-api) - 
 - [templates](https://github.com/kbariotis/templates) - A set of standard document templates.
 - [PrettyWindowsTerminalThings](https://github.com/shanselman/PrettyWindowsTerminalThings) - A place for how to make your Windows Terminal Pretty
@@ -2065,7 +2077,6 @@
 - [ComputerToolbox](https://github.com/twinysam/ComputerToolbox) - A list of some of my favorite and essential computer programs
 - [Favorites](https://github.com/hanzheteng/Favorites) - My favorites about WORK, LIFE and ACADEMIC STUDY, including software, websites, books, etc.
 - [Awesome-Painless-SaaS-Starter-Kit](https://github.com/danpalmieri/Awesome-Painless-SaaS-Starter-Kit) - An opinionated list to help you boost the growth of your next startup.
-- [FavouriteProjects](https://github.com/MinecraftFuns/FavouriteProjects) - My favourite projects.
 - [favorites-links](https://github.com/damoclesgil/favorites-links) - ⭐️ My Awesome Favorites List
 - [favs](https://github.com/mareksuscak/favs) - 📚 A curated collection of great resources I stumbled upon throughout my career.
 - [markdown-cheatsheet](https://github.com/tchapi/markdown-cheatsheet) - Markdown Cheatsheet for Github Readme.md
@@ -2237,6 +2248,8 @@
 
 ## PowerShell 
 
+- [Remove-Win10-Apps](https://github.com/Digressive/Remove-Win10-Apps) - Customisable Windows 10 app removal utility
+- [W10-Cleanser](https://github.com/Carlmundo/W10-Cleanser) - Remove advertising, disable data collection, annoying notifications, default apps and more. Ideal for fresh installs of Windows 10 and those looking to purify their current installation.
 - [PowerShell-Docs](https://github.com/dariusz-wozniak/PowerShell-Docs) - The official PowerShell documentation sources
 - [Chocolatey-Packages](https://github.com/dariusz-wozniak/Chocolatey-Packages) - 🍫 Chocolatey packages
 - [ZLocation](https://github.com/vors/ZLocation) - ZLocation is the new Jump-Location
@@ -2327,6 +2340,7 @@
 
 ## Python 
 
+- [docker-registry-manifest-cleanup](https://github.com/mortensteenrasmussen/docker-registry-manifest-cleanup) - Cleans up docker registry by removing untagged manifests from the registry
 - [tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
 - [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [gitlint](https://github.com/jorisroovers/gitlint) - Linting for your git commit messages
@@ -2350,7 +2364,7 @@
 - [slipbox](https://github.com/lggruspe/slipbox) - A static site generator for Zettelkasten notes
 - [memex](https://github.com/djplaner/memex) - Nascent attempt at using Foam to curate and leverage a personal memex
 - [promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
-- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize any software project as a database of reusable components and micro-services with common APIs, automation actions and extensible meta descriptions. See real-world use cases from MLPerf, Arm, General Motors, IBM, Raspberry Pi and ACM:
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize any software project as a database of reusable components and micro-services with common APIs, automation actions and extensible meta descriptions. See real-world use cases from Arm, General Motors, ACM, Raspberry Pi foundation and others:
 - [classifier](https://github.com/bhrigu123/classifier) - Organize files in your directory instantly, by classifying them into different folders
 - [gittagstats](https://github.com/mcharleb/gittagstats) - 
 - [ansible-tools](https://github.com/jctanner/ansible-tools) - 
@@ -2583,6 +2597,10 @@
 
 ## R 
 
+- [r4ds-over-docker](https://github.com/f0nzie/r4ds-over-docker) - Book r4ds with Dockerfile to build it with Docker
+- [whaler](https://github.com/uncoast-unconf/whaler) - A package for interfacing with Docker from RStudio, including generating dockerfiles and allowing users to build/push/tag/run docker images.
+- [docker-rserve](https://github.com/ftrianakast/docker-rserve) - Dockerfile for build a Rserve
+- [r-minimal](https://github.com/rexyai/r-minimal) - Minimal Docker images for R
 - [excalidrawr](https://github.com/timelyportfolio/excalidrawr) - Excalidraw for R
 - [googleway](https://github.com/SymbolixAU/googleway) - R Package for accessing and plotting Google Maps
 - [shinyfullscreen](https://github.com/etiennebacher/shinyfullscreen) - Display HTML Elements on Full Screen in 'Shiny' Apps Using 'Screenfull.js'
@@ -3260,7 +3278,6 @@
 - [ProjectManagement](https://github.com/leonawicz/ProjectManagement) - Project management project
 - [testthat_example](https://github.com/MayaGans/testthat_example) - Using Test That with Shiny
 - [shinyDataFilter](https://github.com/dgkf/shinyDataFilter) - data-agnostic, shiny-idiomatic filter module
-- [Advanced-R-Solutions](https://github.com/Tazinho/Advanced-R-Solutions) - Set of solutions for the Advanced R programming book
 - [shinyBody](https://github.com/MayaGans/shinyBody) - An SVG clickable body that can be colored using data and returns the clicked on body part
 - [spatialR](https://github.com/asmae-toumi/spatialR) - 
 - [jstor](https://github.com/ropensci/jstor) - Import journal data from DfR (JSTOR)
@@ -4656,6 +4673,8 @@
 
 ## Shell 
 
+- [DockerSimpleDemo](https://github.com/dockerfornovices/DockerSimpleDemo) - A small set of examples to introduce the very basics of Docker
+- [shell-scripts](https://github.com/yangwenmai/shell-scripts) - my docker docker-compose kubernetes shell start/stop/delete/cleanup ... scripts
 - [gitbook-build-publish-action](https://github.com/onejar99/gitbook-build-publish-action) - A GitHub Action to build and publish GitBook.
 - [config](https://github.com/mdo/config) - Personal checklist for setting up a new Mac's dev environment.
 - [docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker
@@ -4866,6 +4885,7 @@
 - [binb](https://github.com/eddelbuettel/binb) - Binb is not Beamer
 - [knitr-book](https://github.com/yihui/knitr-book) - Dynamic Documents with R and knitr
 - [The-Value-of-Insurance](https://github.com/rajesh06/The-Value-of-Insurance) - 
+- [Advanced-R-Solutions](https://github.com/Tazinho/Advanced-R-Solutions) - Set of solutions for the Advanced R programming book
 - [cphb](https://github.com/pllk/cphb) - Competitive Programmer's Handbook
 - [listdown](https://github.com/kaneplusplus/listdown) - Programmatically create R/Markdown documents from lists.
 - [the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
@@ -4898,6 +4918,8 @@
 
 ## TypeScript 
 
+- [action-docker-layer-caching](https://github.com/satackey/action-docker-layer-caching) - 🐳  Enable Docker layer caching in GitHub Actions
+- [privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, because privacy is sexy 🍑🍆
 - [PicGo-Core](https://github.com/PicGo/PicGo-Core) - :zap:A tool for pictures uploading. Both CLI & API supports.
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [manypkg](https://github.com/Thinkmill/manypkg) - ☔️ An umbrella for your monorepo
@@ -4956,6 +4978,7 @@
 - [sao](https://github.com/saojs/sao) - ⚔ Futuristic scaffolding tool
 - [random-starred-repo](https://github.com/LaksCastro/random-starred-repo) - 💡 A tiny website to open random repositories that you starred, available in: https://lakscastro.github.io/random-starred-repo
 - [note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) - Allows for text selections to be copied (refactored) into new notes and notes to be split into other notes.
+- [cm-show-whitespace-obsidian](https://github.com/deathau/cm-show-whitespace-obsidian) - A plugin for [Obsidian](https://obsidian.md) which shows whitespace in the editor.
 - [obsidian-url-into-selection](https://github.com/denolehov/obsidian-url-into-selection) - Paste URLs into selected text "notion style"
 - [obsidian-text-expand](https://github.com/mrjackphil/obsidian-text-expand) - A simple text expand plugin for Obsidian.md
 - [slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
@@ -5056,6 +5079,7 @@
 
 ## VBA 
 
+- [hijackthis](https://github.com/dragokas/hijackthis) - A free utility that finds malware, adware and other security threats
 - [xl-macros](https://github.com/jimbrig/xl-macros) - My Personal Excel Workbook's Macros
 
 ## Vim script 
