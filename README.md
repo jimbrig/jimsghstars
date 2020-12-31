@@ -93,6 +93,8 @@
 
 ## Batchfile 
 
+- [cygwin-portable](https://github.com/zhubanRuban/cygwin-portable) - CygWin/ConEmu Portable Installer/Updater
+- [wsl-proxy](https://github.com/watzon/wsl-proxy) - WSL proxy files for editor/linux interop
 - [Windows10Tools](https://github.com/L33Tech/Windows10Tools) - Tools for Windows 10
 - [Script-Reset-Windows-Update-Tool](https://github.com/ManuelGil/Script-Reset-Windows-Update-Tool) - This script reset the Windows Update Components.
 - [batchfiles](https://github.com/ggrothendieck/batchfiles) - Automatically exported from code.google.com/p/batchfiles
@@ -108,6 +110,9 @@
 
 ## C 
 
+- [wsl2exe](https://github.com/yuk7/wsl2exe) - [TESTING]Use command in WSL from exe executable
+- [wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
+- [doslinux](https://github.com/charliesome/doslinux) - Run Linux programs on DOS
 - [mcwin32](https://github.com/adamyg/mcwin32) - Midnight Commander for Windows
 - [Rsftp](https://github.com/Sage-Bionetworks/Rsftp) - R package for sftp and other ssh-related functionality
 - [sys](https://github.com/jeroen/sys) - Powerful replacements for base::system2
@@ -174,6 +179,11 @@
 
 ## C# # 
 
+- [WslQuery](https://github.com/wslhub/WslQuery) - This program is a utility that reads the internal information of Windows Subsystem for Linux from the system and outputs the data to a standard output device in JSON format.
+- [WslShortcut](https://github.com/HanabishiRecca/WslShortcut) - Run WSL commands directly in Windows. Also allows to use WSL git/node/etc. in Visual Studio Code or another software.
+- [WslManager](https://github.com/wslhub/WslManager) - .NET Core and non-designer based WSL Manager
+- [memealyzer](https://github.com/jongio/memealyzer) - Memealyzer is an app built to demonstrate some the latest and greatest Azure tech to dev, debug, and deploy microservice applications.
+- [dotnet-vcxproj](https://github.com/roozbehid/dotnet-vcxproj) - Enabling "dotnet build" to compile and build C/C++ projects. MSBuild task for compiling Visual Studio C/C++ projects (.vcxproj) with your choice of compiler on Linux or Windows or Mac!
 - [chemo](https://github.com/t-richards/chemo) - Remove pre-installed junk from Windows 10.
 - [VisualStudio](https://github.com/dariusz-wozniak/VisualStudio) - GitHub Extension for Visual Studio
 - [Start-Menu-Manager](https://github.com/James231/Start-Menu-Manager) - App to add websites/software/files/folders/scripts to the Windows 10 Start Menu and Taskbar, and priority shortcuts to Windows 10 Search.
@@ -264,6 +274,13 @@
 
 ## C++ 
 
+- [bashground](https://github.com/tmyt/bashground) - Keep WLS (Bash on Windows) instance in background.
+- [runnix](https://github.com/npyl/runnix) - Run linux executables or scripts from withing Windows without opening Bash
+- [paste](https://github.com/neosmart/paste) - A Windows utility that simply dumps the clipboard data to stdout
+- [WSL-Context-Menu-Manager](https://github.com/repelliuss/WSL-Context-Menu-Manager) - Manages the context menu for your Linux tools in WSL/WSL2 using on Windows.
+- [windows-fido-bridge](https://github.com/mgbowen/windows-fido-bridge) - An OpenSSH SK middleware that allows you to use a FIDO/U2F security key (e.g. a YubiKey) to SSH into a remote server from WSL.
+- [miniwsl](https://github.com/0xbadfca11/miniwsl) - Mini Windows Subsystem for Linux Distribution
+- [RunInBash](https://github.com/neosmart/RunInBash) - Run Linux commands under WSL without leaving your PowerShell or CMD!
 - [ConsoleTool](https://github.com/bitcrazed/ConsoleTool) - Handy tools for exploring the Windows Console
 - [x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows.
 - [MoveToDesktop](https://github.com/Eun/MoveToDesktop) - Move windows using hotkeys or the system menu
@@ -348,6 +365,8 @@
 
 ## CSS 
 
+- [resources](https://github.com/jimbrig/resources) - 
+- [WSL_Windows_Terminal](https://github.com/tautomer/WSL_Windows_Terminal) - A full guide on how to set up WSL/WSL2 and use Windows Terminal or Terminator as the terminal emulator. Some tricky X11 configuration is also included.
 - [obsidian-charts](https://github.com/phibr0/obsidian-charts) - Charts - Obsidian Plugin
 - [typora-panda-theme](https://github.com/gilbertohasnofb/typora-panda-theme) - Panda theme for Typora
 - [12factor](https://github.com/heroku/12factor) - 
@@ -540,6 +559,9 @@
 
 ## Go 
 
+- [wsl-ssh-pageant](https://github.com/NZSmartie/wsl-ssh-pageant) - A Pageant bridge for WSL, enabling ssh-ageants to talk to to PuTTY Pagent or GnuPG for Windows
+- [wsl-ssh-agent](https://github.com/rupor-github/wsl-ssh-agent) - Helper to interface with Windows ssh-agent.exe service from Windows Subsystem for Linux (WSL)
+- [wsl-ssh-pageant](https://github.com/benpye/wsl-ssh-pageant) - A Pageant -&gt; TCP bridge for use with WSL, allowing for Pageant to be used as an ssh-ageant within the WSL environment.
 - [dignore](https://github.com/orisano/dignore) - dockerignore generator for monorepo
 - [includeimage](https://github.com/bergkvist/includeimage) - Dockerfile syntax extension for combining multiple Docker images into one. (INCLUDE &lt;image&gt;)
 - [castage](https://github.com/orisano/castage) - castage is multi-stage builds helper for caching
@@ -672,6 +694,7 @@
 
 ## HTML 
 
+- [til](https://github.com/Jeonghun-Ban/til) - Today I Learned 🔥
 - [preferably](https://github.com/amirmasoudabdol/preferably) - An accessible template for `pkgdown` websites with dynamic light/dark mode support
 - [htmlvault](https://github.com/dirkschumacher/htmlvault) - Encrypt files in self-decrypting html files using libsodium
 - [wisteria](https://github.com/overtrue/wisteria) - Beautiful document tool for your project.
@@ -1004,6 +1027,7 @@
 
 ## JavaScript 
 
+- [WSL-manager](https://github.com/JonaszPotoniec/WSL-manager) - unofficial gui manager for Windows Subsystem for Linux (WSL)
 - [webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) - A CLI dashboard for webpack dev server
 - [pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
@@ -1141,7 +1165,7 @@
 - [loouislow81.github.io](https://github.com/loouislow81/loouislow81.github.io) - My personal and portfolio website built with Krugurt.js (Krugurt.js + Yogurt.css)
 - [publish-devto](https://github.com/sinedied/publish-devto) - :postbox: GitHub Action to publish markdown files on dev.to platform, with assets hosted on GitHub.
 - [headless-recorder](https://github.com/checkly/headless-recorder) - Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.
-- [docable-notebooks](https://github.com/ottomatica/docable-notebooks) - 
+- [docable-notebooks](https://github.com/ottomatica/docable-notebooks) - :ledger: Next-Generation Interactive Notebooks
 - [wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
 - [chrome-wakatime](https://github.com/wakatime/chrome-wakatime) - Chrome extension for automatic time tracking and metrics generated from your browsing activity.
 - [electron-learn-project](https://github.com/khaosdoctor/electron-learn-project) - Simple electron project to learn the framework
@@ -1183,7 +1207,6 @@
 - [dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [github-selfies](https://github.com/thieman/github-selfies) - Everything is better with selfies. Yes, even pull requests. Trust me.
 - [gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
-- [archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
 - [organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 - [ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
@@ -1664,6 +1687,16 @@
 
 ## Others 
 
+- [github-actions-wsl](https://github.com/TomasHubelbauer/github-actions-wsl) - Seeing if it is possible to use WSL in Windows based GitHub Actions agents
+- [wsl_docs](https://github.com/jacking75/wsl_docs) - WSL 관련 문서
+- [swift-on-windows](https://github.com/yazdipour/swift-on-windows) - Swift on Windows
+- [wsl-vagrant-hyperv-setup](https://github.com/deluxebrain/wsl-vagrant-hyperv-setup) - Vagrant via Hyper-V within WSL
+- [unix-under-windows](https://github.com/rse/unix-under-windows) - Unix Environment under Windows
+- [Ansible-WSL](https://github.com/Wintus/Ansible-WSL) - Provisioning your Windows from inside of WSL by Ansible
+- [bash-zsh-on-windows-cmder](https://github.com/hirenchauhan2/bash-zsh-on-windows-cmder) - Integration of Bash, ZSH on Windows with Cmder
+- [WSL-Guideline](https://github.com/iWangJiaxiang/WSL-Guideline) - WSL(Windows Subsystem for Linux) Guideline / WSL 使用指南
+- [my-wsl-setup](https://github.com/lloydstubber/my-wsl-setup) - Quick rundown on my current setup on the Windows Subsystem for Linux.
+- [dowww](https://github.com/spencerwooo/dowww) - 📟 Dev on Windows with WSL | 在 Windows 上用 WSL 优雅开发
 - [future-kubernetes](https://github.com/paciorek/future-kubernetes) - Instructions for setting up and using a Kubernetes cluster for running R in parallel using the future package.
 - [awesome-appimage](https://github.com/AppImage/awesome-appimage) - Lovingly crafted AppImage tools and resources
 - [reproducible-science](https://github.com/oliviergimenez/reproducible-science) - material for teaching reproducible science with R and RStudio
@@ -2022,7 +2055,7 @@
 - [awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) - A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.
 - [awesome-productivity](https://github.com/KevinColemanInc/awesome-productivity) - 
 - [awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) - A curated list of delightful productivity resources.
-- [web-development-2020-course-list](https://github.com/andrews1022/web-development-2020-course-list) - A list of Udemy courses from Brad Traversy's Web Development 2020 video
+- [web-development-2021-course-list](https://github.com/andrews1022/web-development-2021-course-list) - A list of Udemy courses from Brad Traversy's Web Development 2021 video
 - [awesome-github-badges](https://github.com/chetanraj/awesome-github-badges) - A curated list of awesome github README.md badges
 - [awesome-hacking-lists](https://github.com/udpsec/awesome-hacking-lists) - Project transferred to: https://github.com/taielab/awesome-hacking-lists
 - [Awesome-Security-Gists](https://github.com/Hack-with-Github/Awesome-Security-Gists) - A collection of various GitHub gists for hackers, pentesters and security researchers
@@ -2217,6 +2250,7 @@
 
 ## PHP 
 
+- [wslpath](https://github.com/laurent22/wslpath) - wslpath - Converts Unix and Windows format paths in WSL
 - [skrub](https://github.com/ssx/skrub) - A package to remove junk from Composer installations and trim build sizes.
 - [project-cli](https://github.com/chriha/project-cli) - Project and environment management in your terminal
 - [SEO-Helper](https://github.com/ARCANEDEV/SEO-Helper) - :mag: SEO Helper is a package that provides tools and helpers for SEO (Search Engine Optimization).
@@ -2248,6 +2282,13 @@
 
 ## PowerShell 
 
+- [solarized-dark-for-wsl](https://github.com/nsilvestri/solarized-dark-for-wsl) - Changes the color theme of the WSL terminal to Solarized Dark.
+- [kubernetes_hyperv](https://github.com/EtienneDeneuve/kubernetes_hyperv) - Quick setup of a K8S Cluster in Hyper V server
+- [Windows-Boxstarter-with-WSL-Ubuntu](https://github.com/treffynnon/Windows-Boxstarter-with-WSL-Ubuntu) - My Windows Boxstarter with WSL (Ubuntu)
+- [wsl](https://github.com/KNOXDEV/wsl) - A scoop bucket for Window Subsystem for Linux distros. No Windows Store necessary. mirror of: https://git.irs.sh/KNOXDEV/wsl
+- [easyWSL](https://github.com/redcode-labs/easyWSL) - Powershell script to install custom WSL distro using Docker easily.
+- [kubernetes-for-windows](https://github.com/ptylenda/kubernetes-for-windows) - Ansible playbooks and Packer templates for creating hybrid Windows/Linux Kubernetes 1.10+ cluster with experimental Flannel pod network (host-gw backend)
+- [webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
 - [Remove-Win10-Apps](https://github.com/Digressive/Remove-Win10-Apps) - Customisable Windows 10 app removal utility
 - [W10-Cleanser](https://github.com/Carlmundo/W10-Cleanser) - Remove advertising, disable data collection, annoying notifications, default apps and more. Ideal for fresh installs of Windows 10 and those looking to purify their current installation.
 - [PowerShell-Docs](https://github.com/dariusz-wozniak/PowerShell-Docs) - The official PowerShell documentation sources
@@ -2340,6 +2381,10 @@
 
 ## Python 
 
+- [wsl-path-converter](https://github.com/lamyj/wsl-path-converter) - Convert between Linux and Windows path in WSL
+- [wsltty-launcher](https://github.com/riag/wsltty-launcher) - launch Mintty as a terminal for WSL Linux
+- [wsl-guide](https://github.com/not-kennethreitz/wsl-guide) - The Hitchhiker's Guide to Bash on Ubuntu on Windows!
+- [wsl-windows-toolbar-launcher](https://github.com/cascadium/wsl-windows-toolbar-launcher) - Adds linux GUI application menu to a windows toolbar
 - [docker-registry-manifest-cleanup](https://github.com/mortensteenrasmussen/docker-registry-manifest-cleanup) - Cleans up docker registry by removing untagged manifests from the registry
 - [tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
 - [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
@@ -2459,6 +2504,7 @@
 - [Raven-coding](https://github.com/Rilfanayasmin/Raven-coding) - Practice programming with R and Python on all data science algorithms
 - [rinse](https://github.com/datasnakes/rinse) - A configurable installer CLI for installing R from source   (sudo and non-sudo).
 - [gita](https://github.com/nosarthur/gita) - Manage many git repos with sanity 从容管理多个git库
+- [archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.
 - [hatch](https://github.com/ofek/hatch) - A modern project, package, and virtual env manager for Python
 - [git-imerge](https://github.com/mhagger/git-imerge) - Incremental merge for git
 - [repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images
@@ -2597,6 +2643,7 @@
 
 ## R 
 
+- [rstudio-global-2021-program](https://github.com/rstudio/rstudio-global-2021-program) - 
 - [r4ds-over-docker](https://github.com/f0nzie/r4ds-over-docker) - Book r4ds with Dockerfile to build it with Docker
 - [whaler](https://github.com/uncoast-unconf/whaler) - A package for interfacing with Docker from RStudio, including generating dockerfiles and allowing users to build/push/tag/run docker images.
 - [docker-rserve](https://github.com/ftrianakast/docker-rserve) - Dockerfile for build a Rserve
@@ -4601,6 +4648,10 @@
 
 ## Rust 
 
+- [wslscript](https://github.com/sop/wslscript) - Associate .sh script files with WSL.
+- [wsl-agent-bridge](https://github.com/reynoldsbd/wsl-agent-bridge) - WSL compatibility bridge for ssh-agent on Windows
+- [subsystemctl](https://github.com/sorah/subsystemctl) - Utility to run systemd in WSL2 with a Linux namespace
+- [WSL-Hello-sudo](https://github.com/nullpo-head/WSL-Hello-sudo) - Let's sudo by face recognition of Windows Hello on Windows Subsystem for Linux (WSL). It runs on both WSL 1 and WSL 2. This is a PAM module for Linux on WSL.
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [discord-slash-commands](https://github.com/partycorgi/discord-slash-commands) - slash commands!
 - [obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
@@ -4673,6 +4724,26 @@
 
 ## Shell 
 
+- [shcrt](https://github.com/Depau/shcrt) - Shell script to replace SecureCRT/FX
+- [dotfiles](https://github.com/algono/dotfiles) - My dotfiles for Ubuntu (WSL 2)
+- [dotfiles](https://github.com/ColinPeyrat/dotfiles) - 🏡 My Windows environment setup
+- [.dotfiles](https://github.com/notlmn/.dotfiles) - 🧰 Some random persons dotfiles repository
+- [lxss-install-zeppelin](https://github.com/x4ax/lxss-install-zeppelin) - Step by step guide on how to install Zeppelin 0.7.3 on Linux subsystem (WSL) for Windows 10
+- [WSL-Being-Productive-Under-Corporate-Restrictive-Policy](https://github.com/Menziess/WSL-Being-Productive-Under-Corporate-Restrictive-Policy) - Installing WSL (Windows Subsystem for Linux) under corporate restrictions such as Windows Store blocked, executable downloading blocked, network access blocked.
+- [win10andwsldev](https://github.com/kdcllc/win10andwsldev) - Windows 10 and Windows Linux Subsystem Development Setup
+- [dotfiles](https://github.com/NikiforovAll/dotfiles) - allows to bootstrap dev environment ⚙
+- [dotfiles](https://github.com/wafflepie/dotfiles) - 🧰 Handcrafted dotfiles for web developers running Ubuntu for WSL. Ridiculously easy to set up, maintain, and extend.
+- [dotfiles](https://github.com/neersighted/dotfiles) - ~/.dotfiles
+- [slinky](https://github.com/cpdt/slinky) - Run Bash commands from Windows Command Prompt, natively!
+- [wsl-docker-git-setup](https://github.com/jmaxwilson/wsl-docker-git-setup) - Shell script to configure Windows Subsystem for Linux (WSL) & Ubuntu on Windows to use docker and docker-compose as well as a git-enabled prompt
+- [oh-my-zsh-on-windows-terminal](https://github.com/ErickRock/oh-my-zsh-on-windows-terminal) - Utilizando terminal Linux de forma nativa no Windows 10 - WSL 2
+- [ubuntu-win-bootstrap](https://github.com/seapagan/ubuntu-win-bootstrap) - A very simple bootstrap script to install some development tools to the Windows 10 Ubuntu Bash system - Ruby, Perl, Python, Node, Sublime Text and more!
+- [portabledevops](https://github.com/robertluwang/portabledevops) - A portable devops tool set on windows, easy customization of cmder/console+msys2/cygwin/wsl
+- [runx](https://github.com/mviereck/runx) - Provide X server on MS Windows with cookie authentication.
+- [winbuntu](https://github.com/serialphotog/winbuntu) - Makes creating and managing a Linux environment through the Windows 10 WSL easy
+- [wslgit](https://github.com/hangxingliu/wslgit) - :candy: Use Git installed in WSL(Windows Subsystem for Linux) from Windows and Visual Studio Code
+- [wsl-open](https://github.com/4U6U57/wsl-open) - Open files with xdg-open on Bash for Windows in Windows applications. Read only mirror from GitLab, see link :point_right:
+- [wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows 10 Linux Subsystems
 - [DockerSimpleDemo](https://github.com/dockerfornovices/DockerSimpleDemo) - A small set of examples to introduce the very basics of Docker
 - [shell-scripts](https://github.com/yangwenmai/shell-scripts) - my docker docker-compose kubernetes shell start/stop/delete/cleanup ... scripts
 - [gitbook-build-publish-action](https://github.com/onejar99/gitbook-build-publish-action) - A GitHub Action to build and publish GitBook.
@@ -4918,6 +4989,7 @@
 
 ## TypeScript 
 
+- [uniterm](https://github.com/JLChnToZ/uniterm) - 🚧Universal Terminal Emulator, might be a great toy terminal front-end for geeks.
 - [action-docker-layer-caching](https://github.com/satackey/action-docker-layer-caching) - 🐳  Enable Docker layer caching in GitHub Actions
 - [privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, because privacy is sexy 🍑🍆
 - [PicGo-Core](https://github.com/PicGo/PicGo-Core) - :zap:A tool for pictures uploading. Both CLI & API supports.
@@ -5084,6 +5156,7 @@
 
 ## Vim script 
 
+- [WSL-config](https://github.com/hsab/WSL-config) - CS 4400 - Step by step guide for using WSL and Vim as a development environment
 - [dotfiles](https://github.com/SerhatTeker/dotfiles) - Personal dotfiles
 - [dotfiles](https://github.com/jasonbellamy/dotfiles) - 
 - [dotfiles](https://github.com/dirmeier/dotfiles) - Collection of dotfiles.
