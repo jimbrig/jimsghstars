@@ -1358,7 +1358,7 @@
 - [gatsby-starter-netlify-cms](https://github.com/netlify-templates/gatsby-starter-netlify-cms) - Example gatsby + netlify cms project
 - [staticman](https://github.com/eduardoboucas/staticman) - 💪  User-generated content for Git-powered websites
 - [react-static](https://github.com/react-static/react-static) - ⚛️ 🚀 A progressive static site generator for React.
-- [hexo-theme-livemylife](https://github.com/V-Vincen/hexo-theme-livemylife) - 
+- [hexo-theme-livemylife](https://github.com/V-Vincen/hexo-theme-livemylife) - A succinct hexo theme...
 - [hexo-deployer-git](https://github.com/hexojs/hexo-deployer-git) - Git deployer plugin for Hexo.
 - [cms.js](https://github.com/chrisdiana/cms.js) - Client-Side JavaScript Site Generator
 - [react-snap](https://github.com/stereobooster/react-snap) - 👻 Zero-configuration framework-agnostic static prerendering for SPAs
@@ -1687,6 +1687,7 @@
 
 ## Others 
 
+- [MarkEdmondson1234](https://github.com/MarkEdmondson1234/MarkEdmondson1234) - Me
 - [github-actions-wsl](https://github.com/TomasHubelbauer/github-actions-wsl) - Seeing if it is possible to use WSL in Windows based GitHub Actions agents
 - [wsl_docs](https://github.com/jacking75/wsl_docs) - WSL 관련 문서
 - [swift-on-windows](https://github.com/yazdipour/swift-on-windows) - Swift on Windows
@@ -3325,6 +3326,7 @@
 - [ProjectManagement](https://github.com/leonawicz/ProjectManagement) - Project management project
 - [testthat_example](https://github.com/MayaGans/testthat_example) - Using Test That with Shiny
 - [shinyDataFilter](https://github.com/dgkf/shinyDataFilter) - data-agnostic, shiny-idiomatic filter module
+- [Advanced-R-Solutions](https://github.com/Tazinho/Advanced-R-Solutions) - Set of solutions for the Advanced R programming book
 - [shinyBody](https://github.com/MayaGans/shinyBody) - An SVG clickable body that can be colored using data and returns the clicked on body part
 - [spatialR](https://github.com/asmae-toumi/spatialR) - 
 - [jstor](https://github.com/ropensci/jstor) - Import journal data from DfR (JSTOR)
@@ -4956,7 +4958,6 @@
 - [binb](https://github.com/eddelbuettel/binb) - Binb is not Beamer
 - [knitr-book](https://github.com/yihui/knitr-book) - Dynamic Documents with R and knitr
 - [The-Value-of-Insurance](https://github.com/rajesh06/The-Value-of-Insurance) - 
-- [Advanced-R-Solutions](https://github.com/Tazinho/Advanced-R-Solutions) - Set of solutions for the Advanced R programming book
 - [cphb](https://github.com/pllk/cphb) - Competitive Programmer's Handbook
 - [listdown](https://github.com/kaneplusplus/listdown) - Programmatically create R/Markdown documents from lists.
 - [the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
