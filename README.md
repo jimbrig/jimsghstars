@@ -179,6 +179,8 @@
 
 ## C# # 
 
+- [WindowsTemplateStudio](https://github.com/microsoft/WindowsTemplateStudio) - Windows Template Studio quickly builds a UWP app, using a wizard-based UI to turn your needs into a foundation of Windows 10 patterns and best practices.
+- [WinAppDriver](https://github.com/microsoft/WinAppDriver) - Windows Application Driver
 - [WslQuery](https://github.com/wslhub/WslQuery) - This program is a utility that reads the internal information of Windows Subsystem for Linux from the system and outputs the data to a standard output device in JSON format.
 - [WslShortcut](https://github.com/HanabishiRecca/WslShortcut) - Run WSL commands directly in Windows. Also allows to use WSL git/node/etc. in Visual Studio Code or another software.
 - [WslManager](https://github.com/wslhub/WslManager) - .NET Core and non-designer based WSL Manager
@@ -274,6 +276,7 @@
 
 ## C++ 
 
+- [archive](https://github.com/jimhester/archive) - R bindings to libarchive, supporting a large variety of archive formats
 - [bashground](https://github.com/tmyt/bashground) - Keep WLS (Bash on Windows) instance in background.
 - [runnix](https://github.com/npyl/runnix) - Run linux executables or scripts from withing Windows without opening Bash
 - [paste](https://github.com/neosmart/paste) - A Windows utility that simply dumps the clipboard data to stdout
@@ -1278,7 +1281,6 @@
 - [free-response-report](https://github.com/Khan/free-response-report) - Publication regarding our experiments with open-ended online learning
 - [317-Obsidian-Plugins](https://github.com/317/317-Obsidian-Plugins) - There won't be 317 plugins. It's just my name.
 - [obsidian-clipper](https://github.com/jplattel/obsidian-clipper) - A Chrome extension that easily clips selections to Obsidian
-- [obsidian-switcher-plus](https://github.com/darlal/obsidian-switcher-plus) - Enhanced Quick Switcher plugin for Obsidian.md
 - [volcano](https://github.com/kognise/volcano) - A shitty plugin loader for Obsidian
 - [volcano-plugins](https://github.com/kognise/volcano-plugins) - Community created plugins for Obsidian
 - [yuml-diagram](https://github.com/jaime-olivares/yuml-diagram) - UML diagramming package based on the yUML syntax
@@ -1373,7 +1375,7 @@
 - [stat-distributions-js](https://github.com/richarddmorey/stat-distributions-js) - Javascript library for the visualization of statistical distributions
 - [awesome-libraries](https://github.com/sourcerer-io/awesome-libraries) - :sunglasses: Libraries that are being shown in Sourcerer profiles.
 - [foam-template-gatsby-search](https://github.com/ingalless/foam-template-gatsby-search) - Foam template, built with Gatsby, plus search
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (January 2021)
 - [DocumentTemplate](https://github.com/renrousousuo/DocumentTemplate) - 文件 Markdown 格式。方便书写各种文档。
 - [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -2644,6 +2646,7 @@
 
 ## R 
 
+- [googleAuthR-reference](https://github.com/yiqiao-yin/googleAuthR-reference) - Auto-build libraries for Google APIs with OAuth2 for both local and Shiny app use. This guide is also available at the googleAuthR website  The googleAuthRverse Slack team has been setup for support for using googleAuthR and the libraries it helps create. Sign up via this Google form to get access.
 - [rstudio-global-2021-program](https://github.com/rstudio/rstudio-global-2021-program) - 
 - [r4ds-over-docker](https://github.com/f0nzie/r4ds-over-docker) - Book r4ds with Dockerfile to build it with Docker
 - [whaler](https://github.com/uncoast-unconf/whaler) - A package for interfacing with Docker from RStudio, including generating dockerfiles and allowing users to build/push/tag/run docker images.
@@ -4726,6 +4729,7 @@
 
 ## Shell 
 
+- [dmenu-bm](https://github.com/Owen-Davies/dmenu-bm) - 
 - [shcrt](https://github.com/Depau/shcrt) - Shell script to replace SecureCRT/FX
 - [dotfiles](https://github.com/algono/dotfiles) - My dotfiles for Ubuntu (WSL 2)
 - [dotfiles](https://github.com/ColinPeyrat/dotfiles) - 🏡 My Windows environment setup
@@ -5080,6 +5084,7 @@
 - [sliding-panes-obsidian](https://github.com/deathau/sliding-panes-obsidian) - Andy Matuschak Mode as a plugin
 - [vscode-markdown-notes](https://github.com/kortina/vscode-markdown-notes) - Install from: https://ark.dance/md-notes
 - [chrono](https://github.com/wanasit/chrono) - A natural language date parser in Javascript
+- [obsidian-switcher-plus](https://github.com/darlal/obsidian-switcher-plus) - Enhanced Quick Switcher plugin for Obsidian.md
 - [note-link-janitor](https://github.com/andymatuschak/note-link-janitor) - Maintains backlink structure among interlinked Markdown notes
 - [obsidian-plugins](https://github.com/mrjackphil/obsidian-plugins) - Plugins for Obsidian note-taking tool
 - [vscode-project-manager](https://github.com/alefragnani/vscode-project-manager) - Project Manager Extension for Visual Studio Code
@@ -5111,7 +5116,7 @@
 - [tmetric-plugins](https://github.com/DevartSoftware/tmetric-plugins) - Browser extension that adds TMetric one-click time tracking to popular Web apps.
 - [web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
-- [yarle](https://github.com/akosbalasko/yarle) - Yet Another Rope Ladder from Evernote
+- [yarle](https://github.com/akosbalasko/yarle) - Yarle - The ultimate converter of Evernote notes to Markdown
 - [vscode-memo](https://github.com/svsool/vscode-memo) - Markdown knowledge base with bidirectional [[link]]s built on top of VSCode
 - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [evermonkey](https://github.com/michalyao/evermonkey) - Evernote Editing. Redefined.  关于 token 的问题请去 https://github.com/michalyao/evermonkey/issues/94 中查看！
