@@ -179,6 +179,8 @@
 
 ## C# # 
 
+- [Pscx](https://github.com/Pscx/Pscx) - PowerShell Community Extensions module repository
+- [cloudrun-tutorial](https://github.com/meteatamel/cloudrun-tutorial) - A tutorial showing some of the features of Cloud Run
 - [WindowsTemplateStudio](https://github.com/microsoft/WindowsTemplateStudio) - Windows Template Studio quickly builds a UWP app, using a wizard-based UI to turn your needs into a foundation of Windows 10 patterns and best practices.
 - [WinAppDriver](https://github.com/microsoft/WinAppDriver) - Windows Application Driver
 - [WslQuery](https://github.com/wslhub/WslQuery) - This program is a utility that reads the internal information of Windows Subsystem for Linux from the system and outputs the data to a standard output device in JSON format.
@@ -368,6 +370,7 @@
 
 ## CSS 
 
+- [support](https://github.com/rbind/support) - Technical support for rbind
 - [resources](https://github.com/jimbrig/resources) - 
 - [WSL_Windows_Terminal](https://github.com/tautomer/WSL_Windows_Terminal) - A full guide on how to set up WSL/WSL2 and use Windows Terminal or Terminator as the terminal emulator. Some tricky X11 configuration is also included.
 - [obsidian-charts](https://github.com/phibr0/obsidian-charts) - Charts - Obsidian Plugin
@@ -697,6 +700,7 @@
 
 ## HTML 
 
+- [personalsit.es](https://github.com/xdesro/personalsit.es) - 📇 A little directory of people's personal sites
 - [til](https://github.com/Jeonghun-Ban/til) - Today I Learned 🔥
 - [preferably](https://github.com/amirmasoudabdol/preferably) - An accessible template for `pkgdown` websites with dynamic light/dark mode support
 - [htmlvault](https://github.com/dirkschumacher/htmlvault) - Encrypt files in self-decrypting html files using libsodium
@@ -1631,6 +1635,8 @@
 
 ## Lua 
 
+- [awesome-config](https://github.com/Eggbertx/awesome-config) - My awesome (window manager) configuration setup
+- [awesome-config](https://github.com/theasp/awesome-config) - Configuration GUI and plugin API for the Awesome window manager
 - [dotfiles](https://github.com/onodera-punpun/dotfiles) - My dotfiles and themes.
 - [sile](https://github.com/sile-typesetter/sile) - Simon’s Improved Layout Engine
 - [nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
@@ -1689,6 +1695,22 @@
 
 ## Others 
 
+- [awesome-handbooks](https://github.com/hkdobrev/awesome-handbooks) - A curated list of awesome company handbooks
+- [docker-best-practices](https://github.com/FuriKuri/docker-best-practices) - Collection of some docker practices
+- [Awesome](https://github.com/digaddam/Awesome) - :computer:  An awesome & curated list of best applications and tools for Windows.
+- [awesome-windows](https://github.com/hantang/awesome-windows) - :computer:  An awesome & curated list of best applications and tools for Windows.
+- [my-windows](https://github.com/vladdeSV/my-windows) - 🕶️ Showcase of my personal computer
+- [Awesome-Windows](https://github.com/allinu/Awesome-Windows) - Windows 平台下的优秀软件、工具推荐列表
+- [AwesomeDPT-WindowsSoft](https://github.com/dpteam/AwesomeDPT-WindowsSoft) - 💻 Список программного обеспечения, которое DartPower Team советует установить каждому!
+- [Windows10A](https://github.com/AtakanErmis/Windows10A) - My Windows 10 customizations & programs I use. (A for Atakan)
+- [awesome-windows-store-apps](https://github.com/StymiedSloth/awesome-windows-store-apps) - ⌨️ An awesome & curated list of well designed and tools from the Windows Store.
+- [Awesome-Windows-Software](https://github.com/FrostMiKu/Awesome-Windows-Software) - 😎👍 A list of efficiency software for Windows
+- [Awesome-Windows-Apps](https://github.com/Toxblh/Awesome-Windows-Apps) - 💾 Awesome windows apps which you need to try
+- [awesome-windows](https://github.com/awesome-soft/awesome-windows) - A curated list of awesome software for Windows.
+- [awesome-windows](https://github.com/yanhaijing/awesome-windows) - 前端开发者的windows软件集合
+- [awesome-systools](https://github.com/Spacial/awesome-systools) - Awesome Systools is a collection of sysadmins daily handy tools.
+- [Awesome](https://github.com/ScoopInstaller/Awesome) - A curated list of awesome Scoop resources and more.
+- [awesome-windows-terminal](https://github.com/bennettdams/awesome-windows-terminal) - A collection of awesome things regarding the upcoming Windows Terminal
 - [MarkEdmondson1234](https://github.com/MarkEdmondson1234/MarkEdmondson1234) - Me
 - [github-actions-wsl](https://github.com/TomasHubelbauer/github-actions-wsl) - Seeing if it is possible to use WSL in Windows based GitHub Actions agents
 - [wsl_docs](https://github.com/jacking75/wsl_docs) - WSL 관련 문서
@@ -2285,6 +2307,7 @@
 
 ## PowerShell 
 
+- [xc](https://github.com/xct/xc) - A small reverse shell for Linux & Windows
 - [solarized-dark-for-wsl](https://github.com/nsilvestri/solarized-dark-for-wsl) - Changes the color theme of the WSL terminal to Solarized Dark.
 - [kubernetes_hyperv](https://github.com/EtienneDeneuve/kubernetes_hyperv) - Quick setup of a K8S Cluster in Hyper V server
 - [Windows-Boxstarter-with-WSL-Ubuntu](https://github.com/treffynnon/Windows-Boxstarter-with-WSL-Ubuntu) - My Windows Boxstarter with WSL (Ubuntu)
@@ -2646,6 +2669,7 @@
 
 ## R 
 
+- [cloudRunR](https://github.com/MarkEdmondson1234/cloudRunR) - Running R on Cloud Run
 - [googleAuthR-reference](https://github.com/yiqiao-yin/googleAuthR-reference) - Auto-build libraries for Google APIs with OAuth2 for both local and Shiny app use. This guide is also available at the googleAuthR website  The googleAuthRverse Slack team has been setup for support for using googleAuthR and the libraries it helps create. Sign up via this Google form to get access.
 - [rstudio-global-2021-program](https://github.com/rstudio/rstudio-global-2021-program) - 
 - [r4ds-over-docker](https://github.com/f0nzie/r4ds-over-docker) - Book r4ds with Dockerfile to build it with Docker
@@ -4612,6 +4636,7 @@
 
 ## Ruby 
 
+- [siteinspector](https://github.com/siteinspector/siteinspector) - A tool for catching spelling errors, grammatical errors, broken links, and other errors on websites.
 - [vincents-productivity-suite-for-alfred](https://github.com/voostindie/vincents-productivity-suite-for-alfred) - A CLI and automatically generated Alfred workflows to make my daily computer work more efficient.
 - [snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
 - [tracks](https://github.com/TracksApp/tracks) - Tracks is a GTD™ web application, built with Ruby on Rails
@@ -4729,6 +4754,10 @@
 
 ## Shell 
 
+- [dotfiles](https://github.com/gf3/dotfiles) - Configurations for the tools I use every day
+- [dotfiles](https://github.com/FuriKuri/dotfiles) - My dotfiles (GitHub ❤ ~/)
+- [dotfiles](https://github.com/farisachugthai/dotfiles) - Dotfiles for bash, tmux, git, VSCode, Jupyter Notebooks and many more on Linux, Windows 10 and Android (Termux)
+- [dotfiles](https://github.com/zloeber/dotfiles) - Zachary Loeber's dotfiles
 - [dmenu-bm](https://github.com/Owen-Davies/dmenu-bm) - 
 - [shcrt](https://github.com/Depau/shcrt) - Shell script to replace SecureCRT/FX
 - [dotfiles](https://github.com/algono/dotfiles) - My dotfiles for Ubuntu (WSL 2)
@@ -4812,7 +4841,6 @@
 - [dotfiles](https://github.com/JBlond/dotfiles) - my dot files with git and docker extension for windows and linux
 - [windows-dev-setup](https://github.com/julie-ng/windows-dev-setup) - Dev environment on windows with Oh My ZSH, Hyper.js and more
 - [dotfiles](https://github.com/bushidocodes/dotfiles) - Dotbot managed dotfiles for a polyglot dev using WSL. Includes PowerShell stuff for Windows Installation
-- [dotfiles](https://github.com/LumaKernel/dotfiles) - ⭐ My own world.
 - [dotfiles](https://github.com/jakecobley/dotfiles) - Dotfiles - personal preferences for various applications, editors, linters, and packages on macOS and Windows 10 with Windows Subsystem for Linux 2 (WSL2).
 - [dotfiles](https://github.com/pawelbialaszczyk/dotfiles) - Windows dotfiles managed using a bare git repository.
 - [dotfiles](https://github.com/ridhwaans/dotfiles) - 💻Personal dotfiles for mac and wsl
@@ -4994,6 +5022,7 @@
 
 ## TypeScript 
 
+- [honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [uniterm](https://github.com/JLChnToZ/uniterm) - 🚧Universal Terminal Emulator, might be a great toy terminal front-end for geeks.
 - [action-docker-layer-caching](https://github.com/satackey/action-docker-layer-caching) - 🐳  Enable Docker layer caching in GitHub Actions
 - [privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, because privacy is sexy 🍑🍆
@@ -5171,6 +5200,7 @@
 - [win_dotfiles](https://github.com/Surumerf/win_dotfiles) - Dotfiles for Windows
 - [kickassdotfiles](https://github.com/ntkzwane/kickassdotfiles) - Dotfiles (configuration files) for various dev tools e.g editors, window managers, themes etc.
 - [dotfiles](https://github.com/antoniosarosi/dotfiles) - My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.
+- [dotfiles](https://github.com/LumaKernel/dotfiles) - ⭐ My own world.
 - [dotfiles](https://github.com/willwm/dotfiles) - My default Linux/macOS/Windows configuration
 - [dotfiles](https://github.com/nickjj/dotfiles) - Settings for various tools I use.
 - [vim-rmarkdown](https://github.com/vim-pandoc/vim-rmarkdown) - Rmarkdown support for vim
