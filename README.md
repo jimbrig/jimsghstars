@@ -67,6 +67,7 @@
   - [TypeScript](#typescript)
   - [V](#v)
   - [VBA](#vba)
+  - [VBScript](#vbscript)
   - [Vim script](#vim-script)
   - [VimL](#viml)
   - [Visual Basic](#visual-basic)
@@ -93,6 +94,7 @@
 
 ## Batchfile 
 
+- [Configure-Windows](https://github.com/ReneNyffenegger/Configure-Windows) - Some scripts to configure Windows so that I can use it.
 - [cygwin-portable](https://github.com/zhubanRuban/cygwin-portable) - CygWin/ConEmu Portable Installer/Updater
 - [wsl-proxy](https://github.com/watzon/wsl-proxy) - WSL proxy files for editor/linux interop
 - [Windows10Tools](https://github.com/L33Tech/Windows10Tools) - Tools for Windows 10
@@ -110,6 +112,9 @@
 
 ## C 
 
+- [gcc-create-library](https://github.com/ReneNyffenegger/gcc-create-library) - Creating a shared and static library with the gnu compiler
+- [Windows-development](https://github.com/ReneNyffenegger/Windows-development) - Playground to experiment with developping applications for Windows.
+- [temp-VBA](https://github.com/ReneNyffenegger/temp-VBA) - temporary VBA snippets
 - [wsl2exe](https://github.com/yuk7/wsl2exe) - [TESTING]Use command in WSL from exe executable
 - [wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
 - [doslinux](https://github.com/charliesome/doslinux) - Run Linux programs on DOS
@@ -179,6 +184,9 @@
 
 ## C# # 
 
+- [show-command-line-arguments](https://github.com/ReneNyffenegger/show-command-line-arguments) - Programs that show the command line arguments that they received.
+- [.NET-API](https://github.com/ReneNyffenegger/.NET-API) - Code snippets for select .NET classes etc.
+- [Git-Credential-Manager-Core](https://github.com/microsoft/Git-Credential-Manager-Core) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [Pscx](https://github.com/Pscx/Pscx) - PowerShell Community Extensions module repository
 - [cloudrun-tutorial](https://github.com/meteatamel/cloudrun-tutorial) - A tutorial showing some of the features of Cloud Run
 - [WindowsTemplateStudio](https://github.com/microsoft/WindowsTemplateStudio) - Windows Template Studio quickly builds a UWP app, using a wizard-based UI to turn your needs into a foundation of Windows 10 patterns and best practices.
@@ -278,6 +286,7 @@
 
 ## C++ 
 
+- [development_misc](https://github.com/ReneNyffenegger/development_misc) - Snippets that I found useful the other day or might find useful another day.
 - [archive](https://github.com/jimhester/archive) - R bindings to libarchive, supporting a large variety of archive formats
 - [bashground](https://github.com/tmyt/bashground) - Keep WLS (Bash on Windows) instance in background.
 - [runnix](https://github.com/npyl/runnix) - Run linux executables or scripts from withing Windows without opening Bash
@@ -370,6 +379,7 @@
 
 ## CSS 
 
+- [fullscreen-slider](https://github.com/ykob/fullscreen-slider) - This asset controls sections in a page.   It resizes sections to fullscreen resolution and moves these individually by wheel/touch events.
 - [support](https://github.com/rbind/support) - Technical support for rbind
 - [resources](https://github.com/jimbrig/resources) - 
 - [WSL_Windows_Terminal](https://github.com/tautomer/WSL_Windows_Terminal) - A full guide on how to set up WSL/WSL2 and use Windows Terminal or Terminator as the terminal emulator. Some tricky X11 configuration is also included.
@@ -529,6 +539,7 @@
 
 ## Dockerfile 
 
+- [about-Docker](https://github.com/ReneNyffenegger/about-Docker) - about Docker
 - [docker_scripts](https://github.com/icolwell/docker_scripts) - This repo contains the Dockerfiles for the images hosted on my dockerhub
 - [r-dockerfiles](https://github.com/robertdj/r-dockerfiles) - Dockerfiles for R
 - [rlang-shiny-oci-docker](https://github.com/ericsgagnon/rlang-shiny-oci-docker) - Multi-stage docker build to extend rocker/shiny-verse with oracle oci
@@ -700,6 +711,11 @@
 
 ## HTML 
 
+- [personal-kanban](https://github.com/nishantpainter/personal-kanban) - 📌 Personal Kanban Board is an agile project management tool that helps you visualise your work, limit your work-in-progress (WIP) and to craft & optimise your work flow to get the maximum output. To achieve this, it makes use of columns and cards. Personal Kanban offers visual clue, columns, WIP limits, start point and end point to set you up for success.
+- [about-javascript](https://github.com/ReneNyffenegger/about-javascript) - Small javascript examples.
+- [about-css](https://github.com/ReneNyffenegger/about-css) - Small css examples
+- [about-html](https://github.com/ReneNyffenegger/about-html) - Small html examples
+- [about-Document-Object-Model](https://github.com/ReneNyffenegger/about-Document-Object-Model) - small examples for the Document Object Model (DOM).
 - [personalsit.es](https://github.com/xdesro/personalsit.es) - 📇 A little directory of people's personal sites
 - [til](https://github.com/Jeonghun-Ban/til) - Today I Learned 🔥
 - [preferably](https://github.com/amirmasoudabdol/preferably) - An accessible template for `pkgdown` websites with dynamic light/dark mode support
@@ -806,7 +822,7 @@
 - [country-neighbors](https://github.com/jpmarindiaz/country-neighbors) - List of all the neighbors for all the countries in the world
 - [dmaps](https://github.com/jpmarindiaz/dmaps) - 
 - [isotope](https://github.com/jpmarindiaz/isotope) - 
-- [dropdown](https://github.com/EmekaOrji/dropdown) - A compendium of Dropdown Menus
+- [dropdown](https://github.com/EmekaOrji/dropdown) - A Demo of Dropdown Menus
 - [betterposter](https://github.com/GerkeLab/betterposter) - 👩‍🔬👨‍🔬 Another R Markdown Better Scientific Poster
 - [SubtlePatterns](https://github.com/atlemo/SubtlePatterns) - All the patterns
 - [r-colors-css](https://github.com/gadenbuie/r-colors-css) - A utility CSS stylesheet with R's color names
@@ -860,6 +876,7 @@
 - [r-bugs](https://github.com/MichaelChirico/r-bugs) - A ⚠️read-only⚠️mirror of https://bugs.r-project.org/
 - [worcs](https://github.com/cjvanlissa/worcs) - Rstudio project template and convenience functions for the Workflow     for Open Reproducible Code in Science (WORCS)
 - [bookclub-Advanced_R](https://github.com/r4ds/bookclub-Advanced_R) - 
+- [AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
 - [intro-shiny-rmarkdown](https://github.com/rstudio-education/intro-shiny-rmarkdown) - Materials for the "Intro to Shiny and R Markdown" 2-day workshop at rstudio::conf 2018
 - [teach-shiny](https://github.com/rstudio-education/teach-shiny) - Materials for the Shiny Train the Trainer workshop
 - [armcompanion](https://github.com/rstudio-education/armcompanion) - Companion materials for the rstudio::conf 2019 Advanced R Markdown workshop
@@ -1034,6 +1051,9 @@
 
 ## JavaScript 
 
+- [flawesome](https://github.com/ashishBharadwaj/flawesome) - Productivity Tool
+- [notes](https://github.com/ikhadykin/notes) - Some notes concerning programming and stuff like that
+- [bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
 - [WSL-manager](https://github.com/JonaszPotoniec/WSL-manager) - unofficial gui manager for Windows Subsystem for Linux (WSL)
 - [webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) - A CLI dashboard for webpack dev server
 - [pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
@@ -1451,7 +1471,6 @@
 - [watchlist](https://github.com/lukeed/watchlist) - Recursively watch a list of directories & run a command on any file system changes
 - [GeistMap](https://github.com/bryanph/GeistMap) - An experimental personal knowledge base with a focus on connections
 - [momentjs.com](https://github.com/moment/momentjs.com) - The website for momentjs
-- [AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
 - [react-excel-renderer](https://github.com/ashishd751/react-excel-renderer) - A react library to render and display excel sheets on webpage
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [x-spreadsheet](https://github.com/myliang/x-spreadsheet) - A web-based JavaScript（canvas） spreadsheet
@@ -1685,7 +1704,6 @@
 ## Objective-C 
 
 - [DailyLearning](https://github.com/FrizzleFur/DailyLearning) - My Daily Learning~
-- [DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - Developer Utilities for macOS
 - [dotfiles](https://github.com/noamross/dotfiles) - 
 - [tlutility](https://github.com/amaxwell/tlutility) - TeX Live Utility, a Mac OS GUI for the TeX Live Manager
 - [IRGallery](https://github.com/irons163/IRGallery) - IRGallery is a powerful gallery for iOS.
@@ -1695,6 +1713,17 @@
 
 ## Others 
 
+- [about-Azure](https://github.com/ReneNyffenegger/about-Azure) - 
+- [about-Windows-Terminal](https://github.com/ReneNyffenegger/about-Windows-Terminal) - About Windows Terminal
+- [about-Sysinternals](https://github.com/ReneNyffenegger/about-Sysinternals) - About the Sysinternals suite.
+- [about-Inkscape](https://github.com/ReneNyffenegger/about-Inkscape) - 
+- [about-Outlook](https://github.com/ReneNyffenegger/about-Outlook) - 
+- [about-SQL](https://github.com/ReneNyffenegger/about-SQL) - Stuff about SQL
+- [temp-gpg](https://github.com/ReneNyffenegger/temp-gpg) - Trying GPG
+- [about-notepad-plus-plus](https://github.com/ReneNyffenegger/about-notepad-plus-plus) - 
+- [Windows-Pics](https://github.com/ReneNyffenegger/Windows-Pics) - Pictures of Windows programs etc.
+- [filesystem-tree](https://github.com/ReneNyffenegger/filesystem-tree) - A simple file system tree
+- [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) - A guide on how to be a Programmer - originally published by Robert L Read
 - [awesome-handbooks](https://github.com/hkdobrev/awesome-handbooks) - A curated list of awesome company handbooks
 - [docker-best-practices](https://github.com/FuriKuri/docker-best-practices) - Collection of some docker practices
 - [Awesome](https://github.com/digaddam/Awesome) - :computer:  An awesome & curated list of best applications and tools for Windows.
@@ -2123,7 +2152,7 @@
 - [software-development-project-checklist](https://github.com/dariusz-wozniak/software-development-project-checklist) - ✅ Software Development Project Checklist
 - [production-launch-checklist](https://github.com/vintasoftware/production-launch-checklist) - A checklist we use here at Vinta before launching a product we've been working on.
 - [docTemplates](https://github.com/lotspaih/docTemplates) - Simple Project Management and Document Templates in Markdown for Compatibility and Portability
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2020
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [rstats-ed](https://github.com/rstudio-education/rstats-ed) - List of courses teaching R
 - [bookshelf](https://github.com/OpenTechSchool/bookshelf) - 📚  Reading lists for learners
 - [generated-awesomeness](https://github.com/orsinium-labs/generated-awesomeness) - List of autogenerated awesome lists.
@@ -2275,6 +2304,7 @@
 
 ## PHP 
 
+- [wfh-productivity-system](https://github.com/Kamoates/wfh-productivity-system) - 
 - [wslpath](https://github.com/laurent22/wslpath) - wslpath - Converts Unix and Windows format paths in WSL
 - [skrub](https://github.com/ssx/skrub) - A package to remove junk from Composer installations and trim build sizes.
 - [project-cli](https://github.com/chriha/project-cli) - Project and environment management in your terminal
@@ -2301,12 +2331,19 @@
 
 ## Perl 
 
+- [notes](https://github.com/ReneNyffenegger/notes) - 
 - [rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management
 - [distro](https://github.com/foswiki/distro) - START HERE!  This is the Foswiki project "Distribution".  It is a monolith repository with the core + default extensions.
 - [analysis_framework](https://github.com/jimhester/analysis_framework) - A skeleton analysis framework for use with knitr and git.
 
 ## PowerShell 
 
+- [about-Windows-Registry](https://github.com/ReneNyffenegger/about-Windows-Registry) - Windows Registry
+- [temp-registry-extension](https://github.com/ReneNyffenegger/temp-registry-extension) - 
+- [about-SQL-Developer](https://github.com/ReneNyffenegger/about-SQL-Developer) - Stored stuff about SQL Developer
+- [ScriptsArchive](https://github.com/changhuixu/ScriptsArchive) - Useful scripts
+- [about-powershell](https://github.com/ReneNyffenegger/about-powershell) - Small powershell scriptlets and/or examples.
+- [chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests) - Please submit your package requests as issues here
 - [xc](https://github.com/xct/xc) - A small reverse shell for Linux & Windows
 - [solarized-dark-for-wsl](https://github.com/nsilvestri/solarized-dark-for-wsl) - Changes the color theme of the WSL terminal to Solarized Dark.
 - [kubernetes_hyperv](https://github.com/EtienneDeneuve/kubernetes_hyperv) - Quick setup of a K8S Cluster in Hyper V server
@@ -2407,6 +2444,10 @@
 
 ## Python 
 
+- [dex](https://github.com/ardunn/dex) - an ultra-minimal productivity system
+- [about-sqlite](https://github.com/ReneNyffenegger/about-sqlite) - About sqlite
+- [about-python](https://github.com/ReneNyffenegger/about-python) - Small notes etc on python
+- [GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Investigate Google Accounts with emails.
 - [wsl-path-converter](https://github.com/lamyj/wsl-path-converter) - Convert between Linux and Windows path in WSL
 - [wsltty-launcher](https://github.com/riag/wsltty-launcher) - launch Mintty as a terminal for WSL Linux
 - [wsl-guide](https://github.com/not-kennethreitz/wsl-guide) - The Hitchhiker's Guide to Bash on Ubuntu on Windows!
@@ -2669,6 +2710,7 @@
 
 ## R 
 
+- [simputation](https://github.com/markvanderloo/simputation) - Making imputation easy
 - [cloudRunR](https://github.com/MarkEdmondson1234/cloudRunR) - Running R on Cloud Run
 - [googleAuthR-reference](https://github.com/yiqiao-yin/googleAuthR-reference) - Auto-build libraries for Google APIs with OAuth2 for both local and Shiny app use. This guide is also available at the googleAuthR website  The googleAuthRverse Slack team has been setup for support for using googleAuthR and the libraries it helps create. Sign up via this Google form to get access.
 - [rstudio-global-2021-program](https://github.com/rstudio/rstudio-global-2021-program) - 
@@ -4087,7 +4129,6 @@
 - [datapack](https://github.com/ropensci/datapack) - An R package to handle data packages
 - [rdataretriever](https://github.com/ropensci/rdataretriever) - R interface to the Data Retriever
 - [tinytest](https://github.com/markvanderloo/tinytest) - A lightweight, no-dependency, but full-featured package for unit testing in R
-- [simputation](https://github.com/markvanderloo/simputation) - Making imputation easy
 - [rspa](https://github.com/markvanderloo/rspa) - An R package for optimal record adjustment
 - [checkmate.tinytest](https://github.com/mllg/checkmate.tinytest) - Title: Additional Expectations for 'tinytest'
 - [lumberjack](https://github.com/markvanderloo/lumberjack) - Track changes in data with ease
@@ -4945,6 +4986,7 @@
 
 - [tagged-github-stars](https://github.com/dongyuwei/tagged-github-stars) - A native Mac App to manage your Github stars with custom tags, powered by SwiftUI and SQLite.
 - [AppIconGenerator](https://github.com/pawello2222/AppIconGenerator) - A library for creating App Icons from SwiftUI views
+- [DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - Developer Utilities for macOS
 - [Furnish](https://github.com/zoejessica/Furnish) - Configurable table view controller framework, drawing on ideas from Arkadiusz Holko (fastred) and Andy Matuschak (andymatuschak)
 - [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - Cocoa framework and Obj-C dynamism bindings for ReactiveSwift.
 - [Publish](https://github.com/JohnSundell/Publish) - A static site generator for Swift developers
@@ -5022,6 +5064,7 @@
 
 ## TypeScript 
 
+- [cli](https://github.com/doc-sys/cli) - Comand Line Interface to configure and deploy
 - [honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [uniterm](https://github.com/JLChnToZ/uniterm) - 🚧Universal Terminal Emulator, might be a great toy terminal front-end for geeks.
 - [action-docker-layer-caching](https://github.com/satackey/action-docker-layer-caching) - 🐳  Enable Docker layer caching in GitHub Actions
@@ -5186,8 +5229,17 @@
 
 ## VBA 
 
+- [temp-COM](https://github.com/ReneNyffenegger/temp-COM) - 
+- [VBAModules](https://github.com/ReneNyffenegger/VBAModules) - Modules for Visualb Basic for Applications
+- [about-VBA](https://github.com/ReneNyffenegger/about-VBA) - about VBA
+- [about-MS-Office-object-model](https://github.com/ReneNyffenegger/about-MS-Office-object-model) - About the MS Office objet model
+- [about-Excel](https://github.com/ReneNyffenegger/about-Excel) - About Excel
 - [hijackthis](https://github.com/dragokas/hijackthis) - A free utility that finds malware, adware and other security threats
 - [xl-macros](https://github.com/jimbrig/xl-macros) - My Personal Excel Workbook's Macros
+
+## VBScript 
+
+- [about-VBScript](https://github.com/ReneNyffenegger/about-VBScript) - about VBScript
 
 ## Vim script 
 
