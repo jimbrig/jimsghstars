@@ -1770,7 +1770,7 @@
 - [PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
 - [seo-browser-extensions](https://github.com/Awesome-SEO/seo-browser-extensions) - A list of awesome browser extensions to help ith SEO and rank higher!
 - [startuptoolbox](https://github.com/alexanderisora/startuptoolbox) - The startup founder toolbelt. A forever-updating crowdsourced collection.
-- [plan](https://github.com/tianheg/plan) - All my work will start here
+- [plan](https://github.com/tianheg/plan) - It has been moved to https://github.com/tianheg/review/blob/main/docs/plan/README.md
 - [distill-example](https://github.com/jhrcook/distill-example) - An example website built with Distill and R Markdown
 - [drat](https://github.com/HenrikBengtsson/drat) - R package repository
 - [docker-resources](https://github.com/hangyan/docker-resources) - Docker resources collection. docker资源汇总
@@ -2636,7 +2636,7 @@
 - [ProjectCreationAutomation](https://github.com/eichingertim/ProjectCreationAutomation) - Short script that enables a "create"-command for the command-line to create a new project-folder with a local and remote github repository
 - [commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
 - [diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
-- [core](https://github.com/home-assistant/core) - WE ARE ON HOLIDAY. REVIEWS WILL TAKE A WHILE. HAPPY HOLIDAYS! ✨ :house_with_garden: Open source home automation that puts local control and privacy first
+- [core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
 - [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
 - [sofine](https://github.com/marksweiss/sofine) - Lightweight framework for creating data-collecting plugins and chaining calls to them from CLI, REST or Python to return unified data sets.
@@ -2710,6 +2710,8 @@
 
 ## R 
 
+- [getsysreqs](https://github.com/mdneuzerling/getsysreqs) - Determine system requirements from R packages using the RStudio Package Manager.
+- [requirements](https://github.com/bmewing/requirements) - R package for managing requirements
 - [simputation](https://github.com/markvanderloo/simputation) - Making imputation easy
 - [cloudRunR](https://github.com/MarkEdmondson1234/cloudRunR) - Running R on Cloud Run
 - [googleAuthR-reference](https://github.com/yiqiao-yin/googleAuthR-reference) - Auto-build libraries for Google APIs with OAuth2 for both local and Shiny app use. This guide is also available at the googleAuthR website  The googleAuthRverse Slack team has been setup for support for using googleAuthR and the libraries it helps create. Sign up via this Google form to get access.
@@ -4795,6 +4797,9 @@
 
 ## Shell 
 
+- [simplenote-to-git](https://github.com/amussey/simplenote-to-git) - Back up your Simplenote account to a git repo or gist!
+- [vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
+- [DOCKER-introR](https://github.com/lockedata/DOCKER-introR) - A Dockerfile for teaching introductory R
 - [dotfiles](https://github.com/gf3/dotfiles) - Configurations for the tools I use every day
 - [dotfiles](https://github.com/FuriKuri/dotfiles) - My dotfiles (GitHub ❤ ~/)
 - [dotfiles](https://github.com/farisachugthai/dotfiles) - Dotfiles for bash, tmux, git, VSCode, Jupyter Notebooks and many more on Linux, Windows 10 and Android (Termux)
