@@ -112,6 +112,7 @@
 
 ## C 
 
+- [httpuv](https://github.com/rstudio/httpuv) - HTTP and WebSocket server package for R
 - [gcc-create-library](https://github.com/ReneNyffenegger/gcc-create-library) - Creating a shared and static library with the gnu compiler
 - [Windows-development](https://github.com/ReneNyffenegger/Windows-development) - Playground to experiment with developping applications for Windows.
 - [temp-VBA](https://github.com/ReneNyffenegger/temp-VBA) - temporary VBA snippets
@@ -184,6 +185,7 @@
 
 ## C# # 
 
+- [taskbar-groups](https://github.com/tjackenpacken/taskbar-groups) - Lightweight utility for organizing the taskbar through groups
 - [show-command-line-arguments](https://github.com/ReneNyffenegger/show-command-line-arguments) - Programs that show the command line arguments that they received.
 - [.NET-API](https://github.com/ReneNyffenegger/.NET-API) - Code snippets for select .NET classes etc.
 - [Git-Credential-Manager-Core](https://github.com/microsoft/Git-Credential-Manager-Core) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
@@ -286,6 +288,7 @@
 
 ## C++ 
 
+- [construe](https://github.com/hrbrmstr/construe) - 🧰  HTTP Request, Response and URL Parser
 - [development_misc](https://github.com/ReneNyffenegger/development_misc) - Snippets that I found useful the other day or might find useful another day.
 - [archive](https://github.com/jimhester/archive) - R bindings to libarchive, supporting a large variety of archive formats
 - [bashground](https://github.com/tmyt/bashground) - Keep WLS (Bash on Windows) instance in background.
@@ -576,6 +579,7 @@
 
 ## Go 
 
+- [kots](https://github.com/replicatedhq/kots) - KOTS provides the framework, tools and integrations that enable the delivery and management of 3rd-party Kubernetes applications, a.k.a. Kubernetes Off-The-Shelf (KOTS) Software.
 - [wsl-ssh-pageant](https://github.com/NZSmartie/wsl-ssh-pageant) - A Pageant bridge for WSL, enabling ssh-ageants to talk to to PuTTY Pagent or GnuPG for Windows
 - [wsl-ssh-agent](https://github.com/rupor-github/wsl-ssh-agent) - Helper to interface with Windows ssh-agent.exe service from Windows Subsystem for Linux (WSL)
 - [wsl-ssh-pageant](https://github.com/benpye/wsl-ssh-pageant) - A Pageant -&gt; TCP bridge for use with WSL, allowing for Pageant to be used as an ssh-ageant within the WSL environment.
@@ -711,6 +715,8 @@
 
 ## HTML 
 
+- [targets-design](https://github.com/wlandau/targets-design) - Software design documents of the targets R package
+- [thinkdiff](https://github.com/mahmudahsan/thinkdiff) - My open source project links, programming and software development related code and tutorials are in this repo. Content types: Python, JavaScript, Dart | Django, React, Flutter, React-Native etc.
 - [personal-kanban](https://github.com/nishantpainter/personal-kanban) - 📌 Personal Kanban Board is an agile project management tool that helps you visualise your work, limit your work-in-progress (WIP) and to craft & optimise your work flow to get the maximum output. To achieve this, it makes use of columns and cards. Personal Kanban offers visual clue, columns, WIP limits, start point and end point to set you up for success.
 - [about-javascript](https://github.com/ReneNyffenegger/about-javascript) - Small javascript examples.
 - [about-css](https://github.com/ReneNyffenegger/about-css) - Small css examples
@@ -838,7 +844,7 @@
 - [shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
 - [svm-r-markdown-templates](https://github.com/svmiller/svm-r-markdown-templates) - I have a suite of R Markdown templates for academic manuscripts, beamer presentations, and syllabi. I share them here.
-- [pkgreviewr](https://github.com/ropenscilabs/pkgreviewr) - R package to facilitate rOpenSci package reviews.
+- [pkgreviewr](https://github.com/ropensci-org/pkgreviewr) - R package to facilitate rOpenSci package reviews.
 - [daattali.github.io](https://github.com/daattali/daattali.github.io) - Dean Attali's website - R/Shiny Consultant
 - [docker-shiny](https://github.com/epwalsh/docker-shiny) - :whale: A Docker image for an R Shiny server with username + password authentication :closed_lock_with_key:
 - [owner](https://github.com/scibrokes/owner) - Personal CV
@@ -1051,6 +1057,11 @@
 
 ## JavaScript 
 
+- [bounty](https://github.com/coderitual/bounty) - Javascript and SVG odometer effect library with motion blur
+- [json-rules-engine](https://github.com/CacheControl/json-rules-engine) - A rules engine expressed in JSON
+- [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
+- [react-native-maps-directions](https://github.com/bramus/react-native-maps-directions) - Directions Component for `react-native-maps`
 - [flawesome](https://github.com/ashishBharadwaj/flawesome) - Productivity Tool
 - [notes](https://github.com/ikhadykin/notes) - Some notes concerning programming and stuff like that
 - [bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
@@ -1703,6 +1714,7 @@
 
 ## Objective-C 
 
+- [react-native-maps](https://github.com/react-native-maps/react-native-maps) - React Native Mapview component for iOS + Android
 - [DailyLearning](https://github.com/FrizzleFur/DailyLearning) - My Daily Learning~
 - [dotfiles](https://github.com/noamross/dotfiles) - 
 - [tlutility](https://github.com/amaxwell/tlutility) - TeX Live Utility, a Mac OS GUI for the TeX Live Manager
@@ -1713,6 +1725,9 @@
 
 ## Others 
 
+- [apis-plumber](https://github.com/meztez/apis-plumber) - 
+- [What-Open-Source-Means-To-Me](https://github.com/nickdesaulniers/What-Open-Source-Means-To-Me) - An experiment to see if we can get a bunch of people to send pull requests about what open source means to them
+- [GitHub-auto-push-for-Windows](https://github.com/Rich2020/GitHub-auto-push-for-Windows) - A simple batch script that executes every X seconds and automatically pushes the contents of the specified directory to your GitHub repository.
 - [about-Azure](https://github.com/ReneNyffenegger/about-Azure) - 
 - [about-Windows-Terminal](https://github.com/ReneNyffenegger/about-Windows-Terminal) - About Windows Terminal
 - [about-Sysinternals](https://github.com/ReneNyffenegger/about-Sysinternals) - About the Sysinternals suite.
@@ -2006,7 +2021,7 @@
 - [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) - A curated list of awesome Bioinformatics libraries and software.
 - [Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources) - A list of resources in different fields of Computer Science (multiple languages)
 - [awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing) - A curated list of awesome quantum computing learning and developing resources.
-- [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2020
+- [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021
 - [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [awesome-livecoding](https://github.com/toplap/awesome-livecoding) - All things livecoding
 - [awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
@@ -2444,6 +2459,8 @@
 
 ## Python 
 
+- [kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
+- [http-extensions](https://github.com/httpwg/http-extensions) - HTTP Extensions in progress
 - [dex](https://github.com/ardunn/dex) - an ultra-minimal productivity system
 - [about-sqlite](https://github.com/ReneNyffenegger/about-sqlite) - About sqlite
 - [about-python](https://github.com/ReneNyffenegger/about-python) - Small notes etc on python
@@ -2697,7 +2714,7 @@
 - [common-workflow-language](https://github.com/common-workflow-language/common-workflow-language) - Repository for the CWL standards. Use https://cwl.discourse.group/ for support 😊
 - [knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions.
 - [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
-- [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [taskbutler](https://github.com/6uhrmittag/taskbutler) - Create and add progress bars, Office365 Files and Dropbox Paper papers by labels and link them to your Todoist tasks.
 - [rfmt](https://github.com/google/rfmt) - R source code formatter
 - [pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
@@ -2710,6 +2727,14 @@
 
 ## R 
 
+- [testpkg](https://github.com/hongooi73/testpkg) - Test pkgdepends
+- [workflowsets](https://github.com/topepo/workflowsets) - 
+- [rapidoc](https://github.com/meztez/rapidoc) - RapiDoc UI integration for R
+- [redoc](https://github.com/meztez/redoc) - A collection of 'HTML', 'JavaScript', 'CSS' and fonts  assets that generate 'Redoc' documentation from an OAS compliant API.
+- [bigrquerystorage](https://github.com/meztez/bigrquerystorage) - R Client for BigQuery Storage API
+- [renvwincachetest](https://github.com/meztez/renvwincachetest) - 
+- [apis-plumber](https://github.com/rstudio/apis-plumber) - 
+- [groundhog](https://github.com/CredibilityLab/groundhog) - Reproducible R Scripts Via Version-Specific CRAN-Package Storing and Loading
 - [getsysreqs](https://github.com/mdneuzerling/getsysreqs) - Determine system requirements from R packages using the RStudio Package Manager.
 - [requirements](https://github.com/bmewing/requirements) - R package for managing requirements
 - [simputation](https://github.com/markvanderloo/simputation) - Making imputation easy
@@ -5008,6 +5033,7 @@
 
 ## TeX 
 
+- [RAppArmor](https://github.com/jeroen/RAppArmor) - R interfaces to Linux and AppArmor security methods
 - [thesisdown](https://github.com/ismayc/thesisdown) - An updated R Markdown thesis template using the bookdown package
 - [reproducible-research](https://github.com/rr-mrc-bsu/reproducible-research) - The most recent build from master is available at:
 - [knitr-examples](https://github.com/cderv/knitr-examples) - a collection of knitr examples
@@ -5069,6 +5095,9 @@
 
 ## TypeScript 
 
+- [utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
+- [useFilePicker](https://github.com/Jaaneek/useFilePicker) - Simple react hook to open browser file selector.
+- [react-layout-components](https://github.com/kripod/react-layout-components) - Layout components for React, primarily inspired by Every Layout (https://every-layout.dev/)
 - [cli](https://github.com/doc-sys/cli) - Comand Line Interface to configure and deploy
 - [honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [uniterm](https://github.com/JLChnToZ/uniterm) - 🚧Universal Terminal Emulator, might be a great toy terminal front-end for geeks.
