@@ -382,6 +382,7 @@
 
 ## CSS 
 
+- [visualization-with-shiny](https://github.com/tradestatistics/visualization-with-shiny) - Open Trade Statistics Shiny Dashboard
 - [fullscreen-slider](https://github.com/ykob/fullscreen-slider) - This asset controls sections in a page.   It resizes sections to fullscreen resolution and moves these individually by wheel/touch events.
 - [support](https://github.com/rbind/support) - Technical support for rbind
 - [resources](https://github.com/jimbrig/resources) - 
@@ -579,6 +580,7 @@
 
 ## Go 
 
+- [todoist](https://github.com/sachaos/todoist) - Todoist CLI Client. I ❤️ Todoist and CLI.
 - [kots](https://github.com/replicatedhq/kots) - KOTS provides the framework, tools and integrations that enable the delivery and management of 3rd-party Kubernetes applications, a.k.a. Kubernetes Off-The-Shelf (KOTS) Software.
 - [wsl-ssh-pageant](https://github.com/NZSmartie/wsl-ssh-pageant) - A Pageant bridge for WSL, enabling ssh-ageants to talk to to PuTTY Pagent or GnuPG for Windows
 - [wsl-ssh-agent](https://github.com/rupor-github/wsl-ssh-agent) - Helper to interface with Windows ssh-agent.exe service from Windows Subsystem for Linux (WSL)
@@ -715,6 +717,7 @@
 
 ## HTML 
 
+- [Covid19](https://github.com/miraisolutions/Covid19) - Analyze COVID-19 data
 - [targets-design](https://github.com/wlandau/targets-design) - Software design documents of the targets R package
 - [thinkdiff](https://github.com/mahmudahsan/thinkdiff) - My open source project links, programming and software development related code and tutorials are in this repo. Content types: Python, JavaScript, Dart | Django, React, Flutter, React-Native etc.
 - [personal-kanban](https://github.com/nishantpainter/personal-kanban) - 📌 Personal Kanban Board is an agile project management tool that helps you visualise your work, limit your work-in-progress (WIP) and to craft & optimise your work flow to get the maximum output. To achieve this, it makes use of columns and cards. Personal Kanban offers visual clue, columns, WIP limits, start point and end point to set you up for success.
@@ -1057,6 +1060,9 @@
 
 ## JavaScript 
 
+- [todoist-export](https://github.com/darekkay/todoist-export) - Backup tool for Todoist
+- [todoist](https://github.com/karlhadwen/todoist) - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Todoist Using React
+- [pdf-to-markdown](https://github.com/jzillmann/pdf-to-markdown) - A PDF to Markdown converter
 - [bounty](https://github.com/coderitual/bounty) - Javascript and SVG odometer effect library with motion blur
 - [json-rules-engine](https://github.com/CacheControl/json-rules-engine) - A rules engine expressed in JSON
 - [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
@@ -1632,6 +1638,7 @@
 
 ## Jupyter Notebook 
 
+- [ob-project-template](https://github.com/outlierbio/ob-project-template) - Outlier Bio analysis project template
 - [notebooks](https://github.com/westurner/notebooks) - Jupyter notebooks (.ipynb, data) https://westurner.org/notebooks/
 - [probability](https://github.com/dirmeier/probability) - Probabilistic reasoning and statistical analysis in TensorFlow
 - [covid_19_data](https://github.com/casact/covid_19_data) - Data collection and exploratory analysis related to COVID-19 for general insurance actuaries and the public
@@ -1710,6 +1717,7 @@
 
 ## OCaml 
 
+- [datakit](https://github.com/moby/datakit) - Connect processes into powerful data pipelines with a simple git-like filesystem interface
 - [cuekeeper](https://github.com/talex5/cuekeeper) - Browser-based GTD (TODO list) system. No server needed.
 
 ## Objective-C 
@@ -1725,7 +1733,11 @@
 
 ## Others 
 
-- [apis-plumber](https://github.com/meztez/apis-plumber) - 
+- [for-win](https://github.com/docker/for-win) - Bug reports for Docker Desktop for Windows
+- [shiny-cloudrun-demo](https://github.com/MarkEdmondson1234/shiny-cloudrun-demo) - Running Shiny app on Google Cloud Run
+- [dotfiles](https://github.com/MarkEdmondson1234/dotfiles) - Its my dotfiles
+- [rhub](https://github.com/MarkEdmondson1234/rhub) - R-hub API client
+- [r-code-commit-github](https://github.com/MarkEdmondson1234/r-code-commit-github) - Example of running R code on a schedule to commit a file to GitHub
 - [What-Open-Source-Means-To-Me](https://github.com/nickdesaulniers/What-Open-Source-Means-To-Me) - An experiment to see if we can get a bunch of people to send pull requests about what open source means to them
 - [GitHub-auto-push-for-Windows](https://github.com/Rich2020/GitHub-auto-push-for-Windows) - A simple batch script that executes every X seconds and automatically pushes the contents of the specified directory to your GitHub repository.
 - [about-Azure](https://github.com/ReneNyffenegger/about-Azure) - 
@@ -2459,6 +2471,9 @@
 
 ## Python 
 
+- [habitist](https://github.com/amitness/habitist) - A GitHub action that integrates native habit tracking in todoist. Apply the "Don't Break the Chain" method for habit building.
+- [quantified-self](https://github.com/DongjunLee/quantified-self) - Self-knowledge through numbers
+- [YouTube-video-finder](https://github.com/chris-lovejoy/YouTube-video-finder) - A tool to intentionally discover valuable videos
 - [kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
 - [http-extensions](https://github.com/httpwg/http-extensions) - HTTP Extensions in progress
 - [dex](https://github.com/ardunn/dex) - an ultra-minimal productivity system
@@ -2500,7 +2515,6 @@
 - [vcspull](https://github.com/vcs-python/vcspull) - :arrows_counterclockwise: synchronize projects via yaml/json manifest. built on libvcs
 - [datakit-project](https://github.com/associatedpress/datakit-project) - Project generator for use with the datakit framework.
 - [mdlinkprocessor](https://github.com/pdazero/mdlinkprocessor) - Makes markdown links more compatible, and other tools
-- [spells](https://github.com/nelsonmestevao/spells) - :crystal_ball: Handcrafted spells
 - [git-machete](https://github.com/VirtusLab/git-machete) - Probably the sharpest git repository organizer & rebase/merge workflow automation tool you've ever seen ;)
 - [cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [todoist-cli](https://github.com/Raytray/todoist-cli) - Python command line tool to quickly add tasks to projects with due dates.
@@ -2727,8 +2741,14 @@
 
 ## R 
 
+- [ob-docker](https://github.com/outlierbio/ob-docker) - Docker images for bioinformatics notebook and app environments
+- [docker-rcran](https://github.com/Kaggle/docker-rcran) - A dockerfile to install all of CRAN
+- [gtmR](https://github.com/MarkEdmondson1234/gtmR) - 
+- [yamlpack](https://github.com/combiz/yamlpack) - En-masse installation of R-packages
+- [pkgdeps](https://github.com/peterhurford/pkgdeps) - Find CRAN dependencies for R packages the easy way!
+- [pkgDepTools](https://github.com/Bioconductor/pkgDepTools) - Bioconductor package dependency tools
 - [testpkg](https://github.com/hongooi73/testpkg) - Test pkgdepends
-- [workflowsets](https://github.com/topepo/workflowsets) - 
+- [workflowsets](https://github.com/tidymodels/workflowsets) - 
 - [rapidoc](https://github.com/meztez/rapidoc) - RapiDoc UI integration for R
 - [redoc](https://github.com/meztez/redoc) - A collection of 'HTML', 'JavaScript', 'CSS' and fonts  assets that generate 'Redoc' documentation from an OAS compliant API.
 - [bigrquerystorage](https://github.com/meztez/bigrquerystorage) - R Client for BigQuery Storage API
@@ -4822,6 +4842,7 @@
 
 ## Shell 
 
+- [connect-api-deploy-shiny](https://github.com/rstudio/connect-api-deploy-shiny) - RStudio Connect API-driven Shiny application deployment example.
 - [simplenote-to-git](https://github.com/amussey/simplenote-to-git) - Back up your Simplenote account to a git repo or gist!
 - [vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
 - [DOCKER-introR](https://github.com/lockedata/DOCKER-introR) - A Dockerfile for teaching introductory R
@@ -4868,6 +4889,7 @@
 - [Autocommit](https://github.com/donnaken15/Autocommit) - using rather than committing every week holding back specific data, to look like any other user making daily contributions
 - [wsl-alias](https://github.com/leongrdic/wsl-alias) - Create aliases for Linux commands in Windows command line (for WSL)
 - [r-config](https://github.com/INWTlab/r-config) - R installation and configuration
+- [spells](https://github.com/nelsonmestevao/spells) - :crystal_ball: Handcrafted spells
 - [us-atlas](https://github.com/topojson/us-atlas) - Pre-built TopoJSON from the U.S. Census Bureau.
 - [world-atlas](https://github.com/topojson/world-atlas) - Pre-built TopoJSON from Natural Earth.
 - [dotfiles](https://github.com/pat-s/dotfiles) - 
