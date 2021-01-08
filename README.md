@@ -251,7 +251,7 @@
 - [ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
 - [PSDocs](https://github.com/BernieWhite/PSDocs) - Generate markdown from PowerShell.
 - [jumplist-extender](https://github.com/mazmazz/jumplist-extender) - A custom Jump List creator for any program on Windows.
-- [GitVersion](https://github.com/GitTools/GitVersion) - Easy Semantic Versioning (http://semver.org) for projects using Git
+- [GitVersion](https://github.com/GitTools/GitVersion) - From git log to SemVer in no time
 - [perfview](https://github.com/microsoft/perfview) - PerfView is a CPU and memory performance-analysis tool
 - [PowerGist](https://github.com/lawrencegripper/PowerGist) - An addin for the Powershell ISE to allow quick access, update and creation of Gists
 - [GitLink](https://github.com/GitTools/GitLink) - Making .NET open source accessible!
@@ -1189,7 +1189,7 @@
 - [systeminformation](https://github.com/sebhildebrandt/systeminformation) - System Information Library for Node.JS
 - [shinytableau](https://github.com/rstudio/shinytableau) - Extend Tableau dashboards using Shiny
 - [developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer.
-- [generator-jekyll-starter-kit](https://github.com/nirgn975/generator-jekyll-starter-kit) - :rocket: Jekyll Progressive Web App Generator.
+- [generator-jekyll-starter-kit](https://github.com/nirgn975/generator-jekyll-starter-kit) - 🚀 Jekyll Progressive Web App Generator.
 - [faviator](https://github.com/faviator/faviator) - A simple easy favicon generator.
 - [streaker](https://github.com/jamieweavis/streaker) - 🐙 GitHub contribution streak & stat tracking menu bar app
 - [GitHubWidgets](https://github.com/smuyyh/GitHubWidgets) - GitHub html widget, include User Widget、Repo Widget and Activity Widget.
@@ -2741,6 +2741,7 @@
 
 ## R 
 
+- [openrouteservice-r](https://github.com/GIScience/openrouteservice-r) - :globe_with_meridians: R package to query openrouteservice.org
 - [ob-docker](https://github.com/outlierbio/ob-docker) - Docker images for bioinformatics notebook and app environments
 - [docker-rcran](https://github.com/Kaggle/docker-rcran) - A dockerfile to install all of CRAN
 - [gtmR](https://github.com/MarkEdmondson1234/gtmR) - 
