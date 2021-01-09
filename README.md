@@ -185,6 +185,7 @@
 
 ## C# # 
 
+- [azure-functions-sql-extension](https://github.com/Azure/azure-functions-sql-extension) - Azure Functions trigger and bindings for SQL
 - [taskbar-groups](https://github.com/tjackenpacken/taskbar-groups) - Lightweight utility for organizing the taskbar through groups
 - [show-command-line-arguments](https://github.com/ReneNyffenegger/show-command-line-arguments) - Programs that show the command line arguments that they received.
 - [.NET-API](https://github.com/ReneNyffenegger/.NET-API) - Code snippets for select .NET classes etc.
@@ -195,6 +196,7 @@
 - [WinAppDriver](https://github.com/microsoft/WinAppDriver) - Windows Application Driver
 - [WslQuery](https://github.com/wslhub/WslQuery) - This program is a utility that reads the internal information of Windows Subsystem for Linux from the system and outputs the data to a standard output device in JSON format.
 - [WslShortcut](https://github.com/HanabishiRecca/WslShortcut) - Run WSL commands directly in Windows. Also allows to use WSL git/node/etc. in Visual Studio Code or another software.
+- [easyWSL](https://github.com/redcode-labs/easyWSL) - Use Docker Containers as WSL Distros
 - [WslManager](https://github.com/wslhub/WslManager) - .NET Core and non-designer based WSL Manager
 - [memealyzer](https://github.com/jongio/memealyzer) - Memealyzer is an app built to demonstrate some the latest and greatest Azure tech to dev, debug, and deploy microservice applications.
 - [dotnet-vcxproj](https://github.com/roozbehid/dotnet-vcxproj) - Enabling "dotnet build" to compile and build C/C++ projects. MSBuild task for compiling Visual Studio C/C++ projects (.vcxproj) with your choice of compiler on Linux or Windows or Mac!
@@ -374,6 +376,7 @@
 - [jsonify](https://github.com/SymbolixAU/jsonify) - R package to convert R objects to JSON
 - [subprocess](https://github.com/lbartnik/subprocess) - 
 - [later](https://github.com/r-lib/later) - Schedule an R function or formula to run after a specified period of time.
+- [gtsummary](https://github.com/ddsjoberg/gtsummary) - Presentation-Ready Data Summary and Analytic Result Tables
 - [odbc](https://github.com/r-dbi/odbc) - Connect to ODBC databases (using the DBI interface)
 - [pdftools](https://github.com/ropensci/pdftools) - Text Extraction, Rendering and Converting of PDF Documents
 - [vroom](https://github.com/r-lib/vroom) - Fast reading of delimited files
@@ -531,6 +534,7 @@
 
 ## Dart 
 
+- [migrator](https://github.com/sass/migrator) - Tool for migrating stylesheets to new Sass versions
 - [GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [next-joke](https://github.com/Maddoxx88/next-joke) - Random Two Part Joke App using Flutter.
 - [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
@@ -580,6 +584,7 @@
 
 ## Go 
 
+- [keeper-cli](https://github.com/nunux-keeper/keeper-cli) - Nunux Keeper CLI
 - [todoist](https://github.com/sachaos/todoist) - Todoist CLI Client. I ❤️ Todoist and CLI.
 - [kots](https://github.com/replicatedhq/kots) - KOTS provides the framework, tools and integrations that enable the delivery and management of 3rd-party Kubernetes applications, a.k.a. Kubernetes Off-The-Shelf (KOTS) Software.
 - [wsl-ssh-pageant](https://github.com/NZSmartie/wsl-ssh-pageant) - A Pageant bridge for WSL, enabling ssh-ageants to talk to to PuTTY Pagent or GnuPG for Windows
@@ -659,7 +664,7 @@
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [go-admin](https://github.com/GoAdminGroup/go-admin) - A golang framework helps gopher to build a data visualization and admin panel in ten minutes
 - [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
-- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers
 - [docker-shell](https://github.com/Trendyol/docker-shell) - A simple interactive prompt for docker
 - [lstags](https://github.com/ivanilves/lstags) - Explore Docker registries and manipulate Docker images!
@@ -989,7 +994,6 @@
 - [encryptedRmd](https://github.com/dirkschumacher/encryptedRmd) - 🔑 Password protected markdown html reports in R using libsodium
 - [pacman](https://github.com/trinker/pacman) - A package management tools for R
 - [ensurer](https://github.com/smbache/ensurer) - Ensure values are as expected at runtime
-- [gtsummary](https://github.com/ddsjoberg/gtsummary) - Presentation-Ready Data Summary and Analytic Result Tables
 - [R-data-wrangling](https://github.com/cengel/R-data-wrangling) - Materials for my my R data workshop. https://cengel.github.io/R-data-wrangling/
 - [UsefulCode](https://github.com/darwinanddavis/UsefulCode) - Useful R code for functions, plotting, cool things {R}
 - [spc-app](https://github.com/kellobri/spc-app) - 
@@ -1060,6 +1064,7 @@
 
 ## JavaScript 
 
+- [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [todoist-export](https://github.com/darekkay/todoist-export) - Backup tool for Todoist
 - [todoist](https://github.com/karlhadwen/todoist) - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Todoist Using React
 - [pdf-to-markdown](https://github.com/jzillmann/pdf-to-markdown) - A PDF to Markdown converter
@@ -1733,6 +1738,7 @@
 
 ## Others 
 
+- [intro-to-kubernetes](https://github.com/SamanthaToet/intro-to-kubernetes) - Notes from LinuxFoundation intro to kubernetes course
 - [for-win](https://github.com/docker/for-win) - Bug reports for Docker Desktop for Windows
 - [shiny-cloudrun-demo](https://github.com/MarkEdmondson1234/shiny-cloudrun-demo) - Running Shiny app on Google Cloud Run
 - [dotfiles](https://github.com/MarkEdmondson1234/dotfiles) - Its my dotfiles
@@ -2376,7 +2382,6 @@
 - [kubernetes_hyperv](https://github.com/EtienneDeneuve/kubernetes_hyperv) - Quick setup of a K8S Cluster in Hyper V server
 - [Windows-Boxstarter-with-WSL-Ubuntu](https://github.com/treffynnon/Windows-Boxstarter-with-WSL-Ubuntu) - My Windows Boxstarter with WSL (Ubuntu)
 - [wsl](https://github.com/KNOXDEV/wsl) - A scoop bucket for Window Subsystem for Linux distros. No Windows Store necessary. mirror of: https://git.irs.sh/KNOXDEV/wsl
-- [easyWSL](https://github.com/redcode-labs/easyWSL) - Powershell script to install custom WSL distro using Docker easily.
 - [kubernetes-for-windows](https://github.com/ptylenda/kubernetes-for-windows) - Ansible playbooks and Packer templates for creating hybrid Windows/Linux Kubernetes 1.10+ cluster with experimental Flannel pod network (host-gw backend)
 - [webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
 - [Remove-Win10-Apps](https://github.com/Digressive/Remove-Win10-Apps) - Customisable Windows 10 app removal utility
@@ -2471,6 +2476,7 @@
 
 ## Python 
 
+- [winpython](https://github.com/winpython/winpython) - A free Python-distribution for Windows platform, including prebuilt packages for Scientific Python.
 - [habitist](https://github.com/amitness/habitist) - A GitHub action that integrates native habit tracking in todoist. Apply the "Don't Break the Chain" method for habit building.
 - [quantified-self](https://github.com/DongjunLee/quantified-self) - Self-knowledge through numbers
 - [YouTube-video-finder](https://github.com/chris-lovejoy/YouTube-video-finder) - A tool to intentionally discover valuable videos
@@ -2655,7 +2661,7 @@
 - [obsidian-html](https://github.com/kmaasrud/obsidian-html) - A simple tool to convert an Obsidian vault into HTML
 - [pssh](https://github.com/lilydjwg/pssh) - Parallel SSH Tools
 - [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
-- [Scheduler](https://github.com/eacdev/Scheduler) - Automates completion and emailing of .xlsx time sheet.
+- [Scheduler](https://github.com/mvsrgc/Scheduler) - Automates completion and emailing of .xlsx time sheet.
 - [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
 - [drive-cli](https://github.com/nurdtechie98/drive-cli) - A command line interface for accessing google drive
@@ -2741,6 +2747,13 @@
 
 ## R 
 
+- [castarter](https://github.com/giocomai/castarter) - castarter - Content analysis starter toolkit for R
+- [parsermd](https://github.com/rundel/parsermd) - 
+- [newcovid](https://github.com/nicholasdavies/newcovid) - 
+- [reactibble](https://github.com/moodymudskipper/reactibble) - Use Dynamic Columns in Data Frames
+- [gsheet](https://github.com/maxconway/gsheet) - Download Google Sheets to R
+- [Rnightly](https://github.com/feddelegrand7/Rnightly) - An R Wrapper of the JavaScript Library Nightly
+- [pro_reports_talk](https://github.com/bradlindblad/pro_reports_talk) - This is the companion repository for the lightning talk given December 2020 to the R Finance group
 - [openrouteservice-r](https://github.com/GIScience/openrouteservice-r) - :globe_with_meridians: R package to query openrouteservice.org
 - [ob-docker](https://github.com/outlierbio/ob-docker) - Docker images for bioinformatics notebook and app environments
 - [docker-rcran](https://github.com/Kaggle/docker-rcran) - A dockerfile to install all of CRAN
@@ -4767,6 +4780,7 @@
 
 ## Rust 
 
+- [quist](https://github.com/gbrlsnchs/quist) - CLI to create short-lived Gists
 - [wslscript](https://github.com/sop/wslscript) - Associate .sh script files with WSL.
 - [wsl-agent-bridge](https://github.com/reynoldsbd/wsl-agent-bridge) - WSL compatibility bridge for ssh-agent on Windows
 - [subsystemctl](https://github.com/sorah/subsystemctl) - Utility to run systemd in WSL2 with a Linux namespace
@@ -4793,7 +4807,7 @@
 - [akri](https://github.com/deislabs/akri) - A Kubernetes Resource Interface for the Edge
 - [espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
 - [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
-- [emplace](https://github.com/tversteeg/emplace) - 👩‍❤️‍💋‍👩 Track and synchronize installed packages
+- [emplace](https://github.com/tversteeg/emplace) - 👩‍❤️‍💋‍👩 Synchronize installed packages on multiple machines
 - [ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [clog-cli](https://github.com/clog-tool/clog-cli) - Generate beautiful changelogs from your Git commit history
 - [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
@@ -4843,6 +4857,8 @@
 
 ## Shell 
 
+- [vault_essential_patterns_blog](https://github.com/grove-mountain/vault_essential_patterns_blog) - Code examples used for the Essential Patterns of Vault -- Pt 2 blog post
+- [vault-demo](https://github.com/sethvargo/vault-demo) - Walkthroughs and scripts for my @HashiCorp Vault talks
 - [connect-api-deploy-shiny](https://github.com/rstudio/connect-api-deploy-shiny) - RStudio Connect API-driven Shiny application deployment example.
 - [simplenote-to-git](https://github.com/amussey/simplenote-to-git) - Back up your Simplenote account to a git repo or gist!
 - [vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
@@ -5118,6 +5134,7 @@
 
 ## TypeScript 
 
+- [vsChat](https://github.com/Ademking/vsChat) - [VScode Extension] Chat with developers around the world.
 - [utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [useFilePicker](https://github.com/Jaaneek/useFilePicker) - Simple react hook to open browser file selector.
 - [react-layout-components](https://github.com/kripod/react-layout-components) - Layout components for React, primarily inspired by Every Layout (https://every-layout.dev/)
@@ -5300,6 +5317,7 @@
 
 ## Vim script 
 
+- [neuron.vim](https://github.com/fiatjaf/neuron.vim) - 📝 Manage your Zettelkasten in {n}vim.
 - [WSL-config](https://github.com/hsab/WSL-config) - CS 4400 - Step by step guide for using WSL and Vim as a development environment
 - [dotfiles](https://github.com/SerhatTeker/dotfiles) - Personal dotfiles
 - [dotfiles](https://github.com/jasonbellamy/dotfiles) - 
