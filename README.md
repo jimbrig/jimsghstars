@@ -584,6 +584,10 @@
 
 ## Go 
 
+- [cloud-run-release-operator](https://github.com/ahmetb/cloud-run-release-operator) - [WIP] Automated canary deployment rollout tool for Cloud Run.
+- [cloud-run-button](https://github.com/ahmetb/cloud-run-button) - Allow your GitHub repos to deploy to Google Cloud Run in a single click
+- [serverless-registry-proxy](https://github.com/ahmetb/serverless-registry-proxy) - Serverless reverse proxy for exposing container registries (GCR, Docker Hub, Artifact Registry etc) on custom domains.
+- [krew](https://github.com/ahmetb/krew) - 📦 Package manager for kubectl plugins
 - [keeper-cli](https://github.com/nunux-keeper/keeper-cli) - Nunux Keeper CLI
 - [todoist](https://github.com/sachaos/todoist) - Todoist CLI Client. I ❤️ Todoist and CLI.
 - [kots](https://github.com/replicatedhq/kots) - KOTS provides the framework, tools and integrations that enable the delivery and management of 3rd-party Kubernetes applications, a.k.a. Kubernetes Off-The-Shelf (KOTS) Software.
@@ -715,6 +719,7 @@
 
 ## HCL 
 
+- [cloud-run-multi-region-terraform](https://github.com/ahmetb/cloud-run-multi-region-terraform) - Deploy a Cloud Run app to all available regions using Terraform.
 - [terraform-google-cloud-run](https://github.com/CallePuzzle/terraform-google-cloud-run) - Terraform module to deploy a Cloud Run component
 - [terraform_book_code](https://github.com/paeselhz/terraform_book_code) - Project containing my experiments while studying Terraform
 - [rshiny-with-polished-tech-eks](https://github.com/jerowe/rshiny-with-polished-tech-eks) - Example RShiny Authentication with Polished Tech hosted on AWS EKS with Terraform.
@@ -722,6 +727,7 @@
 
 ## HTML 
 
+- [cloud-run-hello](https://github.com/ahmetb/cloud-run-hello) - Sample Cloud Run application
 - [Covid19](https://github.com/miraisolutions/Covid19) - Analyze COVID-19 data
 - [targets-design](https://github.com/wlandau/targets-design) - Software design documents of the targets R package
 - [thinkdiff](https://github.com/mahmudahsan/thinkdiff) - My open source project links, programming and software development related code and tutorials are in this repo. Content types: Python, JavaScript, Dart | Django, React, Flutter, React-Native etc.
@@ -1064,6 +1070,9 @@
 
 ## JavaScript 
 
+- [tfjs-cloudrun](https://github.com/ahmetb/tfjs-cloudrun) - 
+- [cloudrun-socketio-whiteboard](https://github.com/ahmetb/cloudrun-socketio-whiteboard) - 
+- [shinybrowser](https://github.com/daattali/shinybrowser) - 
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [todoist-export](https://github.com/darekkay/todoist-export) - Backup tool for Todoist
 - [todoist](https://github.com/karlhadwen/todoist) - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Todoist Using React
@@ -1188,7 +1197,7 @@
 - [flexdashboard](https://github.com/rstudio/flexdashboard) - Easy interactive dashboards for R
 - [github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) - 🔥 Add Programming Quotes To Your GitHub Readme
 - [inky](https://github.com/inkle/inky) - An editor for ink: inkle's narrative scripting language
-- [metrics](https://github.com/lowlighter/metrics) - 📊 An image generator with 20+ metrics about your GitHub account such as activity, community, repositories, coding habits, website performances, music played, starred topics, etc. that you can put on your profile or elsewhere !
+- [metrics](https://github.com/lowlighter/metrics) - 📊 An image generator with 20+ metrics about your GitHub account such as activity, community, repositories, coding habits, website performances, music played, starred topics, etc. that you can put on your profile or elsewhere!
 - [pg-formatter](https://github.com/gajus/pg-formatter) - A PostgreSQL SQL syntax beautifier.
 - [obelisk.js](https://github.com/nosir/obelisk.js) - Build pixel isometric graphics with HTML5 canvas
 - [systeminformation](https://github.com/sebhildebrandt/systeminformation) - System Information Library for Node.JS
@@ -1738,6 +1747,8 @@
 
 ## Others 
 
+- [terraform-google-lb-http](https://github.com/ahmetb/terraform-google-lb-http) - Modular Global HTTP Load Balancer for GCE using forwarding rules.
+- [Gitpod-R](https://github.com/gitpod-io/Gitpod-R) - R language support for Gitpod
 - [intro-to-kubernetes](https://github.com/SamanthaToet/intro-to-kubernetes) - Notes from LinuxFoundation intro to kubernetes course
 - [for-win](https://github.com/docker/for-win) - Bug reports for Docker Desktop for Windows
 - [shiny-cloudrun-demo](https://github.com/MarkEdmondson1234/shiny-cloudrun-demo) - Running Shiny app on Google Cloud Run
@@ -2661,7 +2672,6 @@
 - [obsidian-html](https://github.com/kmaasrud/obsidian-html) - A simple tool to convert an Obsidian vault into HTML
 - [pssh](https://github.com/lilydjwg/pssh) - Parallel SSH Tools
 - [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
-- [Scheduler](https://github.com/mvsrgc/Scheduler) - Automates completion and emailing of .xlsx time sheet.
 - [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
 - [drive-cli](https://github.com/nurdtechie98/drive-cli) - A command line interface for accessing google drive
@@ -2725,7 +2735,7 @@
 - [appdirs](https://github.com/ActiveState/appdirs) - A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
 - [docs.carpentries.org](https://github.com/carpentries/docs.carpentries.org) - Community Documentation for the Carpentries
 - [awesome-microbit](https://github.com/carlosperate/awesome-microbit) - A curated list of BBC micro:bit resources.
-- [aws-data-wrangler](https://github.com/awslabs/aws-data-wrangler) - Pandas on AWS
+- [aws-data-wrangler](https://github.com/awslabs/aws-data-wrangler) - Pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).
 - [git-xl](https://github.com/xlwings/git-xl) - Git extension: Makes git-diff work for Excel workbooks (xls* file types)
 - [printprob-db](https://github.com/cmu-lib/printprob-db) - Database and interface for Print and Probability project
 - [easy-module-attribute-getter](https://github.com/KevinMusgrave/easy-module-attribute-getter) - Fetch and initialize objects in one line, without any if-statements or dictionaries. Merge and override complex config options at the command line.
@@ -2747,6 +2757,11 @@
 
 ## R 
 
+- [DepthProc](https://github.com/zzawadz/DepthProc) - 
+- [qsslearnr](https://github.com/mattblackwell/qsslearnr) - learnr tutorial package for Quantitative Social Science
+- [of-dollars-and-data](https://github.com/nmaggiulli/of-dollars-and-data) - Repo for ofdollarsanddata.com blog
+- [checklist](https://github.com/fabian-s/checklist) - Custom linting and checks for my programming class
+- [checklist](https://github.com/adhollander/checklist) - Sustainable sourcing checklist generator.
 - [castarter](https://github.com/giocomai/castarter) - castarter - Content analysis starter toolkit for R
 - [parsermd](https://github.com/rundel/parsermd) - 
 - [newcovid](https://github.com/nicholasdavies/newcovid) - 
@@ -4857,6 +4872,7 @@
 
 ## Shell 
 
+- [dotfiles](https://github.com/ahmetb/dotfiles) - Ahmet's dotfiles and macOS customizations
 - [vault_essential_patterns_blog](https://github.com/grove-mountain/vault_essential_patterns_blog) - Code examples used for the Essential Patterns of Vault -- Pt 2 blog post
 - [vault-demo](https://github.com/sethvargo/vault-demo) - Walkthroughs and scripts for my @HashiCorp Vault talks
 - [connect-api-deploy-shiny](https://github.com/rstudio/connect-api-deploy-shiny) - RStudio Connect API-driven Shiny application deployment example.
@@ -5038,6 +5054,7 @@
 - [rddj-template](https://github.com/grssnbchr/rddj-template) - A template for bootstrapping reproducible RMarkdown documents for data journalistic purposes.
 - [gitflow-avh](https://github.com/petervanderdoes/gitflow-avh) - AVH Edition of the git extensions to provide high-level repository operations for Vincent Driessen's branching model
 - [sysreqsdb](https://github.com/r-hub/sysreqsdb) - SystemRequirements mappings for R packages
+- [dotfiles](https://github.com/strboul/dotfiles) - My dotfiles with a setup script :rocket:
 - [rhub-linux-builders](https://github.com/jcheng5/rhub-linux-builders) - Docker configuration for the Linux builders
 - [professional-programming](https://github.com/luong-komorebi/professional-programming) - A collection of full-stack resources for programmers.
 - [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -5337,7 +5354,6 @@
 - [til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [dotfiles](https://github.com/maxpou/dotfiles) - :computer: my dotfiles (Ubuntu&MacOS)
 - [vim-rif](https://github.com/smbache/vim-rif) - Relative Importing of Files
-- [dotfiles](https://github.com/strboul/dotfiles) - My dotfiles with a setup script :rocket:
 
 ## VimL 
 
