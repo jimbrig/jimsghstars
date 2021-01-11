@@ -376,7 +376,6 @@
 - [jsonify](https://github.com/SymbolixAU/jsonify) - R package to convert R objects to JSON
 - [subprocess](https://github.com/lbartnik/subprocess) - 
 - [later](https://github.com/r-lib/later) - Schedule an R function or formula to run after a specified period of time.
-- [gtsummary](https://github.com/ddsjoberg/gtsummary) - Presentation-Ready Data Summary and Analytic Result Tables
 - [odbc](https://github.com/r-dbi/odbc) - Connect to ODBC databases (using the DBI interface)
 - [pdftools](https://github.com/ropensci/pdftools) - Text Extraction, Rendering and Converting of PDF Documents
 - [vroom](https://github.com/r-lib/vroom) - Fast reading of delimited files
@@ -1000,6 +999,7 @@
 - [encryptedRmd](https://github.com/dirkschumacher/encryptedRmd) - 🔑 Password protected markdown html reports in R using libsodium
 - [pacman](https://github.com/trinker/pacman) - A package management tools for R
 - [ensurer](https://github.com/smbache/ensurer) - Ensure values are as expected at runtime
+- [gtsummary](https://github.com/ddsjoberg/gtsummary) - Presentation-Ready Data Summary and Analytic Result Tables
 - [R-data-wrangling](https://github.com/cengel/R-data-wrangling) - Materials for my my R data workshop. https://cengel.github.io/R-data-wrangling/
 - [UsefulCode](https://github.com/darwinanddavis/UsefulCode) - Useful R code for functions, plotting, cool things {R}
 - [spc-app](https://github.com/kellobri/spc-app) - 
@@ -1072,7 +1072,7 @@
 
 - [tfjs-cloudrun](https://github.com/ahmetb/tfjs-cloudrun) - 
 - [cloudrun-socketio-whiteboard](https://github.com/ahmetb/cloudrun-socketio-whiteboard) - 
-- [shinybrowser](https://github.com/daattali/shinybrowser) - 
+- [shinybrowser](https://github.com/daattali/shinybrowser) - Detect your user's web browser information in Shiny
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [todoist-export](https://github.com/darekkay/todoist-export) - Backup tool for Todoist
 - [todoist](https://github.com/karlhadwen/todoist) - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Todoist Using React
@@ -1686,6 +1686,7 @@
 
 ## Lua 
 
+- [dotfiles](https://github.com/hexylena/dotfiles) - My rubbish dotfiles repo
 - [awesome-config](https://github.com/Eggbertx/awesome-config) - My awesome (window manager) configuration setup
 - [awesome-config](https://github.com/theasp/awesome-config) - Configuration GUI and plugin API for the Awesome window manager
 - [dotfiles](https://github.com/onodera-punpun/dotfiles) - My dotfiles and themes.
@@ -2402,7 +2403,7 @@
 - [ZLocation](https://github.com/vors/ZLocation) - ZLocation is the new Jump-Location
 - [winsetup](https://github.com/jimbrig/winsetup) - Windows 10 Setup
 - [WindowsSetup](https://github.com/asears/WindowsSetup) - Apps for Windows
-- [CleanWin](https://github.com/pratyakshm/CleanWin) - A community powered project that aims to make Windows 10 better.
+- [CleanWin](https://github.com/pratyakshm/CleanWin) - A community powered project aimed at making Windows 10 better.
 - [virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [windows10-debloat](https://github.com/Daksh777/windows10-debloat) - Collection of various scripts and apps to debloat Windows 10 for better privacy, performance and optimization.
 - [Windows-On-Reins](https://github.com/gordonbay/Windows-On-Reins) - Windows 10 Ameliorated, Debloat, Optimize, Privacy fix
@@ -2567,7 +2568,6 @@
 - [PCDM](https://github.com/casact/PCDM) - Property Casualty Data Model Specification
 - [MIES](https://github.com/genedan/MIES) - Miniature Insurance Economic Simulator
 - [tidyverse_notes](https://github.com/yusuzech/tidyverse_notes) - Avoid common mistake and write efficient codes in tidyverse.
-- [pyUtility](https://github.com/yusuzech/pyUtility) - utility functions
 - [groupme_stats](https://github.com/youyanggu/groupme_stats) - Tool to download and optionally display interesting stats about GroupMe messages
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 - [explain-starred](https://github.com/chinanf-boy/explain-starred) - manager your star ,simple py run, explain to you
@@ -2731,7 +2731,7 @@
 - [lifelib](https://github.com/fumitoh/lifelib) - Actuarial models in Python
 - [WALKOFF](https://github.com/nsacyber/WALKOFF) - A flexible, easy to use, automation framework allowing users to integrate their capabilities and devices to cut through the repetitive, tedious tasks slowing them down. #nsacyber
 - [flare-floss](https://github.com/fireeye/flare-floss) - FireEye Labs Obfuscated String Solver - Automatically extract obfuscated strings from malware.
-- [nppPluginList](https://github.com/notepad-plus-plus/nppPluginList) - 
+- [nppPluginList](https://github.com/notepad-plus-plus/nppPluginList) - The official collection of Notepad++ plugins.
 - [appdirs](https://github.com/ActiveState/appdirs) - A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
 - [docs.carpentries.org](https://github.com/carpentries/docs.carpentries.org) - Community Documentation for the Carpentries
 - [awesome-microbit](https://github.com/carlosperate/awesome-microbit) - A curated list of BBC micro:bit resources.
@@ -3529,7 +3529,7 @@
 - [dittodb](https://github.com/ropensci/dittodb) - dittodb: A Test Environment for DB Queries in R
 - [r2eng](https://github.com/matt-dray/r2eng) - :speaking_head::speaker: R package: translate R to English
 - [fasteR](https://github.com/matloff/fasteR) - Fast Lane to Learning R!
-- [TCC-GUI](https://github.com/swsoyee/TCC-GUI) - 📊Graphical User Interface for TCC package
+- [TCC-GUI](https://github.com/swsoyee/TCC-GUI) - 📊 Graphical User Interface for TCC package
 - [minifyr](https://github.com/ColinFay/minifyr) - Wrapper around node-minify NodeJS module
 - [workflowr-spotify](https://github.com/AnisaMath/workflowr-spotify) - Workflowr Tutorial
 - [leaflet.minicharts](https://github.com/rte-antares-rpackage/leaflet.minicharts) - Minicharts for dynamic leaflet maps
