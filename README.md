@@ -726,6 +726,8 @@
 
 ## HTML 
 
+- [reprex_demo](https://github.com/maelle/reprex_demo) - Experiments around sharing reprexes on Gist and Twitter
+- [ctv-computational-environments](https://github.com/o2r-project/ctv-computational-environments) - A CRAN task view for computational environments and reproducibility
 - [cloud-run-hello](https://github.com/ahmetb/cloud-run-hello) - Sample Cloud Run application
 - [Covid19](https://github.com/miraisolutions/Covid19) - Analyze COVID-19 data
 - [targets-design](https://github.com/wlandau/targets-design) - Software design documents of the targets R package
@@ -1748,6 +1750,7 @@
 
 ## Others 
 
+- [developer-site](https://github.com/raindropio/developer-site) - Official documentation for Raindrop.io API
 - [terraform-google-lb-http](https://github.com/ahmetb/terraform-google-lb-http) - Modular Global HTTP Load Balancer for GCE using forwarding rules.
 - [Gitpod-R](https://github.com/gitpod-io/Gitpod-R) - R language support for Gitpod
 - [intro-to-kubernetes](https://github.com/SamanthaToet/intro-to-kubernetes) - Notes from LinuxFoundation intro to kubernetes course
@@ -2757,6 +2760,39 @@
 
 ## R 
 
+- [systemPipeShiny](https://github.com/systemPipeR/systemPipeShiny) - A Shiny framework for workflow management and data visualization
+- [switchr](https://github.com/gmbecker/switchr) - An R package for managing and seamlessly switching between sets of installed R packages.
+- [vincent](https://github.com/vanlog/vincent) - 
+- [spotifyr](https://github.com/charlie86/spotifyr) - R wrapper for Spotify's Web API
+- [blogyaml](https://github.com/maelle/blogyaml) - Batch edit tags of Markdown based blog posts
+- [lockedata.starters9](https://github.com/maelle/lockedata.starters9) - New polished project!
+- [task_views](https://github.com/r-spatial/task_views) - Local copy for editing CRAN Task Views
+- [DBconnectR](https://github.com/ekoepplin/DBconnectR) - R client to query data from different sources
+- [plumber-redirect](https://github.com/colearendt/plumber-redirect) - A simple plumber API example showing use of a redirect
+- [spotifyconnection](https://github.com/RMHogervorst/spotifyconnection) - Connect to spotify with R
+- [stocknews](https://github.com/news-r/stocknews) - 📈 Access Stock News API from R
+- [writingAssistantR](https://github.com/voltek62/writingAssistantR) - Create easily your premium guide with R. A Premium Guide is the list of the most important words of your content targeting a specific query.
+- [rt](https://github.com/NCEAS/rt) - An interface to the Request Tracker API
+- [ownCloud4R](https://github.com/eblondel/ownCloud4R) - R Interface to 'ownCloud' collaborative platform
+- [plumberModel](https://github.com/beeva-jorgezaldivar/plumberModel) - Create APIs for the deployment of R models with minimal code
+- [r-api-demo](https://github.com/jaehyeon-kim/r-api-demo) - Investigate API Development with R
+- [googlenlp](https://github.com/BrianWeinstein/googlenlp) - An Interface to Google's Cloud Natural Language API
+- [ynabr](https://github.com/mathewroy/ynabr) - Analyze and visualize your You Need A Budget (YNAB) data. YNAB meets R programming language.
+- [protopretzel](https://github.com/ozean12/protopretzel) - 🥨0100110🥨 Protocol Buffers for Plumber APIs
+- [RNativeAPI](https://github.com/HenrikBengtsson/RNativeAPI) - R package: RNativeAPI - Documentation and Examples of the R Native API (Proof of Concept)
+- [plungr](https://github.com/ozean12/plungr) - A plumber's API best friend.
+- [googleTagManageR](https://github.com/IronistM/googleTagManageR) - An R package to interact with the Google Tag Manager API
+- [RobinHood](https://github.com/JestonBlu/RobinHood) - An R interface for the RobinHood.com no commision investing site
+- [duckduckr](https://github.com/dirkschumacher/duckduckr) - 🦆🦆🚶 DuckDuckGo's Instant Answer API for R
+- [rsdmx](https://github.com/opensdmx/rsdmx) - Tools for reading SDMX data and metadata in R
+- [googleAuthR](https://github.com/MarkEdmondson1234/googleAuthR) - Google API Client Library for R. Easy authentication and help to build Google API R libraries with OAuth2. Shiny compatible.
+- [googleComputeEngineR](https://github.com/cloudyr/googleComputeEngineR) - An R interface to the Google Cloud Compute API, for launching virtual machines
+- [rtweet](https://github.com/ropensci/rtweet) - 🐦 R client for interacting with Twitter's [stream and REST] APIs
+- [statically](https://github.com/hrbrmstr/statically) - 📸 Generate Webpage Screenshots Using the Statically API
+- [seymour](https://github.com/hrbrmstr/seymour) - 🧰 📰 Tools to Work with the 'Feedly' 'API'
+- [darksky](https://github.com/hrbrmstr/darksky) - :cloud: R interface to the Dark Sky API [APPLE IS SHUTTING DOWN THE API 2021-12-31]
+- [gdns](https://github.com/hrbrmstr/gdns) - Tools to work with the Google DNS over HTTPS API in R
+- [bacharach](https://github.com/hrbrmstr/bacharach) - Tools to Work with the Raindrop API
 - [DepthProc](https://github.com/zzawadz/DepthProc) - 
 - [qsslearnr](https://github.com/mattblackwell/qsslearnr) - learnr tutorial package for Quantitative Social Science
 - [of-dollars-and-data](https://github.com/nmaggiulli/of-dollars-and-data) - Repo for ofdollarsanddata.com blog
@@ -2777,7 +2813,7 @@
 - [pkgdeps](https://github.com/peterhurford/pkgdeps) - Find CRAN dependencies for R packages the easy way!
 - [pkgDepTools](https://github.com/Bioconductor/pkgDepTools) - Bioconductor package dependency tools
 - [testpkg](https://github.com/hongooi73/testpkg) - Test pkgdepends
-- [workflowsets](https://github.com/tidymodels/workflowsets) - 
+- [workflowsets](https://github.com/tidymodels/workflowsets) - A workflow is a combination of a model and preprocessors (e.g, a formula, recipe, etc.). In order to try different combinations of these, an object can be created that contains many workflows. There are functions to create workflows en masse as well as training them and visualizing the results.
 - [rapidoc](https://github.com/meztez/rapidoc) - RapiDoc UI integration for R
 - [redoc](https://github.com/meztez/redoc) - A collection of 'HTML', 'JavaScript', 'CSS' and fonts  assets that generate 'Redoc' documentation from an OAS compliant API.
 - [bigrquerystorage](https://github.com/meztez/bigrquerystorage) - R Client for BigQuery Storage API
@@ -2986,7 +3022,7 @@
 - [R_data.table_intro](https://github.com/rsaporta/R_data.table_intro) - An introduction to the data.table package for R
 - [rpivotTableMD](https://github.com/jienagu/rpivotTableMD) - This is a Shiny app to fetch users' activity and interact with Rmarkdown (pdf/word) report
 - [flattabler](https://github.com/josesamos/flattabler) - Obtaining a Flat Table from Pivot Tables
-- [pivotable](https://github.com/edgararuiz/pivotable) - 
+- [pivotable](https://github.com/edgararuiz-zz/pivotable) - 
 - [pivot](https://github.com/halpo/pivot) - pivot extensions for dbplyr
 - [r-big-pivot](https://github.com/joyofdata/r-big-pivot) - Pivoting and charting big tabular data sets in a browser UI based on R and Shiny.
 - [PivotalR](https://github.com/greenplum-db/PivotalR) - An convenient R tool for manipulating tables in PostgreSQL type databases and a wrapper of Apache MADlib.
@@ -3140,7 +3176,7 @@
 - [shinyglide-app](https://github.com/Tazovsky/shinyglide-app) - Example usage of `shinyglide` combined with `shinydashboard` in Shiny application.
 - [msdr](https://github.com/faizan-khan-iit/msdr) - Mastering Software Development in R
 - [R-Programs](https://github.com/piyushkumar102/R-Programs) - A repository for R Programs
-- [cleaning-data-in-r](https://github.com/carlosehernandezr/cleaning-data-in-r) - :pick: :gem: Taking raw data and converting it to tidy data that can be used for later analysis
+- [cleaning-data-in-r](https://github.com/carlosstack/cleaning-data-in-r) - :pick: :gem: Taking raw data and converting it to tidy data that can be used for later analysis
 - [RStatisticsTraining](https://github.com/tertiarycourses/RStatisticsTraining) - Exercise files for R Statistics Essential Training
 - [rfars](https://github.com/Cesar-Urteaga/rfars) - Project that illustrates how to create an R package.
 - [baseR-multiarch-Docker-image](https://github.com/dr2pedro/baseR-multiarch-Docker-image) - Just a Dockerfile to build multi-arch docker image of R for development.
@@ -5159,7 +5195,7 @@
 - [honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [uniterm](https://github.com/JLChnToZ/uniterm) - 🚧Universal Terminal Emulator, might be a great toy terminal front-end for geeks.
 - [action-docker-layer-caching](https://github.com/satackey/action-docker-layer-caching) - 🐳  Enable Docker layer caching in GitHub Actions
-- [privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, because privacy is sexy 🍑🍆
+- [privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
 - [PicGo-Core](https://github.com/PicGo/PicGo-Core) - :zap:A tool for pictures uploading. Both CLI & API supports.
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [manypkg](https://github.com/Thinkmill/manypkg) - ☔️ An umbrella for your monorepo
@@ -5330,6 +5366,7 @@
 
 ## VBScript 
 
+- [todoist-global-shortcuts-WIN10](https://github.com/rickstaa/todoist-global-shortcuts-WIN10) - Since TODOIST its Windows 10 app doesn’t support global shortcuts at the moment. I made a little workaround for the "open TODOIST" global shortcut.
 - [about-VBScript](https://github.com/ReneNyffenegger/about-VBScript) - about VBScript
 
 ## Vim script 
