@@ -1074,7 +1074,7 @@
 
 - [tfjs-cloudrun](https://github.com/ahmetb/tfjs-cloudrun) - 
 - [cloudrun-socketio-whiteboard](https://github.com/ahmetb/cloudrun-socketio-whiteboard) - 
-- [shinybrowser](https://github.com/daattali/shinybrowser) - Detect your user's web browser information in Shiny
+- [shinybrowser](https://github.com/daattali/shinybrowser) - Find out information about your user's web browser in Shiny
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [todoist-export](https://github.com/darekkay/todoist-export) - Backup tool for Todoist
 - [todoist](https://github.com/karlhadwen/todoist) - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Todoist Using React
@@ -1750,6 +1750,8 @@
 
 ## Others 
 
+- [winget-Ash258](https://github.com/Ash258/winget-Ash258) - Personal winget manifests
+- [code-review-checklist](https://github.com/mgreiler/code-review-checklist) - This code review checklist helps you be a more effective and efficient code reviewer.
 - [developer-site](https://github.com/raindropio/developer-site) - Official documentation for Raindrop.io API
 - [terraform-google-lb-http](https://github.com/ahmetb/terraform-google-lb-http) - Modular Global HTTP Load Balancer for GCE using forwarding rules.
 - [Gitpod-R](https://github.com/gitpod-io/Gitpod-R) - R language support for Gitpod
@@ -2386,6 +2388,20 @@
 
 ## PowerShell 
 
+- [Scoop-Extras](https://github.com/Ash258/Scoop-Extras) - "Extras" bucket for Scoop
+- [Scoop-GithubActions](https://github.com/Ash258/Scoop-GithubActions) - GitHub actions for scoop bucket automation.
+- [Scoop-Main](https://github.com/Ash258/Scoop-Main) - 📦 The next-generation default bucket for Scoop.
+- [Scoop-Dockers](https://github.com/Ash258/Scoop-Dockers) - Docker images for Shovel
+- [Scoop-NirSoft](https://github.com/Ash258/Scoop-NirSoft) - WIP: All NirSoft applications and utilities
+- [Scoop-Sysinternals](https://github.com/Ash258/Scoop-Sysinternals) - All Sysinternals tools separately.
+- [Scoop-JetBrains](https://github.com/Ash258/Scoop-JetBrains) - All JetBrains Utilities and IDEs
+- [GithubActionsBucketForTesting](https://github.com/Ash258/GithubActionsBucketForTesting) - Test repo for https://github.com/Ash258/scoop-GithubActions
+- [Scoop-Ash258](https://github.com/Ash258/Scoop-Ash258) - Personal bucket with wide variety of applications of all kind.
+- [Install](https://github.com/ScoopInstaller/Install) - 📥 WIP: Next-generation Scoop (un)installer
+- [Scoop-Core](https://github.com/Ash258/Scoop-Core) - Shovel. Alternative, more advanced and user-friendly implementation of windows command-line installer scoop.
+- [Posh-VirusTotal](https://github.com/darkoperator/Posh-VirusTotal) - PowerShell Module to interact with VirusTotal
+- [powershell_scripts](https://github.com/darkoperator/powershell_scripts) - Powershell Scripts
+- [Posh-Sysmon](https://github.com/darkoperator/Posh-Sysmon) - PowerShell module for creating and managing Sysinternals Sysmon config files.
 - [about-Windows-Registry](https://github.com/ReneNyffenegger/about-Windows-Registry) - Windows Registry
 - [temp-registry-extension](https://github.com/ReneNyffenegger/temp-registry-extension) - 
 - [about-SQL-Developer](https://github.com/ReneNyffenegger/about-SQL-Developer) - Stored stuff about SQL Developer
@@ -3443,7 +3459,7 @@
 - [nozzle](https://github.com/parklab/nozzle) - Nozzle is a report generation toolkit for data analysis pipelines implemented in R.
 - [canvasXpress](https://github.com/neuhausi/canvasXpress) - JavaScript VisualizationTools
 - [lightr](https://github.com/ropensci/lightr) - Import spectral data and related metadata in R
-- [tarchetypes](https://github.com/wlandau/tarchetypes) - Archetypes for targets and pipelines
+- [tarchetypes](https://github.com/ropensci/tarchetypes) - Archetypes for targets and pipelines
 - [reproducible-research-ctv](https://github.com/jdblischak/reproducible-research-ctv) - CRAN Task View: Reproducible Research
 - [scriptgloss](https://github.com/dgkf/scriptgloss) - dynamically reconstruct static code for shiny outputs
 - [repro_web_stack](https://github.com/rubenarslan/repro_web_stack) - The stack I use to make reproducible reports of my statistical analyses
@@ -3583,7 +3599,7 @@
 - [portalr](https://github.com/weecology/portalr) - A collection of functions to summarize the Portal Data
 - [mylifeinmonths](https://github.com/sharlagelfand/mylifeinmonths) - 
 - [snapbox](https://github.com/anthonynorth/snapbox) - Static mapbox basemap for ggplot2.
-- [targets](https://github.com/wlandau/targets) - Function-oriented Make-like declarative workflows for R
+- [targets](https://github.com/ropensci/targets) - Function-oriented Make-like declarative workflows for R
 - [flair](https://github.com/r-for-educators/flair) - decorate your R code
 - [charter](https://github.com/JohnCoene/charter) - Chart.js for R
 - [statnet.common](https://github.com/statnet/statnet.common) - Common R Scripts and Utilities Used by the Statnet Project Software
