@@ -384,6 +384,7 @@
 
 ## CSS 
 
+- [exploratory-data-analysis-in-the-21st-century](https://github.com/dicook/exploratory-data-analysis-in-the-21st-century) - A book about exploratory data analysis in the 21st century
 - [visualization-with-shiny](https://github.com/tradestatistics/visualization-with-shiny) - Open Trade Statistics Shiny Dashboard
 - [fullscreen-slider](https://github.com/ykob/fullscreen-slider) - This asset controls sections in a page.   It resizes sections to fullscreen resolution and moves these individually by wheel/touch events.
 - [support](https://github.com/rbind/support) - Technical support for rbind
@@ -726,6 +727,7 @@
 
 ## HTML 
 
+- [rapideeportable](https://github.com/GordCaswell/rapideeportable) - PortableApps package of Rapid Environment Editor
 - [reprex_demo](https://github.com/maelle/reprex_demo) - Experiments around sharing reprexes on Gist and Twitter
 - [ctv-computational-environments](https://github.com/o2r-project/ctv-computational-environments) - A CRAN task view for computational environments and reproducibility
 - [cloud-run-hello](https://github.com/ahmetb/cloud-run-hello) - Sample Cloud Run application
@@ -780,7 +782,7 @@
 - [docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
 - [nyt-2020-election-scraper](https://github.com/alex/nyt-2020-election-scraper) - 
-- [notenote.link](https://github.com/Maxence-L/notenote.link) - A digital garden using a custom version of simply-jekyll, optimised for integration with Obsidian. It is more oriented on note-taking and aims to help you build a nice knowledge base that can scale with time.
+- [notenote.link](https://github.com/Maxence-L/notenote.link) - A Jekyll digital garden template, optimized for integration with Obsidian. It aims to enhance discoverability and help you build a personal knowledge base that can scale with time.
 - [goffer](https://github.com/xxxzeus/goffer) - Beautiful and basic file manager written on electron.js
 - [hugo-theme-introduction](https://github.com/victoriadrake/hugo-theme-introduction) - Minimal, single page, smooth-scrolling theme for Hugo static site generator.
 - [validation](https://github.com/thebioengineer/validation) - Repository for Validation of R Packages
@@ -1074,7 +1076,6 @@
 
 - [tfjs-cloudrun](https://github.com/ahmetb/tfjs-cloudrun) - 
 - [cloudrun-socketio-whiteboard](https://github.com/ahmetb/cloudrun-socketio-whiteboard) - 
-- [shinybrowser](https://github.com/daattali/shinybrowser) - Find out information about your user's web browser in Shiny
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [todoist-export](https://github.com/darekkay/todoist-export) - Backup tool for Todoist
 - [todoist](https://github.com/karlhadwen/todoist) - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Todoist Using React
@@ -2154,7 +2155,7 @@
 - [kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - Example recipes for Kubernetes Network Policies that you can just copy paste
 - [scheduling_r_scripts](https://github.com/RMHogervorst/scheduling_r_scripts) - 
 - [WSL](https://github.com/microsoft/WSL) - Issues found on WSL
-- [analysis-flow](https://github.com/deanmarchiori/analysis-flow) - The meta-concepts of data analysis, reproducible workflows and projects for research and industry
+- [analysis-flow](https://github.com/deanmarchiori/analysis-flow) - Data Analysis Workflows & Reproducibility Learning Resources
 - [open-source-directory](https://github.com/Postmake/open-source-directory) - A human-browsable directory of popular open-source projects
 - [awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) - A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.
 - [awesome-productivity](https://github.com/KevinColemanInc/awesome-productivity) - 
@@ -2545,7 +2546,7 @@
 - [slipbox](https://github.com/lggruspe/slipbox) - A static site generator for Zettelkasten notes
 - [memex](https://github.com/djplaner/memex) - Nascent attempt at using Foam to curate and leverage a personal memex
 - [promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
-- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize any software project as a database of reusable components and micro-services with common APIs, automation actions and extensible meta descriptions. See real-world use cases from Arm, General Motors, ACM, Raspberry Pi foundation and others:
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize black-box research software as a database of reusable components and micro-services with common APIs, automation actions and extensible meta descriptions. See real-world use cases from Arm, General Motors, ACM, Raspberry Pi foundation and others:
 - [classifier](https://github.com/bhrigu123/classifier) - Organize files in your directory instantly, by classifying them into different folders
 - [gittagstats](https://github.com/mcharleb/gittagstats) - 
 - [ansible-tools](https://github.com/jctanner/ansible-tools) - 
@@ -2812,6 +2813,7 @@
 - [DepthProc](https://github.com/zzawadz/DepthProc) - 
 - [qsslearnr](https://github.com/mattblackwell/qsslearnr) - learnr tutorial package for Quantitative Social Science
 - [of-dollars-and-data](https://github.com/nmaggiulli/of-dollars-and-data) - Repo for ofdollarsanddata.com blog
+- [shinybrowser](https://github.com/daattali/shinybrowser) - Find out information about a user's web browser in Shiny apps
 - [checklist](https://github.com/fabian-s/checklist) - Custom linting and checks for my programming class
 - [checklist](https://github.com/adhollander/checklist) - Sustainable sourcing checklist generator.
 - [castarter](https://github.com/giocomai/castarter) - castarter - Content analysis starter toolkit for R
@@ -4924,6 +4926,7 @@
 
 ## Shell 
 
+- [test-r-codespaces](https://github.com/ramnathv/test-r-codespaces) - 
 - [dotfiles](https://github.com/ahmetb/dotfiles) - Ahmet's dotfiles and macOS customizations
 - [vault_essential_patterns_blog](https://github.com/grove-mountain/vault_essential_patterns_blog) - Code examples used for the Essential Patterns of Vault -- Pt 2 blog post
 - [vault-demo](https://github.com/sethvargo/vault-demo) - Walkthroughs and scripts for my @HashiCorp Vault talks
