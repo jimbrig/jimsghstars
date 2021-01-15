@@ -312,7 +312,7 @@
 - [skift](https://github.com/skiftOS/skift) - 🥑 A simple, handmade, operating system with a graphical user interface.
 - [LEMMA](https://github.com/LocalEpi/LEMMA) - Local  Epidemic Modeling for Management & Action (LEMMA)
 - [websocket](https://github.com/rstudio/websocket) - WebSocket client for R
-- [duckdb](https://github.com/cwida/duckdb) - DuckDB is an embeddable SQL OLAP Database Management System
+- [duckdb](https://github.com/cwida/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
 - [simplextree](https://github.com/peekxc/simplextree) - R package for simplifying general computation on simplicial complexes
 - [explorerplusplus](https://github.com/derceg/explorerplusplus) - Explorer++ is a lightweight and fast file manager for Windows
 - [LibrePCB](https://github.com/LibrePCB/LibrePCB) - A powerful, innovative and intuitive EDA tool for everyone!
@@ -727,12 +727,13 @@
 
 ## HTML 
 
+- [schemaspy](https://github.com/schemaspy/schemaspy) - SchemaSpy code home
 - [rapideeportable](https://github.com/GordCaswell/rapideeportable) - PortableApps package of Rapid Environment Editor
 - [reprex_demo](https://github.com/maelle/reprex_demo) - Experiments around sharing reprexes on Gist and Twitter
 - [ctv-computational-environments](https://github.com/o2r-project/ctv-computational-environments) - A CRAN task view for computational environments and reproducibility
 - [cloud-run-hello](https://github.com/ahmetb/cloud-run-hello) - Sample Cloud Run application
 - [Covid19](https://github.com/miraisolutions/Covid19) - Analyze COVID-19 data
-- [targets-design](https://github.com/wlandau/targets-design) - Software design documents of the targets R package
+- [targets-design](https://github.com/ropensci-books/targets-design) - Software design documents of the targets R package
 - [thinkdiff](https://github.com/mahmudahsan/thinkdiff) - My open source project links, programming and software development related code and tutorials are in this repo. Content types: Python, JavaScript, Dart | Django, React, Flutter, React-Native etc.
 - [personal-kanban](https://github.com/nishantpainter/personal-kanban) - 📌 Personal Kanban Board is an agile project management tool that helps you visualise your work, limit your work-in-progress (WIP) and to craft & optimise your work flow to get the maximum output. To achieve this, it makes use of columns and cards. Personal Kanban offers visual clue, columns, WIP limits, start point and end point to set you up for success.
 - [about-javascript](https://github.com/ReneNyffenegger/about-javascript) - Small javascript examples.
@@ -1466,7 +1467,6 @@
 - [GoalKeeper](https://github.com/electraa/GoalKeeper) - R project for keeping track of the goals in a company environment, while constantly getting feedback and tips from colleagues or the project manager.
 - [evernote-random](https://github.com/galtenberg/evernote-random) - Use evernote API as a logged-in user - react and express project
 - [rcloud](https://github.com/att/rcloud) - Collaborative data analysis and visualization
-- [r-system-requirements](https://github.com/rstudio/r-system-requirements) - System requirements for R packages
 - [brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
@@ -1710,6 +1710,7 @@
 
 ## Makefile 
 
+- [reference-implementation](https://github.com/o2r-project/reference-implementation) - A catch-all repository to run all o2r microservices and the user interface platform
 - [maker](https://github.com/ComputationalProteomicsUnit/maker) - Makefile for R packages
 - [workflow-showcase](https://github.com/aaronpeikert/workflow-showcase) - 
 - [developer](https://github.com/phodal/developer) - developer roadmap. use growth https://github.com/phodal/growth replace this
@@ -1751,6 +1752,7 @@
 
 ## Others 
 
+- [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
 - [winget-Ash258](https://github.com/Ash258/winget-Ash258) - Personal winget manifests
 - [code-review-checklist](https://github.com/mgreiler/code-review-checklist) - This code review checklist helps you be a more effective and efficient code reviewer.
 - [developer-site](https://github.com/raindropio/developer-site) - Official documentation for Raindrop.io API
@@ -3959,7 +3961,7 @@
 - [rapportools](https://github.com/Rapporter/rapportools) - Miscellaneous stats helper functions with sane defaults for reporting
 - [pathToClip](https://github.com/dcomtois/pathToClip) - RStudio Addin -- Copy File Path to Clipboard
 - [parameters](https://github.com/easystats/parameters) - :bar_chart: Computation and processing of models' parameters
-- [posteriordb](https://github.com/MansMeg/posteriordb) - Database with posteriors of interest for Bayesian inference
+- [posteriordb](https://github.com/stan-dev/posteriordb) - Database with posteriors of interest for Bayesian inference
 - [shinycoreci](https://github.com/rstudio/shinycoreci) - Application-level automated tests for Shiny
 - [devtri](https://github.com/Ractuary/devtri) - Easily work with actuarial development triangles
 - [unit-testing-r](https://github.com/bradleyboehmke/unit-testing-r) - Contains simple examples and discussion around unit testing in R
@@ -5087,6 +5089,7 @@
 - [goto](https://github.com/iridakos/goto) - Alias and navigate to directories with tab completion in Linux
 - [ghpm](https://github.com/2KAbhishek/ghpm) - GitHub Project Manager
 - [dotfiles](https://github.com/benwinding/dotfiles) - ben's dotfiles
+- [r-system-requirements](https://github.com/rstudio/r-system-requirements) - System requirements for R packages
 - [dotfiles](https://github.com/jgillman/dotfiles) - jgillman's special collection of configs
 - [org](https://github.com/ElliotPenson/org) - My brain in plain text.
 - [dotfiles](https://github.com/blay/dotfiles) - My dotfiles
@@ -5121,7 +5124,7 @@
 
 ## Svelte 
 
-- [mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - New implementation of the live editor
+- [mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 
 ## Swift 
 
@@ -5308,7 +5311,7 @@
 - [vscode-project-manager](https://github.com/alefragnani/vscode-project-manager) - Project Manager Extension for Visual Studio Code
 - [vscode-mssql](https://github.com/microsoft/vscode-mssql) - Visual Studio Code SQL Server extension.
 - [vscode-live-server](https://github.com/ritwickdey/vscode-live-server) - Launch a development local Server with live reload feature for static & dynamic pages.
-- [ketting](https://github.com/badgateway/ketting) - Ketting is a Hypermedia client for javascript
+- [ketting](https://github.com/badgateway/ketting) - Ketting the HATEOAS client for javascript
 - [vscode-docker](https://github.com/microsoft/vscode-docker) - Docker extension for Visual Studio Code
 - [use-asset](https://github.com/pmndrs/use-asset) - 📦  A data fetching strategy for React Suspense
 - [github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
