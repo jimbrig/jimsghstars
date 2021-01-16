@@ -607,7 +607,7 @@
 - [nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
 - [docker-credential-helpers](https://github.com/docker/docker-credential-helpers) - Programs to keep Docker login credentials safe by storing in platform keystores
 - [markdown](https://github.com/mlesniak/markdown) - Markdown-based webserver using Dropbox as storage medium to allow editing content using miscellaneous applications.
-- [zettelstore](https://github.com/zettelstore/zettelstore) - A storage for zettel notes that provides some services.
+- [zettelstore-github](https://github.com/zettelstore/zettelstore-github) - Development is discontinued here. Please use https://zettelstore.de or fork the new mirror https://github.com/zettelstore/zettelstore
 - [github-release](https://github.com/github-release/github-release) - Commandline app to create and edit releases on Github (and upload artifacts)
 - [triage](https://github.com/tj/triage) - Interactive command-line GitHub issue & notification triaging tool.
 - [ws](https://github.com/windler/ws) - cli app to list your workspaces, git branch info and custom information
@@ -733,7 +733,7 @@
 - [ctv-computational-environments](https://github.com/o2r-project/ctv-computational-environments) - A CRAN task view for computational environments and reproducibility
 - [cloud-run-hello](https://github.com/ahmetb/cloud-run-hello) - Sample Cloud Run application
 - [Covid19](https://github.com/miraisolutions/Covid19) - Analyze COVID-19 data
-- [targets-design](https://github.com/ropensci-books/targets-design) - Software design documents of the targets R package
+- [targets-design](https://github.com/ropensci-books/targets-design) - targets R package design specification
 - [thinkdiff](https://github.com/mahmudahsan/thinkdiff) - My open source project links, programming and software development related code and tutorials are in this repo. Content types: Python, JavaScript, Dart | Django, React, Flutter, React-Native etc.
 - [personal-kanban](https://github.com/nishantpainter/personal-kanban) - 📌 Personal Kanban Board is an agile project management tool that helps you visualise your work, limit your work-in-progress (WIP) and to craft & optimise your work flow to get the maximum output. To achieve this, it makes use of columns and cards. Personal Kanban offers visual clue, columns, WIP limits, start point and end point to set you up for success.
 - [about-javascript](https://github.com/ReneNyffenegger/about-javascript) - Small javascript examples.
@@ -2156,7 +2156,6 @@
 - [obsidian-docs](https://github.com/obsidianmd/obsidian-docs) - Help documentation for Obsidian
 - [kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - Example recipes for Kubernetes Network Policies that you can just copy paste
 - [scheduling_r_scripts](https://github.com/RMHogervorst/scheduling_r_scripts) - 
-- [WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [analysis-flow](https://github.com/deanmarchiori/analysis-flow) - Data Analysis Workflows & Reproducibility Learning Resources
 - [open-source-directory](https://github.com/Postmake/open-source-directory) - A human-browsable directory of popular open-source projects
 - [awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) - A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.
@@ -2691,7 +2690,7 @@
 - [obs_alias_generator](https://github.com/Spec04/obs_alias_generator) - Generate Alias file for Obsidian vault
 - [off-your-rocker](https://github.com/sloretz/off-your-rocker) - Extensions for osrf/rocker
 - [resilio-sync-cli](https://github.com/PythonNut/resilio-sync-cli) - Reversed enginnered API wrapper and CLI for Resilio Sync
-- [obsidian-html](https://github.com/kmaasrud/obsidian-html) - A simple tool to convert an Obsidian vault into HTML
+- [oboe](https://github.com/kmaasrud/oboe) - :file_cabinet: A simple tool to convert an Obsidian vault into a static directory of HTML files.
 - [pssh](https://github.com/lilydjwg/pssh) - Parallel SSH Tools
 - [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 - [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
@@ -5064,6 +5063,7 @@
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [cloud-run-faq](https://github.com/ahmetb/cloud-run-faq) - Unofficial FAQ and everything you've been wondering for Google Cloud Run  ✨
 - [serverless-url-redirect](https://github.com/ahmetb/serverless-url-redirect) - Simple click-to-deploy serverless URL redirect service
+- [WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [docker](https://github.com/radiant-rstats/docker) - Use R, Rstudio, Shiny, Radiant, Python, and Jupyter in a Docker container
 - [nb](https://github.com/xwmx/nb) - CLI plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script.
