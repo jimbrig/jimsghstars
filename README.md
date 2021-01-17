@@ -290,6 +290,7 @@
 
 ## C++ 
 
+- [colourvalues](https://github.com/SymbolixAU/colourvalues) - R library for assigning colours to values
 - [construe](https://github.com/hrbrmstr/construe) - 🧰  HTTP Request, Response and URL Parser
 - [development_misc](https://github.com/ReneNyffenegger/development_misc) - Snippets that I found useful the other day or might find useful another day.
 - [archive](https://github.com/jimhester/archive) - R bindings to libarchive, supporting a large variety of archive formats
@@ -507,7 +508,7 @@
 - [tablerDash](https://github.com/RinteRface/tablerDash) - tabler dashboard template for shiny
 - [shinydashboard](https://github.com/rstudio/shinydashboard) - Shiny Dashboarding framework
 - [shiny.semantic](https://github.com/Appsilon/shiny.semantic) - Shiny support for powerful Semantic UI library.
-- [shinycssloaders](https://github.com/daattali/shinycssloaders) - Add loading animations to a Shiny output while it's recalculating
+- [shinycssloaders](https://github.com/daattali/shinycssloaders) - ⌛ Add loading animations to a Shiny output while it's recalculating
 
 ## Clojure 
 
@@ -547,6 +548,7 @@
 
 ## Dockerfile 
 
+- [rbase_shiny](https://github.com/slink42/rbase_shiny) - rocker/rbase docker image with a selection of packages preinstalled geared to support R-Shiny based webapp.
 - [about-Docker](https://github.com/ReneNyffenegger/about-Docker) - about Docker
 - [docker_scripts](https://github.com/icolwell/docker_scripts) - This repo contains the Dockerfiles for the images hosted on my dockerhub
 - [r-dockerfiles](https://github.com/robertdj/r-dockerfiles) - Dockerfiles for R
@@ -584,6 +586,7 @@
 
 ## Go 
 
+- [gce-docker](https://github.com/mcuadros/gce-docker) - Google Cloud Engine integration for Docker
 - [cloud-run-release-operator](https://github.com/ahmetb/cloud-run-release-operator) - [WIP] Automated canary deployment rollout tool for Cloud Run.
 - [cloud-run-button](https://github.com/ahmetb/cloud-run-button) - Allow your GitHub repos to deploy to Google Cloud Run in a single click
 - [serverless-registry-proxy](https://github.com/ahmetb/serverless-registry-proxy) - Serverless reverse proxy for exposing container registries (GCR, Docker Hub, Artifact Registry etc) on custom domains.
@@ -727,6 +730,7 @@
 
 ## HTML 
 
+- [r_docker_hello](https://github.com/SymbolixAU/r_docker_hello) - A simple hello world R-docker example
 - [schemaspy](https://github.com/schemaspy/schemaspy) - SchemaSpy code home
 - [rapideeportable](https://github.com/GordCaswell/rapideeportable) - PortableApps package of Rapid Environment Editor
 - [reprex_demo](https://github.com/maelle/reprex_demo) - Experiments around sharing reprexes on Gist and Twitter
@@ -1040,7 +1044,7 @@
 - [Zettel-hs](https://github.com/aleator/Zettel-hs) - Simple plain text ZettelKasten system for terminal users
 - [stack](https://github.com/commercialhaskell/stack) - The Haskell Tool Stack
 - [gitit](https://github.com/jgm/gitit) - A wiki using HAppS, pandoc, and git
-- [neuron](https://github.com/srid/neuron) - Future-proof and simple-to-use notes system based on Zettelkasten.
+- [neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten
 - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [erd](https://github.com/BurntSushi/erd) - Translates a plain text description of a relational database schema to a graphical entity-relationship diagram.
 
@@ -1075,6 +1079,8 @@
 
 ## JavaScript 
 
+- [hordes](https://github.com/ColinFay/hordes) - R from NodeJS, the right way.
+- [outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [tfjs-cloudrun](https://github.com/ahmetb/tfjs-cloudrun) - 
 - [cloudrun-socketio-whiteboard](https://github.com/ahmetb/cloudrun-socketio-whiteboard) - 
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
@@ -1646,7 +1652,7 @@
 - [slickR](https://github.com/yonicd/slickR) - slick carousel htmlwidget for R
 - [DT](https://github.com/rstudio/DT) - R Interface to the jQuery Plug-in DataTables
 - [shinytest](https://github.com/rstudio/shinytest) - Automated testing for shiny apps
-- [colourpicker](https://github.com/daattali/colourpicker) - A colour picker tool for Shiny and for selecting colours in plots (in R)
+- [colourpicker](https://github.com/daattali/colourpicker) - 🎨 A colour picker tool for Shiny and for selecting colours in plots (in R)
 - [shinyTree](https://github.com/shinyTree/shinyTree) - Shiny integration with the jsTree library
 
 ## Julia 
@@ -1752,6 +1758,7 @@
 
 ## Others 
 
+- [open-product-management](https://github.com/ProductHired/open-product-management) - A curated list of product management advice for technical people.
 - [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
 - [winget-Ash258](https://github.com/Ash258/winget-Ash258) - Personal winget manifests
 - [code-review-checklist](https://github.com/mgreiler/code-review-checklist) - This code review checklist helps you be a more effective and efficient code reviewer.
@@ -1823,7 +1830,6 @@
 - [PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
 - [seo-browser-extensions](https://github.com/Awesome-SEO/seo-browser-extensions) - A list of awesome browser extensions to help ith SEO and rank higher!
 - [startuptoolbox](https://github.com/alexanderisora/startuptoolbox) - The startup founder toolbelt. A forever-updating crowdsourced collection.
-- [plan](https://github.com/tianheg/plan) - It has been moved to https://github.com/tianheg/review/blob/main/docs/plan/README.md
 - [distill-example](https://github.com/jhrcook/distill-example) - An example website built with Distill and R Markdown
 - [drat](https://github.com/HenrikBengtsson/drat) - R package repository
 - [docker-resources](https://github.com/hangyan/docker-resources) - Docker resources collection. docker资源汇总
@@ -2778,6 +2784,8 @@
 
 ## R 
 
+- [ddR](https://github.com/vertica/ddR) - Standard API for Distributed Data Structures in R
+- [forcer](https://github.com/react-R/forcer) - example React-based htmlwidget for react-force-graph
 - [systemPipeShiny](https://github.com/systemPipeR/systemPipeShiny) - A Shiny framework for workflow management and data visualization
 - [switchr](https://github.com/gmbecker/switchr) - An R package for managing and seamlessly switching between sets of installed R packages.
 - [vincent](https://github.com/vanlog/vincent) - 
@@ -2814,7 +2822,7 @@
 - [DepthProc](https://github.com/zzawadz/DepthProc) - 
 - [qsslearnr](https://github.com/mattblackwell/qsslearnr) - learnr tutorial package for Quantitative Social Science
 - [of-dollars-and-data](https://github.com/nmaggiulli/of-dollars-and-data) - Repo for ofdollarsanddata.com blog
-- [shinybrowser](https://github.com/daattali/shinybrowser) - Find out information about a user's web browser in Shiny apps
+- [shinybrowser](https://github.com/daattali/shinybrowser) - 🌐 Find out information about a user's web browser in Shiny apps
 - [checklist](https://github.com/fabian-s/checklist) - Custom linting and checks for my programming class
 - [checklist](https://github.com/adhollander/checklist) - Sustainable sourcing checklist generator.
 - [castarter](https://github.com/giocomai/castarter) - castarter - Content analysis starter toolkit for R
@@ -3266,7 +3274,7 @@
 - [ambiorix](https://github.com/JohnCoene/ambiorix) - 🖥️ Web framework for R
 - [oolong](https://github.com/chainsawriot/oolong) - oolong 🍵 : create and administrate validation tests for typical automated content analysis tools.
 - [typed](https://github.com/moodymudskipper/typed) - Static Typing for R
-- [shinyscreenshot](https://github.com/daattali/shinyscreenshot) - Capture screenshots of entire pages or parts of pages in Shiny apps
+- [shinyscreenshot](https://github.com/daattali/shinyscreenshot) - 📷 Capture screenshots of entire pages or parts of pages in Shiny apps
 - [nyhackr-docker-talk](https://github.com/noamross/nyhackr-docker-talk) - Slides, Code, and Links to Resources from "Docker for the User," delivered at nyhackr 2018-07-11
 - [r-shiny-base](https://github.com/FredHutch/r-shiny-base) - Base Docker container for R Shiny apps
 - [sof-auth-example](https://github.com/shinyonfire/sof-auth-example) - Example using Firebase authentication with Shiny
@@ -3500,7 +3508,7 @@
 - [Rshiny-Snippets](https://github.com/surajsharan/Rshiny-Snippets) - Shiny snippets for improving apps and solving common problems
 - [DDWizard](https://github.com/DeclareDesign/DDWizard) - DeclareDesign Wizard -- Shiny app for creating, editing and inspecting research designs.
 - [heyshiny](https://github.com/jcrodriguez1989/heyshiny) - Package: New `shiny` input that translates audio to text
-- [timevis](https://github.com/daattali/timevis) - Create interactive timeline visualizations in R
+- [timevis](https://github.com/daattali/timevis) - 📅 Create interactive timeline visualizations in R
 - [ShinyCatalogue](https://github.com/nik01010/ShinyCatalogue) - Collection of re-usable Shiny features and components.
 - [shinyauth](https://github.com/Tim113/shinyauth) - Adds authorisation to a shinydashboard, it's not that complicated.
 - [sample_revenue_dashboard_shiny](https://github.com/amrrs/sample_revenue_dashboard_shiny) - Code and Plots used in the article of Revenue Dashboard
@@ -3632,7 +3640,7 @@
 - [vcrshiny](https://github.com/seanhardison1/vcrshiny) - A shiny app for visualizing research data from the Virginia Coast Reserve LTER
 - [slurmR](https://github.com/USCbiostats/slurmR) - slurmR: A Lightweight Wrapper for Slurm
 - [abrupt](https://github.com/regime-shifts/abrupt) - Methods for detecting abrupt change in temporal, spatial, and spatiotemporal data series
-- [shinydisconnect](https://github.com/daattali/shinydisconnect) - Show a nice message when a Shiny app disconnects or errors
+- [shinydisconnect](https://github.com/daattali/shinydisconnect) - 🔌 Show a nice message when a Shiny app disconnects or errors
 - [logician](https://github.com/dirkschumacher/logician) - 🖖 Prolog-style Logic Programming in pure R
 - [batata](https://github.com/feddelegrand7/batata) - Managing R packages removal
 - [htmlwidgets](https://github.com/hafen/htmlwidgets) - HTML Widgets for R
@@ -4300,7 +4308,7 @@
 - [loadtest](https://github.com/tmobile/loadtest) - an R package that automates performance testing of ML models and summarizes the results in a dashboard w/ rad visualizations
 - [rstudiothemes](https://github.com/mkearney/rstudiothemes) - A curated list of RStudio themes found on Github
 - [RecodeReorder](https://github.com/milosvil/RecodeReorder) - RStudio addin for interactively renaming, collapsing and reordering factor levels.
-- [rawr](https://github.com/stevecondylios/rawr) - Extract the raw R code directly from popular R webpages, including Github, Kaggle, Stack Overflow, Datacamp, and sites made using Blogdown.
+- [rawr](https://github.com/stevecondylios/rawr) - Extract the raw R code directly from webpages, including Github, Kaggle, Stack Overflow, Datacamp, and sites made using Blogdown.
 - [instaR](https://github.com/pablobarbera/instaR) - Dev version of instaR package: Access to Instagram API via R
 - [rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization
 - [shinyML](https://github.com/JeanBertinR/shinyML) - shinyML is a R package that use h2o and Spark  frameworks to easily compare supervised machine learning models on regression or classification tasks (published on CRAN in July 2019)
@@ -4712,7 +4720,7 @@
 - [jadd](https://github.com/jennybc/jadd) - RStudio addins
 - [docthis](https://github.com/mdlincoln/docthis) - RStudio addin to create skeleton documentation for functions and data.frames
 - [tidyshiny](https://github.com/MangoTheCat/tidyshiny) - Interactively generate function calls for the tidyr package
-- [addinslist](https://github.com/daattali/addinslist) - Discover and install useful RStudio addins
+- [addinslist](https://github.com/daattali/addinslist) - 📜 Discover and install useful RStudio addins
 - [drake](https://github.com/ropensci/drake) - An R-focused pipeline toolkit for reproducibility and high-performance computing
 - [plan](https://github.com/dankelley/plan) - R package for project planning
 - [rmdfiltr](https://github.com/crsh/rmdfiltr) - R package that provides a collection of Lua filters that extend the functionality   of R Markdown templates.
@@ -4725,8 +4733,8 @@
 - [shinyLP](https://github.com/jasdumas/shinyLP) - A R package for Bootstrap Components to make Landing Home Pages for Shiny :globe_with_meridians:
 - [remedy](https://github.com/ThinkR-open/remedy) - RStudio Addins to Simplify Markdown Writing
 - [modularize-addin](https://github.com/daattali/modularize-addin) - RStudio addin to help modularize Shiny app code
-- [shinyalert](https://github.com/daattali/shinyalert) - Easily create pretty popup messages (modals) in Shiny
-- [advanced-shiny](https://github.com/daattali/advanced-shiny) - Shiny tips & tricks for improving your apps and solving common problems
+- [shinyalert](https://github.com/daattali/shinyalert) - 🗯️ Easily create pretty popup messages (modals) in Shiny
+- [advanced-shiny](https://github.com/daattali/advanced-shiny) - 🤹 Shiny tips & tricks for improving your apps and solving common problems
 - [shinylogs](https://github.com/dreamRs/shinylogs) - Logs for Shiny apps
 - [datamodelr](https://github.com/bergant/datamodelr) - Data model diagrams in R
 - [pointblank](https://github.com/rich-iannone/pointblank) - Data validation and organization of metadata for data frames and database tables
@@ -4768,7 +4776,7 @@
 - [shinytoastr](https://github.com/MangoTheCat/shinytoastr) - Notifications in Shiny apps
 - [shinymaterial](https://github.com/ericrayanderson/shinymaterial) - 
 - [shinyFeedback](https://github.com/merlinoa/shinyFeedback) - display user feedback next to Shiny inputs
-- [shinyforms](https://github.com/daattali/shinyforms) - Easily create questionnaire-type forms with Shiny
+- [shinyforms](https://github.com/daattali/shinyforms) - 📝 Easily create questionnaire-type forms with Shiny
 - [restorepoint](https://github.com/skranz/restorepoint) - Debugging in R with restore points
 - [shinyEvents](https://github.com/skranz/shinyEvents) - Use shiny with event handlers instead of reactivity
 - [shinygadgets](https://github.com/rstudio/shinygadgets) - 
@@ -4791,7 +4799,7 @@
 - [shinyloadtest](https://github.com/rstudio/shinyloadtest) - Tools for load testing Shiny applications
 - [shinyjqui](https://github.com/Yang-Tang/shinyjqui) - jQuery UI Interactions and Effects for Shiny
 - [ShinySky](https://github.com/AnalytixWare/ShinySky) - Various UI widgets/components not part of Shiny e.g. alerts, styled buttons
-- [shinyjs](https://github.com/daattali/shinyjs) - Easily improve the user experience of your Shiny apps in seconds
+- [shinyjs](https://github.com/daattali/shinyjs) - 💡 Easily improve the user experience of your Shiny apps in seconds
 - [dragulaR](https://github.com/zzawadz/dragulaR) - 
 - [addinit](https://github.com/dreamRs/addinit) - Initialize an 'RStudio' Project
 - [tychobratools](https://github.com/Tychobra/tychobratools) - some of our frequently used customizations for R projects
@@ -4927,6 +4935,8 @@
 
 ## Shell 
 
+- [shiny](https://github.com/Artificially-Intelligent/shiny) - rocker/rbase docker image with a selection of packages preinstalled geared to support R-Shiny based webapp.
+- [pkgtemplate](https://github.com/cloudyr/pkgtemplate) - Style guide-consistent package template for the cloudyr project
 - [test-r-codespaces](https://github.com/ramnathv/test-r-codespaces) - 
 - [dotfiles](https://github.com/ahmetb/dotfiles) - Ahmet's dotfiles and macOS customizations
 - [vault_essential_patterns_blog](https://github.com/grove-mountain/vault_essential_patterns_blog) - Code examples used for the Essential Patterns of Vault -- Pt 2 blog post
