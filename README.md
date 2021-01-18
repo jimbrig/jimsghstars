@@ -185,6 +185,8 @@
 
 ## C# # 
 
+- [TortoiseGitToolbar](https://github.com/MRCollective/TortoiseGitToolbar) - Lightweight toolbar for launching commonly used TortoiseGit functionality from within Visual Studio.
+- [TurtleHub](https://github.com/dail8859/TurtleHub) - TortoiseGit issue tracker plugin for projects hosted on GitHub
 - [azure-functions-sql-extension](https://github.com/Azure/azure-functions-sql-extension) - Azure Functions trigger and bindings for SQL
 - [taskbar-groups](https://github.com/tjackenpacken/taskbar-groups) - Lightweight utility for organizing the taskbar through groups
 - [show-command-line-arguments](https://github.com/ReneNyffenegger/show-command-line-arguments) - Programs that show the command line arguments that they received.
@@ -504,7 +506,6 @@
 - [waiter](https://github.com/JohnCoene/waiter) - 🕰️ Loading screens for Shiny
 - [markdowntemplates](https://github.com/hrbrmstr/markdowntemplates) - :white_check_mark::small_red_triangle_down: A collection of alternate R markdown templates
 - [drake](https://github.com/ropensci-books/drake) - The user manual for the drake R package
-- [pagedown](https://github.com/rstudio/pagedown) - Paginate the HTML Output of R Markdown with CSS for Print
 - [tablerDash](https://github.com/RinteRface/tablerDash) - tabler dashboard template for shiny
 - [shinydashboard](https://github.com/rstudio/shinydashboard) - Shiny Dashboarding framework
 - [shiny.semantic](https://github.com/Appsilon/shiny.semantic) - Shiny support for powerful Semantic UI library.
@@ -1050,6 +1051,7 @@
 
 ## Java 
 
+- [ContextQuickie](https://github.com/ContextQuickie/ContextQuickie) - An eclipse add-on which extens the context menu for accessing various tools.
 - [jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [openemm](https://github.com/agnitas-org/openemm) - Web-based software for email automation and marketing (newsletters, mutli-stage mail campaigns, transaction mails, autoresponder, etc.)
 - [Learning-Resources](https://github.com/GDGAhmedabad/Learning-Resources) - "Technology Gold mine" to collect and share materials/resources
@@ -1758,6 +1760,8 @@
 
 ## Others 
 
+- [basic-tools-for-webdev](https://github.com/denisecase/basic-tools-for-webdev) - Download, install, update, and manage basic software tools on Windows.
+- [Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [open-product-management](https://github.com/ProductHired/open-product-management) - A curated list of product management advice for technical people.
 - [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
 - [winget-Ash258](https://github.com/Ash258/winget-Ash258) - Personal winget manifests
@@ -2516,7 +2520,7 @@
 ## Python 
 
 - [winpython](https://github.com/winpython/winpython) - A free Python-distribution for Windows platform, including prebuilt packages for Scientific Python.
-- [habitist](https://github.com/amitness/habitist) - A GitHub action that integrates native habit tracking in todoist. Apply the "Don't Break the Chain" method for habit building.
+- [habitist](https://github.com/amitness/habitist) - GitHub action that integrates native habit tracking in todoist. Apply the "Don't Break the Chain" method for habit building.
 - [quantified-self](https://github.com/DongjunLee/quantified-self) - Self-knowledge through numbers
 - [YouTube-video-finder](https://github.com/chris-lovejoy/YouTube-video-finder) - A tool to intentionally discover valuable videos
 - [kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
@@ -4736,6 +4740,7 @@
 - [shinyalert](https://github.com/daattali/shinyalert) - 🗯️ Easily create pretty popup messages (modals) in Shiny
 - [advanced-shiny](https://github.com/daattali/advanced-shiny) - 🤹 Shiny tips & tricks for improving your apps and solving common problems
 - [shinylogs](https://github.com/dreamRs/shinylogs) - Logs for Shiny apps
+- [pagedown](https://github.com/rstudio/pagedown) - Paginate the HTML Output of R Markdown with CSS for Print
 - [datamodelr](https://github.com/bergant/datamodelr) - Data model diagrams in R
 - [pointblank](https://github.com/rich-iannone/pointblank) - Data validation and organization of metadata for data frames and database tables
 - [blastula](https://github.com/rstudio/blastula) - Easily send great-looking HTML email messages from R
@@ -5140,7 +5145,7 @@
 
 - [tagged-github-stars](https://github.com/dongyuwei/tagged-github-stars) - A native Mac App to manage your Github stars with custom tags, powered by SwiftUI and SQLite.
 - [AppIconGenerator](https://github.com/pawello2222/AppIconGenerator) - A library for creating App Icons from SwiftUI views
-- [DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - Developer Utilities for macOS
+- [DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - Offline Toolbox for Developers
 - [Furnish](https://github.com/zoejessica/Furnish) - Configurable table view controller framework, drawing on ideas from Arkadiusz Holko (fastred) and Andy Matuschak (andymatuschak)
 - [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - Cocoa framework and Obj-C dynamism bindings for ReactiveSwift.
 - [Publish](https://github.com/JohnSundell/Publish) - A static site generator for Swift developers
@@ -5219,6 +5224,7 @@
 
 ## TypeScript 
 
+- [vscode-tgit](https://github.com/mbinic/vscode-tgit) - TortoiseGit commands for Visual Studio Code
 - [vsChat](https://github.com/Ademking/vsChat) - [VScode Extension] Chat with developers around the world.
 - [utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [useFilePicker](https://github.com/Jaaneek/useFilePicker) - Simple react hook to open browser file selector.
@@ -5305,7 +5311,7 @@
 - [angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [firebase-tools](https://github.com/firebase/firebase-tools) - The Firebase Command Line Tools
 - [natemoo-re](https://github.com/natemoo-re/natemoo-re) - 
-- [dotstow](https://github.com/codejamninja/dotstow) - Manage dotfiles with stow
+- [dotstow](https://github.com/clayrisser/dotstow) - Manage dotfiles with stow
 - [toolkit](https://github.com/devbotsxyz/toolkit) - GitHub Actions Toolkit
 - [git-all-branches](https://github.com/zacanger/git-all-branches) - Better git branch -a
 - [import-github-labels-cli](https://github.com/abhijithvijayan/import-github-labels-cli) - CLI to sync labels between repositories on GitHub
