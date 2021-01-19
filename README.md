@@ -23,6 +23,7 @@
   - [Elixir](#elixir)
   - [Elm](#elm)
   - [Emacs Lisp](#emacs-lisp)
+  - [F#](#f#)
   - [Gherkin](#gherkin)
   - [Go](#go)
   - [Groovy](#groovy)
@@ -68,6 +69,7 @@
   - [V](#v)
   - [VBA](#vba)
   - [VBScript](#vbscript)
+  - [Vim Snippet](#vim-snippet)
   - [Vim script](#vim-script)
   - [VimL](#viml)
   - [Visual Basic](#visual-basic)
@@ -94,6 +96,8 @@
 
 ## Batchfile 
 
+- [pint](https://github.com/vensko/pint) - A single-file command-line package manager for Windows.
+- [bget](https://github.com/jahwi/bget) - A package manager for Windows scripts.
 - [Configure-Windows](https://github.com/ReneNyffenegger/Configure-Windows) - Some scripts to configure Windows so that I can use it.
 - [cygwin-portable](https://github.com/zhubanRuban/cygwin-portable) - CygWin/ConEmu Portable Installer/Updater
 - [wsl-proxy](https://github.com/watzon/wsl-proxy) - WSL proxy files for editor/linux interop
@@ -185,6 +189,10 @@
 
 ## C# # 
 
+- [CandyShop](https://github.com/weberjonathan/CandyShop) - Lightweight Chocolatey UI to manage installed applications
+- [BaGet](https://github.com/loic-sharma/BaGet) - A lightweight NuGet and symbol server
+- [ruckzuck](https://github.com/rzander/ruckzuck) - software package manager for windows
+- [appget](https://github.com/appget/appget) - Free and open package manager for Windows.
 - [TortoiseGitToolbar](https://github.com/MRCollective/TortoiseGitToolbar) - Lightweight toolbar for launching commonly used TortoiseGit functionality from within Visual Studio.
 - [TurtleHub](https://github.com/dail8859/TurtleHub) - TortoiseGit issue tracker plugin for projects hosted on GitHub
 - [azure-functions-sql-extension](https://github.com/Azure/azure-functions-sql-extension) - Azure Functions trigger and bindings for SQL
@@ -387,6 +395,7 @@
 
 ## CSS 
 
+- [cleanrmd](https://github.com/gadenbuie/cleanrmd) - 📄✨Clean Class-Less R Markdown HTML Documents
 - [exploratory-data-analysis-in-the-21st-century](https://github.com/dicook/exploratory-data-analysis-in-the-21st-century) - A book about exploratory data analysis in the 21st century
 - [visualization-with-shiny](https://github.com/tradestatistics/visualization-with-shiny) - Open Trade Statistics Shiny Dashboard
 - [fullscreen-slider](https://github.com/ykob/fullscreen-slider) - This asset controls sections in a page.   It resizes sections to fullscreen resolution and moves these individually by wheel/touch events.
@@ -581,12 +590,21 @@
 - [configuration](https://github.com/yihui/configuration) - My configuration files
 - [zettel-mode](https://github.com/vifon/zettel-mode) - A Zettelkasten-style note-taking helper
 
+## F# # 
+
+- [Paket](https://github.com/fsprojects/Paket) - A dependency manager for .NET with support for NuGet packages and Git repositories.
+
 ## Gherkin 
 
 - [git-town](https://github.com/git-town/git-town) - Generic, high-level Git workflow support!
 
 ## Go 
 
+- [npackd](https://github.com/npackd/npackd) - Package manager for Microsoft Windows: Wiki, bug tracker, mirror of the default repositories
+- [dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
+- [prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
+- [terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [aks-engine](https://github.com/Azure/aks-engine) - AKS Engine: Units of Kubernetes on Azure!
 - [gce-docker](https://github.com/mcuadros/gce-docker) - Google Cloud Engine integration for Docker
 - [cloud-run-release-operator](https://github.com/ahmetb/cloud-run-release-operator) - [WIP] Automated canary deployment rollout tool for Cloud Run.
 - [cloud-run-button](https://github.com/ahmetb/cloud-run-button) - Allow your GitHub repos to deploy to Google Cloud Run in a single click
@@ -717,6 +735,7 @@
 
 ## Groovy 
 
+- [gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all
 - [devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [templates](https://github.com/embeddedartistry/templates) - Document templates for open-source projects (README, CONTRIBUTING, GitHub templates)
 - [r-ci-samples](https://github.com/MichaelChirico/r-ci-samples) - Sample CI&metadata files from popular R package repos
@@ -731,6 +750,8 @@
 
 ## HTML 
 
+- [lab-css-recipes-clone](https://github.com/ironhack-labs/lab-css-recipes-clone) - An exercise to clone a recipes page and understand the basics of HTML and CSS
+- [charts](https://github.com/bitnami/charts) - Helm Charts
 - [r_docker_hello](https://github.com/SymbolixAU/r_docker_hello) - A simple hello world R-docker example
 - [schemaspy](https://github.com/schemaspy/schemaspy) - SchemaSpy code home
 - [rapideeportable](https://github.com/GordCaswell/rapideeportable) - PortableApps package of Rapid Environment Editor
@@ -1051,6 +1072,9 @@
 
 ## Java 
 
+- [jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
+- [validator](https://github.com/validator/validator) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
+- [maven](https://github.com/apache/maven) - Apache Maven core
 - [ContextQuickie](https://github.com/ContextQuickie/ContextQuickie) - An eclipse add-on which extens the context menu for accessing various tools.
 - [jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [openemm](https://github.com/agnitas-org/openemm) - Web-based software for email automation and marketing (newsletters, mutli-stage mail campaigns, transaction mails, autoresponder, etc.)
@@ -1081,6 +1105,14 @@
 
 ## JavaScript 
 
+- [zappr](https://github.com/zalando/zappr) - An agent that enforces guidelines for your GitHub repositories
+- [bower](https://github.com/bower/bower) - A package manager for the web
+- [yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
+- [jshint](https://github.com/jshint/jshint) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code
+- [graphite-web](https://github.com/graphite-project/graphite-web) - A highly scalable real-time graphing system
+- [statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
+- [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
+- [sprinkles](https://github.com/gadenbuie/sprinkles) - Utility CSS and JavaScript for R Markdown
 - [hordes](https://github.com/ColinFay/hordes) - R from NodeJS, the right way.
 - [outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [tfjs-cloudrun](https://github.com/ahmetb/tfjs-cloudrun) - 
@@ -1260,7 +1292,6 @@
 - [appium](https://github.com/appium/appium) - :iphone: Automation for iOS, Android, and Windows Apps.
 - [edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [ReadMeSynchronizer](https://github.com/GregTrevellick/ReadMeSynchronizer) - Keeps badges in ReadMe files across all my repos in sync.
-- [svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [tripdown](https://github.com/cecilesauder/tripdown) - travel blogdown package
 - [rCharts_d3_sankey](https://github.com/timelyportfolio/rCharts_d3_sankey) - rCharts implementation of d3 sankey plugin
@@ -1760,6 +1791,13 @@
 
 ## Others 
 
+- [datadrivencv](https://github.com/grantmcdermott/datadrivencv) - R package for building customizable CVs from spreadsheets
+- [gadenbuie](https://github.com/gadenbuie/gadenbuie) - 
+- [naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming.
+- [choco-packages](https://github.com/connorads/choco-packages) - @connorads favourite Chocolatey packages 🍫 Install and/or update all your favourite Windows software using a few commands
+- [config-dev](https://github.com/winbench/config-dev) - The configuration for a Bench environment to contribute to Bench.
+- [windows-for-developers](https://github.com/arkadiusjonczek/windows-for-developers) - Solutions for developers new on Windows coming from macOS or Linux. (Not Windows Developers)
+- [awesome-html-css-js-tips](https://github.com/MarkoDenic/awesome-html-css-js-tips) - 
 - [basic-tools-for-webdev](https://github.com/denisecase/basic-tools-for-webdev) - Download, install, update, and manage basic software tools on Windows.
 - [Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [open-product-management](https://github.com/ProductHired/open-product-management) - A curated list of product management advice for technical people.
@@ -2366,6 +2404,7 @@
 
 ## PHP 
 
+- [composer](https://github.com/composer/composer) - Dependency Manager for PHP
 - [wfh-productivity-system](https://github.com/Kamoates/wfh-productivity-system) - 
 - [wslpath](https://github.com/laurent22/wslpath) - wslpath - Converts Unix and Windows format paths in WSL
 - [skrub](https://github.com/ssx/skrub) - A package to remove junk from Composer installations and trim build sizes.
@@ -2400,6 +2439,9 @@
 
 ## PowerShell 
 
+- [Fudge](https://github.com/Badgerati/Fudge) - Fudge is a PowerShell tool to help manage software packages via Chocolatey for specific development projects. Think NPM and Bower, but for Chocolatey
+- [chocolatey-packages](https://github.com/OlafHaag/chocolatey-packages) - 
+- [dorado](https://github.com/chawyehsu/dorado) - 🐟 Yet Another bucket for lovely Scoop
 - [Scoop-Extras](https://github.com/Ash258/Scoop-Extras) - "Extras" bucket for Scoop
 - [Scoop-GithubActions](https://github.com/Ash258/Scoop-GithubActions) - GitHub actions for scoop bucket automation.
 - [Scoop-Main](https://github.com/Ash258/Scoop-Main) - 📦 The next-generation default bucket for Scoop.
@@ -2519,6 +2561,15 @@
 
 ## Python 
 
+- [chob](https://github.com/cchoban/chob) - Choban is a software automation tool that helps you to install your favorite application from command line just with couple of commands.
+- [ck-env](https://github.com/ctuning/ck-env) - CK repository with components and automation actions to enable portable workflows across diverse platforms including Linux, Windows, MacOS and Android. It includes software detection plugins and meta packages (code, data sets, models, scripts, etc) with the possibility of multiple versions to co-exist in a user or system environment:
+- [Maid](https://github.com/dungwinux/Maid) - A package manager, written in Python 3.7, for Windows.
+- [meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 📦 CLI providing unifying interface to all package managers
+- [electric](https://github.com/XtremeDevX/electric) - A package manager for Windows!
+- [scoop-directory](https://github.com/rasa/scoop-directory) - A directory of buckets for the scoop package manager for Windows
+- [pipwin](https://github.com/lepisma/pipwin) - Install compiled python libraries for windows provided by Christoph Gohlke
+- [poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
+- [sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
 - [winpython](https://github.com/winpython/winpython) - A free Python-distribution for Windows platform, including prebuilt packages for Scientific Python.
 - [habitist](https://github.com/amitness/habitist) - GitHub action that integrates native habit tracking in todoist. Apply the "Don't Break the Chain" method for habit building.
 - [quantified-self](https://github.com/DongjunLee/quantified-self) - Self-knowledge through numbers
@@ -2788,6 +2839,24 @@
 
 ## R 
 
+- [heroku-plumber-app](https://github.com/virtualstaticvoid/heroku-plumber-app) - Example Plumber Application on Heroku
+- [shiny-loadbalancer](https://github.com/sjewo/shiny-loadbalancer) - Shiny App for Load Balancing
+- [shiny-loadbalancer](https://github.com/aephidayatuloh/shiny-loadbalancer) - Shiny App for Load Balancing
+- [retry](https://github.com/randy3k/retry) - Repeated Evaluation
+- [dataDictionary](https://github.com/jpainter/dataDictionary) - interface with DHIS2 to get listing of malaria-relevant data elements
+- [rollbar](https://github.com/ankane/rollbar) - Error tracking for R
+- [dbx](https://github.com/ankane/dbx) - A fast, easy-to-use database library for R
+- [jetpack](https://github.com/ankane/jetpack) - A friendly package manager for R
+- [shinyChecklist](https://github.com/Persedes/shinyChecklist) - A very simple Checklist for RStudio to learn about the new miniUI features.
+- [renv-rspm](https://github.com/grantmcdermott/renv-rspm) - Testing renv and RStudio Package Manager
+- [containerit-demo](https://github.com/grantmcdermott/containerit-demo) - Simple demo that builds a Docker image from a repo's contents using the containerit package
+- [gistfo](https://github.com/gadenbuie/gistfo) - Turn your RStudio untitled tabs into gists. You monsters.
+- [git2rdata](https://github.com/gadenbuie/git2rdata) - An R package for storing and retrieving data.frames in git repositories.
+- [crantrack](https://github.com/gadenbuie/crantrack) - 
+- [crp](https://github.com/eddelbuettel/crp) - Archived copies of the CRAN Repo Policy
+- [mully](https://github.com/frankkramer-lab/mully) - R package to create, modify and visualize graphs with multiple layers.
+- [ralger](https://github.com/feddelegrand7/ralger) - ralger makes it easy to scrape a website. Built on the shoulders of titans: rvest, xml2.
+- [altcheckr](https://github.com/matt-dray/altcheckr) - :sunrise_over_mountains: :white_check_mark: R package: assess image alt text on websites
 - [ddR](https://github.com/vertica/ddR) - Standard API for Distributed Data Structures in R
 - [forcer](https://github.com/react-R/forcer) - example React-based htmlwidget for react-force-graph
 - [systemPipeShiny](https://github.com/systemPipeR/systemPipeShiny) - A Shiny framework for workflow management and data visualization
@@ -2959,7 +3028,7 @@
 - [shinyHeatmaply](https://github.com/yonicd/shinyHeatmaply) - 
 - [slackteams](https://github.com/yonicd/slackteams) - Manage and Interact with multiple Slack teams in R
 - [mltools](https://github.com/ben519/mltools) - Exploratory and diagnostic machine learning tools for R
-- [osrm](https://github.com/rCarto/osrm) - Shortest Paths and Travel Time from OpenStreetMap with R
+- [osrm](https://github.com/riatelab/osrm) - Shortest Paths and Travel Time from OpenStreetMap with R
 - [safepaths](https://github.com/bcgov/safepaths) - An R 📦 to safely set & use a path to a private network
 - [aws.secrets](https://github.com/cloudyr/aws.secrets) - 
 - [dataReporter](https://github.com/ekstroem/dataReporter) - 
@@ -3174,7 +3243,6 @@
 - [shinyteamdashboard](https://github.com/schloerke/shinyteamdashboard) - Tidyverse activity dashboard
 - [opendatarte](https://github.com/cderv/opendatarte) - Access https://data.rte-france.com API from R
 - [proxyconfig](https://github.com/cderv/proxyconfig) - Tools to Configure Proxy Interactively
-- [ralger](https://github.com/feddelegrand7/ralger) - ralger makes it easy to scrape a website. Built on the shoulders of titans: rvest, xml2.
 - [granolarr](https://github.com/sdesabbata/granolarr) - A reproducible resource for teaching geographic data science in R
 - [rweekly.tools](https://github.com/rweekly/rweekly.tools) - Useful scripts and functions to assist editing RWeekly
 - [tidyversedashboard](https://github.com/tidyverse/tidyversedashboard) - Tidyverse activity dashboard
@@ -4060,7 +4128,7 @@
 - [plumbpkg](https://github.com/sol-eng/plumbpkg) - Example R package that includes Plumber APIs
 - [simpleCache](https://github.com/databio/simpleCache) - Simplified R caching for reproducible big data projects
 - [reproducible](https://github.com/PredictiveEcology/reproducible) - A set of tools for R that enhance reproducibility beyond package management
-- [rappdirs](https://github.com/r-lib/rappdirs) - A port of AppDirs for R
+- [rappdirs](https://github.com/r-lib/rappdirs) - Find OS-specific directories to store data, caches, and logs. A port of python's AppDirs
 - [rsync](https://github.com/INWTlab/rsync) - R Package as interface to rsync
 - [r-on-github](https://github.com/hadley/r-on-github) - An exploration of R code and package on github, using the github search and repo apis
 - [plumber-uploader](https://github.com/sellorm/plumber-uploader) - 
@@ -4821,6 +4889,7 @@
 
 ## Ruby 
 
+- [libraries.io](https://github.com/librariesio/libraries.io) - :books: The Open Source Discovery Service
 - [siteinspector](https://github.com/siteinspector/siteinspector) - A tool for catching spelling errors, grammatical errors, broken links, and other errors on websites.
 - [vincents-productivity-suite-for-alfred](https://github.com/voostindie/vincents-productivity-suite-for-alfred) - A CLI and automatically generated Alfred workflows to make my daily computer work more efficient.
 - [snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
@@ -4863,6 +4932,8 @@
 
 ## Rust 
 
+- [topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
+- [habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
 - [quist](https://github.com/gbrlsnchs/quist) - CLI to create short-lived Gists
 - [wslscript](https://github.com/sop/wslscript) - Associate .sh script files with WSL.
 - [wsl-agent-bridge](https://github.com/reynoldsbd/wsl-agent-bridge) - WSL compatibility bridge for ssh-agent on Windows
@@ -4940,6 +5011,8 @@
 
 ## Shell 
 
+- [bpkg](https://github.com/bpkg/bpkg) - Lightweight bash package manager
+- [ck-dev-compilers](https://github.com/ctuning/ck-dev-compilers) - Collective Knowledge packages to build development versions of compilers (LLVM, GCC, etc) and use them in customizable and portable CK research workflows:
 - [shiny](https://github.com/Artificially-Intelligent/shiny) - rocker/rbase docker image with a selection of packages preinstalled geared to support R-Shiny based webapp.
 - [pkgtemplate](https://github.com/cloudyr/pkgtemplate) - Style guide-consistent package template for the cloudyr project
 - [test-r-codespaces](https://github.com/ramnathv/test-r-codespaces) - 
@@ -5224,6 +5297,7 @@
 
 ## TypeScript 
 
+- [log4brains](https://github.com/thomvaill/log4brains) - ✍️ Log and publish your architecture decisions (ADR)
 - [vscode-tgit](https://github.com/mbinic/vscode-tgit) - TortoiseGit commands for Visual Studio Code
 - [vsChat](https://github.com/Ademking/vsChat) - [VScode Extension] Chat with developers around the world.
 - [utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
@@ -5308,6 +5382,7 @@
 - [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - :package: Install C++ Build Tools for Windows using npm
 - [devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [git-repo-manager](https://github.com/valor-software/git-repo-manager) - 
+- [svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [firebase-tools](https://github.com/firebase/firebase-tools) - The Firebase Command Line Tools
 - [natemoo-re](https://github.com/natemoo-re/natemoo-re) - 
@@ -5406,6 +5481,10 @@
 
 - [todoist-global-shortcuts-WIN10](https://github.com/rickstaa/todoist-global-shortcuts-WIN10) - Since TODOIST its Windows 10 app doesn’t support global shortcuts at the moment. I made a little workaround for the "open TODOIST" global shortcut.
 - [about-VBScript](https://github.com/ReneNyffenegger/about-VBScript) - about VBScript
+
+## Vim Snippet 
+
+- [snippets](https://github.com/gadenbuie/snippets) - My snippets for RStudio (or elsewhere)
 
 ## Vim script 
 
