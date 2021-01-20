@@ -300,6 +300,7 @@
 
 ## C++ 
 
+- [git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [colourvalues](https://github.com/SymbolixAU/colourvalues) - R library for assigning colours to values
 - [construe](https://github.com/hrbrmstr/construe) - 🧰  HTTP Request, Response and URL Parser
 - [development_misc](https://github.com/ReneNyffenegger/development_misc) - Snippets that I found useful the other day or might find useful another day.
@@ -406,6 +407,7 @@
 - [typora-panda-theme](https://github.com/gilbertohasnofb/typora-panda-theme) - Panda theme for Typora
 - [12factor](https://github.com/heroku/12factor) - 
 - [shinyMergely](https://github.com/stla/shinyMergely) - A Shiny app allowing to compare and merge two files.
+- [notes](https://github.com/nbelzer/notes) - My Personal Notes 📚
 - [devnotes](https://github.com/kevjose/devnotes) - notes from the journey of a software engineer 🤗
 - [gha_r_tutorial](https://github.com/yonicd/gha_r_tutorial) - Short tutorial for using GitHub Actions and R
 - [cookiecutter-reproducible-research](https://github.com/timtroendle/cookiecutter-reproducible-research) - A cookiecutter template for reproducible research projects using Python, Snakemake, and Pandoc.
@@ -633,7 +635,6 @@
 - [github-release](https://github.com/github-release/github-release) - Commandline app to create and edit releases on Github (and upload artifacts)
 - [triage](https://github.com/tj/triage) - Interactive command-line GitHub issue & notification triaging tool.
 - [ws](https://github.com/windler/ws) - cli app to list your workspaces, git branch info and custom information
-- [codebase](https://github.com/go-codebase/codebase) - Manage your codebase like a boss!
 - [depscloud](https://github.com/depscloud/depscloud) - Track, monitor, and connect project dependencies across languages and toolchains.
 - [docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [onecache](https://github.com/adelowo/onecache) - One caching API, Multiple backends
@@ -774,7 +775,6 @@
 - [awesome-resources](https://github.com/lyfeyaj/awesome-resources) - Awesome resources for coding and learning: open source projects, websites, books e.g.
 - [digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Start your own digital garden using this Jekyll template 🌱
 - [r-docker-tutorial](https://github.com/ropenscilabs/r-docker-tutorial) - A docker tutorial for reproducible research
-- [notes](https://github.com/nbelzer/notes) - My Personal Notes 📚
 - [gigsterous.github.io](https://github.com/gigsterous/gigsterous.github.io) - Gigsterous blog for sharing thoughts, technical insights and more.
 - [enjoyment-work](https://github.com/brennanbrown/enjoyment-work) - 🗃️ A Digital Garden: Capturing my daily thoughts and progress, as well as curated ideas with unique synthesis—a personal zettelkasten. Built on Simply Jekyll by Raghuveer S.
 - [tools](https://github.com/googlecodelabs/tools) - Codelabs management & hosting tools
@@ -1497,7 +1497,7 @@
 - [min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 - [universal_favorites](https://github.com/zkaramanlis/universal_favorites) - Browser extension that provides a favorites system similar to a normal browsers, but independent of any particular browser implementation! Easily sync favorites between any browser that accepts extensions in real time.
 - [uuid](https://github.com/netnr/uuid) - A decentralized favorites and bookmarks based on Git hosting
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [jbPivot](https://github.com/uniclau/jbPivot) - A simple jQuery pivot table widget
 - [vue-vscode-snippets](https://github.com/sdras/vue-vscode-snippets) - These snippets were built to supercharge my workflow in the most seamless manner possible.
 - [privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
@@ -2839,6 +2839,7 @@
 
 ## R 
 
+- [shinyhttr](https://github.com/curso-r/shinyhttr) - Give httr::progress the ability to talk to shinyWidgets::progressBar.
 - [heroku-plumber-app](https://github.com/virtualstaticvoid/heroku-plumber-app) - Example Plumber Application on Heroku
 - [shiny-loadbalancer](https://github.com/sjewo/shiny-loadbalancer) - Shiny App for Load Balancing
 - [shiny-loadbalancer](https://github.com/aephidayatuloh/shiny-loadbalancer) - Shiny App for Load Balancing
@@ -4725,7 +4726,7 @@
 - [packagedocs](https://github.com/hafen/packagedocs) - 
 - [mjml](https://github.com/JohnCoene/mjml) - 📨  Create responsive emails with R
 - [sendgridr](https://github.com/mrchypark/sendgridr) - Mail Sender Using SendGrid mail API
-- [slackr](https://github.com/hrbrmstr/slackr) - :hash: A package to send webhook API messages to Slack.com channels/users from R
+- [slackr](https://github.com/mrkaye97/slackr) - :hash: A package to send webhook API messages to Slack.com channels/users from R
 - [cronR](https://github.com/bnosac/cronR) - A simple R package for managing your cron jobs.
 - [shinyURL](https://github.com/aoles/shinyURL) - :link: Save and restore the state of Shiny app's widgets by encoding them in an URL query string
 - [readmebuilder](https://github.com/Appsilon/readmebuilder) - 
@@ -5297,6 +5298,7 @@
 
 ## TypeScript 
 
+- [r2pak](https://github.com/Eronana/r2pak) - A library used to uncompress pak file
 - [log4brains](https://github.com/thomvaill/log4brains) - ✍️ Log and publish your architecture decisions (ADR)
 - [vscode-tgit](https://github.com/mbinic/vscode-tgit) - TortoiseGit commands for Visual Studio Code
 - [vsChat](https://github.com/Ademking/vsChat) - [VScode Extension] Chat with developers around the world.
