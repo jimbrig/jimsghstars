@@ -116,6 +116,7 @@
 
 ## C 
 
+- [rscrypt](https://github.com/rstudio/rscrypt) - scrypt cryptographic functions for R
 - [httpuv](https://github.com/rstudio/httpuv) - HTTP and WebSocket server package for R
 - [gcc-create-library](https://github.com/ReneNyffenegger/gcc-create-library) - Creating a shared and static library with the gnu compiler
 - [Windows-development](https://github.com/ReneNyffenegger/Windows-development) - Playground to experiment with developping applications for Windows.
@@ -289,6 +290,7 @@
 - [rdotnet](https://github.com/rdotnet/rdotnet) - .NET interop library to call the R statistical language in the same process
 - [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [ShinyViewerTemplate](https://github.com/chkiefer/ShinyViewerTemplate) - A tool to create a standalone Windows program for Shiny Apps
 - [screencast-capture](https://github.com/cesarsouza/screencast-capture) - Free utility to continuously capture the computer screen.
 - [Excel-Merge](https://github.com/Excel-projects/Excel-Merge) - GUI Diff Tool for Excel
@@ -372,7 +374,6 @@
 - [simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
 - [sentencepiece](https://github.com/bnosac/sentencepiece) - R package for Byte Pair Encoding / Unigram modelling based on Sentencepiece
 - [RDCOMClient](https://github.com/omegahat/RDCOMClient) - 
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [devout](https://github.com/coolbutuseless/devout) - Write R graphics output devices in plain R
 - [hyperscan](https://github.com/intel/hyperscan) - High-performance regular expression matching library
 - [readxl](https://github.com/tidyverse/readxl) - Read excel files (.xls and .xlsx) into R 🖇
@@ -524,6 +525,7 @@
 
 ## Clojure 
 
+- [yesql](https://github.com/krisajenkins/yesql) - A Clojure library for using SQL.
 - [athens](https://github.com/athensresearch/athens) - Open-Source Networked Thought. The Closed Beta is underway! Join the waitlist via https://forms.gle/9L1D1T7R3G7pvh1e7. Sponsor us to get the beta faster!
 - [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 - [logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge sharing and management.
@@ -726,7 +728,7 @@
 - [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [evernote2md](https://github.com/wormi4ok/evernote2md) - Convert Evernote .enex file to Markdown
-- [immudb](https://github.com/codenotary/immudb) - immudb is a lightweight, high-speed immutable database for systems and applications
+- [immudb](https://github.com/codenotary/immudb) - immudb - world’s fastest immutable database
 - [exposure-notifications-server](https://github.com/google/exposure-notifications-server) - Exposure Notification Reference Server | Covid-19 Exposure Notifications
 - [charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [xxhash](https://github.com/OneOfOne/xxhash) - A native implementation of the excellent XXHash hashing algorithm.
@@ -751,6 +753,7 @@
 
 ## HTML 
 
+- [demo-landing-site](https://github.com/sol-eng/demo-landing-site) - An index page for a demo server
 - [lab-css-recipes-clone](https://github.com/ironhack-labs/lab-css-recipes-clone) - An exercise to clone a recipes page and understand the basics of HTML and CSS
 - [charts](https://github.com/bitnami/charts) - Helm Charts
 - [r_docker_hello](https://github.com/SymbolixAU/r_docker_hello) - A simple hello world R-docker example
@@ -1105,6 +1108,8 @@
 
 ## JavaScript 
 
+- [uaparserjs](https://github.com/hrbrmstr/uaparserjs) - Parse Browser 'User-Agent' Strings into R Data Frames
+- [gitpkg](https://github.com/ramasilveyra/gitpkg) - Publish packages as git tags
 - [zappr](https://github.com/zalando/zappr) - An agent that enforces guidelines for your GitHub repositories
 - [bower](https://github.com/bower/bower) - A package manager for the web
 - [yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
@@ -2561,6 +2566,7 @@
 
 ## Python 
 
+- [streamlit-sudoku](https://github.com/jhrcook/streamlit-sudoku) - A Streamlit web application for solving Sudoku.
 - [chob](https://github.com/cchoban/chob) - Choban is a software automation tool that helps you to install your favorite application from command line just with couple of commands.
 - [ck-env](https://github.com/ctuning/ck-env) - CK repository with components and automation actions to enable portable workflows across diverse platforms including Linux, Windows, MacOS and Android. It includes software detection plugins and meta packages (code, data sets, models, scripts, etc) with the possibility of multiple versions to co-exist in a user or system environment:
 - [Maid](https://github.com/dungwinux/Maid) - A package manager, written in Python 3.7, for Windows.
@@ -2839,6 +2845,18 @@
 
 ## R 
 
+- [insuree-simulation](https://github.com/merlinoa/insuree-simulation) - Shiny App: Life contingent insurance simulation using the insuree package
+- [blatr](https://github.com/smbache/blatr) - A simple R wrapper for Blat SMTP mailer for Windows.
+- [squr](https://github.com/smbache/squr) - Structured Query Utility for R
+- [stackoverflow](https://github.com/nfultz/stackoverflow) - An R package for snippets from stackoverflow
+- [shinylogs_modified](https://github.com/karimelghazouly/shinylogs_modified) - 
+- [conditions](https://github.com/mllg/conditions) - Standardized Conditions for R
+- [jsonvalidate](https://github.com/ropensci/jsonvalidate) - :heavy_check_mark::interrobang: Validate JSON
+- [validatetools](https://github.com/data-cleaning/validatetools) - 
+- [httpcache](https://github.com/nealrichardson/httpcache) - HTTP query cache for R
+- [cacher](https://github.com/kirillseva/cacher) - In memory cache interface for R
+- [threadpool](https://github.com/rdpeng/threadpool) - Parallel Processing in R using a Thread Pool
+- [simpleboot](https://github.com/rdpeng/simpleboot) - Simple Bootstrap Routines
 - [shinyhttr](https://github.com/curso-r/shinyhttr) - Give httr::progress the ability to talk to shinyWidgets::progressBar.
 - [heroku-plumber-app](https://github.com/virtualstaticvoid/heroku-plumber-app) - Example Plumber Application on Heroku
 - [shiny-loadbalancer](https://github.com/sjewo/shiny-loadbalancer) - Shiny App for Load Balancing
@@ -3715,7 +3733,7 @@
 - [abrupt](https://github.com/regime-shifts/abrupt) - Methods for detecting abrupt change in temporal, spatial, and spatiotemporal data series
 - [shinydisconnect](https://github.com/daattali/shinydisconnect) - 🔌 Show a nice message when a Shiny app disconnects or errors
 - [logician](https://github.com/dirkschumacher/logician) - 🖖 Prolog-style Logic Programming in pure R
-- [batata](https://github.com/feddelegrand7/batata) - Managing R packages removal
+- [batata](https://github.com/feddelegrand7/batata) - Managing R packages removal and installations
 - [htmlwidgets](https://github.com/hafen/htmlwidgets) - HTML Widgets for R
 - [an-introduction-to-statistical-learning](https://github.com/jhrcook/an-introduction-to-statistical-learning) - My notes on the book "An Introduction to Statistical Learning: with Applications in R."
 - [phishr](https://github.com/MayaGans/phishr) - An R API Wrapper for phish.net
@@ -5012,6 +5030,7 @@
 
 ## Shell 
 
+- [stevedore](https://github.com/jpetazzo/stevedore) - Containerize your development environments
 - [bpkg](https://github.com/bpkg/bpkg) - Lightweight bash package manager
 - [ck-dev-compilers](https://github.com/ctuning/ck-dev-compilers) - Collective Knowledge packages to build development versions of compilers (LLVM, GCC, etc) and use them in customizable and portable CK research workflows:
 - [shiny](https://github.com/Artificially-Intelligent/shiny) - rocker/rbase docker image with a selection of packages preinstalled geared to support R-Shiny based webapp.
