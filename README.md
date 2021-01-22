@@ -190,6 +190,7 @@
 
 ## C# # 
 
+- [BlogOps](https://github.com/laurentkempe/BlogOps) - Tool to operate my blog.
 - [CandyShop](https://github.com/weberjonathan/CandyShop) - Lightweight Chocolatey UI to manage installed applications
 - [BaGet](https://github.com/loic-sharma/BaGet) - A lightweight NuGet and symbol server
 - [ruckzuck](https://github.com/rzander/ruckzuck) - software package manager for windows
@@ -290,7 +291,6 @@
 - [rdotnet](https://github.com/rdotnet/rdotnet) - .NET interop library to call the R statistical language in the same process
 - [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [ShinyViewerTemplate](https://github.com/chkiefer/ShinyViewerTemplate) - A tool to create a standalone Windows program for Shiny Apps
 - [screencast-capture](https://github.com/cesarsouza/screencast-capture) - Free utility to continuously capture the computer screen.
 - [Excel-Merge](https://github.com/Excel-projects/Excel-Merge) - GUI Diff Tool for Excel
@@ -374,6 +374,7 @@
 - [simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
 - [sentencepiece](https://github.com/bnosac/sentencepiece) - R package for Byte Pair Encoding / Unigram modelling based on Sentencepiece
 - [RDCOMClient](https://github.com/omegahat/RDCOMClient) - 
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [devout](https://github.com/coolbutuseless/devout) - Write R graphics output devices in plain R
 - [hyperscan](https://github.com/intel/hyperscan) - High-performance regular expression matching library
 - [readxl](https://github.com/tidyverse/readxl) - Read excel files (.xls and .xlsx) into R 🖇
@@ -528,7 +529,7 @@
 - [yesql](https://github.com/krisajenkins/yesql) - A Clojure library for using SQL.
 - [athens](https://github.com/athensresearch/athens) - Open-Source Networked Thought. The Closed Beta is underway! Join the waitlist via https://forms.gle/9L1D1T7R3G7pvh1e7. Sponsor us to get the beta faster!
 - [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
-- [logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge sharing and management.
+- [logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend-only) platform for knowledge sharing and management.
 - [drake](https://github.com/Factual/drake) - Data workflow tool, like a "Make for data"
 
 ## CoffeeScript 
@@ -1108,6 +1109,8 @@
 
 ## JavaScript 
 
+- [super-expressive](https://github.com/francisrstokes/super-expressive) - 🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language
+- [git-changelog](https://github.com/rafinskipg/git-changelog) - Generates a git changelog, CLI or grunt plugin, inspired & based on Angular JS changelog generator
 - [uaparserjs](https://github.com/hrbrmstr/uaparserjs) - Parse Browser 'User-Agent' Strings into R Data Frames
 - [gitpkg](https://github.com/ramasilveyra/gitpkg) - Publish packages as git tags
 - [zappr](https://github.com/zalando/zappr) - An agent that enforces guidelines for your GitHub repositories
@@ -2845,6 +2848,15 @@
 
 ## R 
 
+- [Install_setup_R_using_Powershell](https://github.com/tomaztk/Install_setup_R_using_Powershell) - Installing R and RStudio and setup R using Powershell
+- [ck37r](https://github.com/ck37/ck37r) - R functions for project setup, data cleaning, machine learning, SuperLearner, parallelization, and targeted learning.
+- [sfnetworks](https://github.com/luukvdmeer/sfnetworks) - Tidy Geospatial Networks in R
+- [potools](https://github.com/MichaelChirico/potools) - Tools for working with translations in R
+- [ndexutils](https://github.com/fdrennan/ndexutils) - Utility functions for my platform
+- [environ](https://github.com/fdrennan/environ) - A premier R and Reticulate Python Dockerfile
+- [ndexpg](https://github.com/fdrennan/ndexpg) - 
+- [docker_pull_postgres](https://github.com/fdrennan/docker_pull_postgres) - 
+- [lifecycle](https://github.com/r-lib/lifecycle) - Manage the life cycle of your exported functions and arguments
 - [insuree-simulation](https://github.com/merlinoa/insuree-simulation) - Shiny App: Life contingent insurance simulation using the insuree package
 - [blatr](https://github.com/smbache/blatr) - A simple R wrapper for Blat SMTP mailer for Windows.
 - [squr](https://github.com/smbache/squr) - Structured Query Utility for R
@@ -5131,6 +5143,7 @@
 - [dotfiles](https://github.com/JBlond/dotfiles) - my dot files with git and docker extension for windows and linux
 - [windows-dev-setup](https://github.com/julie-ng/windows-dev-setup) - Dev environment on windows with Oh My ZSH, Hyper.js and more
 - [dotfiles](https://github.com/bushidocodes/dotfiles) - Dotbot managed dotfiles for a polyglot dev using WSL. Includes PowerShell stuff for Windows Installation
+- [dotfiles](https://github.com/LumaKernel/dotfiles) - ⭐ My own world.
 - [dotfiles](https://github.com/jakecobley/dotfiles) - Dotfiles - personal preferences for various applications, editors, linters, and packages on macOS and Windows 10 with Windows Subsystem for Linux 2 (WSL2).
 - [dotfiles](https://github.com/pawelbialaszczyk/dotfiles) - Windows dotfiles managed using a bare git repository.
 - [dotfiles](https://github.com/ridhwaans/dotfiles) - 💻Personal dotfiles for mac and wsl
@@ -5519,7 +5532,6 @@
 - [win_dotfiles](https://github.com/Surumerf/win_dotfiles) - Dotfiles for Windows
 - [kickassdotfiles](https://github.com/ntkzwane/kickassdotfiles) - Dotfiles (configuration files) for various dev tools e.g editors, window managers, themes etc.
 - [dotfiles](https://github.com/antoniosarosi/dotfiles) - My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.
-- [dotfiles](https://github.com/LumaKernel/dotfiles) - ⭐ My own world.
 - [dotfiles](https://github.com/willwm/dotfiles) - My default Linux/macOS/Windows configuration
 - [dotfiles](https://github.com/nickjj/dotfiles) - Settings for various tools I use.
 - [vim-rmarkdown](https://github.com/vim-pandoc/vim-rmarkdown) - Rmarkdown support for vim
