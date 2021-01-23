@@ -108,6 +108,7 @@
 - [mpv-install](https://github.com/rossy/mpv-install) - Sets up file associations for mpv on Windows
 - [ws-folder-template-provisioner](https://github.com/wandersick/ws-folder-template-provisioner) - This Windows batch script provisions (copies) new folders with exact permissions and content from a specified existing folder (template) based on the information (first name and last name) inputted by a user via its command-line interface.
 - [wt-contextmenu](https://github.com/nt4f04uNd/wt-contextmenu) - A short guide with batch files to add windows terminal to windows context menu
+- [WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [dotfiles-windows](https://github.com/snovvcrash/dotfiles-windows) - Dotfiles for Windows boxes
 - [offlineinsiderenroll](https://github.com/abbodi1406/offlineinsiderenroll) - OfflineInsiderEnroll - A script to enable access to the Windows Insider Program on machines not signed in with Microsoft Account
 - [Windows10MiningTweaksDmW](https://github.com/DeadManWalkingTO/Windows10MiningTweaksDmW) - Windows 10 Mining Tweaks by DeadManWalking (DeadManWalkingTO-GitHub)
@@ -477,6 +478,7 @@
 - [tweet-conf-dash](https://github.com/gadenbuie/tweet-conf-dash) - A shiny twitter conference dashboard
 - [stylestage](https://github.com/5t3ph/stylestage) - A modern CSS showcase styled by community contributions. Add your stylesheet!
 - [shiny-app-template](https://github.com/davidruvolo51/shiny-app-template) - Template for creating R projects with Webpack
+- [hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 - [rmd4edu](https://github.com/rstudio4edu/rmd4edu) - A fresh batch of R Markdown templates
 - [ShinyTeeter](https://github.com/cjteeter/ShinyTeeter) - 
 - [hugo-llum](https://github.com/djnavarro/hugo-llum) - 
@@ -605,6 +607,7 @@
 
 ## Go 
 
+- [go-examples](https://github.com/bminer/go-examples) - Example Go Code
 - [npackd](https://github.com/npackd/npackd) - Package manager for Microsoft Windows: Wiki, bug tracker, mirror of the default repositories
 - [dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
 - [prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
@@ -823,6 +826,7 @@
 - [gitstars](https://github.com/znlbwo/gitstars) - Github Stars Repositories Manager
 - [bottomupcs](https://github.com/ianw/bottomupcs) - Bottom Up Computer Science
 - [compiler-team](https://github.com/rust-lang/compiler-team) - A home for compiler team planning documents, meeting minutes, and other such things.
+- [foam-template](https://github.com/foambubble/foam-template) - Foam workpace template
 - [mkdocs-bootstrap4](https://github.com/byrnereese/mkdocs-bootstrap4) - Bootstrap 4.0+ theme for MkDocs
 - [scratchpad](https://github.com/raghuveerdotnet/scratchpad) - As the name suggests, this is my scratchpad to try out code to understand a concept or try out new ideas
 - [Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) - Airplay Receiver SDK supports Airplay Mirroring and AirPlay Casting to a receiver device.
@@ -922,7 +926,6 @@
 - [iviz-rstudio-workshop](https://github.com/wesslen/iviz-rstudio-workshop) - Interactive Visualizations with RStudio Workshop for UNCC DSI
 - [d3-book](https://github.com/scotthmurray/d3-book) - Code examples for “Interactive Data Visualization for the Web”
 - [shinyAppTutorials](https://github.com/davidruvolo51/shinyAppTutorials) - a collection of shiny app demonstrations :bar_chart:
-- [hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 - [therdispatch-blogdown](https://github.com/jimbrig/therdispatch-blogdown) - The R Dispatch - An R Related Blog and Knowledge Base
 - [making-websites-using-R](https://github.com/anthro-data-science/making-websites-using-R) - Short workshop on making professional websites with R, Blogdown, Hugo and the Academic template. View the slides here:
 - [robservable](https://github.com/juba/robservable) - Observable notebooks as R htmlwidgets
@@ -1109,6 +1112,7 @@
 
 ## JavaScript 
 
+- [google-calendar-crx](https://github.com/manastungare/google-calendar-crx) - Google Calendar for Chrome
 - [super-expressive](https://github.com/francisrstokes/super-expressive) - 🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language
 - [git-changelog](https://github.com/rafinskipg/git-changelog) - Generates a git changelog, CLI or grunt plugin, inspired & based on Angular JS changelog generator
 - [uaparserjs](https://github.com/hrbrmstr/uaparserjs) - Parse Browser 'User-Agent' Strings into R Data Frames
@@ -1456,7 +1460,7 @@
 - [glacier-console](https://github.com/o-evin/glacier-console) - AWS Glacier Console is a fast cross-platform desktop client for Amazon Glacier.
 - [organizer](https://github.com/ZoranGj/organizer) - Windows application which combines CefSharp framework and web technologies (AngularJS) to form a simple app for tracking productivity.
 - [simple-notes](https://github.com/SilenceDN/simple-notes) - Article & Snippet Management For Programer
-- [Lepton](https://github.com/hackjutsu/Lepton) - 💻    Democratizing Snippet Management (macOS/Win/Linux)
+- [Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [gatsby-starter-prismic](https://github.com/LekoArts/gatsby-starter-prismic) - A typography-heavy & light-themed Gatsby Starter which uses the Headless CMS Prismic.
 - [gatsby-material-starter](https://github.com/Vagr9K/gatsby-material-starter) - A high performance blog starter with Material design in mind for GatsbyJS.
 - [gatsby-starter-ghost](https://github.com/TryGhost/gatsby-starter-ghost) - A starter template to build lightning fast websites with Ghost & Gatsby
@@ -2248,7 +2252,7 @@
 - [awesome-vuepress](https://github.com/vuepress/awesome-vuepress) - 🎉 A curated list of awesome things related to VuePress
 - [git-training](https://github.com/jimbrig/git-training) - Various resources and workflows related to teaching others about Git and Version Control
 - [demo-registry](https://github.com/r-universe-org/demo-registry) - Example registry
-- [test](https://github.com/r-universe/test) - A test universe
+- [test](https://github.com/r-universe/test) - Source universe for: test
 - [generate-pkgdata](https://github.com/r-universe-org/generate-pkgdata) - Action to generate deploy text file
 - [roadmap](https://github.com/github/roadmap) - GitHub public roadmap
 - [learning_R](https://github.com/data-datum/learning_R) - List of resources for learning R
@@ -2848,6 +2852,8 @@
 
 ## R 
 
+- [packgraph](https://github.com/ropenscilabs/packgraph) - Examine and analyse function call graphs from R packages
+- [waffle](https://github.com/hrbrmstr/waffle) - :maple_leaf: Make waffle (square pie) charts in R
 - [Install_setup_R_using_Powershell](https://github.com/tomaztk/Install_setup_R_using_Powershell) - Installing R and RStudio and setup R using Powershell
 - [ck37r](https://github.com/ck37/ck37r) - R functions for project setup, data cleaning, machine learning, SuperLearner, parallelization, and targeted learning.
 - [sfnetworks](https://github.com/luukvdmeer/sfnetworks) - Tidy Geospatial Networks in R
@@ -3316,7 +3322,7 @@
 - [collidr](https://github.com/stevecondylios/collidr) - Check for namespace collisions across a half a million packages and functions on CRAN 💥
 - [callmethod](https://github.com/mkearney/callmethod) - 🤙 Call Method for Developing Packages
 - [R-for-Everyone-Code-Samples](https://github.com/tkanngiesser/R-for-Everyone-Code-Samples) - Code Examples used in https://www.amazon.com/Everyone-Advanced-Analytics-Graphics-Addison-Wesley/dp/013454692X
-- [Paycheck-Protection-Program-Analysis---R](https://github.com/NeilCollinsMS/Paycheck-Protection-Program-Analysis---R) - This project aims to analyze trends in the Paycheck Protection Program and to generate predictive models based on demographics to predict the likelihood of receiving a loan.
+- [Paycheck-Protection-Program-Analysis---R](https://github.com/NeilCollinsMS/Paycheck-Protection-Program-Analysis---R) - This project aims to analyze trends in the Paycheck Protection Program and to generate predictive models based on demographics to predict the likelihood of receiving a loan. PROJECT RETIRED - REPLACEMENT IN PROGRESS
 - [ShinyMC](https://github.com/m-jahn/ShinyMC) - R Shiny based interface for monitoring bioreactors
 - [lattice-tools](https://github.com/m-jahn/lattice-tools) - Panel functions and wrappers to extend the R lattice universe
 - [R-Program](https://github.com/Psingh12354/R-Program) - 
@@ -4161,6 +4167,7 @@
 - [reproducible](https://github.com/PredictiveEcology/reproducible) - A set of tools for R that enhance reproducibility beyond package management
 - [rappdirs](https://github.com/r-lib/rappdirs) - Find OS-specific directories to store data, caches, and logs. A port of python's AppDirs
 - [rsync](https://github.com/INWTlab/rsync) - R Package as interface to rsync
+- [EDA](https://github.com/jimbrig/EDA) - Exploratory Data Analysis R Package and Shiny App
 - [r-on-github](https://github.com/hadley/r-on-github) - An exploration of R code and package on github, using the github search and repo apis
 - [plumber-uploader](https://github.com/sellorm/plumber-uploader) - 
 - [lowliner](https://github.com/smbache/lowliner) - A FP package for R in the spirit of underscore.js
@@ -4584,7 +4591,7 @@
 - [prettycode](https://github.com/r-lib/prettycode) - Syntax highlight R code in the terminal
 - [travis](https://github.com/ropensci-archive/travis) - Set up Travis CI for testing and deployment
 - [beyond-single-core-R](https://github.com/ljdursi/beyond-single-core-R) - Short tour of parallel and foreach packages, and how to think about scaling data analyses
-- [datastructures](https://github.com/dirmeier/datastructures) - :rocket: Implementation of core data structures for R.
+- [datastructures](https://github.com/dirmeier/datastructures) - :rocket: Implementation of core data structures for R
 - [docxtractr](https://github.com/hrbrmstr/docxtractr) - :scissors: Extract Tables from Microsoft Word Documents with R
 - [DataPackageR](https://github.com/ropensci/DataPackageR) - An R package to enable reproducible data processing, packaging and sharing.
 - [finstr](https://github.com/bergant/finstr) - :chart_with_upwards_trend: Financial statements in R
@@ -4963,6 +4970,7 @@
 
 ## Rust 
 
+- [sentry-cli](https://github.com/getsentry/sentry-cli) - A command line utility to work with Sentry.
 - [topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
 - [quist](https://github.com/gbrlsnchs/quist) - CLI to create short-lived Gists
@@ -5014,7 +5022,6 @@
 - [workshops-setup_cloud_analytics_machine](https://github.com/lvalnegri/workshops-setup_cloud_analytics_machine) - Tips and Tricks to setup a cloud machine for Analytics and Data Science with R, RStudio and Shiny Servers, Python and JupyterLab
 - [wtfcrt](https://github.com/nikvoronin/wtfcrt) - A personal wiki-like notebooks aka zettelkasten
 - [notes.ajb.app](https://github.com/andybyers21/notes.ajb.app) - This is the data for my Evergreen notes vault
-- [foam-template](https://github.com/foambubble/foam-template) - Foam workpace template
 - [clair-de-lune-obsidian-theme](https://github.com/jamiebrynes7/clair-de-lune-obsidian-theme) - An obsidian.md theme inspired by the Moonlight family of themes
 - [ycparak.com](https://github.com/ycparak/ycparak.com) - 🎧 Personal site and note taking system, inspired by Andy Matuschak's notes.
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
@@ -5184,7 +5191,6 @@
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [cloud-run-faq](https://github.com/ahmetb/cloud-run-faq) - Unofficial FAQ and everything you've been wondering for Google Cloud Run  ✨
 - [serverless-url-redirect](https://github.com/ahmetb/serverless-url-redirect) - Simple click-to-deploy serverless URL redirect service
-- [WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [docker](https://github.com/radiant-rstats/docker) - Use R, Rstudio, Shiny, Radiant, Python, and Jupyter in a Docker container
 - [nb](https://github.com/xwmx/nb) - CLI plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script.
