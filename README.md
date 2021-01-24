@@ -757,6 +757,8 @@
 
 ## HTML 
 
+- [webservices](https://github.com/ropensci/webservices) - CRAN WebTechnologies Task View
+- [taxonomy](https://github.com/ropensci/taxonomy) - taxonomy R packages
 - [demo-landing-site](https://github.com/sol-eng/demo-landing-site) - An index page for a demo server
 - [lab-css-recipes-clone](https://github.com/ironhack-labs/lab-css-recipes-clone) - An exercise to clone a recipes page and understand the basics of HTML and CSS
 - [charts](https://github.com/bitnami/charts) - Helm Charts
@@ -1112,6 +1114,7 @@
 
 ## JavaScript 
 
+- [rsg.zenartofrpkgs](https://github.com/malcolmbarrett/rsg.zenartofrpkgs) - You're Already Ready: Zen and the Art of R Package Development
 - [google-calendar-crx](https://github.com/manastungare/google-calendar-crx) - Google Calendar for Chrome
 - [super-expressive](https://github.com/francisrstokes/super-expressive) - 🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language
 - [git-changelog](https://github.com/rafinskipg/git-changelog) - Generates a git changelog, CLI or grunt plugin, inspired & based on Angular JS changelog generator
@@ -2852,6 +2855,8 @@
 
 ## R 
 
+- [libr](https://github.com/dbosak01/libr) - An R package to create data libraries and data dictionaries.
+- [quicknews](https://github.com/jaytimm/quicknews) - Some R-based tools for navigating the online news landscape
 - [packgraph](https://github.com/ropenscilabs/packgraph) - Examine and analyse function call graphs from R packages
 - [waffle](https://github.com/hrbrmstr/waffle) - :maple_leaf: Make waffle (square pie) charts in R
 - [Install_setup_R_using_Powershell](https://github.com/tomaztk/Install_setup_R_using_Powershell) - Installing R and RStudio and setup R using Powershell
@@ -4280,7 +4285,7 @@
 - [leaftime](https://github.com/timelyportfolio/leaftime) - Leaflet.timeline for R leaflet
 - [sortable](https://github.com/rstudio/sortable) - R htmlwidget for Sortable.js
 - [standalones](https://github.com/gaborcsardi/standalones) - Standalone R files for various tasks
-- [modules](https://github.com/klmr/modules) - An alternative module system for R
+- [box](https://github.com/klmr/box) - Write reusable, composable and modular R code
 - [RepoGenerator](https://github.com/jaredlander/RepoGenerator) - This builds a repo from a template for use in workshop instruction
 - [rr-init](https://github.com/Reproducible-Science-Curriculum/rr-init) - Research project initialization and organization following reproducible research guidelines
 - [knowledgerepo](https://github.com/dgrtwo/knowledgerepo) - R Interface to AirBnb's Knowledge Repository
@@ -4988,7 +4993,7 @@
 - [czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [tin-summer](https://github.com/vmchale/tin-summer) - Find build artifacts that are taking up disk space
 - [kondo](https://github.com/tbillington/kondo) - Save disk space by cleaning non-essential files from software projects.
-- [check-if-email-exists](https://github.com/amaurymartiny/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust.
+- [check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust.
 - [cb](https://github.com/yaa110/cb) - Command line interface to manage clipboard
 - [monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [ghlabel](https://github.com/jimmycuadra/ghlabel) - Automatically creates and deletes labels on GitHub Issues to match a template
