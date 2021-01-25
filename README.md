@@ -1114,6 +1114,9 @@
 
 ## JavaScript 
 
+- [awesome-tech-blogs](https://github.com/MarkoDenic/awesome-tech-blogs) - A list of Tech Blogs.
+- [dotfiles](https://github.com/spences10/dotfiles) - dot files and configurations 💠🗃
+- [scottspence.com](https://github.com/spences10/scottspence.com) - My Letter Beautiful Mysterious Notebook.
 - [rsg.zenartofrpkgs](https://github.com/malcolmbarrett/rsg.zenartofrpkgs) - You're Already Ready: Zen and the Art of R Package Development
 - [google-calendar-crx](https://github.com/manastungare/google-calendar-crx) - Google Calendar for Chrome
 - [super-expressive](https://github.com/francisrstokes/super-expressive) - 🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language
@@ -5449,7 +5452,7 @@
 - [vscode-live-server](https://github.com/ritwickdey/vscode-live-server) - Launch a development local Server with live reload feature for static & dynamic pages.
 - [ketting](https://github.com/badgateway/ketting) - Ketting the HATEOAS client for javascript
 - [vscode-docker](https://github.com/microsoft/vscode-docker) - Docker extension for Visual Studio Code
-- [use-asset](https://github.com/pmndrs/use-asset) - 📦  A data fetching strategy for React Suspense
+- [use-asset](https://github.com/pmndrs/use-asset) - 📦  A promise caching strategy for React Suspense
 - [github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
 - [docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [obsidian-todoist-plugin](https://github.com/jamiebrynes7/obsidian-todoist-plugin) - Materialize Todoist tasks in Obsidian notes
