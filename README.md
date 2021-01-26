@@ -292,6 +292,7 @@
 - [rdotnet](https://github.com/rdotnet/rdotnet) - .NET interop library to call the R statistical language in the same process
 - [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [ShinyViewerTemplate](https://github.com/chkiefer/ShinyViewerTemplate) - A tool to create a standalone Windows program for Shiny Apps
 - [screencast-capture](https://github.com/cesarsouza/screencast-capture) - Free utility to continuously capture the computer screen.
 - [Excel-Merge](https://github.com/Excel-projects/Excel-Merge) - GUI Diff Tool for Excel
@@ -375,7 +376,6 @@
 - [simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
 - [sentencepiece](https://github.com/bnosac/sentencepiece) - R package for Byte Pair Encoding / Unigram modelling based on Sentencepiece
 - [RDCOMClient](https://github.com/omegahat/RDCOMClient) - 
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [devout](https://github.com/coolbutuseless/devout) - Write R graphics output devices in plain R
 - [hyperscan](https://github.com/intel/hyperscan) - High-performance regular expression matching library
 - [readxl](https://github.com/tidyverse/readxl) - Read excel files (.xls and .xlsx) into R 🖇
@@ -757,6 +757,8 @@
 
 ## HTML 
 
+- [js4shinyfieldnotes](https://github.com/ThinkR-open/js4shinyfieldnotes) - Field Notes on JavaScript for Shiny Users
+- [shinyuser](https://github.com/systats/shinyuser) - User login and admin panel for shiny apps (Semantic UI)
 - [webservices](https://github.com/ropensci/webservices) - CRAN WebTechnologies Task View
 - [taxonomy](https://github.com/ropensci/taxonomy) - taxonomy R packages
 - [demo-landing-site](https://github.com/sol-eng/demo-landing-site) - An index page for a demo server
@@ -2566,7 +2568,7 @@
 - [windows](https://github.com/equk/windows) - 💎 tweaks & fixes for windows 10 - mostly powershell
 - [Win10Script](https://github.com/madbomb122/Win10Script) - Win 10 Powershell Script to tweak and change windows settings
 - [scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
-- [Windows-10-Sophia-Script](https://github.com/farag2/Windows-10-Sophia-Script) - :zap: A powerful PowerShell module for fune-tuning Windows 10
+- [Windows-10-Sophia-Script](https://github.com/farag2/Windows-10-Sophia-Script) - :zap: A powerful PowerShell module for fine-tuning Windows 10
 - [Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 - [universal-dashboard](https://github.com/ironmansoftware/universal-dashboard) - Build beautiful websites with PowerShell.
 - [Zotero-Obdisian-Picker-Windows](https://github.com/AlexanderSavenkov/Zotero-Obdisian-Picker-Windows) - Allows you to call up a Zotero picker from within Obsidian in Windows 10
@@ -2858,6 +2860,9 @@
 
 ## R 
 
+- [shiny-r-console](https://github.com/yanirmor/shiny-r-console) - Small app that simulates an R console and lets you run R commands, for live debugging and transparency of the hosting environment
+- [shiny-user-management](https://github.com/yanirmor/shiny-user-management) - Demonstration of user management and authentication system in R Shiny
+- [datamods](https://github.com/dreamRs/datamods) - Shiny modules to import data into an application or addin
 - [libr](https://github.com/dbosak01/libr) - An R package to create data libraries and data dictionaries.
 - [quicknews](https://github.com/jaytimm/quicknews) - Some R-based tools for navigating the online news landscape
 - [packgraph](https://github.com/ropenscilabs/packgraph) - Examine and analyse function call graphs from R packages
@@ -4288,7 +4293,7 @@
 - [leaftime](https://github.com/timelyportfolio/leaftime) - Leaflet.timeline for R leaflet
 - [sortable](https://github.com/rstudio/sortable) - R htmlwidget for Sortable.js
 - [standalones](https://github.com/gaborcsardi/standalones) - Standalone R files for various tasks
-- [box](https://github.com/klmr/box) - Write reusable, composable and modular R code
+- [pod](https://github.com/klmr/pod) - Write reusable, composable and modular R code
 - [RepoGenerator](https://github.com/jaredlander/RepoGenerator) - This builds a repo from a template for use in workshop instruction
 - [rr-init](https://github.com/Reproducible-Science-Curriculum/rr-init) - Research project initialization and organization following reproducible research guidelines
 - [knowledgerepo](https://github.com/dgrtwo/knowledgerepo) - R Interface to AirBnb's Knowledge Repository
