@@ -607,6 +607,7 @@
 
 ## Go 
 
+- [buildstatus](https://github.com/mchmarny/buildstatus) - Cloud Build status notification in Slack using Cloud Run
 - [go-examples](https://github.com/bminer/go-examples) - Example Go Code
 - [npackd](https://github.com/npackd/npackd) - Package manager for Microsoft Windows: Wiki, bug tracker, mirror of the default repositories
 - [dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
@@ -1116,6 +1117,7 @@
 
 ## JavaScript 
 
+- [installable-pwa-test](https://github.com/DivadNojnarg/installable-pwa-test) - 
 - [awesome-tech-blogs](https://github.com/MarkoDenic/awesome-tech-blogs) - A list of Tech Blogs.
 - [dotfiles](https://github.com/spences10/dotfiles) - dot files and configurations 💠🗃
 - [scottspence.com](https://github.com/spences10/scottspence.com) - My Letter Beautiful Mysterious Notebook.
@@ -1913,7 +1915,7 @@
 - [snipsnap](https://github.com/snipsnapdev/snipsnap) - The ultimate snippets collection for VS Code
 - [ontologies](https://github.com/KasperZutterman/ontologies) - This project describes the two ontologies used by https://www.datavillage.me to build the Digital Twins of people and to process these Digital Twins in a fully transparent way. This project uses WIDICO (https://github.com/dgarijo/Widoco) to generate documentation of ontologies. The generated ontology websites are automatically deployed on https://www.netlify.com.
 - [Contribute-To-This-Project](https://github.com/KasperZutterman/Contribute-To-This-Project) - This project is waiting for your contribution. If you have never contributed code on GitHub before, this is the project to get you started.
-- [zettelstore-manual](https://github.com/zettelstore/zettelstore-manual) - Manual for Zettelstore
+- [zettelstore-manual-github](https://github.com/zettelstore/zettelstore-manual-github) - Development is discontinued here. Please use https://zettelstore.de or fork the new mirror https://github.com/zettelstore/zettelstore
 - [wikinota](https://github.com/wikinota/wikinota) - A blazing fast personal Wiki for your life. lives on at our own gitServer https://git.openlibre.org
 - [awesome-zettelkasten](https://github.com/fhoehl/awesome-zettelkasten) - A list of awesome Zettelkasten resources.
 - [zk-tools](https://github.com/seanakabry/zk-tools) - Keyboard Maestro macros to aid in managing plain text notes following wiki and Zettelkasten conventions
@@ -2860,6 +2862,7 @@
 
 ## R 
 
+- [grkstyle](https://github.com/gadenbuie/grkstyle) - A Tidy R Code Style
 - [shiny-r-console](https://github.com/yanirmor/shiny-r-console) - Small app that simulates an R console and lets you run R commands, for live debugging and transparency of the hosting environment
 - [shiny-user-management](https://github.com/yanirmor/shiny-user-management) - Demonstration of user management and authentication system in R Shiny
 - [datamods](https://github.com/dreamRs/datamods) - Shiny modules to import data into an application or addin
@@ -3098,7 +3101,7 @@
 - [mctemplates](https://github.com/mcanouil/mctemplates) - Mickaël Canouil's Rmarkdown & Rstudio templates
 - [insane](https://github.com/mcanouil/insane) - An Interactive Web Application for Quality Control and Analysis of Insulin Secretion from Pancreatic Beta Cells
 - [rstudio_mybinder_env](https://github.com/franzbischoff/rstudio_mybinder_env) - This is a template environment, pre-configured to run Github Classroom assessments.
-- [reproducible_paper_template](https://github.com/jpgmv1998/reproducible_paper_template) - Template repository for starting a new paper project implementing good practices for reproducibility
+- [reproducible_paper_template](https://github.com/jpgmv1998/reproducible_paper_template) - Template repository for starting a new empirical paper project implementing good practices for reproducibility using R
 - [template](https://github.com/rOpenGov/template) - rOpenGov minimal package template
 - [project_template](https://github.com/epicentre-msf/project_template) - Everything you need to start a new project, based on Rmarkdown, and publish it as a website
 - [heroku-shiny-app](https://github.com/virtualstaticvoid/heroku-shiny-app) - Example Shiny Application on Heroku
@@ -3647,7 +3650,7 @@
 - [gmailr](https://github.com/r-lib/gmailr) - Access the Gmail RESTful API from R.
 - [icongram](https://github.com/r4fun/icongram) - :v: Icongram for R
 - [revdepcheck.extras](https://github.com/HenrikBengtsson/revdepcheck.extras) - R package: revdepcheck.extras - Reverse-Dependency Checks from the Command Line (CLI)
-- [khroma](https://github.com/nfrerebeau/khroma) - :art: Colour Schemes for Scientific Data Visualization
+- [khroma](https://github.com/tesselle/khroma) - :art: Colour Schemes for Scientific Data Visualization
 - [stringr.plus](https://github.com/johncassil/stringr.plus) - 
 - [parameterpal](https://github.com/softloud/parameterpal) - Parameters for beta distribution from interpretable conditions
 - [covrpage](https://github.com/yonicd/covrpage) - Create a summary readme for the testthat subdirectory to communicate with potential users
@@ -5062,6 +5065,7 @@
 
 ## Shell 
 
+- [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [stevedore](https://github.com/jpetazzo/stevedore) - Containerize your development environments
 - [bpkg](https://github.com/bpkg/bpkg) - Lightweight bash package manager
 - [ck-dev-compilers](https://github.com/ctuning/ck-dev-compilers) - Collective Knowledge packages to build development versions of compilers (LLVM, GCC, etc) and use them in customizable and portable CK research workflows:
