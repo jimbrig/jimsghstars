@@ -1813,6 +1813,7 @@
 
 ## Others 
 
+- [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
 - [datadrivencv](https://github.com/grantmcdermott/datadrivencv) - R package for building customizable CVs from spreadsheets
 - [gadenbuie](https://github.com/gadenbuie/gadenbuie) - 
 - [naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming.
@@ -2862,6 +2863,7 @@
 
 ## R 
 
+- [fusen](https://github.com/ThinkR-open/fusen) - Inflate your package from a flat Rmd
 - [grkstyle](https://github.com/gadenbuie/grkstyle) - A Tidy R Code Style
 - [shiny-r-console](https://github.com/yanirmor/shiny-r-console) - Small app that simulates an R console and lets you run R commands, for live debugging and transparency of the hosting environment
 - [shiny-user-management](https://github.com/yanirmor/shiny-user-management) - Demonstration of user management and authentication system in R Shiny
@@ -4801,7 +4803,7 @@
 - [shinyhelper](https://github.com/cwthom/shinyhelper) - Add markdown help files to 'shiny' apps
 - [tippy](https://github.com/JohnCoene/tippy) - 💬 Tippy.js for R htmlwidget
 - [rintrojs](https://github.com/carlganz/rintrojs) - Wrapper for the Intro.js library
-- [echarts4r](https://github.com/JohnCoene/echarts4r) - 🐳 ECharts 4 for R
+- [echarts4r](https://github.com/JohnCoene/echarts4r) - 🐳 ECharts 5 for R
 - [shinycustomloader](https://github.com/emitanaka/shinycustomloader) - Add a custom loader for R shiny
 - [shinyTime](https://github.com/burgerga/shinyTime) - A timeInput widget for Shiny
 - [shiny-directory-input](https://github.com/wleepang/shiny-directory-input) - An shiny input widget for selecting directories
