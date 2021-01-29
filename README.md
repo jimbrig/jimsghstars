@@ -399,9 +399,10 @@
 
 ## CSS 
 
+- [reticulate_101](https://github.com/paeselhz/reticulate_101) - Apresentação introdutória sobre o uso de Reticulate para integrar R e Python
 - [cleanrmd](https://github.com/gadenbuie/cleanrmd) - 📄✨Clean Class-Less R Markdown HTML Documents
 - [exploratory-data-analysis-in-the-21st-century](https://github.com/dicook/exploratory-data-analysis-in-the-21st-century) - A book about exploratory data analysis in the 21st century
-- [visualization-with-shiny](https://github.com/tradestatistics/visualization-with-shiny) - Open Trade Statistics Shiny Dashboard
+- [tradestatistics-visualization-with-shiny](https://github.com/pachamaltese/tradestatistics-visualization-with-shiny) - Open Trade Statistics Shiny Dashboard
 - [fullscreen-slider](https://github.com/ykob/fullscreen-slider) - This asset controls sections in a page.   It resizes sections to fullscreen resolution and moves these individually by wheel/touch events.
 - [support](https://github.com/rbind/support) - Technical support for rbind
 - [resources](https://github.com/jimbrig/resources) - 
@@ -570,6 +571,7 @@
 - [docker_scripts](https://github.com/icolwell/docker_scripts) - This repo contains the Dockerfiles for the images hosted on my dockerhub
 - [r-dockerfiles](https://github.com/robertdj/r-dockerfiles) - Dockerfiles for R
 - [rlang-shiny-oci-docker](https://github.com/ericsgagnon/rlang-shiny-oci-docker) - Multi-stage docker build to extend rocker/shiny-verse with oracle oci
+- [ds-toolkit](https://github.com/vasudevgupta7/ds-toolkit) - This repo is having some useful stuff for data scientist related stuff.
 - [coeos](https://github.com/mcanouil/coeos) - My own Docker image
 - [EfficientR_Docker](https://github.com/G-Thomson/EfficientR_Docker) - Unofficial Docker image for Efficient R programming by Colin Gillespie and  Robin Lovelace
 - [mkit](https://github.com/darkbitio/mkit) - MKIT is a Managed Kubernetes Inspection Tool that validates several common security-related configuration settings of managed Kubernetes cluster objects and the workloads/resources running inside the cluster.
@@ -758,6 +760,8 @@
 
 ## HTML 
 
+- [2020-06-01_dplyr-vctrs-compat](https://github.com/DavisVaughan/2020-06-01_dplyr-vctrs-compat) - 
+- [addintest](https://github.com/maelle/addintest) - 
 - [js4shinyfieldnotes](https://github.com/ThinkR-open/js4shinyfieldnotes) - Field Notes on JavaScript for Shiny Users
 - [shinyuser](https://github.com/systats/shinyuser) - User login and admin panel for shiny apps (Semantic UI)
 - [webservices](https://github.com/ropensci/webservices) - CRAN WebTechnologies Task View
@@ -1117,6 +1121,7 @@
 
 ## JavaScript 
 
+- [tidymodels-webinar](https://github.com/brunaw/tidymodels-webinar) - An introduction to the tidymodels package, Young-ISA Webinar
 - [installable-pwa-test](https://github.com/DivadNojnarg/installable-pwa-test) - 
 - [awesome-tech-blogs](https://github.com/MarkoDenic/awesome-tech-blogs) - A list of Tech Blogs.
 - [dotfiles](https://github.com/spences10/dotfiles) - dot files and configurations 💠🗃
@@ -2427,6 +2432,7 @@
 
 ## PHP 
 
+- [web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
 - [composer](https://github.com/composer/composer) - Dependency Manager for PHP
 - [wfh-productivity-system](https://github.com/Kamoates/wfh-productivity-system) - 
 - [wslpath](https://github.com/laurent22/wslpath) - wslpath - Converts Unix and Windows format paths in WSL
@@ -2462,6 +2468,7 @@
 
 ## PowerShell 
 
+- [PSffmpeg](https://github.com/nneeoo/PSffmpeg) - Powershell CLI for ffmpeg
 - [Fudge](https://github.com/Badgerati/Fudge) - Fudge is a PowerShell tool to help manage software packages via Chocolatey for specific development projects. Think NPM and Bower, but for Chocolatey
 - [chocolatey-packages](https://github.com/OlafHaag/chocolatey-packages) - 
 - [dorado](https://github.com/chawyehsu/dorado) - 🐟 Yet Another bucket for lovely Scoop
@@ -2584,6 +2591,7 @@
 
 ## Python 
 
+- [email2phonenumber](https://github.com/martinvigo/email2phonenumber) - A OSINT tool to obtain a target's phone number just by having his email address
 - [streamlit-sudoku](https://github.com/jhrcook/streamlit-sudoku) - A Streamlit web application for solving Sudoku.
 - [chob](https://github.com/cchoban/chob) - Choban is a software automation tool that helps you to install your favorite application from command line just with couple of commands.
 - [ck-env](https://github.com/ctuning/ck-env) - CK repository with components and automation actions to enable portable workflows across diverse platforms including Linux, Windows, MacOS and Android. It includes software detection plugins and meta packages (code, data sets, models, scripts, etc) with the possibility of multiple versions to co-exist in a user or system environment:
@@ -2863,7 +2871,8 @@
 
 ## R 
 
-- [fusen](https://github.com/ThinkR-open/fusen) - Inflate your package from a flat Rmd
+- [redditsuite](https://github.com/fdrennan/redditsuite) - A package to pull Reddit data and store it in PostgreSQL.
+- [fusen](https://github.com/ThinkR-open/fusen) - Inflate your package from a simple flat Rmd
 - [grkstyle](https://github.com/gadenbuie/grkstyle) - A Tidy R Code Style
 - [shiny-r-console](https://github.com/yanirmor/shiny-r-console) - Small app that simulates an R console and lets you run R commands, for live debugging and transparency of the hosting environment
 - [shiny-user-management](https://github.com/yanirmor/shiny-user-management) - Demonstration of user management and authentication system in R Shiny
@@ -3792,7 +3801,6 @@
 - [shinipsum](https://github.com/ThinkR-open/shinipsum) - Lorem-Ipsum-like Helpers for fast Shiny Prototyping
 - [blaze](https://github.com/nteetor/blaze) - Navigate URL paths with shiny
 - [elephant](https://github.com/moodymudskipper/elephant) - make variables remember their history
-- [outstanding-shiny-ui-code](https://github.com/DivadNojnarg/outstanding-shiny-ui-code) - Standalone code for the "Outstanding Shiny UI" Book
 - [misc](https://github.com/statdivlab/misc) - Miscellaneous data analyses, scripts, notes
 - [ButtonsInDataTable](https://github.com/AntoineGuillot2/ButtonsInDataTable) - Code for the tutorial on adding actionnable button in datatable in Shiny
 - [mazealls](https://github.com/shabbychef/mazealls) - R package for generating mazes.
@@ -5045,6 +5053,7 @@
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
+- [outstanding-shiny-ui-code](https://github.com/DivadNojnarg/outstanding-shiny-ui-code) - Standalone code for the "Outstanding Shiny UI" Book
 - [Blunt](https://github.com/f-prime/Blunt) - A CSS framework that helps with layouts and leaves your styling alone.
 - [rsthemes](https://github.com/gadenbuie/rsthemes) - 🔮 Full RStudio IDE and Syntax Themes
 - [bslib](https://github.com/rstudio/bslib) - Tools for theming shiny and rmarkdown from R via Bootstrap (3 or 4) Sass.
@@ -5114,7 +5123,6 @@
 - [convert-mp4-to-gif](https://github.com/komali2/convert-mp4-to-gif) - Dead simple script to convert all .mp4 files in directory to relatively well proportioned .gif files.
 - [resources](https://github.com/zero-to-mastery/resources) - Here is a list of best resources to get you started with learning how to code (mostly related to Web Development). Feel free to add your favorite  resources as well and help others in their journey of learning.
 - [knowledge](https://github.com/d2s/knowledge) - :cloud: 2016→ — A curated list of Tools and Resources.
-- [ds-toolkit](https://github.com/vasudevgupta7/ds-toolkit) - This repo is having some useful stuff for data scientist related stuff.
 - [adr-tools](https://github.com/npryce/adr-tools) - Command-line tools for working with Architecture Decision Records
 - [heroku-buildpack-r](https://github.com/yonicd/heroku-buildpack-r) - Heroku buildpack for R (http://www.r-project.org)
 - [Debloat](https://github.com/KushagraKarira/Debloat) - Remove ads, bloatware and speed up your device.
