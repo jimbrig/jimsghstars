@@ -48,6 +48,7 @@
   - [Perl](#perl)
   - [PowerShell](#powershell)
   - [Processing](#processing)
+  - [Puppet](#puppet)
   - [Python](#python)
   - [R](#r)
   - [RMarkdown](#rmarkdown)
@@ -399,6 +400,7 @@
 
 ## CSS 
 
+- [pivta](https://github.com/feddelegrand7/pivta) - Create an Interactive Pivot Table with Data Analysis Tools
 - [reticulate_101](https://github.com/paeselhz/reticulate_101) - Apresentação introdutória sobre o uso de Reticulate para integrar R e Python
 - [cleanrmd](https://github.com/gadenbuie/cleanrmd) - 📄✨Clean Class-Less R Markdown HTML Documents
 - [exploratory-data-analysis-in-the-21st-century](https://github.com/dicook/exploratory-data-analysis-in-the-21st-century) - A book about exploratory data analysis in the 21st century
@@ -609,6 +611,7 @@
 
 ## Go 
 
+- [devspace](https://github.com/loft-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [buildstatus](https://github.com/mchmarny/buildstatus) - Cloud Build status notification in Slack using Cloud Run
 - [go-examples](https://github.com/bminer/go-examples) - Example Go Code
 - [npackd](https://github.com/npackd/npackd) - Package manager for Microsoft Windows: Wiki, bug tracker, mirror of the default repositories
@@ -624,6 +627,7 @@
 - [keeper-cli](https://github.com/nunux-keeper/keeper-cli) - Nunux Keeper CLI
 - [todoist](https://github.com/sachaos/todoist) - Todoist CLI Client. I ❤️ Todoist and CLI.
 - [kots](https://github.com/replicatedhq/kots) - KOTS provides the framework, tools and integrations that enable the delivery and management of 3rd-party Kubernetes applications, a.k.a. Kubernetes Off-The-Shelf (KOTS) Software.
+- [xc](https://github.com/xct/xc) - A small reverse shell for Linux & Windows
 - [wsl-ssh-pageant](https://github.com/NZSmartie/wsl-ssh-pageant) - A Pageant bridge for WSL, enabling ssh-ageants to talk to to PuTTY Pagent or GnuPG for Windows
 - [wsl-ssh-agent](https://github.com/rupor-github/wsl-ssh-agent) - Helper to interface with Windows ssh-agent.exe service from Windows Subsystem for Linux (WSL)
 - [wsl-ssh-pageant](https://github.com/benpye/wsl-ssh-pageant) - A Pageant -&gt; TCP bridge for use with WSL, allowing for Pageant to be used as an ssh-ageant within the WSL environment.
@@ -760,6 +764,10 @@
 
 ## HTML 
 
+- [knitrContainer](https://github.com/GegznaV/knitrContainer) - :soon: :package: Collect and Print Multiple Objects in an R Markdown Report
+- [spMisc](https://github.com/GegznaV/spMisc) - :soon: :egg: Miscellaneous R functions
+- [shinyproxy-config-examples](https://github.com/openanalytics/shinyproxy-config-examples) - Configuration examples for ShinyProxy
+- [shinyproxy-config-examples](https://github.com/lamkel/shinyproxy-config-examples) - 
 - [2020-06-01_dplyr-vctrs-compat](https://github.com/DavisVaughan/2020-06-01_dplyr-vctrs-compat) - 
 - [addintest](https://github.com/maelle/addintest) - 
 - [js4shinyfieldnotes](https://github.com/ThinkR-open/js4shinyfieldnotes) - Field Notes on JavaScript for Shiny Users
@@ -1121,6 +1129,7 @@
 
 ## JavaScript 
 
+- [nativeapp](https://github.com/jimbrig/nativeapp) - React Native App for Learning Purposes
 - [tidymodels-webinar](https://github.com/brunaw/tidymodels-webinar) - An introduction to the tidymodels package, Young-ISA Webinar
 - [installable-pwa-test](https://github.com/DivadNojnarg/installable-pwa-test) - 
 - [awesome-tech-blogs](https://github.com/MarkoDenic/awesome-tech-blogs) - A list of Tech Blogs.
@@ -1276,7 +1285,6 @@
 - [developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer.
 - [generator-jekyll-starter-kit](https://github.com/nirgn975/generator-jekyll-starter-kit) - 🚀 Jekyll Progressive Web App Generator.
 - [faviator](https://github.com/faviator/faviator) - A simple easy favicon generator.
-- [streaker](https://github.com/jamieweavis/streaker) - 🐙 GitHub contribution streak & stat tracking menu bar app
 - [GitHubWidgets](https://github.com/smuyyh/GitHubWidgets) - GitHub html widget, include User Widget、Repo Widget and Activity Widget.
 - [starred](https://github.com/sinchang/starred) - Show one random repo from your starred repos on the GitHub homepage
 - [github-is-starred-cli](https://github.com/transitive-bullshit/github-is-starred-cli) - CLI for checking if a user has starred a particular GitHub repo.
@@ -1745,6 +1753,7 @@
 
 ## Kotlin 
 
+- [google-cloud-platform-notes](https://github.com/irvifa/google-cloud-platform-notes) - Curated Notes on Google Cloud Platform.
 - [orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists
 - [DragRating](https://github.com/saran2020/DragRating) - Easy to use Drag Rating with customisation with custom assets
 - [sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
@@ -1807,6 +1816,7 @@
 
 ## Objective-C 
 
+- [PassKit-Business-Card](https://github.com/TimOliver/PassKit-Business-Card) - A template for iOS Wallet passes that can be used like business cards.
 - [react-native-maps](https://github.com/react-native-maps/react-native-maps) - React Native Mapview component for iOS + Android
 - [DailyLearning](https://github.com/FrizzleFur/DailyLearning) - My Daily Learning~
 - [dotfiles](https://github.com/noamross/dotfiles) - 
@@ -1818,10 +1828,14 @@
 
 ## Others 
 
+- [eleventy-base-blog](https://github.com/GegznaV/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator.
+- [data_science_with_R](https://github.com/feddelegrand7/data_science_with_R) - 
+- [datamods](https://github.com/feddelegrand7/datamods) - Shiny modules to import data into an application or addin
+- [postcards](https://github.com/feddelegrand7/postcards) - 💌 Create simple, beautiful personal websites and landing pages using only R Markdown.
 - [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
 - [datadrivencv](https://github.com/grantmcdermott/datadrivencv) - R package for building customizable CVs from spreadsheets
 - [gadenbuie](https://github.com/gadenbuie/gadenbuie) - 
-- [naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming.
+- [naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
 - [choco-packages](https://github.com/connorads/choco-packages) - @connorads favourite Chocolatey packages 🍫 Install and/or update all your favourite Windows software using a few commands
 - [config-dev](https://github.com/winbench/config-dev) - The configuration for a Bench environment to contribute to Bench.
 - [windows-for-developers](https://github.com/arkadiusjonczek/windows-for-developers) - Solutions for developers new on Windows coming from macOS or Linux. (Not Windows Developers)
@@ -2492,7 +2506,6 @@
 - [ScriptsArchive](https://github.com/changhuixu/ScriptsArchive) - Useful scripts
 - [about-powershell](https://github.com/ReneNyffenegger/about-powershell) - Small powershell scriptlets and/or examples.
 - [chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests) - Please submit your package requests as issues here
-- [xc](https://github.com/xct/xc) - A small reverse shell for Linux & Windows
 - [solarized-dark-for-wsl](https://github.com/nsilvestri/solarized-dark-for-wsl) - Changes the color theme of the WSL terminal to Solarized Dark.
 - [kubernetes_hyperv](https://github.com/EtienneDeneuve/kubernetes_hyperv) - Quick setup of a K8S Cluster in Hyper V server
 - [Windows-Boxstarter-with-WSL-Ubuntu](https://github.com/treffynnon/Windows-Boxstarter-with-WSL-Ubuntu) - My Windows Boxstarter with WSL (Ubuntu)
@@ -2588,6 +2601,10 @@
 ## Processing 
 
 - [processing_text_adventure](https://github.com/richelbilderbeek/processing_text_adventure) - Start of a text adventure in Processing
+
+## Puppet 
+
+- [puppet-shiny](https://github.com/fasrc/puppet-shiny) - R Shiny config via puppet
 
 ## Python 
 
@@ -2867,10 +2884,19 @@
 - [papermill](https://github.com/nteract/papermill) - 📚 Parameterize, execute, and analyze notebooks
 - [paper-tips-and-tricks](https://github.com/Wookai/paper-tips-and-tricks) - Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab.
 - [LaTeXTools](https://github.com/SublimeText/LaTeXTools) - LaTeX plugin for Sublime Text 2 and 3
-- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 
 ## R 
 
+- [conspect.helper](https://github.com/GegznaV/conspect.helper) - Convenience functions :zap:
+- [backup.tools](https://github.com/GegznaV/backup.tools) - 
+- [addins.rmd](https://github.com/GegznaV/addins.rmd) - Add-ins to format R Markdown documents
+- [bio](https://github.com/mokymai/bio) - Functions to manage R and RStudio
+- [shinydashboard_template](https://github.com/toddgrabowsky/shinydashboard_template) - This is a modular template for creating apps using the shinydashboard framework. Each app is stored in its own directory and dynamically loaded with a configurable sidebar title and icon.
+- [RSContest](https://github.com/feddelegrand7/RSContest) - Submission to RStudio Table Contest
+- [algo](https://github.com/feddelegrand7/algo) - Implement the Algolia Places Address Search Auto Completion Menu on Shiny Text Inputs
+- [GomoGomonoMi](https://github.com/feddelegrand7/GomoGomonoMi) - 👑 Animate Text in Rmd documents and shiny using the Animate.css Library
+- [cronologia](https://github.com/feddelegrand7/cronologia) - Create an HTML Vertical Timeline Widget in RMarkdown and Shiny
 - [redditsuite](https://github.com/fdrennan/redditsuite) - A package to pull Reddit data and store it in PostgreSQL.
 - [fusen](https://github.com/ThinkR-open/fusen) - Inflate your package from a simple flat Rmd
 - [grkstyle](https://github.com/gadenbuie/grkstyle) - A Tidy R Code Style
@@ -3190,7 +3216,7 @@
 - [pivot](https://github.com/halpo/pivot) - pivot extensions for dbplyr
 - [r-big-pivot](https://github.com/joyofdata/r-big-pivot) - Pivoting and charting big tabular data sets in a browser UI based on R and Shiny.
 - [PivotalR](https://github.com/greenplum-db/PivotalR) - An convenient R tool for manipulating tables in PostgreSQL type databases and a wrapper of Apache MADlib.
-- [actuar](https://github.com/cran/actuar) - :exclamation: This is a read-only mirror of the CRAN R package repository.  actuar — Actuarial Functions and Heavy Tailed Distributions. Homepage: https://gitlab.com/vigou3/actuar  Report bugs for this package: https://gitlab.com/vigou3/actuar/issues
+- [actuar](https://github.com/cran/actuar) - :exclamation: This is a read-only mirror of the CRAN R package repository.  actuar — Actuarial Functions and Heavy Tailed Distributions. Homepage: https://gitlab.com/vigou3/actuar  Report bugs for this package: https://gitlab.com/vigou3/actuar/-/issues
 - [async](https://github.com/gaborcsardi/async) - Asynchronous HTTP and computation in R
 - [mandalorian](https://github.com/asadpervez123/mandalorian) - Analyzing the reviews of The Mandalorian: Season 1 using Natural Language Processing in R and providing recommendations to The Walt Disney Company for Season 2.
 - [vegviz](https://github.com/datavizvg/vegviz) - R tools for dataviz.vg
@@ -5076,6 +5102,7 @@
 
 ## Shell 
 
+- [shiny_lite](https://github.com/Artificially-Intelligent/shiny_lite) - rocker/shiny based docker image with additional config options.
 - [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [stevedore](https://github.com/jpetazzo/stevedore) - Containerize your development environments
 - [bpkg](https://github.com/bpkg/bpkg) - Lightweight bash package manager
@@ -5363,6 +5390,7 @@
 
 ## TypeScript 
 
+- [cli](https://github.com/react-native-community/cli) - React Native command line tools
 - [r2pak](https://github.com/Eronana/r2pak) - A library used to uncompress pak file
 - [log4brains](https://github.com/thomvaill/log4brains) - ✍️ Log and publish your architecture decisions (ADR)
 - [vscode-tgit](https://github.com/mbinic/vscode-tgit) - TortoiseGit commands for Visual Studio Code
@@ -5431,6 +5459,7 @@
 - [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [profile-readme](https://github.com/actions-js/profile-readme) - 🗣 Display profile activity and other cool widgets in your profile README.md
 - [sao](https://github.com/saojs/sao) - ⚔ Futuristic scaffolding tool
+- [streaker](https://github.com/jamieweavis/streaker) - 🐙 GitHub contribution streak & stat tracking menu bar app
 - [random-starred-repo](https://github.com/LaksCastro/random-starred-repo) - 💡 A tiny website to open random repositories that you starred, available in: https://lakscastro.github.io/random-starred-repo
 - [note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) - Allows for text selections to be copied (refactored) into new notes and notes to be split into other notes.
 - [cm-show-whitespace-obsidian](https://github.com/deathau/cm-show-whitespace-obsidian) - A plugin for [Obsidian](https://obsidian.md) which shows whitespace in the editor.
