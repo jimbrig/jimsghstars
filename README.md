@@ -597,6 +597,7 @@
 
 ## Emacs Lisp 
 
+- [dotfiles](https://github.com/gf3/dotfiles) - Configurations for the tools I use every day
 - [dotfiles](https://github.com/cole-brokamp/dotfiles) - dotfiles
 - [configuration](https://github.com/yihui/configuration) - My configuration files
 - [zettel-mode](https://github.com/vifon/zettel-mode) - A Zettelkasten-style note-taking helper
@@ -4332,7 +4333,7 @@
 - [leaftime](https://github.com/timelyportfolio/leaftime) - Leaflet.timeline for R leaflet
 - [sortable](https://github.com/rstudio/sortable) - R htmlwidget for Sortable.js
 - [standalones](https://github.com/gaborcsardi/standalones) - Standalone R files for various tasks
-- [pod](https://github.com/klmr/pod) - Write reusable, composable and modular R code
+- [box](https://github.com/klmr/box) - Write reusable, composable and modular R code
 - [RepoGenerator](https://github.com/jaredlander/RepoGenerator) - This builds a repo from a template for use in workshop instruction
 - [rr-init](https://github.com/Reproducible-Science-Curriculum/rr-init) - Research project initialization and organization following reproducible research guidelines
 - [knowledgerepo](https://github.com/dgrtwo/knowledgerepo) - R Interface to AirBnb's Knowledge Repository
@@ -4767,7 +4768,7 @@
 - [knitr](https://github.com/yihui/knitr) - A general-purpose tool for dynamic report generation in R
 - [pkgbuild](https://github.com/r-lib/pkgbuild) - Find tools needed to build R packages
 - [hoaxy](https://github.com/news-r/hoaxy) - 🤥 Visualizes the spread of claims and related fact checking online.
-- [prodigenr](https://github.com/lwjohnst86/prodigenr) - Project directory generator R package
+- [prodigenr](https://github.com/rostools/prodigenr) - Project directory generator R package
 - [reportfactory](https://github.com/reconhub/reportfactory) - Lightweight infrastructure to handle multiple rmarkdown reports
 - [arsenal](https://github.com/jimbrig/arsenal) - What the Package Does (One Line, Title Case)
 - [shinyShortcut](https://github.com/Ewan-Keith/shinyShortcut) - Create executable files to run shiny apps directly in your browser
@@ -5117,7 +5118,6 @@
 - [simplenote-to-git](https://github.com/amussey/simplenote-to-git) - Back up your Simplenote account to a git repo or gist!
 - [vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
 - [DOCKER-introR](https://github.com/lockedata/DOCKER-introR) - A Dockerfile for teaching introductory R
-- [dotfiles](https://github.com/gf3/dotfiles) - Configurations for the tools I use every day
 - [dotfiles](https://github.com/FuriKuri/dotfiles) - My dotfiles (GitHub ❤ ~/)
 - [dotfiles](https://github.com/farisachugthai/dotfiles) - Dotfiles for bash, tmux, git, VSCode, Jupyter Notebooks and many more on Linux, Windows 10 and Android (Termux)
 - [dotfiles](https://github.com/zloeber/dotfiles) - Zachary Loeber's dotfiles
@@ -5459,7 +5459,7 @@
 - [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [profile-readme](https://github.com/actions-js/profile-readme) - 🗣 Display profile activity and other cool widgets in your profile README.md
 - [sao](https://github.com/saojs/sao) - ⚔ Futuristic scaffolding tool
-- [streaker](https://github.com/jamieweavis/streaker) - 🐙 GitHub contribution streak & stat tracking menu bar app
+- [streaker](https://github.com/jamieweavis/streaker) - 🔥 GitHub contribution streak & stat tracking menu bar app
 - [random-starred-repo](https://github.com/LaksCastro/random-starred-repo) - 💡 A tiny website to open random repositories that you starred, available in: https://lakscastro.github.io/random-starred-repo
 - [note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) - Allows for text selections to be copied (refactored) into new notes and notes to be split into other notes.
 - [cm-show-whitespace-obsidian](https://github.com/deathau/cm-show-whitespace-obsidian) - A plugin for [Obsidian](https://obsidian.md) which shows whitespace in the editor.
@@ -5517,7 +5517,7 @@
 - [mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
 - [gatsby-themes](https://github.com/LekoArts/gatsby-themes) - Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization options.
 - [checklist](https://github.com/atolye15/checklist) - The protocols we follow for the things we cannot automate yet! ✅
-- [nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
+- [nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [jupyterlab-bookmarks-extension](https://github.com/nandor-poka/jupyterlab-bookmarks-extension) - JupyterLab Favorites extension for JupyterLab 2.0+. Provides Launcher icons for favorite / bookmarked files.
 - [angular-favorites](https://github.com/Abhith/angular-favorites) - My favorite angular resources
 - [file-it](https://github.com/swdotcom/file-it) - json file manager
