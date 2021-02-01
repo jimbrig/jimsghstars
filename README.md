@@ -2889,6 +2889,7 @@
 
 ## R 
 
+- [golfstats](https://github.com/cgwhitehead/golfstats) - gather and clean pga stats for fantasy golf
 - [conspect.helper](https://github.com/GegznaV/conspect.helper) - Convenience functions :zap:
 - [backup.tools](https://github.com/GegznaV/backup.tools) - 
 - [addins.rmd](https://github.com/GegznaV/addins.rmd) - Add-ins to format R Markdown documents
@@ -5103,6 +5104,7 @@
 
 ## Shell 
 
+- [fla.sh](https://github.com/tallguyjenks/fla.sh) - 💥 flashcards in your terminal
 - [shiny_lite](https://github.com/Artificially-Intelligent/shiny_lite) - rocker/shiny based docker image with additional config options.
 - [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [stevedore](https://github.com/jpetazzo/stevedore) - Containerize your development environments
@@ -5390,6 +5392,7 @@
 
 ## TypeScript 
 
+- [mume](https://github.com/shd101wyy/mume) - Powerful markdown tool
 - [cli](https://github.com/react-native-community/cli) - React Native command line tools
 - [r2pak](https://github.com/Eronana/r2pak) - A library used to uncompress pak file
 - [log4brains](https://github.com/thomvaill/log4brains) - ✍️ Log and publish your architecture decisions (ADR)
