@@ -612,6 +612,10 @@
 
 ## Go 
 
+- [gitkube](https://github.com/hasura/gitkube) - Build and deploy docker images to Kubernetes using git push
+- [draft](https://github.com/Azure/draft) - A tool for developers to create cloud-native applications on Kubernetes.
+- [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
+- [skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 - [devspace](https://github.com/loft-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [buildstatus](https://github.com/mchmarny/buildstatus) - Cloud Build status notification in Slack using Cloud Run
 - [go-examples](https://github.com/bminer/go-examples) - Example Go Code
@@ -765,6 +769,7 @@
 
 ## HTML 
 
+- [shinyfilter](https://github.com/jsugarelli/shinyfilter) - 
 - [knitrContainer](https://github.com/GegznaV/knitrContainer) - :soon: :package: Collect and Print Multiple Objects in an R Markdown Report
 - [spMisc](https://github.com/GegznaV/spMisc) - :soon: :egg: Miscellaneous R functions
 - [shinyproxy-config-examples](https://github.com/openanalytics/shinyproxy-config-examples) - Configuration examples for ShinyProxy
@@ -1086,6 +1091,7 @@
 
 ## Haskell 
 
+- [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [pandoc-link-context](https://github.com/srid/pandoc-link-context) - Extract context around links in Pandoc
 - [hakyll](https://github.com/jaspervdj/hakyll) - A static website compiler library in Haskell
 - [Zettel-hs](https://github.com/aleator/Zettel-hs) - Simple plain text ZettelKasten system for terminal users
@@ -1130,6 +1136,13 @@
 
 ## JavaScript 
 
+- [shinyRDT](https://github.com/IndexMic/shinyRDT) - A library for creating reactive datatables in R Shiny.
+- [reactivesearch](https://github.com/appbaseio/reactivesearch) - React, React Native and Vue UI components for building data-driven apps with Elasticsearch
+- [wappalyzer](https://github.com/AliasIO/wappalyzer) - Identify technology on websites.
+- [responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
+- [eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
+- [lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
+- [project-watchdog](https://github.com/rabira-hierpa/project-watchdog) - Project Watchdog is a project management system that helps students and advisors to collaborate on a project by tracking each step of their project phase. It has useful features like task assignment, progress report, project archive and project history.
 - [nativeapp](https://github.com/jimbrig/nativeapp) - React Native App for Learning Purposes
 - [tidymodels-webinar](https://github.com/brunaw/tidymodels-webinar) - An introduction to the tidymodels package, Young-ISA Webinar
 - [installable-pwa-test](https://github.com/DivadNojnarg/installable-pwa-test) - 
@@ -1829,6 +1842,7 @@
 
 ## Others 
 
+- [awesome-agile-essentials](https://github.com/SaadAAkash/awesome-agile-essentials) - An awesome list of concepts & resources of Agile Software Development, curated from handpicked project management contents, courses & more!
 - [eleventy-base-blog](https://github.com/GegznaV/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator.
 - [data_science_with_R](https://github.com/feddelegrand7/data_science_with_R) - 
 - [datamods](https://github.com/feddelegrand7/datamods) - Shiny modules to import data into an application or addin
@@ -2609,6 +2623,8 @@
 
 ## Python 
 
+- [powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
+- [http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [email2phonenumber](https://github.com/martinvigo/email2phonenumber) - A OSINT tool to obtain a target's phone number just by having his email address
 - [streamlit-sudoku](https://github.com/jhrcook/streamlit-sudoku) - A Streamlit web application for solving Sudoku.
 - [chob](https://github.com/cchoban/chob) - Choban is a software automation tool that helps you to install your favorite application from command line just with couple of commands.
@@ -2889,6 +2905,10 @@
 
 ## R 
 
+- [rpackage-sensorDataImport](https://github.com/zevross-spatial/rpackage-sensorDataImport) - 
+- [pointr](https://github.com/jsugarelli/pointr) - Working comfortably with pointers and shortcuts to R objects
+- [fireData](https://github.com/Kohze/fireData) - Firebase + R
+- [R_Shiny_DataTable_DeleteRowSelection](https://github.com/OliverHennhoefer/R_Shiny_DataTable_DeleteRowSelection) - Example of interactively adding rows / deleting rows by selecting directly in a data.table (DT) in Shiny
 - [golfstats](https://github.com/cgwhitehead/golfstats) - gather and clean pga stats for fantasy golf
 - [conspect.helper](https://github.com/GegznaV/conspect.helper) - Convenience functions :zap:
 - [backup.tools](https://github.com/GegznaV/backup.tools) - 
@@ -5104,6 +5124,7 @@
 
 ## Shell 
 
+- [Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 - [fla.sh](https://github.com/tallguyjenks/fla.sh) - 💥 flashcards in your terminal
 - [shiny_lite](https://github.com/Artificially-Intelligent/shiny_lite) - rocker/shiny based docker image with additional config options.
 - [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
@@ -5392,6 +5413,8 @@
 
 ## TypeScript 
 
+- [bit](https://github.com/teambit/bit) - Build, distribute, and collaborate on components.
+- [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [mume](https://github.com/shd101wyy/mume) - Powerful markdown tool
 - [cli](https://github.com/react-native-community/cli) - React Native command line tools
 - [r2pak](https://github.com/Eronana/r2pak) - A library used to uncompress pak file
@@ -5547,7 +5570,7 @@
 - [web](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app. https://standardnotes.org
 - [Dataverse-Data-Curation-Tool](https://github.com/scholarsportal/Dataverse-Data-Curation-Tool) - A tool for curating data by adding labels, groups, weights and other details to assist with informed reuse
 - [react-native-modalize](https://github.com/jeremybarbet/react-native-modalize) - A highly customizable modal/bottom sheet that loves scrolling content.
-- [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
+- [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [umbriel](https://github.com/Rocketseat/umbriel) - 📪  Mail sending microservice with Node.js, TypeScript and MongoDB
 - [cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
@@ -5624,6 +5647,7 @@
 
 ## Vue 
 
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 120k+ developers. https://hoppscotch.io
 - [code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [GitXplore-Search](https://github.com/appbaseio-apps/GitXplore-Search) - An application to explore github repositories.
 - [pile](https://github.com/mtobeiyf/pile) - :zap: A simple & powerful app to organize your piled work at one place~
