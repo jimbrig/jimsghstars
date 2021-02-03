@@ -118,6 +118,7 @@
 
 ## C 
 
+- [geodist](https://github.com/hypertidy/geodist) - Ultra lightweight, ultra fast calculation of geo distances
 - [rscrypt](https://github.com/rstudio/rscrypt) - scrypt cryptographic functions for R
 - [httpuv](https://github.com/rstudio/httpuv) - HTTP and WebSocket server package for R
 - [gcc-create-library](https://github.com/ReneNyffenegger/gcc-create-library) - Creating a shared and static library with the gnu compiler
@@ -568,6 +569,9 @@
 
 ## Dockerfile 
 
+- [docker-buildr](https://github.com/MangoTheCat/docker-buildr) - An r-ver image with extra build dependencies
+- [docker-forticlient](https://github.com/HybirdCorp/docker-forticlient) - Connect to a FortiGate VPN through docker
+- [rocker-rstudio](https://github.com/binder-oilgains/rocker-rstudio) - 
 - [rbase_shiny](https://github.com/slink42/rbase_shiny) - rocker/rbase docker image with a selection of packages preinstalled geared to support R-Shiny based webapp.
 - [about-Docker](https://github.com/ReneNyffenegger/about-Docker) - about Docker
 - [docker_scripts](https://github.com/icolwell/docker_scripts) - This repo contains the Dockerfiles for the images hosted on my dockerhub
@@ -769,6 +773,10 @@
 
 ## HTML 
 
+- [extractors](https://github.com/openschemas/extractors) - generic extraction recipes to get you started extracting schema.org entities for your software, data, and all things
+- [fortinet-gcp-solutions](https://github.com/40net-cloud/fortinet-gcp-solutions) - GCP Deployment Manager templates for easy and automated deployments of various Fortigate architectures in Google Compute.
+- [bootstrap-rating](https://github.com/dreyescat/bootstrap-rating) - Bootstrap Rating is a jQuery plugin that creates a rating control that uses Bootstrap glyphicons for rating symbols.
+- [pointR](https://github.com/mslegrand/pointR) - A shiny-based IDE for creating SVG by using R and the svgR package.
 - [shinyfilter](https://github.com/jsugarelli/shinyfilter) - 
 - [knitrContainer](https://github.com/GegznaV/knitrContainer) - :soon: :package: Collect and Print Multiple Objects in an R Markdown Report
 - [spMisc](https://github.com/GegznaV/spMisc) - :soon: :egg: Miscellaneous R functions
@@ -1136,6 +1144,8 @@
 
 ## JavaScript 
 
+- [ssh-agent](https://github.com/webfactory/ssh-agent) - GitHub Action to setup `ssh-agent` with a private key
+- [hot-reload](https://github.com/pjeby/hot-reload) - Automatically reload Obsidian plugins in development when their files are changed
 - [shinyRDT](https://github.com/IndexMic/shinyRDT) - A library for creating reactive datatables in R Shiny.
 - [reactivesearch](https://github.com/appbaseio/reactivesearch) - React, React Native and Vue UI components for building data-driven apps with Elasticsearch
 - [wappalyzer](https://github.com/AliasIO/wappalyzer) - Identify technology on websites.
@@ -1522,7 +1532,7 @@
 - [stat-distributions-js](https://github.com/richarddmorey/stat-distributions-js) - Javascript library for the visualization of statistical distributions
 - [awesome-libraries](https://github.com/sourcerer-io/awesome-libraries) - :sunglasses: Libraries that are being shown in Sourcerer profiles.
 - [foam-template-gatsby-search](https://github.com/ingalless/foam-template-gatsby-search) - Foam template, built with Gatsby, plus search
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (January 2021)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2021)
 - [DocumentTemplate](https://github.com/renrousousuo/DocumentTemplate) - 文件 Markdown 格式。方便书写各种文档。
 - [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -1778,6 +1788,7 @@
 
 ## Lua 
 
+- [dotfiles](https://github.com/jefftriplett/dotfiles) - :hammer: My dotfiles for setting up my Macs with Ansible
 - [dotfiles](https://github.com/hexylena/dotfiles) - My rubbish dotfiles repo
 - [awesome-config](https://github.com/Eggbertx/awesome-config) - My awesome (window manager) configuration setup
 - [awesome-config](https://github.com/theasp/awesome-config) - Configuration GUI and plugin API for the Awesome window manager
@@ -1842,6 +1853,7 @@
 
 ## Others 
 
+- [data-versioning](https://github.com/leeper/data-versioning) - Collecting thoughts about data versioning
 - [awesome-agile-essentials](https://github.com/SaadAAkash/awesome-agile-essentials) - An awesome list of concepts & resources of Agile Software Development, curated from handpicked project management contents, courses & more!
 - [eleventy-base-blog](https://github.com/GegznaV/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator.
 - [data_science_with_R](https://github.com/feddelegrand7/data_science_with_R) - 
@@ -2497,6 +2509,8 @@
 
 ## PowerShell 
 
+- [choco-r-devel](https://github.com/leeper/choco-r-devel) - Chocolatey package for r-devel
+- [choco-rtools](https://github.com/leeper/choco-rtools) - Chocolatey package for Rtools
 - [PSffmpeg](https://github.com/nneeoo/PSffmpeg) - Powershell CLI for ffmpeg
 - [Fudge](https://github.com/Badgerati/Fudge) - Fudge is a PowerShell tool to help manage software packages via Chocolatey for specific development projects. Think NPM and Bower, but for Chocolatey
 - [chocolatey-packages](https://github.com/OlafHaag/chocolatey-packages) - 
@@ -2623,6 +2637,8 @@
 
 ## Python 
 
+- [pinboard-bookmarks-updater](https://github.com/jefftriplett/pinboard-bookmarks-updater) - 🤖 Opinionated Pinboard.in Bookmarks Updater
+- [personal-goals](https://github.com/jefftriplett/personal-goals) - :white_check_mark: Personal goals made public :smile:
 - [powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
 - [http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [email2phonenumber](https://github.com/martinvigo/email2phonenumber) - A OSINT tool to obtain a target's phone number just by having his email address
@@ -2905,6 +2921,23 @@
 
 ## R 
 
+- [mcode](https://github.com/leeper/mcode) - Functions to merge and recode across multiple variables
+- [unnecessary](https://github.com/leeper/unnecessary) - 
+- [pillar](https://github.com/r-lib/pillar) - Format columns with colour
+- [Formal-Package-Development-Workshop](https://github.com/MangoTheCat/Formal-Package-Development-Workshop) - Resources for the EARL Current Best Practices in Formal Package Development Workshop
+- [shinybulmareprex](https://github.com/fmmattioni/shinybulmareprex) - 
+- [quarto-r](https://github.com/quarto-dev/quarto-r) - R interface to quarto-cli
+- [shinyapp_calendar_plot](https://github.com/royfrancis/shinyapp_calendar_plot) - An R Shiny App to create a calendar
+- [Chatbot-Shiny](https://github.com/AndreAlz/Chatbot-Shiny) - Chatbot developed in R Shiny using 2 KNN models for classification with Caret library.
+- [riskmapr](https://github.com/apear9/riskmapr) - Code for riskmapr apps for invasive weed risk mapping
+- [git_discoverer_app](https://github.com/rajkstats/git_discoverer_app) - What's trending in data science space
+- [xplorerr](https://github.com/rsquaredacademy/xplorerr) - Shiny apps for interactive data analysis, visualization and modeling.
+- [shinycarbon](https://github.com/yonicd/shinycarbon) - shiny wrapper for carbonate R package
+- [price-optimization-shiny](https://github.com/zikrach/price-optimization-shiny) - Shiny app for Price Optimization using prophet and lme4 libraries for R.
+- [PlotsOfData](https://github.com/JoachimGoedhart/PlotsOfData) - Shiny App for comparison of samples
+- [Rmazon](https://github.com/mikkelkrogsholm/Rmazon) - The goal of Rmazon is to help you download product information and reviews from Amazon.com easily.
+- [sealr](https://github.com/jandix/sealr) - The goal of sealr is to provide multiple authentication and authorization strategies for plumber by using filters.
+- [GoalTracker](https://github.com/jiahtan/GoalTracker) - App to track personal goals in shiny
 - [rpackage-sensorDataImport](https://github.com/zevross-spatial/rpackage-sensorDataImport) - 
 - [pointr](https://github.com/jsugarelli/pointr) - Working comfortably with pointers and shortcuts to R objects
 - [fireData](https://github.com/Kohze/fireData) - Firebase + R
@@ -5085,6 +5118,7 @@
 - [codespan](https://github.com/brendanzab/codespan) - Beautiful diagnostic reporting for text-based programming languages.
 - [mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
+- [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
 
 ## SAS 
@@ -5124,6 +5158,10 @@
 
 ## Shell 
 
+- [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
+- [gpr-docker-publish](https://github.com/machine-learning-apps/gpr-docker-publish) - GitHub Action That Publishes Docker Images to GPR
+- [docker-build-with-cache-action](https://github.com/whoan/docker-build-with-cache-action) - :octocat: Build and push docker images caching each stage to reduce build time
+- [shiny](https://github.com/mapic/shiny) - Open Source Shiny Server Docker setup with Auth0 proxy
 - [Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 - [fla.sh](https://github.com/tallguyjenks/fla.sh) - 💥 flashcards in your terminal
 - [shiny_lite](https://github.com/Artificially-Intelligent/shiny_lite) - rocker/shiny based docker image with additional config options.
@@ -5328,6 +5366,7 @@
 
 ## Svelte 
 
+- [analytics-google](https://github.com/cristianpb/analytics-google) - Google analytics from cristianpb.github.io
 - [mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 
 ## Swift 
@@ -5343,6 +5382,7 @@
 
 ## TSQL 
 
+- [test_db](https://github.com/datacharmer/test_db) - A sample MySQL database with an integrated test suite, used to test your applications and database servers
 - [sqlserver-kit](https://github.com/ktaranov/sqlserver-kit) - Useful links, scripts, tools and best practice for Microsoft SQL Server Database
 
 ## Tcl 
@@ -5413,6 +5453,7 @@
 
 ## TypeScript 
 
+- [echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [bit](https://github.com/teambit/bit) - Build, distribute, and collaborate on components.
 - [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [mume](https://github.com/shd101wyy/mume) - Powerful markdown tool
@@ -5462,7 +5503,7 @@
 - [data-dictionary](https://github.com/hasura/data-dictionary) - 
 - [bookmarks.dev](https://github.com/BookmarksDev/bookmarks.dev) - Bookmarks and Code Snippets Manager for Developers & Co
 - [wikilinks-to-mdlinks-obsidian](https://github.com/agathauy/wikilinks-to-mdlinks-obsidian) - An Obsidian md plugin which allows for the conversion of individually selected wikilinks to markdown links, and vice versa.
-- [appsmith](https://github.com/appsmithorg/appsmith) - A web framework to build admin panels and internal tools.
+- [appsmith](https://github.com/appsmithorg/appsmith) - An open source platform to build admin panels, workflows, business apps, and any internal tool.
 - [env-cmd](https://github.com/toddbluhm/env-cmd) - Setting environment variables from a file
 - [github-issues-notice](https://github.com/linyows/github-issues-notice) - :octocat: Notify labeled issues to Slack
 - [VSCode-R-Debugger](https://github.com/ManuelHentschel/VSCode-R-Debugger) - R Debugger Extension for Visual Studio Code
@@ -5559,7 +5600,6 @@
 - [react-notion](https://github.com/splitbee/react-notion) - A fast React renderer for Notion pages
 - [foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
-- [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [aws-appsync-backend](https://github.com/ttoss/aws-appsync-backend) - AWS AppSync client for backend
 - [react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams
 - [html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
