@@ -1144,6 +1144,7 @@
 
 ## JavaScript 
 
+- [sysreqs.app](https://github.com/r-hub/sysreqs.app) - R / CRAN package requirements online database and API
 - [ssh-agent](https://github.com/webfactory/ssh-agent) - GitHub Action to setup `ssh-agent` with a private key
 - [hot-reload](https://github.com/pjeby/hot-reload) - Automatically reload Obsidian plugins in development when their files are changed
 - [shinyRDT](https://github.com/IndexMic/shinyRDT) - A library for creating reactive datatables in R Shiny.
@@ -2951,7 +2952,7 @@
 - [RSContest](https://github.com/feddelegrand7/RSContest) - Submission to RStudio Table Contest
 - [algo](https://github.com/feddelegrand7/algo) - Implement the Algolia Places Address Search Auto Completion Menu on Shiny Text Inputs
 - [GomoGomonoMi](https://github.com/feddelegrand7/GomoGomonoMi) - 👑 Animate Text in Rmd documents and shiny using the Animate.css Library
-- [cronologia](https://github.com/feddelegrand7/cronologia) - Create an HTML Vertical Timeline Widget in RMarkdown and Shiny
+- [cronologia](https://github.com/feddelegrand7/cronologia) - 🌱 🌱 🌱 Create an HTML Vertical Timeline Widget in RMarkdown and Shiny
 - [redditsuite](https://github.com/fdrennan/redditsuite) - A package to pull Reddit data and store it in PostgreSQL.
 - [fusen](https://github.com/ThinkR-open/fusen) - Inflate your package from a simple flat Rmd
 - [grkstyle](https://github.com/gadenbuie/grkstyle) - A Tidy R Code Style
@@ -3430,7 +3431,7 @@
 - [collidr](https://github.com/stevecondylios/collidr) - Check for namespace collisions across a half a million packages and functions on CRAN 💥
 - [callmethod](https://github.com/mkearney/callmethod) - 🤙 Call Method for Developing Packages
 - [R-for-Everyone-Code-Samples](https://github.com/tkanngiesser/R-for-Everyone-Code-Samples) - Code Examples used in https://www.amazon.com/Everyone-Advanced-Analytics-Graphics-Addison-Wesley/dp/013454692X
-- [Paycheck-Protection-Program-Analysis---R](https://github.com/NeilCollinsMS/Paycheck-Protection-Program-Analysis---R) - This project aims to analyze trends in the Paycheck Protection Program and to generate predictive models based on demographics to predict the likelihood of receiving a loan. PROJECT RETIRED - REPLACEMENT IN PROGRESS
+- [Paycheck-Protection-Program-Analysis---R](https://github.com/NeilCollinsMS/Paycheck-Protection-Program-Analysis---R) - This project aims to analyze trends in the Paycheck Protection Program and to generate predictive models based on demographics to predict the likelihood of receiving a loan.
 - [ShinyMC](https://github.com/m-jahn/ShinyMC) - R Shiny based interface for monitoring bioreactors
 - [lattice-tools](https://github.com/m-jahn/lattice-tools) - Panel functions and wrappers to extend the R lattice universe
 - [R-Program](https://github.com/Psingh12354/R-Program) - 
@@ -5453,6 +5454,7 @@
 
 ## TypeScript 
 
+- [google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
 - [echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [bit](https://github.com/teambit/bit) - Build, distribute, and collaborate on components.
 - [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
