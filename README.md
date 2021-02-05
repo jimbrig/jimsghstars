@@ -12,6 +12,7 @@
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
+  - [CMake](#cmake)
   - [CSS](#css)
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
@@ -325,7 +326,6 @@
 - [dotfiles](https://github.com/palikar/dotfiles) - Almost full setup for my Debian system.
 - [Reset-Windows-Update-Tool](https://github.com/ManuelGil/Reset-Windows-Update-Tool) - Troubleshooting Tool with Windows Updates (Developed in Dev-C++).
 - [QtSemanticNotes](https://github.com/YoukaiCat/QtSemanticNotes) - QtSemanticNotes is a personal knowledge base, personal wiki or just note taking application that features automatic linking, tree view and tags. Inspired by WikidPad and Zim.
-- [vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [file-structures-organization-and-processing](https://github.com/mhmelshaaer/file-structures-organization-and-processing) - Implementing basic file manipulations concepts and algorithms in c++
 - [skift](https://github.com/skiftOS/skift) - 🥑 A simple, handmade, operating system with a graphical user interface.
 - [LEMMA](https://github.com/LocalEpi/LEMMA) - Local  Epidemic Modeling for Management & Action (LEMMA)
@@ -398,6 +398,10 @@
 - [vroom](https://github.com/r-lib/vroom) - Fast reading of delimited files
 - [Basic-Excel-R-Toolkit](https://github.com/sdllc/Basic-Excel-R-Toolkit) - 
 - [purrrlyr](https://github.com/hadley/purrrlyr) - Tools at the intersection of purrr and dplyr
+
+## CMake 
+
+- [vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 
 ## CSS 
 
@@ -569,6 +573,7 @@
 
 ## Dockerfile 
 
+- [docker-shiny](https://github.com/QuantumObject/docker-shiny) - Dockerfile to be use to build image for docker container with Shiny
 - [docker-buildr](https://github.com/MangoTheCat/docker-buildr) - An r-ver image with extra build dependencies
 - [docker-forticlient](https://github.com/HybirdCorp/docker-forticlient) - Connect to a FortiGate VPN through docker
 - [rocker-rstudio](https://github.com/binder-oilgains/rocker-rstudio) - 
@@ -773,6 +778,8 @@
 
 ## HTML 
 
+- [shiny-landing-page](https://github.com/ColoradoDemography/shiny-landing-page) - 
+- [templates-using-bootstrap4](https://github.com/akashgiricse/templates-using-bootstrap4) - 🌆 Here I've aggregated some of the most commonly used web-page templates made using Bootstrap4 🛒
 - [extractors](https://github.com/openschemas/extractors) - generic extraction recipes to get you started extracting schema.org entities for your software, data, and all things
 - [fortinet-gcp-solutions](https://github.com/40net-cloud/fortinet-gcp-solutions) - GCP Deployment Manager templates for easy and automated deployments of various Fortigate architectures in Google Compute.
 - [bootstrap-rating](https://github.com/dreyescat/bootstrap-rating) - Bootstrap Rating is a jQuery plugin that creates a rating control that uses Bootstrap glyphicons for rating symbols.
@@ -1111,6 +1118,7 @@
 
 ## Java 
 
+- [spring-cloud-gcp](https://github.com/GoogleCloudPlatform/spring-cloud-gcp) - New home for Spring Cloud GCP development starting with version 2.0.
 - [jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 - [validator](https://github.com/validator/validator) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
 - [maven](https://github.com/apache/maven) - Apache Maven core
@@ -1144,6 +1152,12 @@
 
 ## JavaScript 
 
+- [r3dmol](https://github.com/swsoyee/r3dmol) - 🧬 An R package for visualizing molecular data in 3D
+- [html-item-pagination](https://github.com/llxx-lord-xxll/html-item-pagination) - A html element pagination library built using jQuery.
+- [map-gallery-template-js](https://github.com/Esri/map-gallery-template-js) - This Public Gallery template is designed for anyone who wants to showcase their ArcGIS Online maps, layers, and mobile apps in a dynamic web gallery.
+- [spotlight](https://github.com/nextapps-de/spotlight) - Web's most easy to integrate lightbox gallery library. Super-lightweight, outstanding performance, no dependencies.
+- [email-templates](https://github.com/forwardemail/email-templates) - :mailbox: Create, preview, and send custom email templates for Node.js. Highly configurable and supports automatic inline CSS, stylesheets, embedded images and fonts, and much more!
+- [ant-design-landing](https://github.com/ant-design/ant-design-landing) - :mountain_bicyclist: Landing Pages of Ant Design System
 - [sysreqs.app](https://github.com/r-hub/sysreqs.app) - R / CRAN package requirements online database and API
 - [ssh-agent](https://github.com/webfactory/ssh-agent) - GitHub Action to setup `ssh-agent` with a private key
 - [hot-reload](https://github.com/pjeby/hot-reload) - Automatically reload Obsidian plugins in development when their files are changed
@@ -1326,7 +1340,7 @@
 - [gatsby-query-string-demo](https://github.com/chrisfitkin/gatsby-query-string-demo) - Demonstrates dynamic content based on query string values in Gatsby
 - [loouislow81.github.io](https://github.com/loouislow81/loouislow81.github.io) - My personal and portfolio website built with Krugurt.js (Krugurt.js + Yogurt.css)
 - [publish-devto](https://github.com/sinedied/publish-devto) - :postbox: GitHub Action to publish markdown files on dev.to platform, with assets hosted on GitHub.
-- [headless-recorder](https://github.com/checkly/headless-recorder) - Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.
+- [headless-recorder](https://github.com/checkly/headless-recorder) - 🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.
 - [docable-notebooks](https://github.com/ottomatica/docable-notebooks) - :ledger: Next-Generation Interactive Notebooks
 - [wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
 - [chrome-wakatime](https://github.com/wakatime/chrome-wakatime) - Chrome extension for automatic time tracking and metrics generated from your browsing activity.
@@ -1854,6 +1868,9 @@
 
 ## Others 
 
+- [analytics-platform](https://github.com/ministryofjustice/analytics-platform) - Parent repository for the MOJ Analytics Platform
+- [edu-resources](https://github.com/GoogleCloudPlatform/edu-resources) - Curated List of GCP educational resources http://goo.gle/google-cloud-edu
+- [gitflow](https://github.com/jimbrig/gitflow) - Best practices for using gitflow
 - [data-versioning](https://github.com/leeper/data-versioning) - Collecting thoughts about data versioning
 - [awesome-agile-essentials](https://github.com/SaadAAkash/awesome-agile-essentials) - An awesome list of concepts & resources of Agile Software Development, curated from handpicked project management contents, courses & more!
 - [eleventy-base-blog](https://github.com/GegznaV/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator.
@@ -2922,6 +2939,8 @@
 
 ## R 
 
+- [llr](https://github.com/dirkschumacher/llr) - Lisp-like-R: A clojure inspired lisp that compiles to R in R
+- [shiny_meta_app](https://github.com/toddgrabowsky/shiny_meta_app) - A Shiny app that generates a landing page of links/buttons based on a config file
 - [mcode](https://github.com/leeper/mcode) - Functions to merge and recode across multiple variables
 - [unnecessary](https://github.com/leeper/unnecessary) - 
 - [pillar](https://github.com/r-lib/pillar) - Format columns with colour
@@ -5159,6 +5178,7 @@
 
 ## Shell 
 
+- [gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
 - [gpr-docker-publish](https://github.com/machine-learning-apps/gpr-docker-publish) - GitHub Action That Publishes Docker Images to GPR
 - [docker-build-with-cache-action](https://github.com/whoan/docker-build-with-cache-action) - :octocat: Build and push docker images caching each stage to reduce build time
@@ -5633,6 +5653,7 @@
 
 ## VBA 
 
+- [excel-config](https://github.com/jimbrig/excel-config) - Personalized Excel Setup and Configuration
 - [temp-COM](https://github.com/ReneNyffenegger/temp-COM) - 
 - [VBAModules](https://github.com/ReneNyffenegger/VBAModules) - Modules for Visualb Basic for Applications
 - [about-VBA](https://github.com/ReneNyffenegger/about-VBA) - about VBA
