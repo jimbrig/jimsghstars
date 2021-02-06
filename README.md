@@ -405,6 +405,8 @@
 
 ## CSS 
 
+- [cran-explorer](https://github.com/nz-stefan/cran-explorer) - Browse the CRAN package database and package dependencies
+- [blog-explorer](https://github.com/nz-stefan/blog-explorer) - Analysing 10+ Years of R Blogs
 - [pivta](https://github.com/feddelegrand7/pivta) - Create an Interactive Pivot Table with Data Analysis Tools
 - [reticulate_101](https://github.com/paeselhz/reticulate_101) - Apresentação introdutória sobre o uso de Reticulate para integrar R e Python
 - [cleanrmd](https://github.com/gadenbuie/cleanrmd) - 📄✨Clean Class-Less R Markdown HTML Documents
@@ -2444,7 +2446,7 @@
 - [Strategic-Business-Analytics-with-R](https://github.com/nicolasfguillaume/Strategic-Business-Analytics-with-R) - Foundations of Strategic Business Analytics - ESSEC Business school via Coursera.org
 - [hex-stickers](https://github.com/mcanouil/hex-stickers) - Hex Stickers from R Packages or R Shiny Application
 - [ractuary-dialect](https://github.com/Ractuary/ractuary-dialect) - Standardized definitions for common actuarial/insurance terms
-- [data-science-learning-resources](https://github.com/bradleyboehmke/data-science-learning-resources) - A collection of machine learning resources that I've found helpful (I only post what I've read!)
+- [data-science-learning-resources](https://github.com/bradleyboehmke/data-science-learning-resources) - A collection of data science and machine learning resources that I've found helpful (I only post what I've read!)
 - [solarisvm](https://github.com/jeroen/solarisvm) - VMware image with R on Solaris
 - [rerrors](https://github.com/rmflight/rerrors) - collection of errors in R as well as explanations
 - [ds4le-book](https://github.com/knapply/ds4le-book) - 
@@ -2814,7 +2816,7 @@
 - [pbm](https://github.com/westurner/pbm) - pbm works with Chrome and Chromium bookmarks JSON https://pypi.python.org/pypi/pbm
 - [gh_stars_export](https://github.com/ayush--s/gh_stars_export) - Exports list of all your starred Github repos to a json file
 - [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
-- [yq](https://github.com/kislyuk/yq) - Command-line YAML and XML processor - jq wrapper for YAML/XML documents
+- [yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git-integrated backup tool for macOS and Linux devs.
@@ -2939,6 +2941,12 @@
 
 ## R 
 
+- [dsvizopts](https://github.com/datasketch/dsvizopts) - 
+- [homodatum](https://github.com/datasketch/homodatum) - 
+- [html2r](https://github.com/alandipert/html2r) - Convert HTML to R
+- [shinyproxy-deployment](https://github.com/nz-stefan/shinyproxy-deployment) - Example how to deploy a Shiny app through shinyproxy
+- [shinyscaffold](https://github.com/nz-stefan/shinyscaffold) - Create boilerplate code for Shiny web applications
+- [Employee_Directory_CRUD](https://github.com/nvelden/Employee_Directory_CRUD) - An example CRUD application using the Shiny framework
 - [llr](https://github.com/dirkschumacher/llr) - Lisp-like-R: A clojure inspired lisp that compiles to R in R
 - [shiny_meta_app](https://github.com/toddgrabowsky/shiny_meta_app) - A Shiny app that generates a landing page of links/buttons based on a config file
 - [mcode](https://github.com/leeper/mcode) - Functions to merge and recode across multiple variables
@@ -3428,7 +3436,7 @@
 - [configure](https://github.com/kevinushey/configure) - Configure R packages for installation with R.
 - [drake_make](https://github.com/MilesMcBain/drake_make) - makefile as drake plan
 - [vsconfig](https://github.com/MilesMcBain/vsconfig) - My config for R in VSCode
-- [fastai](https://github.com/henry090/fastai) - R interface to fastai
+- [fastai](https://github.com/henry090/fastai) - R interface to fast.ai
 - [simstudy](https://github.com/kgoldfeld/simstudy) - simstudy: Illuminating research methods through data generation
 - [dockerstats](https://github.com/ColinFay/dockerstats) - R Wrapper Around 'docker stats'
 - [pinboardr](https://github.com/RMHogervorst/pinboardr) - Interact with the pinboard.in api from your R session
@@ -3450,7 +3458,7 @@
 - [collidr](https://github.com/stevecondylios/collidr) - Check for namespace collisions across a half a million packages and functions on CRAN 💥
 - [callmethod](https://github.com/mkearney/callmethod) - 🤙 Call Method for Developing Packages
 - [R-for-Everyone-Code-Samples](https://github.com/tkanngiesser/R-for-Everyone-Code-Samples) - Code Examples used in https://www.amazon.com/Everyone-Advanced-Analytics-Graphics-Addison-Wesley/dp/013454692X
-- [Paycheck-Protection-Program-Analysis---R](https://github.com/NeilCollinsMS/Paycheck-Protection-Program-Analysis---R) - This project aims to analyze trends in the Paycheck Protection Program and to generate predictive models based on demographics to predict the likelihood of receiving a loan.
+- [Paycheck-Protection-Program-Analysis](https://github.com/NeilCollinsMS/Paycheck-Protection-Program-Analysis) - This project aims to analyze trends in the Paycheck Protection Program and to generate predictive models based on demographics to predict the likelihood of receiving a loan.
 - [ShinyMC](https://github.com/m-jahn/ShinyMC) - R Shiny based interface for monitoring bioreactors
 - [lattice-tools](https://github.com/m-jahn/lattice-tools) - Panel functions and wrappers to extend the R lattice universe
 - [R-Program](https://github.com/Psingh12354/R-Program) - 
