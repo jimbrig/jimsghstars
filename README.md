@@ -861,6 +861,7 @@
 - [hugo-theme-introduction](https://github.com/victoriadrake/hugo-theme-introduction) - Minimal, single page, smooth-scrolling theme for Hugo static site generator.
 - [validation](https://github.com/thebioengineer/validation) - Repository for Validation of R Packages
 - [javascript-for-r](https://github.com/JohnCoene/javascript-for-r) - JavaScript for R CRC Book
+- [metrics](https://github.com/lowlighter/metrics) - 📊 An image generator with 20+ metrics about your GitHub account such as activity, community, repositories, coding habits, website performances, music played, starred topics, etc. that you can put on your profile or elsewhere!
 - [xran](https://github.com/yihui/xran) - Xie's R Archive Network (experimental and for my personal interest only)
 - [webhook-logger](https://github.com/w01fgang/webhook-logger) - 
 - [gitstars](https://github.com/znlbwo/gitstars) - Github Stars Repositories Manager
@@ -1007,7 +1008,6 @@
 - [ssdeepr](https://github.com/hrbrmstr/ssdeepr) - Context Triggered Piecewise Hash Computation Using 'ssdeep' for R
 - [r-talks](https://github.com/jangorecki/r-talks) - R talks, auto-mirror from GitLab
 - [website](https://github.com/UVa-R-Users-Group/website) - 
-- [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [colortable](https://github.com/thebioengineer/colortable) - Add coloring and styling to data.frame and tibble records!
 - [pro_admin_training_assets](https://github.com/rstudio/pro_admin_training_assets) - Public assets for the RStudio Professional Admin Training
 - [guides](https://github.com/reconhub/guides) - Recon's guidelines for writing statistical analyses reports
@@ -1318,7 +1318,6 @@
 - [flexdashboard](https://github.com/rstudio/flexdashboard) - Easy interactive dashboards for R
 - [github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) - 🔥 Add Programming Quotes To Your GitHub Readme
 - [inky](https://github.com/inkle/inky) - An editor for ink: inkle's narrative scripting language
-- [metrics](https://github.com/lowlighter/metrics) - 📊 An image generator with 20+ metrics about your GitHub account such as activity, community, repositories, coding habits, website performances, music played, starred topics, etc. that you can put on your profile or elsewhere!
 - [pg-formatter](https://github.com/gajus/pg-formatter) - A PostgreSQL SQL syntax beautifier.
 - [obelisk.js](https://github.com/nosir/obelisk.js) - Build pixel isometric graphics with HTML5 canvas
 - [systeminformation](https://github.com/sebhildebrandt/systeminformation) - System Information Library for Node.JS
@@ -1845,7 +1844,7 @@
 
 ## Nim 
 
-- [arturo](https://github.com/arturo-lang/arturo) - Simple, modern and powerful interpreted programming language for efficient scripting.
+- [arturo](https://github.com/arturo-lang/arturo) - Simple, modern and portable interpreted programming language for efficient scripting.
 
 ## Nix 
 
@@ -2280,7 +2279,6 @@
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
-- [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - ▶️ An awesome list containing awesome YouTubers that teach about technology.
 - [dev.to](https://github.com/kognise/dev.to) - Where programmers share ideas and help each other grow
 - [oogle](https://github.com/kognise/oogle) - An open-source clone of the Google search engine and crawler infrastructure
 - [obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - 
@@ -2845,6 +2843,7 @@
 - [codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
 - [h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
 - [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
+- [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - ▶️ An awesome list containing awesome YouTubers that teach about technology.
 - [sherlock](https://github.com/kognise/sherlock) - Fast and efficient multi-threaded, cross-platform file searching.
 - [fmlib](https://github.com/argenos/fmlib) - 
 - [obsidian_apps](https://github.com/MrWeckx/obsidian_apps) - I couldn't wait to see new features of obsidian implemented so here's something i guess?
@@ -5166,6 +5165,7 @@
 - [outstanding-shiny-ui-code](https://github.com/DivadNojnarg/outstanding-shiny-ui-code) - Standalone code for the "Outstanding Shiny UI" Book
 - [Blunt](https://github.com/f-prime/Blunt) - A CSS framework that helps with layouts and leaves your styling alone.
 - [rsthemes](https://github.com/gadenbuie/rsthemes) - 🔮 Full RStudio IDE and Syntax Themes
+- [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [bslib](https://github.com/rstudio/bslib) - Tools for theming shiny and rmarkdown from R via Bootstrap (3 or 4) Sass.
 - [startbootstrap-coming-soon](https://github.com/StartBootstrap/startbootstrap-coming-soon) - A coming soon theme with a video background for Bootstrap 4
 - [htmlwidgetsgallery](https://github.com/hafen/htmlwidgetsgallery) - 
@@ -5718,7 +5718,7 @@
 
 ## Vue 
 
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 120k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 150k+ developers. https://hoppscotch.io
 - [code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [GitXplore-Search](https://github.com/appbaseio-apps/GitXplore-Search) - An application to explore github repositories.
 - [pile](https://github.com/mtobeiyf/pile) - :zap: A simple & powerful app to organize your piled work at one place~
