@@ -795,6 +795,7 @@
 - [addintest](https://github.com/maelle/addintest) - 
 - [js4shinyfieldnotes](https://github.com/ThinkR-open/js4shinyfieldnotes) - Field Notes on JavaScript for Shiny Users
 - [shinyuser](https://github.com/systats/shinyuser) - User login and admin panel for shiny apps (Semantic UI)
+- [scottspence.com](https://github.com/spences10/scottspence.com) - My Letter Beautiful Mysterious Notebook.
 - [webservices](https://github.com/ropensci/webservices) - CRAN WebTechnologies Task View
 - [taxonomy](https://github.com/ropensci/taxonomy) - taxonomy R packages
 - [demo-landing-site](https://github.com/sol-eng/demo-landing-site) - An index page for a demo server
@@ -1175,7 +1176,6 @@
 - [installable-pwa-test](https://github.com/DivadNojnarg/installable-pwa-test) - 
 - [awesome-tech-blogs](https://github.com/MarkoDenic/awesome-tech-blogs) - A list of Tech Blogs.
 - [dotfiles](https://github.com/spences10/dotfiles) - dot files and configurations 💠🗃
-- [scottspence.com](https://github.com/spences10/scottspence.com) - My Letter Beautiful Mysterious Notebook.
 - [rsg.zenartofrpkgs](https://github.com/malcolmbarrett/rsg.zenartofrpkgs) - You're Already Ready: Zen and the Art of R Package Development
 - [google-calendar-crx](https://github.com/manastungare/google-calendar-crx) - Google Calendar for Chrome
 - [super-expressive](https://github.com/francisrstokes/super-expressive) - 🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language
