@@ -780,6 +780,7 @@
 
 ## HTML 
 
+- [github-issue-table](https://github.com/jimbrig/github-issue-table) - Personal Github Issues Flexdashboard
 - [shiny-landing-page](https://github.com/ColoradoDemography/shiny-landing-page) - 
 - [templates-using-bootstrap4](https://github.com/akashgiricse/templates-using-bootstrap4) - 🌆 Here I've aggregated some of the most commonly used web-page templates made using Bootstrap4 🛒
 - [extractors](https://github.com/openschemas/extractors) - generic extraction recipes to get you started extracting schema.org entities for your software, data, and all things
@@ -3492,7 +3493,7 @@
 - [rmdtools](https://github.com/skranz/rmdtools) - Tools for RMarkdown
 - [RTutor](https://github.com/skranz/RTutor) - Creating interactive R Problem Sets. Automatic hints and solution checks. (Shiny or RStudio)
 - [YoMos2020](https://github.com/selinaZitrone/YoMos2020) - Example of Good Scientific Programming Practice
-- [stacks](https://github.com/tidymodels/stacks) - Tidy model stacking
+- [stacks](https://github.com/tidymodels/stacks) - An R package for tidy stacked ensemble modeling
 - [AOI](https://github.com/mikejohnson51/AOI) - An R 📦   to find, process, and describe "areas of interest"
 - [dockeRs](https://github.com/ismailsunni/dockeRs) - A collection of docker image of various R implementations on various platform both vanilla and with geospatial R packages.
 - [testcontainerit](https://github.com/benmarwick/testcontainerit) - 
@@ -5358,7 +5359,7 @@
 - [dotfiles](https://github.com/csgillespie/dotfiles) - My dotfiles
 - [rocker](https://github.com/rocker-org/rocker) - R configurations for Docker
 - [goto](https://github.com/iridakos/goto) - Alias and navigate to directories with tab completion in Linux
-- [ghpm](https://github.com/2KAbhishek/ghpm) - GitHub Project Manager
+- [ghpm](https://github.com/2KAbhishek/ghpm) - The GitHub Project Manager 👩‍💻⚙
 - [dotfiles](https://github.com/benwinding/dotfiles) - ben's dotfiles
 - [r-system-requirements](https://github.com/rstudio/r-system-requirements) - System requirements for R packages
 - [dotfiles](https://github.com/jgillman/dotfiles) - jgillman's special collection of configs
