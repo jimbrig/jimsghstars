@@ -119,6 +119,7 @@
 
 ## C 
 
+- [dbgen](https://github.com/viking/dbgen) - UIS database generator (http://www.cs.utexas.edu/users/ml/riddle/data.html)
 - [geodist](https://github.com/hypertidy/geodist) - Ultra lightweight, ultra fast calculation of geo distances
 - [rscrypt](https://github.com/rstudio/rscrypt) - scrypt cryptographic functions for R
 - [httpuv](https://github.com/rstudio/httpuv) - HTTP and WebSocket server package for R
@@ -1156,6 +1157,8 @@
 
 ## JavaScript 
 
+- [justgage](https://github.com/toorshia/justgage) - JustGage is a handy JavaScript plugin for generating and animating nice & clean dashboard gauges. It is based on Raphaël library for vector drawing.
+- [dbml](https://github.com/holistics/dbml) - Database Markup Language (DBML), designed to define and document database structures
 - [r3dmol](https://github.com/swsoyee/r3dmol) - 🧬 An R package for visualizing molecular data in 3D
 - [html-item-pagination](https://github.com/llxx-lord-xxll/html-item-pagination) - A html element pagination library built using jQuery.
 - [map-gallery-template-js](https://github.com/Esri/map-gallery-template-js) - This Public Gallery template is designed for anyone who wants to showcase their ArcGIS Online maps, layers, and mobile apps in a dynamic web gallery.
@@ -1870,6 +1873,7 @@
 
 ## Others 
 
+- [CEU-R-prod](https://github.com/daroczig/CEU-R-prod) - R materials for the "Data Infrastructure in Production" class at CEU
 - [analytics-platform](https://github.com/ministryofjustice/analytics-platform) - Parent repository for the MOJ Analytics Platform
 - [edu-resources](https://github.com/GoogleCloudPlatform/edu-resources) - Curated List of GCP educational resources http://goo.gle/google-cloud-edu
 - [gitflow](https://github.com/jimbrig/gitflow) - Best practices for using gitflow
@@ -2941,6 +2945,14 @@
 
 ## R 
 
+- [dsmodules](https://github.com/datasketch/dsmodules) - 
+- [hgchmagic](https://github.com/datasketch/hgchmagic) - 
+- [coxpresdbr](https://github.com/russHyde/coxpresdbr) - Parses and summarises data from coexpresdb.jp
+- [polyply](https://github.com/russHyde/polyply) - `polyply` allows you to manipulate multiple data-frames within a single magrittr / dplyr pipeline
+- [demopkg](https://github.com/koaning/demopkg) - a demo pkg in R with github actions
+- [aws.signature](https://github.com/cloudyr/aws.signature) - Amazon Web Services Request Signatures
+- [holistics-r](https://github.com/holistics/holistics-r) - R package to interact with Holistics API
+- [rextendr](https://github.com/extendr/rextendr) - 
 - [dsvizopts](https://github.com/datasketch/dsvizopts) - 
 - [homodatum](https://github.com/datasketch/homodatum) - 
 - [html2r](https://github.com/alandipert/html2r) - Convert HTML to R
@@ -5474,7 +5486,7 @@
 - [cas-data-vis-wp](https://github.com/cliffordlau/cas-data-vis-wp) - CAS Data Visualization Working Party
 - [cookiecutter-r-data-analysis](https://github.com/bdcaf/cookiecutter-r-data-analysis) - cookie cutter template for my r workflow
 - [rticles](https://github.com/rstudio/rticles) - LaTeX Journal Article Templates for R Markdown
-- [vimtex](https://github.com/lervag/vimtex) - A modern Vim and neovim filetype plugin for LaTeX files.
+- [vimtex](https://github.com/lervag/vimtex) - VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
 - [efficientR](https://github.com/csgillespie/efficientR) - Efficient R programming: a book
 - [adv-r](https://github.com/hadley/adv-r) - Advanced R: a book
 - [ireports](https://github.com/INWTlab/ireports) - R package with RMarkdown Business Reports
