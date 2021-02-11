@@ -46,6 +46,7 @@
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
+  - [PLpgSQL](#plpgsql)
   - [Perl](#perl)
   - [PowerShell](#powershell)
   - [Processing](#processing)
@@ -308,6 +309,7 @@
 
 ## C++ 
 
+- [rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [colourvalues](https://github.com/SymbolixAU/colourvalues) - R library for assigning colours to values
 - [construe](https://github.com/hrbrmstr/construe) - 🧰  HTTP Request, Response and URL Parser
@@ -624,6 +626,11 @@
 
 ## Go 
 
+- [pginsight](https://github.com/lafikl/pginsight) - CLI tool to easily dig deep inside your Postgresql database.
+- [soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
+- [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
+- [etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
+- [dbx](https://github.com/spacemonkeygo/dbx) - A neat codegen-based database wrapper written in Go
 - [gitkube](https://github.com/hasura/gitkube) - Build and deploy docker images to Kubernetes using git push
 - [draft](https://github.com/Azure/draft) - A tool for developers to create cloud-native applications on Kubernetes.
 - [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
@@ -1111,6 +1118,7 @@
 
 ## Haskell 
 
+- [postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [pandoc-link-context](https://github.com/srid/pandoc-link-context) - Extract context around links in Pandoc
 - [hakyll](https://github.com/jaspervdj/hakyll) - A static website compiler library in Haskell
@@ -1123,6 +1131,7 @@
 
 ## Java 
 
+- [neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
 - [spring-cloud-gcp](https://github.com/GoogleCloudPlatform/spring-cloud-gcp) - New home for Spring Cloud GCP development starting with version 2.0.
 - [jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 - [validator](https://github.com/validator/validator) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
@@ -1157,6 +1166,12 @@
 
 ## JavaScript 
 
+- [react-native-firebase](https://github.com/invertase/react-native-firebase) - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
+- [react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
+- [pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.
+- [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+- [sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
+- [sql-formatter](https://github.com/zeroturnaround/sql-formatter) - A whitespace formatter for different query languages
 - [justgage](https://github.com/toorshia/justgage) - JustGage is a handy JavaScript plugin for generating and animating nice & clean dashboard gauges. It is based on Raphaël library for vector drawing.
 - [dbml](https://github.com/holistics/dbml) - Database Markup Language (DBML), designed to define and document database structures
 - [r3dmol](https://github.com/swsoyee/r3dmol) - 🧬 An R package for visualizing molecular data in 3D
@@ -1873,6 +1888,7 @@
 
 ## Others 
 
+- [yaml](https://github.com/yaml/yaml) - YAML language and community information
 - [CEU-R-prod](https://github.com/daroczig/CEU-R-prod) - R materials for the "Data Infrastructure in Production" class at CEU
 - [analytics-platform](https://github.com/ministryofjustice/analytics-platform) - Parent repository for the MOJ Analytics Platform
 - [edu-resources](https://github.com/GoogleCloudPlatform/edu-resources) - Curated List of GCP educational resources http://goo.gle/google-cloud-edu
@@ -2523,6 +2539,11 @@
 - [knowfox](https://github.com/knowfox/knowfox) - Personal Knowledge Management. Use branch "minimal change" to deploy as laravel package.
 - [astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 
+## PLpgSQL 
+
+- [pgtap](https://github.com/theory/pgtap) - PostgreSQL Unit Testing Suite
+- [trunklet](https://github.com/decibel/trunklet) - Templating for Postgres. Elephants don't use templates, they use trunklets!
+
 ## Perl 
 
 - [notes](https://github.com/ReneNyffenegger/notes) - 
@@ -2660,6 +2681,7 @@
 
 ## Python 
 
+- [patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [pinboard-bookmarks-updater](https://github.com/jefftriplett/pinboard-bookmarks-updater) - 🤖 Opinionated Pinboard.in Bookmarks Updater
 - [personal-goals](https://github.com/jefftriplett/personal-goals) - :white_check_mark: Personal goals made public :smile:
 - [powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
@@ -2945,6 +2967,12 @@
 
 ## R 
 
+- [omsvg](https://github.com/rich-iannone/omsvg) - SVGs in R
+- [shiny-reticulate-app](https://github.com/ranikay/shiny-reticulate-app) - An end-to-end tutorial creating an R Shiny app that uses the reticulate package with Python 3
+- [TemplateResults](https://github.com/RealityBending/TemplateResults) - A template for a data analysis folder that can be easily exported as a webpage or as Supplementary Materials
+- [redditsuite](https://github.com/pereira94/redditsuite) - 
+- [tidycwl](https://github.com/sbg/tidycwl) - Tidy Common Workflow Language Tools and Workflows
+- [biocompute](https://github.com/sbg/biocompute) - Create and Manipulate BioCompute Objects
 - [dsmodules](https://github.com/datasketch/dsmodules) - 
 - [hgchmagic](https://github.com/datasketch/hgchmagic) - 
 - [coxpresdbr](https://github.com/russHyde/coxpresdbr) - Parses and summarises data from coexpresdb.jp
@@ -4704,7 +4732,7 @@
 - [rtables](https://github.com/Roche/rtables) - Reporting tables with R
 - [reviewer](https://github.com/ropenscilabs/reviewer) - Improving the track changes and reviewing experience in R markdown
 - [pkgapi](https://github.com/r-lib/pkgapi) - Create a map of functions for an R package - WORK IN PROGRESS!
-- [xfun](https://github.com/yihui/xfun) - Yihui Xie's miscellaneous R functions
+- [xfun](https://github.com/yihui/xfun) - Miscellaneous R functions
 - [csvy](https://github.com/leeper/csvy) - Import and Export CSV Data With a YAML Metadata Header
 - [sysreqs](https://github.com/r-hub/sysreqs) - R package to install system requirements
 - [revdepcheck](https://github.com/r-lib/revdepcheck) - R package reverse dependency checking
@@ -5074,6 +5102,9 @@
 
 ## Ruby 
 
+- [pgcp](https://github.com/holistics/pgcp) - Copying tables between Postgres databases (for analytics purpose)
+- [axlsx](https://github.com/randym/axlsx) - xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your xlsx file before serialization so you know for sure that anything generated is going to load on your client's machine.
+- [pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
 - [libraries.io](https://github.com/librariesio/libraries.io) - :books: The Open Source Discovery Service
 - [siteinspector](https://github.com/siteinspector/siteinspector) - A tool for catching spelling errors, grammatical errors, broken links, and other errors on websites.
 - [vincents-productivity-suite-for-alfred](https://github.com/voostindie/vincents-productivity-suite-for-alfred) - A CLI and automatically generated Alfred workflows to make my daily computer work more efficient.
@@ -5191,6 +5222,7 @@
 
 ## Scala 
 
+- [prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)
 - [learning-resources](https://github.com/DevInsideYou/learning-resources) - Cheat sheets for all the things
 - [diffy](https://github.com/opendiffy/diffy) - 
 - [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
@@ -5424,6 +5456,7 @@
 
 ## TSQL 
 
+- [pg_insights](https://github.com/lob/pg_insights) - A collection of convenient SQL for monitoring Postgres database health.
 - [test_db](https://github.com/datacharmer/test_db) - A sample MySQL database with an integrated test suite, used to test your applications and database servers
 - [sqlserver-kit](https://github.com/ktaranov/sqlserver-kit) - Useful links, scripts, tools and best practice for Microsoft SQL Server Database
 
@@ -5495,6 +5528,8 @@
 
 ## TypeScript 
 
+- [Eve](https://github.com/witheve/Eve) - Better tools for thought
+- [rxdb](https://github.com/pubkey/rxdb) - 🔄 A realtime Database for JavaScript Applications
 - [google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
 - [echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [bit](https://github.com/teambit/bit) - Build, distribute, and collaborate on components.
