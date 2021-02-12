@@ -309,6 +309,7 @@
 
 ## C++ 
 
+- [react-native-windows](https://github.com/microsoft/react-native-windows) - A framework for building native Windows apps with React.
 - [rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [colourvalues](https://github.com/SymbolixAU/colourvalues) - R library for assigning colours to values
@@ -523,7 +524,6 @@
 - [night-owlish](https://github.com/batpigandme/night-owlish) - 🌙🦉 An RStudio, tmThemes, and Ace editor adaptation of @sdras' Night Owl VS Code theme…
 - [notebook-template](https://github.com/timoast/notebook-template) - Template for a computational lab notebook using bookdown
 - [iziModal](https://github.com/marcelodolza/iziModal) - Elegant, responsive, flexible and lightweight modal plugin with jQuery.
-- [fresh](https://github.com/dreamRs/fresh) - Fresh shiny themes
 - [dashboard](https://github.com/karthik/dashboard) - A R package dashboard generator
 - [justdelete.me](https://github.com/justdeleteme/justdelete.me) - A directory of direct links to delete your account from web services.
 - [thinkrtemplate](https://github.com/ThinkR-open/thinkrtemplate) - A pkgdown template for ThinkR packages
@@ -626,6 +626,7 @@
 
 ## Go 
 
+- [gotenberg](https://github.com/thecodingmachine/gotenberg) - A Docker-powered stateless API for converting HTML, Markdown and Office documents to PDF
 - [pginsight](https://github.com/lafikl/pginsight) - CLI tool to easily dig deep inside your Postgresql database.
 - [soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
 - [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
@@ -788,6 +789,7 @@
 
 ## HTML 
 
+- [data.validator](https://github.com/Appsilon/data.validator) - validate your data and create nice reports straight from R
 - [github-issue-table](https://github.com/jimbrig/github-issue-table) - Personal Github Issues Flexdashboard
 - [shiny-landing-page](https://github.com/ColoradoDemography/shiny-landing-page) - 
 - [templates-using-bootstrap4](https://github.com/akashgiricse/templates-using-bootstrap4) - 🌆 Here I've aggregated some of the most commonly used web-page templates made using Bootstrap4 🛒
@@ -871,7 +873,6 @@
 - [hugo-theme-introduction](https://github.com/victoriadrake/hugo-theme-introduction) - Minimal, single page, smooth-scrolling theme for Hugo static site generator.
 - [validation](https://github.com/thebioengineer/validation) - Repository for Validation of R Packages
 - [javascript-for-r](https://github.com/JohnCoene/javascript-for-r) - JavaScript for R CRC Book
-- [metrics](https://github.com/lowlighter/metrics) - 📊 An image generator with 20+ metrics about your GitHub account such as activity, community, repositories, coding habits, website performances, music played, starred topics, etc. that you can put on your profile or elsewhere!
 - [xran](https://github.com/yihui/xran) - Xie's R Archive Network (experimental and for my personal interest only)
 - [webhook-logger](https://github.com/w01fgang/webhook-logger) - 
 - [gitstars](https://github.com/znlbwo/gitstars) - Github Stars Repositories Manager
@@ -1101,6 +1102,7 @@
 - [data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [example-rmd-templates](https://github.com/dr-harper/example-rmd-templates) - 📄 A selection of minimal examples used to highlight R Markdown templates, as referred to in the "R Markdown Definitive Guide"
 - [archivist](https://github.com/pbiecek/archivist) - A set of tools for datasets and plots archiving
+- [fontawesome](https://github.com/rstudio/fontawesome) - Easily insert FontAwesome icons into R Markdown docs and Shiny apps
 - [recipes](https://github.com/tidymodels/recipes) - A preprocessing engine to generate design matrices
 - [quests](https://github.com/kasaai/quests) - Adventures in research at the intersection of insurance and AI
 - [dataMaid](https://github.com/ekstroem/dataMaid) - An R package for data screening
@@ -1131,6 +1133,7 @@
 
 ## Java 
 
+- [CDM](https://github.com/microsoft/CDM) - The Common Data Model (CDM) is a standard and extensible collection of schemas (entities, attributes, relationships) that represents business concepts and activities with well-defined semantics, to facilitate data interoperability. Examples of entities include: Account, Contact, Lead, Opportunity, Product, etc.
 - [neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
 - [spring-cloud-gcp](https://github.com/GoogleCloudPlatform/spring-cloud-gcp) - New home for Spring Cloud GCP development starting with version 2.0.
 - [jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
@@ -1166,6 +1169,16 @@
 
 ## JavaScript 
 
+- [cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing...
+- [golem-cmd](https://github.com/JohnCoene/golem-cmd) - :bulb: A cli for golem
+- [ambiorix-cli](https://github.com/JohnCoene/ambiorix-cli) - Command line interface for ambiorix
+- [snazzy-info-window](https://github.com/atmist/snazzy-info-window) - Customizable info windows using the Google Maps JavaScript API.
+- [snapshotcontrol](https://github.com/wf9a5m75/snapshotcontrol) - Generate static maps api url from Google Maps API v2 (not v3)
+- [MeasureTool-GoogleMaps-V3](https://github.com/zhenyanghua/MeasureTool-GoogleMaps-V3) - A mobile friendly measure tool for Google Maps JS API v3.
+- [googlewayExtra](https://github.com/SymbolixAU/googlewayExtra) - 
+- [google-sheets-geocoding-macro](https://github.com/nuket/google-sheets-geocoding-macro) - Geocode from addresses to latitude / longitude, and vice versa using Google Sheets
+- [react-native-test-app](https://github.com/microsoft/react-native-test-app) - react-native-test-app provides a test app for all supported platforms as a package
+- [geojson-dashboard](https://github.com/fulcrumapp/geojson-dashboard) - A configurable framework for building a geographic "data dashboard" from a GeoJSON file.
 - [react-native-firebase](https://github.com/invertase/react-native-firebase) - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
 - [react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
 - [pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.
@@ -1337,6 +1350,7 @@
 - [flexdashboard](https://github.com/rstudio/flexdashboard) - Easy interactive dashboards for R
 - [github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) - 🔥 Add Programming Quotes To Your GitHub Readme
 - [inky](https://github.com/inkle/inky) - An editor for ink: inkle's narrative scripting language
+- [metrics](https://github.com/lowlighter/metrics) - 📊 An image generator with 20+ metrics about your GitHub account such as activity, community, repositories, coding habits, website performances, music played, starred topics, etc. that you can put on your profile or elsewhere!
 - [pg-formatter](https://github.com/gajus/pg-formatter) - A PostgreSQL SQL syntax beautifier.
 - [obelisk.js](https://github.com/nosir/obelisk.js) - Build pixel isometric graphics with HTML5 canvas
 - [systeminformation](https://github.com/sebhildebrandt/systeminformation) - System Information Library for Node.JS
@@ -1788,6 +1802,7 @@
 
 ## Jupyter Notebook 
 
+- [san](https://github.com/GDSL-UL/san) - Spatial Analysis Notes
 - [ob-project-template](https://github.com/outlierbio/ob-project-template) - Outlier Bio analysis project template
 - [notebooks](https://github.com/westurner/notebooks) - Jupyter notebooks (.ipynb, data) https://westurner.org/notebooks/
 - [probability](https://github.com/dirmeier/probability) - Probabilistic reasoning and statistical analysis in TensorFlow
@@ -1798,7 +1813,6 @@
 - [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [Data-Science-Portfolio](https://github.com/jananiarunachalam/Data-Science-Portfolio) - Data Science Projects Repository
 - [Python_R_BusinessAnalytics](https://github.com/ankur715/Python_R_BusinessAnalytics) - python 101, excel business analytics salesrep, R interface python
-- [overcome-the-chaos](https://github.com/artofai/overcome-the-chaos) - 
 - [checklist](https://github.com/marcotcr/checklist) - Beyond Accuracy: Behavioral Testing of NLP models with CheckList
 - [fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [mml-book.github.io](https://github.com/mml-book/mml-book.github.io) - Companion webpage to the book "Mathematics For Machine Learning"
@@ -1888,6 +1902,8 @@
 
 ## Others 
 
+- [Teaching_Links](https://github.com/GDSL-UL/Teaching_Links) - A repo of teaching resources for Geographic / Spatial Data Science, GIS and Statistics
+- [mapping](https://github.com/gigwork/mapping) - Mapping gig work
 - [yaml](https://github.com/yaml/yaml) - YAML language and community information
 - [CEU-R-prod](https://github.com/daroczig/CEU-R-prod) - R materials for the "Data Infrastructure in Production" class at CEU
 - [analytics-platform](https://github.com/ministryofjustice/analytics-platform) - Parent repository for the MOJ Analytics Platform
@@ -2541,6 +2557,7 @@
 
 ## PLpgSQL 
 
+- [postgrest-starter-kit](https://github.com/subzerocloud/postgrest-starter-kit) - Starter Kit and tooling for authoring REST API backends with PostgREST
 - [pgtap](https://github.com/theory/pgtap) - PostgreSQL Unit Testing Suite
 - [trunklet](https://github.com/decibel/trunklet) - Templating for Postgres. Elephants don't use templates, they use trunklets!
 
@@ -2681,6 +2698,7 @@
 
 ## Python 
 
+- [route-optimization](https://github.com/jescresswell/route-optimization) - Produces optimal routing for freight deliveries, accounting for multiple trucks working in tandem, and multiple dispatch depots.
 - [patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [pinboard-bookmarks-updater](https://github.com/jefftriplett/pinboard-bookmarks-updater) - 🤖 Opinionated Pinboard.in Bookmarks Updater
 - [personal-goals](https://github.com/jefftriplett/personal-goals) - :white_check_mark: Personal goals made public :smile:
@@ -2967,6 +2985,15 @@
 
 ## R 
 
+- [postgrestR](https://github.com/clesiemo3/postgrestR) - 
+- [ambiorix.generator](https://github.com/JohnCoene/ambiorix.generator) - Generate templates for ambiorix applications
+- [packer](https://github.com/JohnCoene/packer) - webpack + npm + R = ❤️
+- [ShinyWebAppWithFormAndLeafletMap](https://github.com/Nirzaree/ShinyWebAppWithFormAndLeafletMap) - This repo contains the code to build a webapp for data collection and viewing the map on a leaflet map using R Shiny. The specific webapp that I built is aimed to collect data of sustainability practices of various eateries around the world, in the times of climate change.
+- [googlePolylines](https://github.com/SymbolixAU/googlePolylines) - R package for encoding objects using Google's Polyline Encoding Algorithm
+- [mapdeck](https://github.com/SymbolixAU/mapdeck) - R interface to Deck.gl and Mapbox
+- [mapview](https://github.com/r-spatial/mapview) - Interactive viewing of spatial data in R
+- [roadoi](https://github.com/ropensci/roadoi) - Use Unpaywall with R
+- [sfs-num-analysis](https://github.com/emkoch/sfs-num-analysis) - An R program for numerically computing the expected site frequency spectrum in a single population.
 - [omsvg](https://github.com/rich-iannone/omsvg) - SVGs in R
 - [shiny-reticulate-app](https://github.com/ranikay/shiny-reticulate-app) - An end-to-end tutorial creating an R Shiny app that uses the reticulate package with Python 3
 - [TemplateResults](https://github.com/RealityBending/TemplateResults) - A template for a data analysis folder that can be easily exported as a webpage or as Supplementary Materials
@@ -3869,6 +3896,7 @@
 - [salmon](https://github.com/patsulda/salmon) - an app for salary monitoring
 - [seurat-shiny](https://github.com/jzsh2000/seurat-shiny) - 
 - [capm_shiny](https://github.com/lamres/capm_shiny) - Demo project of creating an interactive analytical tool for stock market using CAPM.
+- [shinyapps](https://github.com/jalapic/shinyapps) - code to reproduce my shiny apps
 - [shinyapps](https://github.com/jalapic/shinyapps) - code to reproduce my shiny apps
 - [tidycorels](https://github.com/billster45/tidycorels) - 
 - [bupaR](https://github.com/bupaverse/bupaR) - Core R package for business process analysis
@@ -4953,7 +4981,6 @@
 - [shinyReactWidgets](https://github.com/pvictor/shinyReactWidgets) - React widgets for Shiny apps
 - [countup](https://github.com/JohnCoene/countup) - ⏱️ countup.js R htmlwidget
 - [typed](https://github.com/JohnCoene/typed) - ⌨️ typed.js R htmlwidgets
-- [fontawesome](https://github.com/rstudio/fontawesome) - Easily insert FontAwesome icons into R Markdown docs and Shiny apps
 - [shinydnd](https://github.com/ayayron/shinydnd) - Creating drag and drop elements in Shiny
 - [shinyAce](https://github.com/trestletech/shinyAce) - Integrating the Ace editor with Shiny.
 - [rclipboard](https://github.com/sbihorel/rclipboard) - clipboard.js for R/Shiny Applications
@@ -5213,6 +5240,7 @@
 - [bslib](https://github.com/rstudio/bslib) - Tools for theming shiny and rmarkdown from R via Bootstrap (3 or 4) Sass.
 - [startbootstrap-coming-soon](https://github.com/StartBootstrap/startbootstrap-coming-soon) - A coming soon theme with a video background for Bootstrap 4
 - [htmlwidgetsgallery](https://github.com/hafen/htmlwidgetsgallery) - 
+- [fresh](https://github.com/dreamRs/fresh) - Fresh shiny themes
 - [docs-travis-ci-com](https://github.com/travis-ci/docs-travis-ci-com) - The Travis CI Documentation
 - [prettydoc](https://github.com/yixuan/prettydoc) - Creating Pretty HTML From R Markdown
 
@@ -5231,6 +5259,7 @@
 
 ## Shell 
 
+- [hosting](https://github.com/plausible/hosting) - Example docker-compose setups for hosting Plausible Analytics
 - [gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
 - [gpr-docker-publish](https://github.com/machine-learning-apps/gpr-docker-publish) - GitHub Action That Publishes Docker Images to GPR
@@ -5466,6 +5495,7 @@
 
 ## TeX 
 
+- [the_knowledge](https://github.com/GDSL-UL/the_knowledge) - A Repo of things GDSLers Should Know....
 - [RAppArmor](https://github.com/jeroen/RAppArmor) - R interfaces to Linux and AppArmor security methods
 - [thesisdown](https://github.com/ismayc/thesisdown) - An updated R Markdown thesis template using the bookdown package
 - [reproducible-research](https://github.com/rr-mrc-bsu/reproducible-research) - The most recent build from master is available at:
@@ -5528,6 +5558,8 @@
 
 ## TypeScript 
 
+- [fluentui-react-native](https://github.com/microsoft/fluentui-react-native) - A react-native component library that implements the Fluent Design System.
+- [rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [Eve](https://github.com/witheve/Eve) - Better tools for thought
 - [rxdb](https://github.com/pubkey/rxdb) - 🔄 A realtime Database for JavaScript Applications
 - [google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
@@ -5766,6 +5798,7 @@
 
 ## Vue 
 
+- [layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 150k+ developers. https://hoppscotch.io
 - [code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [GitXplore-Search](https://github.com/appbaseio-apps/GitXplore-Search) - An application to explore github repositories.
