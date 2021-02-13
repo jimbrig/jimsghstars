@@ -409,6 +409,7 @@
 
 ## CSS 
 
+- [shiny-vagrant](https://github.com/hrbrmstr/shiny-vagrant) - :sparkles: Vagrant image & supporting infrastructure for easy Shiny Server testing in VirtualBox
 - [cran-explorer](https://github.com/nz-stefan/cran-explorer) - Browse the CRAN package database and package dependencies
 - [blog-explorer](https://github.com/nz-stefan/blog-explorer) - Analysing 10+ Years of R Blogs
 - [pivta](https://github.com/feddelegrand7/pivta) - Create an Interactive Pivot Table with Data Analysis Tools
@@ -1169,6 +1170,8 @@
 
 ## JavaScript 
 
+- [intl-tel-input](https://github.com/jackocnr/intl-tel-input) - A JavaScript plugin for entering and validating international telephone numbers
+- [mapshaper_htmlwidget](https://github.com/timelyportfolio/mapshaper_htmlwidget) - R htmlwidget for mapshaper
 - [cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing...
 - [golem-cmd](https://github.com/JohnCoene/golem-cmd) - :bulb: A cli for golem
 - [ambiorix-cli](https://github.com/JohnCoene/ambiorix-cli) - Command line interface for ambiorix
@@ -1859,6 +1862,7 @@
 
 ## Makefile 
 
+- [RSwitch](https://github.com/hrbrmstr/RSwitch) - 🎛 A small menubar app that allows you to switch between R versions quickly (if you have multiple versions of R framework installed).
 - [reference-implementation](https://github.com/o2r-project/reference-implementation) - A catch-all repository to run all o2r microservices and the user interface platform
 - [maker](https://github.com/ComputationalProteomicsUnit/maker) - Makefile for R packages
 - [workflow-showcase](https://github.com/aaronpeikert/workflow-showcase) - 
@@ -1902,6 +1906,13 @@
 
 ## Others 
 
+- [awesome-services](https://github.com/Alex1990/awesome-services) - A collection of the services which participate in application construction.
+- [awesome-saas-starters](https://github.com/getaclue/awesome-saas-starters) - 😎 Awesome List of SaaS Starter Kits and Boilerplates. Save time and skip implementing features like authentication, subscriptions, teams, and many more.
+- [awesome-saas](https://github.com/georgezouq/awesome-saas) - A curated list for SaaS (Software as a services)
+- [awesome-database-design](https://github.com/sujeet-agrahari/awesome-database-design) - :zap: A collection of resources and tutorials to design a better database schema.
+- [awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) - Awesome materials about database development.
+- [awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier
+- [awesome-database-design](https://github.com/nitticomputer/awesome-database-design) - A collection of resources and tutorials to design a better database schema.
 - [Teaching_Links](https://github.com/GDSL-UL/Teaching_Links) - A repo of teaching resources for Geographic / Spatial Data Science, GIS and Statistics
 - [mapping](https://github.com/gigwork/mapping) - Mapping gig work
 - [yaml](https://github.com/yaml/yaml) - YAML language and community information
@@ -2985,6 +2996,16 @@
 
 ## R 
 
+- [visualizer](https://github.com/duttashi/visualizer) - My experiments in data visualizations. Feel free to show your :heart: by giving a star :star:
+- [datatools](https://github.com/ernestguevarra/datatools) - Utility functions for working on various types of survey data
+- [sp](https://github.com/edzer/sp) - Classes and methods for spatial data
+- [kenya](https://github.com/spatialworks/kenya) - Datasets for use in designing surveys in Kenya
+- [rgeocodio](https://github.com/hrbrmstr/rgeocodio) - Tools to Work with the https://geocod.io/ API
+- [pgcidr](https://github.com/hrbrmstr/pgcidr) - Perform IP Address in CIDR Lookups with PostgreSQL and ip4r
+- [wand](https://github.com/hrbrmstr/wand) - Use 'magic' to guess file types
+- [weatherlink](https://github.com/hrbrmstr/weatherlink) - 
+- [swiftr](https://github.com/hrbrmstr/swiftr) - Seamless R and Swift Integration
+- [upnews](https://github.com/ginolhac/upnews) - Display news and update outdated github R packages
 - [postgrestR](https://github.com/clesiemo3/postgrestR) - 
 - [ambiorix.generator](https://github.com/JohnCoene/ambiorix.generator) - Generate templates for ambiorix applications
 - [packer](https://github.com/JohnCoene/packer) - webpack + npm + R = ❤️
@@ -3896,7 +3917,6 @@
 - [salmon](https://github.com/patsulda/salmon) - an app for salary monitoring
 - [seurat-shiny](https://github.com/jzsh2000/seurat-shiny) - 
 - [capm_shiny](https://github.com/lamres/capm_shiny) - Demo project of creating an interactive analytical tool for stock market using CAPM.
-- [shinyapps](https://github.com/jalapic/shinyapps) - code to reproduce my shiny apps
 - [shinyapps](https://github.com/jalapic/shinyapps) - code to reproduce my shiny apps
 - [tidycorels](https://github.com/billster45/tidycorels) - 
 - [bupaR](https://github.com/bupaverse/bupaR) - Core R package for business process analysis
