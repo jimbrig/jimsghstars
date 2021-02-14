@@ -120,6 +120,7 @@
 
 ## C 
 
+- [dots](https://github.com/cherrry9/dots) - just dotfiles ¯\_(ツ)_/¯﻿
 - [dbgen](https://github.com/viking/dbgen) - UIS database generator (http://www.cs.utexas.edu/users/ml/riddle/data.html)
 - [geodist](https://github.com/hypertidy/geodist) - Ultra lightweight, ultra fast calculation of geo distances
 - [rscrypt](https://github.com/rstudio/rscrypt) - scrypt cryptographic functions for R
@@ -790,6 +791,8 @@
 
 ## HTML 
 
+- [config-files](https://github.com/darekkay/config-files) - My collection of .dotfiles, settings and snippets.
+- [R4JournalismBook](https://github.com/smach/R4JournalismBook) - Companion site for my book Practical R for Mass Communication & Journalism, part of the CRC Press R Series
 - [data.validator](https://github.com/Appsilon/data.validator) - validate your data and create nice reports straight from R
 - [github-issue-table](https://github.com/jimbrig/github-issue-table) - Personal Github Issues Flexdashboard
 - [shiny-landing-page](https://github.com/ColoradoDemography/shiny-landing-page) - 
@@ -1170,6 +1173,9 @@
 
 ## JavaScript 
 
+- [npm-updater](https://github.com/node-modules/npm-updater) - Prompt update of npm package
+- [react-native-ultimate-config](https://github.com/maxkomarychev/react-native-ultimate-config) - Config that works
+- [web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
 - [intl-tel-input](https://github.com/jackocnr/intl-tel-input) - A JavaScript plugin for entering and validating international telephone numbers
 - [mapshaper_htmlwidget](https://github.com/timelyportfolio/mapshaper_htmlwidget) - R htmlwidget for mapshaper
 - [cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing...
@@ -1894,6 +1900,7 @@
 
 ## Objective-C 
 
+- [react-native-exception-handler](https://github.com/a7ul/react-native-exception-handler) - A react native module that lets you to register a global error handler that can capture fatal/non fatal uncaught exceptions.
 - [PassKit-Business-Card](https://github.com/TimOliver/PassKit-Business-Card) - A template for iOS Wallet passes that can be used like business cards.
 - [react-native-maps](https://github.com/react-native-maps/react-native-maps) - React Native Mapview component for iOS + Android
 - [DailyLearning](https://github.com/FrizzleFur/DailyLearning) - My Daily Learning~
@@ -1906,6 +1913,7 @@
 
 ## Others 
 
+- [awesome-by-example](https://github.com/b0o/awesome-by-example) - A curated list of awesome example-based learning resources.
 - [awesome-services](https://github.com/Alex1990/awesome-services) - A collection of the services which participate in application construction.
 - [awesome-saas-starters](https://github.com/getaclue/awesome-saas-starters) - 😎 Awesome List of SaaS Starter Kits and Boilerplates. Save time and skip implementing features like authentication, subscriptions, teams, and many more.
 - [awesome-saas](https://github.com/georgezouq/awesome-saas) - A curated list for SaaS (Software as a services)
@@ -2709,6 +2717,7 @@
 
 ## Python 
 
+- [oil](https://github.com/oilshell/oil) - A new Unix shell.  Our upgrade path from bash to a better language and runtime.
 - [route-optimization](https://github.com/jescresswell/route-optimization) - Produces optimal routing for freight deliveries, accounting for multiple trucks working in tandem, and multiple dispatch depots.
 - [patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [pinboard-bookmarks-updater](https://github.com/jefftriplett/pinboard-bookmarks-updater) - 🤖 Opinionated Pinboard.in Bookmarks Updater
@@ -2996,6 +3005,9 @@
 
 ## R 
 
+- [npm](https://github.com/JohnCoene/npm) - npm from R
+- [yarn](https://github.com/JohnCoene/yarn) - yarn from R
+- [darkdumpr](https://github.com/hrbrmstr/darkdumpr) - 🕵️‍♀️ Query darkdump.io for Dark Web Content
 - [visualizer](https://github.com/duttashi/visualizer) - My experiments in data visualizations. Feel free to show your :heart: by giving a star :star:
 - [datatools](https://github.com/ernestguevarra/datatools) - Utility functions for working on various types of survey data
 - [sp](https://github.com/edzer/sp) - Classes and methods for spatial data
@@ -5279,6 +5291,7 @@
 
 ## Shell 
 
+- [DockerStack](https://github.com/petersem/DockerStack) - Just my list of docker apps in a compose file
 - [hosting](https://github.com/plausible/hosting) - Example docker-compose setups for hosting Plausible Analytics
 - [gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
