@@ -197,6 +197,7 @@
 
 ## C# # 
 
+- [PathEd](https://github.com/awaescher/PathEd) - 📌 A deployable tool to add or remove values from the Windows PATH variable.
 - [BlogOps](https://github.com/laurentkempe/BlogOps) - Tool to operate my blog.
 - [CandyShop](https://github.com/weberjonathan/CandyShop) - Lightweight Chocolatey UI to manage installed applications
 - [BaGet](https://github.com/loic-sharma/BaGet) - A lightweight NuGet and symbol server
@@ -433,7 +434,6 @@
 - [firsttimersonly](https://github.com/shanselman/firsttimersonly) - The Repository for the FirstTimersOnly movement in Open Source. We want projects to reserve some issues for newbies.
 - [browsr](https://github.com/jimbrig/browsr) - Query advanced searches from your R console!
 - [Obsidian-Obsidianite](https://github.com/TriDiamond/Obsidian-Obsidianite) - 🎨 Obsidian.md custom theme, it's dark and simple but yet still stays sparkles!
-- [betterObsidian](https://github.com/phibr0/betterObsidian) - My CSS Theme for the Obsidian Note Taking App.
 - [gitsidian](https://github.com/ishgunacar/gitsidian) - An obsidian theme inspired by GitHub markdown styles
 - [obsidian-minimal](https://github.com/kepano/obsidian-minimal) - Minimal theme for Obsidian
 - [tooltipsterR](https://github.com/timelyportfolio/tooltipsterR) - R htmlwidget for tooltipster
@@ -546,7 +546,7 @@
 - [yesql](https://github.com/krisajenkins/yesql) - A Clojure library for using SQL.
 - [athens](https://github.com/athensresearch/athens) - Open-Source Networked Thought. The Closed Beta is underway! Join the waitlist via https://forms.gle/9L1D1T7R3G7pvh1e7. Sponsor us to get the beta faster!
 - [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
-- [logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend-only) platform for knowledge sharing and management.
+- [logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend now, backend later) platform for knowledge sharing and management.
 - [drake](https://github.com/Factual/drake) - Data workflow tool, like a "Make for data"
 
 ## CoffeeScript 
@@ -628,6 +628,7 @@
 
 ## Go 
 
+- [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [gotenberg](https://github.com/thecodingmachine/gotenberg) - A Docker-powered stateless API for converting HTML, Markdown and Office documents to PDF
 - [pginsight](https://github.com/lafikl/pginsight) - CLI tool to easily dig deep inside your Postgresql database.
 - [soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
@@ -791,6 +792,9 @@
 
 ## HTML 
 
+- [static-marks](https://github.com/darekkay/static-marks) - Shareable bookmarks
+- [tiny-helpers](https://github.com/darekkay/tiny-helpers) - A collection of useful online web development tools
+- [dev-tools](https://github.com/darekkay/dev-tools) - Developer tools
 - [config-files](https://github.com/darekkay/config-files) - My collection of .dotfiles, settings and snippets.
 - [R4JournalismBook](https://github.com/smach/R4JournalismBook) - Companion site for my book Practical R for Mass Communication & Journalism, part of the CRC Press R Series
 - [data.validator](https://github.com/Appsilon/data.validator) - validate your data and create nice reports straight from R
@@ -1173,6 +1177,9 @@
 
 ## JavaScript 
 
+- [firebase-gcp-examples](https://github.com/jthegedus/firebase-gcp-examples) - 🔥 Firebase app architectures, languages, tools & some GCP things! React w Next.js, Svelte w Sapper, Cloud Functions, Cloud Run.
+- [static-marks-app](https://github.com/darekkay/static-marks-app) - Frontend part of the Static Marks project
+- [tip-of-the-day](https://github.com/darekkay/tip-of-the-day) - Get your daily knowledge dose
 - [npm-updater](https://github.com/node-modules/npm-updater) - Prompt update of npm package
 - [react-native-ultimate-config](https://github.com/maxkomarychev/react-native-ultimate-config) - Config that works
 - [web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
@@ -1811,6 +1818,7 @@
 
 ## Jupyter Notebook 
 
+- [data-engineering-gcp](https://github.com/jorwalk/data-engineering-gcp) - Data Engineering on Google Cloud Platform
 - [san](https://github.com/GDSL-UL/san) - Spatial Analysis Notes
 - [ob-project-template](https://github.com/outlierbio/ob-project-template) - Outlier Bio analysis project template
 - [notebooks](https://github.com/westurner/notebooks) - Jupyter notebooks (.ipynb, data) https://westurner.org/notebooks/
@@ -1913,6 +1921,7 @@
 
 ## Others 
 
+- [GCPSketchnote](https://github.com/priyankavergadia/GCPSketchnote) - If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format.
 - [awesome-by-example](https://github.com/b0o/awesome-by-example) - A curated list of awesome example-based learning resources.
 - [awesome-services](https://github.com/Alex1990/awesome-services) - A collection of the services which participate in application construction.
 - [awesome-saas-starters](https://github.com/getaclue/awesome-saas-starters) - 😎 Awesome List of SaaS Starter Kits and Boilerplates. Save time and skip implementing features like authentication, subscriptions, teams, and many more.
@@ -4816,7 +4825,6 @@
 - [r-posts](https://github.com/jbkunst/r-posts) - Some R scripts and some R ideas
 - [nodbi](https://github.com/ropensci/nodbi) - Document DBI connector for R
 - [dtupdate](https://github.com/hrbrmstr/dtupdate) - The dtupdate package has functions that try to make it easier to keep up with the non-CRAN universe
-- [rmdTemplates](https://github.com/Pakillo/rmdTemplates) - R package containing a collection of Rmarkdown templates
 - [r-data-cleaning-tricks](https://github.com/underthecurve/r-data-cleaning-tricks) - Data Cleaning Tricks in R for Boston University's "Storytelling with Data" workshop
 - [WrapRmd](https://github.com/tjmahr/WrapRmd) - RStudio addin for wrapping RMarkdown paragraphs
 - [testrmd](https://github.com/ropenscilabs/testrmd) - Test chunks for R Markdown.
@@ -5282,6 +5290,7 @@
 
 ## Scala 
 
+- [snowplow](https://github.com/snowplow/snowplow) - Cloud-native web, mobile and event analytics, running on AWS and GCP
 - [prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)
 - [learning-resources](https://github.com/DevInsideYou/learning-resources) - Cheat sheets for all the things
 - [diffy](https://github.com/opendiffy/diffy) - 
@@ -5291,6 +5300,7 @@
 
 ## Shell 
 
+- [dotly](https://github.com/CodelyTV/dotly) - 🌚 Modular and easy to customize dotfiles framework
 - [DockerStack](https://github.com/petersem/DockerStack) - Just my list of docker apps in a compose file
 - [hosting](https://github.com/plausible/hosting) - Example docker-compose setups for hosting Plausible Analytics
 - [gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
@@ -5580,6 +5590,7 @@
 - [pandoc-templates](https://github.com/kjhealy/pandoc-templates) - Some templates for Pandoc.
 - [latex-custom-kjh](https://github.com/kjhealy/latex-custom-kjh) - Some simple configuration files I use for use with LaTeX, the Memoir class and the Listings package.
 - [cas-data-vis-wp](https://github.com/cliffordlau/cas-data-vis-wp) - CAS Data Visualization Working Party
+- [rmdTemplates](https://github.com/Pakillo/rmdTemplates) - R package containing a collection of Rmarkdown templates
 - [cookiecutter-r-data-analysis](https://github.com/bdcaf/cookiecutter-r-data-analysis) - cookie cutter template for my r workflow
 - [rticles](https://github.com/rstudio/rticles) - LaTeX Journal Article Templates for R Markdown
 - [vimtex](https://github.com/lervag/vimtex) - VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
@@ -5591,6 +5602,8 @@
 
 ## TypeScript 
 
+- [dashboard](https://github.com/darekkay/dashboard) - Customizable personal dashboard and startpage
+- [pandoc-filter-node](https://github.com/mvhenderson/pandoc-filter-node) - Pandoc filtering for Node.js
 - [fluentui-react-native](https://github.com/microsoft/fluentui-react-native) - A react-native component library that implements the Fluent Design System.
 - [rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [Eve](https://github.com/witheve/Eve) - Better tools for thought
