@@ -120,6 +120,8 @@
 
 ## C 
 
+- [RPostgreSQL](https://github.com/tomoakin/RPostgreSQL) - Automatically exported from code.google.com/p/rpostgresql
+- [postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch
 - [dots](https://github.com/cherrry9/dots) - just dotfiles ¯\_(ツ)_/¯﻿
 - [dbgen](https://github.com/viking/dbgen) - UIS database generator (http://www.cs.utexas.edu/users/ml/riddle/data.html)
 - [geodist](https://github.com/hypertidy/geodist) - Ultra lightweight, ultra fast calculation of geo distances
@@ -411,6 +413,7 @@
 
 ## CSS 
 
+- [bookclub-mshiny](https://github.com/r4ds/bookclub-mshiny) - Mastering Shiny Book Club
 - [shiny-vagrant](https://github.com/hrbrmstr/shiny-vagrant) - :sparkles: Vagrant image & supporting infrastructure for easy Shiny Server testing in VirtualBox
 - [cran-explorer](https://github.com/nz-stefan/cran-explorer) - Browse the CRAN package database and package dependencies
 - [blog-explorer](https://github.com/nz-stefan/blog-explorer) - Analysing 10+ Years of R Blogs
@@ -580,6 +583,7 @@
 
 ## Dockerfile 
 
+- [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [docker-shiny](https://github.com/QuantumObject/docker-shiny) - Dockerfile to be use to build image for docker container with Shiny
 - [docker-buildr](https://github.com/MangoTheCat/docker-buildr) - An r-ver image with extra build dependencies
 - [docker-forticlient](https://github.com/HybirdCorp/docker-forticlient) - Connect to a FortiGate VPN through docker
@@ -628,6 +632,10 @@
 
 ## Go 
 
+- [cloud-builders](https://github.com/GoogleCloudPlatform/cloud-builders) - Builder images and examples commonly used for Google Cloud Build
+- [cloud-run-button](https://github.com/GoogleCloudPlatform/cloud-run-button) - Let anyone deploy your GitHub repos to Google Cloud Run with a single click
+- [konfig](https://github.com/kelseyhightower/konfig) - 
+- [berglas](https://github.com/GoogleCloudPlatform/berglas) - A tool for managing secrets on Google Cloud
 - [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [gotenberg](https://github.com/thecodingmachine/gotenberg) - A Docker-powered stateless API for converting HTML, Markdown and Office documents to PDF
 - [pginsight](https://github.com/lafikl/pginsight) - CLI tool to easily dig deep inside your Postgresql database.
@@ -792,6 +800,7 @@
 
 ## HTML 
 
+- [ready_for_production](https://github.com/eodaGmbH/ready_for_production) - Workshop materials from the RStudio and eoda Event Ready for Production
 - [static-marks](https://github.com/darekkay/static-marks) - Shareable bookmarks
 - [tiny-helpers](https://github.com/darekkay/tiny-helpers) - A collection of useful online web development tools
 - [dev-tools](https://github.com/darekkay/dev-tools) - Developer tools
@@ -1177,6 +1186,7 @@
 
 ## JavaScript 
 
+- [deploy](https://github.com/ttiny/deploy) - Git and Docker deployment tool.
 - [firebase-gcp-examples](https://github.com/jthegedus/firebase-gcp-examples) - 🔥 Firebase app architectures, languages, tools & some GCP things! React w Next.js, Svelte w Sapper, Cloud Functions, Cloud Run.
 - [static-marks-app](https://github.com/darekkay/static-marks-app) - Frontend part of the Static Marks project
 - [tip-of-the-day](https://github.com/darekkay/tip-of-the-day) - Get your daily knowledge dose
@@ -2726,6 +2736,10 @@
 
 ## Python 
 
+- [pgadmin4](https://github.com/postgres/pgadmin4) - Mirror of the pgAdmin 4 GIT repo. DO NOT submit pull requests here! Use the pgadmin-hackers@lists.postgresql.org mailing list. Issues should be logged at https://redmine.postgresql.org/projects/pgadmin4.
+- [microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+- [gcp-essentials](https://github.com/lynnlangit/gcp-essentials) - Example gcloud statements for GCP services
 - [oil](https://github.com/oilshell/oil) - A new Unix shell.  Our upgrade path from bash to a better language and runtime.
 - [route-optimization](https://github.com/jescresswell/route-optimization) - Produces optimal routing for freight deliveries, accounting for multiple trucks working in tandem, and multiple dispatch depots.
 - [patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
@@ -2810,7 +2824,7 @@
 - [PC-Automation](https://github.com/arturmark/PC-Automation) - Anything what helps to improve productivity with work on PC.
 - [Folder-Organiser](https://github.com/mohitsharmaaa/Folder-Organiser) - Folder Organiser / Desktop Cleaner
 - [Monitoring-Files](https://github.com/lucioerlan/Monitoring-Files) - 🐑 Monitor the status of a folder on your system
-- [gitdir](https://github.com/sdushantha/gitdir) - 📁 Download a single directory/folder from a GitHub repo
+- [gitdir](https://github.com/sdushantha/gitdir) - Download a single directory/folder from a GitHub repo
 - [folder-organizer](https://github.com/ibLeDy/folder-organizer) - Move all the files that match set extensions to a windows-like folder structure
 - [file-sorter](https://github.com/AndriiVal/file-sorter) - This GUI tool will help you to end the chaos of your unorganized files in just a few clicks
 - [file-mover](https://github.com/tekord/file-mover) - Batch file moving based on rules in YAML file
@@ -3014,6 +3028,18 @@
 
 ## R 
 
+- [shiny.stats](https://github.com/Appsilon/shiny.stats) - Shiny app usability logs and statistics
+- [shiny.grid](https://github.com/pedrocoutinhosilva/shiny.grid) - CSS grid implementation for R/shiny
+- [shinymarkdown](https://github.com/jdtrat/shinymarkdown) - What the Package Does (One Line, Title Case)
+- [asa-shiny-essentials](https://github.com/mine-cetinkaya-rundel/asa-shiny-essentials) - 
+- [addmins](https://github.com/mine-cetinkaya-rundel/addmins) - An R package containing addins that are useful for Mine's workflow.
+- [buttonmakr](https://github.com/jdtrat/buttonmakr) - 
+- [autobots](https://github.com/jdtrat/autobots) - An R Package to help automate tasks wih Github Actions
+- [simplegit](https://github.com/jdtrat/simplegit) - Provides a lightweight interface for Github through R
+- [taskdesignr](https://github.com/jdtrat/taskdesignr) - A package for designing experimental tasks in R with Shiny
+- [shinysurveys](https://github.com/jdtrat/shinysurveys) - Develop and deploy surveys in Shiny/R.
+- [Tplyr](https://github.com/atorus-research/Tplyr) - 
+- [targets-minimal](https://github.com/wlandau/targets-minimal) - A minimal example data analysis project with the targets R package
 - [npm](https://github.com/JohnCoene/npm) - npm from R
 - [yarn](https://github.com/JohnCoene/yarn) - yarn from R
 - [darkdumpr](https://github.com/hrbrmstr/darkdumpr) - 🕵️‍♀️ Query darkdump.io for Dark Web Content
@@ -4256,7 +4282,7 @@
 - [vegawidget](https://github.com/vegawidget/vegawidget) - Htmlwidget renderer for Vega and Vega-Lite
 - [debug](https://github.com/markbravington/debug) - debugger for R functions, better than built-in; more up-to-date than CRAN.
 - [etl](https://github.com/beanumber/etl) - R package to facilitate ETL operations
-- [flowr](https://github.com/sahilseth/flowr) - Robust and efficient workflows using a simple language agnostic approach
+- [flowr](https://github.com/flow-r/flowr) - Robust and efficient workflows using a simple language agnostic approach
 - [vlbuildr](https://github.com/vegawidget/vlbuildr) - Build vega-lite specs in R
 - [slackreprex](https://github.com/yonicd/slackreprex) - reprex + slack
 - [formr](https://github.com/rubenarslan/formr) - The accompanying R package for the survey framework formr (see https://github.com/rubenarslan/formr.org and https://formr.org)
@@ -5300,6 +5326,7 @@
 
 ## Shell 
 
+- [dotfiles](https://github.com/CodelyTV/dotfiles) - 🐢 💨 Speedup your MacOS setup with this fine tuning settings
 - [dotly](https://github.com/CodelyTV/dotly) - 🌚 Modular and easy to customize dotfiles framework
 - [DockerStack](https://github.com/petersem/DockerStack) - Just my list of docker apps in a compose file
 - [hosting](https://github.com/plausible/hosting) - Example docker-compose setups for hosting Plausible Analytics
@@ -5700,7 +5727,6 @@
 - [nldates-obsidian](https://github.com/argenos/nldates-obsidian) - Create date-links based on natural language in Obsidian
 - [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - :package: Install C++ Build Tools for Windows using npm
 - [devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
-- [git-repo-manager](https://github.com/valor-software/git-repo-manager) - 
 - [svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [firebase-tools](https://github.com/firebase/firebase-tools) - The Firebase Command Line Tools
@@ -5807,6 +5833,7 @@
 
 ## Vim script 
 
+- [dotfiles](https://github.com/eddiezane/dotfiles) - doot doot
 - [neuron.vim](https://github.com/fiatjaf/neuron.vim) - 📝 Manage your Zettelkasten in {n}vim.
 - [WSL-config](https://github.com/hsab/WSL-config) - CS 4400 - Step by step guide for using WSL and Vim as a development environment
 - [dotfiles](https://github.com/SerhatTeker/dotfiles) - Personal dotfiles
