@@ -709,7 +709,7 @@
 - [go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars) - :star: Web frameworks for Go, most starred on GitHub
 - [volcano](https://github.com/volcano-sh/volcano) - A Kubernetes Native Batch System (Project under CNCF)
 - [yarr](https://github.com/nkanaev/yarr) - yet another rss reader
-- [seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed object store and file system to store and serve billions of files fast! Object store has O(1) disk seek, transparent cloud integration. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
+- [seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed object store and file system to store and serve billions of files fast! Object store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
 - [bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [cache2go](https://github.com/muesli/cache2go) - Concurrency-safe Go caching library with expiration capabilities and access counters
 - [gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go
@@ -1150,6 +1150,7 @@
 
 ## Java 
 
+- [apollo](https://github.com/ctripcorp/apollo) - Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。
 - [CDM](https://github.com/microsoft/CDM) - The Common Data Model (CDM) is a standard and extensible collection of schemas (entities, attributes, relationships) that represents business concepts and activities with well-defined semantics, to facilitate data interoperability. Examples of entities include: Account, Contact, Lead, Opportunity, Product, etc.
 - [neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
 - [spring-cloud-gcp](https://github.com/GoogleCloudPlatform/spring-cloud-gcp) - New home for Spring Cloud GCP development starting with version 2.0.
@@ -1905,7 +1906,7 @@
 
 ## Nim 
 
-- [arturo](https://github.com/arturo-lang/arturo) - Simple, modern and portable interpreted programming language for efficient scripting.
+- [arturo](https://github.com/arturo-lang/arturo) - Simple, expressive and portable interpreted programming language for efficient scripting.
 
 ## Nix 
 
@@ -1931,6 +1932,7 @@
 
 ## Others 
 
+- [awesome-list-template](https://github.com/jthegedus/awesome-list-template) - 🕶 Awesome list template with CI and required conventions out of the box!
 - [GCPSketchnote](https://github.com/priyankavergadia/GCPSketchnote) - If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format.
 - [awesome-by-example](https://github.com/b0o/awesome-by-example) - A curated list of awesome example-based learning resources.
 - [awesome-services](https://github.com/Alex1990/awesome-services) - A collection of the services which participate in application construction.
@@ -2699,7 +2701,7 @@
 - [DuplicateFolders](https://github.com/instantdreams/DuplicateFolders) - Duplicate the contents of one folder to another
 - [windows-dev-box-setup-scripts](https://github.com/microsoft/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
 - [winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
-- [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theming engine for Powershell
+- [oh-my-posh2](https://github.com/JanDeDobbeleer/oh-my-posh2) - A prompt theming engine for Powershell
 - [dotfiles](https://github.com/shalvah/dotfiles) - PowerShell scripts I use for setting up and configuring my Windows machine(s)
 - [PSDotFiles](https://github.com/ralish/PSDotFiles) - Bringing simple dotfiles management to Windows with PowerShell
 - [concfg](https://github.com/lukesampson/concfg) - Import / export Windows console settings
@@ -3028,9 +3030,13 @@
 
 ## R 
 
+- [Rmarkdown_tutorial](https://github.com/Pakillo/Rmarkdown_tutorial) - Reproducible Research with Rmarkdown: data management, analysis, and reporting all-in-one
+- [osfr](https://github.com/ropensci/osfr) - R interface to the Open Science Framework (OSF)
+- [bionitio-r](https://github.com/bionitio-team/bionitio-r) - Demonstrating best practices for bioinformatics command line tools
+- [cachem](https://github.com/r-lib/cachem) - Key-value caches for R
 - [shiny.stats](https://github.com/Appsilon/shiny.stats) - Shiny app usability logs and statistics
 - [shiny.grid](https://github.com/pedrocoutinhosilva/shiny.grid) - CSS grid implementation for R/shiny
-- [shinymarkdown](https://github.com/jdtrat/shinymarkdown) - What the Package Does (One Line, Title Case)
+- [shinymarkdown](https://github.com/jdtrat/shinymarkdown) - Packages JavaScript's Toast UI Markdown Editor for use in R with Shiny.
 - [asa-shiny-essentials](https://github.com/mine-cetinkaya-rundel/asa-shiny-essentials) - 
 - [addmins](https://github.com/mine-cetinkaya-rundel/addmins) - An R package containing addins that are useful for Mine's workflow.
 - [buttonmakr](https://github.com/jdtrat/buttonmakr) - 
@@ -4904,7 +4910,7 @@
 - [arsenal](https://github.com/mayoverse/arsenal) - An Arsenal of 'R' Functions for Large-Scale Statistical Summaries
 - [disk.frame](https://github.com/xiaodaigh/disk.frame) - Fast Disk-Based Parallelized Data Manipulation Framework for Larger-than-RAM Data
 - [g2r](https://github.com/JohnCoene/g2r) - 📈 Grammar of graphics for interactive visualisations
-- [vctrs](https://github.com/r-lib/vctrs) - Vector types
+- [vctrs](https://github.com/r-lib/vctrs) - Generic programming with typed R vectors
 - [moreRutils](https://github.com/moredatapls/moreRutils) - A collection of R functions that I use regularly but are not part of base R
 - [bigstatsr](https://github.com/privefl/bigstatsr) - R package for statistical tools with big matrices stored on disk.
 - [swagger](https://github.com/rstudio/swagger) - Swagger is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
@@ -5005,7 +5011,7 @@
 - [flextable](https://github.com/davidgohel/flextable) - table farming
 - [tidylog](https://github.com/elbersb/tidylog) - Tidylog provides feedback about dplyr and tidyr operations. It provides wrapper functions for the most common functions, such as filter, mutate, select, and group_by, and provides detailed output for joins.
 - [dashR](https://github.com/plotly/dashR) - Dash for R - An R interface to the Dash ecosystem for creating analytic web applications
-- [tidyselect](https://github.com/r-lib/tidyselect) - A backend for selecting functions of the tidyverse
+- [tidyselect](https://github.com/r-lib/tidyselect) - A backend for functions taking tidyverse selections
 - [emayili](https://github.com/datawookie/emayili) - An R package for sending email messages.
 - [htmltools](https://github.com/rstudio/htmltools) - 
 - [shinythemes](https://github.com/rstudio/shinythemes) - Themes for Shiny
@@ -5326,6 +5332,8 @@
 
 ## Shell 
 
+- [meta-cloud-builders](https://github.com/jthegedus/meta-cloud-builders) - Build custom GCP Cloud Build builders from a config file. Deploy all your GCP Cloud Build Triggers from config files.
+- [asdf-gcloud](https://github.com/jthegedus/asdf-gcloud) - ☁️ GCloud CLI (Google Cloud SDK) plugin for asdf version manager. Pin gcloud versions for each project!
 - [dotfiles](https://github.com/CodelyTV/dotfiles) - 🐢 💨 Speedup your MacOS setup with this fine tuning settings
 - [dotly](https://github.com/CodelyTV/dotly) - 🌚 Modular and easy to customize dotfiles framework
 - [DockerStack](https://github.com/petersem/DockerStack) - Just my list of docker apps in a compose file
@@ -5485,7 +5493,7 @@
 - [ubuntu-windows-dotfiles](https://github.com/ow/ubuntu-windows-dotfiles) - Ubuntu on Windows dotfiles
 - [github-action-dynamic-profile-page](https://github.com/umutphp/github-action-dynamic-profile-page) - GitHub Action to push updates to your special profile repository.
 - [oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃  A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [computational-project-cookie-cutter](https://github.com/chendaniely/computational-project-cookie-cutter) - A cookie cutter to set up a folder structure for a computational project
 - [dotfiles](https://github.com/isair/dotfiles) - 🖥️ Backup your packages, apps, and configurations directly to git in the form of profiles. Set up any new (virtual) machine using a profile in one line. Share profiles between multiple machines. Configure auto update, clean-up, and back-up. Works for all linux flavors, Mac OS, and Windows.
 - [dotfiles](https://github.com/radum/dotfiles) - 🛠 Global apps, modules, packages, .files, sensible hacker defaults for macOS and Windows
@@ -5629,6 +5637,7 @@
 
 ## TypeScript 
 
+- [conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module
 - [dashboard](https://github.com/darekkay/dashboard) - Customizable personal dashboard and startpage
 - [pandoc-filter-node](https://github.com/mvhenderson/pandoc-filter-node) - Pandoc filtering for Node.js
 - [fluentui-react-native](https://github.com/microsoft/fluentui-react-native) - A react-native component library that implements the Fluent Design System.
