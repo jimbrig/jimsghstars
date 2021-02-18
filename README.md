@@ -40,6 +40,7 @@
   - [Lua](#lua)
   - [M4](#m4)
   - [Makefile](#makefile)
+  - [Mustache](#mustache)
   - [Nim](#nim)
   - [Nix](#nix)
   - [OCaml](#ocaml)
@@ -313,6 +314,8 @@
 
 ## C++ 
 
+- [jsclientlib](https://github.com/sdllc/jsclientlib) - R support package for the JS front-end client
+- [controlr](https://github.com/sdllc/controlr) - controlR is a node module for running commands in an external R process.
 - [react-native-windows](https://github.com/microsoft/react-native-windows) - A framework for building native Windows apps with React.
 - [rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
@@ -800,6 +803,7 @@
 
 ## HTML 
 
+- [bootstrap-map-js](https://github.com/Esri/bootstrap-map-js) - A light-weight JS/CSS extension for building awesome mapping apps with Bootstrap and ArcGIS.
 - [ready_for_production](https://github.com/eodaGmbH/ready_for_production) - Workshop materials from the RStudio and eoda Event Ready for Production
 - [static-marks](https://github.com/darekkay/static-marks) - Shareable bookmarks
 - [tiny-helpers](https://github.com/darekkay/tiny-helpers) - A collection of useful online web development tools
@@ -828,7 +832,6 @@
 - [taxonomy](https://github.com/ropensci/taxonomy) - taxonomy R packages
 - [demo-landing-site](https://github.com/sol-eng/demo-landing-site) - An index page for a demo server
 - [lab-css-recipes-clone](https://github.com/ironhack-labs/lab-css-recipes-clone) - An exercise to clone a recipes page and understand the basics of HTML and CSS
-- [charts](https://github.com/bitnami/charts) - Helm Charts
 - [r_docker_hello](https://github.com/SymbolixAU/r_docker_hello) - A simple hello world R-docker example
 - [schemaspy](https://github.com/schemaspy/schemaspy) - SchemaSpy code home
 - [rapideeportable](https://github.com/GordCaswell/rapideeportable) - PortableApps package of Rapid Environment Editor
@@ -1150,6 +1153,7 @@
 
 ## Java 
 
+- [dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [apollo](https://github.com/ctripcorp/apollo) - Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。
 - [CDM](https://github.com/microsoft/CDM) - The Common Data Model (CDM) is a standard and extensible collection of schemas (entities, attributes, relationships) that represents business concepts and activities with well-defined semantics, to facilitate data interoperability. Examples of entities include: Account, Contact, Lead, Opportunity, Product, etc.
 - [neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
@@ -1187,6 +1191,7 @@
 
 ## JavaScript 
 
+- [constructr](https://github.com/sdllc/constructr) - Electron-based R Shell
 - [deploy](https://github.com/ttiny/deploy) - Git and Docker deployment tool.
 - [firebase-gcp-examples](https://github.com/jthegedus/firebase-gcp-examples) - 🔥 Firebase app architectures, languages, tools & some GCP things! React w Next.js, Svelte w Sapper, Cloud Functions, Cloud Run.
 - [static-marks-app](https://github.com/darekkay/static-marks-app) - Frontend part of the Static Marks project
@@ -1904,6 +1909,10 @@
 - [demo-linking-native](https://github.com/Accio/demo-linking-native) - Demo of linking native routines in other packages in R
 - [awesome-blogdown](https://github.com/sellorm/awesome-blogdown) - An awesome curated list of blogs built using blogdown
 
+## Mustache 
+
+- [charts](https://github.com/bitnami/charts) - Helm Charts
+
 ## Nim 
 
 - [arturo](https://github.com/arturo-lang/arturo) - Simple, expressive and portable interpreted programming language for efficient scripting.
@@ -1932,6 +1941,7 @@
 
 ## Others 
 
+- [setup-postgres](https://github.com/r-dbi/setup-postgres) - The missing action for Postgres
 - [awesome-list-template](https://github.com/jthegedus/awesome-list-template) - 🕶 Awesome list template with CI and required conventions out of the box!
 - [GCPSketchnote](https://github.com/priyankavergadia/GCPSketchnote) - If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format.
 - [awesome-by-example](https://github.com/b0o/awesome-by-example) - A curated list of awesome example-based learning resources.
@@ -2597,6 +2607,7 @@
 
 ## PLpgSQL 
 
+- [groupdate.sql](https://github.com/ankane/groupdate.sql) - The simplest way to group temporal data
 - [postgrest-starter-kit](https://github.com/subzerocloud/postgrest-starter-kit) - Starter Kit and tooling for authoring REST API backends with PostgREST
 - [pgtap](https://github.com/theory/pgtap) - PostgreSQL Unit Testing Suite
 - [trunklet](https://github.com/decibel/trunklet) - Templating for Postgres. Elephants don't use templates, they use trunklets!
@@ -3030,6 +3041,18 @@
 
 ## R 
 
+- [dissolve-gadm](https://github.com/davisadamw/dissolve-gadm) - Code to collapse GADM global administrative boundaries by level in R using the {sf} package.
+- [gadmr](https://github.com/spatialworks/gadmr) - An  R Interface to the GADM Map Repository
+- [DBItest](https://github.com/r-dbi/DBItest) - Testing DBI drivers
+- [dblog](https://github.com/r-dbi/dblog) - Logging for DBI
+- [DBI](https://github.com/r-dbi/DBI) - A database interface (DBI) definition for communication between R and RDBMSs
+- [backends](https://github.com/r-dbi/backends) - Static API for details on DBI backends
+- [db-benchmark](https://github.com/h2oai/db-benchmark) - reproducible benchmark of database-like ops
+- [pg](https://github.com/jangorecki/pg) - Postgres utilities for R language
+- [misc](https://github.com/krlmlr/misc) - Doing away with unnamed RStudio tabs
+- [dmdScheme](https://github.com/Exp-Micro-Ecol-Hub/dmdScheme) - Domain Meta Data Scheme package with structure indepandant functionality
+- [dint](https://github.com/s-fleck/dint) - A toolkit for working year-quarter and year-month dates
+- [tidyjs-r](https://github.com/gadenbuie/tidyjs-r) - Tidy Data with JavaScript and tidy.js
 - [Rmarkdown_tutorial](https://github.com/Pakillo/Rmarkdown_tutorial) - Reproducible Research with Rmarkdown: data management, analysis, and reporting all-in-one
 - [osfr](https://github.com/ropensci/osfr) - R interface to the Open Science Framework (OSF)
 - [bionitio-r](https://github.com/bionitio-team/bionitio-r) - Demonstrating best practices for bioinformatics command line tools
@@ -5322,6 +5345,7 @@
 
 ## Scala 
 
+- [misc](https://github.com/kanuku/misc) - Repo for tutorials
 - [snowplow](https://github.com/snowplow/snowplow) - Cloud-native web, mobile and event analytics, running on AWS and GCP
 - [prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)
 - [learning-resources](https://github.com/DevInsideYou/learning-resources) - Cheat sheets for all the things
@@ -5332,6 +5356,8 @@
 
 ## Shell 
 
+- [pgx_scripts](https://github.com/pgexperts/pgx_scripts) - A collection of useful little scripts for database analysis and administration, created by our team at PostgreSQL Experts.
+- [postgres](https://github.com/deis/postgres) - A PostgreSQL database used by Deis Workflow.
 - [meta-cloud-builders](https://github.com/jthegedus/meta-cloud-builders) - Build custom GCP Cloud Build builders from a config file. Deploy all your GCP Cloud Build Triggers from config files.
 - [asdf-gcloud](https://github.com/jthegedus/asdf-gcloud) - ☁️ GCloud CLI (Google Cloud SDK) plugin for asdf version manager. Pin gcloud versions for each project!
 - [dotfiles](https://github.com/CodelyTV/dotfiles) - 🐢 💨 Speedup your MacOS setup with this fine tuning settings
@@ -5892,7 +5918,7 @@
 - [devAwesome](https://github.com/lusaxweb/devAwesome) - 🐣 Upload your own sites as portfolio or projects of your github
 - [massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
 - [znote](https://github.com/zpj80231/znote) - 🎈VuePress 静态布局 Blog，清新+ 简洁+。
-- [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern, lightweight and powerful wiki app built on Node.js
+- [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
 
 ## XSLT 
