@@ -43,6 +43,7 @@
   - [Mustache](#mustache)
   - [Nim](#nim)
   - [Nix](#nix)
+  - [Nunjucks](#nunjucks)
   - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [Others](#others)
@@ -586,6 +587,8 @@
 
 ## Dockerfile 
 
+- [docker4dev](https://github.com/ThinkR-open/docker4dev) - Repository with DockerFiles for tutorials
+- [docker-docker-gcpsdk](https://github.com/MangoTheCat/docker-docker-gcpsdk) - Docker-in-Docker with GCP SDK
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [docker-shiny](https://github.com/QuantumObject/docker-shiny) - Dockerfile to be use to build image for docker container with Shiny
 - [docker-buildr](https://github.com/MangoTheCat/docker-buildr) - An r-ver image with extra build dependencies
@@ -635,6 +638,7 @@
 
 ## Go 
 
+- [rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
 - [cloud-builders](https://github.com/GoogleCloudPlatform/cloud-builders) - Builder images and examples commonly used for Google Cloud Build
 - [cloud-run-button](https://github.com/GoogleCloudPlatform/cloud-run-button) - Let anyone deploy your GitHub repos to Google Cloud Run with a single click
 - [konfig](https://github.com/kelseyhightower/konfig) - 
@@ -803,6 +807,7 @@
 
 ## HTML 
 
+- [sql-pet](https://github.com/smithjd/sql-pet) - Exploring a realistic postgreSQL database with R via Docker
 - [bootstrap-map-js](https://github.com/Esri/bootstrap-map-js) - A light-weight JS/CSS extension for building awesome mapping apps with Bootstrap and ArcGIS.
 - [ready_for_production](https://github.com/eodaGmbH/ready_for_production) - Workshop materials from the RStudio and eoda Event Ready for Production
 - [static-marks](https://github.com/darekkay/static-marks) - Shareable bookmarks
@@ -854,6 +859,7 @@
 - [awesome-resources](https://github.com/lyfeyaj/awesome-resources) - Awesome resources for coding and learning: open source projects, websites, books e.g.
 - [digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Start your own digital garden using this Jekyll template 🌱
 - [r-docker-tutorial](https://github.com/ropenscilabs/r-docker-tutorial) - A docker tutorial for reproducible research
+- [pointblank_demo](https://github.com/kmasiello/pointblank_demo) - 
 - [gigsterous.github.io](https://github.com/gigsterous/gigsterous.github.io) - Gigsterous blog for sharing thoughts, technical insights and more.
 - [enjoyment-work](https://github.com/brennanbrown/enjoyment-work) - 🗃️ A Digital Garden: Capturing my daily thoughts and progress, as well as curated ideas with unique synthesis—a personal zettelkasten. Built on Simply Jekyll by Raghuveer S.
 - [tools](https://github.com/googlecodelabs/tools) - Codelabs management & hosting tools
@@ -1057,7 +1063,6 @@
 - [word_prediction_app](https://github.com/bradleyboehmke/word_prediction_app) - 
 - [Text-Mining-Tutorials](https://github.com/bradleyboehmke/Text-Mining-Tutorials) - Various text analytics tutorials
 - [text-mining](https://github.com/rstudio-conf-2020/text-mining) - Text Mining with Tidy Data Principles ✨ 📖✨
-- [tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
 - [sensitivity.sumcal.article.2020](https://github.com/MartinHinz/sensitivity.sumcal.article.2020) - Research compendium for ‘Sensitivity of Radiocarbon Sum Calibration’
 - [SanctionsExplorer](https://github.com/archerimpact/SanctionsExplorer) - A modernized, improved version of the OFAC SDN website.
 - [Econ-Data-Science](https://github.com/vkoul/Econ-Data-Science) - Articles/ Journals and Videos related to Economics:chart_with_upwards_trend: and Data Science :bar_chart:
@@ -1191,6 +1196,8 @@
 
 ## JavaScript 
 
+- [dbml-renderer](https://github.com/softwaretechnik-berlin/dbml-renderer) - 
+- [dbml](https://github.com/stepanic/dbml) - Database Markup Language (DBML), designed to define and document database structures
 - [constructr](https://github.com/sdllc/constructr) - Electron-based R Shell
 - [deploy](https://github.com/ttiny/deploy) - Git and Docker deployment tool.
 - [firebase-gcp-examples](https://github.com/jthegedus/firebase-gcp-examples) - 🔥 Firebase app architectures, languages, tools & some GCP things! React w Next.js, Svelte w Sapper, Cloud Functions, Cloud Run.
@@ -1921,6 +1928,10 @@
 
 - [nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 
+## Nunjucks 
+
+- [tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
+
 ## OCaml 
 
 - [datakit](https://github.com/moby/datakit) - Connect processes into powerful data pipelines with a simple git-like filesystem interface
@@ -2053,7 +2064,6 @@
 - [highcharter-rmarkdown](https://github.com/jbkunst/highcharter-rmarkdown) - 
 - [d3-waffle](https://github.com/jbkunst/d3-waffle) - I'm hungry for data!
 - [R](https://github.com/gizotso/R) - my examples, tips and projects with R language
-- [pointblank_demo](https://github.com/kmasiello/pointblank_demo) - 
 - [tidyghql](https://github.com/yonicd/tidyghql) - create tidy outputs of open github issues and prs using graphql
 - [exobrain](https://github.com/karlicoss/exobrain) - My external brain 🧠
 - [Technical_Notes](https://github.com/KOVERcjm/Technical_Notes) - Personal technical summary notes
@@ -3041,6 +3051,20 @@
 
 ## R 
 
+- [geoloc](https://github.com/ColinFay/geoloc) - Add geolocation inside your shiny app
+- [Introduction-to-Functional-Programming-with-Purrr](https://github.com/MangoTheCat/Introduction-to-Functional-Programming-with-Purrr) - EARL workshop for Introduction to Functional Programming with Purrr
+- [dtdbshiny](https://github.com/MangoTheCat/dtdbshiny) - Shiny app demo of database bulk update and inline editing
+- [dbloadss](https://github.com/MangoTheCat/dbloadss) - Test SQL Server Load Times
+- [sqlr](https://github.com/nbenn/sqlr) - CREATE sql from R
+- [rport](https://github.com/adjust/rport) - Connection management and SQL parallelisation for R analytics on big database clusters
+- [dbtest](https://github.com/rstudio/dbtest) - Automates testing of vector expressions of SQL translations for dplyr
+- [sqlpetr](https://github.com/smithjd/sqlpetr) - Functions to accompany the SQL Pet book
+- [sqlutils](https://github.com/jbryer/sqlutils) - Utilies for managing libraries of SQL queries.
+- [vaultr](https://github.com/vimc/vaultr) - :lock: API client for Hashicorp's vault (https://www.vaultproject.io/)
+- [zeallot](https://github.com/r-lib/zeallot) - Variable assignment with zeal! (or multiple, unpacking, and destructuring assignment in R)
+- [GlobalOptions](https://github.com/jokergoo/GlobalOptions) - Generate function to get or set global options
+- [tidygeocoder](https://github.com/jessecambon/tidygeocoder) - Geocoding Made Easy
+- [ORTSC](https://github.com/MohmedSoudy/ORTSC) - Connects to Google cloud vision &lt;https://cloud.google.com/vision&gt; to perform label detection and repurpose this feature for image classification.
 - [dissolve-gadm](https://github.com/davisadamw/dissolve-gadm) - Code to collapse GADM global administrative boundaries by level in R using the {sf} package.
 - [gadmr](https://github.com/spatialworks/gadmr) - An  R Interface to the GADM Map Repository
 - [DBItest](https://github.com/r-dbi/DBItest) - Testing DBI drivers
