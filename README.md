@@ -1028,6 +1028,7 @@
 - [tidymodels.org](https://github.com/tidymodels/tidymodels.org) - Source of tidymodels.org
 - [pattern.css](https://github.com/bansal-io/pattern.css) - CSS only library to fill empty background with beautiful patterns.
 - [mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
+- [wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 📝 The website builder for Hugo. Build and deploy a beautiful website in minutes!
 - [process-handbook](https://github.com/dwyl/process-handbook) - :green_book: Contains our processes, questions and journey to creating ateam
 - [data-science-in-education](https://github.com/data-edu/data-science-in-education) - Repository for 'Data Science in Education Using R' by Emily A. Bovee, Ryan A. Estrellado, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez to be published by Routledge in 2020
 - [lgr](https://github.com/s-fleck/lgr) - A fully featured logging framework for R
@@ -1712,7 +1713,6 @@
 - [feedback.js](https://github.com/niklasvh/feedback.js) - Feedback form with screenshot
 - [togetherjs](https://github.com/jsfiddle/togetherjs) - A service for your website that makes it surprisingly easy to collaborate in real-time.
 - [uid](https://github.com/lukeed/uid) - A tiny (130B to 205B) and fast utility to generate random IDs of fixed length
-- [wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 📝 The website builder for Hugo. Build and deploy a beautiful website in minutes!
 - [octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [todo](https://github.com/JasonEtco/todo) - 🤖✅ GitHub App that creates new issues from actionable comments in your code.
 - [Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for developers on Mac, Windows and Linux.
@@ -1952,6 +1952,7 @@
 
 ## Others 
 
+- [psqlrc-files](https://github.com/baburdick/psqlrc-files) - Useful .psqlrc config system with grouped aliases, a fancy colorized two-line prompt, and useful bundled admin queries
 - [setup-postgres](https://github.com/r-dbi/setup-postgres) - The missing action for Postgres
 - [awesome-list-template](https://github.com/jthegedus/awesome-list-template) - 🕶 Awesome list template with CI and required conventions out of the box!
 - [GCPSketchnote](https://github.com/priyankavergadia/GCPSketchnote) - If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format.
@@ -3088,7 +3089,7 @@
 - [addmins](https://github.com/mine-cetinkaya-rundel/addmins) - An R package containing addins that are useful for Mine's workflow.
 - [buttonmakr](https://github.com/jdtrat/buttonmakr) - 
 - [autobots](https://github.com/jdtrat/autobots) - An R Package to help automate tasks wih Github Actions
-- [simplegit](https://github.com/jdtrat/simplegit) - Provides a lightweight interface for Github through R
+- [ghee](https://github.com/jdtrat/ghee) - Provides a lightweight interface for Github through R
 - [taskdesignr](https://github.com/jdtrat/taskdesignr) - A package for designing experimental tasks in R with Shiny
 - [shinysurveys](https://github.com/jdtrat/shinysurveys) - Develop and deploy surveys in Shiny/R.
 - [Tplyr](https://github.com/atorus-research/Tplyr) - 
@@ -3581,7 +3582,7 @@
 - [path.chain](https://github.com/krzjoa/path.chain) - Concise structure for path chaining
 - [shiny.i18n](https://github.com/Appsilon/shiny.i18n) - Shiny applications internationalisation made easy
 - [marmap](https://github.com/ericpante/marmap) - Import, plot and analyze bathymetric and topographic data
-- [terrainr](https://github.com/mikemahoney218/terrainr) - Get DEMs and orthoimagery from the USGS National Map, georeference your images and merge rasters, and transform the outputs so they can be imported to Unity.
+- [terrainr](https://github.com/ropensci/terrainr) - Get DEMs and orthoimagery from the USGS National Map, georeference your images and merge rasters, and transform the outputs so they can be imported to Unity.
 - [tinselR](https://github.com/jennahamlin/tinselR) - An Amazing Shiny App
 - [mixr](https://github.com/lvaudor/mixr) - 
 - [grimoireStat](https://github.com/lvaudor/grimoireStat) - http://perso.ens-lyon.fr/lise.vaudor/grimoireStat/_book/intro.html
