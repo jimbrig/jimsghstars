@@ -1059,7 +1059,7 @@
 - [walker](https://github.com/helske/walker) - Bayesian Generalized Linear Models with Time-Varying Coefficients
 - [Dashboarding-Tutorial](https://github.com/maloriejhughes/Dashboarding-Tutorial) - Presentation, pro tips, and tools for dashboarding like a boss: https://maloriejhughes.github.io/Dashboarding-Tutorial/
 - [githubdashboard](https://github.com/hrbrmstr/githubdashboard) - #rstats github flexdashboard
-- [autoreports-ipeds](https://github.com/shilohbradley/autoreports-ipeds) - An R Project that creates quick and easy reports from IPEDS data.
+- [autoreports-ipeds](https://github.com/shilohfling/autoreports-ipeds) - An R Project that creates quick and easy reports from IPEDS data.
 - [lossdb](https://github.com/merlinoa/lossdb) - Insurance loss data management
 - [word_prediction_app](https://github.com/bradleyboehmke/word_prediction_app) - 
 - [Text-Mining-Tutorials](https://github.com/bradleyboehmke/Text-Mining-Tutorials) - Various text analytics tutorials
@@ -1485,7 +1485,6 @@
 - [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather for your city from your terminal
 - [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations
 - [idea](https://github.com/IonicaBizau/idea) - :bulb: A lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
-- [moro](https://github.com/getmoro/moro) - Simple CLI tool for tracking work hours. Note: Heavy changes are happening in this repository. Docs might not be up to date, and things might be broken. Only the released NPM version is stable.
 - [g3l](https://github.com/sahin/g3l) - Git is easy, github cli is easy but g3l easiest git cli in the w0rld!
 - [npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [npm-user-cli](https://github.com/sindresorhus/npm-user-cli) - Get user info of an npm user
@@ -2398,7 +2397,7 @@
 - [awesome-github-badges](https://github.com/chetanraj/awesome-github-badges) - A curated list of awesome github README.md badges
 - [awesome-hacking-lists](https://github.com/udpsec/awesome-hacking-lists) - Project transferred to: https://github.com/taielab/awesome-hacking-lists
 - [Awesome-Security-Gists](https://github.com/Hack-with-Github/Awesome-Security-Gists) - A collection of various GitHub gists for hackers, pentesters and security researchers
-- [awesome-github](https://github.com/Kikobeats/awesome-github) - An exquisite  list of awesome :octocat: secrets.
+- [awesome-github](https://github.com/Kikobeats/awesome-github) - An exquisite list of awesome :octocat: secrets.
 - [awesome-github](https://github.com/phillipadsmith/awesome-github) - A curated list of GitHub's awesomeness
 - [awesome-github-templates](https://github.com/devspace/awesome-github-templates) - :octocat: Curated list of GitHub Issues and Pull Requests templates
 - [awesome-github-repo](https://github.com/flyhigher139/awesome-github-repo) - A curated list of awesome GitHub repositories. Inspired by awesome-python, which is inspired by awesome-php.
@@ -5795,6 +5794,7 @@
 - [toolkit](https://github.com/devbotsxyz/toolkit) - GitHub Actions Toolkit
 - [git-all-branches](https://github.com/zacanger/git-all-branches) - Better git branch -a
 - [import-github-labels-cli](https://github.com/abhijithvijayan/import-github-labels-cli) - CLI to sync labels between repositories on GitHub
+- [moro](https://github.com/getmoro/moro) - Simple CLI tool for tracking work hours. Note: Heavy changes are happening in this repository. Docs might not be up to date, and things might be broken. Only the released NPM version is stable.
 - [scaffold-static](https://github.com/jamesgeorge007/scaffold-static) - Scaffolding utility for vanilla-js
 - [chapter](https://github.com/freeCodeCamp/chapter) - A self-hosted event management tool for nonprofits
 - [tails](https://github.com/eankeen/tails) - tails enables you to view, edit, and organize all your programming projects in one place
