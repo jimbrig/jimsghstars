@@ -81,6 +81,7 @@
   - [Visual Basic .NET](#visual-basic-.net)
   - [Vue](#vue)
   - [XSLT](#xslt)
+  - [YASnippet](#yasnippet)
   - [sed](#sed)
 
 ## AppleScript 
@@ -417,6 +418,8 @@
 
 ## CSS 
 
+- [jbkunst.github.io](https://github.com/jbkunst/jbkunst.github.io) - jbkunst.github.io
+- [jdtratnr](https://github.com/jdtrat/jdtratnr) - 
 - [bookclub-mshiny](https://github.com/r4ds/bookclub-mshiny) - Mastering Shiny Book Club
 - [shiny-vagrant](https://github.com/hrbrmstr/shiny-vagrant) - :sparkles: Vagrant image & supporting infrastructure for easy Shiny Server testing in VirtualBox
 - [cran-explorer](https://github.com/nz-stefan/cran-explorer) - Browse the CRAN package database and package dependencies
@@ -539,7 +542,6 @@
 - [tidytemplate](https://github.com/tidyverse/tidytemplate) - A pkgdown template for core tidyverse packages
 - [rmdformats](https://github.com/juba/rmdformats) - HTML output formats for RMarkdown documents
 - [flipCards](https://github.com/RinteRface/flipCards) - Rotating cards with Bootstrap
-- [dev_guide](https://github.com/ropensci/dev_guide) - rOpenSci Packages: Development, Maintenance, and Peer Review
 - [waiter](https://github.com/JohnCoene/waiter) - 🕰️ Loading screens for Shiny
 - [markdowntemplates](https://github.com/hrbrmstr/markdowntemplates) - :white_check_mark::small_red_triangle_down: A collection of alternate R markdown templates
 - [drake](https://github.com/ropensci-books/drake) - The user manual for the drake R package
@@ -807,6 +809,9 @@
 
 ## HTML 
 
+- [drat](https://github.com/reconhub/drat) - :package::package::package: drat repository
+- [reconhub.github.io](https://github.com/reconhub/reconhub.github.io) - Official website for RECON - The R Epidemics CONsortium
+- [Beautiful-Simple_Dashboards_flexdashboard](https://github.com/Yacine87/Beautiful-Simple_Dashboards_flexdashboard) - Flexdashboard (https://rmarkdown.rstudio.com/flexdashboard/) is an R package that allows creating easy interactive dashboards in R. Its powered by R Markdown, offer support for a wide variety of components & easally specofy row & column flexible layouts . We are going to introduce flexdashboard in this repo and see how easally we can deliver beautiful outputs & insights
 - [sql-pet](https://github.com/smithjd/sql-pet) - Exploring a realistic postgreSQL database with R via Docker
 - [bootstrap-map-js](https://github.com/Esri/bootstrap-map-js) - A light-weight JS/CSS extension for building awesome mapping apps with Bootstrap and ArcGIS.
 - [ready_for_production](https://github.com/eodaGmbH/ready_for_production) - Workshop materials from the RStudio and eoda Event Ready for Production
@@ -1052,7 +1057,6 @@
 - [rmarkdown-dashboard](https://github.com/rstudio-conf-2020/rmarkdown-dashboard) - The R Markdown and Interactive Dashboards Workshp at rstudio::conf 2020
 - [shiny-start-finish](https://github.com/rstudio-conf-2020/shiny-start-finish) - 
 - [templar](https://github.com/r-for-educators/templar) - Template and autogeneration for common documents
-- [ranold](https://github.com/ColinFay/ranold) - Colin's R Archive Network
 - [sgdf_pagedown](https://github.com/tvroylandt/sgdf_pagedown) - Pagedown template
 - [github-slideshow](https://github.com/dcomtois/github-slideshow) - A robot powered training repository :robot:
 - [ymlthis_poster](https://github.com/malcolmbarrett/ymlthis_poster) - 
@@ -1197,6 +1201,7 @@
 
 ## JavaScript 
 
+- [landing](https://github.com/tradestatistics/landing) - Open Trade Statistics landing
 - [dbml-renderer](https://github.com/softwaretechnik-berlin/dbml-renderer) - 
 - [dbml](https://github.com/stepanic/dbml) - Database Markup Language (DBML), designed to define and document database structures
 - [constructr](https://github.com/sdllc/constructr) - Electron-based R Shell
@@ -1724,7 +1729,6 @@
 - [chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [BulmaJS](https://github.com/VizuaaLOG/BulmaJS) - Unofficial javascript extension to the awesome Bulma CSS framework.
 - [shiny-matrix](https://github.com/INWTlab/shiny-matrix) - 
-- [notifyjsexample](https://github.com/ColinFay/notifyjsexample) - Notifyjs in Shiny Example
 - [shinyTour](https://github.com/mzeefilexy/shinyTour) - experimental tour/walkthrough/help package for shiny app
 - [js-for-shiny](https://github.com/rstudio-conf-2020/js-for-shiny) - :zap: JavaScript for Shiny Users :sparkles:
 - [kanbanist](https://github.com/mwakerman/kanbanist) - The missing kanban board for Todoist
@@ -1921,7 +1925,7 @@
 
 ## Nim 
 
-- [arturo](https://github.com/arturo-lang/arturo) - Simple, expressive and portable interpreted programming language for efficient scripting.
+- [arturo](https://github.com/arturo-lang/arturo) - Simple, expressive & portable programming language for efficient scripting
 
 ## Nix 
 
@@ -1951,6 +1955,9 @@
 
 ## Others 
 
+- [docker](https://github.com/reconhub/docker) - Various docker images for RECON
+- [pdsnd_github](https://github.com/Yacine87/pdsnd_github) - GitHub project (Project 3) repository for PDSND
+- [TransformData_Rdplyr-SQL](https://github.com/Yacine87/TransformData_Rdplyr-SQL) - Cette présentation et le script y afférent ont été présentés par l'occasion du premier meet-up de R Ladies Algiers tenu le 04 Janvier 2020.
 - [psqlrc-files](https://github.com/baburdick/psqlrc-files) - Useful .psqlrc config system with grouped aliases, a fancy colorized two-line prompt, and useful bundled admin queries
 - [setup-postgres](https://github.com/r-dbi/setup-postgres) - The missing action for Postgres
 - [awesome-list-template](https://github.com/jthegedus/awesome-list-template) - 🕶 Awesome list template with CI and required conventions out of the box!
@@ -2111,7 +2118,7 @@
 - [docs](https://github.com/cristianmiranda/docs) - 🌱 Digital Garden
 - [notes](https://github.com/jpeach/notes) - Obsidian notes vault
 - [hamster-system](https://github.com/slowernews/hamster-system) - Ultra-simple framework to organize your life.
-- [organize-my-files](https://github.com/Qiplex/organize-my-files) - One-click file organizer for Windows, Mac and Linux
+- [Easy-File-Organizer](https://github.com/Qiplex/Easy-File-Organizer) - One-click file organizer for Windows, Mac and Linux
 - [backup-folders](https://github.com/bjoern-hempel/backup-folders) - A script to easily backup folders.
 - [rstan](https://github.com/dirmeier/rstan) - RStan, the R interface to Stan
 - [essential-R](https://github.com/dirmeier/essential-R) - :blue_book: Essential tools and libraries for programming in R
@@ -2534,7 +2541,6 @@
 - [r_shiny_training_material](https://github.com/Tychobra/r_shiny_training_material) - Tychobra's recommended R + Shiny training material for beginners
 - [data-scientist-roadmap](https://github.com/juniorssz/data-scientist-roadmap) - Toturial coming with "data science roadmap" graphe.
 - [rstudio2019](https://github.com/karthik/rstudio2019) - Resources from my Rstudio::conf 2019 talk
-- [shinynotifyjs](https://github.com/ColinFay/shinynotifyjs) - [rstudio::conf(2020)] Bringing notifyjs to Shiny
 - [awesome-organiser-resources](https://github.com/stephlocke/awesome-organiser-resources) - A list of awesome resources for (tech) event organisers
 - [gdocs2md](https://github.com/mangini/gdocs2md) - Convert a Google Drive Document to the Markdown format, suitable for publishing.
 - [git-cheat-sheet](https://github.com/bennadel/git-cheat-sheet) - A small git cheat sheet of common use-cases for my future self.
@@ -2759,6 +2765,7 @@
 
 ## Python 
 
+- [dotsecrets](https://github.com/oohlaf/dotsecrets) - DotSecrets is a tool to facilitate keeping your dotfiles in Git, including those with private information. The private information is filtered before committing to the repository. DotSecrets is able to symlink your dotfiles into your home directory similar to Stow.
 - [pgadmin4](https://github.com/postgres/pgadmin4) - Mirror of the pgAdmin 4 GIT repo. DO NOT submit pull requests here! Use the pgadmin-hackers@lists.postgresql.org mailing list. Issues should be logged at https://redmine.postgresql.org/projects/pgadmin4.
 - [microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -2776,7 +2783,7 @@
 - [ck-env](https://github.com/ctuning/ck-env) - CK repository with components and automation actions to enable portable workflows across diverse platforms including Linux, Windows, MacOS and Android. It includes software detection plugins and meta packages (code, data sets, models, scripts, etc) with the possibility of multiple versions to co-exist in a user or system environment:
 - [Maid](https://github.com/dungwinux/Maid) - A package manager, written in Python 3.7, for Windows.
 - [meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 📦 CLI providing unifying interface to all package managers
-- [electric](https://github.com/XtremeDevX/electric) - A package manager for Windows!
+- [electric](https://github.com/electric-package-manager/electric) - A package manager for Windows!
 - [scoop-directory](https://github.com/rasa/scoop-directory) - A directory of buckets for the scoop package manager for Windows
 - [pipwin](https://github.com/lepisma/pipwin) - Install compiled python libraries for windows provided by Christoph Gohlke
 - [poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
@@ -3051,6 +3058,21 @@
 
 ## R 
 
+- [cepiigeodist](https://github.com/pachamaltese/cepiigeodist) - GeoDist datasets in R
+- [trd-sttstcs](https://github.com/jbkunst/trd-sttstcs) - 
+- [blog](https://github.com/jbkunst/blog) - Data, Code and Visualization
+- [wtsUtilities](https://github.com/wStockhausen/wtsUtilities) - R package with various utility functions.
+- [wtsGIS](https://github.com/wStockhausen/wtsGIS) - R package containing various GIS-related functions, RMD scripts, and datasets.
+- [aweek](https://github.com/reconhub/aweek) - Convert dates to arbitrary week definitions :calendar:
+- [rfextras](https://github.com/reconhub/rfextras) - 
+- [incidence2](https://github.com/reconhub/incidence2) - Compute and visualise incidence (reworking of the original incidence package)
+- [trendbreaker](https://github.com/reconhub/trendbreaker) - Auto surveillance for count data WIP
+- [shinydesignr](https://github.com/jdtrat/shinydesignr) - 
+- [interactive_data_viz](https://github.com/Yacine87/interactive_data_viz) - You will find in this repository exemple of interactive data visualisation with Shiny and other R pakages
+- [Shiny_Dynamic_Interactive_Dashboards](https://github.com/Yacine87/Shiny_Dynamic_Interactive_Dashboards) - Successfuly Communicating our analytical outputs highlights the hard work we've done along the workflow. Deciders are expecting to have easally interpretable & useful insights that help them take the right decisions. Shiny is the R framework for making web apps without knowing HTML, CSS & JS. Shinydashboard is a package from the Shiny ecosystem that allows analysts who aren't software engineers to develop independently their (scalable) dashboards. We will discover in this repo the shinydashboards package, its main functionnalities and how nowadays it is possible using the R ecosystem to deliver business dashboards that have nothing to envy to MS Power BI, Tableau, Qlick, TIBCO & the other analytics industry leaders
+- [EDA_R_Packages](https://github.com/Yacine87/EDA_R_Packages) - EDA is a must to do step in the data science workflow. Working on data, wrangling & transforming them is time consuming, and it determine the success degree of the next steps (pre preocessing, modelling, communicating outputs & decision making). This repo will show you how to perform EDA in R using the tidyverse ecosystem, and will introduce a comparative approach between the main packages in R whcich could let you perform automated EDA & generating automated EDA html or pdf reports, ready to be communicated.
+- [dailies](https://github.com/sellorm/dailies) - Simple R package with tools for getting RStudio daily build URLs
+- [Shiny_ecosystem](https://github.com/Yacine87/Shiny_ecosystem) - R & its best IDE RStudio (according to the majority of R daily users) offer us a wondeful framework for web apps creation. It's called Shiny. The success of this web apps framework generates the development of a large package's ecosystem arround shiny. From prototyping, realising beautiful UI, to testing and deploying to the production scale. With Shiny it's possible to realise both the front and the back end parts inside R :-) Isn't huge !
 - [geoloc](https://github.com/ColinFay/geoloc) - Add geolocation inside your shiny app
 - [Introduction-to-Functional-Programming-with-Purrr](https://github.com/MangoTheCat/Introduction-to-Functional-Programming-with-Purrr) - EARL workshop for Introduction to Functional Programming with Purrr
 - [dtdbshiny](https://github.com/MangoTheCat/dtdbshiny) - Shiny app demo of database bulk update and inline editing
@@ -3365,7 +3387,7 @@
 - [wordpiece](https://github.com/jonathanbratt/wordpiece) - 
 - [heatmaply](https://github.com/talgalili/heatmaply) - Interactive Heat Maps for R Using plotly
 - [rstudio.testthat.tests](https://github.com/kevinushey/rstudio.testthat.tests) - A small R package with a couple failing tests. Primarily for driving testing of the RStudio Build pane with tests.
-- [savonliquide](https://github.com/feddelegrand7/savonliquide) - 🧼🧼🧼 Check for Color Contrast Accessibility in R
+- [savonliquide](https://github.com/feddelegrand7/savonliquide) - 🧼🧼🧼 Provides a toolbox that allows the user to implement accessibility-related concepts.
 - [remotes](https://github.com/r-lib/remotes) - Install R packages from GitHub, GitLab, Bitbucket, git, svn repositories, URLs
 - [pkgattrs](https://github.com/rich-iannone/pkgattrs) - Get information on the contents of one or more R packages
 - [docopt.R](https://github.com/docopt/docopt.R) - Command-line interface description language for R (http://docopt.org)
@@ -4057,7 +4079,6 @@
 - [terse](https://github.com/coolbutuseless/terse) - Terse output for nested lists and data.frames
 - [skeletons](https://github.com/RinteRface/skeletons) - skeleton elements for Shiny apps
 - [flowmapblue.R](https://github.com/FlowmapBlue/flowmapblue.R) - Flowmap.blue widget for R
-- [golemshinydash](https://github.com/ColinFay/golemshinydash) - Example of a golem app with shiny dashboard and modules
 - [ReviewSentiment](https://github.com/mdneuzerling/ReviewSentiment) - An end-to-end data science pipeline using just R and GitHub Actions
 - [DrakeModelling](https://github.com/mdneuzerling/DrakeModelling) - Combining drake workflows with R package development to train and execute a machine learning model
 - [mindr](https://github.com/pzhaonet/mindr) - an R package which converts markdown files (.md, .Rmd) into mindmaps (brainstorms)
@@ -4596,7 +4617,6 @@
 - [orderdiv](https://github.com/ColinFay/orderdiv) - 
 - [golemexample](https://github.com/ColinFay/golemexample) - An example app for illustrating golem features
 - [darkmode](https://github.com/ColinFay/darkmode) - 'darkmode.js' for 'Shiny'
-- [golemqlite](https://github.com/ColinFay/golemqlite) - Example of golem & sqlite.
 - [wisegroup](https://github.com/MilesMcBain/wisegroup) - Now I am become death, destroyer of groups....
 - [vov](https://github.com/tyluRp/vov) - :sparkles: vov.css animations for shiny
 - [Vennerable](https://github.com/js229/Vennerable) - Vennerable provides Venn diagrams in R. It displays Venn and Euler diagrams for up to 9 different sets and using a variety of geometries. It allows the display of area-weighted Venn diagrams and allows fine graphical control over the result.
@@ -5061,6 +5081,7 @@
 - [tidyselect](https://github.com/r-lib/tidyselect) - A backend for functions taking tidyverse selections
 - [emayili](https://github.com/datawookie/emayili) - An R package for sending email messages.
 - [htmltools](https://github.com/rstudio/htmltools) - 
+- [dev_guide](https://github.com/ropensci/dev_guide) - rOpenSci Packages: Development, Maintenance, and Peer Review
 - [shinythemes](https://github.com/rstudio/shinythemes) - Themes for Shiny
 - [rtodoist](https://github.com/emitanaka/rtodoist) - R interface to todoist.com
 - [airtabler](https://github.com/bergant/airtabler) - R interface to the Airtable API
@@ -5380,6 +5401,7 @@
 
 ## Shell 
 
+- [dotfiles](https://github.com/thomasmarkrea/dotfiles) - dotfiles
 - [pgx_scripts](https://github.com/pgexperts/pgx_scripts) - A collection of useful little scripts for database analysis and administration, created by our team at PostgreSQL Experts.
 - [postgres](https://github.com/deis/postgres) - A PostgreSQL database used by Deis Workflow.
 - [meta-cloud-builders](https://github.com/jthegedus/meta-cloud-builders) - Build custom GCP Cloud Build builders from a config file. Deploy all your GCP Cloud Build Triggers from config files.
@@ -5893,6 +5915,7 @@
 
 ## Vim script 
 
+- [dotfiles](https://github.com/hongyuanjia/dotfiles) - 
 - [dotfiles](https://github.com/eddiezane/dotfiles) - doot doot
 - [neuron.vim](https://github.com/fiatjaf/neuron.vim) - 📝 Manage your Zettelkasten in {n}vim.
 - [WSL-config](https://github.com/hsab/WSL-config) - CS 4400 - Step by step guide for using WSL and Vim as a development environment
@@ -5949,6 +5972,10 @@
 ## XSLT 
 
 - [git-scribe](https://github.com/schacon/git-scribe) - basically the best way to write an ebook
+
+## YASnippet 
+
+- [.dotfiles](https://github.com/SNTag/.dotfiles) - For my dotfiles
 
 ## sed 
 
