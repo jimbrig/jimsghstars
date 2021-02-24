@@ -63,6 +63,7 @@
   - [SCSS](#scss)
   - [Sass](#sass)
   - [Scala](#scala)
+  - [Scheme](#scheme)
   - [Shell](#shell)
   - [Stan](#stan)
   - [Svelte](#svelte)
@@ -316,6 +317,7 @@
 
 ## C++ 
 
+- [rstudio-launcher-plugin-sdk](https://github.com/rstudio/rstudio-launcher-plugin-sdk) - The RStudio Launcher Plugin SDK is a software development kit used to create plugins that integrate orchestration tools with the RStudio Job Launcher.
 - [jsclientlib](https://github.com/sdllc/jsclientlib) - R support package for the JS front-end client
 - [controlr](https://github.com/sdllc/controlr) - controlR is a node module for running commands in an external R process.
 - [react-native-windows](https://github.com/microsoft/react-native-windows) - A framework for building native Windows apps with React.
@@ -553,13 +555,14 @@
 ## Clojure 
 
 - [yesql](https://github.com/krisajenkins/yesql) - A Clojure library for using SQL.
-- [athens](https://github.com/athensresearch/athens) - Open-Source Networked Thought. The Closed Beta is underway! Join the waitlist via https://forms.gle/9L1D1T7R3G7pvh1e7. Sponsor us to get the beta faster!
+- [athens](https://github.com/athensresearch/athens) - Desktop app links: https://tinyurl.com/athens-mac, https://tinyurl.com/athens-windows, https://tinyurl.com/athens-linux; paid tiers available through https://opencollective.com/athens; try the demo at https://athensresearch.github.io/athens
 - [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 - [logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend now, backend later) platform for knowledge sharing and management.
 - [drake](https://github.com/Factual/drake) - Data workflow tool, like a "Make for data"
 
 ## CoffeeScript 
 
+- [glassic](https://github.com/mess110/glassic) - 
 - [pivottable](https://github.com/nicolaskruchten/pivottable) - Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop.
 - [misc](https://github.com/rweekly/misc) - Goodies from R Weekly
 - [docpad](https://github.com/docpad/docpad) - Empower your website frontends with layouts, meta-data, pre-processors (markdown, jade, coffeescript, etc.), partials, skeletons, file watching, querying, and an amazing plugin system. DocPad will streamline your web development process allowing you to craft powerful static sites quicker than ever before.
@@ -640,6 +643,7 @@
 
 ## Go 
 
+- [pretty](https://github.com/tidwall/pretty) - Efficient JSON beautifier and compactor for Go
 - [rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
 - [cloud-builders](https://github.com/GoogleCloudPlatform/cloud-builders) - Builder images and examples commonly used for Google Cloud Build
 - [cloud-run-button](https://github.com/GoogleCloudPlatform/cloud-run-button) - Let anyone deploy your GitHub repos to Google Cloud Run with a single click
@@ -809,6 +813,7 @@
 
 ## HTML 
 
+- [ulltimate-calendar](https://github.com/angeligareta/ulltimate-calendar) - Example of landing page using the web technologies HTML, CSS, Javascript, Bootstrap, and Firebase.
 - [drat](https://github.com/reconhub/drat) - :package::package::package: drat repository
 - [reconhub.github.io](https://github.com/reconhub/reconhub.github.io) - Official website for RECON - The R Epidemics CONsortium
 - [Beautiful-Simple_Dashboards_flexdashboard](https://github.com/Yacine87/Beautiful-Simple_Dashboards_flexdashboard) - Flexdashboard (https://rmarkdown.rstudio.com/flexdashboard/) is an R package that allows creating easy interactive dashboards in R. Its powered by R Markdown, offer support for a wide variety of components & easally specofy row & column flexible layouts . We are going to introduce flexdashboard in this repo and see how easally we can deliver beautiful outputs & insights
@@ -1201,6 +1206,8 @@
 
 ## JavaScript 
 
+- [kody](https://github.com/jh3y/kody) - .files and environment configuration manager created with node
+- [odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [landing](https://github.com/tradestatistics/landing) - Open Trade Statistics landing
 - [dbml-renderer](https://github.com/softwaretechnik-berlin/dbml-renderer) - 
 - [dbml](https://github.com/stepanic/dbml) - Database Markup Language (DBML), designed to define and document database structures
@@ -1955,6 +1962,10 @@
 
 ## Others 
 
+- [rcontribution](https://github.com/forwards/rcontribution) - Repository for the R Contribution Working Group, working on initiatives to encourage new contributor to R core
+- [useful-postgres](https://github.com/nathaneastwood/useful-postgres) - A collection of useful PostgreSQL queries and snippets
+- [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
+- [saaslab](https://github.com/microsoft/saaslab) - SaaS-ification resources for ISVs
 - [docker](https://github.com/reconhub/docker) - Various docker images for RECON
 - [pdsnd_github](https://github.com/Yacine87/pdsnd_github) - GitHub project (Project 3) repository for PDSND
 - [TransformData_Rdplyr-SQL](https://github.com/Yacine87/TransformData_Rdplyr-SQL) - Cette présentation et le script y afférent ont été présentés par l'occasion du premier meet-up de R Ladies Algiers tenu le 04 Janvier 2020.
@@ -2637,6 +2648,7 @@
 
 ## PowerShell 
 
+- [DockerCompletion](https://github.com/matt9ucci/DockerCompletion) - Docker command completion for PowerShell.
 - [choco-r-devel](https://github.com/leeper/choco-r-devel) - Chocolatey package for r-devel
 - [choco-rtools](https://github.com/leeper/choco-rtools) - Chocolatey package for Rtools
 - [PSffmpeg](https://github.com/nneeoo/PSffmpeg) - Powershell CLI for ffmpeg
@@ -2765,6 +2777,7 @@
 
 ## Python 
 
+- [PythonPostgresDockerTemplate](https://github.com/carlosdg/PythonPostgresDockerTemplate) - Simple template for a project using Python and PostgreSQL with Docker. Using the `psycopg2-binary` package for connecting to the database
 - [dotsecrets](https://github.com/oohlaf/dotsecrets) - DotSecrets is a tool to facilitate keeping your dotfiles in Git, including those with private information. The private information is filtered before committing to the repository. DotSecrets is able to symlink your dotfiles into your home directory similar to Stow.
 - [pgadmin4](https://github.com/postgres/pgadmin4) - Mirror of the pgAdmin 4 GIT repo. DO NOT submit pull requests here! Use the pgadmin-hackers@lists.postgresql.org mailing list. Issues should be logged at https://redmine.postgresql.org/projects/pgadmin4.
 - [microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.
@@ -3058,6 +3071,8 @@
 
 ## R 
 
+- [plumber-logging](https://github.com/sol-eng/plumber-logging) - An opinionated example for implementing logging in Plumber APIs
+- [ShinyVisualizationAssignments](https://github.com/CristianAbrante/ShinyVisualizationAssignments) - Repository for the visualization assignments using Shiny at the Big Data course on the EIT Digital data science master at UPM. 📚
 - [cepiigeodist](https://github.com/pachamaltese/cepiigeodist) - GeoDist datasets in R
 - [trd-sttstcs](https://github.com/jbkunst/trd-sttstcs) - 
 - [blog](https://github.com/jbkunst/blog) - Data, Code and Visualization
@@ -5315,6 +5330,7 @@
 
 ## Rust 
 
+- [broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [sentry-cli](https://github.com/getsentry/sentry-cli) - A command line utility to work with Sentry.
 - [topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
@@ -5399,8 +5415,16 @@
 - [codacy-coverage-reporter](https://github.com/codacy/codacy-coverage-reporter) - Multi-language coverage reporter for Codacy
 - [spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
 
+## Scheme 
+
+- [pathgro](https://github.com/decal/pathgro) - :seedling: combinatoric pathname wordlist expansion--it's like Miracle-Gro(tm) for your dirbusting technique!
+
 ## Shell 
 
+- [notes](https://github.com/nickjj/notes) - A zero dependency shell script that makes it really simple to manage your text notes.
+- [divine-dotfiles](https://github.com/divine-dotfiles/divine-dotfiles) - Divine.dotfiles: The Bash framework for dotfiles and everything Bash
+- [strap](https://github.com/ultimatedotfiles/strap) - Ultimate dotfiles framework
+- [strap](https://github.com/strapsh/strap) - Bootstrap a machine with one command!
 - [dotfiles](https://github.com/thomasmarkrea/dotfiles) - dotfiles
 - [pgx_scripts](https://github.com/pgexperts/pgx_scripts) - A collection of useful little scripts for database analysis and administration, created by our team at PostgreSQL Experts.
 - [postgres](https://github.com/deis/postgres) - A PostgreSQL database used by Deis Workflow.
@@ -5570,7 +5594,7 @@
 - [dotfiles](https://github.com/isair/dotfiles) - 🖥️ Backup your packages, apps, and configurations directly to git in the form of profiles. Set up any new (virtual) machine using a profile in one line. Share profiles between multiple machines. Configure auto update, clean-up, and back-up. Works for all linux flavors, Mac OS, and Windows.
 - [dotfiles](https://github.com/radum/dotfiles) - 🛠 Global apps, modules, packages, .files, sensible hacker defaults for macOS and Windows
 - [dotfiles](https://github.com/weikinhuang/dotfiles) - Cross platform home directory settings
-- [dotfiles](https://github.com/jthegedus/dotfiles) - Dotfiles & Developer Environment. Supports Ubuntu1804+, macOS Catalina+, Windows 10 w WSL
+- [dotfiles](https://github.com/jthegedus/dotfiles) - Dotfiles & Developer Environment. Supports Ubuntu2004+, macOS Catalina+, Windows 10 w WSL
 - [dotfiles](https://github.com/renemarc/dotfiles) - ~/. Cross-platform, cross-shell configuration files. ⚙️💻
 - [dotfiles](https://github.com/dansomething/dotfiles) - My .files for OS X, Linux, and Windows
 - [dotfiles](https://github.com/voku/dotfiles) - :bookmark_tabs: .dotfiles for Bash (Linux) / ZSH (Linux) / Git Bash (Windows) / Cygwin (Windows) / Bash on Ubuntu on Windows
@@ -5624,6 +5648,7 @@
 
 ## Swift 
 
+- [WebShell](https://github.com/djyde/WebShell) - Bundle web apps to native OS X app
 - [tagged-github-stars](https://github.com/dongyuwei/tagged-github-stars) - A native Mac App to manage your Github stars with custom tags, powered by SwiftUI and SQLite.
 - [AppIconGenerator](https://github.com/pawello2222/AppIconGenerator) - A library for creating App Icons from SwiftUI views
 - [DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - Offline Toolbox for Developers
@@ -5709,6 +5734,7 @@
 
 ## TypeScript 
 
+- [electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module
 - [dashboard](https://github.com/darekkay/dashboard) - Customizable personal dashboard and startpage
 - [pandoc-filter-node](https://github.com/mvhenderson/pandoc-filter-node) - Pandoc filtering for Node.js
@@ -5915,6 +5941,7 @@
 
 ## Vim script 
 
+- [dotfiles](https://github.com/TylerLeonhardt/dotfiles) - dotfiles
 - [dotfiles](https://github.com/hongyuanjia/dotfiles) - 
 - [dotfiles](https://github.com/eddiezane/dotfiles) - doot doot
 - [neuron.vim](https://github.com/fiatjaf/neuron.vim) - 📝 Manage your Zettelkasten in {n}vim.
