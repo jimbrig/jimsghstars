@@ -30,6 +30,7 @@
   - [Groovy](#groovy)
   - [HCL](#hcl)
   - [HTML](#html)
+  - [Haml](#haml)
   - [Handlebars](#handlebars)
   - [Haskell](#haskell)
   - [Java](#java)
@@ -124,6 +125,10 @@
 
 ## C 
 
+- [nuster](https://github.com/jiangwenyuan/nuster) - A high performance HTTP proxy cache server and RESTful NoSQL cache server based on HAProxy
+- [haproxy](https://github.com/haproxy/haproxy) - HAProxy Load Balancer's development branch (mirror of git.haproxy.org)
+- [ssh](https://github.com/ropensci/ssh) - Native SSH client in R based on libssh
+- [hindsight](https://github.com/mozilla-services/hindsight) - Hindsight - light weight data processing skeleton
 - [RPostgreSQL](https://github.com/tomoakin/RPostgreSQL) - Automatically exported from code.google.com/p/rpostgresql
 - [postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch
 - [dots](https://github.com/cherrry9/dots) - just dotfiles ¯\_(ツ)_/¯﻿
@@ -420,6 +425,8 @@
 
 ## CSS 
 
+- [shiny_gcr_tf](https://github.com/paeselhz/shiny_gcr_tf) - Repository containing basic R Shiny App, github action to build image and terraform to deploy to GCP Cloud Run
+- [obsidian-md-night-owl-theme](https://github.com/bencodezen/obsidian-md-night-owl-theme) - 
 - [jbkunst.github.io](https://github.com/jbkunst/jbkunst.github.io) - jbkunst.github.io
 - [jdtratnr](https://github.com/jdtrat/jdtratnr) - 
 - [bookclub-mshiny](https://github.com/r4ds/bookclub-mshiny) - Mastering Shiny Book Club
@@ -643,6 +650,9 @@
 
 ## Go 
 
+- [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
+- [singularity](https://github.com/hpcng/singularity) - Singularity: Application containers for Linux
+- [terraform-provider-gsuite](https://github.com/paultyng/terraform-provider-gsuite) - Terraform Provider for GSuite (currently Calendar and Sheets)
 - [pretty](https://github.com/tidwall/pretty) - Efficient JSON beautifier and compactor for Go
 - [rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
 - [cloud-builders](https://github.com/GoogleCloudPlatform/cloud-builders) - Builder images and examples commonly used for Google Cloud Build
@@ -813,6 +823,8 @@
 
 ## HTML 
 
+- [2020-RStudio-Table-Contest-Entry2](https://github.com/kcuilla/2020-RStudio-Table-Contest-Entry2) - 
+- [cran-task-views](https://github.com/jimbrig/cran-task-views) - CRAN Task Views and Shiny App https://cran-task-views.jimbrig.com
 - [ulltimate-calendar](https://github.com/angeligareta/ulltimate-calendar) - Example of landing page using the web technologies HTML, CSS, Javascript, Bootstrap, and Firebase.
 - [drat](https://github.com/reconhub/drat) - :package::package::package: drat repository
 - [reconhub.github.io](https://github.com/reconhub/reconhub.github.io) - Official website for RECON - The R Epidemics CONsortium
@@ -1149,6 +1161,10 @@
 - [rhandsontable](https://github.com/jrowen/rhandsontable) - A htmlwidgets implementation of Handsontable.js
 - [tychobra-hugo-theme](https://github.com/Tychobra/tychobra-hugo-theme) - Simple Hugo theme with sidebar
 
+## Haml 
+
+- [keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
+
 ## Handlebars 
 
 - [electronjs.org](https://github.com/electron/electronjs.org) - Electron website
@@ -1206,6 +1222,11 @@
 
 ## JavaScript 
 
+- [booster.js](https://github.com/xiaoyang-liu-cs/booster.js) - The speed and performance optimizier for your website, delivering fast web experiences to users.
+- [react-native-snap-carousel](https://github.com/meliorence/react-native-snap-carousel) - Swiper/carousel component for React Native featuring previews, multiple layouts, parallax images, performant handling of huge numbers of items, and more. Compatible with Android & iOS.
+- [vizicities](https://github.com/UDST/vizicities) - A framework for 3D geospatial visualization in the browser
+- [obsidian-starter-kit](https://github.com/bencodezen/obsidian-starter-kit) - An opinionated starter kit to help people get up and running as quickly as possible
+- [setup-gh-cli](https://github.com/Monorepo-Actions/setup-gh-cli) - 
 - [kody](https://github.com/jh3y/kody) - .files and environment configuration manager created with node
 - [odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [landing](https://github.com/tradestatistics/landing) - Open Trade Statistics landing
@@ -1851,6 +1872,7 @@
 
 ## Jupyter Notebook 
 
+- [examples](https://github.com/sylabs/examples) - files and instructions for creating and using example containers from the sylabs.io blog
 - [data-engineering-gcp](https://github.com/jorwalk/data-engineering-gcp) - Data Engineering on Google Cloud Platform
 - [san](https://github.com/GDSL-UL/san) - Spatial Analysis Notes
 - [ob-project-template](https://github.com/outlierbio/ob-project-template) - Outlier Bio analysis project template
@@ -1876,6 +1898,7 @@
 
 ## Kotlin 
 
+- [StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
 - [google-cloud-platform-notes](https://github.com/irvifa/google-cloud-platform-notes) - Curated Notes on Google Cloud Platform.
 - [orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists
 - [DragRating](https://github.com/saran2020/DragRating) - Easy to use Drag Rating with customisation with custom assets
@@ -1962,6 +1985,8 @@
 
 ## Others 
 
+- [docker-rweb](https://github.com/rinproduction/docker-rweb) - 
+- [lunacy-docs](https://github.com/icons8/lunacy-docs) - Documentation for Lunacy, Graphic Design Software with built-in assets
 - [rcontribution](https://github.com/forwards/rcontribution) - Repository for the R Contribution Working Group, working on initiatives to encourage new contributor to R core
 - [useful-postgres](https://github.com/nathaneastwood/useful-postgres) - A collection of useful PostgreSQL queries and snippets
 - [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
@@ -2178,7 +2203,7 @@
 - [A-Collection-of-Data-Science-Take-Home-Challenges](https://github.com/siddhujetty/A-Collection-of-Data-Science-Take-Home-Challenges) - My Solutions to  "A Collection of Data Science Take-Home Challenges" by Giulio Palombo.
 - [Books](https://github.com/Joe-Rstats/Books) - R & Stats Books and Websites that I think are good.
 - [awesome-sparklyr](https://github.com/harryprince/awesome-sparklyr) - An awesome sparklyr related package collection
-- [daily](https://github.com/dailydotdev/daily) - Discover dev news with zero effort 👩🏽‍💻
+- [daily](https://github.com/dailydotdev/daily) - All-in-one coding news reader 👩🏽‍💻
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [Rguides](https://github.com/courtiol/Rguides) - Alternative cheat sheets for R
 - [awesome-reproducible-R](https://github.com/datasnakes/awesome-reproducible-R) - An awesome list of resources for reproducible research in R.  Includes a table of comparison for different tools.
@@ -2720,7 +2745,7 @@
 - [windows-dotfiles](https://github.com/ndz-v/windows-dotfiles) - 
 - [dotfiles-windows](https://github.com/Connexeon/dotfiles-windows) - dotfiles for Windows clients & servers using Boxstarter / Chocolatey - sit back, relax & enjoy
 - [dotfiles](https://github.com/neiesc/dotfiles) - dotfiles (GNU/Linux and Windows 10)
-- [WSLab](https://github.com/microsoft/WSLab) - Windows Server rapid lab deployment scripts
+- [MSLab](https://github.com/microsoft/MSLab) - Windows Server rapid lab deployment scripts
 - [psutils](https://github.com/lukesampson/psutils) - Command line utilities written in Powershell
 - [PSProfiles](https://github.com/matt9ucci/PSProfiles) - My PowerShell profiles
 - [awesome-azure-learning](https://github.com/ddneves/awesome-azure-learning) - This repo includes plenty of references for Azure learning, especially for the Azure certs and Azure architecture, and any other learning materials e.g. security and automation topics.
@@ -2777,6 +2802,11 @@
 
 ## Python 
 
+- [simplefastapi](https://github.com/gonzalezben81/simplefastapi) - Simple Dockerfile to create a working fastapi example
+- [devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
+- [Obsidian-Markdown-Parser](https://github.com/danymat/Obsidian-Markdown-Parser) - This repository will give you tools to parse and fetch useful informations of your notes in your Obsidian vault.
+- [renv](https://github.com/datasnakes/renv) - Creating virtual environments for R.
+- [gsc-utils](https://github.com/bearloga/gsc-utils) - Utility to facilitate fetching data from Google Search Console API
 - [PythonPostgresDockerTemplate](https://github.com/carlosdg/PythonPostgresDockerTemplate) - Simple template for a project using Python and PostgreSQL with Docker. Using the `psycopg2-binary` package for connecting to the database
 - [dotsecrets](https://github.com/oohlaf/dotsecrets) - DotSecrets is a tool to facilitate keeping your dotfiles in Git, including those with private information. The private information is filtered before committing to the repository. DotSecrets is able to symlink your dotfiles into your home directory similar to Stow.
 - [pgadmin4](https://github.com/postgres/pgadmin4) - Mirror of the pgAdmin 4 GIT repo. DO NOT submit pull requests here! Use the pgadmin-hackers@lists.postgresql.org mailing list. Issues should be logged at https://redmine.postgresql.org/projects/pgadmin4.
@@ -3071,6 +3101,22 @@
 
 ## R 
 
+- [buy-the-dip](https://github.com/paeselhz/buy-the-dip) - Shiny Application para analisar retorno de ações do Ibovespa
+- [ltn-traffic-recorder](https://github.com/Active-Travel-Academy/ltn-traffic-recorder) - 
+- [golf](https://github.com/sumitrahman/golf) - trying out purrr using my golf scores
+- [shiny-golf](https://github.com/pdelboca/shiny-golf) - Shiny Dashboard for Personal Golf Statistics
+- [comipems](https://github.com/diegovalle/comipems) - 
+- [geocompr](https://github.com/Robinlovelace/geocompr) - Open source book: Geocomputation with R
+- [tweenr](https://github.com/thomasp85/tweenr) - Interpolate your data
+- [osmextract](https://github.com/ropensci/osmextract) - Download and import OpenStreetMap data from Geofabrik and other providers
+- [Shiny_home_valuation_model](https://github.com/kcuilla/Shiny_home_valuation_model) - 
+- [swapir](https://github.com/kcuilla/swapir) - swapir package
+- [reactablefmtr](https://github.com/kcuilla/reactablefmtr) - An R package to simplify formatting and customization of tables made with {reactable}
+- [zonebuilder](https://github.com/zonebuilders/zonebuilder) - Divide geographic space into discrete chunks
+- [maketools](https://github.com/jeroen/maketools) - Exploring and Testing your Toolchain Configuration and System Packages
+- [CitaviR](https://github.com/SchmidtPaul/CitaviR) - A set of tools for dealing with Citavi data
+- [biggr2](https://github.com/fdrennan/biggr2) - The bigger better biggr
+- [assignr](https://github.com/r-assist/assignr) - Tools for Educators Writing Assignments in RMarkdown
 - [plumber-logging](https://github.com/sol-eng/plumber-logging) - An opinionated example for implementing logging in Plumber APIs
 - [ShinyVisualizationAssignments](https://github.com/CristianAbrante/ShinyVisualizationAssignments) - Repository for the visualization assignments using Shiny at the Big Data course on the EIT Digital data science master at UPM. 📚
 - [cepiigeodist](https://github.com/pachamaltese/cepiigeodist) - GeoDist datasets in R
@@ -3790,7 +3836,6 @@
 - [regexmagic](https://github.com/jonocarroll/regexmagic) - Automated Detection of Regular Expression Patterns
 - [biocthis](https://github.com/lcolladotor/biocthis) - Automate package and project setup for Bioconductor packages
 - [didactr](https://github.com/jhudsl/didactr) - Tools for Creating Automated Courses
-- [portfolioBacktest](https://github.com/dppalomar/portfolioBacktest) - Automated Backtesting of Portfolios over Multiple Datasets
 - [data-pipeline](https://github.com/uataq/data-pipeline) - Automated processing, calibration, and delivery pipeline for measurement data
 - [autoBagging](https://github.com/fhpinto/autoBagging) - autoBagging: Automated Bagging Workflows with Metalearning
 - [litsearchr](https://github.com/elizagrames/litsearchr) - litsearchr is an R package to partially automate search term selection for systematic reviews using keyword co-occurrence networks. In addition to identifying search terms, it can write Boolean searches and translate them into over 50 languages.
@@ -5284,6 +5329,8 @@
 
 ## Ruby 
 
+- [fiber-note](https://github.com/namiwang/fiber-note) - A networked note-taking app, open and self-hosted, inspired by roam-research, obsidian and others.
+- [linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [pgcp](https://github.com/holistics/pgcp) - Copying tables between Postgres databases (for analytics purpose)
 - [axlsx](https://github.com/randym/axlsx) - xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your xlsx file before serialization so you know for sure that anything generated is going to load on your client's machine.
 - [pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
@@ -5421,6 +5468,7 @@
 
 ## Shell 
 
+- [gke-mongodb-demo](https://github.com/SymbolixAU/gke-mongodb-demo) - Demo project showing how to deploy MongoDB on the Google Container Engine (GKE) with Kubernetes
 - [notes](https://github.com/nickjj/notes) - A zero dependency shell script that makes it really simple to manage your text notes.
 - [divine-dotfiles](https://github.com/divine-dotfiles/divine-dotfiles) - Divine.dotfiles: The Bash framework for dotfiles and everything Bash
 - [strap](https://github.com/ultimatedotfiles/strap) - Ultimate dotfiles framework
@@ -5670,6 +5718,7 @@
 
 ## TeX 
 
+- [open-gat](https://github.com/Robinlovelace/open-gat) - Open source software for geographic transport data analysis and planning
 - [the_knowledge](https://github.com/GDSL-UL/the_knowledge) - A Repo of things GDSLers Should Know....
 - [RAppArmor](https://github.com/jeroen/RAppArmor) - R interfaces to Linux and AppArmor security methods
 - [thesisdown](https://github.com/ismayc/thesisdown) - An updated R Markdown thesis template using the bookdown package
@@ -5734,6 +5783,10 @@
 
 ## TypeScript 
 
+- [publish](https://github.com/obsidian-userland/publish) - Open source Obsidian Publish alternative
+- [obsidian-readwise-sync](https://github.com/skalnik/obsidian-readwise-sync) - Sync Readwise Highlights to Obsidian
+- [obsidian-query-language](https://github.com/jplattel/obsidian-query-language) - An Obsidian plugin allowing you to query your notes
+- [monorepo-actions](https://github.com/tianhaoz95/monorepo-actions) - A collection of actions made for monorepo projects 💡💡💡
 - [electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module
 - [dashboard](https://github.com/darekkay/dashboard) - Customizable personal dashboard and startpage
@@ -5981,6 +6034,7 @@
 
 ## Vue 
 
+- [obsidian-publish-vue](https://github.com/bencodezen/obsidian-publish-vue) - 
 - [layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 150k+ developers. https://hoppscotch.io
 - [code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
