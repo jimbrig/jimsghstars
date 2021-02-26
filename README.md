@@ -463,7 +463,7 @@
 - [obsidian_nord](https://github.com/insanum/obsidian_nord) - A nord theme for Obsidian
 - [CssGitHubWindows](https://github.com/Athari/CssGitHubWindows) - (UserStyle) GitHub Windows Edition [MIT]
 - [website](https://github.com/ColinFay/website) - Personnal Website
-- [quillt](https://github.com/apreshill/quillt) - 'pkgdown' Template for the R Markdown Ecosystem
+- [quillt](https://github.com/rstudio/quillt) - 'pkgdown' Template for the R Markdown Ecosystem
 - [tidyeval](https://github.com/tidyverse/tidyeval) - A guide to tidy evaluation
 - [obsidian_things](https://github.com/rcvd/obsidian_things) - A clean and minimal theme for obsidian, heavily inspired by Things.
 - [Obsdn-dark-rmx](https://github.com/cannibalox/Obsdn-dark-rmx) - a Theme for Obsidian.md - Light & Dark version
@@ -5763,7 +5763,6 @@
 - [baad](https://github.com/dfalster/baad) - BAAD: a Biomass And Allometry Database for woody plants
 - [memor](https://github.com/hebrewseniorlife/memor) - rmarkdown template that supports customizable logo, company info, etc.
 - [pkgmaker](https://github.com/renozao/pkgmaker) - R Package development utilities
-- [developeR](https://github.com/moldach/developeR) - The Only R Package Development Book You'll Ever Need.
 - [actions_sandbox](https://github.com/ropenscilabs/actions_sandbox) - 
 - [latexsheet](https://github.com/wch/latexsheet) - LaTeX cheat sheet
 - [Rcademy](https://github.com/ropenscilabs/Rcademy) - 
