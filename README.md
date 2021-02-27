@@ -564,7 +564,7 @@
 - [yesql](https://github.com/krisajenkins/yesql) - A Clojure library for using SQL.
 - [athens](https://github.com/athensresearch/athens) - Desktop app links: https://tinyurl.com/athens-mac, https://tinyurl.com/athens-windows, https://tinyurl.com/athens-linux; paid tiers available through https://opencollective.com/athens; try the demo at https://athensresearch.github.io/athens
 - [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
-- [logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend now, backend later) platform for knowledge sharing and management.
+- [logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend now, backend later) platform for knowledge sharing and management. Desktop app download link: https://github.com/logseq/logseq/releases
 - [drake](https://github.com/Factual/drake) - Data workflow tool, like a "Make for data"
 
 ## CoffeeScript 
@@ -797,7 +797,7 @@
 - [knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
-- [evernote2md](https://github.com/wormi4ok/evernote2md) - Convert Evernote .enex file to Markdown
+- [evernote2md](https://github.com/wormi4ok/evernote2md) - Convert Evernote .enex files to Markdown
 - [immudb](https://github.com/codenotary/immudb) - immudb - world’s fastest immutable database
 - [exposure-notifications-server](https://github.com/google/exposure-notifications-server) - Exposure Notification Reference Server | Covid-19 Exposure Notifications
 - [charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
@@ -2745,7 +2745,7 @@
 - [windows-dotfiles](https://github.com/ndz-v/windows-dotfiles) - 
 - [dotfiles-windows](https://github.com/Connexeon/dotfiles-windows) - dotfiles for Windows clients & servers using Boxstarter / Chocolatey - sit back, relax & enjoy
 - [dotfiles](https://github.com/neiesc/dotfiles) - dotfiles (GNU/Linux and Windows 10)
-- [MSLab](https://github.com/microsoft/MSLab) - Windows Server rapid lab deployment scripts
+- [MSLab](https://github.com/microsoft/MSLab) - Azure Stack HCI, Windows 10 and Windows Server rapid lab deployment scripts
 - [psutils](https://github.com/lukesampson/psutils) - Command line utilities written in Powershell
 - [PSProfiles](https://github.com/matt9ucci/PSProfiles) - My PowerShell profiles
 - [awesome-azure-learning](https://github.com/ddneves/awesome-azure-learning) - This repo includes plenty of references for Azure learning, especially for the Azure certs and Azure architecture, and any other learning materials e.g. security and automation topics.
@@ -2850,6 +2850,7 @@
 - [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [gitlint](https://github.com/jorisroovers/gitlint) - Linting for your git commit messages
 - [dotfiles](https://github.com/jbernard/dotfiles) - Dotfile management made easy
+- [Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Material Based Cursors 🚀
 - [great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [ulauncher-obsidian](https://github.com/mikebarkmin/ulauncher-obsidian) - An ulauncher extension for obsidian.md
 - [pgtricks](https://github.com/akaihola/pgtricks) - Handy helpers for PostgreSQL users
@@ -3102,7 +3103,7 @@
 ## R 
 
 - [buy-the-dip](https://github.com/paeselhz/buy-the-dip) - Shiny Application para analisar retorno de ações do Ibovespa
-- [ltn-traffic-recorder](https://github.com/Active-Travel-Academy/ltn-traffic-recorder) - 
+- [ata-traffic-recorder](https://github.com/Active-Travel-Academy/ata-traffic-recorder) - 
 - [golf](https://github.com/sumitrahman/golf) - trying out purrr using my golf scores
 - [shiny-golf](https://github.com/pdelboca/shiny-golf) - Shiny Dashboard for Personal Golf Statistics
 - [comipems](https://github.com/diegovalle/comipems) - 
@@ -5816,7 +5817,6 @@
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [manypkg](https://github.com/Thinkmill/manypkg) - ☔️ An umbrella for your monorepo
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
-- [Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Material Based Cursors 🚀
 - [google-api-fetch-token-action](https://github.com/cardinalby/google-api-fetch-token-action) - Call Google Auth API to prevent you refresh token being expired
 - [login-action](https://github.com/docker/login-action) - :octocat: GitHub Action to login against a Docker registry
 - [release-notes-preview](https://github.com/snyk/release-notes-preview) - GitHub Action for providing release notes preview for semantic releases
@@ -5845,7 +5845,7 @@
 - [data-dictionary](https://github.com/hasura/data-dictionary) - 
 - [bookmarks.dev](https://github.com/BookmarksDev/bookmarks.dev) - Bookmarks and Code Snippets Manager for Developers & Co
 - [wikilinks-to-mdlinks-obsidian](https://github.com/agathauy/wikilinks-to-mdlinks-obsidian) - An Obsidian md plugin which allows for the conversion of individually selected wikilinks to markdown links, and vice versa.
-- [appsmith](https://github.com/appsmithorg/appsmith) - An open source platform to build admin panels, workflows, business apps, and any internal tool.
+- [appsmith](https://github.com/appsmithorg/appsmith) - A platform to build and self-host admin panels, workflows, business apps, and any internal app.
 - [env-cmd](https://github.com/toddbluhm/env-cmd) - Setting environment variables from a file
 - [github-issues-notice](https://github.com/linyows/github-issues-notice) - :octocat: Notify labeled issues to Slack
 - [VSCode-R-Debugger](https://github.com/ManuelHentschel/VSCode-R-Debugger) - R Debugger Extension for Visual Studio Code
