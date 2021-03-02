@@ -322,6 +322,8 @@
 
 ## C++ 
 
+- [isoband](https://github.com/wilkelab/isoband) - isoband: An R package to generate contour lines and polygons.
+- [libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 - [rstudio-launcher-plugin-sdk](https://github.com/rstudio/rstudio-launcher-plugin-sdk) - The RStudio Launcher Plugin SDK is a software development kit used to create plugins that integrate orchestration tools with the RStudio Job Launcher.
 - [jsclientlib](https://github.com/sdllc/jsclientlib) - R support package for the JS front-end client
 - [controlr](https://github.com/sdllc/controlr) - controlR is a node module for running commands in an external R process.
@@ -425,6 +427,7 @@
 
 ## CSS 
 
+- [EndoMineR_Shiny](https://github.com/sebastiz/EndoMineR_Shiny) - Shiny app for the EndoMineR library
 - [shiny_gcr_tf](https://github.com/paeselhz/shiny_gcr_tf) - Repository containing basic R Shiny App, github action to build image and terraform to deploy to GCP Cloud Run
 - [obsidian-md-night-owl-theme](https://github.com/bencodezen/obsidian-md-night-owl-theme) - 
 - [jbkunst.github.io](https://github.com/jbkunst/jbkunst.github.io) - jbkunst.github.io
@@ -823,6 +826,7 @@
 
 ## HTML 
 
+- [demo-rmd-snow](https://github.com/emilyriederer/demo-rmd-snow) - 
 - [2020-RStudio-Table-Contest-Entry2](https://github.com/kcuilla/2020-RStudio-Table-Contest-Entry2) - 
 - [cran-task-views](https://github.com/jimbrig/cran-task-views) - CRAN Task Views and Shiny App https://cran-task-views.jimbrig.com
 - [ulltimate-calendar](https://github.com/angeligareta/ulltimate-calendar) - Example of landing page using the web technologies HTML, CSS, Javascript, Bootstrap, and Firebase.
@@ -1222,6 +1226,8 @@
 
 ## JavaScript 
 
+- [Inputmask](https://github.com/RobinHerbots/Inputmask) - Input Mask plugin
+- [pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [booster.js](https://github.com/xiaoyang-liu-cs/booster.js) - The speed and performance optimizier for your website, delivering fast web experiences to users.
 - [react-native-snap-carousel](https://github.com/meliorence/react-native-snap-carousel) - Swiper/carousel component for React Native featuring previews, multiple layouts, parallax images, performant handling of huge numbers of items, and more. Compatible with Android & iOS.
 - [vizicities](https://github.com/UDST/vizicities) - A framework for 3D geospatial visualization in the browser
@@ -1833,7 +1839,7 @@
 - [operDash](https://github.com/ValeriaNiceria/operDash) - OperDash - Dashboard Shiny (Pacote em construção!)
 - [webshot](https://github.com/wch/webshot) - Take screenshots of web pages from R
 - [react-calendar-timeline](https://github.com/namespace-ee/react-calendar-timeline) - A modern and responsive react timeline component.
-- [react-grid-layout](https://github.com/STRML/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
+- [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 - [horizon-timeseries-chart](https://github.com/vasturiano/horizon-timeseries-chart) - A chart to represent time-series data using multiple vertically layered horizon area plots
 - [visNetwork](https://github.com/datastorm-open/visNetwork) - R package, using vis.js library for network visualization
 - [rAmCharts](https://github.com/datastorm-open/rAmCharts) - API for Amcharts
@@ -1985,6 +1991,8 @@
 
 ## Others 
 
+- [docs.getdbt.com](https://github.com/emilyriederer/docs.getdbt.com) - The code behind docs.getdbt.com
+- [dbt_dplyr](https://github.com/emilyriederer/dbt_dplyr) - dbt package mimicking dplyr select-helpers semantics
 - [docker-rweb](https://github.com/rinproduction/docker-rweb) - 
 - [lunacy-docs](https://github.com/icons8/lunacy-docs) - Documentation for Lunacy, Graphic Design Software with built-in assets
 - [rcontribution](https://github.com/forwards/rcontribution) - Repository for the R Contribution Working Group, working on initiatives to encourage new contributor to R core
@@ -3102,6 +3110,9 @@
 
 ## R 
 
+- [EndoMineR](https://github.com/sebastiz/EndoMineR) - Endoscopic and Pathological data extraction for various endo-pathological data extraction
+- [shinyEndomineR](https://github.com/sebastiz/shinyEndomineR) - A Shiny interface to the EndomineR package
+- [rheroicons](https://github.com/davidruvolo51/rheroicons) - The heroicons library for R 🖼️
 - [buy-the-dip](https://github.com/paeselhz/buy-the-dip) - Shiny Application para analisar retorno de ações do Ibovespa
 - [ata-traffic-recorder](https://github.com/Active-Travel-Academy/ata-traffic-recorder) - 
 - [golf](https://github.com/sumitrahman/golf) - trying out purrr using my golf scores
@@ -4157,7 +4168,7 @@
 - [abrupt](https://github.com/regime-shifts/abrupt) - Methods for detecting abrupt change in temporal, spatial, and spatiotemporal data series
 - [shinydisconnect](https://github.com/daattali/shinydisconnect) - 🔌 Show a nice message when a Shiny app disconnects or errors
 - [logician](https://github.com/dirkschumacher/logician) - 🖖 Prolog-style Logic Programming in pure R
-- [batata](https://github.com/feddelegrand7/batata) - Managing R packages removal and installations
+- [batata](https://github.com/feddelegrand7/batata) - Managing R packages removal and installation
 - [htmlwidgets](https://github.com/hafen/htmlwidgets) - HTML Widgets for R
 - [an-introduction-to-statistical-learning](https://github.com/jhrcook/an-introduction-to-statistical-learning) - My notes on the book "An Introduction to Statistical Learning: with Applications in R."
 - [phishr](https://github.com/MayaGans/phishr) - An R API Wrapper for phish.net
@@ -5797,7 +5808,7 @@
 - [rxdb](https://github.com/pubkey/rxdb) - 🔄 A realtime Database for JavaScript Applications
 - [google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
 - [echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
-- [bit](https://github.com/teambit/bit) - Build, distribute, and collaborate on components.
+- [bit](https://github.com/teambit/bit) - Develop modular web applications with components - fast, together, and at scale.
 - [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [mume](https://github.com/shd101wyy/mume) - Powerful markdown tool
 - [cli](https://github.com/react-native-community/cli) - React Native command line tools
