@@ -653,6 +653,8 @@
 
 ## Go 
 
+- [zdns](https://github.com/zmap/zdns) - Fast CLI DNS Lookup Tool
+- [terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider
 - [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [singularity](https://github.com/hpcng/singularity) - Singularity: Application containers for Linux
 - [terraform-provider-gsuite](https://github.com/paultyng/terraform-provider-gsuite) - Terraform Provider for GSuite (currently Calendar and Sheets)
@@ -826,6 +828,9 @@
 
 ## HTML 
 
+- [oxshef_shiny](https://github.com/OxShef/oxshef_shiny) - Deploying interactive data visualisations built with R to the web with Shiny
+- [R-Google-Analytics-Examples](https://github.com/adamribaudo/R-Google-Analytics-Examples) - A repository filled with examples of where the data-wrangling and statistical modeling power of R can be applied towards Google Analytics data.
+- [parcel](https://github.com/JohnCoene/parcel) - Parcel for R
 - [demo-rmd-snow](https://github.com/emilyriederer/demo-rmd-snow) - 
 - [2020-RStudio-Table-Contest-Entry2](https://github.com/kcuilla/2020-RStudio-Table-Contest-Entry2) - 
 - [cran-task-views](https://github.com/jimbrig/cran-task-views) - CRAN Task Views and Shiny App https://cran-task-views.jimbrig.com
@@ -1054,7 +1059,7 @@
 - [tidymodels.org](https://github.com/tidymodels/tidymodels.org) - Source of tidymodels.org
 - [pattern.css](https://github.com/bansal-io/pattern.css) - CSS only library to fill empty background with beautiful patterns.
 - [mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
-- [wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 📝 The website builder for Hugo. Build and deploy a beautiful website in minutes!
+- [wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 🔥 The website builder for Hugo. Build and deploy a beautiful website in minutes!
 - [process-handbook](https://github.com/dwyl/process-handbook) - :green_book: Contains our processes, questions and journey to creating ateam
 - [data-science-in-education](https://github.com/data-edu/data-science-in-education) - Repository for 'Data Science in Education Using R' by Emily A. Bovee, Ryan A. Estrellado, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez to be published by Routledge in 2020
 - [lgr](https://github.com/s-fleck/lgr) - A fully featured logging framework for R
@@ -1226,6 +1231,7 @@
 
 ## JavaScript 
 
+- [bootstrap-select](https://github.com/snapappointments/bootstrap-select) - :rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
 - [Inputmask](https://github.com/RobinHerbots/Inputmask) - Input Mask plugin
 - [pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [booster.js](https://github.com/xiaoyang-liu-cs/booster.js) - The speed and performance optimizier for your website, delivering fast web experiences to users.
@@ -1969,6 +1975,7 @@
 
 ## Nunjucks 
 
+- [smolcss](https://github.com/5t3ph/smolcss) - Minimal snippets for modern CSS layouts and components
 - [tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
 
 ## OCaml 
@@ -1991,6 +1998,7 @@
 
 ## Others 
 
+- [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems) - A curated list to learn about distributed systems
 - [docs.getdbt.com](https://github.com/emilyriederer/docs.getdbt.com) - The code behind docs.getdbt.com
 - [dbt_dplyr](https://github.com/emilyriederer/dbt_dplyr) - dbt package mimicking dplyr select-helpers semantics
 - [docker-rweb](https://github.com/rinproduction/docker-rweb) - 
@@ -2810,6 +2818,7 @@
 
 ## Python 
 
+- [ProjectManager](https://github.com/randy3k/ProjectManager) - Project Manager for Sublime Text
 - [simplefastapi](https://github.com/gonzalezben81/simplefastapi) - Simple Dockerfile to create a working fastapi example
 - [devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [Obsidian-Markdown-Parser](https://github.com/danymat/Obsidian-Markdown-Parser) - This repository will give you tools to parse and fetch useful informations of your notes in your Obsidian vault.
@@ -3110,6 +3119,13 @@
 
 ## R 
 
+- [golemexamples](https://github.com/ColinFay/golemexamples) - Gathering in one place some {golem} examples
+- [pkgload](https://github.com/r-lib/pkgload) - Simulate installing and loading a package
+- [gtfstools](https://github.com/ipeaGIT/gtfstools) - General Transit Feed Specification (GTFS) Editing and Analysing Tools
+- [shiny-appengine-demo](https://github.com/randy3k/shiny-appengine-demo) - Running Shiny app on Google App Engine
+- [retry](https://github.com/ramhiser/retry) - R Package to Retry Any Function
+- [badgecreatr](https://github.com/RMHogervorst/badgecreatr) - Quickly place relevant badges at the top of your readme, stop copy pasting, start on your project
+- [testshiny](https://github.com/RMHogervorst/testshiny) - 
 - [EndoMineR](https://github.com/sebastiz/EndoMineR) - Endoscopic and Pathological data extraction for various endo-pathological data extraction
 - [shinyEndomineR](https://github.com/sebastiz/shinyEndomineR) - A Shiny interface to the EndomineR package
 - [rheroicons](https://github.com/davidruvolo51/rheroicons) - The heroicons library for R 🖼️
@@ -4781,7 +4797,7 @@
 - [jobstatus](https://github.com/ropenscilabs/jobstatus) - Send Job Information Between Functions and Processes
 - [pkginspector](https://github.com/ropenscilabs/pkginspector) - An R package that provides tools to review other R packages
 - [dirdf](https://github.com/ropenscilabs/dirdf) - R package: dirdf - Extracts Metadata from Directory and File Names
-- [icon](https://github.com/mitchelloharawild/icon) - R package to easily insert web icons to RMarkdown
+- [icons](https://github.com/mitchelloharawild/icons) - R package to easily insert web icons to RMarkdown
 - [fstplyr](https://github.com/krlmlr/fstplyr) - A dplyr interface to fst
 - [metadatar](https://github.com/annakrystalli/metadatar) - Tools for creating metadata files for reproducible research.
 - [optiRum](https://github.com/lockedata/optiRum) - R Package 📦 of useful helper functions from Optimum Credit :moneybag:
@@ -5341,6 +5357,7 @@
 
 ## Ruby 
 
+- [Molinillo](https://github.com/CocoaPods/Molinillo) - A generic dependency resolution algorithm.
 - [fiber-note](https://github.com/namiwang/fiber-note) - A networked note-taking app, open and self-hosted, inspired by roam-research, obsidian and others.
 - [linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [pgcp](https://github.com/holistics/pgcp) - Copying tables between Postgres databases (for analytics purpose)
@@ -5528,7 +5545,7 @@
 - [WSL-Being-Productive-Under-Corporate-Restrictive-Policy](https://github.com/Menziess/WSL-Being-Productive-Under-Corporate-Restrictive-Policy) - Installing WSL (Windows Subsystem for Linux) under corporate restrictions such as Windows Store blocked, executable downloading blocked, network access blocked.
 - [win10andwsldev](https://github.com/kdcllc/win10andwsldev) - Windows 10 and Windows Linux Subsystem Development Setup
 - [dotfiles](https://github.com/NikiforovAll/dotfiles) - allows to bootstrap dev environment ⚙
-- [dotfiles](https://github.com/wafflepie/dotfiles) - 🧰 Handcrafted dotfiles for web developers running Ubuntu for WSL. Ridiculously easy to set up, maintain, and extend.
+- [dotfiles](https://github.com/wafflepie/dotfiles) - 🧰 Handcrafted dotfiles for web developers running Fedora, macOS, or Ubuntu for WSL. Ridiculously easy to set up, maintain, and extend.
 - [dotfiles](https://github.com/neersighted/dotfiles) - ~/.dotfiles
 - [slinky](https://github.com/cpdt/slinky) - Run Bash commands from Windows Command Prompt, natively!
 - [wsl-docker-git-setup](https://github.com/jmaxwilson/wsl-docker-git-setup) - Shell script to configure Windows Subsystem for Linux (WSL) & Ubuntu on Windows to use docker and docker-compose as well as a git-enabled prompt
@@ -5794,6 +5811,8 @@
 
 ## TypeScript 
 
+- [git-notify](https://github.com/jevakallio/git-notify) - 🙉 📣 Communicate important updates to your team via git commit messages
+- [create-an-issue](https://github.com/JasonEtco/create-an-issue) - A GitHub Action for creating a new issue from a template file.
 - [publish](https://github.com/obsidian-userland/publish) - Open source Obsidian Publish alternative
 - [obsidian-readwise-sync](https://github.com/skalnik/obsidian-readwise-sync) - Sync Readwise Highlights to Obsidian
 - [obsidian-query-language](https://github.com/jplattel/obsidian-query-language) - An Obsidian plugin allowing you to query your notes
