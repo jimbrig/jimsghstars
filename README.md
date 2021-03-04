@@ -296,7 +296,7 @@
 - [optimizer](https://github.com/hellzerg/optimizer) - Make Windows faster and more secure
 - [Luna](https://github.com/adrianmteo/Luna) - Automatic dark mode for Windows 10
 - [Windows-Auto-Night-Mode](https://github.com/Armin2208/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10
-- [WindowsCommunityToolkit](https://github.com/windows-toolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP and .NET apps for Windows 10. The toolkit is part of the .NET Foundation.
+- [WindowsCommunityToolkit](https://github.com/windows-toolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building UWP and .NET apps for Windows 10. The toolkit is part of the .NET Foundation.
 - [PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
 - [OotD](https://github.com/mscrivo/OotD) - Outlook on the Desktop (OotD)
 - [Integration](https://github.com/microsoft/Integration) - Public repository for Microsoft Integration open source samples, code and tools
@@ -322,6 +322,7 @@
 
 ## C++ 
 
+- [AStartupCookbook](https://github.com/CookingWithCale/AStartupCookbook) - An open-source book on how to invent, launch, and run a startup with I am You Language (IMUL).
 - [isoband](https://github.com/wilkelab/isoband) - isoband: An R package to generate contour lines and polygons.
 - [libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 - [rstudio-launcher-plugin-sdk](https://github.com/rstudio/rstudio-launcher-plugin-sdk) - The RStudio Launcher Plugin SDK is a software development kit used to create plugins that integrate orchestration tools with the RStudio Job Launcher.
@@ -653,6 +654,7 @@
 
 ## Go 
 
+- [oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
 - [zdns](https://github.com/zmap/zdns) - Fast CLI DNS Lookup Tool
 - [terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider
 - [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
@@ -737,7 +739,7 @@
 - [go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars) - :star: Web frameworks for Go, most starred on GitHub
 - [volcano](https://github.com/volcano-sh/volcano) - A Kubernetes Native Batch System (Project under CNCF)
 - [yarr](https://github.com/nkanaev/yarr) - yet another rss reader
-- [seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed object store and file system to store and serve billions of files fast! Object store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
+- [seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed blob store and file system to store and serve billions of files fast! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
 - [bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [cache2go](https://github.com/muesli/cache2go) - Concurrency-safe Go caching library with expiration capabilities and access counters
 - [gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go
@@ -828,6 +830,7 @@
 
 ## HTML 
 
+- [dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates 📊✨
 - [oxshef_shiny](https://github.com/OxShef/oxshef_shiny) - Deploying interactive data visualisations built with R to the web with Shiny
 - [R-Google-Analytics-Examples](https://github.com/adamribaudo/R-Google-Analytics-Examples) - A repository filled with examples of where the data-wrangling and statistical modeling power of R can be applied towards Google Analytics data.
 - [parcel](https://github.com/JohnCoene/parcel) - Parcel for R
@@ -882,7 +885,6 @@
 - [about-css](https://github.com/ReneNyffenegger/about-css) - Small css examples
 - [about-html](https://github.com/ReneNyffenegger/about-html) - Small html examples
 - [about-Document-Object-Model](https://github.com/ReneNyffenegger/about-Document-Object-Model) - small examples for the Document Object Model (DOM).
-- [personalsit.es](https://github.com/xdesro/personalsit.es) - 📇 A little directory of people's personal sites
 - [til](https://github.com/Jeonghun-Ban/til) - Today I Learned 🔥
 - [preferably](https://github.com/amirmasoudabdol/preferably) - An accessible template for `pkgdown` websites with dynamic light/dark mode support
 - [htmlvault](https://github.com/dirkschumacher/htmlvault) - Encrypt files in self-decrypting html files using libsodium
@@ -1231,6 +1233,8 @@
 
 ## JavaScript 
 
+- [urlpages](https://github.com/jstrieb/urlpages) - Create and view web pages stored entirely in the URL
+- [yo](https://github.com/yeoman/yo) - CLI tool for running Yeoman generators
 - [bootstrap-select](https://github.com/snapappointments/bootstrap-select) - :rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
 - [Inputmask](https://github.com/RobinHerbots/Inputmask) - Input Mask plugin
 - [pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
@@ -1665,7 +1669,7 @@
 - [stat-distributions-js](https://github.com/richarddmorey/stat-distributions-js) - Javascript library for the visualization of statistical distributions
 - [awesome-libraries](https://github.com/sourcerer-io/awesome-libraries) - :sunglasses: Libraries that are being shown in Sourcerer profiles.
 - [foam-template-gatsby-search](https://github.com/ingalless/foam-template-gatsby-search) - Foam template, built with Gatsby, plus search
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2021)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2021)
 - [DocumentTemplate](https://github.com/renrousousuo/DocumentTemplate) - 文件 Markdown 格式。方便书写各种文档。
 - [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -1837,7 +1841,7 @@
 - [excelR](https://github.com/Swechhya/excelR) - An Interface to 'jExcel.js' Library
 - [r-shiny-electron](https://github.com/dirkschumacher/r-shiny-electron) - WIP: Electron and R shiny
 - [github-calendar](https://github.com/Bloggify/github-calendar) - :bar_chart: Embed your GitHub calendar everywhere.
-- [highlight.js](https://github.com/highlightjs/highlight.js) - Javascript syntax highlighter
+- [highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection.
 - [stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
 - [reactR](https://github.com/react-R/reactR) - React for R
 - [pinpoint](https://github.com/daranzolin/pinpoint) - Interactively explore points within a distribution :pushpin:
@@ -1976,6 +1980,7 @@
 ## Nunjucks 
 
 - [smolcss](https://github.com/5t3ph/smolcss) - Minimal snippets for modern CSS layouts and components
+- [personalsit.es](https://github.com/xdesro/personalsit.es) - 📇 A little directory of people's personal sites
 - [tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
 
 ## OCaml 
@@ -1998,6 +2003,14 @@
 
 ## Others 
 
+- [by_row](https://github.com/mjskay/by_row) - A proposal for an alternative to rowwise() and mutate() + map()
+- [toolmaker-docs](https://github.com/CHCP/toolmaker-docs) - Toolmaker website.
+- [awesome-technical-communication](https://github.com/lilin90/awesome-technical-communication) - 😎 A curated list of awesome resources about technical communication
+- [sadd](https://github.com/bp4you/sadd) - SADD makes it easier for Software Development Teams to create high qualitative solutions and products for the sake of well designed System and Software Architecture.  You'll no longer have to know all of world wide SW development methodologies so as they are incorporated in SADD.
+- [SRS](https://github.com/itsazzad/SRS) - Systems and software engineering — Life cycle processes — Requirements engineering
+- [docs-taxonomy](https://github.com/MicrosoftDocs/docs-taxonomy) - Latest taxonomy table markdowns
+- [MarkdownSoftwareEngineering](https://github.com/CookingWithCale/MarkdownSoftwareEngineering) - Software engineering markdown templates, including Requirements Analysis Document and Software Design Document.
+- [srsdoc](https://github.com/leonardochang36/srsdoc) - A software requirements specification is the basis for your entire project. It lays the framework that every team involved in development will follow. Here you can find an easy to use template.
 - [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems) - A curated list to learn about distributed systems
 - [docs.getdbt.com](https://github.com/emilyriederer/docs.getdbt.com) - The code behind docs.getdbt.com
 - [dbt_dplyr](https://github.com/emilyriederer/dbt_dplyr) - dbt package mimicking dplyr select-helpers semantics
@@ -2689,6 +2702,9 @@
 
 ## PowerShell 
 
+- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
+- [windows-itpro-docs](https://github.com/MicrosoftDocs/windows-itpro-docs) - This is used for contributions to the Windows 10 content for IT professionals on docs.microsoft.com.
+- [dbatools](https://github.com/sqlcollaborative/dbatools) - 🚀 SQL Server automation and instance migrations have never been safer, faster or freer
 - [DockerCompletion](https://github.com/matt9ucci/DockerCompletion) - Docker command completion for PowerShell.
 - [choco-r-devel](https://github.com/leeper/choco-r-devel) - Chocolatey package for r-devel
 - [choco-rtools](https://github.com/leeper/choco-rtools) - Chocolatey package for Rtools
@@ -2818,6 +2834,7 @@
 
 ## Python 
 
+- [strictdoc](https://github.com/strictdoc-project/strictdoc) - Software for writing technical requirements and specifications.
 - [ProjectManager](https://github.com/randy3k/ProjectManager) - Project Manager for Sublime Text
 - [simplefastapi](https://github.com/gonzalezben81/simplefastapi) - Simple Dockerfile to create a working fastapi example
 - [devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
@@ -3119,6 +3136,7 @@
 
 ## R 
 
+- [ggdist](https://github.com/mjskay/ggdist) - Visualizations of distributions and uncertainty
 - [golemexamples](https://github.com/ColinFay/golemexamples) - Gathering in one place some {golem} examples
 - [pkgload](https://github.com/r-lib/pkgload) - Simulate installing and loading a package
 - [gtfstools](https://github.com/ipeaGIT/gtfstools) - General Transit Feed Specification (GTFS) Editing and Analysing Tools
@@ -4686,12 +4704,12 @@
 - [keyring](https://github.com/r-lib/keyring) - :closed_lock_with_key: Access the system credential store from R
 - [littleboxes](https://github.com/ThinkR-open/littleboxes) - Rstudio Addin - create boxed title in an Rscript
 - [reproducible-reserving](https://github.com/actuarialvoodoo/reproducible-reserving) - An example workflow for actuarial reserving using R/Rmarkdown
-- [fflr](https://github.com/kiernann/fflr) - R package to query the ESPN fantasy football API 🏈
+- [fflr](https://github.com/kiernann/fflr) - Get ESPN fantasy football data in R
 - [rusk](https://github.com/ThinkR-open/rusk) - Multiplication Tables On a Modular Circle
 - [prettyunits](https://github.com/r-lib/prettyunits) - Pretty, human readable formatting of quantities
 - [DatawRappr](https://github.com/munichrocker/DatawRappr) - R-Package to connect to the Datawrapper-API
 - [proffer](https://github.com/r-prof/proffer) - Profile R code with pprof
-- [gluedown](https://github.com/kiernann/gluedown) - R package to wrap vectors in markdown syntax
+- [gluedown](https://github.com/kiernann/gluedown) - Wrap R vectors in markdown syntax
 - [reprohack-hq](https://github.com/reprohack/reprohack-hq) - ReproHack Headquarters
 - [metaplot](https://github.com/markvanderloo/metaplot) - Plotting routines for meta-analyses
 - [mobileCharts](https://github.com/RinteRface/mobileCharts) - Mobile friendly charts with a familiar syntax
@@ -5725,6 +5743,7 @@
 
 ## Swift 
 
+- [Sourcery](https://github.com/krzysztofzablocki/Sourcery) - Meta-programming for Swift, stop writing boilerplate code.
 - [WebShell](https://github.com/djyde/WebShell) - Bundle web apps to native OS X app
 - [tagged-github-stars](https://github.com/dongyuwei/tagged-github-stars) - A native Mac App to manage your Github stars with custom tags, powered by SwiftUI and SQLite.
 - [AppIconGenerator](https://github.com/pawello2222/AppIconGenerator) - A library for creating App Icons from SwiftUI views
@@ -6058,6 +6077,8 @@
 
 ## Visual Basic .NET 
 
+- [VBA_personal](https://github.com/Vitosh/VBA_personal) - Excel personal VBA files in the personal.xlsb
+- [Reporting-Services-examples](https://github.com/SQL-Server-projects/Reporting-Services-examples) - :closed_book: Various example reports I use for SQL Server Reporting Services (SSRS) as well as documents for unit testing, requirements and a style guide template.
 - [Winapp2](https://github.com/MoscaDotTo/Winapp2) - A database of extended cleaning routines for popular Windows PC based maintenance software.
 - [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) - Center Windows taskbar icons with a variety of animations and options.
 
