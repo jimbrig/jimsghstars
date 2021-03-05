@@ -31,7 +31,6 @@
   - [HCL](#hcl)
   - [HTML](#html)
   - [Haml](#haml)
-  - [Handlebars](#handlebars)
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
@@ -97,6 +96,7 @@
 
 ## AutoHotkey 
 
+- [AutoHotkey](https://github.com/denolfe/AutoHotkey) - :gear: My Autohotkey productivity suite that includes shortcuts, hotstrings, hotkeys, apps/utilities, AutoCorrect
 - [qnote-ahk](https://github.com/mrjackphil/qnote-ahk) - Quick AHK script for fast note creation
 - [dotfiles-windows](https://github.com/pallxk/dotfiles-windows) - Various config files, registry hacks, and shell scripts for Windows
 - [Zotero-Citation-Picker-for-Windows](https://github.com/boan-anbo/Zotero-Citation-Picker-for-Windows) - An AHK-based application to search and pick Zotero citations on Windows.
@@ -104,6 +104,7 @@
 
 ## Batchfile 
 
+- [windows-scripts](https://github.com/JoePlant/windows-scripts) - A set of scripts that I use to manage my laptop
 - [pint](https://github.com/vensko/pint) - A single-file command-line package manager for Windows.
 - [bget](https://github.com/jahwi/bget) - A package manager for Windows scripts.
 - [Configure-Windows](https://github.com/ReneNyffenegger/Configure-Windows) - Some scripts to configure Windows so that I can use it.
@@ -125,6 +126,7 @@
 
 ## C 
 
+- [tcl](https://github.com/tcltk/tcl) - The Tcl Core. (Mirror of core.tcl-lang.org)
 - [nuster](https://github.com/jiangwenyuan/nuster) - A high performance HTTP proxy cache server and RESTful NoSQL cache server based on HAProxy
 - [haproxy](https://github.com/haproxy/haproxy) - HAProxy Load Balancer's development branch (mirror of git.haproxy.org)
 - [ssh](https://github.com/ropensci/ssh) - Native SSH client in R based on libssh
@@ -147,7 +149,7 @@
 - [sys](https://github.com/jeroen/sys) - Powerful replacements for base::system2
 - [development-references](https://github.com/robenkleene/development-references) - References for programming tools.
 - [longears](https://github.com/atheriel/longears) - A RabbitMQ client for R
-- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
+- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
 - [yori](https://github.com/malxau/yori) - Yori is a CMD replacement shell that supports backquotes, job control, and improves tab completion, file matching, aliases, command history, and more.
 - [colorout](https://github.com/jalvesaq/colorout) - Colorize R output in terminal emulators
@@ -208,6 +210,7 @@
 
 ## C# # 
 
+- [runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 - [PathEd](https://github.com/awaescher/PathEd) - 📌 A deployable tool to add or remove values from the Windows PATH variable.
 - [BlogOps](https://github.com/laurentkempe/BlogOps) - Tool to operate my blog.
 - [CandyShop](https://github.com/weberjonathan/CandyShop) - Lightweight Chocolatey UI to manage installed applications
@@ -322,6 +325,7 @@
 
 ## C++ 
 
+- [zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [AStartupCookbook](https://github.com/CookingWithCale/AStartupCookbook) - An open-source book on how to invent, launch, and run a startup with I am You Language (IMUL).
 - [isoband](https://github.com/wilkelab/isoband) - isoband: An R package to generate contour lines and polygons.
 - [libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
@@ -568,7 +572,7 @@
 - [yesql](https://github.com/krisajenkins/yesql) - A Clojure library for using SQL.
 - [athens](https://github.com/athensresearch/athens) - Desktop app links: https://tinyurl.com/athens-mac, https://tinyurl.com/athens-windows, https://tinyurl.com/athens-linux; paid tiers available through https://opencollective.com/athens; try the demo at https://athensresearch.github.io/athens
 - [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
-- [logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend now, backend later) platform for knowledge sharing and management. Desktop app download link: https://github.com/logseq/logseq/releases
+- [logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend now, backend later) platform for knowledge sharing and management. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [drake](https://github.com/Factual/drake) - Data workflow tool, like a "Make for data"
 
 ## CoffeeScript 
@@ -654,6 +658,7 @@
 
 ## Go 
 
+- [doko](https://github.com/egoist/doko) - A docker-based development dependency manager.
 - [oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
 - [zdns](https://github.com/zmap/zdns) - Fast CLI DNS Lookup Tool
 - [terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider
@@ -830,6 +835,8 @@
 
 ## HTML 
 
+- [SDS375](https://github.com/wilkelab/SDS375) - SDS 375 Data Visualization in R
+- [reactable-presentation](https://github.com/jthomasmock/reactable-presentation) - 
 - [dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates 📊✨
 - [oxshef_shiny](https://github.com/OxShef/oxshef_shiny) - Deploying interactive data visualisations built with R to the web with Shiny
 - [R-Google-Analytics-Examples](https://github.com/adamribaudo/R-Google-Analytics-Examples) - A repository filled with examples of where the data-wrangling and statistical modeling power of R can be applied towards Google Analytics data.
@@ -1061,7 +1068,7 @@
 - [tidymodels.org](https://github.com/tidymodels/tidymodels.org) - Source of tidymodels.org
 - [pattern.css](https://github.com/bansal-io/pattern.css) - CSS only library to fill empty background with beautiful patterns.
 - [mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
-- [wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 🔥 The website builder for Hugo. Build and deploy a beautiful website in minutes!
+- [wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 🔥 The website builder for Hugo. No code, build with widgets! 创建在线课程，学术简历或初创网站。
 - [process-handbook](https://github.com/dwyl/process-handbook) - :green_book: Contains our processes, questions and journey to creating ateam
 - [data-science-in-education](https://github.com/data-edu/data-science-in-education) - Repository for 'Data Science in Education Using R' by Emily A. Bovee, Ryan A. Estrellado, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez to be published by Routledge in 2020
 - [lgr](https://github.com/s-fleck/lgr) - A fully featured logging framework for R
@@ -1176,10 +1183,6 @@
 
 - [keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
 
-## Handlebars 
-
-- [electronjs.org](https://github.com/electron/electronjs.org) - Electron website
-
 ## Haskell 
 
 - [postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
@@ -1195,6 +1198,7 @@
 
 ## Java 
 
+- [MaterialAbout](https://github.com/jrvansuita/MaterialAbout) - It's a material-design about screen to use on your Android apps. A developer profile and application information easy to integrate. 🔖
 - [dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [apollo](https://github.com/ctripcorp/apollo) - Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。
 - [CDM](https://github.com/microsoft/CDM) - The Common Data Model (CDM) is a standard and extensible collection of schemas (entities, attributes, relationships) that represents business concepts and activities with well-defined semantics, to facilitate data interoperability. Examples of entities include: Account, Contact, Lead, Opportunity, Product, etc.
@@ -1233,6 +1237,9 @@
 
 ## JavaScript 
 
+- [google-domain-verify](https://github.com/brh55/google-domain-verify) - :rocket: Quick way to verify domains and subdomains in order to begin working with Google webhook services
+- [maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
+- [Deer](https://github.com/abahmed/Deer) - :pencil2:A modern, fast, beautiful note taking app, built on Electron and React
 - [urlpages](https://github.com/jstrieb/urlpages) - Create and view web pages stored entirely in the URL
 - [yo](https://github.com/yeoman/yo) - CLI tool for running Yeoman generators
 - [bootstrap-select](https://github.com/snapappointments/bootstrap-select) - :rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
@@ -1765,6 +1772,7 @@
 - [todo](https://github.com/JasonEtco/todo) - 🤖✅ GitHub App that creates new issues from actionable comments in your code.
 - [Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for developers on Mac, Windows and Linux.
 - [academic-kickstart](https://github.com/jhrcook/academic-kickstart) - Personal website made user Academic & Hugo, hosted on Netlify
+- [electronjs.org](https://github.com/electron/electronjs.org) - Electron website
 - [textych](https://github.com/daranzolin/textych) - Create interactive text parallels :page_with_curl: :page_with_curl: :page_with_curl:
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 - [shiny-server](https://github.com/rstudio/shiny-server) - Host Shiny applications over the web.
@@ -2702,6 +2710,8 @@
 
 ## PowerShell 
 
+- [win10-setup](https://github.com/hmerritt/win10-setup) - Windows 10 setup scripts for fresh installs
+- [PowerShell-Scripts](https://github.com/nickrod518/PowerShell-Scripts) - PowerShell scripts ranging from SCCM, MSO, AD, and other corporate enterprise uses... to sending cat facts to coworkers.
 - [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
 - [windows-itpro-docs](https://github.com/MicrosoftDocs/windows-itpro-docs) - This is used for contributions to the Windows 10 content for IT professionals on docs.microsoft.com.
 - [dbatools](https://github.com/sqlcollaborative/dbatools) - 🚀 SQL Server automation and instance migrations have never been safer, faster or freer
@@ -3136,6 +3146,8 @@
 
 ## R 
 
+- [DatabaseConnector](https://github.com/OHDSI/DatabaseConnector) - An R package for connecting to databases using JDBC.
+- [espnscrapeR](https://github.com/jthomasmock/espnscrapeR) - Scrapes Or Collects NFL Data From ESPN
 - [ggdist](https://github.com/mjskay/ggdist) - Visualizations of distributions and uncertainty
 - [golemexamples](https://github.com/ColinFay/golemexamples) - Gathering in one place some {golem} examples
 - [pkgload](https://github.com/r-lib/pkgload) - Simulate installing and loading a package
@@ -5375,6 +5387,7 @@
 
 ## Ruby 
 
+- [hookable](https://github.com/kdaigle/hookable) - A simple app that accepts and stores webhook deliveries.
 - [Molinillo](https://github.com/CocoaPods/Molinillo) - A generic dependency resolution algorithm.
 - [fiber-note](https://github.com/namiwang/fiber-note) - A networked note-taking app, open and self-hosted, inspired by roam-research, obsidian and others.
 - [linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
@@ -5424,6 +5437,7 @@
 
 ## Rust 
 
+- [tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [sentry-cli](https://github.com/getsentry/sentry-cli) - A command line utility to work with Sentry.
 - [topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
@@ -5515,6 +5529,13 @@
 
 ## Shell 
 
+- [cached-clone](https://github.com/larsxschneider/cached-clone) - Clone a repository and leverage a local cache.
+- [scotty](https://github.com/larsxschneider/scotty) - Helper scripts for GitHub Enterprise admins
+- [scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Scripts to Rule Them All
+- [platform-samples](https://github.com/github/platform-samples) - A public place for all platform sample projects.
+- [action-google-drive](https://github.com/satackey/action-google-drive) - GitHub Action to interact with Google Drive
+- [keeporsweep.net](https://github.com/keeporsweep/keeporsweep.net) - 💻🔀🗑️ Randomly declutter your digital life!
+- [wipe-modules](https://github.com/bntzio/wipe-modules) - 🗑️ Easily remove the node_modules folder of non-active projects
 - [gke-mongodb-demo](https://github.com/SymbolixAU/gke-mongodb-demo) - Demo project showing how to deploy MongoDB on the Google Container Engine (GKE) with Kubernetes
 - [notes](https://github.com/nickjj/notes) - A zero dependency shell script that makes it really simple to manage your text notes.
 - [divine-dotfiles](https://github.com/divine-dotfiles/divine-dotfiles) - Divine.dotfiles: The Bash framework for dotfiles and everything Bash
@@ -5830,6 +5851,9 @@
 
 ## TypeScript 
 
+- [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
+- [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
+- [npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.
 - [git-notify](https://github.com/jevakallio/git-notify) - 🙉 📣 Communicate important updates to your team via git commit messages
 - [create-an-issue](https://github.com/JasonEtco/create-an-issue) - A GitHub Action for creating a new issue from a template file.
 - [publish](https://github.com/obsidian-userland/publish) - Open source Obsidian Publish alternative
