@@ -471,7 +471,7 @@
 - [obsidian_nord](https://github.com/insanum/obsidian_nord) - A nord theme for Obsidian
 - [CssGitHubWindows](https://github.com/Athari/CssGitHubWindows) - (UserStyle) GitHub Windows Edition [MIT]
 - [website](https://github.com/ColinFay/website) - Personnal Website
-- [quillt](https://github.com/rstudio/quillt) - 'pkgdown' Template for the R Markdown Ecosystem
+- [quillt](https://github.com/rstudio/quillt) - A pkgdown template for the R Markdown Ecosystem
 - [tidyeval](https://github.com/tidyverse/tidyeval) - A guide to tidy evaluation
 - [obsidian_things](https://github.com/rcvd/obsidian_things) - A clean and minimal theme for obsidian, heavily inspired by Things.
 - [Obsdn-dark-rmx](https://github.com/cannibalox/Obsdn-dark-rmx) - a Theme for Obsidian.md - Light & Dark version
@@ -1418,7 +1418,7 @@
 - [pgtune](https://github.com/le0pard/pgtune) - Pgtune - tuning PostgreSQL config by your hardware
 - [quicksettings](https://github.com/bit101/quicksettings) - JavaScript library for making a quick settings panel to control code parameters.
 - [browser-extension](https://github.com/dnote/browser-extension) - Instantly take encrypted notes inside Chrome or Firefox
-- [learning-notes](https://github.com/slowernews/learning-notes) - Notes on programming, Portuguese taxes, Polish language .. (WIP)
+- [notebook](https://github.com/slowernews/notebook) - Notes on programming, Portuguese taxes, Polish language .. (WIP)
 - [notebook](https://github.com/wayanjimmy/notebook) - Personal notes
 - [foamy-nextjs](https://github.com/yenly/foamy-nextjs) - Basic Foam + NextJS with MDX starter for building a digital garden
 - [dschapman-com](https://github.com/dschapman/dschapman-com) - Gatsby Blog built as a digital garden. It's is meant to be curated, read, and explored. Trying to think about this as a place I want to use first and foremost.
@@ -2011,6 +2011,7 @@
 
 ## Others 
 
+- [pre-commit](https://github.com/lorenzwalthert/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [by_row](https://github.com/mjskay/by_row) - A proposal for an alternative to rowwise() and mutate() + map()
 - [toolmaker-docs](https://github.com/CHCP/toolmaker-docs) - Toolmaker website.
 - [awesome-technical-communication](https://github.com/lilin90/awesome-technical-communication) - 😎 A curated list of awesome resources about technical communication
@@ -2827,7 +2828,7 @@
 - [windows](https://github.com/equk/windows) - 💎 tweaks & fixes for windows 10 - mostly powershell
 - [Win10Script](https://github.com/madbomb122/Win10Script) - Win 10 Powershell Script to tweak and change windows settings
 - [scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
-- [Windows-10-Sophia-Script](https://github.com/farag2/Windows-10-Sophia-Script) - :zap: A powerful PowerShell module for fine-tuning Windows 10
+- [Windows-10-Sophia-Script](https://github.com/farag2/Windows-10-Sophia-Script) - :zap: A powerful PowerShell module for fine-tuning and tweaking Windows 10
 - [Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 - [universal-dashboard](https://github.com/ironmansoftware/universal-dashboard) - Build beautiful websites with PowerShell.
 - [Zotero-Obdisian-Picker-Windows](https://github.com/AlexanderSavenkov/Zotero-Obdisian-Picker-Windows) - Allows you to call up a Zotero picker from within Obsidian in Windows 10
@@ -2844,6 +2845,7 @@
 
 ## Python 
 
+- [IssueRelocate](https://github.com/jotweh/IssueRelocate) - RZGithubUtils
 - [strictdoc](https://github.com/strictdoc-project/strictdoc) - Software for writing technical requirements and specifications.
 - [ProjectManager](https://github.com/randy3k/ProjectManager) - Project Manager for Sublime Text
 - [simplefastapi](https://github.com/gonzalezben81/simplefastapi) - Simple Dockerfile to create a working fastapi example
@@ -3146,6 +3148,9 @@
 
 ## R 
 
+- [airbrake-client-r](https://github.com/adjust/airbrake-client-r) - An R client for the Airbrake API
+- [AnomalyDetection](https://github.com/twitter/AnomalyDetection) - Anomaly Detection with R
+- [api-client-r](https://github.com/adjust/api-client-r) - an R client for the KPI service https://docs.adjust.com/en/kpi-service/
 - [DatabaseConnector](https://github.com/OHDSI/DatabaseConnector) - An R package for connecting to databases using JDBC.
 - [espnscrapeR](https://github.com/jthomasmock/espnscrapeR) - Scrapes Or Collects NFL Data From ESPN
 - [ggdist](https://github.com/mjskay/ggdist) - Visualizations of distributions and uncertainty
