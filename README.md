@@ -3148,6 +3148,7 @@
 
 ## R 
 
+- [monthApp](https://github.com/hadley/monthApp) - An example of a Shiny app-package
 - [airbrake-client-r](https://github.com/adjust/airbrake-client-r) - An R client for the Airbrake API
 - [AnomalyDetection](https://github.com/twitter/AnomalyDetection) - Anomaly Detection with R
 - [api-client-r](https://github.com/adjust/api-client-r) - an R client for the KPI service https://docs.adjust.com/en/kpi-service/
@@ -3873,7 +3874,7 @@
 - [cleandata](https://github.com/sherrisherry/cleandata) - R Package "cleandata"
 - [wibble](https://github.com/mkearney/wibble) - Web Data Frames
 - [edX](https://github.com/nrwade0/edX) - Data Science courses in R from HarvardX
-- [shinybrms](https://github.com/fweber144/shinybrms) - An R package providing a GUI (Shiny app) for the R package "brms".
+- [shinybrms](https://github.com/fweber144/shinybrms) - An R package providing a GUI ('shiny' app) for the R package 'brms'.
 - [msglooker](https://github.com/gadenbuie/msglooker) - A Shiny App to View And Export Outlook Messages
 - [r-web-scraping-cheat-sheet](https://github.com/yusuzech/r-web-scraping-cheat-sheet) - Guide, reference and cheatsheet on web scraping using rvest, httr and Rselenium.
 - [palette2vec](https://github.com/EmilHvitfeldt/palette2vec) - Technique to Embed Color Palettes to Multidimensional Space
@@ -5916,7 +5917,7 @@
 - [brain](https://github.com/jmoyers/brain) - Brain: Take and Organize Notes
 - [zettel-lint](https://github.com/zettel-lint/zettel-lint) - A linter/compiler for markdown-based Zettelkasten git repositories
 - [vscode-notes](https://github.com/hacdias/vscode-notes) - Note-taking helper extension for VSCode
-- [opensource-portal](https://github.com/microsoft/opensource-portal) - Microsoft's GitHub-at-scale self-service monolithic portal
+- [opensource-portal](https://github.com/microsoft/opensource-portal) - Microsoft's monolithic GitHub Management Portal enabling enterprise scale self-service powered by the GitHub API 🏔🧑‍💻🧰
 - [git-project-manager](https://github.com/felipecaputo/git-project-manager) - A Git Project Manager extension for vsCode
 - [MagicBox](https://github.com/akatrukhin/MagicBox) - Organize your workspace, keep files optimized, prepare images for publishing
 - [grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
