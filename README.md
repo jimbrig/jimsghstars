@@ -501,7 +501,6 @@
 - [shinyInputs](https://github.com/Beachnad/shinyInputs) - 
 - [shinysteps](https://github.com/jpmarindiaz/shinysteps) - 
 - [shinyGEO](https://github.com/jasdumas/shinyGEO) - Gene Expression Omnibus Analysis with Shiny :microscope:
-- [xaringanExtra](https://github.com/gadenbuie/xaringanExtra) - :ferris_wheel: A playground of enhancements and extensions for xaringan slides.
 - [xaringan](https://github.com/yihui/xaringan) - Presentation Ninja 幻灯忍者 · 写轮眼
 - [colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
 - [normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
@@ -570,7 +569,7 @@
 ## Clojure 
 
 - [yesql](https://github.com/krisajenkins/yesql) - A Clojure library for using SQL.
-- [athens](https://github.com/athensresearch/athens) - Desktop app links: https://tinyurl.com/athens-mac, https://tinyurl.com/athens-windows, https://tinyurl.com/athens-linux; paid tiers available through https://opencollective.com/athens; try the demo at https://athensresearch.github.io/athens
+- [athens](https://github.com/athensresearch/athens) - Desktop app links: https://tinyurl.com/athens-mac, https://tinyurl.com/athens-mac-1, https://tinyurl.com/athens-windows, https://tinyurl.com/athens-linux; paid tiers available through https://opencollective.com/athens; try the demo at https://athensresearch.github.io/athens
 - [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 - [logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend now, backend later) platform for knowledge sharing and management. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [drake](https://github.com/Factual/drake) - Data workflow tool, like a "Make for data"
@@ -736,7 +735,7 @@
 - [unipdf](https://github.com/unidoc/unipdf) - Golang PDF library for creating and processing PDF files (pure go)
 - [note-maps](https://github.com/google/note-maps) - A personal knowledge base intended for use on mobile devices.
 - [folder-manager](https://github.com/DataHearth/folder-manager) - Open source folder manager with encryption/decryption feature, watching folders/files.
-- [diskusage](https://github.com/aleksaan/diskusage) - Find top largest folders/files on the disk.
+- [diskusage](https://github.com/aleksaan/diskusage) - FANTASTIC SPEED utility to find out top largest folders/filets on the disk.
 - [blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
 - [maintainer](https://github.com/gaocegege/maintainer) - :octocat: :man_technologist: :whale: Generate personal daily reports or summary, AUTHORS, CONTRIBUTING, CHANGELOG and so on for GitHub user or repository.
 - [limo](https://github.com/lucmski/limo) - A CLI for managing starred Git repositories
@@ -835,6 +834,7 @@
 
 ## HTML 
 
+- [kc_analytics](https://github.com/kcuilla/kc_analytics) - Personal blog made with distill
 - [SDS375](https://github.com/wilkelab/SDS375) - SDS 375 Data Visualization in R
 - [reactable-presentation](https://github.com/jthomasmock/reactable-presentation) - 
 - [dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates 📊✨
@@ -1616,6 +1616,7 @@
 - [d3calmap](https://github.com/jpmarindiaz/d3calmap) - An htmlwidgets binding for calendar heat maps using d3
 - [captureWidget](https://github.com/jpmarindiaz/captureWidget) - 
 - [d3plus](https://github.com/jpmarindiaz/d3plus) - R Htmlwidget for d3plus (http://d3plus.org)
+- [xaringanExtra](https://github.com/gadenbuie/xaringanExtra) - :ferris_wheel: A playground of enhancements and extensions for xaringan slides.
 - [create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
 - [netlify-cms](https://github.com/netlify/netlify-cms) - A Git-based CMS for Static Site Generators
 - [harp](https://github.com/sintaxi/harp) - Static Site Server/Generator with built-in preprocessing
@@ -2011,6 +2012,7 @@
 
 ## Others 
 
+- [ps-modules](https://github.com/ReneNyffenegger/ps-modules) - PowerShell modules
 - [pre-commit](https://github.com/lorenzwalthert/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [by_row](https://github.com/mjskay/by_row) - A proposal for an alternative to rowwise() and mutate() + map()
 - [toolmaker-docs](https://github.com/CHCP/toolmaker-docs) - Toolmaker website.
@@ -3148,6 +3150,10 @@
 
 ## R 
 
+- [OOP-WG](https://github.com/RConsortium/OOP-WG) - Collaboration space for the Object-oriented Programming Working Group
+- [finemapr](https://github.com/variani/finemapr) - Fine-mapping pipeline in R: FINEMAP, CAVIAR, PAINTOR, GCTA-COJO, ABF
+- [mitre](https://github.com/motherhack3r/mitre) - MITRE package gives you an approach to cybersecurity data sets.
+- [RMRF-Code](https://github.com/pcalhoun1/RMRF-Code) - Implements code for RMRF manuscript
 - [monthApp](https://github.com/hadley/monthApp) - An example of a Shiny app-package
 - [airbrake-client-r](https://github.com/adjust/airbrake-client-r) - An R client for the Airbrake API
 - [AnomalyDetection](https://github.com/twitter/AnomalyDetection) - Anomaly Detection with R
@@ -5182,7 +5188,7 @@
 - [pkgbuild](https://github.com/r-lib/pkgbuild) - Find tools needed to build R packages
 - [hoaxy](https://github.com/news-r/hoaxy) - 🤥 Visualizes the spread of claims and related fact checking online.
 - [prodigenr](https://github.com/rostools/prodigenr) - Project directory generator R package
-- [reportfactory](https://github.com/reconhub/reportfactory) - Lightweight infrastructure to handle multiple rmarkdown reports
+- [reportfactory](https://github.com/reconverse/reportfactory) - Lightweight infrastructure to handle multiple rmarkdown reports
 - [arsenal](https://github.com/jimbrig/arsenal) - What the Package Does (One Line, Title Case)
 - [shinyShortcut](https://github.com/Ewan-Keith/shinyShortcut) - Create executable files to run shiny apps directly in your browser
 - [R.filesets](https://github.com/HenrikBengtsson/R.filesets) - R package: R.filesets - Easy Handling of and Access to Files Organized in Structured Directories
@@ -5222,7 +5228,7 @@
 - [beautifyR](https://github.com/mwip/beautifyR) - RStudio addin for formatting Rmarkdown tables
 - [pkgverse](https://github.com/mkearney/pkgverse) - 📦🔭🌠 Create your own universe of packages à la tidyverse
 - [fakin.doc](https://github.com/KWB-R/fakin.doc) - Best Practices in Research Data Management
-- [fledge](https://github.com/krlmlr/fledge) - Wings for your R packages: Streamline the process of versioning R packages and updating NEWS
+- [fledge](https://github.com/cynkra/fledge) - Wings for your R packages: Streamline the process of versioning R packages and updating NEWS
 - [awesome-R](https://github.com/qinwf/awesome-R) - A curated list of awesome R packages, frameworks and software.
 - [pkgdown](https://github.com/r-lib/pkgdown) - Generate static html documentation for an R package
 - [git2rdata](https://github.com/ropensci/git2rdata) - An R package for storing and retrieving data.frames in git repositories.
