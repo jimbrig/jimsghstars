@@ -735,7 +735,7 @@
 - [unipdf](https://github.com/unidoc/unipdf) - Golang PDF library for creating and processing PDF files (pure go)
 - [note-maps](https://github.com/google/note-maps) - A personal knowledge base intended for use on mobile devices.
 - [folder-manager](https://github.com/DataHearth/folder-manager) - Open source folder manager with encryption/decryption feature, watching folders/files.
-- [diskusage](https://github.com/aleksaan/diskusage) - FANTASTIC SPEED utility to find out top largest folders/filets on the disk.
+- [diskusage](https://github.com/aleksaan/diskusage) - FANTASTIC SPEED utility to find out top largest folders/files on the disk.
 - [blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
 - [maintainer](https://github.com/gaocegege/maintainer) - :octocat: :man_technologist: :whale: Generate personal daily reports or summary, AUTHORS, CONTRIBUTING, CHANGELOG and so on for GitHub user or repository.
 - [limo](https://github.com/lucmski/limo) - A CLI for managing starred Git repositories
@@ -2012,8 +2012,8 @@
 
 ## Others 
 
+- [dotfiles](https://github.com/thisroot/dotfiles) - Windows + WSL 2 Ubuntu + Windows Terminal + zsh + p10k + Docker + IntelliJ IDEA
 - [ps-modules](https://github.com/ReneNyffenegger/ps-modules) - PowerShell modules
-- [pre-commit](https://github.com/lorenzwalthert/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [by_row](https://github.com/mjskay/by_row) - A proposal for an alternative to rowwise() and mutate() + map()
 - [toolmaker-docs](https://github.com/CHCP/toolmaker-docs) - Toolmaker website.
 - [awesome-technical-communication](https://github.com/lilin90/awesome-technical-communication) - 😎 A curated list of awesome resources about technical communication
@@ -2848,6 +2848,7 @@
 ## Python 
 
 - [IssueRelocate](https://github.com/jotweh/IssueRelocate) - RZGithubUtils
+- [pre-commit](https://github.com/lorenzwalthert/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [strictdoc](https://github.com/strictdoc-project/strictdoc) - Software for writing technical requirements and specifications.
 - [ProjectManager](https://github.com/randy3k/ProjectManager) - Project Manager for Sublime Text
 - [simplefastapi](https://github.com/gonzalezben81/simplefastapi) - Simple Dockerfile to create a working fastapi example
@@ -3150,6 +3151,20 @@
 
 ## R 
 
+- [salesmanager](https://github.com/tisseuil/salesmanager) - A Shiny App to manages clients and sales using CRUD functionalities
+- [AzureAppService](https://github.com/subugoe/AzureAppService) - Deploy shiny applications and other R workloads to Azure App Service
+- [shinycaas](https://github.com/subugoe/shinycaas) - Deploying shiny apps to container as a service (CaaS) products on public cloud vendors.
+- [Require](https://github.com/PredictiveEcology/Require) - Simple R package to install and load packages conducive to a reproducible workflow
+- [rsrecovr](https://github.com/jmcphers/rsrecovr) - RsRecovr: Recover unsaved files from RStudio sessions
+- [klippy](https://github.com/RLesur/klippy) - Copy to Clipboard Buttons for RMarkdown HTML Documents
+- [ggrepel](https://github.com/slowkow/ggrepel) - :round_pushpin: Repel overlapping text labels away from each other.
+- [socviz](https://github.com/kjhealy/socviz) - Support files for a data visualization course and book
+- [caret](https://github.com/topepo/caret) - caret (Classification And Regression Training) R package that contains misc functions for training and plotting classification and regression models
+- [tipsntRicks](https://github.com/lgatto/tipsntRicks) - A collection R tips and tRicks
+- [Intro-to-R-2ed](https://github.com/datadicts/Intro-to-R-2ed) - Intro to R 2nd Edition Source Files
+- [swirl_courses](https://github.com/swirldev/swirl_courses) - :mortar_board: A collection of interactive courses for the swirl R package.
+- [stat_rethinking_2020](https://github.com/rmcelreath/stat_rethinking_2020) - Statistical Rethinking Course Winter 2020/2021
+- [webex](https://github.com/PsyTeachR/webex) - RMarkdown tools for creating self-guided web exercises
 - [OOP-WG](https://github.com/RConsortium/OOP-WG) - Collaboration space for the Object-oriented Programming Working Group
 - [finemapr](https://github.com/variani/finemapr) - Fine-mapping pipeline in R: FINEMAP, CAVIAR, PAINTOR, GCTA-COJO, ABF
 - [mitre](https://github.com/motherhack3r/mitre) - MITRE package gives you an approach to cybersecurity data sets.
@@ -5541,6 +5556,7 @@
 
 ## Shell 
 
+- [dotsync](https://github.com/dotphiles/dotsync) - Sync dotfiles between multiple machines from a git repo or push using rsync
 - [cached-clone](https://github.com/larsxschneider/cached-clone) - Clone a repository and leverage a local cache.
 - [scotty](https://github.com/larsxschneider/scotty) - Helper scripts for GitHub Enterprise admins
 - [scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Scripts to Rule Them All
@@ -5863,6 +5879,7 @@
 
 ## TypeScript 
 
+- [obsidian-emoji-toolbar](https://github.com/oliveryh/obsidian-emoji-toolbar) - 
 - [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.
