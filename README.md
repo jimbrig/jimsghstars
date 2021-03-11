@@ -154,7 +154,6 @@
 - [yori](https://github.com/malxau/yori) - Yori is a CMD replacement shell that supports backquotes, job control, and improves tab completion, file matching, aliases, command history, and more.
 - [colorout](https://github.com/jalvesaq/colorout) - Colorize R output in terminal emulators
 - [HummusJS](https://github.com/galkahana/HummusJS) - Node.js module for high performance creation, modification and parsing of PDF files and streams
-- [st](https://github.com/kmaasrud/st) - My personal fork of st
 - [virgo](https://github.com/henkman/virgo) - :virgo::computer::computer::computer::computer: Virtual desktops for Windows
 - [HackSysExtremeVulnerableDriver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver) - HackSys Extreme Vulnerable Windows Driver
 - [winfsp](https://github.com/billziss-gh/winfsp) - Windows File System Proxy - FUSE for Windows
@@ -466,7 +465,6 @@
 - [tooltipsterR](https://github.com/timelyportfolio/tooltipsterR) - R htmlwidget for tooltipster
 - [Rgitbook](https://github.com/jbryer/Rgitbook) - Gitbook for R Markdown
 - [wondr-blog](https://github.com/alandipert/wondr-blog) - Source code for my R blog
-- [obsidian-docs](https://github.com/kmaasrud/obsidian-docs) - Help documentation for Obsidian
 - [clean-theme-obsidian](https://github.com/kmaasrud/clean-theme-obsidian) - Minimal theme for Obsidian
 - [obsidian_nord](https://github.com/insanum/obsidian_nord) - A nord theme for Obsidian
 - [CssGitHubWindows](https://github.com/Athari/CssGitHubWindows) - (UserStyle) GitHub Windows Edition [MIT]
@@ -569,7 +567,7 @@
 ## Clojure 
 
 - [yesql](https://github.com/krisajenkins/yesql) - A Clojure library for using SQL.
-- [athens](https://github.com/athensresearch/athens) - Desktop app links: https://tinyurl.com/athens-mac, https://tinyurl.com/athens-mac-1, https://tinyurl.com/athens-windows, https://tinyurl.com/athens-linux; paid tiers available through https://opencollective.com/athens; try the demo at https://athensresearch.github.io/athens
+- [athens](https://github.com/athensresearch/athens) - Desktop app links: https://tinyurl.com/athens-mac, https://tinyurl.com/athens-mac-m1, https://tinyurl.com/athens-windows, https://tinyurl.com/athens-linux; paid tiers available through https://opencollective.com/athens; try the demo at https://athensresearch.github.io/athens
 - [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 - [logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend now, backend later) platform for knowledge sharing and management. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [drake](https://github.com/Factual/drake) - Data workflow tool, like a "Make for data"
@@ -606,6 +604,7 @@
 
 ## Dockerfile 
 
+- [push-docker-gcr](https://github.com/RaccoonDev/push-docker-gcr) - Github Workflow Action to push a docker image to Google Container Registry
 - [docker4dev](https://github.com/ThinkR-open/docker4dev) - Repository with DockerFiles for tutorials
 - [docker-docker-gcpsdk](https://github.com/MangoTheCat/docker-docker-gcpsdk) - Docker-in-Docker with GCP SDK
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
@@ -826,6 +825,7 @@
 
 ## HCL 
 
+- [terraform-google-lb-http](https://github.com/terraform-google-modules/terraform-google-lb-http) - Modular Global HTTP Load Balancer for GCE using forwarding rules.
 - [cloud-run-multi-region-terraform](https://github.com/ahmetb/cloud-run-multi-region-terraform) - Deploy a Cloud Run app to all available regions using Terraform.
 - [terraform-google-cloud-run](https://github.com/CallePuzzle/terraform-google-cloud-run) - Terraform module to deploy a Cloud Run component
 - [terraform_book_code](https://github.com/paeselhz/terraform_book_code) - Project containing my experiments while studying Terraform
@@ -1237,6 +1237,8 @@
 
 ## JavaScript 
 
+- [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
+- [enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts. Used by eslint, webpack, Generate, lint-staged, pm2, gluegun, hygen, GitHub Actions Toolkit, @airbnb/nimbus, and many others!
 - [google-domain-verify](https://github.com/brh55/google-domain-verify) - :rocket: Quick way to verify domains and subdomains in order to begin working with Google webhook services
 - [maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [Deer](https://github.com/abahmed/Deer) - :pencil2:A modern, fast, beautiful note taking app, built on Electron and React
@@ -2365,7 +2367,7 @@
 - [awesome-social-engineering](https://github.com/v2-dev/awesome-social-engineering) - A curated list of awesome social engineering resources.
 - [awesome-maintainers](https://github.com/nayafia/awesome-maintainers) - Talks, blog posts, and interviews about the experience of being an open source maintainer
 - [awesome-business-intelligence](https://github.com/thenaturalist/awesome-business-intelligence) - Actively curated list of awesome BI tools. PRs welcome!
-- [awesome-research](https://github.com/emptymalei/awesome-research) - :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link
+- [awesome-research](https://github.com/emptymalei/awesome-research) - :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below
 - [awesome-quantified-self](https://github.com/woop/awesome-quantified-self) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
 - [awesome-network-automation](https://github.com/networktocode/awesome-network-automation) - Curated Awesome list about Network Automation
 - [Amazing-Windows-Apps](https://github.com/AmazingApps/Amazing-Windows-Apps) - 📗Introduce you amazing Windows apps🕶READ ONLINE 👉
@@ -3059,7 +3061,6 @@
 - [fmlib](https://github.com/argenos/fmlib) - 
 - [obsidian_apps](https://github.com/MrWeckx/obsidian_apps) - I couldn't wait to see new features of obsidian implemented so here's something i guess?
 - [Obsidoro](https://github.com/ProjectAPA/Obsidoro) - An Pomodoro Timer for Obsidian
-- [gitodo](https://github.com/kmaasrud/gitodo) - :heavy_check_mark: Gitodo is a command line task manager made to tightly integrate with Git
 - [obs_alias_generator](https://github.com/Spec04/obs_alias_generator) - Generate Alias file for Obsidian vault
 - [off-your-rocker](https://github.com/sloretz/off-your-rocker) - Extensions for osrf/rocker
 - [resilio-sync-cli](https://github.com/PythonNut/resilio-sync-cli) - Reversed enginnered API wrapper and CLI for Resilio Sync
@@ -3151,6 +3152,10 @@
 
 ## R 
 
+- [manual-payments](https://github.com/bufferapp/manual-payments) - 
+- [ShinyAuth](https://github.com/capiaas/ShinyAuth) - Connects shiny to keycloak or auth0 for authentication
+- [ShinyServicebot](https://github.com/capiaas/ShinyServicebot) - This package integrates the servicebot payment ( stripe ) framework for R shiny
+- [cmdstanr](https://github.com/stan-dev/cmdstanr) - CmdStanR: the R interface to CmdStan
 - [salesmanager](https://github.com/tisseuil/salesmanager) - A Shiny App to manages clients and sales using CRUD functionalities
 - [AzureAppService](https://github.com/subugoe/AzureAppService) - Deploy shiny applications and other R workloads to Azure App Service
 - [shinycaas](https://github.com/subugoe/shinycaas) - Deploying shiny apps to container as a service (CaaS) products on public cloud vendors.
@@ -3184,7 +3189,6 @@
 - [badgecreatr](https://github.com/RMHogervorst/badgecreatr) - Quickly place relevant badges at the top of your readme, stop copy pasting, start on your project
 - [testshiny](https://github.com/RMHogervorst/testshiny) - 
 - [EndoMineR](https://github.com/sebastiz/EndoMineR) - Endoscopic and Pathological data extraction for various endo-pathological data extraction
-- [shinyEndomineR](https://github.com/sebastiz/shinyEndomineR) - A Shiny interface to the EndomineR package
 - [rheroicons](https://github.com/davidruvolo51/rheroicons) - The heroicons library for R 🖼️
 - [buy-the-dip](https://github.com/paeselhz/buy-the-dip) - Shiny Application para analisar retorno de ações do Ibovespa
 - [ata-traffic-recorder](https://github.com/Active-Travel-Academy/ata-traffic-recorder) - 
@@ -3498,7 +3502,6 @@
 - [dockyard](https://github.com/thebioengineer/dockyard) - Tools for building and working with docker containers in R
 - [dockerterm](https://github.com/blairj09/dockerterm) - An RStudio Addin for running docker containers in the RStudio terminal
 - [docker-rstats](https://github.com/Kaggle/docker-rstats) - Kaggle R docker image
-- [cmdstanr](https://github.com/stan-dev/cmdstanr) - CmdStanR: the R interface to CmdStan
 - [sysdep](https://github.com/jlisic/sysdep) - SysDep is an R package to identify system dependencies of installed packages and suggest dependencies for packages not installed.
 - [dockermachine](https://github.com/cboettig/dockermachine) - Simple wrapper around docker-machine tool for creating and managing cloud instances across many providers
 - [harbor](https://github.com/wch/harbor) - An R package for controlling docker containers on local and remote hosts
@@ -5556,6 +5559,7 @@
 
 ## Shell 
 
+- [push-docker-gcr](https://github.com/kurkop/push-docker-gcr) - Github Workflow Action to push a docker image to Google Container Registry
 - [dotsync](https://github.com/dotphiles/dotsync) - Sync dotfiles between multiple machines from a git repo or push using rsync
 - [cached-clone](https://github.com/larsxschneider/cached-clone) - Clone a repository and leverage a local cache.
 - [scotty](https://github.com/larsxschneider/scotty) - Helper scripts for GitHub Enterprise admins
@@ -5879,6 +5883,8 @@
 
 ## TypeScript 
 
+- [flutterwave-react-native](https://github.com/Flutterwave/flutterwave-react-native) - Easily plug Flutterwave into your react-native app for payments.
+- [build-push-action](https://github.com/docker/build-push-action) - :octocat: GitHub Action to build and push Docker images with Buildx
 - [obsidian-emoji-toolbar](https://github.com/oliveryh/obsidian-emoji-toolbar) - 
 - [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
