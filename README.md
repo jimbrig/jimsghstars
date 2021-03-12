@@ -31,6 +31,7 @@
   - [HCL](#hcl)
   - [HTML](#html)
   - [Haml](#haml)
+  - [Handlebars](#handlebars)
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
@@ -431,6 +432,7 @@
 
 ## CSS 
 
+- [uber_shiny](https://github.com/vivekkatial/uber_shiny) - Shiny App to play with uber data
 - [EndoMineR_Shiny](https://github.com/sebastiz/EndoMineR_Shiny) - Shiny app for the EndoMineR library
 - [shiny_gcr_tf](https://github.com/paeselhz/shiny_gcr_tf) - Repository containing basic R Shiny App, github action to build image and terraform to deploy to GCP Cloud Run
 - [obsidian-md-night-owl-theme](https://github.com/bencodezen/obsidian-md-night-owl-theme) - 
@@ -567,7 +569,7 @@
 ## Clojure 
 
 - [yesql](https://github.com/krisajenkins/yesql) - A Clojure library for using SQL.
-- [athens](https://github.com/athensresearch/athens) - Desktop app links: https://tinyurl.com/athens-mac, https://tinyurl.com/athens-mac-m1, https://tinyurl.com/athens-windows, https://tinyurl.com/athens-linux; paid tiers available through https://opencollective.com/athens; try the demo at https://athensresearch.github.io/athens
+- [athens](https://github.com/athensresearch/athens) - Desktop app links: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens
 - [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 - [logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend now, backend later) platform for knowledge sharing and management. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [drake](https://github.com/Factual/drake) - Data workflow tool, like a "Make for data"
@@ -780,6 +782,7 @@
 - [WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons) - ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting
 - [go-collection](https://github.com/jiujuan/go-collection) - :tulip: awesome awesome go, study golang from basic to proficient
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+- [upm](https://github.com/replit/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 - [upm](https://github.com/replit/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 - [devices](https://github.com/volcano-sh/devices) - Device plugins for Volcano, e.g. GPU
 - [sheets-url-shortener](https://github.com/ahmetb/sheets-url-shortener) - A simple short URL redirect service built on top of Google Sheets, and runs for cheap on Google Cloud Run serverless.
@@ -1182,6 +1185,10 @@
 ## Haml 
 
 - [keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
+
+## Handlebars 
+
+- [electronjs.org](https://github.com/electron/electronjs.org) - Electron website
 
 ## Haskell 
 
@@ -1775,7 +1782,6 @@
 - [todo](https://github.com/JasonEtco/todo) - 🤖✅ GitHub App that creates new issues from actionable comments in your code.
 - [Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for developers on Mac, Windows and Linux.
 - [academic-kickstart](https://github.com/jhrcook/academic-kickstart) - Personal website made user Academic & Hugo, hosted on Netlify
-- [electronjs.org](https://github.com/electron/electronjs.org) - Electron website
 - [textych](https://github.com/daranzolin/textych) - Create interactive text parallels :page_with_curl: :page_with_curl: :page_with_curl:
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 - [shiny-server](https://github.com/rstudio/shiny-server) - Host Shiny applications over the web.
@@ -3152,6 +3158,9 @@
 
 ## R 
 
+- [dude-wmb](https://github.com/mklienz/dude-wmb) - Dude, Where's My Bus? - A Shiny Application
+- [shiny_geolocation](https://github.com/AugustT/shiny_geolocation) - A demonstration of how geolocation from a smartphone or PC can be used in a shiny app
+- [spatialdatatable](https://github.com/SymbolixAU/spatialdatatable) - Convenience functions for doing spatial calculations on data.tables
 - [manual-payments](https://github.com/bufferapp/manual-payments) - 
 - [ShinyAuth](https://github.com/capiaas/ShinyAuth) - Connects shiny to keycloak or auth0 for authentication
 - [ShinyServicebot](https://github.com/capiaas/ShinyServicebot) - This package integrates the servicebot payment ( stripe ) framework for R shiny
@@ -5154,6 +5163,7 @@
 - [tagsinput](https://github.com/ThinkR-open/tagsinput) - Bootstrap tags input for shiny
 - [fa](https://github.com/ThinkR-open/fa) - font awesome R tools
 - [clientapp](https://github.com/ThinkR-open/clientapp) - Showcase of Shiny App for client database and after-sales calls exploration
+- [clientapp](https://github.com/ThinkR-open/clientapp) - Showcase of Shiny App for client database and after-sales calls exploration
 - [brighter](https://github.com/ThinkR-open/brighter) - A toolbox of functions for easier shiny development.
 - [chameleon](https://github.com/ThinkR-open/chameleon) - Build And Highlight Package Documentation With Customized Templates
 - [thinkr](https://github.com/ThinkR-open/thinkr) - Some tools for cleaning up messy 'Excel' files to be suitable for R
@@ -5883,6 +5893,7 @@
 
 ## TypeScript 
 
+- [vscode-react-native](https://github.com/microsoft/vscode-react-native) - VSCode extension for React Native - supports debugging and editor integration
 - [flutterwave-react-native](https://github.com/Flutterwave/flutterwave-react-native) - Easily plug Flutterwave into your react-native app for payments.
 - [build-push-action](https://github.com/docker/build-push-action) - :octocat: GitHub Action to build and push Docker images with Buildx
 - [obsidian-emoji-toolbar](https://github.com/oliveryh/obsidian-emoji-toolbar) - 
