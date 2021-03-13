@@ -189,7 +189,7 @@
 - [vetr](https://github.com/brodieG/vetr) - Trust, but Verify
 - [acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
 - [gert](https://github.com/r-lib/gert) - Simple git client for R
-- [wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter (and the most universal wasm runtime)
+- [wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter (and the most universal runtime)
 - [SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX) - SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor
 - [data.table](https://github.com/Rdatatable/data.table) - R's data.table package extends data.frame:
 - [thor](https://github.com/richfitz/thor) - :zap::computer::zap: R client for the Lightning Memory-Mapped Database
@@ -569,7 +569,7 @@
 ## Clojure 
 
 - [yesql](https://github.com/krisajenkins/yesql) - A Clojure library for using SQL.
-- [athens](https://github.com/athensresearch/athens) - Desktop app links: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens
+- [athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens
 - [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 - [logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend now, backend later) platform for knowledge sharing and management. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [drake](https://github.com/Factual/drake) - Data workflow tool, like a "Make for data"
@@ -782,7 +782,6 @@
 - [WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons) - ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting
 - [go-collection](https://github.com/jiujuan/go-collection) - :tulip: awesome awesome go, study golang from basic to proficient
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [upm](https://github.com/replit/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 - [upm](https://github.com/replit/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 - [devices](https://github.com/volcano-sh/devices) - Device plugins for Volcano, e.g. GPU
 - [sheets-url-shortener](https://github.com/ahmetb/sheets-url-shortener) - A simple short URL redirect service built on top of Google Sheets, and runs for cheap on Google Cloud Run serverless.
@@ -1023,7 +1022,7 @@
 - [owner](https://github.com/scibrokes/owner) - Personal CV
 - [stisla](https://github.com/stisla/stisla) - Free Bootstrap Admin Template
 - [dplyr-tidyr-tutorial](https://github.com/tclavelle/dplyr-tidyr-tutorial) - Tutorial on dplyr and tidyr packages for Eco-Data-Sci group
-- [intro2R](https://github.com/alexd106/intro2R) - A practical introduction to R for data analysis course
+- [intro2R](https://github.com/alexd106/intro2R) - A practical introduction to R course
 - [bookmarklets](https://github.com/RadLikeWhoa/bookmarklets) - bookmarklets is a curated list of, you guessed it, bookmarklets that are useful on the web.
 - [markdown-guide](https://github.com/mattcone/markdown-guide) - The comprehensive Markdown reference guide.
 - [KibuKuhn.github.io](https://github.com/KibuKuhn/KibuKuhn.github.io) - 
@@ -2007,6 +2006,7 @@
 
 ## Objective-C 
 
+- [expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [react-native-exception-handler](https://github.com/a7ul/react-native-exception-handler) - A react native module that lets you to register a global error handler that can capture fatal/non fatal uncaught exceptions.
 - [PassKit-Business-Card](https://github.com/TimOliver/PassKit-Business-Card) - A template for iOS Wallet passes that can be used like business cards.
 - [react-native-maps](https://github.com/react-native-maps/react-native-maps) - React Native Mapview component for iOS + Android
@@ -2020,6 +2020,9 @@
 
 ## Others 
 
+- [scripts-to-rule-them-all](https://github.com/jefftriplett/scripts-to-rule-them-all) - ⚙ Scripts To Rule Them All
+- [vscode-github-test](https://github.com/TylerLeonhardt/vscode-github-test) - 
+- [making-messages](https://github.com/jennybc/making-messages) - 
 - [dotfiles](https://github.com/thisroot/dotfiles) - Windows + WSL 2 Ubuntu + Windows Terminal + zsh + p10k + Docker + IntelliJ IDEA
 - [ps-modules](https://github.com/ReneNyffenegger/ps-modules) - PowerShell modules
 - [by_row](https://github.com/mjskay/by_row) - A proposal for an alternative to rowwise() and mutate() + map()
@@ -2721,6 +2724,7 @@
 
 ## PowerShell 
 
+- [CSS-Exchange](https://github.com/microsoft/CSS-Exchange) - Exchange Server support tools and scripts
 - [win10-setup](https://github.com/hmerritt/win10-setup) - Windows 10 setup scripts for fresh installs
 - [PowerShell-Scripts](https://github.com/nickrod518/PowerShell-Scripts) - PowerShell scripts ranging from SCCM, MSO, AD, and other corporate enterprise uses... to sending cat facts to coworkers.
 - [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
@@ -3158,6 +3162,7 @@
 
 ## R 
 
+- [epidm](https://github.com/alexbhatt/epidm) - Epidemiological Data Management
 - [dude-wmb](https://github.com/mklienz/dude-wmb) - Dude, Where's My Bus? - A Shiny Application
 - [shiny_geolocation](https://github.com/AugustT/shiny_geolocation) - A demonstration of how geolocation from a smartphone or PC can be used in a shiny app
 - [spatialdatatable](https://github.com/SymbolixAU/spatialdatatable) - Convenience functions for doing spatial calculations on data.tables
@@ -5163,7 +5168,6 @@
 - [tagsinput](https://github.com/ThinkR-open/tagsinput) - Bootstrap tags input for shiny
 - [fa](https://github.com/ThinkR-open/fa) - font awesome R tools
 - [clientapp](https://github.com/ThinkR-open/clientapp) - Showcase of Shiny App for client database and after-sales calls exploration
-- [clientapp](https://github.com/ThinkR-open/clientapp) - Showcase of Shiny App for client database and after-sales calls exploration
 - [brighter](https://github.com/ThinkR-open/brighter) - A toolbox of functions for easier shiny development.
 - [chameleon](https://github.com/ThinkR-open/chameleon) - Build And Highlight Package Documentation With Customized Templates
 - [thinkr](https://github.com/ThinkR-open/thinkr) - Some tools for cleaning up messy 'Excel' files to be suitable for R
@@ -5893,6 +5897,7 @@
 
 ## TypeScript 
 
+- [react-native-action-sheet](https://github.com/expo/react-native-action-sheet) - A cross-platform ActionSheet for React Native
 - [vscode-react-native](https://github.com/microsoft/vscode-react-native) - VSCode extension for React Native - supports debugging and editor integration
 - [flutterwave-react-native](https://github.com/Flutterwave/flutterwave-react-native) - Easily plug Flutterwave into your react-native app for payments.
 - [build-push-action](https://github.com/docker/build-push-action) - :octocat: GitHub Action to build and push Docker images with Buildx
