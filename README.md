@@ -606,6 +606,7 @@
 
 ## Dockerfile 
 
+- [plumber-on-k8s](https://github.com/mdneuzerling/plumber-on-k8s) - Run a `plumber` API on Kubernetes
 - [push-docker-gcr](https://github.com/RaccoonDev/push-docker-gcr) - Github Workflow Action to push a docker image to Google Container Registry
 - [docker4dev](https://github.com/ThinkR-open/docker4dev) - Repository with DockerFiles for tutorials
 - [docker-docker-gcpsdk](https://github.com/MangoTheCat/docker-docker-gcpsdk) - Docker-in-Docker with GCP SDK
@@ -836,6 +837,7 @@
 
 ## HTML 
 
+- [BioColl2021](https://github.com/pbiecek/BioColl2021) - Notes for the tutorial "Introduction to Machine Learning with R" given at "Biometrisches Kolloquium 2021"
 - [kc_analytics](https://github.com/kcuilla/kc_analytics) - Personal blog made with distill
 - [SDS375](https://github.com/wilkelab/SDS375) - SDS 375 Data Visualization in R
 - [reactable-presentation](https://github.com/jthomasmock/reactable-presentation) - 
@@ -1243,6 +1245,8 @@
 
 ## JavaScript 
 
+- [foodHub-frontend-client](https://github.com/abhi0402/foodHub-frontend-client) - Front-end for food delivery application created using reactjs along with redux and Material-UI, walkthrough -
+- [foodHub-backend-server](https://github.com/abhi0402/foodHub-backend-server) - Restful APIs for Food Delivery application developed using Nodejs & Express, walkthrough -
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts. Used by eslint, webpack, Generate, lint-staged, pm2, gluegun, hygen, GitHub Actions Toolkit, @airbnb/nimbus, and many others!
 - [google-domain-verify](https://github.com/brh55/google-domain-verify) - :rocket: Quick way to verify domains and subdomains in order to begin working with Google webhook services
@@ -2006,6 +2010,7 @@
 
 ## Objective-C 
 
+- [archinfo](https://github.com/hrbrmstr/archinfo) - 𖼆 Returns a list of running processes and the architecture (x86_64/arm64) they are running under.
 - [expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [react-native-exception-handler](https://github.com/a7ul/react-native-exception-handler) - A react native module that lets you to register a global error handler that can capture fatal/non fatal uncaught exceptions.
 - [PassKit-Business-Card](https://github.com/TimOliver/PassKit-Business-Card) - A template for iOS Wallet passes that can be used like business cards.
@@ -2020,6 +2025,7 @@
 
 ## Others 
 
+- [crrry](https://github.com/jimsforks/crrry) - 'crrri' recipes for 'shiny'
 - [scripts-to-rule-them-all](https://github.com/jefftriplett/scripts-to-rule-them-all) - ⚙ Scripts To Rule Them All
 - [vscode-github-test](https://github.com/TylerLeonhardt/vscode-github-test) - 
 - [making-messages](https://github.com/jennybc/making-messages) - 
@@ -2859,6 +2865,7 @@
 
 ## Python 
 
+- [starfleet](https://github.com/mdneuzerling/starfleet) - Configuration files for my personal Kubernetes (k3s) cluster
 - [IssueRelocate](https://github.com/jotweh/IssueRelocate) - RZGithubUtils
 - [pre-commit](https://github.com/lorenzwalthert/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [strictdoc](https://github.com/strictdoc-project/strictdoc) - Software for writing technical requirements and specifications.
@@ -2960,7 +2967,7 @@
 - [Folder-Organiser](https://github.com/mohitsharmaaa/Folder-Organiser) - Folder Organiser / Desktop Cleaner
 - [Monitoring-Files](https://github.com/lucioerlan/Monitoring-Files) - 🐑 Monitor the status of a folder on your system
 - [gitdir](https://github.com/sdushantha/gitdir) - Download a single directory/folder from a GitHub repo
-- [folder-organizer](https://github.com/ibLeDy/folder-organizer) - Move all the files that match set extensions to a windows-like folder structure
+- [folder-organizer](https://github.com/ibLeDy/folder-organizer) - Organize files in a windows-like folder structure
 - [file-sorter](https://github.com/AndriiVal/file-sorter) - This GUI tool will help you to end the chaos of your unorganized files in just a few clicks
 - [file-mover](https://github.com/tekord/file-mover) - Batch file moving based on rules in YAML file
 - [cluttermanager](https://github.com/puneet29/cluttermanager) - Sort out your files into folders using Clutter Manager
@@ -3162,6 +3169,32 @@
 
 ## R 
 
+- [usedocker](https://github.com/mdneuzerling/usedocker) - This is an abandoned package that I intended to use for simplifying the creation of Dockerfiles for R projects. Please don't use this package. Use dockyard instead.
+- [rk8s](https://github.com/fdrennan/rk8s) - R and Kubernetes
+- [docker-localcran](https://github.com/VincentGuyader/docker-localcran) - use miniCRAN to localy create a CRAN repo snapshot using Docker
+- [dat](https://github.com/wahani/dat) - Tools for Data Manipulation in R
+- [spdplyr](https://github.com/mdsumner/spdplyr) - Data Manipulation Verbs for Spatial Classes
+- [cubelyr](https://github.com/hadley/cubelyr) - A data cube dplyr backend
+- [mde](https://github.com/Nelson-Gon/mde) - mde: Missing Data Explorer
+- [gitdown](https://github.com/ThinkR-open/gitdown) - Turn Your Git Commit Messages Into A Bookdown
+- [AzureKusto](https://github.com/cloudyr/AzureKusto) - R interface to Kusto/Azure Data Explorer. Submit issues and PRs at https://github.com/Azure/AzureKusto
+- [seplyr](https://github.com/WinVector/seplyr) - Improved Standard Evaluation Interfaces for Common Data Manipulation Tasks
+- [meta](https://github.com/bergsmat/meta) - store metadata along with data
+- [latexpdf](https://github.com/bergsmat/latexpdf) - Convert Tables to PDF
+- [yatc](https://github.com/bergsmat/yatc) - Yet Another Time Class
+- [encode](https://github.com/bergsmat/encode) - encode ordered lists and pairlists as strings
+- [origami](https://github.com/bergsmat/origami) - A Self-Describing Dataset Format
+- [metaplot](https://github.com/bergsmat/metaplot) - Formalized Plots for Self-Describing Data
+- [spec](https://github.com/bergsmat/spec) - A Data Specification Format and Interface
+- [spork](https://github.com/bergsmat/spork) - Generalized Label Formatting
+- [wrangle](https://github.com/bergsmat/wrangle) - a systematic data wrangling idiom
+- [csv](https://github.com/bergsmat/csv) - formalized csv file handling
+- [yamlet](https://github.com/bergsmat/yamlet) - Versatile Curation of Table Metadata
+- [keys](https://github.com/r4fun/keys) - :keyboard: Keyboard Shortcuts for 'shiny'
+- [minifying](https://github.com/ColinFay/minifying) - An Application to Minify CSS, JAVASCRIPT, CSS, and HTML files
+- [memory](https://github.com/VincentGuyader/memory) - Simple shiny app to test memory charge
+- [cleanser](https://github.com/VincentGuyader/cleanser) - data cleaner
+- [chuck](https://github.com/ColinFay/chuck) - 10x Shiny App with Chuck Norris jokes
 - [epidm](https://github.com/alexbhatt/epidm) - Epidemiological Data Management
 - [dude-wmb](https://github.com/mklienz/dude-wmb) - Dude, Where's My Bus? - A Shiny Application
 - [shiny_geolocation](https://github.com/AugustT/shiny_geolocation) - A demonstration of how geolocation from a smartphone or PC can be used in a shiny app
@@ -5969,7 +6002,7 @@
 - [data-dictionary](https://github.com/hasura/data-dictionary) - 
 - [bookmarks.dev](https://github.com/BookmarksDev/bookmarks.dev) - Bookmarks and Code Snippets Manager for Developers & Co
 - [wikilinks-to-mdlinks-obsidian](https://github.com/agathauy/wikilinks-to-mdlinks-obsidian) - An Obsidian md plugin which allows for the conversion of individually selected wikilinks to markdown links, and vice versa.
-- [appsmith](https://github.com/appsmithorg/appsmith) - A platform to build and self-host internal apps, admin panels, workflows, and business apps.
+- [appsmith](https://github.com/appsmithorg/appsmith) - Use Appsmith build and self-host internal apps, admin panels, and workflows. Build UI that connects to any database or API.
 - [env-cmd](https://github.com/toddbluhm/env-cmd) - Setting environment variables from a file
 - [github-issues-notice](https://github.com/linyows/github-issues-notice) - :octocat: Notify labeled issues to Slack
 - [VSCode-R-Debugger](https://github.com/ManuelHentschel/VSCode-R-Debugger) - R Debugger Extension for Visual Studio Code
