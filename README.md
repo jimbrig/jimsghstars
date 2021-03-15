@@ -127,6 +127,7 @@
 
 ## C 
 
+- [archinfo](https://github.com/hrbrmstr/archinfo) - 𖼆 Returns a list of running processes and the architecture (x86_64/arm64) they are running under.
 - [tcl](https://github.com/tcltk/tcl) - The Tcl Core. (Mirror of core.tcl-lang.org)
 - [nuster](https://github.com/jiangwenyuan/nuster) - A high performance HTTP proxy cache server and RESTful NoSQL cache server based on HAProxy
 - [haproxy](https://github.com/haproxy/haproxy) - HAProxy Load Balancer's development branch (mirror of git.haproxy.org)
@@ -489,7 +490,6 @@
 - [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks
 - [stackbit-test](https://github.com/kognise/stackbit-test) - 
 - [obsidian-atom](https://github.com/kognise/obsidian-atom) - A theme for Obsidian based on Atom's One family
-- [far-aim](https://github.com/kognise/far-aim) - FAR/AIM in the form of clean Markdown files
 - [Blue-Topaz-with-Andy-mode_Obsidian_css](https://github.com/whyt-byte/Blue-Topaz-with-Andy-mode_Obsidian_css) - An Andy Matuschak-mode blue theme for Obsidian.
 - [obsidian_ia](https://github.com/rcvd/obsidian_ia) - A clean and minimal theme for obsidian, heavily inspired by iA Writer.
 - [brain](https://github.com/kmaasrud/brain) - 🧠 Personal knowledge base hosted through GitHub Pages
@@ -1035,7 +1035,6 @@
 - [personal_dashboard](https://github.com/Andreilys/personal_dashboard) - A Real-Time Personal Dashboard For Your Life
 - [uLogMe](https://github.com/Naereen/uLogMe) - :bar_chart: :chart_with_upwards_trend: Automatically collect and visualize usage statistics on Ubuntu, with :musical_keyboard: key frequencies and :computer: window titles →
 - [pbiecek.github.io](https://github.com/pbiecek/pbiecek.github.io) - My web page
-- [localstack.github.io](https://github.com/localstack/localstack.github.io) - 🌐  LocalStack website
 - [Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [simple-dash](https://github.com/kutyla-philipp/simple-dash) - A simple, fully responsive Dashboard to forward to the services of your choice!
 - [betterspecs](https://github.com/betterspecs/betterspecs) - RSpec Best Practices
@@ -2010,7 +2009,6 @@
 
 ## Objective-C 
 
-- [archinfo](https://github.com/hrbrmstr/archinfo) - 𖼆 Returns a list of running processes and the architecture (x86_64/arm64) they are running under.
 - [expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [react-native-exception-handler](https://github.com/a7ul/react-native-exception-handler) - A react native module that lets you to register a global error handler that can capture fatal/non fatal uncaught exceptions.
 - [PassKit-Business-Card](https://github.com/TimOliver/PassKit-Business-Card) - A template for iOS Wallet passes that can be used like business cards.
@@ -2479,6 +2477,7 @@
 - [dev.to](https://github.com/kognise/dev.to) - Where programmers share ideas and help each other grow
 - [oogle](https://github.com/kognise/oogle) - An open-source clone of the Google search engine and crawler infrastructure
 - [obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - 
+- [far-aim](https://github.com/kognise/far-aim) - FAR/AIM in the form of clean Markdown files
 - [articles](https://github.com/objcio/articles) - All current objc.io articles
 - [reMarkable-typescript](https://github.com/andymatuschak/reMarkable-typescript) - A typescript reMarkable Cloud API
 - [Andy-Grove---High-Output-Management](https://github.com/julian-englert/Andy-Grove---High-Output-Management) - Summary of the book High Output Management by Andy Grove
@@ -2588,7 +2587,6 @@
 - [websites](https://github.com/learn-anything/websites) - Awesome Websites
 - [curated-lists](https://github.com/learn-anything/curated-lists) - Curated lists on various topics
 - [awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
-- [obsidian-starter-templates](https://github.com/masonlr/obsidian-starter-templates) - :rocket: Starter templates for Obsidian.md
 - [awesome-cms](https://github.com/postlight/awesome-cms) - 📚 A collection of open and closed source Content Management Systems (CMS) for your perusal.
 - [The-Archive-Themes](https://github.com/Zettelkasten-Method/The-Archive-Themes) - The Archive userland for app themes
 - [digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
@@ -3169,8 +3167,17 @@
 
 ## R 
 
+- [A-Data-Driven-Approach-to-Evaluating-the-Vancouver-Housing-Market](https://github.com/Pascal-Schmidt/A-Data-Driven-Approach-to-Evaluating-the-Vancouver-Housing-Market) - 
+- [shiny-stocks](https://github.com/Pascal-Schmidt/shiny-stocks) - 
+- [shiny-vancouver-housing](https://github.com/Pascal-Schmidt/shiny-vancouver-housing) - 
+- [test_api](https://github.com/Pascal-Schmidt/test_api) - 
+- [personal-website](https://github.com/Pascal-Schmidt/personal-website) - 
+- [blog_posts](https://github.com/Pascal-Schmidt/blog_posts) - 
+- [GoogleAnalyticsDashboard](https://github.com/Pascal-Schmidt/GoogleAnalyticsDashboard) - 
+- [Smartphone-User-Trace-Analytics-II](https://github.com/NiranjanStack/Smartphone-User-Trace-Analytics-II) - Natural guestures analyzed in R and presented in Shiny Dashboard
+- [Smartphone-User-Trace-Analytics-I](https://github.com/NiranjanStack/Smartphone-User-Trace-Analytics-I) - Plotting traces of different smartphone users.
+- [Customer-Behavior-Analysis-in-R-Shiny](https://github.com/NiranjanStack/Customer-Behavior-Analysis-in-R-Shiny) - Analyzing transactions of a retailer to predict promotional items.
 - [usedocker](https://github.com/mdneuzerling/usedocker) - This is an abandoned package that I intended to use for simplifying the creation of Dockerfiles for R projects. Please don't use this package. Use dockyard instead.
-- [rk8s](https://github.com/fdrennan/rk8s) - R and Kubernetes
 - [docker-localcran](https://github.com/VincentGuyader/docker-localcran) - use miniCRAN to localy create a CRAN repo snapshot using Docker
 - [dat](https://github.com/wahani/dat) - Tools for Data Manipulation in R
 - [spdplyr](https://github.com/mdsumner/spdplyr) - Data Manipulation Verbs for Spatial Classes
@@ -5606,6 +5613,7 @@
 
 ## Shell 
 
+- [rk8s](https://github.com/fdrennan/rk8s) - R and Kubernetes
 - [push-docker-gcr](https://github.com/kurkop/push-docker-gcr) - Github Workflow Action to push a docker image to Google Container Registry
 - [dotsync](https://github.com/dotphiles/dotsync) - Sync dotfiles between multiple machines from a git repo or push using rsync
 - [cached-clone](https://github.com/larsxschneider/cached-clone) - Clone a repository and leverage a local cache.
@@ -5898,6 +5906,7 @@
 - [binb](https://github.com/eddelbuettel/binb) - Binb is not Beamer
 - [knitr-book](https://github.com/yihui/knitr-book) - Dynamic Documents with R and knitr
 - [The-Value-of-Insurance](https://github.com/rajesh06/The-Value-of-Insurance) - 
+- [obsidian-starter-templates](https://github.com/masonlr/obsidian-starter-templates) - :rocket: Starter templates for Obsidian.md
 - [cphb](https://github.com/pllk/cphb) - Competitive Programmer's Handbook
 - [listdown](https://github.com/kaneplusplus/listdown) - Programmatically create R/Markdown documents from lists.
 - [the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
@@ -6194,7 +6203,7 @@
 
 - [obsidian-publish-vue](https://github.com/bencodezen/obsidian-publish-vue) - 
 - [layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 150k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 150k+ developers. https://hoppscotch.io
 - [code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [GitXplore-Search](https://github.com/appbaseio-apps/GitXplore-Search) - An application to explore github repositories.
 - [pile](https://github.com/mtobeiyf/pile) - :zap: A simple & powerful app to organize your piled work at one place~
