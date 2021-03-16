@@ -492,7 +492,6 @@
 - [obsidian-atom](https://github.com/kognise/obsidian-atom) - A theme for Obsidian based on Atom's One family
 - [Blue-Topaz-with-Andy-mode_Obsidian_css](https://github.com/whyt-byte/Blue-Topaz-with-Andy-mode_Obsidian_css) - An Andy Matuschak-mode blue theme for Obsidian.
 - [obsidian_ia](https://github.com/rcvd/obsidian_ia) - A clean and minimal theme for obsidian, heavily inspired by iA Writer.
-- [brain](https://github.com/kmaasrud/brain) - 🧠 Personal knowledge base hosted through GitHub Pages
 - [pensieve](https://github.com/nerdalot/pensieve) - My notes using loosely the Zettelkasten method and the app Obsidian
 - [obsidian-css-tweaks](https://github.com/lucasrla/obsidian-css-tweaks) - CSS snippet for Obsidian – just a few (minimal) tweaks and fixes
 - [Obsidian-JG-Method](https://github.com/joshwingreene/Obsidian-JG-Method) - A starter kit that follows how I use Obsidian to manage my goals, tasks, notes, and software development knowledge base.
@@ -837,6 +836,7 @@
 
 ## HTML 
 
+- [skgrange.github.io](https://github.com/skgrange/skgrange.github.io) - Personal website repository which is hosted at http://skgrange.github.io/
 - [BioColl2021](https://github.com/pbiecek/BioColl2021) - Notes for the tutorial "Introduction to Machine Learning with R" given at "Biometrisches Kolloquium 2021"
 - [kc_analytics](https://github.com/kcuilla/kc_analytics) - Personal blog made with distill
 - [SDS375](https://github.com/wilkelab/SDS375) - SDS 375 Data Visualization in R
@@ -989,6 +989,7 @@
 - [blaggy](https://github.com/kognise/blaggy) - Fast, simple, and speedy blagging for the interblag with NodeJS!
 - [long-term-research-reports](https://github.com/Khan/long-term-research-reports) - Repository for developing longer-form reports from the Long-term Research team
 - [long-term-research-reports](https://github.com/andymatuschak/long-term-research-reports) - Repository for developing longer-form reports from the Long-term Research team
+- [brain](https://github.com/kmaasrud/brain) - 🧠 Personal knowledge base hosted through GitHub Pages
 - [rstudio4edu-book](https://github.com/rstudio4edu/rstudio4edu-book) - Organizing rstudio4edu project progress
 - [zero-to-shinyproxy](https://github.com/remche/zero-to-shinyproxy) - Deploy Shinyproxy with Helm
 - [parcel-static-site-starterkit](https://github.com/InsaneNaman/parcel-static-site-starterkit) - A starter kit to get Advanced features like SASS support, Uglification, Hot Module Reload in Static Website
@@ -1035,7 +1036,6 @@
 - [personal_dashboard](https://github.com/Andreilys/personal_dashboard) - A Real-Time Personal Dashboard For Your Life
 - [uLogMe](https://github.com/Naereen/uLogMe) - :bar_chart: :chart_with_upwards_trend: Automatically collect and visualize usage statistics on Ubuntu, with :musical_keyboard: key frequencies and :computer: window titles →
 - [pbiecek.github.io](https://github.com/pbiecek/pbiecek.github.io) - My web page
-- [Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [simple-dash](https://github.com/kutyla-philipp/simple-dash) - A simple, fully responsive Dashboard to forward to the services of your choice!
 - [betterspecs](https://github.com/betterspecs/betterspecs) - RSpec Best Practices
 - [Load-Test](https://github.com/slopp/Load-Test) - Load test shiny app against Docker Swarm and HA RSC Cluster.
@@ -1067,7 +1067,6 @@
 - [hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) - A Hugo theme component to cloak email adresses
 - [cranchecksdocs](https://github.com/ropensci-org/cranchecksdocs) - 
 - [textures](https://github.com/hypertidy/textures) - simple texture plot
-- [docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [tidymodels.org](https://github.com/tidymodels/tidymodels.org) - Source of tidymodels.org
 - [pattern.css](https://github.com/bansal-io/pattern.css) - CSS only library to fill empty background with beautiful patterns.
 - [mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
@@ -1244,6 +1243,7 @@
 
 ## JavaScript 
 
+- [git-labels-cli](https://github.com/bukinoshita/git-labels-cli) - Creating Github issue labels
 - [foodHub-frontend-client](https://github.com/abhi0402/foodHub-frontend-client) - Front-end for food delivery application created using reactjs along with redux and Material-UI, walkthrough -
 - [foodHub-backend-server](https://github.com/abhi0402/foodHub-backend-server) - Restful APIs for Food Delivery application developed using Nodejs & Express, walkthrough -
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
@@ -1727,6 +1727,7 @@
 - [r_package_training](https://github.com/keithmcnulty/r_package_training) - Short training session on building R packages
 - [GitHub-Tweaks](https://github.com/noplanman/GitHub-Tweaks) - Userscript that adds tweaks to GitHub.
 - [winreg-cli](https://github.com/notlmn/winreg-cli) - Command line tool with a fluent API for modifying the Windows registry
+- [Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [Raneto](https://github.com/gilbitron/Raneto) - Markdown powered Knowledgebase for Nodejs
 - [mindmaps](https://github.com/drichard/mindmaps) - An open source, offline capable, mind mapping application leveraging HTML5 technologies
 - [myDrive](https://github.com/subnub/myDrive) - Node.js and mongoDB Google Drive Clone
@@ -1772,6 +1773,7 @@
 - [todoist_keyboard_nav](https://github.com/uechoco/todoist_keyboard_nav) - This is the Google Chrome extension: keyboard navigation for Todoist web
 - [marinara](https://github.com/schmich/marinara) - Pomodoro® time management assistant for Chrome
 - [leaflet.extras2](https://github.com/trafficonese/leaflet.extras2) - Extra functionality for leaflet R package.
+- [docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [RTips-Tricks](https://github.com/juliendiot42/RTips-Tricks) - Presentation of some tips & tricks that I use for R
 - [tidyblocks](https://github.com/tidyblocks/tidyblocks) - A blocks-based interface for tidy data manipulation and analysis.
 - [memoizee](https://github.com/medikoo/memoizee) - Complete memoize/cache solution for JavaScript
@@ -2863,6 +2865,7 @@
 
 ## Python 
 
+- [action-manage-label](https://github.com/julb/action-manage-label) - 
 - [starfleet](https://github.com/mdneuzerling/starfleet) - Configuration files for my personal Kubernetes (k3s) cluster
 - [IssueRelocate](https://github.com/jotweh/IssueRelocate) - RZGithubUtils
 - [pre-commit](https://github.com/lorenzwalthert/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
@@ -3507,7 +3510,7 @@
 - [renvwincachetest](https://github.com/meztez/renvwincachetest) - 
 - [apis-plumber](https://github.com/rstudio/apis-plumber) - 
 - [groundhog](https://github.com/CredibilityLab/groundhog) - Reproducible R Scripts Via Version-Specific CRAN-Package Storing and Loading
-- [getsysreqs](https://github.com/mdneuzerling/getsysreqs) - Determine system requirements from R packages using the RStudio Package Manager.
+- [getsysreqs](https://github.com/mdneuzerling/getsysreqs) - Determine system requirements from R packages using the RStudio Package Manager.  This is a weekend project, not a real package, so please think twice before using it for anything serious.
 - [requirements](https://github.com/bmewing/requirements) - R package for managing requirements
 - [simputation](https://github.com/markvanderloo/simputation) - Making imputation easy
 - [cloudRunR](https://github.com/MarkEdmondson1234/cloudRunR) - Running R on Cloud Run
@@ -6011,7 +6014,7 @@
 - [data-dictionary](https://github.com/hasura/data-dictionary) - 
 - [bookmarks.dev](https://github.com/BookmarksDev/bookmarks.dev) - Bookmarks and Code Snippets Manager for Developers & Co
 - [wikilinks-to-mdlinks-obsidian](https://github.com/agathauy/wikilinks-to-mdlinks-obsidian) - An Obsidian md plugin which allows for the conversion of individually selected wikilinks to markdown links, and vice versa.
-- [appsmith](https://github.com/appsmithorg/appsmith) - Use Appsmith build and self-host internal apps, admin panels, and workflows. Build UI that connects to any database or API.
+- [appsmith](https://github.com/appsmithorg/appsmith) - Use Appsmith to build and self-host your internal apps. Create UI that connects to any database or API.
 - [env-cmd](https://github.com/toddbluhm/env-cmd) - Setting environment variables from a file
 - [github-issues-notice](https://github.com/linyows/github-issues-notice) - :octocat: Notify labeled issues to Slack
 - [VSCode-R-Debugger](https://github.com/ManuelHentschel/VSCode-R-Debugger) - R Debugger Extension for Visual Studio Code
