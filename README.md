@@ -127,6 +127,7 @@
 
 ## C 
 
+- [earth-reverse-engineering](https://github.com/retroplasma/earth-reverse-engineering) - Reversing Google's 3D satellite mode
 - [archinfo](https://github.com/hrbrmstr/archinfo) - 𖼆 Returns a list of running processes and the architecture (x86_64/arm64) they are running under.
 - [tcl](https://github.com/tcltk/tcl) - The Tcl Core. (Mirror of core.tcl-lang.org)
 - [nuster](https://github.com/jiangwenyuan/nuster) - A high performance HTTP proxy cache server and RESTful NoSQL cache server based on HAProxy
@@ -211,6 +212,7 @@
 
 ## C# # 
 
+- [Xamarin.Forms.GoogleMaps](https://github.com/amay077/Xamarin.Forms.GoogleMaps) - Map library for Xamarin.Forms using Google maps API
 - [runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 - [PathEd](https://github.com/awaescher/PathEd) - 📌 A deployable tool to add or remove values from the Windows PATH variable.
 - [BlogOps](https://github.com/laurentkempe/BlogOps) - Tool to operate my blog.
@@ -518,7 +520,6 @@
 - [wiki-site](https://github.com/zthxxx/wiki-site) - My personal knowledge management site.
 - [tweet-conf-dash](https://github.com/gadenbuie/tweet-conf-dash) - A shiny twitter conference dashboard
 - [stylestage](https://github.com/5t3ph/stylestage) - A modern CSS showcase styled by community contributions. Add your stylesheet!
-- [shiny-app-template](https://github.com/davidruvolo51/shiny-app-template) - Template for creating R projects with Webpack
 - [hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 - [rmd4edu](https://github.com/rstudio4edu/rmd4edu) - A fresh batch of R Markdown templates
 - [ShinyTeeter](https://github.com/cjteeter/ShinyTeeter) - 
@@ -658,6 +659,7 @@
 
 ## Go 
 
+- [gke-autopilot-demo](https://github.com/vfarcic/gke-autopilot-demo) - 
 - [doko](https://github.com/egoist/doko) - A docker-based development dependency manager.
 - [oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
 - [zdns](https://github.com/zmap/zdns) - Fast CLI DNS Lookup Tool
@@ -827,6 +829,7 @@
 
 ## HCL 
 
+- [devops-catalog-code](https://github.com/vfarcic/devops-catalog-code) - 
 - [terraform-google-lb-http](https://github.com/terraform-google-modules/terraform-google-lb-http) - Modular Global HTTP Load Balancer for GCE using forwarding rules.
 - [cloud-run-multi-region-terraform](https://github.com/ahmetb/cloud-run-multi-region-terraform) - Deploy a Cloud Run app to all available regions using Terraform.
 - [terraform-google-cloud-run](https://github.com/CallePuzzle/terraform-google-cloud-run) - Terraform module to deploy a Cloud Run component
@@ -836,6 +839,10 @@
 
 ## HTML 
 
+- [dgrtwo.github.com](https://github.com/dgrtwo/dgrtwo.github.com) - My website
+- [vfarcic.github.io](https://github.com/vfarcic/vfarcic.github.io) - 
+- [jimsdocs](https://github.com/jimbrig/jimsdocs) - R Blog written with Distill.
+- [dspins](https://github.com/datasketch/dspins) - 
 - [skgrange.github.io](https://github.com/skgrange/skgrange.github.io) - Personal website repository which is hosted at http://skgrange.github.io/
 - [BioColl2021](https://github.com/pbiecek/BioColl2021) - Notes for the tutorial "Introduction to Machine Learning with R" given at "Biometrisches Kolloquium 2021"
 - [kc_analytics](https://github.com/kcuilla/kc_analytics) - Personal blog made with distill
@@ -847,7 +854,7 @@
 - [parcel](https://github.com/JohnCoene/parcel) - Parcel for R
 - [demo-rmd-snow](https://github.com/emilyriederer/demo-rmd-snow) - 
 - [2020-RStudio-Table-Contest-Entry2](https://github.com/kcuilla/2020-RStudio-Table-Contest-Entry2) - 
-- [cran-task-views](https://github.com/jimbrig/cran-task-views) - CRAN Task Views and Shiny App https://cran-task-views.jimbrig.com
+- [jimstaskviews](https://github.com/jimbrig/jimstaskviews) - CRAN Task Views and Shiny App https://jimstaskviews.jimbrig.com
 - [ulltimate-calendar](https://github.com/angeligareta/ulltimate-calendar) - Example of landing page using the web technologies HTML, CSS, Javascript, Bootstrap, and Firebase.
 - [drat](https://github.com/reconhub/drat) - :package::package::package: drat repository
 - [reconhub.github.io](https://github.com/reconhub/reconhub.github.io) - Official website for RECON - The R Epidemics CONsortium
@@ -1204,6 +1211,9 @@
 
 ## Java 
 
+- [CustomBottomSheetBehavior](https://github.com/miguelhincapie/CustomBottomSheetBehavior) - Custom BottomSheetBehavior for Android that mimic Google Maps behavior
+- [react-native-bottom-sheet-behavior](https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior) - react-native wrapper for android BottomSheetBehavior
+- [AirMapView](https://github.com/airbnb/AirMapView) - A view abstraction to provide a map user interface with various underlying map providers
 - [MaterialAbout](https://github.com/jrvansuita/MaterialAbout) - It's a material-design about screen to use on your Android apps. A developer profile and application information easy to integrate. 🔖
 - [dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [apollo](https://github.com/ctripcorp/apollo) - Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。
@@ -1243,6 +1253,16 @@
 
 ## JavaScript 
 
+- [jQuery-Store-Locator-Plugin](https://github.com/bjorn2404/jQuery-Store-Locator-Plugin) - A store locator plugin using Google Maps API version 3
+- [sketch-map-generator](https://github.com/eddiesigner/sketch-map-generator) - Sketch plugin to fill a shape with a map generated from a given location using Google Maps and Mapbox
+- [maplace.js](https://github.com/danielemoraschi/maplace.js) - A Google Maps Javascript plugin for jQuery.
+- [leaflet-geoman](https://github.com/geoman-io/leaflet-geoman) - 🍂🗺️ The most powerful leaflet plugin for drawing and editing geometry layers
+- [react-places-autocomplete](https://github.com/hibiken/react-places-autocomplete) - React component for Google Maps Places Autocomplete
+- [google-maps-react](https://github.com/fullstackreact/google-maps-react) - Companion code to the "How to Write a Google Maps React Component" Tutorial
+- [heatmap.js](https://github.com/pa7/heatmap.js) - 🔥 JavaScript Library for HTML5 canvas based heatmaps
+- [obsidian-rust-plugin](https://github.com/trashhalo/obsidian-rust-plugin) - 
+- [inputknob](https://github.com/daattali/inputknob) - 
+- [kit](https://github.com/johnlindquist/kit) - Automate Anything.
 - [git-labels-cli](https://github.com/bukinoshita/git-labels-cli) - Creating Github issue labels
 - [foodHub-frontend-client](https://github.com/abhi0402/foodHub-frontend-client) - Front-end for food delivery application created using reactjs along with redux and Material-UI, walkthrough -
 - [foodHub-backend-server](https://github.com/abhi0402/foodHub-backend-server) - Restful APIs for Food Delivery application developed using Nodejs & Express, walkthrough -
@@ -1766,7 +1786,6 @@
 - [nginx-conf](https://github.com/tmont/nginx-conf) - NodeJS module for interacting programmatically with an nginx configuration file
 - [nukecss](https://github.com/patrickhulce/nukecss) - Eliminates unused CSS rules. Built for single-page apps.
 - [purifycss](https://github.com/purifycss/purifycss) - Remove unused CSS. Also works with single-page apps.
-- [Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [unlayout](https://github.com/earowang/unlayout) - Unlayout the layout of HTML widgets
 - [Racmacs](https://github.com/acorg/Racmacs) - Racmacs R package for performing antigenic cartography (https://acorg.github.io/Racmacs)
 - [cv2r](https://github.com/battmanux/cv2r) - Use OpenCV in RStudio
@@ -1935,6 +1954,7 @@
 
 ## Kotlin 
 
+- [Leku](https://github.com/AdevintaSpain/Leku) - :earth_africa: Map location picker component for Android. Based on Google Maps. An alternative to Google Place Picker.
 - [StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
 - [google-cloud-platform-notes](https://github.com/irvifa/google-cloud-platform-notes) - Curated Notes on Google Cloud Platform.
 - [orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists
@@ -2025,6 +2045,7 @@
 
 ## Others 
 
+- [about](https://github.com/docker-captains/about) - Docker Captains and Our Projects
 - [crrry](https://github.com/jimsforks/crrry) - 'crrri' recipes for 'shiny'
 - [scripts-to-rule-them-all](https://github.com/jefftriplett/scripts-to-rule-them-all) - ⚙ Scripts To Rule Them All
 - [vscode-github-test](https://github.com/TylerLeonhardt/vscode-github-test) - 
@@ -2687,6 +2708,7 @@
 
 ## PHP 
 
+- [laravel-auth](https://github.com/jeremykenedy/laravel-auth) - Laravel 8 with user authentication, registration with email confirmation, social media authentication, password recovery, and captcha protection. Uses offical [Bootstrap 4](http://getbootstrap.com). This also makes full use of Controllers for the routes, templates for the views, and makes use of middleware for routing. The project can be stood up in minutes.
 - [web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
 - [composer](https://github.com/composer/composer) - Dependency Manager for PHP
 - [wfh-productivity-system](https://github.com/Kamoates/wfh-productivity-system) - 
@@ -2865,6 +2887,8 @@
 
 ## Python 
 
+- [gmplot](https://github.com/gmplot/gmplot) - Plot data on Google Maps, the easy way.
+- [gmaps](https://github.com/pbugnion/gmaps) - Google maps for Jupyter notebooks
 - [action-manage-label](https://github.com/julb/action-manage-label) - 
 - [starfleet](https://github.com/mdneuzerling/starfleet) - Configuration files for my personal Kubernetes (k3s) cluster
 - [IssueRelocate](https://github.com/jotweh/IssueRelocate) - RZGithubUtils
@@ -3170,6 +3194,13 @@
 
 ## R 
 
+- [lfltmagic](https://github.com/datasketch/lfltmagic) - 
+- [drlib](https://github.com/dgrtwo/drlib) - Personal R package
+- [giftwrap](https://github.com/chriscardillo/giftwrap) - Take shell commands and turn them into R functions
+- [cranview](https://github.com/dgrtwo/cranview) - A Shiny app to visualize downloads from RStudio's CRAN mirror
+- [landing_page](https://github.com/powwater/landing_page) - Minimal example landing page application portal for powwater apps.
+- [jimstemplates](https://github.com/jimbrig/jimstemplates) - Personal Templates
+- [parmesan](https://github.com/datasketch/parmesan) - 
 - [A-Data-Driven-Approach-to-Evaluating-the-Vancouver-Housing-Market](https://github.com/Pascal-Schmidt/A-Data-Driven-Approach-to-Evaluating-the-Vancouver-Housing-Market) - 
 - [shiny-stocks](https://github.com/Pascal-Schmidt/shiny-stocks) - 
 - [shiny-vancouver-housing](https://github.com/Pascal-Schmidt/shiny-vancouver-housing) - 
@@ -5580,10 +5611,10 @@
 - [wtfcrt](https://github.com/nikvoronin/wtfcrt) - A personal wiki-like notebooks aka zettelkasten
 - [notes.ajb.app](https://github.com/andybyers21/notes.ajb.app) - This is the data for my Evergreen notes vault
 - [clair-de-lune-obsidian-theme](https://github.com/jamiebrynes7/clair-de-lune-obsidian-theme) - An obsidian.md theme inspired by the Moonlight family of themes
-- [ycparak.com](https://github.com/ycparak/ycparak.com) - 🎧 Personal site and note taking system, inspired by Andy Matuschak's notes.
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
+- [shiny-app-template](https://github.com/davidruvolo51/shiny-app-template) - Template for creating R projects with Webpack
 - [outstanding-shiny-ui-code](https://github.com/DivadNojnarg/outstanding-shiny-ui-code) - Standalone code for the "Outstanding Shiny UI" Book
 - [Blunt](https://github.com/f-prime/Blunt) - A CSS framework that helps with layouts and leaves your styling alone.
 - [rsthemes](https://github.com/gadenbuie/rsthemes) - 🔮 Full RStudio IDE and Syntax Themes
@@ -5616,6 +5647,7 @@
 
 ## Shell 
 
+- [devops24](https://github.com/vfarcic/devops24) - 
 - [rk8s](https://github.com/fdrennan/rk8s) - R and Kubernetes
 - [push-docker-gcr](https://github.com/kurkop/push-docker-gcr) - Github Workflow Action to push a docker image to Google Container Registry
 - [dotsync](https://github.com/dotphiles/dotsync) - Sync dotfiles between multiple machines from a git repo or push using rsync
@@ -5942,6 +5974,9 @@
 
 ## TypeScript 
 
+- [use-places-autocomplete](https://github.com/wellyshen/use-places-autocomplete) - 😎 📍 React hook for Google Maps Places Autocomplete.
+- [react-google-maps-api](https://github.com/JustFly1984/react-google-maps-api) - React Google Maps API
+- [angular-google-maps](https://github.com/SebastianM/angular-google-maps) - Angular 2+ Google Maps Components
 - [react-native-action-sheet](https://github.com/expo/react-native-action-sheet) - A cross-platform ActionSheet for React Native
 - [vscode-react-native](https://github.com/microsoft/vscode-react-native) - VSCode extension for React Native - supports debugging and editor integration
 - [flutterwave-react-native](https://github.com/Flutterwave/flutterwave-react-native) - Easily plug Flutterwave into your react-native app for payments.
@@ -6111,6 +6146,7 @@
 - [react-notion](https://github.com/splitbee/react-notion) - A fast React renderer for Notion pages
 - [foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
+- [Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [aws-appsync-backend](https://github.com/ttoss/aws-appsync-backend) - AWS AppSync client for backend
 - [react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams
 - [html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
@@ -6213,6 +6249,7 @@
 - [export-github-stars](https://github.com/KeziahMoselle/export-github-stars) - View / Sort / Export your Starred repositories.
 - [raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
 - [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
+- [ycparak.com](https://github.com/ycparak/ycparak.com) - 🎧 Personal site and note taking system, inspired by Andy Matuschak's notes.
 - [awesome-github-profile](https://github.com/zzetao/awesome-github-profile) - 🌐  A website of awesome Github Profile READMEs
 - [devAwesome](https://github.com/lusaxweb/devAwesome) - 🐣 Upload your own sites as portfolio or projects of your github
 - [massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
