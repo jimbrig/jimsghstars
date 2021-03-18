@@ -42,7 +42,6 @@
   - [M4](#m4)
   - [Makefile](#makefile)
   - [Mustache](#mustache)
-  - [Nim](#nim)
   - [Nix](#nix)
   - [Nunjucks](#nunjucks)
   - [OCaml](#ocaml)
@@ -1253,6 +1252,7 @@
 
 ## JavaScript 
 
+- [db-dashboard](https://github.com/sol-eng/db-dashboard) - Project files of the article featured here: http://db.rstudio.com/best-practices/dashboards/
 - [jQuery-Store-Locator-Plugin](https://github.com/bjorn2404/jQuery-Store-Locator-Plugin) - A store locator plugin using Google Maps API version 3
 - [sketch-map-generator](https://github.com/eddiesigner/sketch-map-generator) - Sketch plugin to fill a shape with a map generated from a given location using Google Maps and Mapbox
 - [maplace.js](https://github.com/danielemoraschi/maplace.js) - A Google Maps Javascript plugin for jQuery.
@@ -1867,7 +1867,6 @@
 - [F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
 - [vfile-matter](https://github.com/vfile/vfile-matter) - utility to parse the YAML front matter in a vfile
 - [driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
-- [cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [Excel-Favorites](https://github.com/Excel-projects/Excel-Favorites) - :star: This VSTO Add-In creates a custom "Favorites" ribbon. Key distinctive attributes include dedicated buttons for changing the visibility/sort order of sheets, copying visible cells, Excel's camera feature, Snipping Tool, Problem Steps Recorder (PSR) and Windows Calculator. It is written in 3 different versions as a VSTO Add-In in C# and VB.NET as well as a VBA Add-In.
 - [drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
 - [agendash](https://github.com/agenda/agendash) - Agenda Dashboard
@@ -2010,10 +2009,6 @@
 
 - [charts](https://github.com/bitnami/charts) - Helm Charts
 
-## Nim 
-
-- [arturo](https://github.com/arturo-lang/arturo) - Simple, expressive & portable programming language for efficient scripting
-
 ## Nix 
 
 - [nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
@@ -2068,7 +2063,6 @@
 - [rcontribution](https://github.com/forwards/rcontribution) - Repository for the R Contribution Working Group, working on initiatives to encourage new contributor to R core
 - [useful-postgres](https://github.com/nathaneastwood/useful-postgres) - A collection of useful PostgreSQL queries and snippets
 - [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
-- [saaslab](https://github.com/microsoft/saaslab) - SaaS-ification resources for ISVs
 - [docker](https://github.com/reconhub/docker) - Various docker images for RECON
 - [pdsnd_github](https://github.com/Yacine87/pdsnd_github) - GitHub project (Project 3) repository for PDSND
 - [TransformData_Rdplyr-SQL](https://github.com/Yacine87/TransformData_Rdplyr-SQL) - Cette présentation et le script y afférent ont été présentés par l'occasion du premier meet-up de R Ladies Algiers tenu le 04 Janvier 2020.
@@ -2759,6 +2753,7 @@
 - [windows-itpro-docs](https://github.com/MicrosoftDocs/windows-itpro-docs) - This is used for contributions to the Windows 10 content for IT professionals on docs.microsoft.com.
 - [dbatools](https://github.com/sqlcollaborative/dbatools) - 🚀 SQL Server automation and instance migrations have never been safer, faster or freer
 - [DockerCompletion](https://github.com/matt9ucci/DockerCompletion) - Docker command completion for PowerShell.
+- [saaslab](https://github.com/microsoft/saaslab) - SaaS-ification resources for ISVs
 - [choco-r-devel](https://github.com/leeper/choco-r-devel) - Chocolatey package for r-devel
 - [choco-rtools](https://github.com/leeper/choco-rtools) - Chocolatey package for Rtools
 - [PSffmpeg](https://github.com/nneeoo/PSffmpeg) - Powershell CLI for ffmpeg
@@ -3020,6 +3015,7 @@
 - [django-newsfeed](https://github.com/saadmk11/django-newsfeed) - A news curator and newsletter subscription package for Django
 - [git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [onhold](https://github.com/alexdelorenzo/onhold) - 🔊 Play sounds while and after shell jobs complete
+- [arturo](https://github.com/arturo-lang/arturo) - Simple, expressive & portable programming language for efficient scripting
 - [activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [gedit-wakatime](https://github.com/wakatime/gedit-wakatime) - Gedit 3.8+ plugin for automatic time tracking and metrics generated from your programming activity.
 - [podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
@@ -3194,6 +3190,10 @@
 
 ## R 
 
+- [bookmarking-examples](https://github.com/sol-eng/bookmarking-examples) - Examples of Shiny applications that support bookmarkable state and can be published to RStudio Connect
+- [connect-usage](https://github.com/sol-eng/connect-usage) - Report on RStudio Connect Usage
+- [plumber-health-check](https://github.com/sol-eng/plumber-health-check) - A simple plumber health check endpoint
+- [logging-best-practices](https://github.com/sol-eng/logging-best-practices) - An introduction to, and best practices for, logging in R
 - [lfltmagic](https://github.com/datasketch/lfltmagic) - 
 - [drlib](https://github.com/dgrtwo/drlib) - Personal R package
 - [giftwrap](https://github.com/chriscardillo/giftwrap) - Take shell commands and turn them into R functions
@@ -6165,6 +6165,7 @@
 - [inkjs](https://github.com/y-lohse/inkjs) - A javascript port of inkle's ink scripting language.
 - [checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [react-containers](https://github.com/zendeskgarden/react-containers) - :seedling: garden React (no-UI) containers
+- [cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
