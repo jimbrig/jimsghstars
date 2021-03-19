@@ -736,7 +736,6 @@
 - [unipdf-examples](https://github.com/unidoc/unipdf-examples) - Examples for creating and processing PDF files with UniPDF https://github.com/unidoc/unipdf
 - [unipdf](https://github.com/unidoc/unipdf) - Golang PDF library for creating and processing PDF files (pure go)
 - [note-maps](https://github.com/google/note-maps) - A personal knowledge base intended for use on mobile devices.
-- [folder-manager](https://github.com/DataHearth/folder-manager) - Open source folder manager with encryption/decryption feature, watching folders/files.
 - [diskusage](https://github.com/aleksaan/diskusage) - FANTASTIC SPEED utility to find out top largest folders/files on the disk.
 - [blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
 - [maintainer](https://github.com/gaocegege/maintainer) - :octocat: :man_technologist: :whale: Generate personal daily reports or summary, AUTHORS, CONTRIBUTING, CHANGELOG and so on for GitHub user or repository.
@@ -838,6 +837,7 @@
 
 ## HTML 
 
+- [Documentation](https://github.com/Kodular/Documentation) - Kodular Documentation
 - [dgrtwo.github.com](https://github.com/dgrtwo/dgrtwo.github.com) - My website
 - [vfarcic.github.io](https://github.com/vfarcic/vfarcic.github.io) - 
 - [jimsdocs](https://github.com/jimbrig/jimsdocs) - R Blog written with Distill.
@@ -995,7 +995,6 @@
 - [blaggy](https://github.com/kognise/blaggy) - Fast, simple, and speedy blagging for the interblag with NodeJS!
 - [long-term-research-reports](https://github.com/Khan/long-term-research-reports) - Repository for developing longer-form reports from the Long-term Research team
 - [long-term-research-reports](https://github.com/andymatuschak/long-term-research-reports) - Repository for developing longer-form reports from the Long-term Research team
-- [brain](https://github.com/kmaasrud/brain) - 🧠 Personal knowledge base hosted through GitHub Pages
 - [rstudio4edu-book](https://github.com/rstudio4edu/rstudio4edu-book) - Organizing rstudio4edu project progress
 - [zero-to-shinyproxy](https://github.com/remche/zero-to-shinyproxy) - Deploy Shinyproxy with Helm
 - [parcel-static-site-starterkit](https://github.com/InsaneNaman/parcel-static-site-starterkit) - A starter kit to get Advanced features like SASS support, Uglification, Hot Module Reload in Static Website
@@ -1252,6 +1251,7 @@
 
 ## JavaScript 
 
+- [powdocs](https://github.com/powwater/powdocs) - Powwater Hosted Documentation
 - [db-dashboard](https://github.com/sol-eng/db-dashboard) - Project files of the article featured here: http://db.rstudio.com/best-practices/dashboards/
 - [jQuery-Store-Locator-Plugin](https://github.com/bjorn2404/jQuery-Store-Locator-Plugin) - A store locator plugin using Google Maps API version 3
 - [sketch-map-generator](https://github.com/eddiesigner/sketch-map-generator) - Sketch plugin to fill a shape with a map generated from a given location using Google Maps and Mapbox
@@ -2622,7 +2622,7 @@
 - [Chiefs-Big-List-of-Programs](https://github.com/TheChiefMeat/Chiefs-Big-List-of-Programs) - 
 - [Making-Presentations-R](https://github.com/dglassuw/Making-Presentations-R) - Making websites using R & Xaringan
 - [doing-bayesian-data-analysis](https://github.com/jhrcook/doing-bayesian-data-analysis) - 
-- [dataModel.WaterNetworkManagement](https://github.com/smart-data-models/dataModel.WaterNetworkManagement) - WaternetworkManagement data models
+- [dataModel.WaterDistributionManagementEPANET](https://github.com/smart-data-models/dataModel.WaterDistributionManagementEPANET) - Data models for describing a water distribution infrastructure, also compatible with EPANET simulation tool
 - [software-dev-site](https://github.com/USCbiostats/software-dev-site) - 
 - [data-wrangling-with-the-tidyverse](https://github.com/rstudio-education/data-wrangling-with-the-tidyverse) - A gentle introduction to data wrangling in R with the Tidyverse.
 - [welcome-to-the-tidyverse](https://github.com/rstudio-education/welcome-to-the-tidyverse) - A gentle introduction to R and its Tidyverse that focuses on Exploratory Data Analysis (EDA).
@@ -6243,7 +6243,7 @@
 
 - [obsidian-publish-vue](https://github.com/bencodezen/obsidian-publish-vue) - 
 - [layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 150k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 170k+ developers. https://hoppscotch.io
 - [code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [GitXplore-Search](https://github.com/appbaseio-apps/GitXplore-Search) - An application to explore github repositories.
 - [pile](https://github.com/mtobeiyf/pile) - :zap: A simple & powerful app to organize your piled work at one place~
