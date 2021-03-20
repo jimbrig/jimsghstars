@@ -8,6 +8,7 @@
   - [AppleScript](#applescript)
   - [Assembly](#assembly)
   - [AutoHotkey](#autohotkey)
+  - [AutoIt](#autoit)
   - [Batchfile](#batchfile)
   - [C](#c)
   - [C#](#c#)
@@ -101,6 +102,10 @@
 - [dotfiles-windows](https://github.com/pallxk/dotfiles-windows) - Various config files, registry hacks, and shell scripts for Windows
 - [Zotero-Citation-Picker-for-Windows](https://github.com/boan-anbo/Zotero-Citation-Picker-for-Windows) - An AHK-based application to search and pick Zotero citations on Windows.
 - [AHKs](https://github.com/TLMcode/AHKs) - My AHK library
+
+## AutoIt 
+
+- [Resolute](https://github.com/rizonesoft/Resolute) - 
 
 ## Batchfile 
 
@@ -434,6 +439,7 @@
 
 ## CSS 
 
+- [interactive-pricing-component-Frontend-mentors](https://github.com/sammy007-debug/interactive-pricing-component-Frontend-mentors) - 
 - [uber_shiny](https://github.com/vivekkatial/uber_shiny) - Shiny App to play with uber data
 - [EndoMineR_Shiny](https://github.com/sebastiz/EndoMineR_Shiny) - Shiny app for the EndoMineR library
 - [shiny_gcr_tf](https://github.com/paeselhz/shiny_gcr_tf) - Repository containing basic R Shiny App, github action to build image and terraform to deploy to GCP Cloud Run
@@ -491,6 +497,7 @@
 - [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks
 - [stackbit-test](https://github.com/kognise/stackbit-test) - 
 - [obsidian-atom](https://github.com/kognise/obsidian-atom) - A theme for Obsidian based on Atom's One family
+- [obsidian-aviation](https://github.com/kognise/obsidian-aviation) - Clean Markdown files for FAR/AIM and more
 - [Blue-Topaz-with-Andy-mode_Obsidian_css](https://github.com/whyt-byte/Blue-Topaz-with-Andy-mode_Obsidian_css) - An Andy Matuschak-mode blue theme for Obsidian.
 - [obsidian_ia](https://github.com/rcvd/obsidian_ia) - A clean and minimal theme for obsidian, heavily inspired by iA Writer.
 - [pensieve](https://github.com/nerdalot/pensieve) - My notes using loosely the Zettelkasten method and the app Obsidian
@@ -837,6 +844,8 @@
 
 ## HTML 
 
+- [Responsive-Restaurant-Website-Design](https://github.com/sammy007-debug/Responsive-Restaurant-Website-Design) - Responsive Restaurant Website Design Using HTML CSS And JavaScript  | Website Light/Dark mode. This is a great project for beginners and will fit well in your portfolio. This website is made with html css and js.
+- [Eccom-Website](https://github.com/sammy007-debug/Eccom-Website) - This is Ecommerce Website made with Html and CSS and Also Javascript. This Ecom website is fully responsive.
 - [Documentation](https://github.com/Kodular/Documentation) - Kodular Documentation
 - [dgrtwo.github.com](https://github.com/dgrtwo/dgrtwo.github.com) - My website
 - [vfarcic.github.io](https://github.com/vfarcic/vfarcic.github.io) - 
@@ -903,6 +912,7 @@
 - [about-html](https://github.com/ReneNyffenegger/about-html) - Small html examples
 - [about-Document-Object-Model](https://github.com/ReneNyffenegger/about-Document-Object-Model) - small examples for the Document Object Model (DOM).
 - [til](https://github.com/Jeonghun-Ban/til) - Today I Learned 🔥
+- [future-kubernetes](https://github.com/paciorek/future-kubernetes) - Instructions for setting up and using a Kubernetes cluster for running R in parallel using the future package.
 - [preferably](https://github.com/amirmasoudabdol/preferably) - An accessible template for `pkgdown` websites with dynamic light/dark mode support
 - [htmlvault](https://github.com/dirkschumacher/htmlvault) - Encrypt files in self-decrypting html files using libsodium
 - [wisteria](https://github.com/overtrue/wisteria) - Beautiful document tool for your project.
@@ -1174,7 +1184,6 @@
 - [data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [example-rmd-templates](https://github.com/dr-harper/example-rmd-templates) - 📄 A selection of minimal examples used to highlight R Markdown templates, as referred to in the "R Markdown Definitive Guide"
 - [archivist](https://github.com/pbiecek/archivist) - A set of tools for datasets and plots archiving
-- [fontawesome](https://github.com/rstudio/fontawesome) - Easily insert FontAwesome icons into R Markdown docs and Shiny apps
 - [recipes](https://github.com/tidymodels/recipes) - A preprocessing engine to generate design matrices
 - [quests](https://github.com/kasaai/quests) - Adventures in research at the intersection of insurance and AI
 - [dataMaid](https://github.com/ekstroem/dataMaid) - An R package for data screening
@@ -1251,6 +1260,11 @@
 
 ## JavaScript 
 
+- [Google-Map-Api](https://github.com/sammy007-debug/Google-Map-Api) - We will implement a map with some custom markers, info window, event listeners and we will optimize the code so that we can easily add new markers with new properties to it. We will also go through how to remove the water mark (only for developer purpose) and go through how to make this project your own and add more properties and methods
+- [Google-map-distance-api](https://github.com/sammy007-debug/Google-map-distance-api) - This projects uses the google map distance api to check the time and the faster route by road to any location.
+- [distance-api](https://github.com/sammy007-debug/distance-api) - 
+- [Validation-Form](https://github.com/sammy007-debug/Validation-Form) - This is a validation form made with HTML,CSS and JS.
+- [get-changelog](https://github.com/Clement134/get-changelog) - A CLI tool to easily find changelogs
 - [powdocs](https://github.com/powwater/powdocs) - Powwater Hosted Documentation
 - [db-dashboard](https://github.com/sol-eng/db-dashboard) - Project files of the article featured here: http://db.rstudio.com/best-practices/dashboards/
 - [jQuery-Store-Locator-Plugin](https://github.com/bjorn2404/jQuery-Store-Locator-Plugin) - A store locator plugin using Google Maps API version 3
@@ -1988,6 +2002,7 @@
 
 ## Makefile 
 
+- [book-open-source-tips](https://github.com/eddiejaoude/book-open-source-tips) - Open Source book on Open Source Tips
 - [RSwitch](https://github.com/hrbrmstr/RSwitch) - 🎛 A small menubar app that allows you to switch between R versions quickly (if you have multiple versions of R framework installed).
 - [reference-implementation](https://github.com/o2r-project/reference-implementation) - A catch-all repository to run all o2r microservices and the user interface platform
 - [maker](https://github.com/ComputationalProteomicsUnit/maker) - Makefile for R packages
@@ -2040,6 +2055,8 @@
 
 ## Others 
 
+- [eddiejaoude](https://github.com/eddiejaoude/eddiejaoude) - Custom GitHub profile for Eddie Jaoude
+- [data_sci_guide](https://github.com/Chris-Engelhardt/data_sci_guide) - A community-sourced data science repo.
 - [about](https://github.com/docker-captains/about) - Docker Captains and Our Projects
 - [crrry](https://github.com/jimsforks/crrry) - 'crrri' recipes for 'shiny'
 - [scripts-to-rule-them-all](https://github.com/jefftriplett/scripts-to-rule-them-all) - ⚙ Scripts To Rule Them All
@@ -2154,7 +2171,6 @@
 - [WSL-Guideline](https://github.com/iWangJiaxiang/WSL-Guideline) - WSL(Windows Subsystem for Linux) Guideline / WSL 使用指南
 - [my-wsl-setup](https://github.com/lloydstubber/my-wsl-setup) - Quick rundown on my current setup on the Windows Subsystem for Linux.
 - [dowww](https://github.com/spencerwooo/dowww) - 📟 Dev on Windows with WSL | 在 Windows 上用 WSL 优雅开发
-- [future-kubernetes](https://github.com/paciorek/future-kubernetes) - Instructions for setting up and using a Kubernetes cluster for running R in parallel using the future package.
 - [awesome-appimage](https://github.com/AppImage/awesome-appimage) - Lovingly crafted AppImage tools and resources
 - [reproducible-science](https://github.com/oliviergimenez/reproducible-science) - material for teaching reproducible science with R and RStudio
 - [obsidian-api](https://github.com/obsidianmd/obsidian-api) - 
@@ -2494,7 +2510,6 @@
 - [dev.to](https://github.com/kognise/dev.to) - Where programmers share ideas and help each other grow
 - [oogle](https://github.com/kognise/oogle) - An open-source clone of the Google search engine and crawler infrastructure
 - [obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - 
-- [far-aim](https://github.com/kognise/far-aim) - FAR/AIM in the form of clean Markdown files
 - [articles](https://github.com/objcio/articles) - All current objc.io articles
 - [reMarkable-typescript](https://github.com/andymatuschak/reMarkable-typescript) - A typescript reMarkable Cloud API
 - [Andy-Grove---High-Output-Management](https://github.com/julian-englert/Andy-Grove---High-Output-Management) - Summary of the book High Output Management by Andy Grove
@@ -2882,6 +2897,7 @@
 
 ## Python 
 
+- [checkers](https://github.com/sammy007-debug/checkers) - 
 - [gmplot](https://github.com/gmplot/gmplot) - Plot data on Google Maps, the easy way.
 - [gmaps](https://github.com/pbugnion/gmaps) - Google maps for Jupyter notebooks
 - [action-manage-label](https://github.com/julb/action-manage-label) - 
@@ -3190,6 +3206,13 @@
 
 ## R 
 
+- [shinyex_enfr](https://github.com/paleolimbot/shinyex_enfr) - 
+- [rgoogleslides](https://github.com/hairizuanbinnoorazman/rgoogleslides) - R wrapper for Google Slides API
+- [mcreplicate](https://github.com/christophergandrud/mcreplicate) - Multi-core replicate
+- [doconv](https://github.com/ardata-fr/doconv) - 
+- [minimage](https://github.com/ardata-fr/minimage) - 
+- [locatexec](https://github.com/ardata-fr/locatexec) - 
+- [fugly](https://github.com/coolbutuseless/fugly) - Extract named substrings using named capture groups in regular expressions.
 - [bookmarking-examples](https://github.com/sol-eng/bookmarking-examples) - Examples of Shiny applications that support bookmarkable state and can be published to RStudio Connect
 - [connect-usage](https://github.com/sol-eng/connect-usage) - Report on RStudio Connect Usage
 - [plumber-health-check](https://github.com/sol-eng/plumber-health-check) - A simple plumber health check endpoint
@@ -5357,6 +5380,7 @@
 - [shinyReactWidgets](https://github.com/pvictor/shinyReactWidgets) - React widgets for Shiny apps
 - [countup](https://github.com/JohnCoene/countup) - ⏱️ countup.js R htmlwidget
 - [typed](https://github.com/JohnCoene/typed) - ⌨️ typed.js R htmlwidgets
+- [fontawesome](https://github.com/rstudio/fontawesome) - Easily insert FontAwesome icons into R Markdown docs and Shiny apps
 - [shinydnd](https://github.com/ayayron/shinydnd) - Creating drag and drop elements in Shiny
 - [shinyAce](https://github.com/trestletech/shinyAce) - Integrating the Ace editor with Shiny.
 - [rclipboard](https://github.com/sbihorel/rclipboard) - clipboard.js for R/Shiny Applications
@@ -5599,6 +5623,7 @@
 - [mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 - [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
+- [cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
 
 ## SAS 
@@ -6165,7 +6190,6 @@
 - [inkjs](https://github.com/y-lohse/inkjs) - A javascript port of inkle's ink scripting language.
 - [checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [react-containers](https://github.com/zendeskgarden/react-containers) - :seedling: garden React (no-UI) containers
-- [cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
