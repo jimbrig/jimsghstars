@@ -43,6 +43,7 @@
   - [M4](#m4)
   - [Makefile](#makefile)
   - [Mustache](#mustache)
+  - [Nim](#nim)
   - [Nix](#nix)
   - [Nunjucks](#nunjucks)
   - [OCaml](#ocaml)
@@ -844,6 +845,7 @@
 
 ## HTML 
 
+- [charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [Responsive-Restaurant-Website-Design](https://github.com/sammy007-debug/Responsive-Restaurant-Website-Design) - Responsive Restaurant Website Design Using HTML CSS And JavaScript  | Website Light/Dark mode. This is a great project for beginners and will fit well in your portfolio. This website is made with html css and js.
 - [Eccom-Website](https://github.com/sammy007-debug/Eccom-Website) - This is Ecommerce Website made with Html and CSS and Also Javascript. This Ecom website is fully responsive.
 - [Documentation](https://github.com/Kodular/Documentation) - Kodular Documentation
@@ -1274,7 +1276,6 @@
 - [react-places-autocomplete](https://github.com/hibiken/react-places-autocomplete) - React component for Google Maps Places Autocomplete
 - [google-maps-react](https://github.com/fullstackreact/google-maps-react) - Companion code to the "How to Write a Google Maps React Component" Tutorial
 - [heatmap.js](https://github.com/pa7/heatmap.js) - 🔥 JavaScript Library for HTML5 canvas based heatmaps
-- [obsidian-rust-plugin](https://github.com/trashhalo/obsidian-rust-plugin) - 
 - [inputknob](https://github.com/daattali/inputknob) - 
 - [kit](https://github.com/johnlindquist/kit) - Automate Anything.
 - [git-labels-cli](https://github.com/bukinoshita/git-labels-cli) - Creating Github issue labels
@@ -2024,6 +2025,10 @@
 
 - [charts](https://github.com/bitnami/charts) - Helm Charts
 
+## Nim 
+
+- [arturo](https://github.com/arturo-lang/arturo) - Simple, expressive & portable programming language for efficient scripting
+
 ## Nix 
 
 - [nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
@@ -2055,6 +2060,7 @@
 
 ## Others 
 
+- [Changelog-and-Markdown-snippets](https://github.com/Josee9988/Changelog-and-Markdown-snippets) - 🌞 Snippets for the creation of changelogs in VSCode!
 - [eddiejaoude](https://github.com/eddiejaoude/eddiejaoude) - Custom GitHub profile for Eddie Jaoude
 - [data_sci_guide](https://github.com/Chris-Engelhardt/data_sci_guide) - A community-sourced data science repo.
 - [about](https://github.com/docker-captains/about) - Docker Captains and Our Projects
@@ -2930,7 +2936,7 @@
 - [ck-env](https://github.com/ctuning/ck-env) - CK repository with components and automation actions to enable portable workflows across diverse platforms including Linux, Windows, MacOS and Android. It includes software detection plugins and meta packages (code, data sets, models, scripts, etc) with the possibility of multiple versions to co-exist in a user or system environment:
 - [Maid](https://github.com/dungwinux/Maid) - A package manager, written in Python 3.7, for Windows.
 - [meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 📦 CLI providing unifying interface to all package managers
-- [electric](https://github.com/electric-package-manager/electric) - A package manager for Windows!
+- [electric](https://github.com/electric-package-manager/electric) - A fast, futuristic package manager for Windows.
 - [scoop-directory](https://github.com/rasa/scoop-directory) - A directory of buckets for the scoop package manager for Windows
 - [pipwin](https://github.com/lepisma/pipwin) - Install compiled python libraries for windows provided by Christoph Gohlke
 - [poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
@@ -3031,7 +3037,6 @@
 - [django-newsfeed](https://github.com/saadmk11/django-newsfeed) - A news curator and newsletter subscription package for Django
 - [git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [onhold](https://github.com/alexdelorenzo/onhold) - 🔊 Play sounds while and after shell jobs complete
-- [arturo](https://github.com/arturo-lang/arturo) - Simple, expressive & portable programming language for efficient scripting
 - [activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [gedit-wakatime](https://github.com/wakatime/gedit-wakatime) - Gedit 3.8+ plugin for automatic time tracking and metrics generated from your programming activity.
 - [podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
@@ -3117,7 +3122,7 @@
 - [Obsidoro](https://github.com/ProjectAPA/Obsidoro) - An Pomodoro Timer for Obsidian
 - [obs_alias_generator](https://github.com/Spec04/obs_alias_generator) - Generate Alias file for Obsidian vault
 - [off-your-rocker](https://github.com/sloretz/off-your-rocker) - Extensions for osrf/rocker
-- [resilio-sync-cli](https://github.com/PythonNut/resilio-sync-cli) - Reversed enginnered API wrapper and CLI for Resilio Sync
+- [resilio-sync-cli](https://github.com/PythonNut/resilio-sync-cli) - Reversed engineered API wrapper and CLI for Resilio Sync
 - [oboe](https://github.com/kmaasrud/oboe) - :file_cabinet: A simple tool to convert an Obsidian vault into a static directory of HTML files.
 - [pssh](https://github.com/lilydjwg/pssh) - Parallel SSH Tools
 - [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
@@ -3128,7 +3133,7 @@
 - [onedrivecmd](https://github.com/cnbeining/onedrivecmd) - A command line client for Onedrive.
 - [cloudsync-onedrive](https://github.com/AtakamaLLC/cloudsync-onedrive) - 
 - [cloudsync](https://github.com/AtakamaLLC/cloudsync) - Python Cloud Synchronization Library
-- [dtags](https://github.com/joowani/dtags) - Directory Tags for Lazy Programmers
+- [dtags](https://github.com/joowani/dtags) - Command-line tool for tagging directories.
 - [ProjectCreationAutomation](https://github.com/eichingertim/ProjectCreationAutomation) - Short script that enables a "create"-command for the command-line to create a new project-folder with a local and remote github repository
 - [commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
 - [diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
@@ -5579,6 +5584,7 @@
 
 ## Rust 
 
+- [obsidian-rust-plugin](https://github.com/trashhalo/obsidian-rust-plugin) - 
 - [tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [sentry-cli](https://github.com/getsentry/sentry-cli) - A command line utility to work with Sentry.
@@ -5672,6 +5678,7 @@
 
 ## Shell 
 
+- [project-template](https://github.com/Josee9988/project-template) - An awesome GitHub TEMPLATE for any project!🚀 Quickstart your projects and get control over your community.🔥
 - [devops24](https://github.com/vfarcic/devops24) - 
 - [rk8s](https://github.com/fdrennan/rk8s) - R and Kubernetes
 - [push-docker-gcr](https://github.com/kurkop/push-docker-gcr) - Github Workflow Action to push a docker image to Google Container Registry
