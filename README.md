@@ -132,6 +132,7 @@
 
 ## C 
 
+- [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
 - [retroplasma/earth-reverse-engineering](https://github.com/retroplasma/earth-reverse-engineering) - Reversing Google's 3D satellite mode
 - [hrbrmstr/archinfo](https://github.com/hrbrmstr/archinfo) - 𖼆 Returns a list of running processes and the architecture (x86_64/arm64) they are running under.
 - [tcltk/tcl](https://github.com/tcltk/tcl) - The Tcl Core. (Mirror of core.tcl-lang.org)
@@ -196,7 +197,7 @@
 - [brodieG/vetr](https://github.com/brodieG/vetr) - Trust, but Verify
 - [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
 - [r-lib/gert](https://github.com/r-lib/gert) - Simple git client for R
-- [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter (and the most universal runtime)
+- [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter, and the most universal runtime
 - [SwiftLaTeX/SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX) - SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor
 - [Rdatatable/data.table](https://github.com/Rdatatable/data.table) - R's data.table package extends data.frame:
 - [richfitz/thor](https://github.com/richfitz/thor) - :zap::computer::zap: R client for the Lightning Memory-Mapped Database
@@ -380,7 +381,6 @@
 - [Squirrel/Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) - An installation and update framework for Windows desktop apps
 - [gitahead/gitahead](https://github.com/gitahead/gitahead) - Understand your Git history!
 - [eddelbuettel/gaselect](https://github.com/eddelbuettel/gaselect) - Genetic Algorithm for Variable Selection using Partial Least Squares
-- [NothingSoftwares/NothingOS](https://github.com/NothingSoftwares/NothingOS) - 
 - [Bazzadwarf/makefolders](https://github.com/Bazzadwarf/makefolders) - It makes folders
 - [gagolews/stringi](https://github.com/gagolews/stringi) - THE String Processing Package for R (with ICU)
 - [rstudio/sass](https://github.com/rstudio/sass) - Sass compiler package for R
@@ -845,6 +845,7 @@
 
 ## HTML 
 
+- [spedunkler/EnvDataSci](https://github.com/spedunkler/EnvDataSci) - 
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [sammy007-debug/Responsive-Restaurant-Website-Design](https://github.com/sammy007-debug/Responsive-Restaurant-Website-Design) - Responsive Restaurant Website Design Using HTML CSS And JavaScript  | Website Light/Dark mode. This is a great project for beginners and will fit well in your portfolio. This website is made with html css and js.
 - [sammy007-debug/Eccom-Website](https://github.com/sammy007-debug/Eccom-Website) - This is Ecommerce Website made with Html and CSS and Also Javascript. This Ecom website is fully responsive.
@@ -1112,6 +1113,7 @@
 - [rstudio-conf-2020/shiny-start-finish](https://github.com/rstudio-conf-2020/shiny-start-finish) - 
 - [r-for-educators/templar](https://github.com/r-for-educators/templar) - Template and autogeneration for common documents
 - [tvroylandt/sgdf_pagedown](https://github.com/tvroylandt/sgdf_pagedown) - Pagedown template
+- [MHaringa/insurancerating](https://github.com/MHaringa/insurancerating) - R-package for actuarial pricing
 - [dcomtois/github-slideshow](https://github.com/dcomtois/github-slideshow) - A robot powered training repository :robot:
 - [malcolmbarrett/ymlthis_poster](https://github.com/malcolmbarrett/ymlthis_poster) - 
 - [helske/walker](https://github.com/helske/walker) - Bayesian Generalized Linear Models with Time-Varying Coefficients
@@ -1262,6 +1264,7 @@
 
 ## JavaScript 
 
+- [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
 - [sammy007-debug/Google-Map-Api](https://github.com/sammy007-debug/Google-Map-Api) - We will implement a map with some custom markers, info window, event listeners and we will optimize the code so that we can easily add new markers with new properties to it. We will also go through how to remove the water mark (only for developer purpose) and go through how to make this project your own and add more properties and methods
 - [sammy007-debug/Google-map-distance-api](https://github.com/sammy007-debug/Google-map-distance-api) - This projects uses the google map distance api to check the time and the faster route by road to any location.
 - [sammy007-debug/distance-api](https://github.com/sammy007-debug/distance-api) - 
@@ -1899,7 +1902,7 @@
 - [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
 - [react-R/reactR](https://github.com/react-R/reactR) - React for R
 - [daranzolin/pinpoint](https://github.com/daranzolin/pinpoint) - Interactively explore points within a distribution :pushpin:
-- [openbiox/UCSCXenaShiny](https://github.com/openbiox/UCSCXenaShiny) - 📊A Shiny GUI for UCSC Xena https://xenabrowser.net/datapages/
+- [openbiox/UCSCXenaShiny](https://github.com/openbiox/UCSCXenaShiny) - 📊 A Shiny GUI for UCSC Xena https://xenabrowser.net/datapages/
 - [ValeriaNiceria/operDash](https://github.com/ValeriaNiceria/operDash) - OperDash - Dashboard Shiny (Pacote em construção!)
 - [wch/webshot](https://github.com/wch/webshot) - Take screenshots of web pages from R
 - [namespace-ee/react-calendar-timeline](https://github.com/namespace-ee/react-calendar-timeline) - A modern and responsive react timeline component.
@@ -3211,6 +3214,11 @@
 
 ## R 
 
+- [deepanshu88/shinyDarkmode](https://github.com/deepanshu88/shinyDarkmode) - Add Darkmode in Shiny App
+- [poissonconsulting/checkr](https://github.com/poissonconsulting/checkr) - An R package of assertive functions to check the properties of common R objects.
+- [skranz/shinyChatQuiz](https://github.com/skranz/shinyChatQuiz) - App for online lecture support with chat and quizzes
+- [skranz/shinyEventsPushMessage](https://github.com/skranz/shinyEventsPushMessage) - Send push messages with a shinyEvents app
+- [skranz/dbmisc](https://github.com/skranz/dbmisc) - Tools for working with databases in R
 - [paleolimbot/shinyex_enfr](https://github.com/paleolimbot/shinyex_enfr) - 
 - [hairizuanbinnoorazman/rgoogleslides](https://github.com/hairizuanbinnoorazman/rgoogleslides) - R wrapper for Google Slides API
 - [christophergandrud/mcreplicate](https://github.com/christophergandrud/mcreplicate) - Multi-core replicate
@@ -3562,7 +3570,7 @@
 - [peterhurford/pkgdeps](https://github.com/peterhurford/pkgdeps) - Find CRAN dependencies for R packages the easy way!
 - [Bioconductor/pkgDepTools](https://github.com/Bioconductor/pkgDepTools) - Bioconductor package dependency tools
 - [hongooi73/testpkg](https://github.com/hongooi73/testpkg) - Test pkgdepends
-- [tidymodels/workflowsets](https://github.com/tidymodels/workflowsets) - A workflow is a combination of a model and preprocessors (e.g, a formula, recipe, etc.). In order to try different combinations of these, an object can be created that contains many workflows. There are functions to create workflows en masse as well as training them and visualizing the results.
+- [tidymodels/workflowsets](https://github.com/tidymodels/workflowsets) - Create a collection of modeling workflows
 - [meztez/rapidoc](https://github.com/meztez/rapidoc) - RapiDoc UI integration for R
 - [meztez/redoc](https://github.com/meztez/redoc) - A collection of 'HTML', 'JavaScript', 'CSS' and fonts  assets that generate 'Redoc' documentation from an OAS compliant API.
 - [meztez/bigrquerystorage](https://github.com/meztez/bigrquerystorage) - R Client for BigQuery Storage API
@@ -3911,7 +3919,7 @@
 - [kevinushey/configure](https://github.com/kevinushey/configure) - Configure R packages for installation with R.
 - [MilesMcBain/drake_make](https://github.com/MilesMcBain/drake_make) - makefile as drake plan
 - [MilesMcBain/vsconfig](https://github.com/MilesMcBain/vsconfig) - My config for R in VSCode
-- [henry090/fastai](https://github.com/henry090/fastai) - R interface to fast.ai
+- [EagerAI/fastai](https://github.com/EagerAI/fastai) - R interface to fast.ai
 - [kgoldfeld/simstudy](https://github.com/kgoldfeld/simstudy) - simstudy: Illuminating research methods through data generation
 - [ColinFay/dockerstats](https://github.com/ColinFay/dockerstats) - R Wrapper Around 'docker stats'
 - [RMHogervorst/pinboardr](https://github.com/RMHogervorst/pinboardr) - Interact with the pinboard.in api from your R session
@@ -4655,7 +4663,6 @@
 - [jimbrig/codmw](https://github.com/jimbrig/codmw) - Call of Duty Modern Warfare App
 - [kassambara/rstatix](https://github.com/kassambara/rstatix) - Pipe-friendly Framework for Basic Statistical Tests in R
 - [ianmcook/implyr](https://github.com/ianmcook/implyr) - SQL backend to dplyr for Impala
-- [MHaringa/insurancerating](https://github.com/MHaringa/insurancerating) - R-package for actuarial pricing
 - [Novartis/tidymodules](https://github.com/Novartis/tidymodules) - An Object-Oriented approach to Shiny modules
 - [davidgohel/rvg](https://github.com/davidgohel/rvg) - 
 - [cardiomoon/processR](https://github.com/cardiomoon/processR) - 
