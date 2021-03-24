@@ -132,6 +132,7 @@
 
 ## C 
 
+- [aleen42/PersonalWiki](https://github.com/aleen42/PersonalWiki) - :notebook: A simple personal wiki of my current knowledge
 - [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
 - [retroplasma/earth-reverse-engineering](https://github.com/retroplasma/earth-reverse-engineering) - Reversing Google's 3D satellite mode
 - [hrbrmstr/archinfo](https://github.com/hrbrmstr/archinfo) - 𖼆 Returns a list of running processes and the architecture (x86_64/arm64) they are running under.
@@ -845,6 +846,7 @@
 
 ## HTML 
 
+- [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
 - [spedunkler/EnvDataSci](https://github.com/spedunkler/EnvDataSci) - 
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [sammy007-debug/Responsive-Restaurant-Website-Design](https://github.com/sammy007-debug/Responsive-Restaurant-Website-Design) - Responsive Restaurant Website Design Using HTML CSS And JavaScript  | Website Light/Dark mode. This is a great project for beginners and will fit well in your portfolio. This website is made with html css and js.
@@ -1113,7 +1115,6 @@
 - [rstudio-conf-2020/shiny-start-finish](https://github.com/rstudio-conf-2020/shiny-start-finish) - 
 - [r-for-educators/templar](https://github.com/r-for-educators/templar) - Template and autogeneration for common documents
 - [tvroylandt/sgdf_pagedown](https://github.com/tvroylandt/sgdf_pagedown) - Pagedown template
-- [MHaringa/insurancerating](https://github.com/MHaringa/insurancerating) - R-package for actuarial pricing
 - [dcomtois/github-slideshow](https://github.com/dcomtois/github-slideshow) - A robot powered training repository :robot:
 - [malcolmbarrett/ymlthis_poster](https://github.com/malcolmbarrett/ymlthis_poster) - 
 - [helske/walker](https://github.com/helske/walker) - Bayesian Generalized Linear Models with Time-Varying Coefficients
@@ -1222,6 +1223,7 @@
 
 ## Java 
 
+- [openkm/document-management-system](https://github.com/openkm/document-management-system) - OpenKM is a Open Source Document Management System
 - [miguelhincapie/CustomBottomSheetBehavior](https://github.com/miguelhincapie/CustomBottomSheetBehavior) - Custom BottomSheetBehavior for Android that mimic Google Maps behavior
 - [cesardeazevedo/react-native-bottom-sheet-behavior](https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior) - react-native wrapper for android BottomSheetBehavior
 - [airbnb/AirMapView](https://github.com/airbnb/AirMapView) - A view abstraction to provide a map user interface with various underlying map providers
@@ -1264,6 +1266,7 @@
 
 ## JavaScript 
 
+- [fireship-io/3.1-firebase-basics](https://github.com/fireship-io/3.1-firebase-basics) - Firebase - The Basics
 - [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
 - [sammy007-debug/Google-Map-Api](https://github.com/sammy007-debug/Google-Map-Api) - We will implement a map with some custom markers, info window, event listeners and we will optimize the code so that we can easily add new markers with new properties to it. We will also go through how to remove the water mark (only for developer purpose) and go through how to make this project your own and add more properties and methods
 - [sammy007-debug/Google-map-distance-api](https://github.com/sammy007-debug/Google-map-distance-api) - This projects uses the google map distance api to check the time and the faster route by road to any location.
@@ -2064,6 +2067,10 @@
 
 ## Others 
 
+- [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+- [AccessGateLabs/useful-jsons](https://github.com/AccessGateLabs/useful-jsons) - A collection of JSONs used by AccessGate Labs in its applications.
+- [RichardLitt/meta-knowledge](https://github.com/RichardLitt/meta-knowledge) - 💡 A list of knowledge repositories
+- [mattes/gce-docker-push-action](https://github.com/mattes/gce-docker-push-action) - Github action to push a docker image to Google Cloud's Container Registry.
 - [Josee9988/Changelog-and-Markdown-snippets](https://github.com/Josee9988/Changelog-and-Markdown-snippets) - 🌞 Snippets for the creation of changelogs in VSCode!
 - [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude) - Custom GitHub profile for Eddie Jaoude
 - [Chris-Engelhardt/data_sci_guide](https://github.com/Chris-Engelhardt/data_sci_guide) - A community-sourced data science repo.
@@ -2906,6 +2913,8 @@
 
 ## Python 
 
+- [pavopax/gists](https://github.com/pavopax/gists) - Easily find my gists
+- [goldfiglabs/introspector](https://github.com/goldfiglabs/introspector) - A schema and set of tools for using SQL to query cloud infrastructure.
 - [sammy007-debug/checkers](https://github.com/sammy007-debug/checkers) - 
 - [gmplot/gmplot](https://github.com/gmplot/gmplot) - Plot data on Google Maps, the easy way.
 - [pbugnion/gmaps](https://github.com/pbugnion/gmaps) - Google maps for Jupyter notebooks
@@ -3026,7 +3035,7 @@
 - [genedan/MIES](https://github.com/genedan/MIES) - Miniature Insurance Economic Simulator
 - [yusuzech/tidyverse_notes](https://github.com/yusuzech/tidyverse_notes) - Avoid common mistake and write efficient codes in tidyverse.
 - [youyanggu/groupme_stats](https://github.com/youyanggu/groupme_stats) - Tool to download and optionally display interesting stats about GroupMe messages
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs such as http://ipstack.com, http://fixer.io/, https://numverify.com/, etc. for use in software and web development.
 - [chinanf-boy/explain-starred](https://github.com/chinanf-boy/explain-starred) - manager your star ,simple py run, explain to you
 - [khast3x/github-starmap](https://github.com/khast3x/github-starmap) - Python utility to export a user's starred repositories list into a CSV file
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -3214,6 +3223,13 @@
 
 ## R 
 
+- [miraisolutions/compareWith](https://github.com/miraisolutions/compareWith) - RStudio Addins for Enhanced Diff and Merge
+- [miraisolutions/techguides](https://github.com/miraisolutions/techguides) - Technical Guidelines
+- [miraisolutions/ShinyCICD](https://github.com/miraisolutions/ShinyCICD) - Example of a packaged Shiny App for illustrating CI/CD pipelines
+- [hughjonesd/rumpel](https://github.com/hughjonesd/rumpel) - Manipulate objects by their names
+- [cynkra/indiedown](https://github.com/cynkra/indiedown) - Individual RMarkdown Templates
+- [G-Thomson/Manu](https://github.com/G-Thomson/Manu) - This package provides colour palettes derived from birds native to New Zealand
+- [colearendt/shinytest-playground](https://github.com/colearendt/shinytest-playground) - 
 - [deepanshu88/shinyDarkmode](https://github.com/deepanshu88/shinyDarkmode) - Add Darkmode in Shiny App
 - [poissonconsulting/checkr](https://github.com/poissonconsulting/checkr) - An R package of assertive functions to check the properties of common R objects.
 - [skranz/shinyChatQuiz](https://github.com/skranz/shinyChatQuiz) - App for online lecture support with chat and quizzes
@@ -3234,6 +3250,7 @@
 - [dgrtwo/drlib](https://github.com/dgrtwo/drlib) - Personal R package
 - [chriscardillo/giftwrap](https://github.com/chriscardillo/giftwrap) - Take shell commands and turn them into R functions
 - [dgrtwo/cranview](https://github.com/dgrtwo/cranview) - A Shiny app to visualize downloads from RStudio's CRAN mirror
+- [powwater/vendor_dashboard](https://github.com/powwater/vendor_dashboard) - Vendor Dashboard Shiny Web Application
 - [powwater/landing_page](https://github.com/powwater/landing_page) - Minimal example landing page application portal for powwater apps.
 - [jimbrig/jimstemplates](https://github.com/jimbrig/jimstemplates) - Personal Templates
 - [datasketch/parmesan](https://github.com/datasketch/parmesan) - 
@@ -4663,6 +4680,7 @@
 - [jimbrig/codmw](https://github.com/jimbrig/codmw) - Call of Duty Modern Warfare App
 - [kassambara/rstatix](https://github.com/kassambara/rstatix) - Pipe-friendly Framework for Basic Statistical Tests in R
 - [ianmcook/implyr](https://github.com/ianmcook/implyr) - SQL backend to dplyr for Impala
+- [MHaringa/insurancerating](https://github.com/MHaringa/insurancerating) - R-package for actuarial pricing
 - [Novartis/tidymodules](https://github.com/Novartis/tidymodules) - An Object-Oriented approach to Shiny modules
 - [davidgohel/rvg](https://github.com/davidgohel/rvg) - 
 - [cardiomoon/processR](https://github.com/cardiomoon/processR) - 
@@ -5541,6 +5559,7 @@
 
 ## Ruby 
 
+- [molybdenum-99/reality](https://github.com/molybdenum-99/reality) - Comprehensive data proxy to knowledge about real world
 - [kdaigle/hookable](https://github.com/kdaigle/hookable) - A simple app that accepts and stores webhook deliveries.
 - [CocoaPods/Molinillo](https://github.com/CocoaPods/Molinillo) - A generic dependency resolution algorithm.
 - [namiwang/fiber-note](https://github.com/namiwang/fiber-note) - A networked note-taking app, open and self-hosted, inspired by roam-research, obsidian and others.
@@ -5685,6 +5704,7 @@
 
 ## Shell 
 
+- [pmorelli92/github-container-registry-build-push](https://github.com/pmorelli92/github-container-registry-build-push) - Github Action that builds and pushes a docker image to Github Container Registry
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome GitHub TEMPLATE for any project!🚀 Quickstart your projects and get control over your community.🔥
 - [vfarcic/devops24](https://github.com/vfarcic/devops24) - 
 - [fdrennan/rk8s](https://github.com/fdrennan/rk8s) - R and Kubernetes
@@ -6013,6 +6033,8 @@
 
 ## TypeScript 
 
+- [crowi/crowi](https://github.com/crowi/crowi) - Crowi - The Markdown Wiki - Empower the team with sharing your knowledge
+- [fireship-io/fireship.io](https://github.com/fireship-io/fireship.io) - Build and ship your app faster  https://fireship.io
 - [wellyshen/use-places-autocomplete](https://github.com/wellyshen/use-places-autocomplete) - 😎 📍 React hook for Google Maps Places Autocomplete.
 - [JustFly1984/react-google-maps-api](https://github.com/JustFly1984/react-google-maps-api) - React Google Maps API
 - [SebastianM/angular-google-maps](https://github.com/SebastianM/angular-google-maps) - Angular 2+ Google Maps Components
