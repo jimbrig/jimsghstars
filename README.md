@@ -609,7 +609,6 @@
 
 ## Dhall 
 
-- [dnnsmnstrr/zettelkasten](https://github.com/dnnsmnstrr/zettelkasten) - 
 - [Kuratoro/haskell.zettel.page](https://github.com/Kuratoro/haskell.zettel.page) - Haskell knowledgebase, Zettelkasten style (~2 months experiment, which resulted in migration to srid.ca)
 
 ## Dockerfile 
@@ -933,6 +932,7 @@
 - [skranz/CoursesWithR](https://github.com/skranz/CoursesWithR) - 
 - [jadjoubran/webdash](https://github.com/jadjoubran/webdash) - 🔥 Orchestrate your web project with Webdash the customizable web dashboard
 - [KasperZutterman/KasperZutterman.github.io](https://github.com/KasperZutterman/KasperZutterman.github.io) - Personal website:
+- [dnnsmnstrr/zettelkasten](https://github.com/dnnsmnstrr/zettelkasten) - 
 - [Thought-Tank/thought-tank](https://github.com/Thought-Tank/thought-tank) - Your second brain belongs to you.
 - [SinglePageBookProject/SPB](https://github.com/SinglePageBookProject/SPB) - Pragmatical way to create cheat-sheets, bookmarks, full-books in a single page. (Zettlekasten the web!)
 - [SinglePageBookProject/IT_notes](https://github.com/SinglePageBookProject/IT_notes) - A new way to document for the 21st century
@@ -1056,6 +1056,7 @@
 - [Andreilys/personal_dashboard](https://github.com/Andreilys/personal_dashboard) - A Real-Time Personal Dashboard For Your Life
 - [Naereen/uLogMe](https://github.com/Naereen/uLogMe) - :bar_chart: :chart_with_upwards_trend: Automatically collect and visualize usage statistics on Ubuntu, with :musical_keyboard: key frequencies and :computer: window titles →
 - [pbiecek/pbiecek.github.io](https://github.com/pbiecek/pbiecek.github.io) - My web page
+- [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [kutyla-philipp/simple-dash](https://github.com/kutyla-philipp/simple-dash) - A simple, fully responsive Dashboard to forward to the services of your choice!
 - [betterspecs/betterspecs](https://github.com/betterspecs/betterspecs) - RSpec Best Practices
 - [slopp/Load-Test](https://github.com/slopp/Load-Test) - Load test shiny app against Docker Swarm and HA RSC Cluster.
@@ -1768,7 +1769,6 @@
 - [keithmcnulty/r_package_training](https://github.com/keithmcnulty/r_package_training) - Short training session on building R packages
 - [noplanman/GitHub-Tweaks](https://github.com/noplanman/GitHub-Tweaks) - Userscript that adds tweaks to GitHub.
 - [notlmn/winreg-cli](https://github.com/notlmn/winreg-cli) - Command line tool with a fluent API for modifying the Windows registry
-- [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [gilbitron/Raneto](https://github.com/gilbitron/Raneto) - Markdown powered Knowledgebase for Nodejs
 - [drichard/mindmaps](https://github.com/drichard/mindmaps) - An open source, offline capable, mind mapping application leveraging HTML5 technologies
 - [subnub/myDrive](https://github.com/subnub/myDrive) - Node.js and mongoDB Google Drive Clone
@@ -2067,6 +2067,7 @@
 
 ## Others 
 
+- [BenjaminWolfe/fob](https://github.com/BenjaminWolfe/fob) - A wrapper for keychain and dbplyr to make it all a bit easier.
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [AccessGateLabs/useful-jsons](https://github.com/AccessGateLabs/useful-jsons) - A collection of JSONs used by AccessGate Labs in its applications.
 - [RichardLitt/meta-knowledge](https://github.com/RichardLitt/meta-knowledge) - 💡 A list of knowledge repositories
@@ -2770,6 +2771,7 @@
 
 ## Perl 
 
+- [cbbrowne/autodoc](https://github.com/cbbrowne/autodoc) - PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms
 - [ReneNyffenegger/notes](https://github.com/ReneNyffenegger/notes) - 
 - [thoughtbot/rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management
 - [foswiki/distro](https://github.com/foswiki/distro) - START HERE!  This is the Foswiki project "Distribution".  It is a monolith repository with the core + default extensions.
@@ -2816,7 +2818,6 @@
 - [treffynnon/Windows-Boxstarter-with-WSL-Ubuntu](https://github.com/treffynnon/Windows-Boxstarter-with-WSL-Ubuntu) - My Windows Boxstarter with WSL (Ubuntu)
 - [KNOXDEV/wsl](https://github.com/KNOXDEV/wsl) - A scoop bucket for Window Subsystem for Linux distros. No Windows Store necessary. mirror of: https://git.irs.sh/KNOXDEV/wsl
 - [ptylenda/kubernetes-for-windows](https://github.com/ptylenda/kubernetes-for-windows) - Ansible playbooks and Packer templates for creating hybrid Windows/Linux Kubernetes 1.10+ cluster with experimental Flannel pod network (host-gw backend)
-- [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
 - [Digressive/Remove-Win10-Apps](https://github.com/Digressive/Remove-Win10-Apps) - Customisable Windows 10 app removal utility
 - [Carlmundo/W10-Cleanser](https://github.com/Carlmundo/W10-Cleanser) - Remove advertising, disable data collection, annoying notifications, default apps and more. Ideal for fresh installs of Windows 10 and those looking to purify their current installation.
 - [dariusz-wozniak/PowerShell-Docs](https://github.com/dariusz-wozniak/PowerShell-Docs) - The official PowerShell documentation sources
@@ -2953,6 +2954,7 @@
 - [lepisma/pipwin](https://github.com/lepisma/pipwin) - Install compiled python libraries for windows provided by Christoph Gohlke
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
+- [ahmetb/dotfiles](https://github.com/ahmetb/dotfiles) - Ahmet's dotfiles and macOS customizations
 - [winpython/winpython](https://github.com/winpython/winpython) - A free Python-distribution for Windows platform, including prebuilt packages for Scientific Python.
 - [amitness/habitist](https://github.com/amitness/habitist) - GitHub action that integrates native habit tracking in todoist. Apply the "Don't Break the Chain" method for habit building.
 - [DongjunLee/quantified-self](https://github.com/DongjunLee/quantified-self) - Self-knowledge through numbers
@@ -3223,6 +3225,8 @@
 
 ## R 
 
+- [daroczig/dbr](https://github.com/daroczig/dbr) - Secure database connections and convenient queries from R on the top of DBI
+- [daroczig/logger](https://github.com/daroczig/logger) - A lightweight, modern and flexible, log4j and futile.logger inspired logging utility for R
 - [miraisolutions/compareWith](https://github.com/miraisolutions/compareWith) - RStudio Addins for Enhanced Diff and Merge
 - [miraisolutions/techguides](https://github.com/miraisolutions/techguides) - Technical Guidelines
 - [miraisolutions/ShinyCICD](https://github.com/miraisolutions/ShinyCICD) - Example of a packaged Shiny App for illustrating CI/CD pipelines
@@ -5746,7 +5750,6 @@
 - [Artificially-Intelligent/shiny](https://github.com/Artificially-Intelligent/shiny) - rocker/rbase docker image with a selection of packages preinstalled geared to support R-Shiny based webapp.
 - [cloudyr/pkgtemplate](https://github.com/cloudyr/pkgtemplate) - Style guide-consistent package template for the cloudyr project
 - [ramnathv/test-r-codespaces](https://github.com/ramnathv/test-r-codespaces) - 
-- [ahmetb/dotfiles](https://github.com/ahmetb/dotfiles) - Ahmet's dotfiles and macOS customizations
 - [grove-mountain/vault_essential_patterns_blog](https://github.com/grove-mountain/vault_essential_patterns_blog) - Code examples used for the Essential Patterns of Vault -- Pt 2 blog post
 - [sethvargo/vault-demo](https://github.com/sethvargo/vault-demo) - Walkthroughs and scripts for my @HashiCorp Vault talks
 - [rstudio/connect-api-deploy-shiny](https://github.com/rstudio/connect-api-deploy-shiny) - RStudio Connect API-driven Shiny application deployment example.
@@ -5773,6 +5776,7 @@
 - [seapagan/ubuntu-win-bootstrap](https://github.com/seapagan/ubuntu-win-bootstrap) - A very simple bootstrap script to install some development tools to the Windows 10 Ubuntu Bash system - Ruby, Perl, Python, Node, Sublime Text and more!
 - [robertluwang/portabledevops](https://github.com/robertluwang/portabledevops) - A portable devops tool set on windows, easy customization of cmder/console+msys2/cygwin/wsl
 - [mviereck/runx](https://github.com/mviereck/runx) - Provide X server on MS Windows with cookie authentication.
+- [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
 - [serialphotog/winbuntu](https://github.com/serialphotog/winbuntu) - Makes creating and managing a Linux environment through the Windows 10 WSL easy
 - [hangxingliu/wslgit](https://github.com/hangxingliu/wslgit) - :candy: Use Git installed in WSL(Windows Subsystem for Linux) from Windows and Visual Studio Code
 - [4U6U57/wsl-open](https://github.com/4U6U57/wsl-open) - Open files with xdg-open on Bash for Windows in Windows applications. Read only mirror from GitLab, see link :point_right:
@@ -6172,7 +6176,7 @@
 - [alefragnani/vscode-project-manager](https://github.com/alefragnani/vscode-project-manager) - Project Manager Extension for Visual Studio Code
 - [microsoft/vscode-mssql](https://github.com/microsoft/vscode-mssql) - Visual Studio Code SQL Server extension.
 - [ritwickdey/vscode-live-server](https://github.com/ritwickdey/vscode-live-server) - Launch a development local Server with live reload feature for static & dynamic pages.
-- [badgateway/ketting](https://github.com/badgateway/ketting) - Ketting the HATEOAS client for javascript
+- [badgateway/ketting](https://github.com/badgateway/ketting) - The HATEOAS client for javascript
 - [microsoft/vscode-docker](https://github.com/microsoft/vscode-docker) - Docker extension for Visual Studio Code
 - [pmndrs/use-asset](https://github.com/pmndrs/use-asset) - 📦  A promise caching strategy for React Suspense
 - [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
