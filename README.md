@@ -846,7 +846,7 @@
 ## HTML 
 
 - [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
-- [spedunkler/EnvDataSci](https://github.com/spedunkler/EnvDataSci) - 
+- [iGISc/EnvDataSci](https://github.com/iGISc/EnvDataSci) - 
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [sammy007-debug/Responsive-Restaurant-Website-Design](https://github.com/sammy007-debug/Responsive-Restaurant-Website-Design) - Responsive Restaurant Website Design Using HTML CSS And JavaScript  | Website Light/Dark mode. This is a great project for beginners and will fit well in your portfolio. This website is made with html css and js.
 - [sammy007-debug/Eccom-Website](https://github.com/sammy007-debug/Eccom-Website) - This is Ecommerce Website made with Html and CSS and Also Javascript. This Ecom website is fully responsive.
@@ -941,6 +941,7 @@
 - [holtzy/R-Markdown-Parallax](https://github.com/holtzy/R-Markdown-Parallax) - How to use parallax on your R Markdown output
 - [mcanouil/rpackages](https://github.com/mcanouil/rpackages) - A short introduction on building R-packages
 - [mcanouil/rshiny](https://github.com/mcanouil/rshiny) - Introduction to the 'shiny' package
+- [mcanouil/rstartup](https://github.com/mcanouil/rstartup) - Tips to start working with R
 - [nstrayer/cv](https://github.com/nstrayer/cv) - My CV built using RMarkdown and the pagedown package.
 - [allejo/jekyll-toc](https://github.com/allejo/jekyll-toc) - A GitHub Pages compatible Table of Contents generator without a plugin or JavaScript :octocat:
 - [iamericfletcher/distill_blog](https://github.com/iamericfletcher/distill_blog) - 
@@ -2235,7 +2236,6 @@
 - [canro91/useful-dev-tools](https://github.com/canro91/useful-dev-tools) - :star: A list with useful tools that help many Developers. Hacktoberfest :star:
 - [builtbybel/CleanmgrPlus](https://github.com/builtbybel/CleanmgrPlus) - 🐾 A Improved Replacement for Microsoft Disk Cleanup
 - [pgcudahy/cookiecutter-r-analysis-template](https://github.com/pgcudahy/cookiecutter-r-analysis-template) - Cookiecutter template for R data analysis with jupyter notebooks
-- [mcanouil/rstartup](https://github.com/mcanouil/rstartup) - Tips to start working with R
 - [Timtech4u/awesome-cloudbuild](https://github.com/Timtech4u/awesome-cloudbuild) - A curated list of resources about all things Google Cloud Build
 - [johan/world.geo.json](https://github.com/johan/world.geo.json) - Annotated geo-json geometry files for the world
 - [iamericfletcher/awesome-r-learning-resources](https://github.com/iamericfletcher/awesome-r-learning-resources) - A curated collection of free resources to help deepen your understanding of the R programming language. Updated regularly. Contributions encouraged via pull request (see contributing.md).
@@ -4727,7 +4727,7 @@
 - [tdhock/inlinedocs](https://github.com/tdhock/inlinedocs) - Convert inline comments and examples to Rd documentation files
 - [GeoBosh/Rdpack](https://github.com/GeoBosh/Rdpack) - R package Rdpack provides functions and macros facilitating writing and management of R documentation.
 - [ropensci/weathercan](https://github.com/ropensci/weathercan) - R package for downloading weather data from Environment and Climate Change Canada
-- [SentometricsResearch/sentometrics](https://github.com/SentometricsResearch/sentometrics) - An integrated framework for textual sentiment time series aggregation and prediction
+- [SentometricsResearch/sentometrics](https://github.com/SentometricsResearch/sentometrics) - An integrated framework in R for textual sentiment time series aggregation and prediction
 - [ropensci/mapscanner](https://github.com/ropensci/mapscanner) - R package to print maps, draw on them, and scan them back in
 - [rstudio-conf-2020/build-tidy-tools](https://github.com/rstudio-conf-2020/build-tidy-tools) - Materials for the Building Tidy Tools workshop at rstudio::conf 2020
 - [yanlesin/ylhelper](https://github.com/yanlesin/ylhelper) - Yan's Wrappers for openxlsx Package
@@ -6307,7 +6307,7 @@
 
 - [bencodezen/obsidian-publish-vue](https://github.com/bencodezen/obsidian-publish-vue) - 
 - [Leniolabs/layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 170k+ developers. https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 180k+ developers. https://hoppscotch.io
 - [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [appbaseio-apps/GitXplore-Search](https://github.com/appbaseio-apps/GitXplore-Search) - An application to explore github repositories.
 - [mtobeiyf/pile](https://github.com/mtobeiyf/pile) - :zap: A simple & powerful app to organize your piled work at one place~
