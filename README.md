@@ -36,6 +36,7 @@
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jsonnet](#jsonnet)
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
@@ -613,6 +614,7 @@
 
 ## Dockerfile 
 
+- [GoogleCloudPlatform/cloud-sdk-docker](https://github.com/GoogleCloudPlatform/cloud-sdk-docker) - Docker image with all the components of the Google Cloud SDK
 - [mdneuzerling/plumber-on-k8s](https://github.com/mdneuzerling/plumber-on-k8s) - Run a `plumber` API on Kubernetes
 - [RaccoonDev/push-docker-gcr](https://github.com/RaccoonDev/push-docker-gcr) - Github Workflow Action to push a docker image to Google Container Registry
 - [ThinkR-open/docker4dev](https://github.com/ThinkR-open/docker4dev) - Repository with DockerFiles for tutorials
@@ -739,6 +741,7 @@
 - [tmrts/boilr](https://github.com/tmrts/boilr) - :zap: boilerplate template manager that generates files or directories from template repositories
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker technologies, with real DevOps practice!
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
+- [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [ExpediaGroup/flyte](https://github.com/ExpediaGroup/flyte) - Flyte binds together the tools you use into easily defined, automated workflows
 - [unidoc/unipdf-examples](https://github.com/unidoc/unipdf-examples) - Examples for creating and processing PDF files with UniPDF https://github.com/unidoc/unipdf
@@ -845,6 +848,7 @@
 
 ## HTML 
 
+- [domchristie/turndown](https://github.com/domchristie/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
 - [iGISc/EnvDataSci](https://github.com/iGISc/EnvDataSci) - 
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
@@ -907,7 +911,7 @@
 - [maelle/reprex_demo](https://github.com/maelle/reprex_demo) - Experiments around sharing reprexes on Gist and Twitter
 - [o2r-project/ctv-computational-environments](https://github.com/o2r-project/ctv-computational-environments) - A CRAN task view for computational environments and reproducibility
 - [ahmetb/cloud-run-hello](https://github.com/ahmetb/cloud-run-hello) - Sample Cloud Run application
-- [miraisolutions/Covid19](https://github.com/miraisolutions/Covid19) - Analyze COVID-19 data
+- [miraisolutions/Covid19](https://github.com/miraisolutions/Covid19) - Dashboard developed in r shiny  to provide insight on COVID-19 pandemic, analyzing data from public, reliable sources.
 - [ropensci-books/targets-design](https://github.com/ropensci-books/targets-design) - targets R package design specification
 - [mahmudahsan/thinkdiff](https://github.com/mahmudahsan/thinkdiff) - My open source project links, programming and software development related code and tutorials are in this repo. Content types: Python, JavaScript, Dart | Django, React, Flutter, React-Native etc.
 - [nishantpainter/personal-kanban](https://github.com/nishantpainter/personal-kanban) - 📌 Personal Kanban Board is an agile project management tool that helps you visualise your work, limit your work-in-progress (WIP) and to craft & optimise your work flow to get the maximum output. To achieve this, it makes use of columns and cards. Personal Kanban offers visual clue, columns, WIP limits, start point and end point to set you up for success.
@@ -940,7 +944,6 @@
 - [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
 - [holtzy/R-Markdown-Parallax](https://github.com/holtzy/R-Markdown-Parallax) - How to use parallax on your R Markdown output
 - [mcanouil/rpackages](https://github.com/mcanouil/rpackages) - A short introduction on building R-packages
-- [mcanouil/rshiny](https://github.com/mcanouil/rshiny) - Introduction to the 'shiny' package
 - [mcanouil/rstartup](https://github.com/mcanouil/rstartup) - Tips to start working with R
 - [nstrayer/cv](https://github.com/nstrayer/cv) - My CV built using RMarkdown and the pagedown package.
 - [allejo/jekyll-toc](https://github.com/allejo/jekyll-toc) - A GitHub Pages compatible Table of Contents generator without a plugin or JavaScript :octocat:
@@ -1268,6 +1271,14 @@
 
 ## JavaScript 
 
+- [forseti-security/forseti-visualizer](https://github.com/forseti-security/forseti-visualizer) - 
+- [google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action) - automated releases based on conventional commits
+- [bunsn/boiler-bookmarklet](https://github.com/bunsn/boiler-bookmarklet) - Download financial transactions as a CSV with a bookmarklet.
+- [bunsn/boiler](https://github.com/bunsn/boiler) - Simplify the task of exporting financial data from banking websites.
+- [benweet/stackedit.js](https://github.com/benweet/stackedit.js) - Add StackEdit to any website
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
+- [sapegin/mrm](https://github.com/sapegin/mrm) - Codemods for your project config files
+- [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [fireship-io/3.1-firebase-basics](https://github.com/fireship-io/3.1-firebase-basics) - Firebase - The Basics
 - [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
 - [sammy007-debug/Google-Map-Api](https://github.com/sammy007-debug/Google-Map-Api) - We will implement a map with some custom markers, info window, event listeners and we will optimize the code so that we can easily add new markers with new properties to it. We will also go through how to remove the water mark (only for developer purpose) and go through how to make this project your own and add more properties and methods
@@ -1445,7 +1456,6 @@
 - [eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
 - [egoist/maid](https://github.com/egoist/maid) - Markdown driven task runner.
 - [ghostinthewires/Azure-Readiness-Checklist](https://github.com/ghostinthewires/Azure-Readiness-Checklist) - This checklist is your guide to the best practices for deploying secure, scalable, and highly available infrastructure in Azure. Before you go live, go through each item, and make sure you haven't missed anything important!
-- [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [lgraubner/sitemap-generator](https://github.com/lgraubner/sitemap-generator) - Easily create XML sitemaps for your website.
 - [teles/awesome-seo](https://github.com/teles/awesome-seo) - :star2: A curated list of SEO (Search Engine Optimization) links.
 - [lamartire/sharec](https://github.com/lamartire/sharec) - 📦 Store your configs in one place and share between projects without any pain
@@ -1943,6 +1953,10 @@
 - [daattali/colourpicker](https://github.com/daattali/colourpicker) - 🎨 A colour picker tool for Shiny and for selecting colours in plots (in R)
 - [shinyTree/shinyTree](https://github.com/shinyTree/shinyTree) - Shiny integration with the jsTree library
 
+## Jsonnet 
+
+- [google/jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
+
 ## Julia 
 
 - [svaksha/pythonidae](https://github.com/svaksha/pythonidae) - Curated decibans of scientific programming resources in Python.
@@ -2068,6 +2082,7 @@
 
 ## Others 
 
+- [sidikry/Design-Resource-for-Developer-bradtraversy](https://github.com/sidikry/Design-Resource-for-Developer-bradtraversy) - https://github.com/bradtraversy/design-resources-for-developers
 - [BenjaminWolfe/fob](https://github.com/BenjaminWolfe/fob) - A wrapper for keychain and dbplyr to make it all a bit easier.
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [AccessGateLabs/useful-jsons](https://github.com/AccessGateLabs/useful-jsons) - A collection of JSONs used by AccessGate Labs in its applications.
@@ -2734,6 +2749,7 @@
 
 ## PHP 
 
+- [symfony/config](https://github.com/symfony/config) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
 - [jeremykenedy/laravel-auth](https://github.com/jeremykenedy/laravel-auth) - Laravel 8 with user authentication, registration with email confirmation, social media authentication, password recovery, and captcha protection. Uses offical [Bootstrap 4](http://getbootstrap.com). This also makes full use of Controllers for the routes, templates for the views, and makes use of middleware for routing. The project can be stood up in minutes.
 - [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP
@@ -2910,10 +2926,14 @@
 
 ## Puppet 
 
+- [GoogleCloudPlatform/puppet-google-logging](https://github.com/GoogleCloudPlatform/puppet-google-logging) - Managed Google Stackdriver Logging Agent via Puppet
 - [fasrc/puppet-shiny](https://github.com/fasrc/puppet-shiny) - R Shiny config via puppet
 
 ## Python 
 
+- [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team
+- [GoogleCloudPlatform/datacatalog-connectors-rdbms](https://github.com/GoogleCloudPlatform/datacatalog-connectors-rdbms) - Sample code with integration between Data Catalog and RDBMS data sources.
+- [dogsheep/pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite) - Create a SQLite database containing data from your Pocket account
 - [pavopax/gists](https://github.com/pavopax/gists) - Easily find my gists
 - [goldfiglabs/introspector](https://github.com/goldfiglabs/introspector) - A schema and set of tools for using SQL to query cloud infrastructure.
 - [sammy007-debug/checkers](https://github.com/sammy007-debug/checkers) - 
@@ -3225,10 +3245,16 @@
 
 ## R 
 
+- [benubah/controldev](https://github.com/benubah/controldev) - A development repository for the control package in R for files in work
+- [opencpu/opencpu](https://github.com/opencpu/opencpu) - OpenCPU system for embedded scientific computation and reproducible research
+- [jeroen/askpass](https://github.com/jeroen/askpass) - Safe Password Entry for R, Git, and SSH
+- [toddwschneider/nyc-taxi-data](https://github.com/toddwschneider/nyc-taxi-data) - Import public NYC taxi and for-hire vehicle (Uber, Lyft, etc.) trip data into PostgreSQL database
+- [briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) - A curated list of awesome network analysis resources.
+- [iGISc/iGIScData](https://github.com/iGISc/iGIScData) - iGIScData for research and teaching
 - [daroczig/dbr](https://github.com/daroczig/dbr) - Secure database connections and convenient queries from R on the top of DBI
 - [daroczig/logger](https://github.com/daroczig/logger) - A lightweight, modern and flexible, log4j and futile.logger inspired logging utility for R
 - [miraisolutions/compareWith](https://github.com/miraisolutions/compareWith) - RStudio Addins for Enhanced Diff and Merge
-- [miraisolutions/techguides](https://github.com/miraisolutions/techguides) - Technical Guidelines
+- [miraisolutions/techguides](https://github.com/miraisolutions/techguides) - Technical guidelines around R programming
 - [miraisolutions/ShinyCICD](https://github.com/miraisolutions/ShinyCICD) - Example of a packaged Shiny App for illustrating CI/CD pipelines
 - [hughjonesd/rumpel](https://github.com/hughjonesd/rumpel) - Manipulate objects by their names
 - [cynkra/indiedown](https://github.com/cynkra/indiedown) - Individual RMarkdown Templates
@@ -3721,6 +3747,7 @@
 - [mcanouil/clere](https://github.com/mcanouil/clere) - Simultaneous Variables Clustering and Regression
 - [mcanouil/DEV](https://github.com/mcanouil/DEV) - Some functions/utils in development ...
 - [mcanouil/mctools](https://github.com/mcanouil/mctools) - Mickaël Canouil's tools
+- [mcanouil/rshiny](https://github.com/mcanouil/rshiny) - Introduction to the 'shiny' package
 - [umr1283/rain](https://github.com/umr1283/rain) - Reference-based Ancestry INference
 - [mcanouil/mctemplates](https://github.com/mcanouil/mctemplates) - Mickaël Canouil's Rmarkdown & Rstudio templates
 - [mcanouil/insane](https://github.com/mcanouil/insane) - An Interactive Web Application for Quality Control and Analysis of Insulin Secretion from Pancreatic Beta Cells
@@ -4069,7 +4096,6 @@
 - [jonocarroll/regexmagic](https://github.com/jonocarroll/regexmagic) - Automated Detection of Regular Expression Patterns
 - [lcolladotor/biocthis](https://github.com/lcolladotor/biocthis) - Automate package and project setup for Bioconductor packages
 - [jhudsl/didactr](https://github.com/jhudsl/didactr) - Tools for Creating Automated Courses
-- [uataq/data-pipeline](https://github.com/uataq/data-pipeline) - Automated processing, calibration, and delivery pipeline for measurement data
 - [fhpinto/autoBagging](https://github.com/fhpinto/autoBagging) - autoBagging: Automated Bagging Workflows with Metalearning
 - [elizagrames/litsearchr](https://github.com/elizagrames/litsearchr) - litsearchr is an R package to partially automate search term selection for systematic reviews using keyword co-occurrence networks. In addition to identifying search terms, it can write Boolean searches and translate them into over 50 languages.
 - [SteffenMoritz/imputeR](https://github.com/SteffenMoritz/imputeR) - CRAN R package: Impute missing values based on automated variable selection
@@ -5708,6 +5734,8 @@
 
 ## Shell 
 
+- [GoogleCloudPlatform/shell-samples](https://github.com/GoogleCloudPlatform/shell-samples) - 
+- [mrzool/bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults
 - [pmorelli92/github-container-registry-build-push](https://github.com/pmorelli92/github-container-registry-build-push) - Github Action that builds and pushes a docker image to Github Container Registry
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome GitHub TEMPLATE for any project!🚀 Quickstart your projects and get control over your community.🔥
 - [vfarcic/devops24](https://github.com/vfarcic/devops24) - 
@@ -6037,6 +6065,10 @@
 
 ## TypeScript 
 
+- [google-github-actions/upload-cloud-storage](https://github.com/google-github-actions/upload-cloud-storage) - This action uploads files/folders to a Google Cloud Storage (GCS) bucket.
+- [google-github-actions/get-secretmanager-secrets](https://github.com/google-github-actions/get-secretmanager-secrets) - This action fetches secrets from Secret Manager and makes them available to later build steps via outputs.
+- [google-github-actions/deploy-cloudrun](https://github.com/google-github-actions/deploy-cloudrun) - This action deploys your container image to Cloud Run.
+- [google/secrets-sync-action](https://github.com/google/secrets-sync-action) - A Github Action that can sync secrets from one repository to many others.
 - [crowi/crowi](https://github.com/crowi/crowi) - Crowi - The Markdown Wiki - Empower the team with sharing your knowledge
 - [fireship-io/fireship.io](https://github.com/fireship-io/fireship.io) - Build and ship your app faster  https://fireship.io
 - [wellyshen/use-places-autocomplete](https://github.com/wellyshen/use-places-autocomplete) - 😎 📍 React hook for Google Maps Places Autocomplete.
