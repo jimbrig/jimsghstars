@@ -442,6 +442,7 @@
 
 ## CSS 
 
+- [tatianamac/tm11ty](https://github.com/tatianamac/tm11ty) - Personal site for Tatiana Mac (based on Eleventy)
 - [sammy007-debug/interactive-pricing-component-Frontend-mentors](https://github.com/sammy007-debug/interactive-pricing-component-Frontend-mentors) - 
 - [vivekkatial/uber_shiny](https://github.com/vivekkatial/uber_shiny) - Shiny App to play with uber data
 - [sebastiz/EndoMineR_Shiny](https://github.com/sebastiz/EndoMineR_Shiny) - Shiny app for the EndoMineR library
@@ -668,6 +669,7 @@
 
 ## Go 
 
+- [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [vfarcic/gke-autopilot-demo](https://github.com/vfarcic/gke-autopilot-demo) - 
 - [egoist/doko](https://github.com/egoist/doko) - A docker-based development dependency manager.
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
@@ -709,7 +711,6 @@
 - [nunux-keeper/keeper-cli](https://github.com/nunux-keeper/keeper-cli) - Nunux Keeper CLI
 - [sachaos/todoist](https://github.com/sachaos/todoist) - Todoist CLI Client. I ❤️ Todoist and CLI.
 - [replicatedhq/kots](https://github.com/replicatedhq/kots) - KOTS provides the framework, tools and integrations that enable the delivery and management of 3rd-party Kubernetes applications, a.k.a. Kubernetes Off-The-Shelf (KOTS) Software.
-- [xct/xc](https://github.com/xct/xc) - A small reverse shell for Linux & Windows
 - [NZSmartie/wsl-ssh-pageant](https://github.com/NZSmartie/wsl-ssh-pageant) - A Pageant bridge for WSL, enabling ssh-ageants to talk to to PuTTY Pagent or GnuPG for Windows
 - [rupor-github/wsl-ssh-agent](https://github.com/rupor-github/wsl-ssh-agent) - Helper to interface with Windows ssh-agent.exe service from Windows Subsystem for Linux (WSL)
 - [benpye/wsl-ssh-pageant](https://github.com/benpye/wsl-ssh-pageant) - A Pageant -&gt; TCP bridge for use with WSL, allowing for Pageant to be used as an ssh-ageant within the WSL environment.
@@ -1097,6 +1098,7 @@
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
 - [wowchemy/wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 🔥 The website builder for Hugo. No code, build with widgets! 创建在线课程，学术简历或初创网站。
 - [dwyl/process-handbook](https://github.com/dwyl/process-handbook) - :green_book: Contains our processes, questions and journey to creating ateam
+- [jimbrig/propalloc](https://github.com/jimbrig/propalloc) - Dynamic Risk Allocation Model - bringing simplicity to the complex realm of Property Insurance
 - [data-edu/data-science-in-education](https://github.com/data-edu/data-science-in-education) - Repository for 'Data Science in Education Using R' by Emily A. Bovee, Ryan A. Estrellado, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez to be published by Routledge in 2020
 - [s-fleck/lgr](https://github.com/s-fleck/lgr) - A fully featured logging framework for R
 - [rfordatascience/tidytuesday](https://github.com/rfordatascience/tidytuesday) - Official repo for the #tidytuesday project
@@ -1271,6 +1273,8 @@
 
 ## JavaScript 
 
+- [Appsilon/shiny.react](https://github.com/Appsilon/shiny.react) - 
+- [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
 - [forseti-security/forseti-visualizer](https://github.com/forseti-security/forseti-visualizer) - 
 - [google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action) - automated releases based on conventional commits
 - [bunsn/boiler-bookmarklet](https://github.com/bunsn/boiler-bookmarklet) - Download financial transactions as a CSV with a bookmarklet.
@@ -2082,6 +2086,9 @@
 
 ## Others 
 
+- [jimbrig/jimsnotes](https://github.com/jimbrig/jimsnotes) - Scratch One-Off Markdown Notes for Safekeeping 📝
+- [jimsforks/cli-1](https://github.com/jimsforks/cli-1) - React Native command line tools
+- [Statistical-Learning-with-R/01-Introduction-and-Review](https://github.com/Statistical-Learning-with-R/01-Introduction-and-Review) - 
 - [sidikry/Design-Resource-for-Developer-bradtraversy](https://github.com/sidikry/Design-Resource-for-Developer-bradtraversy) - https://github.com/bradtraversy/design-resources-for-developers
 - [BenjaminWolfe/fob](https://github.com/BenjaminWolfe/fob) - A wrapper for keychain and dbplyr to make it all a bit easier.
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
@@ -2749,6 +2756,7 @@
 
 ## PHP 
 
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [symfony/config](https://github.com/symfony/config) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
 - [jeremykenedy/laravel-auth](https://github.com/jeremykenedy/laravel-auth) - Laravel 8 with user authentication, registration with email confirmation, social media authentication, password recovery, and captcha protection. Uses offical [Bootstrap 4](http://getbootstrap.com). This also makes full use of Controllers for the routes, templates for the views, and makes use of middleware for routing. The project can be stood up in minutes.
 - [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
@@ -2829,6 +2837,7 @@
 - [changhuixu/ScriptsArchive](https://github.com/changhuixu/ScriptsArchive) - Useful scripts
 - [ReneNyffenegger/about-powershell](https://github.com/ReneNyffenegger/about-powershell) - Small powershell scriptlets and/or examples.
 - [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests) - Please submit your package requests as issues here
+- [xct/xc](https://github.com/xct/xc) - A small reverse shell for Linux & Windows
 - [nsilvestri/solarized-dark-for-wsl](https://github.com/nsilvestri/solarized-dark-for-wsl) - Changes the color theme of the WSL terminal to Solarized Dark.
 - [EtienneDeneuve/kubernetes_hyperv](https://github.com/EtienneDeneuve/kubernetes_hyperv) - Quick setup of a K8S Cluster in Hyper V server
 - [treffynnon/Windows-Boxstarter-with-WSL-Ubuntu](https://github.com/treffynnon/Windows-Boxstarter-with-WSL-Ubuntu) - My Windows Boxstarter with WSL (Ubuntu)
@@ -3245,6 +3254,10 @@
 
 ## R 
 
+- [jonthegeek/stylex](https://github.com/jonthegeek/stylex) - Neural Style Transfer Assistant
+- [jimbrig/shiny.fluent](https://github.com/jimbrig/shiny.fluent) - Microsoft's Fluent UI for Shiny apps.
+- [Appsilon/shiny.fluent](https://github.com/Appsilon/shiny.fluent) - Microsoft's Fluent UI for Shiny apps.
+- [djnavarro/bs4cards](https://github.com/djnavarro/bs4cards) - Generate Bootstrap 4 Cards
 - [benubah/controldev](https://github.com/benubah/controldev) - A development repository for the control package in R for files in work
 - [opencpu/opencpu](https://github.com/opencpu/opencpu) - OpenCPU system for embedded scientific computation and reproducible research
 - [jeroen/askpass](https://github.com/jeroen/askpass) - Safe Password Entry for R, Git, and SSH
@@ -5589,6 +5602,7 @@
 
 ## Ruby 
 
+- [zauberlabs/gh-pivotal-integration](https://github.com/zauberlabs/gh-pivotal-integration) - 
 - [molybdenum-99/reality](https://github.com/molybdenum-99/reality) - Comprehensive data proxy to knowledge about real world
 - [kdaigle/hookable](https://github.com/kdaigle/hookable) - A simple app that accepts and stores webhook deliveries.
 - [CocoaPods/Molinillo](https://github.com/CocoaPods/Molinillo) - A generic dependency resolution algorithm.
@@ -5734,6 +5748,7 @@
 
 ## Shell 
 
+- [tallguyjenks/Obsidian-CLI](https://github.com/tallguyjenks/Obsidian-CLI) - Opening Obsidian files with the command line
 - [GoogleCloudPlatform/shell-samples](https://github.com/GoogleCloudPlatform/shell-samples) - 
 - [mrzool/bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults
 - [pmorelli92/github-container-registry-build-push](https://github.com/pmorelli92/github-container-registry-build-push) - Github Action that builds and pushes a docker image to Github Container Registry
@@ -6065,6 +6080,8 @@
 
 ## TypeScript 
 
+- [DaanV2/Markdown-Action-Create-Indexes](https://github.com/DaanV2/Markdown-Action-Create-Indexes) - The github action that creates index pages for your project, the changes still need to be submitted afterwards
+- [ecomfe/react-hooks](https://github.com/ecomfe/react-hooks) - Collection of react hooks
 - [google-github-actions/upload-cloud-storage](https://github.com/google-github-actions/upload-cloud-storage) - This action uploads files/folders to a Google Cloud Storage (GCS) bucket.
 - [google-github-actions/get-secretmanager-secrets](https://github.com/google-github-actions/get-secretmanager-secrets) - This action fetches secrets from Secret Manager and makes them available to later build steps via outputs.
 - [google-github-actions/deploy-cloudrun](https://github.com/google-github-actions/deploy-cloudrun) - This action deploys your container image to Cloud Run.
