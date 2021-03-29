@@ -123,7 +123,7 @@
 - [mattreecebentley/win10_simplifier](https://github.com/mattreecebentley/win10_simplifier) - Windows 10 Simplifier - A script for automating simplifications and maintenance
 - [rossy/mpv-install](https://github.com/rossy/mpv-install) - Sets up file associations for mpv on Windows
 - [wandersick/ws-folder-template-provisioner](https://github.com/wandersick/ws-folder-template-provisioner) - This Windows batch script provisions (copies) new folders with exact permissions and content from a specified existing folder (template) based on the information (first name and last name) inputted by a user via its command-line interface.
-- [nt4f04uNd/wt-contextmenu](https://github.com/nt4f04uNd/wt-contextmenu) - A short guide with batch files to add windows terminal to windows context menu
+- [nt4f04uNd/wt-contextmenu](https://github.com/nt4f04uNd/wt-contextmenu) - A script to add Windows Terminal to the context menu
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [snovvcrash/dotfiles-windows](https://github.com/snovvcrash/dotfiles-windows) - Dotfiles for Windows boxes
 - [abbodi1406/offlineinsiderenroll](https://github.com/abbodi1406/offlineinsiderenroll) - OfflineInsiderEnroll - A script to enable access to the Windows Insider Program on machines not signed in with Microsoft Account
@@ -1273,6 +1273,8 @@
 
 ## JavaScript 
 
+- [scottstanfield/markdown-to-json](https://github.com/scottstanfield/markdown-to-json) - 🕹️ Convert YAML front-matter in Markdown files to JSON. v0.5.1 is published on NPM. Current version is v0.5.3
+- [gsoft-inc/craco](https://github.com/gsoft-inc/craco) - Create React App Configuration Override, an easy and comprehensible configuration layer for create-react-app
 - [Appsilon/shiny.react](https://github.com/Appsilon/shiny.react) - 
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
 - [forseti-security/forseti-visualizer](https://github.com/forseti-security/forseti-visualizer) - 
@@ -1486,7 +1488,7 @@
 - [le0pard/pgtune](https://github.com/le0pard/pgtune) - Pgtune - tuning PostgreSQL config by your hardware
 - [bit101/quicksettings](https://github.com/bit101/quicksettings) - JavaScript library for making a quick settings panel to control code parameters.
 - [dnote/browser-extension](https://github.com/dnote/browser-extension) - Instantly take encrypted notes inside Chrome or Firefox
-- [slowernews/notebook](https://github.com/slowernews/notebook) - Notes on programming, Portuguese taxes, Polish language .. (WIP)
+- [slowernews/notebook](https://github.com/slowernews/notebook) - On programming, Portuguese taxes, Polish language and other cool stuff.
 - [wayanjimmy/notebook](https://github.com/wayanjimmy/notebook) - Personal notes
 - [yenly/foamy-nextjs](https://github.com/yenly/foamy-nextjs) - Basic Foam + NextJS with MDX starter for building a digital garden
 - [dschapman/dschapman-com](https://github.com/dschapman/dschapman-com) - Gatsby Blog built as a digital garden. It's is meant to be curated, read, and explored. Trying to think about this as a place I want to use first and foremost.
@@ -1586,7 +1588,6 @@
 - [DE-RSE/de-rse.github.io](https://github.com/DE-RSE/de-rse.github.io) - Web repository
 - [domitriusclark/mdnext](https://github.com/domitriusclark/mdnext) - The opinionated ecosystem for MDX powered NextJS apps for blogs, documentation, and more.
 - [mgsloan/todoist-shortcuts](https://github.com/mgsloan/todoist-shortcuts) - Comprehensive keyboard shortcuts for Todoist, via browser extension
-- [Alex-D/dotfiles](https://github.com/Alex-D/dotfiles) - Windows + WSL 2 Ubuntu + Windows Terminal + zsh + p10k + Docker + IntelliJ IDEA
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [westurner/tools](https://github.com/westurner/tools) - https://westurner.org/tools
 - [sindresorhus/open-shortcut-cli](https://github.com/sindresorhus/open-shortcut-cli) - Open the URL from a web shortcut file in the browser
@@ -1967,6 +1968,7 @@
 
 ## Jupyter Notebook 
 
+- [maxhumber/DE4DS](https://github.com/maxhumber/DE4DS) - ⭕️ Data Engineering for Data Scientists
 - [sylabs/examples](https://github.com/sylabs/examples) - files and instructions for creating and using example containers from the sylabs.io blog
 - [jorwalk/data-engineering-gcp](https://github.com/jorwalk/data-engineering-gcp) - Data Engineering on Google Cloud Platform
 - [GDSL-UL/san](https://github.com/GDSL-UL/san) - Spatial Analysis Notes
@@ -2067,6 +2069,7 @@
 
 ## OCaml 
 
+- [dmbaturin/soupault](https://github.com/dmbaturin/soupault) - Static website generator based on HTML rewriting
 - [moby/datakit](https://github.com/moby/datakit) - Connect processes into powerful data pipelines with a simple git-like filesystem interface
 - [talex5/cuekeeper](https://github.com/talex5/cuekeeper) - Browser-based GTD (TODO list) system. No server needed.
 
@@ -2086,6 +2089,7 @@
 
 ## Others 
 
+- [dogsheep/dogsheep.github.io](https://github.com/dogsheep/dogsheep.github.io) - Tools for personal analytics using SQLite and Datasette
 - [jimbrig/jimsnotes](https://github.com/jimbrig/jimsnotes) - Scratch One-Off Markdown Notes for Safekeeping 📝
 - [jimsforks/cli-1](https://github.com/jimsforks/cli-1) - React Native command line tools
 - [Statistical-Learning-with-R/01-Introduction-and-Review](https://github.com/Statistical-Learning-with-R/01-Introduction-and-Review) - 
@@ -2940,6 +2944,7 @@
 
 ## Python 
 
+- [sandanilenko/databaser](https://github.com/sandanilenko/databaser) - 
 - [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team
 - [GoogleCloudPlatform/datacatalog-connectors-rdbms](https://github.com/GoogleCloudPlatform/datacatalog-connectors-rdbms) - Sample code with integration between Data Catalog and RDBMS data sources.
 - [dogsheep/pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite) - Create a SQLite database containing data from your Pocket account
@@ -3254,6 +3259,10 @@
 
 ## R 
 
+- [skgrange/databaser](https://github.com/skgrange/databaser) - Tools to Keep Database Interaction Easy and Consistent
+- [lorenzwalthert/touchstone](https://github.com/lorenzwalthert/touchstone) - Benchmark multiple git refs in one go.
+- [moodymudskipper/boomer](https://github.com/moodymudskipper/boomer) - Print the Output of Intermediate Steps of a Call
+- [jimbrig/shiny_react_fluent_app](https://github.com/jimbrig/shiny_react_fluent_app) - An experimental shiny application using the shiny.react and shiny.fluent R packages provided by Appsilon.
 - [jonthegeek/stylex](https://github.com/jonthegeek/stylex) - Neural Style Transfer Assistant
 - [jimbrig/shiny.fluent](https://github.com/jimbrig/shiny.fluent) - Microsoft's Fluent UI for Shiny apps.
 - [Appsilon/shiny.fluent](https://github.com/Appsilon/shiny.fluent) - Microsoft's Fluent UI for Shiny apps.
@@ -5887,6 +5896,7 @@
 - [julie-ng/windows-dev-setup](https://github.com/julie-ng/windows-dev-setup) - Dev environment on windows with Oh My ZSH, Hyper.js and more
 - [bushidocodes/dotfiles](https://github.com/bushidocodes/dotfiles) - Dotbot managed dotfiles for a polyglot dev using WSL. Includes PowerShell stuff for Windows Installation
 - [LumaKernel/dotfiles](https://github.com/LumaKernel/dotfiles) - ⭐ My own world.
+- [Alex-D/dotfiles](https://github.com/Alex-D/dotfiles) - Windows + WSL 2 Ubuntu + Windows Terminal + zsh + p10k + Docker + IntelliJ IDEA + GitBash with zsh
 - [jakecobley/dotfiles](https://github.com/jakecobley/dotfiles) - Dotfiles - personal preferences for various applications, editors, linters, and packages on macOS and Windows 10 with Windows Subsystem for Linux 2 (WSL2).
 - [pawelbialaszczyk/dotfiles](https://github.com/pawelbialaszczyk/dotfiles) - Windows dotfiles managed using a bare git repository.
 - [ridhwaans/dotfiles](https://github.com/ridhwaans/dotfiles) - 💻Personal dotfiles for mac and wsl
@@ -6080,6 +6090,8 @@
 
 ## TypeScript 
 
+- [shabegom/buttons](https://github.com/shabegom/buttons) - Buttons in Obsidian
+- [vslinko/obsidian-outliner](https://github.com/vslinko/obsidian-outliner) - Work with your lists like in Workflowy or RoamResearch
 - [DaanV2/Markdown-Action-Create-Indexes](https://github.com/DaanV2/Markdown-Action-Create-Indexes) - The github action that creates index pages for your project, the changes still need to be submitted afterwards
 - [ecomfe/react-hooks](https://github.com/ecomfe/react-hooks) - Collection of react hooks
 - [google-github-actions/upload-cloud-storage](https://github.com/google-github-actions/upload-cloud-storage) - This action uploads files/folders to a Google Cloud Storage (GCS) bucket.
@@ -6292,6 +6304,7 @@
 
 ## VBA 
 
+- [jimbrig/jimsdots](https://github.com/jimbrig/jimsdots) - My personalized dotfiles and configs for Windows 10
 - [jimbrig/excel-config](https://github.com/jimbrig/excel-config) - Personalized Excel Setup and Configuration
 - [ReneNyffenegger/temp-COM](https://github.com/ReneNyffenegger/temp-COM) - 
 - [ReneNyffenegger/VBAModules](https://github.com/ReneNyffenegger/VBAModules) - Modules for Visualb Basic for Applications
