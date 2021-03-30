@@ -1273,6 +1273,12 @@
 
 ## JavaScript 
 
+- [timmywheels/github-api-tutorial](https://github.com/timmywheels/github-api-tutorial) - 👨‍💻⚡️🛠 A Quick Tutorial on Building a Simple Web App w/ the GitHub API
+- [sindresorhus/urls-md](https://github.com/sindresorhus/urls-md) - Convert URLs to Markdown links: Extracts URLs from text → Gets their article title → Creates Markdown links
+- [lfoliveir4/react-microfrontends-boilerplate](https://github.com/lfoliveir4/react-microfrontends-boilerplate) - boilerplate react microfrontends with webpack5
+- [berstend/hypertunnel](https://github.com/berstend/hypertunnel) - ✨ Expose any local TCP/IP service on the internet.
+- [berstend/puppeteer-extra](https://github.com/berstend/puppeteer-extra) - 💯  Teach puppeteer new tricks through plugins.
+- [ehmicky/cross-platform-terminal-characters](https://github.com/ehmicky/cross-platform-terminal-characters) - All the characters that work on most terminals and most operating systems
 - [scottstanfield/markdown-to-json](https://github.com/scottstanfield/markdown-to-json) - 🕹️ Convert YAML front-matter in Markdown files to JSON. v0.5.1 is published on NPM. Current version is v0.5.3
 - [gsoft-inc/craco](https://github.com/gsoft-inc/craco) - Create React App Configuration Override, an easy and comprehensible configuration layer for create-react-app
 - [Appsilon/shiny.react](https://github.com/Appsilon/shiny.react) - 
@@ -2089,6 +2095,8 @@
 
 ## Others 
 
+- [vfarcic/rancher-demo](https://github.com/vfarcic/rancher-demo) - 
+- [r-universe/colinfay](https://github.com/r-universe/colinfay) - Source universe for: colinfay
 - [dogsheep/dogsheep.github.io](https://github.com/dogsheep/dogsheep.github.io) - Tools for personal analytics using SQLite and Datasette
 - [jimbrig/jimsnotes](https://github.com/jimbrig/jimsnotes) - Scratch One-Off Markdown Notes for Safekeeping 📝
 - [jimsforks/cli-1](https://github.com/jimsforks/cli-1) - React Native command line tools
@@ -2666,7 +2674,7 @@
 - [Zettelkasten-Method/The-Archive-Themes](https://github.com/Zettelkasten-Method/The-Archive-Themes) - The Archive userland for app themes
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
-- [microsoft/WinDev](https://github.com/microsoft/WinDev) - A repo for developers on Windows to file issues that impede their productivity, efficiency, and efficacy
+- [microsoft/Windows-Dev-Performance](https://github.com/microsoft/Windows-Dev-Performance) - A repo for developers on Windows to file issues that impede their productivity, efficiency, and efficacy
 - [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
 - [josedv82/shinyAMS-resources](https://github.com/josedv82/shinyAMS-resources) - A compilation of resources for sport scientist building Athlete Management Tools in Shiny
 - [github/renaming](https://github.com/github/renaming) - Guidance for changing the default branch name for GitHub repositories
@@ -2944,7 +2952,6 @@
 
 ## Python 
 
-- [sandanilenko/databaser](https://github.com/sandanilenko/databaser) - 
 - [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team
 - [GoogleCloudPlatform/datacatalog-connectors-rdbms](https://github.com/GoogleCloudPlatform/datacatalog-connectors-rdbms) - Sample code with integration between Data Catalog and RDBMS data sources.
 - [dogsheep/pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite) - Create a SQLite database containing data from your Pocket account
@@ -3259,6 +3266,15 @@
 
 ## R 
 
+- [davidsjoberg/ggsankey](https://github.com/davidsjoberg/ggsankey) - Make sankey, alluvial and sankey bump plots in ggplot
+- [tidymodels/butcher](https://github.com/tidymodels/butcher) - Reduce the size of model objects saved to disk
+- [inlabru-org/inlabru](https://github.com/inlabru-org/inlabru) - inlabru
+- [rossellhayes/crossmap](https://github.com/rossellhayes/crossmap) - Apply Functions to All Combinations of List Elements
+- [simonpcouch/scheduled-commit-action](https://github.com/simonpcouch/scheduled-commit-action) - Running R Scripts on a Schedule with GitHub Actions
+- [grabear/shiny-pathfinder-loot](https://github.com/grabear/shiny-pathfinder-loot) - An R shiny app used to keep up with loot tables on Google Sheets during Pathfinder/RPG sessions.
+- [tyronehunt/Mastering-RShiny](https://github.com/tyronehunt/Mastering-RShiny) - Working through the content of Hadley Wickham's Mastering RShiny Book
+- [tyronehunt/GolemShinyTemplate](https://github.com/tyronehunt/GolemShinyTemplate) - This repository rebuilds from the ground up another repository at https://github.com/ColinFay/tidytuesday201942 in order to understand the process and create a reusable Shiny-in-Golem template
+- [data-cleaning/validatedb](https://github.com/data-cleaning/validatedb) - Validate on a table in a DB, using dbplyr
 - [skgrange/databaser](https://github.com/skgrange/databaser) - Tools to Keep Database Interaction Easy and Consistent
 - [lorenzwalthert/touchstone](https://github.com/lorenzwalthert/touchstone) - Benchmark multiple git refs in one go.
 - [moodymudskipper/boomer](https://github.com/moodymudskipper/boomer) - Print the Output of Intermediate Steps of a Call
@@ -5607,6 +5623,7 @@
 
 ## Reason 
 
+- [davesnx/query-json](https://github.com/davesnx/query-json) - Faster and simpler implementation of jq in Reason Native
 - [revery-ui/revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason!
 
 ## Ruby 
@@ -6002,6 +6019,7 @@
 
 ## Swift 
 
+- [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
 - [krzysztofzablocki/Sourcery](https://github.com/krzysztofzablocki/Sourcery) - Meta-programming for Swift, stop writing boilerplate code.
 - [djyde/WebShell](https://github.com/djyde/WebShell) - Bundle web apps to native OS X app
 - [dongyuwei/tagged-github-stars](https://github.com/dongyuwei/tagged-github-stars) - A native Mac App to manage your Github stars with custom tags, powered by SwiftUI and SQLite.
@@ -6090,6 +6108,9 @@
 
 ## TypeScript 
 
+- [akaalias/obsidian-extract-pdf-highlights](https://github.com/akaalias/obsidian-extract-pdf-highlights) - Extract highlights, underlines and annotations from your PDFs into Obsidian
+- [eva-design/eva](https://github.com/eva-design/eva) - :dizzy:Customizable Design System easily adaptable to your Brand.
+- [software-mansion/react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native.
 - [shabegom/buttons](https://github.com/shabegom/buttons) - Buttons in Obsidian
 - [vslinko/obsidian-outliner](https://github.com/vslinko/obsidian-outliner) - Work with your lists like in Workflowy or RoamResearch
 - [DaanV2/Markdown-Action-Create-Indexes](https://github.com/DaanV2/Markdown-Action-Create-Indexes) - The github action that creates index pages for your project, the changes still need to be submitted afterwards
@@ -6369,7 +6390,7 @@
 
 - [bencodezen/obsidian-publish-vue](https://github.com/bencodezen/obsidian-publish-vue) - 
 - [Leniolabs/layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 180k+ developers. https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 200k+ developers. https://hoppscotch.io
 - [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [appbaseio-apps/GitXplore-Search](https://github.com/appbaseio-apps/GitXplore-Search) - An application to explore github repositories.
 - [mtobeiyf/pile](https://github.com/mtobeiyf/pile) - :zap: A simple & powerful app to organize your piled work at one place~
