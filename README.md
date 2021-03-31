@@ -59,6 +59,7 @@
   - [Python](#python)
   - [R](#r)
   - [RMarkdown](#rmarkdown)
+  - [ReScript](#rescript)
   - [Reason](#reason)
   - [Ruby](#ruby)
   - [Rust](#rust)
@@ -215,11 +216,13 @@
 - [viking/r-yaml](https://github.com/viking/r-yaml) - R package for converting objects to and from YAML
 - [wrathematics/getPass](https://github.com/wrathematics/getPass) - Password function for R with masking (where supported)
 - [r-lib/processx](https://github.com/r-lib/processx) - Execute and Control Subrocesses from R
+- [r-lib/vctrs](https://github.com/r-lib/vctrs) - Generic programming with typed R vectors
 - [r-lib/xml2](https://github.com/r-lib/xml2) - Bindings to libxml2
 - [r-dbi/RMySQL](https://github.com/r-dbi/RMySQL) - Legacy DBI interface for MySQL
 
 ## C# # 
 
+- [brminnick/GitTrends](https://github.com/brminnick/GitTrends) - A iOS and Android app to monitor the views and clones of your GitHub repos
 - [amay077/Xamarin.Forms.GoogleMaps](https://github.com/amay077/Xamarin.Forms.GoogleMaps) - Map library for Xamarin.Forms using Google maps API
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 - [awaescher/PathEd](https://github.com/awaescher/PathEd) - 📌 A deployable tool to add or remove values from the Windows PATH variable.
@@ -442,6 +445,7 @@
 
 ## CSS 
 
+- [klaussilveira/gitlist](https://github.com/klaussilveira/gitlist) - An elegant and modern git repository viewer
 - [tatianamac/tm11ty](https://github.com/tatianamac/tm11ty) - Personal site for Tatiana Mac (based on Eleventy)
 - [sammy007-debug/interactive-pricing-component-Frontend-mentors](https://github.com/sammy007-debug/interactive-pricing-component-Frontend-mentors) - 
 - [vivekkatial/uber_shiny](https://github.com/vivekkatial/uber_shiny) - Shiny App to play with uber data
@@ -669,6 +673,7 @@
 
 ## Go 
 
+- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
 - [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [vfarcic/gke-autopilot-demo](https://github.com/vfarcic/gke-autopilot-demo) - 
 - [egoist/doko](https://github.com/egoist/doko) - A docker-based development dependency manager.
@@ -768,7 +773,7 @@
 - [AlecAivazis/survey](https://github.com/AlecAivazis/survey) - A golang library for building interactive prompts with full support for windows and posix terminals.
 - [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create desktop apps using Go and Web Technologies.
-- [txthinking/brook](https://github.com/txthinking/brook) - Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration.
+- [txthinking/brook](https://github.com/txthinking/brook) - Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration. Brook 是一个跨平台的强加密无特征的代理软件. 零配置.
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [buptczq/WinCryptSSHAgent](https://github.com/buptczq/WinCryptSSHAgent) - Using a Yubikey for SSH Authentication on Windows Seamlessly
@@ -849,12 +854,16 @@
 
 ## HTML 
 
+- [jhelvy/distillery](https://github.com/jhelvy/distillery) - A distill blog and showcase about building distill websites and blogs!
+- [FrissAnalytics/shinyJsTutorials](https://github.com/FrissAnalytics/shinyJsTutorials) - tutorials materials on R/Shiny bindings to popular javascript libraries
+- [Statistical-Learning-with-R/01-Introduction-and-Review](https://github.com/Statistical-Learning-with-R/01-Introduction-and-Review) - 
 - [domchristie/turndown](https://github.com/domchristie/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
 - [iGISc/EnvDataSci](https://github.com/iGISc/EnvDataSci) - 
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [sammy007-debug/Responsive-Restaurant-Website-Design](https://github.com/sammy007-debug/Responsive-Restaurant-Website-Design) - Responsive Restaurant Website Design Using HTML CSS And JavaScript  | Website Light/Dark mode. This is a great project for beginners and will fit well in your portfolio. This website is made with html css and js.
 - [sammy007-debug/Eccom-Website](https://github.com/sammy007-debug/Eccom-Website) - This is Ecommerce Website made with Html and CSS and Also Javascript. This Ecom website is fully responsive.
+- [powwater/powdocs](https://github.com/powwater/powdocs) - Powwater Hosted Documentation
 - [Kodular/Documentation](https://github.com/Kodular/Documentation) - Kodular Documentation
 - [dgrtwo/dgrtwo.github.com](https://github.com/dgrtwo/dgrtwo.github.com) - My website
 - [vfarcic/vfarcic.github.io](https://github.com/vfarcic/vfarcic.github.io) - 
@@ -1230,6 +1239,7 @@
 
 ## Java 
 
+- [react-native-svg/react-native-svg](https://github.com/react-native-svg/react-native-svg) - SVG library for React Native, React Native Web, and plain React web projects.
 - [openkm/document-management-system](https://github.com/openkm/document-management-system) - OpenKM is a Open Source Document Management System
 - [miguelhincapie/CustomBottomSheetBehavior](https://github.com/miguelhincapie/CustomBottomSheetBehavior) - Custom BottomSheetBehavior for Android that mimic Google Maps behavior
 - [cesardeazevedo/react-native-bottom-sheet-behavior](https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior) - react-native wrapper for android BottomSheetBehavior
@@ -1273,12 +1283,18 @@
 
 ## JavaScript 
 
+- [expo/expo-github-action](https://github.com/expo/expo-github-action) - Expo CLI in your GitHub Actions workflow
+- [react-native-mapbox-gl/maps](https://github.com/react-native-mapbox-gl/maps) - A Mapbox GL react native module for creating custom maps
+- [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers a website and a Chrome extension.
+- [flexible-agency/react-native-map-link](https://github.com/flexible-agency/react-native-map-link) - 🗺 Open the map app of the user's choice.
+- [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
 - [timmywheels/github-api-tutorial](https://github.com/timmywheels/github-api-tutorial) - 👨‍💻⚡️🛠 A Quick Tutorial on Building a Simple Web App w/ the GitHub API
 - [sindresorhus/urls-md](https://github.com/sindresorhus/urls-md) - Convert URLs to Markdown links: Extracts URLs from text → Gets their article title → Creates Markdown links
 - [lfoliveir4/react-microfrontends-boilerplate](https://github.com/lfoliveir4/react-microfrontends-boilerplate) - boilerplate react microfrontends with webpack5
 - [berstend/hypertunnel](https://github.com/berstend/hypertunnel) - ✨ Expose any local TCP/IP service on the internet.
 - [berstend/puppeteer-extra](https://github.com/berstend/puppeteer-extra) - 💯  Teach puppeteer new tricks through plugins.
 - [ehmicky/cross-platform-terminal-characters](https://github.com/ehmicky/cross-platform-terminal-characters) - All the characters that work on most terminals and most operating systems
+- [jimbrig/jimsdots](https://github.com/jimbrig/jimsdots) - My personalized dotfiles and configs for Windows 10 ⚙️
 - [scottstanfield/markdown-to-json](https://github.com/scottstanfield/markdown-to-json) - 🕹️ Convert YAML front-matter in Markdown files to JSON. v0.5.1 is published on NPM. Current version is v0.5.3
 - [gsoft-inc/craco](https://github.com/gsoft-inc/craco) - Create React App Configuration Override, an easy and comprehensible configuration layer for create-react-app
 - [Appsilon/shiny.react](https://github.com/Appsilon/shiny.react) - 
@@ -1298,7 +1314,6 @@
 - [sammy007-debug/distance-api](https://github.com/sammy007-debug/distance-api) - 
 - [sammy007-debug/Validation-Form](https://github.com/sammy007-debug/Validation-Form) - This is a validation form made with HTML,CSS and JS.
 - [Clement134/get-changelog](https://github.com/Clement134/get-changelog) - A CLI tool to easily find changelogs
-- [powwater/powdocs](https://github.com/powwater/powdocs) - Powwater Hosted Documentation
 - [sol-eng/db-dashboard](https://github.com/sol-eng/db-dashboard) - Project files of the article featured here: http://db.rstudio.com/best-practices/dashboards/
 - [bjorn2404/jQuery-Store-Locator-Plugin](https://github.com/bjorn2404/jQuery-Store-Locator-Plugin) - A store locator plugin using Google Maps API version 3
 - [eddiesigner/sketch-map-generator](https://github.com/eddiesigner/sketch-map-generator) - Sketch plugin to fill a shape with a map generated from a given location using Google Maps and Mapbox
@@ -2095,12 +2110,12 @@
 
 ## Others 
 
+- [jimsforks/plumber-logging](https://github.com/jimsforks/plumber-logging) - An opinionated example for implementing logging in Plumber APIs
 - [vfarcic/rancher-demo](https://github.com/vfarcic/rancher-demo) - 
 - [r-universe/colinfay](https://github.com/r-universe/colinfay) - Source universe for: colinfay
 - [dogsheep/dogsheep.github.io](https://github.com/dogsheep/dogsheep.github.io) - Tools for personal analytics using SQLite and Datasette
 - [jimbrig/jimsnotes](https://github.com/jimbrig/jimsnotes) - Scratch One-Off Markdown Notes for Safekeeping 📝
 - [jimsforks/cli-1](https://github.com/jimsforks/cli-1) - React Native command line tools
-- [Statistical-Learning-with-R/01-Introduction-and-Review](https://github.com/Statistical-Learning-with-R/01-Introduction-and-Review) - 
 - [sidikry/Design-Resource-for-Developer-bradtraversy](https://github.com/sidikry/Design-Resource-for-Developer-bradtraversy) - https://github.com/bradtraversy/design-resources-for-developers
 - [BenjaminWolfe/fob](https://github.com/BenjaminWolfe/fob) - A wrapper for keychain and dbplyr to make it all a bit easier.
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
@@ -2952,6 +2967,7 @@
 
 ## Python 
 
+- [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team
 - [GoogleCloudPlatform/datacatalog-connectors-rdbms](https://github.com/GoogleCloudPlatform/datacatalog-connectors-rdbms) - Sample code with integration between Data Catalog and RDBMS data sources.
 - [dogsheep/pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite) - Create a SQLite database containing data from your Pocket account
@@ -3078,7 +3094,7 @@
 - [genedan/MIES](https://github.com/genedan/MIES) - Miniature Insurance Economic Simulator
 - [yusuzech/tidyverse_notes](https://github.com/yusuzech/tidyverse_notes) - Avoid common mistake and write efficient codes in tidyverse.
 - [youyanggu/groupme_stats](https://github.com/youyanggu/groupme_stats) - Tool to download and optionally display interesting stats about GroupMe messages
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs such as http://ipstack.com, http://fixer.io/, https://numverify.com/, etc. for use in software and web development.
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [chinanf-boy/explain-starred](https://github.com/chinanf-boy/explain-starred) - manager your star ,simple py run, explain to you
 - [khast3x/github-starmap](https://github.com/khast3x/github-starmap) - Python utility to export a user's starred repositories list into a CSV file
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -3266,6 +3282,9 @@
 
 ## R 
 
+- [tidymodels/yardstick](https://github.com/tidymodels/yardstick) - Tidy methods for measuring model performance
+- [robitalec/targets-parameterized-bookdown](https://github.com/robitalec/targets-parameterized-bookdown) - :hammer_and_wrench: Example repository for rendering a bookdown book, compiling parameterized RMarkdown documents, using the targets package
+- [MilesMcBain/tflow](https://github.com/MilesMcBain/tflow) - An opinionated lightweight template for smooth targets flows.
 - [davidsjoberg/ggsankey](https://github.com/davidsjoberg/ggsankey) - Make sankey, alluvial and sankey bump plots in ggplot
 - [tidymodels/butcher](https://github.com/tidymodels/butcher) - Reduce the size of model objects saved to disk
 - [inlabru-org/inlabru](https://github.com/inlabru-org/inlabru) - inlabru
@@ -3424,7 +3443,7 @@
 - [wStockhausen/wtsGIS](https://github.com/wStockhausen/wtsGIS) - R package containing various GIS-related functions, RMD scripts, and datasets.
 - [reconhub/aweek](https://github.com/reconhub/aweek) - Convert dates to arbitrary week definitions :calendar:
 - [reconhub/rfextras](https://github.com/reconhub/rfextras) - 
-- [reconhub/incidence2](https://github.com/reconhub/incidence2) - Compute and visualise incidence (reworking of the original incidence package)
+- [reconverse/incidence2](https://github.com/reconverse/incidence2) - Compute and visualise incidence (reworking of the original incidence package)
 - [reconhub/trendbreaker](https://github.com/reconhub/trendbreaker) - Auto surveillance for count data WIP
 - [jdtrat/shinydesignr](https://github.com/jdtrat/shinydesignr) - 
 - [Yacine87/interactive_data_viz](https://github.com/Yacine87/interactive_data_viz) - You will find in this repository exemple of interactive data visualisation with Shiny and other R pakages
@@ -4341,7 +4360,6 @@
 - [johncassil/stringr.plus](https://github.com/johncassil/stringr.plus) - 
 - [softloud/parameterpal](https://github.com/softloud/parameterpal) - Parameters for beta distribution from interpretable conditions
 - [yonicd/covrpage](https://github.com/yonicd/covrpage) - Create a summary readme for the testthat subdirectory to communicate with potential users
-- [mlr-org/mlr3book](https://github.com/mlr-org/mlr3book) - mlr3 manual
 - [robinsones/funneljoin](https://github.com/robinsones/funneljoin) - Join tables based on events occurring in sequence in a funnel.
 - [leonawicz/ProjectManagement](https://github.com/leonawicz/ProjectManagement) - Project management project
 - [MayaGans/testthat_example](https://github.com/MayaGans/testthat_example) - Using Test That with Shiny
@@ -5334,7 +5352,6 @@
 - [mayoverse/arsenal](https://github.com/mayoverse/arsenal) - An Arsenal of 'R' Functions for Large-Scale Statistical Summaries
 - [xiaodaigh/disk.frame](https://github.com/xiaodaigh/disk.frame) - Fast Disk-Based Parallelized Data Manipulation Framework for Larger-than-RAM Data
 - [JohnCoene/g2r](https://github.com/JohnCoene/g2r) - 📈 Grammar of graphics for interactive visualisations
-- [r-lib/vctrs](https://github.com/r-lib/vctrs) - Generic programming with typed R vectors
 - [moredatapls/moreRutils](https://github.com/moredatapls/moreRutils) - A collection of R functions that I use regularly but are not part of base R
 - [privefl/bigstatsr](https://github.com/privefl/bigstatsr) - R package for statistical tools with big matrices stored on disk.
 - [rstudio/swagger](https://github.com/rstudio/swagger) - Swagger is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
@@ -5621,6 +5638,10 @@
 - [yihui/rmarkdown-cookbook](https://github.com/yihui/rmarkdown-cookbook) - R Markdown Cookbook. A range of tips and tricks to make better use of R Markdown.
 - [rstudio/rmarkdown-book](https://github.com/rstudio/rmarkdown-book) - R Markdown: The Definitive Guide (published by Chapman & Hall/CRC in July 2018)
 
+## ReScript 
+
+- [mobily/stacks](https://github.com/mobily/stacks) - ⚡ Build React Native views blazingly fast.
+
 ## Reason 
 
 - [davesnx/query-json](https://github.com/davesnx/query-json) - Faster and simpler implementation of jq in Reason Native
@@ -5741,7 +5762,7 @@
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
-- [davidruvolo51/shiny-app-template](https://github.com/davidruvolo51/shiny-app-template) - Template for creating R projects with Webpack
+- [davidruvolo51/shiny-app-template](https://github.com/davidruvolo51/shiny-app-template) - Template for creating R projects with Parcel (webpack coming soon)
 - [DivadNojnarg/outstanding-shiny-ui-code](https://github.com/DivadNojnarg/outstanding-shiny-ui-code) - Standalone code for the "Outstanding Shiny UI" Book
 - [f-prime/Blunt](https://github.com/f-prime/Blunt) - A CSS framework that helps with layouts and leaves your styling alone.
 - [gadenbuie/rsthemes](https://github.com/gadenbuie/rsthemes) - 🔮 Full RStudio IDE and Syntax Themes
@@ -5952,7 +5973,7 @@
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
-- [ahmetb/cloud-run-faq](https://github.com/ahmetb/cloud-run-faq) - Unofficial FAQ and everything you've been wondering for Google Cloud Run  ✨
+- [ahmetb/cloud-run-faq](https://github.com/ahmetb/cloud-run-faq) - Unofficial FAQ and everything you've been wondering about Google Cloud Run.
 - [ahmetb/serverless-url-redirect](https://github.com/ahmetb/serverless-url-redirect) - Simple click-to-deploy serverless URL redirect service
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [radiant-rstats/docker](https://github.com/radiant-rstats/docker) - Use R, Rstudio, Shiny, Radiant, Python, and Jupyter in a Docker container
@@ -6075,6 +6096,7 @@
 - [eddelbuettel/binb](https://github.com/eddelbuettel/binb) - Binb is not Beamer
 - [yihui/knitr-book](https://github.com/yihui/knitr-book) - Dynamic Documents with R and knitr
 - [rajesh06/The-Value-of-Insurance](https://github.com/rajesh06/The-Value-of-Insurance) - 
+- [mlr-org/mlr3book](https://github.com/mlr-org/mlr3book) - mlr3 manual
 - [masonlr/obsidian-starter-templates](https://github.com/masonlr/obsidian-starter-templates) - :rocket: Starter templates for Obsidian.md
 - [pllk/cphb](https://github.com/pllk/cphb) - Competitive Programmer's Handbook
 - [kaneplusplus/listdown](https://github.com/kaneplusplus/listdown) - Programmatically create R/Markdown documents from lists.
@@ -6108,6 +6130,7 @@
 
 ## TypeScript 
 
+- [react-native-toolkit/react-native-responsive-dimensions](https://github.com/react-native-toolkit/react-native-responsive-dimensions) - Resposive fontSize, height and width for react-native components, that automatically adjusts itself based on screen-size of the device.
 - [akaalias/obsidian-extract-pdf-highlights](https://github.com/akaalias/obsidian-extract-pdf-highlights) - Extract highlights, underlines and annotations from your PDFs into Obsidian
 - [eva-design/eva](https://github.com/eva-design/eva) - :dizzy:Customizable Design System easily adaptable to your Brand.
 - [software-mansion/react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native.
@@ -6325,7 +6348,6 @@
 
 ## VBA 
 
-- [jimbrig/jimsdots](https://github.com/jimbrig/jimsdots) - My personalized dotfiles and configs for Windows 10
 - [jimbrig/excel-config](https://github.com/jimbrig/excel-config) - Personalized Excel Setup and Configuration
 - [ReneNyffenegger/temp-COM](https://github.com/ReneNyffenegger/temp-COM) - 
 - [ReneNyffenegger/VBAModules](https://github.com/ReneNyffenegger/VBAModules) - Modules for Visualb Basic for Applications
