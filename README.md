@@ -65,10 +65,12 @@
   - [Rust](#rust)
   - [SAS](#sas)
   - [SCSS](#scss)
+  - [SQLPL](#sqlpl)
   - [Sass](#sass)
   - [Scala](#scala)
   - [Scheme](#scheme)
   - [Shell](#shell)
+  - [Smarty](#smarty)
   - [Stan](#stan)
   - [Svelte](#svelte)
   - [Swift](#swift)
@@ -445,6 +447,7 @@
 
 ## CSS 
 
+- [crilleengvall/electron-tutorial-app](https://github.com/crilleengvall/electron-tutorial-app) - An electron application for tutorials
 - [klaussilveira/gitlist](https://github.com/klaussilveira/gitlist) - An elegant and modern git repository viewer
 - [tatianamac/tm11ty](https://github.com/tatianamac/tm11ty) - Personal site for Tatiana Mac (based on Eleventy)
 - [sammy007-debug/interactive-pricing-component-Frontend-mentors](https://github.com/sammy007-debug/interactive-pricing-component-Frontend-mentors) - 
@@ -854,6 +857,7 @@
 
 ## HTML 
 
+- [tidynomicon/tidynomicon](https://github.com/tidynomicon/tidynomicon) - The Tidynomicon: An Introduction to R for Data Engineers and Others
 - [jhelvy/distillery](https://github.com/jhelvy/distillery) - A distill blog and showcase about building distill websites and blogs!
 - [FrissAnalytics/shinyJsTutorials](https://github.com/FrissAnalytics/shinyJsTutorials) - tutorials materials on R/Shiny bindings to popular javascript libraries
 - [Statistical-Learning-with-R/01-Introduction-and-Review](https://github.com/Statistical-Learning-with-R/01-Introduction-and-Review) - 
@@ -1283,6 +1287,7 @@
 
 ## JavaScript 
 
+- [malsup/blockui](https://github.com/malsup/blockui) - jQuery BlockUI Plugin
 - [expo/expo-github-action](https://github.com/expo/expo-github-action) - Expo CLI in your GitHub Actions workflow
 - [react-native-mapbox-gl/maps](https://github.com/react-native-mapbox-gl/maps) - A Mapbox GL react native module for creating custom maps
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers a website and a Chrome extension.
@@ -1322,7 +1327,6 @@
 - [hibiken/react-places-autocomplete](https://github.com/hibiken/react-places-autocomplete) - React component for Google Maps Places Autocomplete
 - [fullstackreact/google-maps-react](https://github.com/fullstackreact/google-maps-react) - Companion code to the "How to Write a Google Maps React Component" Tutorial
 - [pa7/heatmap.js](https://github.com/pa7/heatmap.js) - 🔥 JavaScript Library for HTML5 canvas based heatmaps
-- [daattali/inputknob](https://github.com/daattali/inputknob) - 
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Automate Anything.
 - [bukinoshita/git-labels-cli](https://github.com/bukinoshita/git-labels-cli) - Creating Github issue labels
 - [abhi0402/foodHub-frontend-client](https://github.com/abhi0402/foodHub-frontend-client) - Front-end for food delivery application created using reactjs along with redux and Material-UI, walkthrough -
@@ -1834,6 +1838,7 @@
 - [davidruvolo51/shinytutorials](https://github.com/davidruvolo51/shinytutorials) - static site for shinyAppTutorials :building_construction:
 - [huyingjie/Awesome-shiny-apps-for-statistics](https://github.com/huyingjie/Awesome-shiny-apps-for-statistics) - 🌟 A curated list of Awesome Shiny Apps for Statistics (ASAS)🌟
 - [AntoineGuillot2/D3partitionR](https://github.com/AntoineGuillot2/D3partitionR) - R package to visualise interactively hierarchical data.
+- [davidruvolo51/shiny-parcel-template](https://github.com/davidruvolo51/shiny-parcel-template) - An example setup for Shiny applications that use Parcel
 - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
 - [lukeed/watchlist](https://github.com/lukeed/watchlist) - Recursively watch a list of directories & run a command on any file system changes
 - [bryanph/GeistMap](https://github.com/bryanph/GeistMap) - An experimental personal knowledge base with a focus on connections
@@ -2967,6 +2972,7 @@
 
 ## Python 
 
+- [adfmb/shiny-flask-postgresql_app](https://github.com/adfmb/shiny-flask-postgresql_app) - Shiny app with a Flask service backend and a postgresql data base
 - [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team
 - [GoogleCloudPlatform/datacatalog-connectors-rdbms](https://github.com/GoogleCloudPlatform/datacatalog-connectors-rdbms) - Sample code with integration between Data Catalog and RDBMS data sources.
@@ -3282,6 +3288,14 @@
 
 ## R 
 
+- [ryushida/shinymoney](https://github.com/ryushida/shinymoney) - R Shiny + PostgreSQL application for managing and visualizing expenses + net worth
+- [meerapatelmd/rubix](https://github.com/meerapatelmd/rubix) - R package with wrapper functions of the Tidyverse package suite.
+- [meerapatelmd/glitter](https://github.com/meerapatelmd/glitter) - R package for making basic git commands from the R console and deploying packages and GitHub Pages
+- [guyschvitz/pgtools](https://github.com/guyschvitz/pgtools) - Helper functions to interact with Postgres from R
+- [thewileylab/shinyPostgreSQL](https://github.com/thewileylab/shinyPostgreSQL) - A shiny module to authenticate your R Shiny Application with a PostgreSQL Database.
+- [Bioconductor/BiocManager](https://github.com/Bioconductor/BiocManager) - CRAN Package For Managing Bioconductor Packages
+- [cran/roxyPackage](https://github.com/cran/roxyPackage) - Utilities to automate package builds
+- [jhelvy/restoreR](https://github.com/jhelvy/restoreR) - After a fresh install of a new R version, run this script to restore packages, etc.
 - [tidymodels/yardstick](https://github.com/tidymodels/yardstick) - Tidy methods for measuring model performance
 - [robitalec/targets-parameterized-bookdown](https://github.com/robitalec/targets-parameterized-bookdown) - :hammer_and_wrench: Example repository for rendering a bookdown book, compiling parameterized RMarkdown documents, using the targets package
 - [MilesMcBain/tflow](https://github.com/MilesMcBain/tflow) - An opinionated lightweight template for smooth targets flows.
@@ -3340,6 +3354,7 @@
 - [powwater/vendor_dashboard](https://github.com/powwater/vendor_dashboard) - Vendor Dashboard Shiny Web Application
 - [powwater/landing_page](https://github.com/powwater/landing_page) - Minimal example landing page application portal for powwater apps.
 - [jimbrig/jimstemplates](https://github.com/jimbrig/jimstemplates) - Personal Templates
+- [daattali/inputknob](https://github.com/daattali/inputknob) - 
 - [datasketch/parmesan](https://github.com/datasketch/parmesan) - 
 - [Pascal-Schmidt/A-Data-Driven-Approach-to-Evaluating-the-Vancouver-Housing-Market](https://github.com/Pascal-Schmidt/A-Data-Driven-Approach-to-Evaluating-the-Vancouver-Housing-Market) - 
 - [Pascal-Schmidt/shiny-stocks](https://github.com/Pascal-Schmidt/shiny-stocks) - 
@@ -5762,7 +5777,6 @@
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
-- [davidruvolo51/shiny-app-template](https://github.com/davidruvolo51/shiny-app-template) - Template for creating R projects with Parcel (webpack coming soon)
 - [DivadNojnarg/outstanding-shiny-ui-code](https://github.com/DivadNojnarg/outstanding-shiny-ui-code) - Standalone code for the "Outstanding Shiny UI" Book
 - [f-prime/Blunt](https://github.com/f-prime/Blunt) - A CSS framework that helps with layouts and leaves your styling alone.
 - [gadenbuie/rsthemes](https://github.com/gadenbuie/rsthemes) - 🔮 Full RStudio IDE and Syntax Themes
@@ -5773,6 +5787,10 @@
 - [dreamRs/fresh](https://github.com/dreamRs/fresh) - Fresh shiny themes
 - [travis-ci/docs-travis-ci-com](https://github.com/travis-ci/docs-travis-ci-com) - The Travis CI Documentation
 - [yixuan/prettydoc](https://github.com/yixuan/prettydoc) - Creating Pretty HTML From R Markdown
+
+## SQLPL 
+
+- [dmorgan26/dartsviz-compose](https://github.com/dmorgan26/dartsviz-compose) - Shiny app, postgres database & plumber API deployed using docker-compose
 
 ## Sass 
 
@@ -6029,6 +6047,12 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [clevr-dev/ShinyStudio](https://github.com/clevr-dev/ShinyStudio) - A fully Dockerized, self-hosted development environment for teams. Develop where you serve.
 
+## Smarty 
+
+- [MarkEdmondson1234/edmonlytica-server-side-client](https://github.com/MarkEdmondson1234/edmonlytica-server-side-client) - Edmonlytica is a proof of concept for making your own digital analytics stream using GTM Server Side and BigQuery.
+- [MarkEdmondson1234/edmonlytica-browser-template](https://github.com/MarkEdmondson1234/edmonlytica-browser-template) - Edmonlytica is a proof of concept for making your own digital analytics stream using GTM Server Side and BigQuery.
+- [MarkEdmondson1234/edmonlytica-server-side-tag](https://github.com/MarkEdmondson1234/edmonlytica-server-side-tag) - Edmonlytica is a proof of concept for making your own digital analytics stream using GTM Server Side and BigQuery.
+
 ## Stan 
 
 - [ResearchActuary/ef_yield_curve_generators](https://github.com/ResearchActuary/ef_yield_curve_generators) - 
@@ -6130,6 +6154,11 @@
 
 ## TypeScript 
 
+- [atlassian/stricter](https://github.com/atlassian/stricter) - A project-wide js-linting tool
+- [pinterest/querybook](https://github.com/pinterest/querybook) - Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface.
+- [callstack/react-native-pager-view](https://github.com/callstack/react-native-pager-view) - React Native wrapper for the Android ViewPager and iOS UIPageViewController.
+- [chramos/react-native-skeleton-placeholder](https://github.com/chramos/react-native-skeleton-placeholder) - SkeletonPlaceholder is a React Native library to easily create an amazing loading effect.
+- [expo/create-react-native-app](https://github.com/expo/create-react-native-app) - Create React Native apps that run on iOS, Android, and web
 - [react-native-toolkit/react-native-responsive-dimensions](https://github.com/react-native-toolkit/react-native-responsive-dimensions) - Resposive fontSize, height and width for react-native components, that automatically adjusts itself based on screen-size of the device.
 - [akaalias/obsidian-extract-pdf-highlights](https://github.com/akaalias/obsidian-extract-pdf-highlights) - Extract highlights, underlines and annotations from your PDFs into Obsidian
 - [eva-design/eva](https://github.com/eva-design/eva) - :dizzy:Customizable Design System easily adaptable to your Brand.
@@ -6412,7 +6441,7 @@
 
 - [bencodezen/obsidian-publish-vue](https://github.com/bencodezen/obsidian-publish-vue) - 
 - [Leniolabs/layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 200k+ developers. https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem. https://hoppscotch.io
 - [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [appbaseio-apps/GitXplore-Search](https://github.com/appbaseio-apps/GitXplore-Search) - An application to explore github repositories.
 - [mtobeiyf/pile](https://github.com/mtobeiyf/pile) - :zap: A simple & powerful app to organize your piled work at one place~
