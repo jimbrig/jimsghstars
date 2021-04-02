@@ -43,6 +43,7 @@
   - [Lua](#lua)
   - [M4](#m4)
   - [Makefile](#makefile)
+  - [Markdown](#markdown)
   - [Mustache](#mustache)
   - [Nim](#nim)
   - [Nix](#nix)
@@ -224,6 +225,7 @@
 
 ## C# # 
 
+- [v2kiran/PSLiteDB](https://github.com/v2kiran/PSLiteDB) - PowerShell wrapper for LiteDB
 - [brminnick/GitTrends](https://github.com/brminnick/GitTrends) - A iOS and Android app to monitor the views and clones of your GitHub repos
 - [amay077/Xamarin.Forms.GoogleMaps](https://github.com/amay077/Xamarin.Forms.GoogleMaps) - Map library for Xamarin.Forms using Google maps API
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
@@ -586,7 +588,7 @@
 ## Clojure 
 
 - [krisajenkins/yesql](https://github.com/krisajenkins/yesql) - A Clojure library for using SQL.
-- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens
+- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://app.gitbook.com/@athensresearch/s/athens/
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend now, backend later) platform for knowledge sharing and management. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [Factual/drake](https://github.com/Factual/drake) - Data workflow tool, like a "Make for data"
@@ -857,6 +859,8 @@
 
 ## HTML 
 
+- [sharlagelfand/sharla.online](https://github.com/sharlagelfand/sharla.online) - 
+- [colinquirk/LivestreamCode](https://github.com/colinquirk/LivestreamCode) - A place to put code from my livestreams
 - [tidynomicon/tidynomicon](https://github.com/tidynomicon/tidynomicon) - The Tidynomicon: An Introduction to R for Data Engineers and Others
 - [jhelvy/distillery](https://github.com/jhelvy/distillery) - A distill blog and showcase about building distill websites and blogs!
 - [FrissAnalytics/shinyJsTutorials](https://github.com/FrissAnalytics/shinyJsTutorials) - tutorials materials on R/Shiny bindings to popular javascript libraries
@@ -1287,6 +1291,9 @@
 
 ## JavaScript 
 
+- [klmr/klmr.github.io](https://github.com/klmr/klmr.github.io) - My website
+- [necolas/react-native-web](https://github.com/necolas/react-native-web) - React Native Components and APIs for the Web
+- [mitcom/steal_cookie](https://github.com/mitcom/steal_cookie) - Chrome extension to copy authentication cookies from staging server which allow to login on localhost
 - [malsup/blockui](https://github.com/malsup/blockui) - jQuery BlockUI Plugin
 - [expo/expo-github-action](https://github.com/expo/expo-github-action) - Expo CLI in your GitHub Actions workflow
 - [react-native-mapbox-gl/maps](https://github.com/react-native-mapbox-gl/maps) - A Mapbox GL react native module for creating custom maps
@@ -1298,7 +1305,7 @@
 - [lfoliveir4/react-microfrontends-boilerplate](https://github.com/lfoliveir4/react-microfrontends-boilerplate) - boilerplate react microfrontends with webpack5
 - [berstend/hypertunnel](https://github.com/berstend/hypertunnel) - ✨ Expose any local TCP/IP service on the internet.
 - [berstend/puppeteer-extra](https://github.com/berstend/puppeteer-extra) - 💯  Teach puppeteer new tricks through plugins.
-- [ehmicky/cross-platform-terminal-characters](https://github.com/ehmicky/cross-platform-terminal-characters) - All the characters that work on most terminals and most operating systems
+- [ehmicky/cross-platform-terminal-characters](https://github.com/ehmicky/cross-platform-terminal-characters) - All the characters that work on most terminals
 - [jimbrig/jimsdots](https://github.com/jimbrig/jimsdots) - My personalized dotfiles and configs for Windows 10 ⚙️
 - [scottstanfield/markdown-to-json](https://github.com/scottstanfield/markdown-to-json) - 🕹️ Convert YAML front-matter in Markdown files to JSON. v0.5.1 is published on NPM. Current version is v0.5.3
 - [gsoft-inc/craco](https://github.com/gsoft-inc/craco) - Create React App Configuration Override, an easy and comprehensible configuration layer for create-react-app
@@ -1440,7 +1447,7 @@
 - [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 - [worldbank/dime-r-training](https://github.com/worldbank/dime-r-training) - Dime Analytics R Training
 - [stickmy/docanary](https://github.com/stickmy/docanary) - :memo: Site generator. Markdown -&gt; Site
-- [DavidWells/markdown-magic](https://github.com/DavidWells/markdown-magic) - 💫 Automatically format markdown files, sync external docs/src code & make better docs
+- [DavidWells/markdown-magic](https://github.com/DavidWells/markdown-magic) - 💫  Automatically format markdown files, sync external docs/src code & make better docs
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [abhisheknaiidu/todoist-readme](https://github.com/abhisheknaiidu/todoist-readme) - 🚧 Updates README with Todoist Stats of a user
 - [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A collection of GitHub Actions for interfacing with Google Cloud Platform.
@@ -2075,6 +2082,10 @@
 - [Accio/demo-linking-native](https://github.com/Accio/demo-linking-native) - Demo of linking native routines in other packages in R
 - [sellorm/awesome-blogdown](https://github.com/sellorm/awesome-blogdown) - An awesome curated list of blogs built using blogdown
 
+## Markdown 
+
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+
 ## Mustache 
 
 - [bitnami/charts](https://github.com/bitnami/charts) - Helm Charts
@@ -2115,6 +2126,8 @@
 
 ## Others 
 
+- [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels) - Issue labels using Open Source labels standards
+- [nicferrier/docker-shell-deploy](https://github.com/nicferrier/docker-shell-deploy) - a shell script to help with deploying dockers
 - [jimsforks/plumber-logging](https://github.com/jimsforks/plumber-logging) - An opinionated example for implementing logging in Plumber APIs
 - [vfarcic/rancher-demo](https://github.com/vfarcic/rancher-demo) - 
 - [r-universe/colinfay](https://github.com/r-universe/colinfay) - Source universe for: colinfay
@@ -2835,6 +2848,7 @@
 
 ## PowerShell 
 
+- [microsoftgraph/microsoft-graph-docs](https://github.com/microsoftgraph/microsoft-graph-docs) - Documentation for the Microsoft Graph REST API
 - [microsoft/CSS-Exchange](https://github.com/microsoft/CSS-Exchange) - Exchange Server support tools and scripts
 - [hmerritt/win10-setup](https://github.com/hmerritt/win10-setup) - Windows 10 setup scripts for fresh installs
 - [nickrod518/PowerShell-Scripts](https://github.com/nickrod518/PowerShell-Scripts) - PowerShell scripts ranging from SCCM, MSO, AD, and other corporate enterprise uses... to sending cat facts to coworkers.
@@ -2972,6 +2986,8 @@
 
 ## Python 
 
+- [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
+- [keithmcnulty/ppt-generation](https://github.com/keithmcnulty/ppt-generation) - Generate parameterized powerpoint with Python and R
 - [adfmb/shiny-flask-postgresql_app](https://github.com/adfmb/shiny-flask-postgresql_app) - Shiny app with a Flask service backend and a postgresql data base
 - [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team
@@ -3288,6 +3304,14 @@
 
 ## R 
 
+- [mpadge/pkgstats](https://github.com/mpadge/pkgstats) - Historical statistics of every R package ever
+- [InseeFrLab/lockdown-maps-R](https://github.com/InseeFrLab/lockdown-maps-R) - Population Movements at Spring 2020 Lockdown in France - Interactive Data Visualizations
+- [leonawicz/imgpalr](https://github.com/leonawicz/imgpalr) - R package for generating color palettes from arbitrary images.
+- [klmr/r-dict](https://github.com/klmr/r-dict) - 
+- [klmr/modules](https://github.com/klmr/modules) - An alternative module system for R
+- [klmr/unpack](https://github.com/klmr/unpack) - Vector unpack assignment syntax for R
+- [klmr/minimappr](https://github.com/klmr/minimappr) - Code minimaps for R
+- [klmr/sys](https://github.com/klmr/sys) - Easily create reusable command line scripts with R
 - [ryushida/shinymoney](https://github.com/ryushida/shinymoney) - R Shiny + PostgreSQL application for managing and visualizing expenses + net worth
 - [meerapatelmd/rubix](https://github.com/meerapatelmd/rubix) - R package with wrapper functions of the Tidyverse package suite.
 - [meerapatelmd/glitter](https://github.com/meerapatelmd/glitter) - R package for making basic git commands from the R console and deploying packages and GitHub Pages
@@ -5813,6 +5837,7 @@
 
 ## Shell 
 
+- [klmr/switch-r](https://github.com/klmr/switch-r) - R version switcher for macOS
 - [tallguyjenks/Obsidian-CLI](https://github.com/tallguyjenks/Obsidian-CLI) - Opening Obsidian files with the command line
 - [GoogleCloudPlatform/shell-samples](https://github.com/GoogleCloudPlatform/shell-samples) - 
 - [mrzool/bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults
@@ -6044,7 +6069,6 @@
 - [strboul/dotfiles](https://github.com/strboul/dotfiles) - My dotfiles with a setup script :rocket:
 - [jcheng5/rhub-linux-builders](https://github.com/jcheng5/rhub-linux-builders) - Docker configuration for the Linux builders
 - [luong-komorebi/professional-programming](https://github.com/luong-komorebi/professional-programming) - A collection of full-stack resources for programmers.
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [clevr-dev/ShinyStudio](https://github.com/clevr-dev/ShinyStudio) - A fully Dockerized, self-hosted development environment for teams. Develop where you serve.
 
 ## Smarty 
