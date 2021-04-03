@@ -2126,6 +2126,8 @@
 
 ## Others 
 
+- [jimsforks/validatedb](https://github.com/jimsforks/validatedb) - Validate on a table in a DB, using dbplyr
+- [jimsforks/shinyPostgreSQL](https://github.com/jimsforks/shinyPostgreSQL) - A shiny module to authenticate your R Shiny Application with a PostgreSQL Database.
 - [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels) - Issue labels using Open Source labels standards
 - [nicferrier/docker-shell-deploy](https://github.com/nicferrier/docker-shell-deploy) - a shell script to help with deploying dockers
 - [jimsforks/plumber-logging](https://github.com/jimsforks/plumber-logging) - An opinionated example for implementing logging in Plumber APIs
@@ -2986,6 +2988,7 @@
 
 ## Python 
 
+- [PostgREST/postgrest-docs](https://github.com/PostgREST/postgrest-docs) - Documentation for
 - [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
 - [keithmcnulty/ppt-generation](https://github.com/keithmcnulty/ppt-generation) - Generate parameterized powerpoint with Python and R
 - [adfmb/shiny-flask-postgresql_app](https://github.com/adfmb/shiny-flask-postgresql_app) - Shiny app with a Flask service backend and a postgresql data base
