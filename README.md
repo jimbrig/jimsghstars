@@ -472,7 +472,7 @@
 - [rbind/support](https://github.com/rbind/support) - Technical support for rbind
 - [jimbrig/resources](https://github.com/jimbrig/resources) - 
 - [tautomer/WSL_Windows_Terminal](https://github.com/tautomer/WSL_Windows_Terminal) - A full guide on how to set up WSL/WSL2 and use Windows Terminal or Terminator as the terminal emulator. Some tricky X11 configuration is also included.
-- [phibr0/obsidian-charts](https://github.com/phibr0/obsidian-charts) - Charts - Obsidian Plugin
+- [phibr0/obsidian-charts](https://github.com/phibr0/obsidian-charts) - Charts - Obsidian Plugin | Create editable Line-, Bar- and Piecharts in Obsidian.
 - [gilbertohasnofb/typora-panda-theme](https://github.com/gilbertohasnofb/typora-panda-theme) - Panda theme for Typora
 - [heroku/12factor](https://github.com/heroku/12factor) - 
 - [stla/shinyMergely](https://github.com/stla/shinyMergely) - A Shiny app allowing to compare and merge two files.
@@ -530,7 +530,6 @@
 - [assemble/assemble](https://github.com/assemble/assemble) - Get the rocks out of your socks! Assemble makes you fast at web development! Used by thousands of projects for rapid prototyping, themes, scaffolds, boilerplates, e-books, UI components, API documentation, blogs, building websites/static site generator, an alternative to Jekyll for gh-pages and more! Gulp- and grunt-friendly.
 - [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️A static blog writing client (一个静态博客写作客户端)
 - [rstudio-education/glossRy](https://github.com/rstudio-education/glossRy) - A glossary of terms used in  and around data science.
-- [cobidev/simplefolio](https://github.com/cobidev/simplefolio) - ⚡️ A minimal portfolio template for Developers
 - [crisrojas/Zettels](https://github.com/crisrojas/Zettels) - Zettels Hugo Theme
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
@@ -546,7 +545,6 @@
 - [rstudio/education.rstudio.com](https://github.com/rstudio/education.rstudio.com) - 
 - [evernote/email-builder](https://github.com/evernote/email-builder) - 
 - [atusy/minidown](https://github.com/atusy/minidown) - Create simple yet powerful html documents with light weight CSS frameworks.
-- [saeedalipoor/icono](https://github.com/saeedalipoor/icono) - One tag One icon, no font or svg, Pure CSS
 - [dzangri/stmGUI](https://github.com/dzangri/stmGUI) - 
 - [rileytwo/darkstudio](https://github.com/rileytwo/darkstudio) - darkstudio. A dark grey alternative to RStudio's default dark theme.
 - [sjl/d](https://github.com/sjl/d) - Markdown files to documentation.  Nothing else.
@@ -1291,6 +1289,7 @@
 
 ## JavaScript 
 
+- [tunnelWithAC/react-native-todo](https://github.com/tunnelWithAC/react-native-todo) - Created with CodeSandbox
 - [klmr/klmr.github.io](https://github.com/klmr/klmr.github.io) - My website
 - [necolas/react-native-web](https://github.com/necolas/react-native-web) - React Native Components and APIs for the Web
 - [mitcom/steal_cookie](https://github.com/mitcom/steal_cookie) - Chrome extension to copy authentication cookies from staging server which allow to login on localhost
@@ -1950,7 +1949,7 @@
 - [Swechhya/excelR](https://github.com/Swechhya/excelR) - An Interface to 'jExcel.js' Library
 - [dirkschumacher/r-shiny-electron](https://github.com/dirkschumacher/r-shiny-electron) - WIP: Electron and R shiny
 - [Bloggify/github-calendar](https://github.com/Bloggify/github-calendar) - :bar_chart: Embed your GitHub calendar everywhere.
-- [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection.
+- [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 - [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
 - [react-R/reactR](https://github.com/react-R/reactR) - React for R
 - [daranzolin/pinpoint](https://github.com/daranzolin/pinpoint) - Interactively explore points within a distribution :pushpin:
@@ -2001,6 +2000,7 @@
 
 ## Jupyter Notebook 
 
+- [tunnelWithAC/fantasy_premier_league](https://github.com/tunnelWithAC/fantasy_premier_league) - 
 - [maxhumber/DE4DS](https://github.com/maxhumber/DE4DS) - ⭕️ Data Engineering for Data Scientists
 - [sylabs/examples](https://github.com/sylabs/examples) - files and instructions for creating and using example containers from the sylabs.io blog
 - [jorwalk/data-engineering-gcp](https://github.com/jorwalk/data-engineering-gcp) - Data Engineering on Google Cloud Platform
@@ -2126,6 +2126,8 @@
 
 ## Others 
 
+- [tunnelWithAC/aiohttp-boilerplate](https://github.com/tunnelWithAC/aiohttp-boilerplate) - Boilerplate project for building REST APIs using AIOHTTP and Postgres
+- [tunnelWithAC/google-cloud-functions-demo](https://github.com/tunnelWithAC/google-cloud-functions-demo) - 
 - [jimsforks/validatedb](https://github.com/jimsforks/validatedb) - Validate on a table in a DB, using dbplyr
 - [jimsforks/shinyPostgreSQL](https://github.com/jimsforks/shinyPostgreSQL) - A shiny module to authenticate your R Shiny Application with a PostgreSQL Database.
 - [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels) - Issue labels using Open Source labels standards
@@ -3201,7 +3203,7 @@
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [svetlyak40wt/dotfiler](https://github.com/svetlyak40wt/dotfiler) - Shell agnostic git based dotfiles package manager, written in Python.
-- [PyCQA/flake8](https://github.com/PyCQA/flake8) - The official GitHub mirror of https://gitlab.com/pycqa/flake8
+- [PyCQA/flake8](https://github.com/PyCQA/flake8) - flake8 is a python tool that glues together pep8, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.
 - [gordonbrander/lettersmith_py](https://github.com/gordonbrander/lettersmith_py) - Python tools for static site generation
 - [nschloe/awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing) - :sunglasses: Curated list of awesome software for numerical analysis and scientific computing
 - [mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) - A curated list of awesome Discord communities for programmers
@@ -3307,6 +3309,12 @@
 
 ## R 
 
+- [virtualstaticvoid/heroku-docker-r](https://github.com/virtualstaticvoid/heroku-docker-r) - Heroku R Docker Image - Makes deploying R on Heroku easy
+- [timosch29/Dockerized-Plumber-API](https://github.com/timosch29/Dockerized-Plumber-API) - Containerized Plumber REST API which offers data from a containerized Cron job on a Google Big Query data source within a container network.
+- [tunnelWithAC/r-api-example](https://github.com/tunnelWithAC/r-api-example) - Example code snippets for creating an API in R
+- [tunnelWithAC/r-boilerplate-api](https://github.com/tunnelWithAC/r-boilerplate-api) - 
+- [fdrennan/gittrash](https://github.com/fdrennan/gittrash) - Blah blah
+- [fdrennan/ndexr-platform](https://github.com/fdrennan/ndexr-platform) - The NDEXR platform code
 - [mpadge/pkgstats](https://github.com/mpadge/pkgstats) - Historical statistics of every R package ever
 - [InseeFrLab/lockdown-maps-R](https://github.com/InseeFrLab/lockdown-maps-R) - Population Movements at Spring 2020 Lockdown in France - Interactive Data Visualizations
 - [leonawicz/imgpalr](https://github.com/leonawicz/imgpalr) - R package for generating color palettes from arbitrary images.
@@ -5682,7 +5690,7 @@
 
 ## ReScript 
 
-- [mobily/stacks](https://github.com/mobily/stacks) - ⚡ Build React Native views blazingly fast.
+- [mobily/stacks](https://github.com/mobily/stacks) - ⚡ Build React Native layouts quickly with ease and fun.
 
 ## Reason 
 
@@ -5803,10 +5811,12 @@
 - [jamiebrynes7/clair-de-lune-obsidian-theme](https://github.com/jamiebrynes7/clair-de-lune-obsidian-theme) - An obsidian.md theme inspired by the Moonlight family of themes
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
+- [cobidev/simplefolio](https://github.com/cobidev/simplefolio) - ⚡️ A minimal portfolio template for Developers
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [DivadNojnarg/outstanding-shiny-ui-code](https://github.com/DivadNojnarg/outstanding-shiny-ui-code) - Standalone code for the "Outstanding Shiny UI" Book
 - [f-prime/Blunt](https://github.com/f-prime/Blunt) - A CSS framework that helps with layouts and leaves your styling alone.
 - [gadenbuie/rsthemes](https://github.com/gadenbuie/rsthemes) - 🔮 Full RStudio IDE and Syntax Themes
+- [saeedalipoor/icono](https://github.com/saeedalipoor/icono) - One tag One icon, no font or svg, Pure CSS
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [rstudio/bslib](https://github.com/rstudio/bslib) - Tools for theming shiny and rmarkdown from R via Bootstrap (3 or 4) Sass.
 - [StartBootstrap/startbootstrap-coming-soon](https://github.com/StartBootstrap/startbootstrap-coming-soon) - A coming soon theme with a video background for Bootstrap 4
@@ -6275,7 +6285,7 @@
 - [hasura/data-dictionary](https://github.com/hasura/data-dictionary) - 
 - [BookmarksDev/bookmarks.dev](https://github.com/BookmarksDev/bookmarks.dev) - Bookmarks and Code Snippets Manager for Developers & Co
 - [agathauy/wikilinks-to-mdlinks-obsidian](https://github.com/agathauy/wikilinks-to-mdlinks-obsidian) - An Obsidian md plugin which allows for the conversion of individually selected wikilinks to markdown links, and vice versa.
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Use Appsmith to build and self-host your internal apps. Create UI that connects to any database or API.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Build beautiful admin panels, dashboards, and CRUD apps. Connect to any database or API. One-click docker installation.
 - [toddbluhm/env-cmd](https://github.com/toddbluhm/env-cmd) - Setting environment variables from a file
 - [linyows/github-issues-notice](https://github.com/linyows/github-issues-notice) - :octocat: Notify labeled issues to Slack
 - [ManuelHentschel/VSCode-R-Debugger](https://github.com/ManuelHentschel/VSCode-R-Debugger) - R Debugger Extension for Visual Studio Code
