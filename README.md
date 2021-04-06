@@ -939,6 +939,7 @@
 - [paciorek/future-kubernetes](https://github.com/paciorek/future-kubernetes) - Instructions for setting up and using a Kubernetes cluster for running R in parallel using the future package.
 - [amirmasoudabdol/preferably](https://github.com/amirmasoudabdol/preferably) - An accessible template for `pkgdown` websites with dynamic light/dark mode support
 - [dirkschumacher/htmlvault](https://github.com/dirkschumacher/htmlvault) - Encrypt files in self-decrypting html files using libsodium
+- [worldbank/dime-r-training](https://github.com/worldbank/dime-r-training) - Dime Analytics R Training
 - [overtrue/wisteria](https://github.com/overtrue/wisteria) - Beautiful document tool for your project.
 - [lyfeyaj/awesome-resources](https://github.com/lyfeyaj/awesome-resources) - Awesome resources for coding and learning: open source projects, websites, books e.g.
 - [maximevaillancourt/digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Start your own digital garden using this Jekyll template 🌱
@@ -1445,7 +1446,6 @@
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
 - [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
-- [worldbank/dime-r-training](https://github.com/worldbank/dime-r-training) - Dime Analytics R Training
 - [stickmy/docanary](https://github.com/stickmy/docanary) - :memo: Site generator. Markdown -&gt; Site
 - [DavidWells/markdown-magic](https://github.com/DavidWells/markdown-magic) - 💫  Automatically format markdown files, sync external docs/src code & make better docs
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
@@ -2806,6 +2806,7 @@
 
 ## PHP 
 
+- [WP-API/Basic-Auth](https://github.com/WP-API/Basic-Auth) - Basic Authentication handler for the JSON API, used for development and debugging purposes
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [symfony/config](https://github.com/symfony/config) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
 - [jeremykenedy/laravel-auth](https://github.com/jeremykenedy/laravel-auth) - Laravel 8 with user authentication, registration with email confirmation, social media authentication, password recovery, and captcha protection. Uses offical [Bootstrap 4](http://getbootstrap.com). This also makes full use of Controllers for the routes, templates for the views, and makes use of middleware for routing. The project can be stood up in minutes.
@@ -2853,6 +2854,7 @@
 
 ## PowerShell 
 
+- [Phil-Factor/SQLCloneFamily](https://github.com/Phil-Factor/SQLCloneFamily) - 
 - [microsoftgraph/microsoft-graph-docs](https://github.com/microsoftgraph/microsoft-graph-docs) - Documentation for the Microsoft Graph REST API
 - [microsoft/CSS-Exchange](https://github.com/microsoft/CSS-Exchange) - Exchange Server support tools and scripts
 - [hmerritt/win10-setup](https://github.com/hmerritt/win10-setup) - Windows 10 setup scripts for fresh installs
@@ -3310,6 +3312,9 @@
 
 ## R 
 
+- [jeroen/webutils](https://github.com/jeroen/webutils) - Utility functions for web applications
+- [ropensci/vcr](https://github.com/ropensci/vcr) - Record HTTP calls and replay them
+- [sckott/httpcode](https://github.com/sckott/httpcode) - http code investigation
 - [virtualstaticvoid/heroku-docker-r](https://github.com/virtualstaticvoid/heroku-docker-r) - Heroku R Docker Image - Makes deploying R on Heroku easy
 - [timosch29/Dockerized-Plumber-API](https://github.com/timosch29/Dockerized-Plumber-API) - Containerized Plumber REST API which offers data from a containerized Cron job on a Google Big Query data source within a container network.
 - [tunnelWithAC/r-api-example](https://github.com/tunnelWithAC/r-api-example) - Example code snippets for creating an API in R
@@ -4786,7 +4791,7 @@
 - [vegawidget/vlbuildr](https://github.com/vegawidget/vlbuildr) - Build vega-lite specs in R
 - [yonicd/slackreprex](https://github.com/yonicd/slackreprex) - reprex + slack
 - [rubenarslan/formr](https://github.com/rubenarslan/formr) - The accompanying R package for the survey framework formr (see https://github.com/rubenarslan/formr.org and https://formr.org)
-- [ropensci/opendata](https://github.com/ropensci/opendata) - CRAN OpenData Task View
+- [ropensci-archive/opendata](https://github.com/ropensci-archive/opendata) - CRAN OpenData Task View
 - [dustin/humanFormat](https://github.com/dustin/humanFormat) - Human formatting for R
 - [ColinFay/odds](https://github.com/ColinFay/odds) - On Disk Data Storage for Cross-Session Access in R
 - [ColumbusCollaboratory/photon](https://github.com/ColumbusCollaboratory/photon) - RStudio Add-in to build Shiny apps utilizing the Electron framework
@@ -5131,7 +5136,7 @@
 - [krlmlr/rextdata](https://github.com/krlmlr/rextdata) - Simple Access to Data Stored in "extdata" Directory
 - [krlmlr/tee](https://github.com/krlmlr/tee) - Log all process output to a file, for R
 - [pablo14/funModeling](https://github.com/pablo14/funModeling) - R package: funModeling: data cleaning, importance variable analysis and model perfomance
-- [ropenscilabs/rcheatsheet](https://github.com/ropenscilabs/rcheatsheet) - Cheatsheets for R
+- [ropensci-archive/rcheatsheet](https://github.com/ropensci-archive/rcheatsheet) - Cheatsheets for R
 - [ropenscilabs/jobstatus](https://github.com/ropenscilabs/jobstatus) - Send Job Information Between Functions and Processes
 - [ropenscilabs/pkginspector](https://github.com/ropenscilabs/pkginspector) - An R package that provides tools to review other R packages
 - [ropenscilabs/dirdf](https://github.com/ropenscilabs/dirdf) - R package: dirdf - Extracts Metadata from Directory and File Names
@@ -5380,7 +5385,7 @@
 - [rstudio/rstudioapi](https://github.com/rstudio/rstudioapi) - Safely access RStudio's API (when available)
 - [r-lib/callr](https://github.com/r-lib/callr) - Call R from R
 - [yihui/formatR](https://github.com/yihui/formatR) - Format R Code Automatically
-- [ropensci/PackageDevelopment](https://github.com/ropensci/PackageDevelopment) - Task View: PackageDevelopment
+- [ropensci-archive/PackageDevelopment](https://github.com/ropensci-archive/PackageDevelopment) - Task View: PackageDevelopment
 - [RevolutionAnalytics/checkpoint](https://github.com/RevolutionAnalytics/checkpoint) - Install R packages from snapshots on checkpoint-server
 - [nealrichardson/skeletor](https://github.com/nealrichardson/skeletor) - An R Package Skeleton Generator
 - [robertzk/testthatsomemore](https://github.com/robertzk/testthatsomemore) - R package for extending testthat to more testing helpers
@@ -6005,7 +6010,7 @@
 - [bashdot/bashdot](https://github.com/bashdot/bashdot) - Minimalist dotfile management framework.
 - [mskyaxl/wsl-terminal](https://github.com/mskyaxl/wsl-terminal) - Terminal emulator for Windows Subsystem for Linux (WSL)
 - [tillig/ps-bash-completions](https://github.com/tillig/ps-bash-completions) - Bridge to enable bash completions to be run from within PowerShell.
-- [ryantam626/dotfiles](https://github.com/ryantam626/dotfiles) - My machine-common dotfiles and scripts to setup my workstations.
+- [ryantam626/old-dotfiles](https://github.com/ryantam626/old-dotfiles) - My machine-common dotfiles and scripts to setup my workstations.
 - [muesli/dotfiles](https://github.com/muesli/dotfiles) - My dotfiles
 - [sobolevn/git-secret](https://github.com/sobolevn/git-secret) - :busts_in_silhouette: A bash-tool to store your private data inside a git repository.
 - [Akianonymus/gdrive-downloader](https://github.com/Akianonymus/gdrive-downloader) - Download a gdrive folder or file easily, shell ftw.
