@@ -225,6 +225,7 @@
 
 ## C# # 
 
+- [fredatgithub/EventLogReader](https://github.com/fredatgithub/EventLogReader) - Event Log Reader sample
 - [v2kiran/PSLiteDB](https://github.com/v2kiran/PSLiteDB) - PowerShell wrapper for LiteDB
 - [brminnick/GitTrends](https://github.com/brminnick/GitTrends) - A iOS and Android app to monitor the views and clones of your GitHub repos
 - [amay077/Xamarin.Forms.GoogleMaps](https://github.com/amay077/Xamarin.Forms.GoogleMaps) - Map library for Xamarin.Forms using Google maps API
@@ -375,7 +376,7 @@
 - [skiftOS/skift](https://github.com/skiftOS/skift) - 🥑 A simple, handmade, operating system with a graphical user interface.
 - [LocalEpi/LEMMA](https://github.com/LocalEpi/LEMMA) - Local  Epidemic Modeling for Management & Action (LEMMA)
 - [rstudio/websocket](https://github.com/rstudio/websocket) - WebSocket client for R
-- [cwida/duckdb](https://github.com/cwida/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
 - [peekxc/simplextree](https://github.com/peekxc/simplextree) - R package for simplifying general computation on simplicial complexes
 - [derceg/explorerplusplus](https://github.com/derceg/explorerplusplus) - Explorer++ is a lightweight and fast file manager for Windows
 - [LibrePCB/LibrePCB](https://github.com/LibrePCB/LibrePCB) - A powerful, innovative and intuitive EDA tool for everyone!
@@ -472,7 +473,7 @@
 - [rbind/support](https://github.com/rbind/support) - Technical support for rbind
 - [jimbrig/resources](https://github.com/jimbrig/resources) - 
 - [tautomer/WSL_Windows_Terminal](https://github.com/tautomer/WSL_Windows_Terminal) - A full guide on how to set up WSL/WSL2 and use Windows Terminal or Terminator as the terminal emulator. Some tricky X11 configuration is also included.
-- [phibr0/obsidian-charts](https://github.com/phibr0/obsidian-charts) - Charts - Obsidian Plugin | Create editable Line-, Bar- and Piecharts in Obsidian.
+- [phibr0/obsidian-charts](https://github.com/phibr0/obsidian-charts) - Charts - Obsidian Plugin | Create editable, interactive and animated Charts in Obsidian
 - [gilbertohasnofb/typora-panda-theme](https://github.com/gilbertohasnofb/typora-panda-theme) - Panda theme for Typora
 - [heroku/12factor](https://github.com/heroku/12factor) - 
 - [stla/shinyMergely](https://github.com/stla/shinyMergely) - A Shiny app allowing to compare and merge two files.
@@ -676,6 +677,7 @@
 
 ## Go 
 
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
 - [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [vfarcic/gke-autopilot-demo](https://github.com/vfarcic/gke-autopilot-demo) - 
@@ -862,7 +864,6 @@
 - [tidynomicon/tidynomicon](https://github.com/tidynomicon/tidynomicon) - The Tidynomicon: An Introduction to R for Data Engineers and Others
 - [jhelvy/distillery](https://github.com/jhelvy/distillery) - A distill blog and showcase about building distill websites and blogs!
 - [FrissAnalytics/shinyJsTutorials](https://github.com/FrissAnalytics/shinyJsTutorials) - tutorials materials on R/Shiny bindings to popular javascript libraries
-- [Statistical-Learning-with-R/01-Introduction-and-Review](https://github.com/Statistical-Learning-with-R/01-Introduction-and-Review) - 
 - [domchristie/turndown](https://github.com/domchristie/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
 - [iGISc/EnvDataSci](https://github.com/iGISc/EnvDataSci) - 
@@ -1290,6 +1291,10 @@
 
 ## JavaScript 
 
+- [vonovak/react-navigation-header-buttons](https://github.com/vonovak/react-navigation-header-buttons) - Easily render header buttons for react-navigation.
+- [ardaogulcan/react-native-keyboard-accessory](https://github.com/ardaogulcan/react-native-keyboard-accessory) - A React Native Keyboard Accessory (View, Navigation) Component. Sticky views on keyboard.
+- [CodingGarden/travel-log](https://github.com/CodingGarden/travel-log) - A full stack application to store / list places you have traveled.
+- [magus/next-magic-auth](https://github.com/magus/next-magic-auth) - magic authentication with just your email, no third parties required
 - [powwater/reactnative_map_app](https://github.com/powwater/reactnative_map_app) - Example React Native App using Google Map's Search Autocomplete and Geolocation APIs
 - [tunnelWithAC/react-native-todo](https://github.com/tunnelWithAC/react-native-todo) - Created with CodeSandbox
 - [klmr/klmr.github.io](https://github.com/klmr/klmr.github.io) - My website
@@ -2064,6 +2069,7 @@
 
 ## Makefile 
 
+- [jnovack/git-checkout](https://github.com/jnovack/git-checkout) - Basic git checkout builder or side container for workflows.
 - [eddiejaoude/book-open-source-tips](https://github.com/eddiejaoude/book-open-source-tips) - Open Source book on Open Source Tips
 - [hrbrmstr/RSwitch](https://github.com/hrbrmstr/RSwitch) - 🎛 A small menubar app that allows you to switch between R versions quickly (if you have multiple versions of R framework installed).
 - [o2r-project/reference-implementation](https://github.com/o2r-project/reference-implementation) - A catch-all repository to run all o2r microservices and the user interface platform
@@ -2127,6 +2133,7 @@
 
 ## Others 
 
+- [vhpoet/react-native-styling-cheat-sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet) - Most of the React Native styling material in one page
 - [tunnelWithAC/aiohttp-boilerplate](https://github.com/tunnelWithAC/aiohttp-boilerplate) - Boilerplate project for building REST APIs using AIOHTTP and Postgres
 - [tunnelWithAC/google-cloud-functions-demo](https://github.com/tunnelWithAC/google-cloud-functions-demo) - 
 - [jimsforks/validatedb](https://github.com/jimsforks/validatedb) - Validate on a table in a DB, using dbplyr
@@ -2839,6 +2846,7 @@
 
 ## PLpgSQL 
 
+- [powwater/vendor_dashboard](https://github.com/powwater/vendor_dashboard) - Vendor Dashboard Shiny Web Application
 - [ankane/groupdate.sql](https://github.com/ankane/groupdate.sql) - The simplest way to group temporal data
 - [subzerocloud/postgrest-starter-kit](https://github.com/subzerocloud/postgrest-starter-kit) - Starter Kit and tooling for authoring REST API backends with PostgREST
 - [theory/pgtap](https://github.com/theory/pgtap) - PostgreSQL Unit Testing Suite
@@ -3312,6 +3320,11 @@
 
 ## R 
 
+- [hairizuanbinnoorazman/gamanager](https://github.com/hairizuanbinnoorazman/gamanager) - Manage Google Analytics Management Settings with R
+- [hairizuanbinnoorazman/kubeapps](https://github.com/hairizuanbinnoorazman/kubeapps) - Contains a bunch of repos and files for deploying and testing things with Kubernetes
+- [hairizuanbinnoorazman/githubR](https://github.com/hairizuanbinnoorazman/githubR) - Manage Github repositories with R scripts
+- [jwilczek-dotcom/RACORD](https://github.com/jwilczek-dotcom/RACORD) - Computer-Assisted Shape Classification of Archaeological Pottery Fragments
+- [databio/unitar](https://github.com/databio/unitar) - Targets that span projects
 - [jeroen/webutils](https://github.com/jeroen/webutils) - Utility functions for web applications
 - [ropensci/vcr](https://github.com/ropensci/vcr) - Record HTTP calls and replay them
 - [sckott/httpcode](https://github.com/sckott/httpcode) - http code investigation
@@ -3343,7 +3356,7 @@
 - [davidsjoberg/ggsankey](https://github.com/davidsjoberg/ggsankey) - Make sankey, alluvial and sankey bump plots in ggplot
 - [tidymodels/butcher](https://github.com/tidymodels/butcher) - Reduce the size of model objects saved to disk
 - [inlabru-org/inlabru](https://github.com/inlabru-org/inlabru) - inlabru
-- [rossellhayes/crossmap](https://github.com/rossellhayes/crossmap) - Apply Functions to All Combinations of List Elements
+- [rossellhayes/crossmap](https://github.com/rossellhayes/crossmap) - ❌🗺 Apply Functions to All Combinations of List Elements
 - [simonpcouch/scheduled-commit-action](https://github.com/simonpcouch/scheduled-commit-action) - Running R Scripts on a Schedule with GitHub Actions
 - [grabear/shiny-pathfinder-loot](https://github.com/grabear/shiny-pathfinder-loot) - An R shiny app used to keep up with loot tables on Google Sheets during Pathfinder/RPG sessions.
 - [tyronehunt/Mastering-RShiny](https://github.com/tyronehunt/Mastering-RShiny) - Working through the content of Hadley Wickham's Mastering RShiny Book
@@ -3392,7 +3405,6 @@
 - [dgrtwo/drlib](https://github.com/dgrtwo/drlib) - Personal R package
 - [chriscardillo/giftwrap](https://github.com/chriscardillo/giftwrap) - Take shell commands and turn them into R functions
 - [dgrtwo/cranview](https://github.com/dgrtwo/cranview) - A Shiny app to visualize downloads from RStudio's CRAN mirror
-- [powwater/vendor_dashboard](https://github.com/powwater/vendor_dashboard) - Vendor Dashboard Shiny Web Application
 - [powwater/landing_page](https://github.com/powwater/landing_page) - Minimal example landing page application portal for powwater apps.
 - [jimbrig/jimstemplates](https://github.com/jimbrig/jimstemplates) - Personal Templates
 - [daattali/inputknob](https://github.com/daattali/inputknob) - 
@@ -5329,7 +5341,7 @@
 - [gdemin/excel.link](https://github.com/gdemin/excel.link) - Convenient Data Exchange between R and Microsoft Excel
 - [r-lib/pkginstall](https://github.com/r-lib/pkginstall) - Provides a replacement for `utils::install.packages()`
 - [Roche/rtables](https://github.com/Roche/rtables) - Reporting tables with R
-- [ropenscilabs/reviewer](https://github.com/ropenscilabs/reviewer) - Improving the track changes and reviewing experience in R markdown
+- [ropensci-archive/reviewer](https://github.com/ropensci-archive/reviewer) - :no_entry: ARCHIVED :no_entry:  Improving the track changes and reviewing experience in R markdown
 - [r-lib/pkgapi](https://github.com/r-lib/pkgapi) - Create a map of functions for an R package - WORK IN PROGRESS!
 - [yihui/xfun](https://github.com/yihui/xfun) - Miscellaneous R functions
 - [leeper/csvy](https://github.com/leeper/csvy) - Import and Export CSV Data With a YAML Metadata Header
@@ -5357,7 +5369,7 @@
 - [hrbrmstr/dtupdate](https://github.com/hrbrmstr/dtupdate) - The dtupdate package has functions that try to make it easier to keep up with the non-CRAN universe
 - [underthecurve/r-data-cleaning-tricks](https://github.com/underthecurve/r-data-cleaning-tricks) - Data Cleaning Tricks in R for Boston University's "Storytelling with Data" workshop
 - [tjmahr/WrapRmd](https://github.com/tjmahr/WrapRmd) - RStudio addin for wrapping RMarkdown paragraphs
-- [ropenscilabs/testrmd](https://github.com/ropenscilabs/testrmd) - Test chunks for R Markdown.
+- [rmflight/testrmd](https://github.com/rmflight/testrmd) - Test chunks for R Markdown.
 - [cbailiss/pivottabler](https://github.com/cbailiss/pivottabler) - Create Pivot Tables natively in R
 - [r-assist/searcher](https://github.com/r-assist/searcher) - Query Search Portals from R
 - [mkearney/dapr](https://github.com/mkearney/dapr) - ☝🏼👉🏼👇🏼👈🏼 Dependency-free purrr-like apply/map/iterate functions
@@ -5856,6 +5868,7 @@
 
 ## Shell 
 
+- [r-builder/cran2deb](https://github.com/r-builder/cran2deb) - Creating Debian Packages from CRAN Sources
 - [klmr/switch-r](https://github.com/klmr/switch-r) - R version switcher for macOS
 - [tallguyjenks/Obsidian-CLI](https://github.com/tallguyjenks/Obsidian-CLI) - Opening Obsidian files with the command line
 - [GoogleCloudPlatform/shell-samples](https://github.com/GoogleCloudPlatform/shell-samples) - 
@@ -6180,7 +6193,7 @@
 - [renozao/pkgmaker](https://github.com/renozao/pkgmaker) - R Package development utilities
 - [ropenscilabs/actions_sandbox](https://github.com/ropenscilabs/actions_sandbox) - 
 - [wch/latexsheet](https://github.com/wch/latexsheet) - LaTeX cheat sheet
-- [ropenscilabs/Rcademy](https://github.com/ropenscilabs/Rcademy) - 
+- [robjhyndman/Rcademy](https://github.com/robjhyndman/Rcademy) - 
 - [mmadsen/lnraw](https://github.com/mmadsen/lnraw) - Lab Notebook - Source Version
 - [kjhealy/pandoc-templates](https://github.com/kjhealy/pandoc-templates) - Some templates for Pandoc.
 - [kjhealy/latex-custom-kjh](https://github.com/kjhealy/latex-custom-kjh) - Some simple configuration files I use for use with LaTeX, the Memoir class and the Listings package.
@@ -6197,6 +6210,7 @@
 
 ## TypeScript 
 
+- [eugenehp/react-native-uuid](https://github.com/eugenehp/react-native-uuid) - UUID generation for react-native.
 - [atlassian/stricter](https://github.com/atlassian/stricter) - A project-wide js-linting tool
 - [pinterest/querybook](https://github.com/pinterest/querybook) - Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface.
 - [callstack/react-native-pager-view](https://github.com/callstack/react-native-pager-view) - React Native wrapper for the Android ViewPager and iOS UIPageViewController.
