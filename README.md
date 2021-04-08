@@ -137,6 +137,7 @@
 
 ## C 
 
+- [Dark-Moon-X/DarkMoonV1.0.3](https://github.com/Dark-Moon-X/DarkMoonV1.0.3) - Linux subsystem for Windows
 - [aleen42/PersonalWiki](https://github.com/aleen42/PersonalWiki) - :notebook: A simple personal wiki of my current knowledge
 - [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
 - [retroplasma/earth-reverse-engineering](https://github.com/retroplasma/earth-reverse-engineering) - Reversing Google's 3D satellite mode
@@ -587,7 +588,7 @@
 ## Clojure 
 
 - [krisajenkins/yesql](https://github.com/krisajenkins/yesql) - A Clojure library for using SQL.
-- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://app.gitbook.com/@athensresearch/s/athens/
+- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://app.gitbook.com/@athensresearch/s/handbook/
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend now, backend later) platform for knowledge sharing and management. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [Factual/drake](https://github.com/Factual/drake) - Data workflow tool, like a "Make for data"
@@ -2425,7 +2426,7 @@
 - [jthegedus/awesome-firebase](https://github.com/jthegedus/awesome-firebase) - 🔥 List of Firebase talks, tools, examples & articles! Translations in  🇬🇧 🇷🇺 Contributions welcome!
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
 - [BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown) - :memo: Delightful Markdown stuff.
-- [blacksonic/awesome-vue-3](https://github.com/blacksonic/awesome-vue-3) - A curated list of awesome things related to Vue 3
+- [vuesomedev/awesome-vue-3](https://github.com/vuesomedev/awesome-vue-3) - A curated list of awesome things related to Vue 3
 - [beardicus/awesome-plotters](https://github.com/beardicus/awesome-plotters) - A curated list of code and resources for computer-controlled drawing machines and other visual art robots.
 - [sveltejs/integrations](https://github.com/sveltejs/integrations) - Ways to incorporate Svelte into your stack
 - [tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) - 
@@ -2862,6 +2863,7 @@
 
 ## PowerShell 
 
+- [canonical/ubuntu-cooker](https://github.com/canonical/ubuntu-cooker) - Ubuntu WSL UWP Builder
 - [Phil-Factor/SQLCloneFamily](https://github.com/Phil-Factor/SQLCloneFamily) - 
 - [microsoftgraph/microsoft-graph-docs](https://github.com/microsoftgraph/microsoft-graph-docs) - Documentation for the Microsoft Graph REST API
 - [microsoft/CSS-Exchange](https://github.com/microsoft/CSS-Exchange) - Exchange Server support tools and scripts
@@ -3320,6 +3322,12 @@
 
 ## R 
 
+- [thewileylab/ReviewR](https://github.com/thewileylab/ReviewR) - A Shiny tool for performing manual review of electronic medical records
+- [dipterix/restbatch](https://github.com/dipterix/restbatch) - A small RESTful framework to run batch jobs in the background
+- [benjaminortizulloa/plumber-git-oauth](https://github.com/benjaminortizulloa/plumber-git-oauth) - 
+- [edgararuiz-zz/plumber_oauth2](https://github.com/edgararuiz-zz/plumber_oauth2) - 
+- [githubz0r/SecretUtils](https://github.com/githubz0r/SecretUtils) - Some utils
+- [gaborcsardi/secret](https://github.com/gaborcsardi/secret) - :closed_lock_with_key: Secure sharing of sensitive information in R packages
 - [hairizuanbinnoorazman/gamanager](https://github.com/hairizuanbinnoorazman/gamanager) - Manage Google Analytics Management Settings with R
 - [hairizuanbinnoorazman/kubeapps](https://github.com/hairizuanbinnoorazman/kubeapps) - Contains a bunch of repos and files for deploying and testing things with Kubernetes
 - [hairizuanbinnoorazman/githubR](https://github.com/hairizuanbinnoorazman/githubR) - Manage Github repositories with R scripts
