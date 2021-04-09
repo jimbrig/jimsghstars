@@ -860,6 +860,7 @@
 
 ## HTML 
 
+- [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
 - [sharlagelfand/sharla.online](https://github.com/sharlagelfand/sharla.online) - 
 - [colinquirk/LivestreamCode](https://github.com/colinquirk/LivestreamCode) - A place to put code from my livestreams
 - [tidynomicon/tidynomicon](https://github.com/tidynomicon/tidynomicon) - The Tidynomicon: An Introduction to R for Data Engineers and Others
@@ -1292,6 +1293,7 @@
 
 ## JavaScript 
 
+- [edgararuiz-zz/databases-w-r](https://github.com/edgararuiz-zz/databases-w-r) - Databases with R, the latest - rstudio::conf2019
 - [vonovak/react-navigation-header-buttons](https://github.com/vonovak/react-navigation-header-buttons) - Easily render header buttons for react-navigation.
 - [ardaogulcan/react-native-keyboard-accessory](https://github.com/ardaogulcan/react-native-keyboard-accessory) - A React Native Keyboard Accessory (View, Navigation) Component. Sticky views on keyboard.
 - [CodingGarden/travel-log](https://github.com/CodingGarden/travel-log) - A full stack application to store / list places you have traveled.
@@ -3322,6 +3324,13 @@
 
 ## R 
 
+- [terrytangyuan/ctv-databases](https://github.com/terrytangyuan/ctv-databases) - CRAN Task View: Databases with R
+- [edgararuiz-zz/charla-shiny](https://github.com/edgararuiz-zz/charla-shiny) - 
+- [edgararuiz-zz/shinyevents](https://github.com/edgararuiz-zz/shinyevents) - 
+- [edgararuiz-zz/datalang](https://github.com/edgararuiz-zz/datalang) - Package to translate R data sets
+- [alexgao09/structuredpriorsmrp_public](https://github.com/alexgao09/structuredpriorsmrp_public) - Repository for reproducing results in structured priors MRP paper
+- [quartin/dbutils](https://github.com/quartin/dbutils) - Utilities for interacting with databases in R
+- [tidymodels/modeldb](https://github.com/tidymodels/modeldb) - Run models inside a database using R
 - [thewileylab/ReviewR](https://github.com/thewileylab/ReviewR) - A Shiny tool for performing manual review of electronic medical records
 - [dipterix/restbatch](https://github.com/dipterix/restbatch) - A small RESTful framework to run batch jobs in the background
 - [benjaminortizulloa/plumber-git-oauth](https://github.com/benjaminortizulloa/plumber-git-oauth) - 
@@ -3879,7 +3888,6 @@
 - [mcanouil/resume_template](https://github.com/mcanouil/resume_template) - Curriculum Vitae based on "pagedown::html_resume"
 - [mcanouil/clere](https://github.com/mcanouil/clere) - Simultaneous Variables Clustering and Regression
 - [mcanouil/DEV](https://github.com/mcanouil/DEV) - Some functions/utils in development ...
-- [mcanouil/mctools](https://github.com/mcanouil/mctools) - Mickaël Canouil's tools
 - [mcanouil/rshiny](https://github.com/mcanouil/rshiny) - Introduction to the 'shiny' package
 - [umr1283/rain](https://github.com/umr1283/rain) - Reference-based Ancestry INference
 - [mcanouil/mctemplates](https://github.com/mcanouil/mctemplates) - Mickaël Canouil's Rmarkdown & Rstudio templates
@@ -3944,7 +3952,7 @@
 - [OHDSI/SqlRender](https://github.com/OHDSI/SqlRender) - This is an R package and Java library for rendering parameterized SQL, and translating it to different SQL dialects.
 - [OHDSI/ShinyDeploy](https://github.com/OHDSI/ShinyDeploy) - Shiny apps in this repository will be automatically deployed to the OHDSI Shiny server.
 - [mdlincoln/clipr](https://github.com/mdlincoln/clipr) - R functions for reading and writing from the system clipboard
-- [rspatial/raster](https://github.com/rspatial/raster) - R raster package
+- [rspatial/raster](https://github.com/rspatial/raster) - R raster package https://rspatial.github.io/raster/
 - [r-lib/urlchecker](https://github.com/r-lib/urlchecker) - Run CRAN URL checks from older versions of R
 - [davidkane9/PPBDS](https://github.com/davidkane9/PPBDS) - 
 - [datascienceworkshops/tmuxr](https://github.com/datascienceworkshops/tmuxr) - Manage tmux from R
@@ -4261,7 +4269,7 @@
 - [yihui/latex-pass](https://github.com/yihui/latex-pass) - Help you pass the LaTeX compilation by telling you which LaTeX packages are missing to compile your documents
 - [gogonzo/runner](https://github.com/gogonzo/runner) - :runner: R package performing simple running calculations
 - [sckott/atomize](https://github.com/sckott/atomize) - atomize functions within a package into new packages
-- [ropenscilabs/realtime](https://github.com/ropenscilabs/realtime) - 
+- [jonocarroll/realtime](https://github.com/jonocarroll/realtime) - 
 - [zeehio/condformat](https://github.com/zeehio/condformat) - R package to apply conditional formatting rules to a data.frame
 - [R4EPI/sitrep](https://github.com/R4EPI/sitrep) - Report templates and helper functions for field epidemiologists
 - [lockedata/PackageReviewR](https://github.com/lockedata/PackageReviewR) - R Package :package: to review :mag: R :package:s
@@ -4652,7 +4660,7 @@
 - [coolbutuseless/flagon](https://github.com/coolbutuseless/flagon) - Flags of the World
 - [nathaneastwood/poorman](https://github.com/nathaneastwood/poorman) - A poor man's dependency free grammar of data manipulation
 - [moodymudskipper/safejoin](https://github.com/moodymudskipper/safejoin) - Wrappers around dplyr functions to join safely     using various checks
-- [rspatial/terra](https://github.com/rspatial/terra) - R package for spatial data handling
+- [rspatial/terra](https://github.com/rspatial/terra) - R package for spatial data handling https://rspatial.github.io/terra/
 - [hope-data-science/tidyft](https://github.com/hope-data-science/tidyft) - Tidy Verbs for Fast Data Operations by Reference
 - [HenrikBengtsson/future.batchtools](https://github.com/HenrikBengtsson/future.batchtools) - :rocket: R package future.batchtools: A Future API for Parallel and Distributed Processing using batchtools
 - [data-cleaning/deducorrect](https://github.com/data-cleaning/deducorrect) - An R package for rule-based record correction and imputation
@@ -6199,7 +6207,7 @@
 - [dfalster/baad](https://github.com/dfalster/baad) - BAAD: a Biomass And Allometry Database for woody plants
 - [hebrewseniorlife/memor](https://github.com/hebrewseniorlife/memor) - rmarkdown template that supports customizable logo, company info, etc.
 - [renozao/pkgmaker](https://github.com/renozao/pkgmaker) - R Package development utilities
-- [ropenscilabs/actions_sandbox](https://github.com/ropenscilabs/actions_sandbox) - 
+- [orchid00/actions_sandbox](https://github.com/orchid00/actions_sandbox) - 
 - [wch/latexsheet](https://github.com/wch/latexsheet) - LaTeX cheat sheet
 - [robjhyndman/Rcademy](https://github.com/robjhyndman/Rcademy) - 
 - [mmadsen/lnraw](https://github.com/mmadsen/lnraw) - Lab Notebook - Source Version
@@ -6313,7 +6321,7 @@
 - [hasura/data-dictionary](https://github.com/hasura/data-dictionary) - 
 - [BookmarksDev/bookmarks.dev](https://github.com/BookmarksDev/bookmarks.dev) - Bookmarks and Code Snippets Manager for Developers & Co
 - [agathauy/wikilinks-to-mdlinks-obsidian](https://github.com/agathauy/wikilinks-to-mdlinks-obsidian) - An Obsidian md plugin which allows for the conversion of individually selected wikilinks to markdown links, and vice versa.
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Build beautiful admin panels, dashboards, and CRUD apps that connect to any API or database. Try it at: https://app.appsmith.com Open source and self-hosting friendly.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Build custom CRUD UI that talks to any API or database. All without HTML or CSS.
 - [toddbluhm/env-cmd](https://github.com/toddbluhm/env-cmd) - Setting environment variables from a file
 - [linyows/github-issues-notice](https://github.com/linyows/github-issues-notice) - :octocat: Notify labeled issues to Slack
 - [ManuelHentschel/VSCode-R-Debugger](https://github.com/ManuelHentschel/VSCode-R-Debugger) - R Debugger Extension for Visual Studio Code
