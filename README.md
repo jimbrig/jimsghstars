@@ -119,7 +119,7 @@
 - [vensko/pint](https://github.com/vensko/pint) - A single-file command-line package manager for Windows.
 - [jahwi/bget](https://github.com/jahwi/bget) - A package manager for Windows scripts.
 - [ReneNyffenegger/Configure-Windows](https://github.com/ReneNyffenegger/Configure-Windows) - Some scripts to configure Windows so that I can use it.
-- [zhubanRuban/cygwin-portable](https://github.com/zhubanRuban/cygwin-portable) - CygWin/ConEmu Portable Installer/Updater
+- [0zhu/cygwin-portable](https://github.com/0zhu/cygwin-portable) - CygWin/ConEmu Portable Installer/Updater
 - [watzon/wsl-proxy](https://github.com/watzon/wsl-proxy) - WSL proxy files for editor/linux interop
 - [L33Tech/Windows10Tools](https://github.com/L33Tech/Windows10Tools) - Tools for Windows 10
 - [ManuelGil/Script-Reset-Windows-Update-Tool](https://github.com/ManuelGil/Script-Reset-Windows-Update-Tool) - This script reset the Windows Update Components.
@@ -137,6 +137,7 @@
 
 ## C 
 
+- [postgres-plr/plr](https://github.com/postgres-plr/plr) - PL/R - R Procedural Language for PostgreSQL
 - [Dark-Moon-X/DarkMoonV1.0.3](https://github.com/Dark-Moon-X/DarkMoonV1.0.3) - Linux subsystem for Windows
 - [aleen42/PersonalWiki](https://github.com/aleen42/PersonalWiki) - :notebook: A simple personal wiki of my current knowledge
 - [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
@@ -1293,6 +1294,7 @@
 
 ## JavaScript 
 
+- [majgis/npm-bundle](https://github.com/majgis/npm-bundle) - npm pack with dependencies included
 - [edgararuiz-zz/databases-w-r](https://github.com/edgararuiz-zz/databases-w-r) - Databases with R, the latest - rstudio::conf2019
 - [vonovak/react-navigation-header-buttons](https://github.com/vonovak/react-navigation-header-buttons) - Easily render header buttons for react-navigation.
 - [ardaogulcan/react-native-keyboard-accessory](https://github.com/ardaogulcan/react-native-keyboard-accessory) - A React Native Keyboard Accessory (View, Navigation) Component. Sticky views on keyboard.
@@ -1393,6 +1395,7 @@
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [zeroturnaround/sql-formatter](https://github.com/zeroturnaround/sql-formatter) - A whitespace formatter for different query languages
+- [ankane/pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
 - [toorshia/justgage](https://github.com/toorshia/justgage) - JustGage is a handy JavaScript plugin for generating and animating nice & clean dashboard gauges. It is based on Raphaël library for vector drawing.
 - [holistics/dbml](https://github.com/holistics/dbml) - Database Markup Language (DBML), designed to define and document database structures
 - [swsoyee/r3dmol](https://github.com/swsoyee/r3dmol) - 🧬 An R package for visualizing molecular data in 3D
@@ -2136,6 +2139,7 @@
 
 ## Others 
 
+- [RConsortium/isc](https://github.com/RConsortium/isc) - R Consortium ISC meeting notes and collaboration
 - [vhpoet/react-native-styling-cheat-sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet) - Most of the React Native styling material in one page
 - [tunnelWithAC/aiohttp-boilerplate](https://github.com/tunnelWithAC/aiohttp-boilerplate) - Boilerplate project for building REST APIs using AIOHTTP and Postgres
 - [tunnelWithAC/google-cloud-functions-demo](https://github.com/tunnelWithAC/google-cloud-functions-demo) - 
@@ -3324,6 +3328,8 @@
 
 ## R 
 
+- [meerapatelmd/pg13](https://github.com/meerapatelmd/pg13) - R Package for connecting to and querying a Postgres database
+- [annahutch/corrcoverage](https://github.com/annahutch/corrcoverage) - Repo for corrcoverage package
 - [terrytangyuan/ctv-databases](https://github.com/terrytangyuan/ctv-databases) - CRAN Task View: Databases with R
 - [edgararuiz-zz/charla-shiny](https://github.com/edgararuiz-zz/charla-shiny) - 
 - [edgararuiz-zz/shinyevents](https://github.com/edgararuiz-zz/shinyevents) - 
@@ -3877,7 +3883,7 @@
 - [bcgov/safepaths](https://github.com/bcgov/safepaths) - An R 📦 to safely set & use a path to a private network
 - [cloudyr/aws.secrets](https://github.com/cloudyr/aws.secrets) - 
 - [ekstroem/dataReporter](https://github.com/ekstroem/dataReporter) - 
-- [wlandau/stantargets](https://github.com/wlandau/stantargets) - Reproducible Bayesian data analysis pipelines with targets and cmdstanr
+- [ropensci/stantargets](https://github.com/ropensci/stantargets) - Reproducible Bayesian data analysis pipelines with targets and cmdstanr
 - [statnet/ergm](https://github.com/statnet/ergm) - Fit, Simulate and Diagnose Exponential-Family Models for Networks
 - [R-CoderDotCom/econocharts](https://github.com/R-CoderDotCom/econocharts) - Microeconomics/macroeconomics charts in ggplot2
 - [devOpifex/erratum](https://github.com/devOpifex/erratum) - Error & warning handling for R inspired by go
@@ -4660,7 +4666,7 @@
 - [coolbutuseless/flagon](https://github.com/coolbutuseless/flagon) - Flags of the World
 - [nathaneastwood/poorman](https://github.com/nathaneastwood/poorman) - A poor man's dependency free grammar of data manipulation
 - [moodymudskipper/safejoin](https://github.com/moodymudskipper/safejoin) - Wrappers around dplyr functions to join safely     using various checks
-- [rspatial/terra](https://github.com/rspatial/terra) - R package for spatial data handling https://rspatial.github.io/terra/
+- [rspatial/terra](https://github.com/rspatial/terra) - R package for spatial data handling https://rspatial.github.io/terra/reference/terra-package.html
 - [hope-data-science/tidyft](https://github.com/hope-data-science/tidyft) - Tidy Verbs for Fast Data Operations by Reference
 - [HenrikBengtsson/future.batchtools](https://github.com/HenrikBengtsson/future.batchtools) - :rocket: R package future.batchtools: A Future API for Parallel and Distributed Processing using batchtools
 - [data-cleaning/deducorrect](https://github.com/data-cleaning/deducorrect) - An R package for rule-based record correction and imputation
@@ -5165,7 +5171,7 @@
 - [krlmlr/tee](https://github.com/krlmlr/tee) - Log all process output to a file, for R
 - [pablo14/funModeling](https://github.com/pablo14/funModeling) - R package: funModeling: data cleaning, importance variable analysis and model perfomance
 - [ropensci-archive/rcheatsheet](https://github.com/ropensci-archive/rcheatsheet) - Cheatsheets for R
-- [ropenscilabs/jobstatus](https://github.com/ropenscilabs/jobstatus) - Send Job Information Between Functions and Processes
+- [ropensci-archive/jobstatus](https://github.com/ropensci-archive/jobstatus) - :no_entry: ARCHIVED :no_entry: Send Job Information Between Functions and Processes
 - [ropenscilabs/pkginspector](https://github.com/ropenscilabs/pkginspector) - An R package that provides tools to review other R packages
 - [ropenscilabs/dirdf](https://github.com/ropenscilabs/dirdf) - R package: dirdf - Extracts Metadata from Directory and File Names
 - [mitchelloharawild/icons](https://github.com/mitchelloharawild/icons) - R package to easily insert web icons to RMarkdown
@@ -5741,7 +5747,6 @@
 - [github/linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [holistics/pgcp](https://github.com/holistics/pgcp) - Copying tables between Postgres databases (for analytics purpose)
 - [randym/axlsx](https://github.com/randym/axlsx) - xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your xlsx file before serialization so you know for sure that anything generated is going to load on your client's machine.
-- [ankane/pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
 - [librariesio/libraries.io](https://github.com/librariesio/libraries.io) - :books: The Open Source Discovery Service
 - [siteinspector/siteinspector](https://github.com/siteinspector/siteinspector) - A tool for catching spelling errors, grammatical errors, broken links, and other errors on websites.
 - [voostindie/vincents-productivity-suite-for-alfred](https://github.com/voostindie/vincents-productivity-suite-for-alfred) - A CLI and automatically generated Alfred workflows to make my daily computer work more efficient.
@@ -6514,7 +6519,7 @@
 
 - [bencodezen/obsidian-publish-vue](https://github.com/bencodezen/obsidian-publish-vue) - 
 - [Leniolabs/layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem. https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [appbaseio-apps/GitXplore-Search](https://github.com/appbaseio-apps/GitXplore-Search) - An application to explore github repositories.
 - [mtobeiyf/pile](https://github.com/mtobeiyf/pile) - :zap: A simple & powerful app to organize your piled work at one place~
