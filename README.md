@@ -98,7 +98,6 @@
 
 ## Assembly 
 
-- [nullsecuritynet/tools](https://github.com/nullsecuritynet/tools) - Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts.
 - [harrelfe/Hmisc](https://github.com/harrelfe/Hmisc) - Harrell Miscellaneous
 
 ## AutoHotkey 
@@ -160,11 +159,12 @@
 - [ReneNyffenegger/temp-VBA](https://github.com/ReneNyffenegger/temp-VBA) - temporary VBA snippets
 - [yuk7/wsl2exe](https://github.com/yuk7/wsl2exe) - [TESTING]Use command in WSL from exe executable
 - [yuk7/wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
-- [charliesome/doslinux](https://github.com/charliesome/doslinux) - Run Linux programs on DOS
+- [haileysome/doslinux](https://github.com/haileysome/doslinux) - Run Linux programs on DOS
 - [adamyg/mcwin32](https://github.com/adamyg/mcwin32) - Midnight Commander for Windows
 - [Sage-Bionetworks/Rsftp](https://github.com/Sage-Bionetworks/Rsftp) - R package for sftp and other ssh-related functionality
 - [jeroen/sys](https://github.com/jeroen/sys) - Powerful replacements for base::system2
 - [robenkleene/development-references](https://github.com/robenkleene/development-references) - References for programming tools.
+- [nullsecuritynet/tools](https://github.com/nullsecuritynet/tools) - Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts.
 - [atheriel/longears](https://github.com/atheriel/longears) - A RabbitMQ client for R
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [henrypp/memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
@@ -1987,6 +1987,7 @@
 - [htmlwidgets/sparkline](https://github.com/htmlwidgets/sparkline) - jQuery Sparkline HTML Widget for R
 - [hrbrmstr/vegalite](https://github.com/hrbrmstr/vegalite) - R ggplot2 "bindings" for Vega-Lite
 - [timelyportfolio/sunburstR](https://github.com/timelyportfolio/sunburstR) - R htmlwidget for interactive sunburst plots
+- [thomasp85/shinyFiles](https://github.com/thomasp85/shinyFiles) - A shiny extension for server side file access
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [nefe/You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 - [trestletech/shinyTable](https://github.com/trestletech/shinyTable) - An R package that integrates Handsontable with Shiny
@@ -2895,7 +2896,7 @@
 - [Ash258/GithubActionsBucketForTesting](https://github.com/Ash258/GithubActionsBucketForTesting) - Test repo for https://github.com/Ash258/scoop-GithubActions
 - [Ash258/Scoop-Ash258](https://github.com/Ash258/Scoop-Ash258) - Personal bucket with wide variety of applications of all kind.
 - [ScoopInstaller/Install](https://github.com/ScoopInstaller/Install) - 📥 WIP: Next-generation Scoop (un)installer
-- [Ash258/Scoop-Core](https://github.com/Ash258/Scoop-Core) - Shovel. Alternative, more advanced and user-friendly implementation of windows command-line installer scoop.
+- [Ash258/Scoop-Core](https://github.com/Ash258/Scoop-Core) - Shovel. Alternative, more advanced, and user-friendly implementation of windows command-line installer scoop.
 - [darkoperator/Posh-VirusTotal](https://github.com/darkoperator/Posh-VirusTotal) - PowerShell Module to interact with VirusTotal
 - [darkoperator/powershell_scripts](https://github.com/darkoperator/powershell_scripts) - Powershell Scripts
 - [darkoperator/Posh-Sysmon](https://github.com/darkoperator/Posh-Sysmon) - PowerShell module for creating and managing Sysinternals Sysmon config files.
@@ -3221,7 +3222,7 @@
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [svetlyak40wt/dotfiler](https://github.com/svetlyak40wt/dotfiler) - Shell agnostic git based dotfiles package manager, written in Python.
-- [PyCQA/flake8](https://github.com/PyCQA/flake8) - flake8 is a python tool that glues together pep8, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.
+- [PyCQA/flake8](https://github.com/PyCQA/flake8) - flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.
 - [gordonbrander/lettersmith_py](https://github.com/gordonbrander/lettersmith_py) - Python tools for static site generation
 - [nschloe/awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing) - :sunglasses: Curated list of awesome software for numerical analysis and scientific computing
 - [mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) - A curated list of awesome Discord communities for programmers
@@ -5595,7 +5596,6 @@
 - [emitanaka/shinycustomloader](https://github.com/emitanaka/shinycustomloader) - Add a custom loader for R shiny
 - [burgerga/shinyTime](https://github.com/burgerga/shinyTime) - A timeInput widget for Shiny
 - [wleepang/shiny-directory-input](https://github.com/wleepang/shiny-directory-input) - An shiny input widget for selecting directories
-- [thomasp85/shinyFiles](https://github.com/thomasp85/shinyFiles) - A shiny extension for server side file access
 - [ebailey78/shinyBS](https://github.com/ebailey78/shinyBS) - Twitter Bootstrap Components for Shiny
 - [RinteRface/bs4Dash](https://github.com/RinteRface/bs4Dash) - Bootstrap 4 shinydashboard using AdminLTE3
 - [nteetor/yonder](https://github.com/nteetor/yonder) - A reactive web framework built on shiny
