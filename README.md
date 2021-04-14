@@ -26,6 +26,7 @@
   - [Elm](#elm)
   - [Emacs Lisp](#emacs-lisp)
   - [F#](#f#)
+  - [FreeBasic](#freebasic)
   - [Gherkin](#gherkin)
   - [Go](#go)
   - [Groovy](#groovy)
@@ -452,6 +453,7 @@
 
 ## CSS 
 
+- [jh3y/whirl](https://github.com/jh3y/whirl) - CSS loading animations with minimal effort!
 - [crilleengvall/electron-tutorial-app](https://github.com/crilleengvall/electron-tutorial-app) - An electron application for tutorials
 - [klaussilveira/gitlist](https://github.com/klaussilveira/gitlist) - An elegant and modern git repository viewer
 - [tatianamac/tm11ty](https://github.com/tatianamac/tm11ty) - Personal site for Tatiana Mac (based on Eleventy)
@@ -516,7 +518,7 @@
 - [kognise/obsidian-aviation](https://github.com/kognise/obsidian-aviation) - Clean Markdown files for FAR/AIM and more
 - [whyt-byte/Blue-Topaz-with-Andy-mode_Obsidian_css](https://github.com/whyt-byte/Blue-Topaz-with-Andy-mode_Obsidian_css) - An Andy Matuschak-mode blue theme for Obsidian.
 - [rcvd/obsidian_ia](https://github.com/rcvd/obsidian_ia) - A clean and minimal theme for obsidian, heavily inspired by iA Writer.
-- [nerdalot/pensieve](https://github.com/nerdalot/pensieve) - My notes using loosely the Zettelkasten method and the app Obsidian
+- [toridoriv/pensieve](https://github.com/toridoriv/pensieve) - My notes using loosely the Zettelkasten method and the app Obsidian
 - [lucasrla/obsidian-css-tweaks](https://github.com/lucasrla/obsidian-css-tweaks) - CSS snippet for Obsidian – just a few (minimal) tweaks and fixes
 - [joshwingreene/Obsidian-JG-Method](https://github.com/joshwingreene/Obsidian-JG-Method) - A starter kit that follows how I use Obsidian to manage my goals, tasks, notes, and software development knowledge base.
 - [gillesbertaux/bootsy](https://github.com/gillesbertaux/bootsy) - Bootstrap small projects and keep them organized with a simple folder structure.
@@ -638,6 +640,7 @@
 - [slink42/rbase_shiny](https://github.com/slink42/rbase_shiny) - rocker/rbase docker image with a selection of packages preinstalled geared to support R-Shiny based webapp.
 - [ReneNyffenegger/about-Docker](https://github.com/ReneNyffenegger/about-Docker) - about Docker
 - [icolwell/docker_scripts](https://github.com/icolwell/docker_scripts) - This repo contains the Dockerfiles for the images hosted on my dockerhub
+- [dockerfornovices/DockerSimpleDemo](https://github.com/dockerfornovices/DockerSimpleDemo) - A small set of examples to introduce the very basics of Docker
 - [robertdj/r-dockerfiles](https://github.com/robertdj/r-dockerfiles) - Dockerfiles for R
 - [ericsgagnon/rlang-shiny-oci-docker](https://github.com/ericsgagnon/rlang-shiny-oci-docker) - Multi-stage docker build to extend rocker/shiny-verse with oracle oci
 - [vasudevgupta7/ds-toolkit](https://github.com/vasudevgupta7/ds-toolkit) - This repo is having some useful stuff for data scientist related stuff.
@@ -673,12 +676,17 @@
 
 - [fsprojects/Paket](https://github.com/fsprojects/Paket) - A dependency manager for .NET with support for NuGet packages and Git repositories.
 
+## FreeBasic 
+
+- [ReneNyffenegger/about-MS-Office-object-model](https://github.com/ReneNyffenegger/about-MS-Office-object-model) - About the MS Office objet model
+
 ## Gherkin 
 
 - [git-town/git-town](https://github.com/git-town/git-town) - Generic, high-level Git workflow support!
 
 ## Go 
 
+- [techschool/simplebank](https://github.com/techschool/simplebank) - 
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
 - [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
@@ -861,6 +869,7 @@
 
 ## HTML 
 
+- [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go) - Go backend for LibreSpeed
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
 - [sharlagelfand/sharla.online](https://github.com/sharlagelfand/sharla.online) - 
 - [colinquirk/LivestreamCode](https://github.com/colinquirk/LivestreamCode) - A place to put code from my livestreams
@@ -1294,6 +1303,7 @@
 
 ## JavaScript 
 
+- [glin/shiny-react-example](https://github.com/glin/shiny-react-example) - Example of a Shiny app with a React front-end
 - [majgis/npm-bundle](https://github.com/majgis/npm-bundle) - npm pack with dependencies included
 - [edgararuiz-zz/databases-w-r](https://github.com/edgararuiz-zz/databases-w-r) - Databases with R, the latest - rstudio::conf2019
 - [vonovak/react-navigation-header-buttons](https://github.com/vonovak/react-navigation-header-buttons) - Easily render header buttons for react-navigation.
@@ -1964,7 +1974,6 @@
 - [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
 - [react-R/reactR](https://github.com/react-R/reactR) - React for R
 - [daranzolin/pinpoint](https://github.com/daranzolin/pinpoint) - Interactively explore points within a distribution :pushpin:
-- [openbiox/UCSCXenaShiny](https://github.com/openbiox/UCSCXenaShiny) - 📊 A Shiny GUI for UCSC Xena https://xenabrowser.net/datapages/
 - [ValeriaNiceria/operDash](https://github.com/ValeriaNiceria/operDash) - OperDash - Dashboard Shiny (Pacote em construção!)
 - [wch/webshot](https://github.com/wch/webshot) - Take screenshots of web pages from R
 - [namespace-ee/react-calendar-timeline](https://github.com/namespace-ee/react-calendar-timeline) - A modern and responsive react timeline component.
@@ -1979,6 +1988,7 @@
 - [egoist/docute](https://github.com/egoist/docute) - 📚 Effortless documentation, done right.
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+- [rstudio/bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown
 - [jcheng5/shinymeta-user2019-talk](https://github.com/jcheng5/shinymeta-user2019-talk) - 
 - [rstudio/shiny-examples](https://github.com/rstudio/shiny-examples) - 
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -2833,7 +2843,7 @@
 - [spatie/schema-org](https://github.com/spatie/schema-org) - A fluent builder Schema.org types and ld+json generator
 - [KnpLabs/KnpSnappyBundle](https://github.com/KnpLabs/KnpSnappyBundle) - Easily create PDF and images in Symfony by converting html using webkit
 - [dompdf/dompdf](https://github.com/dompdf/dompdf) - HTML to PDF converter for PHP
-- [awesomemotive/all-in-one-seo-pack](https://github.com/awesomemotive/all-in-one-seo-pack) - All in One SEO Pack plugin for WordPress SEO
+- [awesomemotive/all-in-one-seo-pack](https://github.com/awesomemotive/all-in-one-seo-pack) - All in One SEO plugin for WordPress SEO
 - [appzcoder/crud-generator](https://github.com/appzcoder/crud-generator) - Laravel CRUD Generator
 - [knotworks/knot-server](https://github.com/knotworks/knot-server) - A decentralized server to build private social networks from.
 - [laravel/valet](https://github.com/laravel/valet) - 
@@ -3236,7 +3246,7 @@
 - [kognise/sherlock](https://github.com/kognise/sherlock) - Fast and efficient multi-threaded, cross-platform file searching.
 - [argenos/fmlib](https://github.com/argenos/fmlib) - 
 - [MrWeckx/obsidian_apps](https://github.com/MrWeckx/obsidian_apps) - I couldn't wait to see new features of obsidian implemented so here's something i guess?
-- [ProjectAPA/Obsidoro](https://github.com/ProjectAPA/Obsidoro) - An Pomodoro Timer for Obsidian
+- [ArchieAtkinson/Obsidoro](https://github.com/ArchieAtkinson/Obsidoro) - An Pomodoro Timer for Obsidian
 - [Spec04/obs_alias_generator](https://github.com/Spec04/obs_alias_generator) - Generate Alias file for Obsidian vault
 - [sloretz/off-your-rocker](https://github.com/sloretz/off-your-rocker) - Extensions for osrf/rocker
 - [PythonNut/resilio-sync-cli](https://github.com/PythonNut/resilio-sync-cli) - Reversed engineered API wrapper and CLI for Resilio Sync
@@ -3328,6 +3338,9 @@
 
 ## R 
 
+- [paciorek/future-kubernetes-docker](https://github.com/paciorek/future-kubernetes-docker) - A Docker container for use in a Kubernetes cluster with the R future package.
+- [terrytangyuan/maintainer-tools](https://github.com/terrytangyuan/maintainer-tools) - Collection of useful functions for project maintainers
+- [mwillumz/RGreenplum](https://github.com/mwillumz/RGreenplum) - 
 - [meerapatelmd/pg13](https://github.com/meerapatelmd/pg13) - R Package for connecting to and querying a Postgres database
 - [annahutch/corrcoverage](https://github.com/annahutch/corrcoverage) - Repo for corrcoverage package
 - [terrytangyuan/ctv-databases](https://github.com/terrytangyuan/ctv-databases) - CRAN Task View: Databases with R
@@ -5230,6 +5243,7 @@
 - [pablobarbera/instaR](https://github.com/pablobarbera/instaR) - Dev version of instaR package: Access to Instagram API via R
 - [tylermorganwall/rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization
 - [JeanBertinR/shinyML](https://github.com/JeanBertinR/shinyML) - shinyML is a R package that use h2o and Spark  frameworks to easily compare supervised machine learning models on regression or classification tasks (published on CRAN in July 2019)
+- [openbiox/UCSCXenaShiny](https://github.com/openbiox/UCSCXenaShiny) - 📊 A Shiny GUI for UCSC Xena https://xenabrowser.net/datapages/
 - [JhuangLab/BioInstaller](https://github.com/JhuangLab/BioInstaller) - A comprehensive R package to construct interactive and reproducible biological data analysis applications based on the R platform
 - [clindet/anor](https://github.com/clindet/anor) - anor: an annotation and visualization system based on R and Shiny framework
 - [randy3k/collections](https://github.com/randy3k/collections) - High-performance container datatypes for R
@@ -5477,7 +5491,6 @@
 - [s-fleck/testthis](https://github.com/s-fleck/testthis) - Make testing even more fun with RStudio addins and more
 - [dkilfoyle/rpivotGadget](https://github.com/dkilfoyle/rpivotGadget) - rpivotTable as an RStudio add-in gadget
 - [gadenbuie/regexplain](https://github.com/gadenbuie/regexplain) - 🔍 An RStudio addin slash regex utility belt
-- [rstudio/bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown
 - [yonicd/sinew](https://github.com/yonicd/sinew) - Generate roxygen2 skeletons populated with information scraped from the function script.
 - [kieranjmartin/viewenhance](https://github.com/kieranjmartin/viewenhance) - An add in for RStudio which allows the user to filter and select columns interactively
 - [sarupurisailalith/commonUtilAddins](https://github.com/sarupurisailalith/commonUtilAddins) - R Studio Addins for common data frame operations
@@ -5966,7 +5979,6 @@
 - [hangxingliu/wslgit](https://github.com/hangxingliu/wslgit) - :candy: Use Git installed in WSL(Windows Subsystem for Linux) from Windows and Visual Studio Code
 - [4U6U57/wsl-open](https://github.com/4U6U57/wsl-open) - Open files with xdg-open on Bash for Windows in Windows applications. Read only mirror from GitLab, see link :point_right:
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows 10 Linux Subsystems
-- [dockerfornovices/DockerSimpleDemo](https://github.com/dockerfornovices/DockerSimpleDemo) - A small set of examples to introduce the very basics of Docker
 - [yangwenmai/shell-scripts](https://github.com/yangwenmai/shell-scripts) - my docker docker-compose kubernetes shell start/stop/delete/cleanup ... scripts
 - [onejar99/gitbook-build-publish-action](https://github.com/onejar99/gitbook-build-publish-action) - A GitHub Action to build and publish GitBook.
 - [mdo/config](https://github.com/mdo/config) - Personal checklist for setting up a new Mac's dev environment.
@@ -6459,7 +6471,6 @@
 - [ReneNyffenegger/temp-COM](https://github.com/ReneNyffenegger/temp-COM) - 
 - [ReneNyffenegger/VBAModules](https://github.com/ReneNyffenegger/VBAModules) - Modules for Visualb Basic for Applications
 - [ReneNyffenegger/about-VBA](https://github.com/ReneNyffenegger/about-VBA) - about VBA
-- [ReneNyffenegger/about-MS-Office-object-model](https://github.com/ReneNyffenegger/about-MS-Office-object-model) - About the MS Office objet model
 - [ReneNyffenegger/about-Excel](https://github.com/ReneNyffenegger/about-Excel) - About Excel
 - [dragokas/hijackthis](https://github.com/dragokas/hijackthis) - A free utility that finds malware, adware and other security threats
 - [jimbrig/xl-macros](https://github.com/jimbrig/xl-macros) - My Personal Excel Workbook's Macros
@@ -6519,7 +6530,7 @@
 
 - [bencodezen/obsidian-publish-vue](https://github.com/bencodezen/obsidian-publish-vue) - 
 - [Leniolabs/layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 200k+ developers https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [appbaseio-apps/GitXplore-Search](https://github.com/appbaseio-apps/GitXplore-Search) - An application to explore github repositories.
 - [mtobeiyf/pile](https://github.com/mtobeiyf/pile) - :zap: A simple & powerful app to organize your piled work at one place~
