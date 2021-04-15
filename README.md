@@ -83,6 +83,7 @@
   - [V](#v)
   - [VBA](#vba)
   - [VBScript](#vbscript)
+  - [Vala](#vala)
   - [Vim Snippet](#vim-snippet)
   - [Vim script](#vim-script)
   - [VimL](#viml)
@@ -493,7 +494,6 @@
 - [timelyportfolio/tooltipsterR](https://github.com/timelyportfolio/tooltipsterR) - R htmlwidget for tooltipster
 - [jbryer/Rgitbook](https://github.com/jbryer/Rgitbook) - Gitbook for R Markdown
 - [alandipert/wondr-blog](https://github.com/alandipert/wondr-blog) - Source code for my R blog
-- [kmaasrud/clean-theme-obsidian](https://github.com/kmaasrud/clean-theme-obsidian) - Minimal theme for Obsidian
 - [insanum/obsidian_nord](https://github.com/insanum/obsidian_nord) - A nord theme for Obsidian
 - [Athari/CssGitHubWindows](https://github.com/Athari/CssGitHubWindows) - (UserStyle) GitHub Windows Edition [MIT]
 - [ColinFay/website](https://github.com/ColinFay/website) - Personnal Website
@@ -1427,7 +1427,7 @@
 - [jimbrig/nativeapp](https://github.com/jimbrig/nativeapp) - React Native App for Learning Purposes
 - [brunaw/tidymodels-webinar](https://github.com/brunaw/tidymodels-webinar) - An introduction to the tidymodels package, Young-ISA Webinar
 - [DivadNojnarg/installable-pwa-test](https://github.com/DivadNojnarg/installable-pwa-test) - 
-- [MarkoDenic/awesome-tech-blogs](https://github.com/MarkoDenic/awesome-tech-blogs) - A list of Tech Blogs.
+- [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs) - A list of Tech Blogs.
 - [spences10/dotfiles](https://github.com/spences10/dotfiles) - dot files and configurations 💠🗃
 - [malcolmbarrett/rsg.zenartofrpkgs](https://github.com/malcolmbarrett/rsg.zenartofrpkgs) - You're Already Ready: Zen and the Art of R Package Development
 - [manastungare/google-calendar-crx](https://github.com/manastungare/google-calendar-crx) - Google Calendar for Chrome
@@ -1519,7 +1519,6 @@
 - [teles/awesome-seo](https://github.com/teles/awesome-seo) - :star2: A curated list of SEO (Search Engine Optimization) links.
 - [lamartire/sharec](https://github.com/lamartire/sharec) - 📦 Store your configs in one place and share between projects without any pain
 - [nikku/wuffle](https://github.com/nikku/wuffle) - A multi-repository task board for GitHub issues.
-- [peter-evans/create-issue-from-file](https://github.com/peter-evans/create-issue-from-file) - A GitHub action to create an issue using content from a file
 - [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - an enhancer/customiser for the all-in-one productivity workspace notion.so
 - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) - A GitHub action to create or update an issue or pull request comment
 - [kbravh/tweet-to-markdown](https://github.com/kbravh/tweet-to-markdown) - A command line tool to convert Tweets to Markdown.
@@ -2230,7 +2229,7 @@
 - [connorads/choco-packages](https://github.com/connorads/choco-packages) - @connorads favourite Chocolatey packages 🍫 Install and/or update all your favourite Windows software using a few commands
 - [winbench/config-dev](https://github.com/winbench/config-dev) - The configuration for a Bench environment to contribute to Bench.
 - [arkadiusjonczek/windows-for-developers](https://github.com/arkadiusjonczek/windows-for-developers) - Solutions for developers new on Windows coming from macOS or Linux. (Not Windows Developers)
-- [MarkoDenic/awesome-html-css-js-tips](https://github.com/MarkoDenic/awesome-html-css-js-tips) - 
+- [markodenic/awesome-html-css-js-tips](https://github.com/markodenic/awesome-html-css-js-tips) - 
 - [denisecase/basic-tools-for-webdev](https://github.com/denisecase/basic-tools-for-webdev) - Download, install, update, and manage basic software tools on Windows.
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [ProductHired/open-product-management](https://github.com/ProductHired/open-product-management) - A curated list of product management advice for technical people.
@@ -3338,6 +3337,7 @@
 
 ## R 
 
+- [OHDSI/ROhdsiWebApi](https://github.com/OHDSI/ROhdsiWebApi) - An R package for interfacing with a WebAPI instance
 - [paciorek/future-kubernetes-docker](https://github.com/paciorek/future-kubernetes-docker) - A Docker container for use in a Kubernetes cluster with the R future package.
 - [terrytangyuan/maintainer-tools](https://github.com/terrytangyuan/maintainer-tools) - Collection of useful functions for project maintainers
 - [mwillumz/RGreenplum](https://github.com/mwillumz/RGreenplum) - 
@@ -6337,9 +6337,10 @@
 - [hasura/data-dictionary](https://github.com/hasura/data-dictionary) - 
 - [BookmarksDev/bookmarks.dev](https://github.com/BookmarksDev/bookmarks.dev) - Bookmarks and Code Snippets Manager for Developers & Co
 - [agathauy/wikilinks-to-mdlinks-obsidian](https://github.com/agathauy/wikilinks-to-mdlinks-obsidian) - An Obsidian md plugin which allows for the conversion of individually selected wikilinks to markdown links, and vice versa.
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Build custom CRUD UI that talks to any API or database. All without HTML or CSS.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Build custom CRUD apps that talk to any API or database. All without HTML or CSS.
 - [toddbluhm/env-cmd](https://github.com/toddbluhm/env-cmd) - Setting environment variables from a file
 - [linyows/github-issues-notice](https://github.com/linyows/github-issues-notice) - :octocat: Notify labeled issues to Slack
+- [peter-evans/create-issue-from-file](https://github.com/peter-evans/create-issue-from-file) - A GitHub action to create an issue using content from a file
 - [ManuelHentschel/VSCode-R-Debugger](https://github.com/ManuelHentschel/VSCode-R-Debugger) - R Debugger Extension for Visual Studio Code
 - [liamcain/obsidian-calendar-plugin](https://github.com/liamcain/obsidian-calendar-plugin) - Simple calendar widget for Obsidian.
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for Javascript
@@ -6479,6 +6480,10 @@
 
 - [rickstaa/todoist-global-shortcuts-WIN10](https://github.com/rickstaa/todoist-global-shortcuts-WIN10) - Since TODOIST its Windows 10 app doesn’t support global shortcuts at the moment. I made a little workaround for the "open TODOIST" global shortcut.
 - [ReneNyffenegger/about-VBScript](https://github.com/ReneNyffenegger/about-VBScript) - about VBScript
+
+## Vala 
+
+- [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
 
 ## Vim Snippet 
 
