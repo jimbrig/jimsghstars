@@ -640,7 +640,6 @@
 - [slink42/rbase_shiny](https://github.com/slink42/rbase_shiny) - rocker/rbase docker image with a selection of packages preinstalled geared to support R-Shiny based webapp.
 - [ReneNyffenegger/about-Docker](https://github.com/ReneNyffenegger/about-Docker) - about Docker
 - [icolwell/docker_scripts](https://github.com/icolwell/docker_scripts) - This repo contains the Dockerfiles for the images hosted on my dockerhub
-- [dockerfornovices/DockerSimpleDemo](https://github.com/dockerfornovices/DockerSimpleDemo) - A small set of examples to introduce the very basics of Docker
 - [robertdj/r-dockerfiles](https://github.com/robertdj/r-dockerfiles) - Dockerfiles for R
 - [ericsgagnon/rlang-shiny-oci-docker](https://github.com/ericsgagnon/rlang-shiny-oci-docker) - Multi-stage docker build to extend rocker/shiny-verse with oracle oci
 - [vasudevgupta7/ds-toolkit](https://github.com/vasudevgupta7/ds-toolkit) - This repo is having some useful stuff for data scientist related stuff.
@@ -869,6 +868,8 @@
 
 ## HTML 
 
+- [etiennebacher/distillery](https://github.com/etiennebacher/distillery) - A distill blog and showcase about building distill websites and blogs!
+- [etiennebacher/personal_website_distill](https://github.com/etiennebacher/personal_website_distill) - Personal website made with distill. Replacement of personal_website (made with blogdown)
 - [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go) - Go backend for LibreSpeed
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
 - [sharlagelfand/sharla.online](https://github.com/sharlagelfand/sharla.online) - 
@@ -1901,7 +1902,6 @@
 - [rstudio/shinycoreci-apps](https://github.com/rstudio/shinycoreci-apps) - Apps for Shiny continuous integration testing
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [VizuaaLOG/BulmaJS](https://github.com/VizuaaLOG/BulmaJS) - Unofficial javascript extension to the awesome Bulma CSS framework.
-- [INWTlab/shiny-matrix](https://github.com/INWTlab/shiny-matrix) - 
 - [mzeefilexy/shinyTour](https://github.com/mzeefilexy/shinyTour) - experimental tour/walkthrough/help package for shiny app
 - [rstudio-conf-2020/js-for-shiny](https://github.com/rstudio-conf-2020/js-for-shiny) - :zap: JavaScript for Shiny Users :sparkles:
 - [mwakerman/kanbanist](https://github.com/mwakerman/kanbanist) - The missing kanban board for Todoist
@@ -2148,6 +2148,7 @@
 
 ## Others 
 
+- [etiennebacher/etiennebacher](https://github.com/etiennebacher/etiennebacher) - 
 - [RConsortium/isc](https://github.com/RConsortium/isc) - R Consortium ISC meeting notes and collaboration
 - [vhpoet/react-native-styling-cheat-sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet) - Most of the React Native styling material in one page
 - [tunnelWithAC/aiohttp-boilerplate](https://github.com/tunnelWithAC/aiohttp-boilerplate) - Boilerplate project for building REST APIs using AIOHTTP and Postgres
@@ -3105,7 +3106,7 @@
 - [lggruspe/slipbox](https://github.com/lggruspe/slipbox) - A static site generator for Zettelkasten notes
 - [djplaner/memex](https://github.com/djplaner/memex) - Nascent attempt at using Foam to curate and leverage a personal memex
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
-- [ctuning/ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize black-box research software as a database of reusable components and micro-services with common APIs, automation actions and extensible meta descriptions. See real-world use cases from Arm, General Motors, ACM, Raspberry Pi foundation and others:
+- [ctuning/ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize black-box research software as a database of reusable components and micro-services with common APIs, automation actions and extensible meta descriptions. See real-world use cases from Arm, General Motors, ACM, Raspberry Pi foundation and other partners:
 - [bhrigu123/classifier](https://github.com/bhrigu123/classifier) - Organize files in your directory instantly, by classifying them into different folders
 - [mcharleb/gittagstats](https://github.com/mcharleb/gittagstats) - 
 - [jctanner/ansible-tools](https://github.com/jctanner/ansible-tools) - 
@@ -3337,6 +3338,12 @@
 
 ## R 
 
+- [etiennebacher/ambiance](https://github.com/etiennebacher/ambiance) - Easily Change RStudio Theme
+- [etiennebacher/circletyper](https://github.com/etiennebacher/circletyper) - Curve Text Elements in R Shiny Using 'CircleType.js'
+- [etiennebacher/ebmisc](https://github.com/etiennebacher/ebmisc) - Personal list of functions
+- [etiennebacher/r-js-adaptation](https://github.com/etiennebacher/r-js-adaptation) - A list of Javascript and CSS libraries that have been adapted in R.
+- [etiennebacher/package_status](https://github.com/etiennebacher/package_status) - Summarise status of my packages
+- [etiennebacher/prompter](https://github.com/etiennebacher/prompter) - Add Tooltips in 'Shiny' Apps With 'Hint.css'
 - [OHDSI/ROhdsiWebApi](https://github.com/OHDSI/ROhdsiWebApi) - An R package for interfacing with a WebAPI instance
 - [paciorek/future-kubernetes-docker](https://github.com/paciorek/future-kubernetes-docker) - A Docker container for use in a Kubernetes cluster with the R future package.
 - [terrytangyuan/maintainer-tools](https://github.com/terrytangyuan/maintainer-tools) - Collection of useful functions for project maintainers
@@ -4840,6 +4847,7 @@
 - [rubenarslan/formr](https://github.com/rubenarslan/formr) - The accompanying R package for the survey framework formr (see https://github.com/rubenarslan/formr.org and https://formr.org)
 - [ropensci-archive/opendata](https://github.com/ropensci-archive/opendata) - CRAN OpenData Task View
 - [dustin/humanFormat](https://github.com/dustin/humanFormat) - Human formatting for R
+- [INWTlab/shiny-matrix](https://github.com/INWTlab/shiny-matrix) - 
 - [ColinFay/odds](https://github.com/ColinFay/odds) - On Disk Data Storage for Cross-Session Access in R
 - [ColumbusCollaboratory/photon](https://github.com/ColumbusCollaboratory/photon) - RStudio Add-in to build Shiny apps utilizing the Electron framework
 - [abresler/gdeltr2](https://github.com/abresler/gdeltr2) - modern gdelt wrapper for r
@@ -5243,7 +5251,7 @@
 - [pablobarbera/instaR](https://github.com/pablobarbera/instaR) - Dev version of instaR package: Access to Instagram API via R
 - [tylermorganwall/rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization
 - [JeanBertinR/shinyML](https://github.com/JeanBertinR/shinyML) - shinyML is a R package that use h2o and Spark  frameworks to easily compare supervised machine learning models on regression or classification tasks (published on CRAN in July 2019)
-- [openbiox/UCSCXenaShiny](https://github.com/openbiox/UCSCXenaShiny) - 📊 A Shiny GUI for UCSC Xena https://xenabrowser.net/datapages/
+- [openbiox/UCSCXenaShiny](https://github.com/openbiox/UCSCXenaShiny) - 📊 An R package for interactively exploring UCSC Xena https://xenabrowser.net/datapages/
 - [JhuangLab/BioInstaller](https://github.com/JhuangLab/BioInstaller) - A comprehensive R package to construct interactive and reproducible biological data analysis applications based on the R platform
 - [clindet/anor](https://github.com/clindet/anor) - anor: an annotation and visualization system based on R and Shiny framework
 - [randy3k/collections](https://github.com/randy3k/collections) - High-performance container datatypes for R
@@ -5583,7 +5591,7 @@
 - [hafen/packagedocs](https://github.com/hafen/packagedocs) - 
 - [JohnCoene/mjml](https://github.com/JohnCoene/mjml) - 📨  Create responsive emails with R
 - [mrchypark/sendgridr](https://github.com/mrchypark/sendgridr) - Mail Sender Using SendGrid mail API
-- [mrkaye97/slackr](https://github.com/mrkaye97/slackr) - :hash: A package to send webhook API messages to Slack.com channels/users from R
+- [mrkaye97/slackr](https://github.com/mrkaye97/slackr) - A package to send messages to Slack channels/users from R
 - [bnosac/cronR](https://github.com/bnosac/cronR) - A simple R package for managing your cron jobs.
 - [aoles/shinyURL](https://github.com/aoles/shinyURL) - :link: Save and restore the state of Shiny app's widgets by encoding them in an URL query string
 - [Appsilon/readmebuilder](https://github.com/Appsilon/readmebuilder) - 
@@ -5848,7 +5856,7 @@
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 - [denoland/deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
-- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 
 ## SAS 
 
@@ -5979,6 +5987,7 @@
 - [hangxingliu/wslgit](https://github.com/hangxingliu/wslgit) - :candy: Use Git installed in WSL(Windows Subsystem for Linux) from Windows and Visual Studio Code
 - [4U6U57/wsl-open](https://github.com/4U6U57/wsl-open) - Open files with xdg-open on Bash for Windows in Windows applications. Read only mirror from GitLab, see link :point_right:
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows 10 Linux Subsystems
+- [dockerfornovices/DockerSimpleDemo](https://github.com/dockerfornovices/DockerSimpleDemo) - A small set of examples to introduce the very basics of Docker
 - [yangwenmai/shell-scripts](https://github.com/yangwenmai/shell-scripts) - my docker docker-compose kubernetes shell start/stop/delete/cleanup ... scripts
 - [onejar99/gitbook-build-publish-action](https://github.com/onejar99/gitbook-build-publish-action) - A GitHub Action to build and publish GitBook.
 - [mdo/config](https://github.com/mdo/config) - Personal checklist for setting up a new Mac's dev environment.
