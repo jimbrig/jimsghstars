@@ -553,7 +553,6 @@
 - [dzangri/stmGUI](https://github.com/dzangri/stmGUI) - 
 - [rileytwo/darkstudio](https://github.com/rileytwo/darkstudio) - darkstudio. A dark grey alternative to RStudio's default dark theme.
 - [sjl/d](https://github.com/sjl/d) - Markdown files to documentation.  Nothing else.
-- [RinteRface/argonR](https://github.com/RinteRface/argonR) - R interface to argon HTML design
 - [tidyverse/style](https://github.com/tidyverse/style) - The tidyverse style guide for R code
 - [RinteRface/argonDash](https://github.com/RinteRface/argonDash) - argon dashboard template
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
@@ -1060,6 +1059,7 @@
 - [jpmarindiaz/isotope](https://github.com/jpmarindiaz/isotope) - 
 - [EmekaOrji/dropdown](https://github.com/EmekaOrji/dropdown) - A Demo of Dropdown Menus
 - [GerkeLab/betterposter](https://github.com/GerkeLab/betterposter) - 👩‍🔬👨‍🔬 Another R Markdown Better Scientific Poster
+- [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
 - [atlemo/SubtlePatterns](https://github.com/atlemo/SubtlePatterns) - All the patterns
 - [gadenbuie/r-colors-css](https://github.com/gadenbuie/r-colors-css) - A utility CSS stylesheet with R's color names
 - [Toniiiio/imageclipr](https://github.com/Toniiiio/imageclipr) - RStudio Addin: Copy Image from Clipboard into RMarkdown .Rmd file
@@ -1636,7 +1636,6 @@
 - [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 - [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [DE-RSE/de-rse.github.io](https://github.com/DE-RSE/de-rse.github.io) - Web repository
 - [domitriusclark/mdnext](https://github.com/domitriusclark/mdnext) - The opinionated ecosystem for MDX powered NextJS apps for blogs, documentation, and more.
 - [mgsloan/todoist-shortcuts](https://github.com/mgsloan/todoist-shortcuts) - Comprehensive keyboard shortcuts for Todoist, via browser extension
@@ -1756,7 +1755,6 @@
 - [panzerdp/clipboardy](https://github.com/panzerdp/clipboardy) - Chrome extension for copying posted code to clipboard from stackoverflow.com, github.com & npmjs.com
 - [Justineo/github-hovercard](https://github.com/Justineo/github-hovercard) - Neat hovercards for GitHub.
 - [ProLoser/Github-Omnibox](https://github.com/ProLoser/Github-Omnibox) - Github Commands from Google Chrome Omnibox (address bar)
-- [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
 - [sindresorhus/notifier-for-github](https://github.com/sindresorhus/notifier-for-github) - Browser extension - Get notified about new GitHub notifications
 - [ForbesLindesay/github-real-names](https://github.com/ForbesLindesay/github-real-names) - A plugin for Google Chrome that adds a button to toggle showing real names instead of usernames on GitHub
 - [jasonlong/isometric-contributions](https://github.com/jasonlong/isometric-contributions) - Browser extension for rendering an isometric pixel art version of your GitHub contribution graph.
@@ -2148,6 +2146,7 @@
 
 ## Others 
 
+- [poissonconsulting/shinyrems](https://github.com/poissonconsulting/shinyrems) - An R package to launch shinyrems; an online application that allows a user to access, download, clean, plot and calculate simple statistics using data from the B.C. government Environmental Monitoring System database.
 - [etiennebacher/etiennebacher](https://github.com/etiennebacher/etiennebacher) - 
 - [RConsortium/isc](https://github.com/RConsortium/isc) - R Consortium ISC meeting notes and collaboration
 - [vhpoet/react-native-styling-cheat-sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet) - Most of the React Native styling material in one page
@@ -3106,7 +3105,7 @@
 - [lggruspe/slipbox](https://github.com/lggruspe/slipbox) - A static site generator for Zettelkasten notes
 - [djplaner/memex](https://github.com/djplaner/memex) - Nascent attempt at using Foam to curate and leverage a personal memex
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
-- [ctuning/ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize black-box research software as a database of reusable components and micro-services with common APIs, automation actions and extensible meta descriptions. See real-world use cases from Arm, General Motors, ACM, Raspberry Pi foundation and other partners:
+- [ctuning/ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize black-box research software as a database of reusable components and micro-services with common APIs, automation actions and extensible meta descriptions. See real-world use cases from Arm, General Motors, ACM, Raspberry Pi foundation, MLPerf and other great partners:
 - [bhrigu123/classifier](https://github.com/bhrigu123/classifier) - Organize files in your directory instantly, by classifying them into different folders
 - [mcharleb/gittagstats](https://github.com/mcharleb/gittagstats) - 
 - [jctanner/ansible-tools](https://github.com/jctanner/ansible-tools) - 
@@ -3338,6 +3337,8 @@
 
 ## R 
 
+- [bcgov/shinyrems](https://github.com/bcgov/shinyrems) - An R package to launch shinyrems; an online application that allows a user to access, download, clean, plot and calculate simple statistics using data from the B.C. government Environmental Monitoring System database.
+- [eblondel/Rmapit](https://github.com/eblondel/Rmapit) - Rmapit is a package for R that intends to facilitate the production of geographic maps, from simple maps to advanced maps embedding graphic charts. It will target users and organizations that need to produce maps in batch way like in atlas, yearbooks, or scientific monitoring reports.
 - [etiennebacher/ambiance](https://github.com/etiennebacher/ambiance) - Easily Change RStudio Theme
 - [etiennebacher/circletyper](https://github.com/etiennebacher/circletyper) - Curve Text Elements in R Shiny Using 'CircleType.js'
 - [etiennebacher/ebmisc](https://github.com/etiennebacher/ebmisc) - Personal list of functions
@@ -5759,6 +5760,7 @@
 
 ## Ruby 
 
+- [ankane/pgsync](https://github.com/ankane/pgsync) - Sync data from one Postgres database to another
 - [zauberlabs/gh-pivotal-integration](https://github.com/zauberlabs/gh-pivotal-integration) - 
 - [molybdenum-99/reality](https://github.com/molybdenum-99/reality) - Comprehensive data proxy to knowledge about real world
 - [kdaigle/hookable](https://github.com/kdaigle/hookable) - A simple app that accepts and stores webhook deliveries.
@@ -5877,6 +5879,7 @@
 - [gadenbuie/rsthemes](https://github.com/gadenbuie/rsthemes) - 🔮 Full RStudio IDE and Syntax Themes
 - [saeedalipoor/icono](https://github.com/saeedalipoor/icono) - One tag One icon, no font or svg, Pure CSS
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
+- [RinteRface/argonR](https://github.com/RinteRface/argonR) - R interface to argon HTML design
 - [rstudio/bslib](https://github.com/rstudio/bslib) - Tools for theming shiny and rmarkdown from R via Bootstrap (3 or 4) Sass.
 - [StartBootstrap/startbootstrap-coming-soon](https://github.com/StartBootstrap/startbootstrap-coming-soon) - A coming soon theme with a video background for Bootstrap 4
 - [hafen/htmlwidgetsgallery](https://github.com/hafen/htmlwidgetsgallery) - 
@@ -6042,6 +6045,7 @@
 - [rocker-org/rocker-versioned2](https://github.com/rocker-org/rocker-versioned2) - 
 - [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 - [tallguyjenks/BusinessCard](https://github.com/tallguyjenks/BusinessCard) - 💳 My curl-able business card
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [nuest/mro-docker](https://github.com/nuest/mro-docker) - Docker image for Microsoft R Open
 - [eddelbuettel/r-travis](https://github.com/eddelbuettel/r-travis) - Tools for using R with Travis, GitHub Actions and other CI backends
 - [clarenceb/dotfiles_wsl](https://github.com/clarenceb/dotfiles_wsl) - Windows Subsystem for Linux (WSL) Dotfiles
