@@ -387,7 +387,7 @@
 - [soramimi/Guitar](https://github.com/soramimi/Guitar) - Git GUI Client
 - [WinMerge/winmerge](https://github.com/WinMerge/winmerge) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
-- [gioblu/PJON](https://github.com/gioblu/PJON) - With PJON you build networks of devices for free with no need of a cloud service or a centralized platform you don’t fully control.
+- [gioblu/PJON](https://github.com/gioblu/PJON) - PJON® (Padded Jittering Operative Network) is an experimental, arduino-compatible, multi-master, multi-media network protocol.
 - [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn.
 - [mhammond/pywin32](https://github.com/mhammond/pywin32) - Python for Windows (pywin32) Extensions
 - [pmq20/node-packer](https://github.com/pmq20/node-packer) - Packing your Node.js application into a single executable.
@@ -2877,6 +2877,7 @@
 
 ## PowerShell 
 
+- [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
 - [canonical/ubuntu-cooker](https://github.com/canonical/ubuntu-cooker) - Ubuntu WSL UWP Builder
 - [Phil-Factor/SQLCloneFamily](https://github.com/Phil-Factor/SQLCloneFamily) - 
 - [microsoftgraph/microsoft-graph-docs](https://github.com/microsoftgraph/microsoft-graph-docs) - Documentation for the Microsoft Graph REST API
@@ -3981,7 +3982,6 @@
 - [mdlincoln/clipr](https://github.com/mdlincoln/clipr) - R functions for reading and writing from the system clipboard
 - [rspatial/raster](https://github.com/rspatial/raster) - R raster package https://rspatial.github.io/raster/
 - [r-lib/urlchecker](https://github.com/r-lib/urlchecker) - Run CRAN URL checks from older versions of R
-- [davidkane9/PPBDS](https://github.com/davidkane9/PPBDS) - 
 - [datascienceworkshops/tmuxr](https://github.com/datascienceworkshops/tmuxr) - Manage tmux from R
 - [cole-brokamp/bindertools](https://github.com/cole-brokamp/bindertools) - 
 - [cole-brokamp/pkg](https://github.com/cole-brokamp/pkg) - A fresh approach to package installation
@@ -4517,6 +4517,7 @@
 - [dirkschumacher/ContentSecurityPolicy](https://github.com/dirkschumacher/ContentSecurityPolicy) - Content Security Policies for Shiny Apps
 - [jienagu/noteMD](https://github.com/jienagu/noteMD) - Print text from shiny ui (support markdown syntax) to pdf or word report
 - [feddelegrand7/mailtoR](https://github.com/feddelegrand7/mailtoR) - 🐹🐹🐹 Creates a Friendly User Interface for Emails Sending in Shiny and RMarkdown
+- [jhk0530/polaroid](https://github.com/jhk0530/polaroid) - Shiny application to generate hexsticker
 - [jhk0530/polaroid](https://github.com/jhk0530/polaroid) - Shiny application to generate hexsticker
 - [iliastsergoulas/shinyapps](https://github.com/iliastsergoulas/shinyapps) - Shiny applications and dashboards in R
 - [davidruvolo51/accessibleshiny](https://github.com/davidruvolo51/accessibleshiny) - Create accessible components in shinyapps (in progress 🏗)
