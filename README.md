@@ -929,7 +929,7 @@
 - [maelle/addintest](https://github.com/maelle/addintest) - 
 - [ThinkR-open/js4shinyfieldnotes](https://github.com/ThinkR-open/js4shinyfieldnotes) - Field Notes on JavaScript for Shiny Users
 - [systats/shinyuser](https://github.com/systats/shinyuser) - User login and admin panel for shiny apps (Semantic UI)
-- [spences10/scottspence.com](https://github.com/spences10/scottspence.com) - My Letter Beautiful Mysterious Notebook.
+- [spences10/last.scottspence.com](https://github.com/spences10/last.scottspence.com) - My Letter Beautiful Mysterious Notebook.
 - [ropensci/webservices](https://github.com/ropensci/webservices) - CRAN WebTechnologies Task View
 - [ropensci/taxonomy](https://github.com/ropensci/taxonomy) - taxonomy R packages
 - [sol-eng/demo-landing-site](https://github.com/sol-eng/demo-landing-site) - An index page for a demo server
@@ -2038,7 +2038,7 @@
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [mml-book/mml-book.github.io](https://github.com/mml-book/mml-book.github.io) - Companion webpage to the book "Mathematics For Machine Learning"
 - [ramnathv/template-live-webinar-sql](https://github.com/ramnathv/template-live-webinar-sql) - 
-- [wowchemy/starter-academic](https://github.com/wowchemy/starter-academic) - 🎓 Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify
+- [wowchemy/starter-academic](https://github.com/wowchemy/starter-academic) - 🎓 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify.
 - [DiscoveryDNA/team_neural_network](https://github.com/DiscoveryDNA/team_neural_network) - Neural Network of enhancer regions
 - [advboxes/AdvBox](https://github.com/advboxes/AdvBox) - Advbox is a toolbox to generate adversarial examples that fool neural networks in PaddlePaddle、PyTorch、Caffe2、MxNet、Keras、TensorFlow and Advbox can benchmark the robustness of machine learning models.  Advbox give a command line tool to generate adversarial examples with Zero-Coding.
 - [m-clark/data-processing-and-visualization](https://github.com/m-clark/data-processing-and-visualization) - This document forms the basis of several workshops/talks that get into everyday programming with R, but also includes mirrored code in Python as Jupyter notebooks.
@@ -2146,6 +2146,7 @@
 
 ## Others 
 
+- [builtbybel/debotnet](https://github.com/builtbybel/debotnet) - 🔥🚀 Debotnet is a tiny portable tool for controlling Windows 10's many privacy-related settings and keep your personal data private.
 - [poissonconsulting/shinyrems](https://github.com/poissonconsulting/shinyrems) - An R package to launch shinyrems; an online application that allows a user to access, download, clean, plot and calculate simple statistics using data from the B.C. government Environmental Monitoring System database.
 - [etiennebacher/etiennebacher](https://github.com/etiennebacher/etiennebacher) - 
 - [RConsortium/isc](https://github.com/RConsortium/isc) - R Consortium ISC meeting notes and collaboration
@@ -2696,7 +2697,7 @@
 - [tclavelle/phishr](https://github.com/tclavelle/phishr) - An R API Wrapper for phish.net
 - [ThasianX/TimePage-Clone](https://github.com/ThasianX/TimePage-Clone) - TimePage components written in SwiftUI and UIKit
 - [PlayingNumbers/Ken_Portfolio](https://github.com/PlayingNumbers/Ken_Portfolio) - Example data science portfolio
-- [chuanqisun/wiki](https://github.com/chuanqisun/wiki) - A personal knowledge base, a Today I Learned (TIL) journal, A Second brain. Automated with Markdown Page Summary.
+- [chuanqisun/memo](https://github.com/chuanqisun/memo) - A personal knowledge base, a Today I Learned (TIL) journal, A Second brain. Automated with osmos::memo
 - [iamtraction/WindowsRegistry](https://github.com/iamtraction/WindowsRegistry) - Windows Registry Tweaks & Hacks
 - [adolfintel/Windows10-Privacy](https://github.com/adolfintel/Windows10-Privacy) - Windows 10 Privacy Guide
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -2877,6 +2878,9 @@
 
 ## PowerShell 
 
+- [SegoCode/Reg-importer](https://github.com/SegoCode/Reg-importer) - Easy import registry configurations for new windows install
+- [Metaljisawa/OptimizationWindowsV1](https://github.com/Metaljisawa/OptimizationWindowsV1) - Short script ps1 for remove the unnecessary part on Windows 10
+- [LeDragoX/Win10SmartDebloat](https://github.com/LeDragoX/Win10SmartDebloat) - This is a improved version from https://github.com/W4RH4WK/Debloat-Windows-10. These scripts will Customize, Debloat and Improve Security/Performance on Windows 10.
 - [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
 - [canonical/ubuntu-cooker](https://github.com/canonical/ubuntu-cooker) - Ubuntu WSL UWP Builder
 - [Phil-Factor/SQLCloneFamily](https://github.com/Phil-Factor/SQLCloneFamily) - 
@@ -4518,7 +4522,6 @@
 - [jienagu/noteMD](https://github.com/jienagu/noteMD) - Print text from shiny ui (support markdown syntax) to pdf or word report
 - [feddelegrand7/mailtoR](https://github.com/feddelegrand7/mailtoR) - 🐹🐹🐹 Creates a Friendly User Interface for Emails Sending in Shiny and RMarkdown
 - [jhk0530/polaroid](https://github.com/jhk0530/polaroid) - Shiny application to generate hexsticker
-- [jhk0530/polaroid](https://github.com/jhk0530/polaroid) - Shiny application to generate hexsticker
 - [iliastsergoulas/shinyapps](https://github.com/iliastsergoulas/shinyapps) - Shiny applications and dashboards in R
 - [davidruvolo51/accessibleshiny](https://github.com/davidruvolo51/accessibleshiny) - Create accessible components in shinyapps (in progress 🏗)
 - [AntoineGuillot2/Shiny_SemiCollapsibleSidebar](https://github.com/AntoineGuillot2/Shiny_SemiCollapsibleSidebar) - Code for the tutorial on the Semi Collapsible Sidebar in Shiny
@@ -5761,6 +5764,7 @@
 
 ## Ruby 
 
+- [rgl/vagrant-windows-sysprep](https://github.com/rgl/vagrant-windows-sysprep) - Vagrant plugin to run Windows sysprep as a provisioning step
 - [ankane/pgsync](https://github.com/ankane/pgsync) - Sync data from one Postgres database to another
 - [zauberlabs/gh-pivotal-integration](https://github.com/zauberlabs/gh-pivotal-integration) - 
 - [molybdenum-99/reality](https://github.com/molybdenum-99/reality) - Comprehensive data proxy to knowledge about real world
@@ -5913,6 +5917,7 @@
 
 ## Shell 
 
+- [guessi/sysprep](https://github.com/guessi/sysprep) - My personal bootstrap scripts
 - [r-builder/cran2deb](https://github.com/r-builder/cran2deb) - Creating Debian Packages from CRAN Sources
 - [klmr/switch-r](https://github.com/klmr/switch-r) - R version switcher for macOS
 - [tallguyjenks/Obsidian-CLI](https://github.com/tallguyjenks/Obsidian-CLI) - Opening Obsidian files with the command line
@@ -6098,7 +6103,7 @@
 - [ahmetb/serverless-url-redirect](https://github.com/ahmetb/serverless-url-redirect) - Simple click-to-deploy serverless URL redirect service
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [radiant-rstats/docker](https://github.com/radiant-rstats/docker) - Use R, Rstudio, Shiny, Radiant, Python, and Jupyter in a Docker container
-- [xwmx/nb](https://github.com/xwmx/nb) - CLI plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script.
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI plain text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script.
 - [ow/ubuntu-windows-dotfiles](https://github.com/ow/ubuntu-windows-dotfiles) - Ubuntu on Windows dotfiles
 - [umutphp/github-action-dynamic-profile-page](https://github.com/umutphp/github-action-dynamic-profile-page) - GitHub Action to push updates to your special profile repository.
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
@@ -6256,6 +6261,7 @@
 
 ## TypeScript 
 
+- [HEmile/obsidian-neo4j-stream](https://github.com/HEmile/obsidian-neo4j-stream) - 
 - [eugenehp/react-native-uuid](https://github.com/eugenehp/react-native-uuid) - UUID generation for react-native.
 - [atlassian/stricter](https://github.com/atlassian/stricter) - A project-wide js-linting tool
 - [pinterest/querybook](https://github.com/pinterest/querybook) - Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface.
