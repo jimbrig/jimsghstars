@@ -887,6 +887,7 @@
 - [dgrtwo/dgrtwo.github.com](https://github.com/dgrtwo/dgrtwo.github.com) - My website
 - [vfarcic/vfarcic.github.io](https://github.com/vfarcic/vfarcic.github.io) - 
 - [jimbrig/jimsdocs](https://github.com/jimbrig/jimsdocs) - R Blog written with Distill.
+- [daattali/inputknob](https://github.com/daattali/inputknob) - 
 - [datasketch/dspins](https://github.com/datasketch/dspins) - 
 - [skgrange/skgrange.github.io](https://github.com/skgrange/skgrange.github.io) - Personal website repository which is hosted at http://skgrange.github.io/
 - [pbiecek/BioColl2021](https://github.com/pbiecek/BioColl2021) - Notes for the tutorial "Introduction to Machine Learning with R" given at "Biometrisches Kolloquium 2021"
@@ -1067,6 +1068,7 @@
 - [klugjo/hexo-theme-clean-blog](https://github.com/klugjo/hexo-theme-clean-blog) - Hexo implementation of Clean Blog http://blackrockdigital.github.io/startbootstrap-clean-blog/index.html
 - [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 - [cuttlebelle/cuttlebelle](https://github.com/cuttlebelle/cuttlebelle) - The react static site generator that separates editing and code concerns
+- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [aaronjfisher/interAdapt](https://github.com/aaronjfisher/interAdapt) - Shiny app for looking at the pros and cons of adaptive trial designs
 - [Tychobra/polished_example_apps](https://github.com/Tychobra/polished_example_apps) - Example Apps for Polished
 - [oscarbaruffa/BigBookofR](https://github.com/oscarbaruffa/BigBookofR) - The biggest collection of R books (and maybe later some other resources too)
@@ -1110,7 +1112,6 @@
 - [MichaelChirico/r-bugs](https://github.com/MichaelChirico/r-bugs) - A ⚠️read-only⚠️mirror of https://bugs.r-project.org/
 - [cjvanlissa/worcs](https://github.com/cjvanlissa/worcs) - Rstudio project template and convenience functions for the Workflow     for Open Reproducible Code in Science (WORCS)
 - [r4ds/bookclub-Advanced_R](https://github.com/r4ds/bookclub-Advanced_R) - 
-- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
 - [rstudio-education/intro-shiny-rmarkdown](https://github.com/rstudio-education/intro-shiny-rmarkdown) - Materials for the "Intro to Shiny and R Markdown" 2-day workshop at rstudio::conf 2018
 - [rstudio-education/teach-shiny](https://github.com/rstudio-education/teach-shiny) - Materials for the Shiny Train the Trainer workshop
 - [rstudio-education/armcompanion](https://github.com/rstudio-education/armcompanion) - Companion materials for the rstudio::conf 2019 Advanced R Markdown workshop
@@ -1304,6 +1305,7 @@
 
 ## JavaScript 
 
+- [mfeniseycopes/trakr](https://github.com/mfeniseycopes/trakr) - trakr is a single-page, full-stack web application inspired by Strava and built with Ruby on Rails and PostgreSQL on the backend, React.js using flux framework for the frontend, and enhanced by the Google Maps API.
 - [glin/shiny-react-example](https://github.com/glin/shiny-react-example) - Example of a Shiny app with a React front-end
 - [majgis/npm-bundle](https://github.com/majgis/npm-bundle) - npm pack with dependencies included
 - [edgararuiz-zz/databases-w-r](https://github.com/edgararuiz-zz/databases-w-r) - Databases with R, the latest - rstudio::conf2019
@@ -1868,6 +1870,7 @@
 - [lukeed/watchlist](https://github.com/lukeed/watchlist) - Recursively watch a list of directories & run a command on any file system changes
 - [bryanph/GeistMap](https://github.com/bryanph/GeistMap) - An experimental personal knowledge base with a focus on connections
 - [moment/momentjs.com](https://github.com/moment/momentjs.com) - The website for momentjs
+- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
 - [ashishd751/react-excel-renderer](https://github.com/ashishd751/react-excel-renderer) - A react library to render and display excel sheets on webpage
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet) - A web-based JavaScript（canvas） spreadsheet
@@ -2726,7 +2729,6 @@
 - [aranibatta/personal-sites](https://github.com/aranibatta/personal-sites) - List of Hackathon Hackers' personal sites.
 - [danburzo/toolbox](https://github.com/danburzo/toolbox) - Assorted tools, libraries, APIs and data sources for building things.
 - [yoshuawuyts/notes](https://github.com/yoshuawuyts/notes) - notes on things
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [learn-anything/websites](https://github.com/learn-anything/websites) - Awesome Websites
 - [learn-anything/curated-lists](https://github.com/learn-anything/curated-lists) - Curated lists on various topics
@@ -2862,7 +2864,6 @@
 
 ## PLpgSQL 
 
-- [powwater/vendor_dashboard](https://github.com/powwater/vendor_dashboard) - Vendor Dashboard Shiny Web Application
 - [ankane/groupdate.sql](https://github.com/ankane/groupdate.sql) - The simplest way to group temporal data
 - [subzerocloud/postgrest-starter-kit](https://github.com/subzerocloud/postgrest-starter-kit) - Starter Kit and tooling for authoring REST API backends with PostgREST
 - [theory/pgtap](https://github.com/theory/pgtap) - PostgreSQL Unit Testing Suite
@@ -2932,7 +2933,7 @@
 - [vors/ZLocation](https://github.com/vors/ZLocation) - ZLocation is the new Jump-Location
 - [jimbrig/winsetup](https://github.com/jimbrig/winsetup) - Windows 10 Setup
 - [asears/WindowsSetup](https://github.com/asears/WindowsSetup) - Apps for Windows
-- [pratyakshm/CleanWin](https://github.com/pratyakshm/CleanWin) - A community powered project aimed at making Windows 10 better.
+- [pratyakshm/CleanWin](https://github.com/pratyakshm/CleanWin) - Makes your Windows 10 PC 🚀 instead of 🚶
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [Daksh777/windows10-debloat](https://github.com/Daksh777/windows10-debloat) - Collection of various scripts and apps to debloat Windows 10 for better privacy, performance and optimization.
 - [gordonbay/Windows-On-Reins](https://github.com/gordonbay/Windows-On-Reins) - Windows 10 Ameliorated, Debloat, Optimize, Privacy fix
@@ -3070,7 +3071,6 @@
 - [lepisma/pipwin](https://github.com/lepisma/pipwin) - Install compiled python libraries for windows provided by Christoph Gohlke
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
-- [ahmetb/dotfiles](https://github.com/ahmetb/dotfiles) - Ahmet's dotfiles and macOS customizations
 - [winpython/winpython](https://github.com/winpython/winpython) - A free Python-distribution for Windows platform, including prebuilt packages for Scientific Python.
 - [amitness/habitist](https://github.com/amitness/habitist) - GitHub action that integrates native habit tracking in todoist. Apply the "Don't Break the Chain" method for habit building.
 - [DongjunLee/quantified-self](https://github.com/DongjunLee/quantified-self) - Self-knowledge through numbers
@@ -3285,7 +3285,6 @@
 - [tankywoo/simiki](https://github.com/tankywoo/simiki) - Simiki is a simple wiki framework, written in Python.
 - [hyde/hyde](https://github.com/hyde/hyde) - A Python Static Website Generator
 - [getnikola/nikola](https://github.com/getnikola/nikola) - A static website and blog generator
-- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [sourcerer-io/hall-of-fame](https://github.com/sourcerer-io/hall-of-fame) - :trophy: Show some love to your contributors!  A widget for your repo README. Visual and clean. Refreshes every hour.
 - [randy3k/radian](https://github.com/randy3k/radian) - A 21 century R console
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Get and set values in your .env file in local and production servers. :tada:
@@ -3342,6 +3341,11 @@
 
 ## R 
 
+- [jalavery/timetrackR](https://github.com/jalavery/timetrackR) - 
+- [uribo/wakatimer](https://github.com/uribo/wakatimer) - :hourglass: Unofficial RStudio (IDE for R) WakaTime (https://wakatime.com) plugin.
+- [SunnySoldier357/ShinyTransportationApp](https://github.com/SunnySoldier357/ShinyTransportationApp) - An app that lets users view transportation routes and plan how to get from one location to another in the Puget Sound region.
+- [jakubsob/ships](https://github.com/jakubsob/ships) - Shiny App for Viewing Ship Routes
+- [hypebright/google_maps](https://github.com/hypebright/google_maps) - Demo for using Google Maps in R
 - [bcgov/shinyrems](https://github.com/bcgov/shinyrems) - An R package to launch shinyrems; an online application that allows a user to access, download, clean, plot and calculate simple statistics using data from the B.C. government Environmental Monitoring System database.
 - [eblondel/Rmapit](https://github.com/eblondel/Rmapit) - Rmapit is a package for R that intends to facilitate the production of geographic maps, from simple maps to advanced maps embedding graphic charts. It will target users and organizations that need to produce maps in batch way like in atlas, yearbooks, or scientific monitoring reports.
 - [etiennebacher/ambiance](https://github.com/etiennebacher/ambiance) - Easily Change RStudio Theme
@@ -3454,9 +3458,9 @@
 - [dgrtwo/drlib](https://github.com/dgrtwo/drlib) - Personal R package
 - [chriscardillo/giftwrap](https://github.com/chriscardillo/giftwrap) - Take shell commands and turn them into R functions
 - [dgrtwo/cranview](https://github.com/dgrtwo/cranview) - A Shiny app to visualize downloads from RStudio's CRAN mirror
+- [powwater/vendor_dashboard](https://github.com/powwater/vendor_dashboard) - Vendor Dashboard Shiny Web Application
 - [powwater/landing_page](https://github.com/powwater/landing_page) - Minimal example landing page application portal for powwater apps.
 - [jimbrig/jimstemplates](https://github.com/jimbrig/jimstemplates) - Personal Templates
-- [daattali/inputknob](https://github.com/daattali/inputknob) - 
 - [datasketch/parmesan](https://github.com/datasketch/parmesan) - 
 - [Pascal-Schmidt/A-Data-Driven-Approach-to-Evaluating-the-Vancouver-Housing-Market](https://github.com/Pascal-Schmidt/A-Data-Driven-Approach-to-Evaluating-the-Vancouver-Housing-Market) - 
 - [Pascal-Schmidt/shiny-stocks](https://github.com/Pascal-Schmidt/shiny-stocks) - 
@@ -5924,7 +5928,7 @@
 - [GoogleCloudPlatform/shell-samples](https://github.com/GoogleCloudPlatform/shell-samples) - 
 - [mrzool/bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults
 - [pmorelli92/github-container-registry-build-push](https://github.com/pmorelli92/github-container-registry-build-push) - Github Action that builds and pushes a docker image to Github Container Registry
-- [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome GitHub TEMPLATE for any project!🚀 Quickstart your projects and get control over your community.🔥
+- [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
 - [vfarcic/devops24](https://github.com/vfarcic/devops24) - 
 - [fdrennan/rk8s](https://github.com/fdrennan/rk8s) - R and Kubernetes
 - [kurkop/push-docker-gcr](https://github.com/kurkop/push-docker-gcr) - Github Workflow Action to push a docker image to Google Container Registry
@@ -5965,6 +5969,7 @@
 - [Artificially-Intelligent/shiny](https://github.com/Artificially-Intelligent/shiny) - rocker/rbase docker image with a selection of packages preinstalled geared to support R-Shiny based webapp.
 - [cloudyr/pkgtemplate](https://github.com/cloudyr/pkgtemplate) - Style guide-consistent package template for the cloudyr project
 - [ramnathv/test-r-codespaces](https://github.com/ramnathv/test-r-codespaces) - 
+- [ahmetb/dotfiles](https://github.com/ahmetb/dotfiles) - Ahmet's dotfiles and macOS customizations
 - [grove-mountain/vault_essential_patterns_blog](https://github.com/grove-mountain/vault_essential_patterns_blog) - Code examples used for the Essential Patterns of Vault -- Pt 2 blog post
 - [sethvargo/vault-demo](https://github.com/sethvargo/vault-demo) - Walkthroughs and scripts for my @HashiCorp Vault talks
 - [rstudio/connect-api-deploy-shiny](https://github.com/rstudio/connect-api-deploy-shiny) - RStudio Connect API-driven Shiny application deployment example.
@@ -6103,7 +6108,7 @@
 - [ahmetb/serverless-url-redirect](https://github.com/ahmetb/serverless-url-redirect) - Simple click-to-deploy serverless URL redirect service
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [radiant-rstats/docker](https://github.com/radiant-rstats/docker) - Use R, Rstudio, Shiny, Radiant, Python, and Jupyter in a Docker container
-- [xwmx/nb](https://github.com/xwmx/nb) - CLI plain text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script.
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note-taking, bookmarking, and archiving with encryption, filtering & search, Git-backed versioning & syncing, Pandoc-backed conversion, + more in a single portable script.
 - [ow/ubuntu-windows-dotfiles](https://github.com/ow/ubuntu-windows-dotfiles) - Ubuntu on Windows dotfiles
 - [umutphp/github-action-dynamic-profile-page](https://github.com/umutphp/github-action-dynamic-profile-page) - GitHub Action to push updates to your special profile repository.
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
@@ -6131,6 +6136,7 @@
 - [ElliotPenson/org](https://github.com/ElliotPenson/org) - My brain in plain text.
 - [blay/dotfiles](https://github.com/blay/dotfiles) - My dotfiles
 - [nikitavoloboev/dotfiles](https://github.com/nikitavoloboev/dotfiles) - Zsh, Karabiner, VS Code, Sublime, Neovim, Nix
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [ropensci/actions](https://github.com/ropensci/actions) - Some public GitHub actions
 - [gohugoio/hugoThemes](https://github.com/gohugoio/hugoThemes) - A curated directory of Hugo themes
 - [cgrima/rsync_backup](https://github.com/cgrima/rsync_backup) - Rsync incremental and rotating backups
