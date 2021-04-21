@@ -74,6 +74,7 @@
   - [Shell](#shell)
   - [Smarty](#smarty)
   - [Stan](#stan)
+  - [Starlark](#starlark)
   - [Svelte](#svelte)
   - [Swift](#swift)
   - [TSQL](#tsql)
@@ -349,7 +350,7 @@
 ## C++ 
 
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
-- [CookingWithCale/AStartupCookbook](https://github.com/CookingWithCale/AStartupCookbook) - An open-source book on how to invent, launch, and run a startup with I am You Language (IMUL).
+- [CookingWithCale/AStartupCookbook](https://github.com/CookingWithCale/AStartupCookbook) - An book on how to invent, launch, and run a startup with I am You Language (IMUL).
 - [wilkelab/isoband](https://github.com/wilkelab/isoband) - isoband: An R package to generate contour lines and polygons.
 - [google/libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 - [rstudio/rstudio-launcher-plugin-sdk](https://github.com/rstudio/rstudio-launcher-plugin-sdk) - The RStudio Launcher Plugin SDK is a software development kit used to create plugins that integrate orchestration tools with the RStudio Job Launcher.
@@ -454,6 +455,7 @@
 
 ## CSS 
 
+- [djnavarro/pkgdowngirl](https://github.com/djnavarro/pkgdowngirl) - A Minimal Pkgdown Template
 - [jh3y/whirl](https://github.com/jh3y/whirl) - CSS loading animations with minimal effort!
 - [crilleengvall/electron-tutorial-app](https://github.com/crilleengvall/electron-tutorial-app) - An electron application for tutorials
 - [klaussilveira/gitlist](https://github.com/klaussilveira/gitlist) - An elegant and modern git repository viewer
@@ -676,6 +678,7 @@
 
 ## FreeBasic 
 
+- [ReneNyffenegger/about-VBA](https://github.com/ReneNyffenegger/about-VBA) - about VBA
 - [ReneNyffenegger/about-MS-Office-object-model](https://github.com/ReneNyffenegger/about-MS-Office-object-model) - About the MS Office objet model
 
 ## Gherkin 
@@ -768,7 +771,7 @@
 - [google/note-maps](https://github.com/google/note-maps) - A personal knowledge base intended for use on mobile devices.
 - [aleksaan/diskusage](https://github.com/aleksaan/diskusage) - FANTASTIC SPEED utility to find out top largest folders/files on the disk.
 - [StackExchange/blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
-- [gaocegege/maintainer](https://github.com/gaocegege/maintainer) - :octocat: :man_technologist: :whale: Generate personal daily reports or summary, AUTHORS, CONTRIBUTING, CHANGELOG and so on for GitHub user or repository.
+- [maintainer-org/maintainer](https://github.com/maintainer-org/maintainer) - :octocat: :man_technologist: :whale: Generate personal daily reports or summary, AUTHORS, CONTRIBUTING, CHANGELOG and so on for GitHub user or repository.
 - [lucmski/limo](https://github.com/lucmski/limo) - A CLI for managing starred Git repositories
 - [kvnxiao/sort-awesome-lists](https://github.com/kvnxiao/sort-awesome-lists) - Sorts awesome lists by number of stars in each GitHub repository
 - [mingrammer/go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars) - :star: Web frameworks for Go, most starred on GitHub
@@ -1305,6 +1308,13 @@
 
 ## JavaScript 
 
+- [junem3ta/MpesaLNMApp-UITemplate](https://github.com/junem3ta/MpesaLNMApp-UITemplate) - Fullstack MpesaC2BIntegration | NodeJs & MongoDB | Frontend Boilerplate code
+- [rosariopfernandes/mpesa-node-api](https://github.com/rosariopfernandes/mpesa-node-api) - NodeJS library for M-Pesa API (🇲🇿 Mozambique)
+- [kamikazechaser/mpesa-mwitu](https://github.com/kamikazechaser/mpesa-mwitu) - 📲 A simple personal M-Pesa API gateway accesible via REST (PoC)
+- [paymentsds/mpesa-js-sdk](https://github.com/paymentsds/mpesa-js-sdk) - A JavaScript library aiming to help developers integrating their products with M-Pesa Platform
+- [kn9ts/project-mulla](https://github.com/kn9ts/project-mulla) - Talk to MPESA API via a REST API. Bringing the MPESA G2 API to the 21st century. --
+- [safaricom/mpesa-node-library](https://github.com/safaricom/mpesa-node-library) - M-Pesa Library for Node.js using REST API
+- [googlemaps/v3-utility-library](https://github.com/googlemaps/v3-utility-library) - Utility libraries for Google Maps JavaScript API v3
 - [mfeniseycopes/trakr](https://github.com/mfeniseycopes/trakr) - trakr is a single-page, full-stack web application inspired by Strava and built with Ruby on Rails and PostgreSQL on the backend, React.js using flux framework for the frontend, and enhanced by the Google Maps API.
 - [glin/shiny-react-example](https://github.com/glin/shiny-react-example) - Example of a Shiny app with a React front-end
 - [majgis/npm-bundle](https://github.com/majgis/npm-bundle) - npm pack with dependencies included
@@ -2149,6 +2159,8 @@
 
 ## Others 
 
+- [HawiCaesar/pay_confirmation](https://github.com/HawiCaesar/pay_confirmation) - Simple Payment Confirmation using MPESA API
+- [gernest/mpesa-dev-api](https://github.com/gernest/mpesa-dev-api) - Developer guide for M-PESA API
 - [builtbybel/debotnet](https://github.com/builtbybel/debotnet) - 🔥🚀 Debotnet is a tiny portable tool for controlling Windows 10's many privacy-related settings and keep your personal data private.
 - [poissonconsulting/shinyrems](https://github.com/poissonconsulting/shinyrems) - An R package to launch shinyrems; an online application that allows a user to access, download, clean, plot and calculate simple statistics using data from the B.C. government Environmental Monitoring System database.
 - [etiennebacher/etiennebacher](https://github.com/etiennebacher/etiennebacher) - 
@@ -5574,7 +5586,7 @@
 - [plotly/dashR](https://github.com/plotly/dashR) - Dash for R - An R interface to the Dash ecosystem for creating analytic web applications
 - [r-lib/tidyselect](https://github.com/r-lib/tidyselect) - A backend for functions taking tidyverse selections
 - [datawookie/emayili](https://github.com/datawookie/emayili) - An R package for sending email messages.
-- [rstudio/htmltools](https://github.com/rstudio/htmltools) - 
+- [rstudio/htmltools](https://github.com/rstudio/htmltools) - Tools for HTML generation and output
 - [ropensci/dev_guide](https://github.com/ropensci/dev_guide) - rOpenSci Packages: Development, Maintenance, and Peer Review
 - [rstudio/shinythemes](https://github.com/rstudio/shinythemes) - Themes for Shiny
 - [emitanaka/rtodoist](https://github.com/emitanaka/rtodoist) - R interface to todoist.com
@@ -6170,6 +6182,10 @@
 
 - [ResearchActuary/ef_yield_curve_generators](https://github.com/ResearchActuary/ef_yield_curve_generators) - 
 
+## Starlark 
+
+- [googlemaps/js-samples](https://github.com/googlemaps/js-samples) - Samples for the Google Maps JavaScript v3 API
+
 ## Svelte 
 
 - [cristianpb/analytics-google](https://github.com/cristianpb/analytics-google) - Google analytics from cristianpb.github.io
@@ -6267,6 +6283,7 @@
 
 ## TypeScript 
 
+- [googlemaps/js-markerwithlabel](https://github.com/googlemaps/js-markerwithlabel) - Google Maps Marker with Label
 - [HEmile/obsidian-neo4j-stream](https://github.com/HEmile/obsidian-neo4j-stream) - 
 - [eugenehp/react-native-uuid](https://github.com/eugenehp/react-native-uuid) - UUID generation for react-native.
 - [atlassian/stricter](https://github.com/atlassian/stricter) - A project-wide js-linting tool
@@ -6497,7 +6514,6 @@
 - [jimbrig/excel-config](https://github.com/jimbrig/excel-config) - Personalized Excel Setup and Configuration
 - [ReneNyffenegger/temp-COM](https://github.com/ReneNyffenegger/temp-COM) - 
 - [ReneNyffenegger/VBAModules](https://github.com/ReneNyffenegger/VBAModules) - Modules for Visualb Basic for Applications
-- [ReneNyffenegger/about-VBA](https://github.com/ReneNyffenegger/about-VBA) - about VBA
 - [ReneNyffenegger/about-Excel](https://github.com/ReneNyffenegger/about-Excel) - About Excel
 - [dragokas/hijackthis](https://github.com/dragokas/hijackthis) - A free utility that finds malware, adware and other security threats
 - [jimbrig/xl-macros](https://github.com/jimbrig/xl-macros) - My Personal Excel Workbook's Macros
