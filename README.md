@@ -139,6 +139,10 @@
 
 ## C 
 
+- [EnterpriseDB/repmgr](https://github.com/EnterpriseDB/repmgr) - A lightweight replication manager for PostgreSQL (Postgres) - latest version 5.2.1 (2020-12-07)
+- [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
+- [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
+- [ankane/pgvector](https://github.com/ankane/pgvector) - Open-source vector similarity search for Postgres
 - [postgres-plr/plr](https://github.com/postgres-plr/plr) - PL/R - R Procedural Language for PostgreSQL
 - [Dark-Moon-X/DarkMoonV1.0.3](https://github.com/Dark-Moon-X/DarkMoonV1.0.3) - Linux subsystem for Windows
 - [aleen42/PersonalWiki](https://github.com/aleen42/PersonalWiki) - :notebook: A simple personal wiki of my current knowledge
@@ -349,6 +353,7 @@
 
 ## C++ 
 
+- [plv8/plv8](https://github.com/plv8/plv8) - V8 Engine Javascript Procedural Language add-on for PostgreSQL
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [CookingWithCale/AStartupCookbook](https://github.com/CookingWithCale/AStartupCookbook) - An book on how to invent, launch, and run a startup with I am You Language (IMUL).
 - [wilkelab/isoband](https://github.com/wilkelab/isoband) - isoband: An R package to generate contour lines and polygons.
@@ -658,6 +663,7 @@
 
 ## Elixir 
 
+- [supabase/realtime](https://github.com/supabase/realtime) - Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.
 - [daryllxd/lifelong-learning](https://github.com/daryllxd/lifelong-learning) - ✅ ✅ ✅ A massive repo filled with notes on everything from coding to philosophy to psychology to marketing to product
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 
@@ -687,6 +693,9 @@
 
 ## Go 
 
+- [nanopack/yoke](https://github.com/nanopack/yoke) - Postgres high-availability cluster with auto-failover and automated cluster recovery.
+- [prest/prest](https://github.com/prest/prest) - pREST (PostgreSQL REST), simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
+- [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [techschool/simplebank](https://github.com/techschool/simplebank) - 
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
@@ -870,6 +879,7 @@
 
 ## HTML 
 
+- [sol-eng/plumber-slack](https://github.com/sol-eng/plumber-slack) - Plumber and the Slack API integration.
 - [etiennebacher/distillery](https://github.com/etiennebacher/distillery) - A distill blog and showcase about building distill websites and blogs!
 - [etiennebacher/personal_website_distill](https://github.com/etiennebacher/personal_website_distill) - Personal website made with distill. Replacement of personal_website (made with blogdown)
 - [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go) - Go backend for LibreSpeed
@@ -1264,6 +1274,7 @@
 
 ## Java 
 
+- [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
 - [react-native-svg/react-native-svg](https://github.com/react-native-svg/react-native-svg) - SVG library for React Native, React Native Web, and plain React web projects.
 - [openkm/document-management-system](https://github.com/openkm/document-management-system) - OpenKM is a Open Source Document Management System
 - [miguelhincapie/CustomBottomSheetBehavior](https://github.com/miguelhincapie/CustomBottomSheetBehavior) - Custom BottomSheetBehavior for Android that mimic Google Maps behavior
@@ -1308,6 +1319,9 @@
 
 ## JavaScript 
 
+- [sqorn/sqorn](https://github.com/sqorn/sqorn) - A Javascript library for building SQL queries
+- [sqlpad/sqlpad](https://github.com/sqlpad/sqlpad) - Web-based SQL editor run in your own private cloud. Supports MySQL, Postgres, SQL Server, Vertica, Crate, ClickHouse, Trino, Presto, SAP HANA, Cassandra, Snowflake, BigQuery, SQLite, and more with ODBC
+- [brianc/node-postgres](https://github.com/brianc/node-postgres) - PostgreSQL client for node.js.
 - [junem3ta/MpesaLNMApp-UITemplate](https://github.com/junem3ta/MpesaLNMApp-UITemplate) - Fullstack MpesaC2BIntegration | NodeJs & MongoDB | Frontend Boilerplate code
 - [rosariopfernandes/mpesa-node-api](https://github.com/rosariopfernandes/mpesa-node-api) - NodeJS library for M-Pesa API (🇲🇿 Mozambique)
 - [kamikazechaser/mpesa-mwitu](https://github.com/kamikazechaser/mpesa-mwitu) - 📲 A simple personal M-Pesa API gateway accesible via REST (PoC)
@@ -1382,7 +1396,7 @@
 - [snapappointments/bootstrap-select](https://github.com/snapappointments/bootstrap-select) - :rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
 - [RobinHerbots/Inputmask](https://github.com/RobinHerbots/Inputmask) - Input Mask plugin
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
-- [xiaoyang-liu-cs/booster.js](https://github.com/xiaoyang-liu-cs/booster.js) - The speed and performance optimizier for your website, delivering fast web experiences to users.
+- [rocket-booster/rocket-booster](https://github.com/rocket-booster/rocket-booster) - 🚀 The edge-rendered speed and security booster for web applications.
 - [meliorence/react-native-snap-carousel](https://github.com/meliorence/react-native-snap-carousel) - Swiper/carousel component for React Native featuring previews, multiple layouts, parallax images, performant handling of huge numbers of items, and more. Compatible with Android & iOS.
 - [UDST/vizicities](https://github.com/UDST/vizicities) - A framework for 3D geospatial visualization in the browser
 - [bencodezen/obsidian-starter-kit](https://github.com/bencodezen/obsidian-starter-kit) - An opinionated starter kit to help people get up and running as quickly as possible
@@ -2095,6 +2109,7 @@
 
 ## Makefile 
 
+- [PostgresApp/PostgresApp](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac
 - [jnovack/git-checkout](https://github.com/jnovack/git-checkout) - Basic git checkout builder or side container for workflows.
 - [eddiejaoude/book-open-source-tips](https://github.com/eddiejaoude/book-open-source-tips) - Open Source book on Open Source Tips
 - [hrbrmstr/RSwitch](https://github.com/hrbrmstr/RSwitch) - 🎛 A small menubar app that allows you to switch between R versions quickly (if you have multiple versions of R framework installed).
@@ -2159,6 +2174,8 @@
 
 ## Others 
 
+- [dmfay/massive-js](https://github.com/dmfay/massive-js) - A data mapper for Node.js and PostgreSQL.
+- [sol-eng/proactive-shiny-test](https://github.com/sol-eng/proactive-shiny-test) - Run scheduled tests on shiny apps in RStudio Connect
 - [HawiCaesar/pay_confirmation](https://github.com/HawiCaesar/pay_confirmation) - Simple Payment Confirmation using MPESA API
 - [gernest/mpesa-dev-api](https://github.com/gernest/mpesa-dev-api) - Developer guide for M-PESA API
 - [builtbybel/debotnet](https://github.com/builtbybel/debotnet) - 🔥🚀 Debotnet is a tiny portable tool for controlling Windows 10's many privacy-related settings and keep your personal data private.
@@ -2876,6 +2893,7 @@
 
 ## PLpgSQL 
 
+- [digoal/blog](https://github.com/digoal/blog) - Everything about database,business.(Most for PostgreSQL).
 - [ankane/groupdate.sql](https://github.com/ankane/groupdate.sql) - The simplest way to group temporal data
 - [subzerocloud/postgrest-starter-kit](https://github.com/subzerocloud/postgrest-starter-kit) - Starter Kit and tooling for authoring REST API backends with PostgREST
 - [theory/pgtap](https://github.com/theory/pgtap) - PostgreSQL Unit Testing Suite
@@ -2883,6 +2901,7 @@
 
 ## Perl 
 
+- [jfcoz/postgresqltuner](https://github.com/jfcoz/postgresqltuner) - Simple script to analyse your PostgreSQL database configuration, and give tuning advice
 - [cbbrowne/autodoc](https://github.com/cbbrowne/autodoc) - PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms
 - [ReneNyffenegger/notes](https://github.com/ReneNyffenegger/notes) - 
 - [thoughtbot/rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management
@@ -3035,6 +3054,9 @@
 
 ## Python 
 
+- [wal-e/wal-e](https://github.com/wal-e/wal-e) - Continuous Archiving for Postgres
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is developer-friendly, open-source product analytics.
+- [kennethreitz/records](https://github.com/kennethreitz/records) - SQL for Humans™
 - [PostgREST/postgrest-docs](https://github.com/PostgREST/postgrest-docs) - Documentation for
 - [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
 - [keithmcnulty/ppt-generation](https://github.com/keithmcnulty/ppt-generation) - Generate parameterized powerpoint with Python and R
@@ -3353,6 +3375,10 @@
 
 ## R 
 
+- [isteves/rt](https://github.com/isteves/rt) - An R package for the RT API
+- [isteves/r-pkg-intro](https://github.com/isteves/r-pkg-intro) - How to create an R package
+- [isteves/plumbplumb](https://github.com/isteves/plumbplumb) - Faster iteration with plumber
+- [MarkEdmondson1234/searchConsoleR](https://github.com/MarkEdmondson1234/searchConsoleR) - R interface with Google Search Console API v3, including Search Analytics.
 - [jalavery/timetrackR](https://github.com/jalavery/timetrackR) - 
 - [uribo/wakatimer](https://github.com/uribo/wakatimer) - :hourglass: Unofficial RStudio (IDE for R) WakaTime (https://wakatime.com) plugin.
 - [SunnySoldier357/ShinyTransportationApp](https://github.com/SunnySoldier357/ShinyTransportationApp) - An app that lets users view transportation routes and plan how to get from one location to another in the Puget Sound region.
@@ -5833,6 +5859,7 @@
 
 ## Rust 
 
+- [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it's 2021
 - [trashhalo/obsidian-rust-plugin](https://github.com/trashhalo/obsidian-rust-plugin) - 
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
@@ -5933,6 +5960,7 @@
 
 ## Shell 
 
+- [message-db/message-db](https://github.com/message-db/message-db) - Microservice native message and event store for Postgres
 - [guessi/sysprep](https://github.com/guessi/sysprep) - My personal bootstrap scripts
 - [r-builder/cran2deb](https://github.com/r-builder/cran2deb) - Creating Debian Packages from CRAN Sources
 - [klmr/switch-r](https://github.com/klmr/switch-r) - R version switcher for macOS
@@ -6283,6 +6311,12 @@
 
 ## TypeScript 
 
+- [garrylachman/ElectroCRUD](https://github.com/garrylachman/ElectroCRUD) - Database CRUD Application Built on Electron | MySQL, Postgres, SQLite
+- [gajus/slonik](https://github.com/gajus/slonik) - A PostgreSQL client with strict types, detailed logging and assertions.
+- [kriasoft/graphql-starter](https://github.com/kriasoft/graphql-starter) - 💥  Yarn v2 based monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, Relay, and Material UI.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
+- [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
+- [Purii/react-native-tableview-simple](https://github.com/Purii/react-native-tableview-simple) - Flexible and lightweight React Native component for UITableView made with pure CSS
 - [googlemaps/js-markerwithlabel](https://github.com/googlemaps/js-markerwithlabel) - Google Maps Marker with Label
 - [HEmile/obsidian-neo4j-stream](https://github.com/HEmile/obsidian-neo4j-stream) - 
 - [eugenehp/react-native-uuid](https://github.com/eugenehp/react-native-uuid) - UUID generation for react-native.
