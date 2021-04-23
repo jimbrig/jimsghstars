@@ -460,6 +460,7 @@
 
 ## CSS 
 
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [djnavarro/pkgdowngirl](https://github.com/djnavarro/pkgdowngirl) - A Minimal Pkgdown Template
 - [jh3y/whirl](https://github.com/jh3y/whirl) - CSS loading animations with minimal effort!
 - [crilleengvall/electron-tutorial-app](https://github.com/crilleengvall/electron-tutorial-app) - An electron application for tutorials
@@ -633,6 +634,7 @@
 
 ## Dockerfile 
 
+- [sellorm/dockerfiles](https://github.com/sellorm/dockerfiles) - 
 - [GoogleCloudPlatform/cloud-sdk-docker](https://github.com/GoogleCloudPlatform/cloud-sdk-docker) - Docker image with all the components of the Google Cloud SDK
 - [mdneuzerling/plumber-on-k8s](https://github.com/mdneuzerling/plumber-on-k8s) - Run a `plumber` API on Kubernetes
 - [RaccoonDev/push-docker-gcr](https://github.com/RaccoonDev/push-docker-gcr) - Github Workflow Action to push a docker image to Google Container Registry
@@ -1445,7 +1447,7 @@
 - [webfactory/ssh-agent](https://github.com/webfactory/ssh-agent) - GitHub Action to setup `ssh-agent` with a private key
 - [pjeby/hot-reload](https://github.com/pjeby/hot-reload) - Automatically reload Obsidian plugins in development when their files are changed
 - [IndexMic/shinyRDT](https://github.com/IndexMic/shinyRDT) - A library for creating reactive datatables in R Shiny.
-- [appbaseio/reactivesearch](https://github.com/appbaseio/reactivesearch) - React, React Native and Vue UI components for building data-driven apps with Elasticsearch
+- [appbaseio/reactivesearch](https://github.com/appbaseio/reactivesearch) - Search UI components for React and Vue: powered by appbase.io / Elasticsearch
 - [AliasIO/wappalyzer](https://github.com/AliasIO/wappalyzer) - Identify technology on websites.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
@@ -2174,6 +2176,7 @@
 
 ## Others 
 
+- [sellorm/field-guide-to-the-r-ecosystem](https://github.com/sellorm/field-guide-to-the-r-ecosystem) - This guide aims to introduce the reader to the main features of the R ecosystem.
 - [dmfay/massive-js](https://github.com/dmfay/massive-js) - A data mapper for Node.js and PostgreSQL.
 - [sol-eng/proactive-shiny-test](https://github.com/sol-eng/proactive-shiny-test) - Run scheduled tests on shiny apps in RStudio Connect
 - [HawiCaesar/pay_confirmation](https://github.com/HawiCaesar/pay_confirmation) - Simple Payment Confirmation using MPESA API
@@ -2651,6 +2654,7 @@
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - ▶️ An awesome list containing awesome YouTubers that teach about technology.
 - [kognise/dev.to](https://github.com/kognise/dev.to) - Where programmers share ideas and help each other grow
 - [kognise/oogle](https://github.com/kognise/oogle) - An open-source clone of the Google search engine and crawler infrastructure
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - 
@@ -3280,7 +3284,6 @@
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
 - [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
-- [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - ▶️ An awesome list containing awesome YouTubers that teach about technology.
 - [kognise/sherlock](https://github.com/kognise/sherlock) - Fast and efficient multi-threaded, cross-platform file searching.
 - [argenos/fmlib](https://github.com/argenos/fmlib) - 
 - [MrWeckx/obsidian_apps](https://github.com/MrWeckx/obsidian_apps) - I couldn't wait to see new features of obsidian implemented so here's something i guess?
@@ -3375,6 +3378,9 @@
 
 ## R 
 
+- [sellorm/dailies](https://github.com/sellorm/dailies) - Simple R package with tools for getting RStudio daily build URLs
+- [sellorm/gcp-rsp-k8s](https://github.com/sellorm/gcp-rsp-k8s) - 
+- [sellorm/rlog](https://github.com/sellorm/rlog) - opinionated, lightweight logging for R
 - [isteves/rt](https://github.com/isteves/rt) - An R package for the RT API
 - [isteves/r-pkg-intro](https://github.com/isteves/r-pkg-intro) - How to create an R package
 - [isteves/plumbplumb](https://github.com/isteves/plumbplumb) - Faster iteration with plumber
@@ -3608,7 +3614,6 @@
 - [Yacine87/interactive_data_viz](https://github.com/Yacine87/interactive_data_viz) - You will find in this repository exemple of interactive data visualisation with Shiny and other R pakages
 - [Yacine87/Shiny_Dynamic_Interactive_Dashboards](https://github.com/Yacine87/Shiny_Dynamic_Interactive_Dashboards) - Successfuly Communicating our analytical outputs highlights the hard work we've done along the workflow. Deciders are expecting to have easally interpretable & useful insights that help them take the right decisions. Shiny is the R framework for making web apps without knowing HTML, CSS & JS. Shinydashboard is a package from the Shiny ecosystem that allows analysts who aren't software engineers to develop independently their (scalable) dashboards. We will discover in this repo the shinydashboards package, its main functionnalities and how nowadays it is possible using the R ecosystem to deliver business dashboards that have nothing to envy to MS Power BI, Tableau, Qlick, TIBCO & the other analytics industry leaders
 - [Yacine87/EDA_R_Packages](https://github.com/Yacine87/EDA_R_Packages) - EDA is a must to do step in the data science workflow. Working on data, wrangling & transforming them is time consuming, and it determine the success degree of the next steps (pre preocessing, modelling, communicating outputs & decision making). This repo will show you how to perform EDA in R using the tidyverse ecosystem, and will introduce a comparative approach between the main packages in R whcich could let you perform automated EDA & generating automated EDA html or pdf reports, ready to be communicated.
-- [sellorm/dailies](https://github.com/sellorm/dailies) - Simple R package with tools for getting RStudio daily build URLs
 - [Yacine87/Shiny_ecosystem](https://github.com/Yacine87/Shiny_ecosystem) - R & its best IDE RStudio (according to the majority of R daily users) offer us a wondeful framework for web apps creation. It's called Shiny. The success of this web apps framework generates the development of a large package's ecosystem arround shiny. From prototyping, realising beautiful UI, to testing and deploying to the production scale. With Shiny it's possible to realise both the front and the back end parts inside R :-) Isn't huge !
 - [ColinFay/geoloc](https://github.com/ColinFay/geoloc) - Add geolocation inside your shiny app
 - [MangoTheCat/Introduction-to-Functional-Programming-with-Purrr](https://github.com/MangoTheCat/Introduction-to-Functional-Programming-with-Purrr) - EARL workshop for Introduction to Functional Programming with Purrr
@@ -4138,7 +4143,7 @@
 - [krzjoa/path.chain](https://github.com/krzjoa/path.chain) - Concise structure for path chaining
 - [Appsilon/shiny.i18n](https://github.com/Appsilon/shiny.i18n) - Shiny applications internationalisation made easy
 - [ericpante/marmap](https://github.com/ericpante/marmap) - Import, plot and analyze bathymetric and topographic data
-- [ropensci/terrainr](https://github.com/ropensci/terrainr) - Get DEMs and orthoimagery from the USGS National Map, georeference your images and merge rasters, and transform the outputs so they can be imported to Unity.
+- [ropensci/terrainr](https://github.com/ropensci/terrainr) - Get DEMs and orthoimagery from the USGS National Map, georeference your images and merge rasters, and visualize with Unity 3D
 - [jennahamlin/tinselR](https://github.com/jennahamlin/tinselR) - An Amazing Shiny App
 - [lvaudor/mixr](https://github.com/lvaudor/mixr) - 
 - [lvaudor/grimoireStat](https://github.com/lvaudor/grimoireStat) - http://perso.ens-lyon.fr/lise.vaudor/grimoireStat/_book/intro.html
