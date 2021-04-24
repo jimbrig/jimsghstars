@@ -353,6 +353,7 @@
 
 ## C++ 
 
+- [Ironholds/urltools](https://github.com/Ironholds/urltools) - Elegant URL handling in R
 - [plv8/plv8](https://github.com/plv8/plv8) - V8 Engine Javascript Procedural Language add-on for PostgreSQL
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [CookingWithCale/AStartupCookbook](https://github.com/CookingWithCale/AStartupCookbook) - An book on how to invent, launch, and run a startup with I am You Language (IMUL).
@@ -2176,6 +2177,7 @@
 
 ## Others 
 
+- [qunis/ahub](https://github.com/qunis/ahub) - General Deployment framework for analytical applications inside docker containers
 - [sellorm/field-guide-to-the-r-ecosystem](https://github.com/sellorm/field-guide-to-the-r-ecosystem) - This guide aims to introduce the reader to the main features of the R ecosystem.
 - [dmfay/massive-js](https://github.com/dmfay/massive-js) - A data mapper for Node.js and PostgreSQL.
 - [sol-eng/proactive-shiny-test](https://github.com/sol-eng/proactive-shiny-test) - Run scheduled tests on shiny apps in RStudio Connect
@@ -3378,6 +3380,13 @@
 
 ## R 
 
+- [petegordon/RCloudRun](https://github.com/petegordon/RCloudRun) - Show the use of Google Cloud Run with R/Plumber in Docker.
+- [MattRowse/Secure_Docker_Example](https://github.com/MattRowse/Secure_Docker_Example) - Testing a secure plumber and docker api
+- [dansterrett/r-plumber-example](https://github.com/dansterrett/r-plumber-example) - R Plumber with Docker
+- [davidcarslaw/openair](https://github.com/davidcarslaw/openair) - Tools for air quality data analysis
+- [edavidaja/todo-backend-plumber](https://github.com/edavidaja/todo-backend-plumber) - a todo backend, implemented in R
+- [lbartnik/defer](https://github.com/lbartnik/defer) - 
+- [mcguinlu/pathformatr](https://github.com/mcguinlu/pathformatr) - Auto-complete your file path natively in RStudio, then use the {pathformatr} add-in to quickly reformat your path for use with here::here() or file.path()
 - [sellorm/dailies](https://github.com/sellorm/dailies) - Simple R package with tools for getting RStudio daily build URLs
 - [sellorm/gcp-rsp-k8s](https://github.com/sellorm/gcp-rsp-k8s) - 
 - [sellorm/rlog](https://github.com/sellorm/rlog) - opinionated, lightweight logging for R
@@ -5951,7 +5960,7 @@
 ## Scala 
 
 - [kanuku/misc](https://github.com/kanuku/misc) - Repo for tutorials
-- [snowplow/snowplow](https://github.com/snowplow/snowplow) - Cloud-native web, mobile and event analytics, running on AWS and GCP
+- [snowplow/snowplow](https://github.com/snowplow/snowplow) - The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP
 - [prisma/prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)
 - [DevInsideYou/learning-resources](https://github.com/DevInsideYou/learning-resources) - Cheat sheets for all the things
 - [opendiffy/diffy](https://github.com/opendiffy/diffy) - 
@@ -6153,7 +6162,7 @@
 - [ahmetb/serverless-url-redirect](https://github.com/ahmetb/serverless-url-redirect) - Simple click-to-deploy serverless URL redirect service
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [radiant-rstats/docker](https://github.com/radiant-rstats/docker) - Use R, Rstudio, Shiny, Radiant, Python, and Jupyter in a Docker container
-- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note-taking, bookmarking, and archiving with encryption, filtering & search, Git-backed versioning & syncing, Pandoc-backed conversion, + more in a single portable script.
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web note-taking, bookmarking, and archiving with encryption, filtering & search, Git-backed versioning & syncing, Pandoc-backed conversion, + more in a single portable script.
 - [ow/ubuntu-windows-dotfiles](https://github.com/ow/ubuntu-windows-dotfiles) - Ubuntu on Windows dotfiles
 - [umutphp/github-action-dynamic-profile-page](https://github.com/umutphp/github-action-dynamic-profile-page) - GitHub Action to push updates to your special profile repository.
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
