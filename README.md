@@ -871,6 +871,7 @@
 
 ## Groovy 
 
+- [TWCable/grabbit](https://github.com/TWCable/grabbit) - Grabbit - Fast Content Sync tool for AEM/CQ
 - [gradle/gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [embeddedartistry/templates](https://github.com/embeddedartistry/templates) - Document templates for open-source projects (README, CONTRIBUTING, GitHub templates)
@@ -888,6 +889,7 @@
 
 ## HTML 
 
+- [max-alletsee/rstudio-themes](https://github.com/max-alletsee/rstudio-themes) - A collection of themes for RStudio
 - [sol-eng/plumber-slack](https://github.com/sol-eng/plumber-slack) - Plumber and the Slack API integration.
 - [etiennebacher/distillery](https://github.com/etiennebacher/distillery) - A distill blog and showcase about building distill websites and blogs!
 - [etiennebacher/personal_website_distill](https://github.com/etiennebacher/personal_website_distill) - Personal website made with distill. Replacement of personal_website (made with blogdown)
@@ -1329,6 +1331,7 @@
 
 ## JavaScript 
 
+- [paaatrick/playball](https://github.com/paaatrick/playball) - Watch MLB games from the comfort of your own terminal
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code for free.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [sqorn/sqorn](https://github.com/sqorn/sqorn) - A Javascript library for building SQL queries
@@ -1977,7 +1980,6 @@
 - [ctlab/shiny-graph](https://github.com/ctlab/shiny-graph) - Graph module for R Shiny
 - [nstrayer/shinyswipr](https://github.com/nstrayer/shinyswipr) - An R Shiny module to put swiping interfaces in your app!
 - [fxi/shinyCluster](https://github.com/fxi/shinyCluster) - Node.js module to launch a R Shiny app in multiple workers
-- [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Create and reorder lists with drag-and-drop. For use with modern browsers and touch devices
 - [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Create and reorder lists with drag-and-drop. For use with modern browsers and touch devices
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 - [mengxiong10/vue2-datepicker](https://github.com/mengxiong10/vue2-datepicker) - A datepicker / datetimepicker component for Vue2
@@ -2930,6 +2932,12 @@
 
 ## PowerShell 
 
+- [TheRandomLabs/Scoop-Bucket](https://github.com/TheRandomLabs/Scoop-Bucket) - My personal Scoop bucket.
+- [TheRandomLabs/Scoop-Spotify](https://github.com/TheRandomLabs/Scoop-Spotify) - A Scoop bucket for Spotify, Spicetify and related packages.
+- [TheCjw/scoop-retools](https://github.com/TheCjw/scoop-retools) - Scoop bucket for reverse engineering tools
+- [TheRandomLabs/scoop-nonportable](https://github.com/TheRandomLabs/scoop-nonportable) - A Scoop bucket for nonportable applications.
+- [matthewjberger/scoop-nerd-fonts](https://github.com/matthewjberger/scoop-nerd-fonts) - A scoop bucket for installing nerd fonts
+- [lukesampson/scoop-extras](https://github.com/lukesampson/scoop-extras) - "Extras" bucket for Scoop
 - [SegoCode/Reg-importer](https://github.com/SegoCode/Reg-importer) - Easy import registry configurations for new windows install
 - [Metaljisawa/OptimizationWindowsV1](https://github.com/Metaljisawa/OptimizationWindowsV1) - Short script ps1 for remove the unnecessary part on Windows 10
 - [LeDragoX/Win10SmartDebloat](https://github.com/LeDragoX/Win10SmartDebloat) - This is a improved version from https://github.com/W4RH4WK/Debloat-Windows-10. These scripts will Customize, Debloat and Improve Security/Performance on Windows 10.
@@ -3074,6 +3082,12 @@
 
 ## Python 
 
+- [rasa/scoops](https://github.com/rasa/scoops) - 📦 A bucket of tasty scoop flavored apps.
+- [kmac/mlbv](https://github.com/kmac/mlbv) - Command-line interface MLB game information. Game schedule, scores, and standings
+- [DimaKudosh/pydfs-lineup-optimizer](https://github.com/DimaKudosh/pydfs-lineup-optimizer) - Daily Fantasy Sports lineup optimzer for all popular daily fantasy sports sites
+- [MLB-LED-Scoreboard/mlb-led-scoreboard](https://github.com/MLB-LED-Scoreboard/mlb-led-scoreboard) - An LED scoreboard for Major League Baseball :baseball:
+- [panzarino/mlbgame](https://github.com/panzarino/mlbgame) - A Python API to retrieve and read MLB GameDay data
+- [tonycpsu/streamglob](https://github.com/tonycpsu/streamglob) - A console media browser designed to facilitate live and time-shifted viewing of online content.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [wal-e/wal-e](https://github.com/wal-e/wal-e) - Continuous Archiving for Postgres
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is developer-friendly, open-source product analytics.
@@ -3395,8 +3409,8 @@
 
 ## R 
 
+- [dipterix/farray](https://github.com/dipterix/farray) - Fast out-of-memory arrays for R
 - [fdrennan/plumberpackage](https://github.com/fdrennan/plumberpackage) - Plumber Package Template
-- [max-alletsee/rstudio-themes](https://github.com/max-alletsee/rstudio-themes) - A collection of themes for RStudio
 - [petegordon/RCloudRun](https://github.com/petegordon/RCloudRun) - Show the use of Google Cloud Run with R/Plumber in Docker.
 - [MattRowse/Secure_Docker_Example](https://github.com/MattRowse/Secure_Docker_Example) - Testing a secure plumber and docker api
 - [dansterrett/r-plumber-example](https://github.com/dansterrett/r-plumber-example) - R Plumber with Docker
@@ -4772,7 +4786,7 @@
 - [Tychobra/shiny_mobile_demo](https://github.com/Tychobra/shiny_mobile_demo) - adapting shiny mobile app interface to work with Nick's s&p demo
 - [jeroen/betty](https://github.com/jeroen/betty) - Some experimental rOpenSci infrastructure plumbing
 - [eddelbuettel/tint](https://github.com/eddelbuettel/tint) - Tint is not Tufte
-- [krlmlr/dm](https://github.com/krlmlr/dm) - Working with relational data models in R
+- [cynkra/dm](https://github.com/cynkra/dm) - Working with relational data models in R
 - [sellorm/dater](https://github.com/sellorm/dater) - Implements and RStudio AddIn to insert the current date into a document
 - [stemangiola/tidybulk](https://github.com/stemangiola/tidybulk) - Brings transcriptomics to the tidyverse
 - [pzhaonet/bookdownplus](https://github.com/pzhaonet/bookdownplus) - The easiest way to use R package bookdown for  writing varied types of books and documents
@@ -6181,7 +6195,7 @@
 - [ahmetb/serverless-url-redirect](https://github.com/ahmetb/serverless-url-redirect) - Simple click-to-deploy serverless URL redirect service
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [radiant-rstats/docker](https://github.com/radiant-rstats/docker) - Use R, Rstudio, Shiny, Radiant, Python, and Jupyter in a Docker container
-- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web note-taking, bookmarking, and archiving with encryption, filtering & search, Git-backed versioning & syncing, Pandoc-backed conversion, + more in a single portable script.
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note-taking, bookmarking, and archiving with links, tags, filtering, search, Git-backed versioning & syncing, Pandoc-backed conversion, + more in a single portable script.
 - [ow/ubuntu-windows-dotfiles](https://github.com/ow/ubuntu-windows-dotfiles) - Ubuntu on Windows dotfiles
 - [umutphp/github-action-dynamic-profile-page](https://github.com/umutphp/github-action-dynamic-profile-page) - GitHub Action to push updates to your special profile repository.
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
