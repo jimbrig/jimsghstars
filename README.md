@@ -1243,7 +1243,7 @@
 - [kellobri/spc-app](https://github.com/kellobri/spc-app) - 
 - [rstudio/rstudio-conf](https://github.com/rstudio/rstudio-conf) - Materials for rstudio::conf
 - [ThinkR-open/testdown](https://github.com/ThinkR-open/testdown) - Turn your 'testthat' results into a Bookdown.
-- [ThinkR-open/engineering-shiny-book](https://github.com/ThinkR-open/engineering-shiny-book) - Engineering Production-Grade Shiny Apps — To be published in the R Series in 2020.
+- [ThinkR-open/engineering-shiny-book](https://github.com/ThinkR-open/engineering-shiny-book) - Engineering Production-Grade Shiny Apps — To be published in the R Series in 2021.
 - [ThinkR-open/licensing-r](https://github.com/ThinkR-open/licensing-r) - A Bookdown about R & licenses
 - [mlysy/rdoxygen](https://github.com/mlysy/rdoxygen) - Create doxygen documentation for R package C++ code
 - [lbusett/insert_table](https://github.com/lbusett/insert_table) - R function and addin to easily insert tables in Rmd code chunks
@@ -1331,6 +1331,7 @@
 
 ## JavaScript 
 
+- [vikrantnegi/react-native-location-tracking](https://github.com/vikrantnegi/react-native-location-tracking) - Track User location and draws the path you have taken
 - [paaatrick/playball](https://github.com/paaatrick/playball) - Watch MLB games from the comfort of your own terminal
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code for free.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
@@ -1980,7 +1981,7 @@
 - [ctlab/shiny-graph](https://github.com/ctlab/shiny-graph) - Graph module for R Shiny
 - [nstrayer/shinyswipr](https://github.com/nstrayer/shinyswipr) - An R Shiny module to put swiping interfaces in your app!
 - [fxi/shinyCluster](https://github.com/fxi/shinyCluster) - Node.js module to launch a R Shiny app in multiple workers
-- [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Create and reorder lists with drag-and-drop. For use with modern browsers and touch devices
+- [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery required.
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 - [mengxiong10/vue2-datepicker](https://github.com/mengxiong10/vue2-datepicker) - A datepicker / datetimepicker component for Vue2
 - [dreamRs/shinypop](https://github.com/dreamRs/shinypop) - Collection of notifications, confirm dialogs and alerts for 'Shiny' applications
@@ -2189,6 +2190,7 @@
 
 ## Others 
 
+- [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support) - Thunder Client is a Rest API Client Extension for Visual Studio Code.
 - [drat-base/drat](https://github.com/drat-base/drat) - Sample drat repository for easy forking and bootstrapping
 - [jamespooley/shiny-resources](https://github.com/jamespooley/shiny-resources) - An annotated bibliography of resources for building Shiny apps
 - [ozean12/pay-after-delivery-api-specs](https://github.com/ozean12/pay-after-delivery-api-specs) - 
@@ -3409,6 +3411,11 @@
 
 ## R 
 
+- [juliendiot42/testPlumberApi](https://github.com/juliendiot42/testPlumberApi) - Example of a plumber API
+- [mark-marshall/PlumberDockerTest](https://github.com/mark-marshall/PlumberDockerTest) - 
+- [longhowlam/plumbertest](https://github.com/longhowlam/plumbertest) - plumber testje
+- [lindeloev/job](https://github.com/lindeloev/job) - job: free Your RStudio Console
+- [sellorm/shiny-app-docker](https://github.com/sellorm/shiny-app-docker) - Run a shiny app in a docker container demo
 - [dipterix/farray](https://github.com/dipterix/farray) - Fast out-of-memory arrays for R
 - [fdrennan/plumberpackage](https://github.com/fdrennan/plumberpackage) - Plumber Package Template
 - [petegordon/RCloudRun](https://github.com/petegordon/RCloudRun) - Show the use of Google Cloud Run with R/Plumber in Docker.
@@ -5904,6 +5911,7 @@
 
 ## Rust 
 
+- [extendr/extendr](https://github.com/extendr/extendr) - R extension library for rust designed to be familiar to R users.
 - [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it's 2021
 - [trashhalo/obsidian-rust-plugin](https://github.com/trashhalo/obsidian-rust-plugin) - 
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -6327,7 +6335,7 @@
 - [mlr-org/mlr3book](https://github.com/mlr-org/mlr3book) - mlr3 manual
 - [masonlr/obsidian-starter-templates](https://github.com/masonlr/obsidian-starter-templates) - :rocket: Starter templates for Obsidian.md
 - [pllk/cphb](https://github.com/pllk/cphb) - Competitive Programmer's Handbook
-- [kaneplusplus/listdown](https://github.com/kaneplusplus/listdown) - Programmatically create R/Markdown documents from lists.
+- [kaneplusplus/listdown](https://github.com/kaneplusplus/listdown) - https://kaneplusplus.github.io/listdown
 - [alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
 - [rstudio-education/tidyverse-cookbook](https://github.com/rstudio-education/tidyverse-cookbook) - Code recipes for doing data science with R's tidyverse
 - [DivadNojnarg/outstanding-shiny-ui](https://github.com/DivadNojnarg/outstanding-shiny-ui) - Develop custom Shiny UI
