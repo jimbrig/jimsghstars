@@ -235,9 +235,9 @@
 
 ## C# # 
 
+- [brminnick/GitTrends](https://github.com/brminnick/GitTrends) - A iOS and Android app to monitor the views and clones of your GitHub repos
 - [fredatgithub/EventLogReader](https://github.com/fredatgithub/EventLogReader) - Event Log Reader sample
 - [v2kiran/PSLiteDB](https://github.com/v2kiran/PSLiteDB) - PowerShell wrapper for LiteDB
-- [brminnick/GitTrends](https://github.com/brminnick/GitTrends) - A iOS and Android app to monitor the views and clones of your GitHub repos
 - [amay077/Xamarin.Forms.GoogleMaps](https://github.com/amay077/Xamarin.Forms.GoogleMaps) - Map library for Xamarin.Forms using Google maps API
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 - [awaescher/PathEd](https://github.com/awaescher/PathEd) - 📌 A deployable tool to add or remove values from the Windows PATH variable.
@@ -385,7 +385,7 @@
 - [ManuelGil/Reset-Windows-Update-Tool](https://github.com/ManuelGil/Reset-Windows-Update-Tool) - Troubleshooting Tool with Windows Updates (Developed in Dev-C++).
 - [YoukaiCat/QtSemanticNotes](https://github.com/YoukaiCat/QtSemanticNotes) - QtSemanticNotes is a personal knowledge base, personal wiki or just note taking application that features automatic linking, tree view and tags. Inspired by WikidPad and Zim.
 - [mhmelshaaer/file-structures-organization-and-processing](https://github.com/mhmelshaaer/file-structures-organization-and-processing) - Implementing basic file manipulations concepts and algorithms in c++
-- [skiftOS/skift](https://github.com/skiftOS/skift) - 🥑 A simple, handmade, operating system with a graphical user interface.
+- [skiftOS/skift](https://github.com/skiftOS/skift) - 🥑 An *hobby* operating system built from scratch in modern C++, featuring a reactive UI library, and a strong emphasis on user experience.
 - [LocalEpi/LEMMA](https://github.com/LocalEpi/LEMMA) - Local  Epidemic Modeling for Management & Action (LEMMA)
 - [rstudio/websocket](https://github.com/rstudio/websocket) - WebSocket client for R
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
@@ -698,6 +698,7 @@
 
 ## Go 
 
+- [rdegges/ipify-api](https://github.com/rdegges/ipify-api) - A public IP API service.
 - [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
 - [postgrest-oauth/api](https://github.com/postgrest-oauth/api) - oAuth2 server for begriffs/postgrest
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for Postgres
@@ -1110,7 +1111,7 @@
 - [RadLikeWhoa/bookmarklets](https://github.com/RadLikeWhoa/bookmarklets) - bookmarklets is a curated list of, you guessed it, bookmarklets that are useful on the web.
 - [mattcone/markdown-guide](https://github.com/mattcone/markdown-guide) - The comprehensive Markdown reference guide.
 - [KibuKuhn/KibuKuhn.github.io](https://github.com/KibuKuhn/KibuKuhn.github.io) - 
-- [kookma/TW-Favorites](https://github.com/kookma/TW-Favorites) - Favorites is a Tiddlywiki 5 plugin let you create a list of favorites tiddlers.
+- [kookma/TW-Favorites](https://github.com/kookma/TW-Favorites) - Favorites creates flat and structured lists of favorite items
 - [edm00se/vue-markdown-bookmarklet](https://github.com/edm00se/vue-markdown-bookmarklet) - a simple extension of the vue.js markdown editor example, for "web notepad" style editing, and saving as .md file
 - [MayaGans/Cytel-Introduction-to-R](https://github.com/MayaGans/Cytel-Introduction-to-R) - 
 - [MayaGans/Mastering_Shiny_Solutions](https://github.com/MayaGans/Mastering_Shiny_Solutions) - A companion to mastering-shiny.org
@@ -1331,6 +1332,7 @@
 
 ## JavaScript 
 
+- [issaafalkattan/React-Landing-Page-Template](https://github.com/issaafalkattan/React-Landing-Page-Template) - A simple react one page landing page templates for startups/companies
 - [vikrantnegi/react-native-location-tracking](https://github.com/vikrantnegi/react-native-location-tracking) - Track User location and draws the path you have taken
 - [paaatrick/playball](https://github.com/paaatrick/playball) - Watch MLB games from the comfort of your own terminal
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code for free.
@@ -3084,6 +3086,7 @@
 
 ## Python 
 
+- [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [rasa/scoops](https://github.com/rasa/scoops) - 📦 A bucket of tasty scoop flavored apps.
 - [kmac/mlbv](https://github.com/kmac/mlbv) - Command-line interface MLB game information. Game schedule, scores, and standings
 - [DimaKudosh/pydfs-lineup-optimizer](https://github.com/DimaKudosh/pydfs-lineup-optimizer) - Daily Fantasy Sports lineup optimzer for all popular daily fantasy sports sites
@@ -3411,6 +3414,10 @@
 
 ## R 
 
+- [greta-dev/greta](https://github.com/greta-dev/greta) - simple and scalable statistical modelling in R
+- [rstudio/connectapi](https://github.com/rstudio/connectapi) - An R package for interacting with the RStudio Connect Server API
+- [kwstat/lookup](https://github.com/kwstat/lookup) - Functions Similar to VLOOKUP in Excel
+- [rsquaredacademy-education/online-courses](https://github.com/rsquaredacademy-education/online-courses) - Free online R courses
 - [juliendiot42/testPlumberApi](https://github.com/juliendiot42/testPlumberApi) - Example of a plumber API
 - [mark-marshall/PlumberDockerTest](https://github.com/mark-marshall/PlumberDockerTest) - 
 - [longhowlam/plumbertest](https://github.com/longhowlam/plumbertest) - plumber testje
@@ -6014,6 +6021,8 @@
 
 ## Shell 
 
+- [deployable/node-docker-demo-app](https://github.com/deployable/node-docker-demo-app) - An Node.js app running in Docker with various process supervisors (s6, docker, nodemon, forever, supervisor)
+- [rsquaredacademy-education/bash-intro](https://github.com/rsquaredacademy-education/bash-intro) - Command Line Basics for R Users
 - [mrts/docker-postgresql-multiple-databases](https://github.com/mrts/docker-postgresql-multiple-databases) - Using multiple databases with the official PostgreSQL Docker image
 - [message-db/message-db](https://github.com/message-db/message-db) - Microservice native message and event store for Postgres
 - [guessi/sysprep](https://github.com/guessi/sysprep) - My personal bootstrap scripts
@@ -6366,6 +6375,7 @@
 
 ## TypeScript 
 
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 - [garrylachman/ElectroCRUD](https://github.com/garrylachman/ElectroCRUD) - Database CRUD Application Built on Electron | MySQL, Postgres, SQLite
 - [gajus/slonik](https://github.com/gajus/slonik) - A PostgreSQL client with strict types, detailed logging and assertions.
