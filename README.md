@@ -1332,6 +1332,8 @@
 
 ## JavaScript 
 
+- [Flutterwave/rave-react-native](https://github.com/Flutterwave/rave-react-native) - Rave react native SDK
+- [QBisConsult/psql-api](https://github.com/QBisConsult/psql-api) - RAPID RESTful API for PostgreSQL
 - [issaafalkattan/React-Landing-Page-Template](https://github.com/issaafalkattan/React-Landing-Page-Template) - A simple react one page landing page templates for startups/companies
 - [vikrantnegi/react-native-location-tracking](https://github.com/vikrantnegi/react-native-location-tracking) - Track User location and draws the path you have taken
 - [paaatrick/playball](https://github.com/paaatrick/playball) - Watch MLB games from the comfort of your own terminal
@@ -1945,6 +1947,7 @@
 - [rstudio/shinycoreci-apps](https://github.com/rstudio/shinycoreci-apps) - Apps for Shiny continuous integration testing
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [VizuaaLOG/BulmaJS](https://github.com/VizuaaLOG/BulmaJS) - Unofficial javascript extension to the awesome Bulma CSS framework.
+- [INWTlab/shiny-matrix](https://github.com/INWTlab/shiny-matrix) - 
 - [mzeefilexy/shinyTour](https://github.com/mzeefilexy/shinyTour) - experimental tour/walkthrough/help package for shiny app
 - [rstudio-conf-2020/js-for-shiny](https://github.com/rstudio-conf-2020/js-for-shiny) - :zap: JavaScript for Shiny Users :sparkles:
 - [mwakerman/kanbanist](https://github.com/mwakerman/kanbanist) - The missing kanban board for Todoist
@@ -1996,6 +1999,7 @@
 - [sandoche/Darkmode.js](https://github.com/sandoche/Darkmode.js) - 🌓 Add a dark-mode / night-mode to your website in a few seconds
 - [ColinFay/golemize](https://github.com/ColinFay/golemize) - Example of turning apps to golem
 - [ColinFay/glouton](https://github.com/ColinFay/glouton) - 'JS-cookies' in Shiny
+- [StartBootstrap/startbootstrap-coming-soon](https://github.com/StartBootstrap/startbootstrap-coming-soon) - A coming soon theme with a video background for Bootstrap 4
 - [antvis/F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
 - [vfile/vfile-matter](https://github.com/vfile/vfile-matter) - utility to parse the YAML front matter in a vfile
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
@@ -2192,6 +2196,7 @@
 
 ## Others 
 
+- [llrs/cran_histories](https://github.com/llrs/cran_histories) - Recollection of exchanges with CRAN reviewers and maintainer
 - [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support) - Thunder Client is a Rest API Client Extension for Visual Studio Code.
 - [drat-base/drat](https://github.com/drat-base/drat) - Sample drat repository for easy forking and bootstrapping
 - [jamespooley/shiny-resources](https://github.com/jamespooley/shiny-resources) - An annotated bibliography of resources for building Shiny apps
@@ -3414,6 +3419,10 @@
 
 ## R 
 
+- [powwater/powpolished](https://github.com/powwater/powpolished) - Authentication and Administration for POW Shiny apps
+- [ianmoran11/locatr](https://github.com/ianmoran11/locatr) - 
+- [samterfa/googlePackageMaker](https://github.com/samterfa/googlePackageMaker) - This package generates R packages for Google APIs.
+- [tmobile/r-tensorflow-api](https://github.com/tmobile/r-tensorflow-api) - A small Docker container for using R and TensorFlow as an enterprise API
 - [greta-dev/greta](https://github.com/greta-dev/greta) - simple and scalable statistical modelling in R
 - [rstudio/connectapi](https://github.com/rstudio/connectapi) - An R package for interacting with the RStudio Connect Server API
 - [kwstat/lookup](https://github.com/kwstat/lookup) - Functions Similar to VLOOKUP in Excel
@@ -3485,7 +3494,7 @@
 - [tunnelWithAC/r-boilerplate-api](https://github.com/tunnelWithAC/r-boilerplate-api) - 
 - [fdrennan/gittrash](https://github.com/fdrennan/gittrash) - Blah blah
 - [fdrennan/ndexr-platform](https://github.com/fdrennan/ndexr-platform) - The NDEXR platform code
-- [mpadge/pkgstats](https://github.com/mpadge/pkgstats) - Historical statistics of every R package ever
+- [ropenscilabs/pkgstats](https://github.com/ropenscilabs/pkgstats) - Historical statistics of every R package ever
 - [InseeFrLab/lockdown-maps-R](https://github.com/InseeFrLab/lockdown-maps-R) - Population Movements at Spring 2020 Lockdown in France - Interactive Data Visualizations
 - [leonawicz/imgpalr](https://github.com/leonawicz/imgpalr) - R package for generating color palettes from arbitrary images.
 - [klmr/r-dict](https://github.com/klmr/r-dict) - 
@@ -3794,7 +3803,7 @@
 - [dreamRs/datamods](https://github.com/dreamRs/datamods) - Shiny modules to import data into an application or addin
 - [dbosak01/libr](https://github.com/dbosak01/libr) - An R package to create data libraries and data dictionaries.
 - [jaytimm/quicknews](https://github.com/jaytimm/quicknews) - Some R-based tools for navigating the online news landscape
-- [ropenscilabs/packgraph](https://github.com/ropenscilabs/packgraph) - Examine and analyse function call graphs from R packages
+- [ropensci-archive/packgraph](https://github.com/ropensci-archive/packgraph) - :no_entry:ARCHIVED:no_entry: Examine and analyse function call graphs from R packages
 - [hrbrmstr/waffle](https://github.com/hrbrmstr/waffle) - :maple_leaf: Make waffle (square pie) charts in R
 - [tomaztk/Install_setup_R_using_Powershell](https://github.com/tomaztk/Install_setup_R_using_Powershell) - Installing R and RStudio and setup R using Powershell
 - [ck37/ck37r](https://github.com/ck37/ck37r) - R functions for project setup, data cleaning, machine learning, SuperLearner, parallelization, and targeted learning.
@@ -4953,7 +4962,6 @@
 - [rubenarslan/formr](https://github.com/rubenarslan/formr) - The accompanying R package for the survey framework formr (see https://github.com/rubenarslan/formr.org and https://formr.org)
 - [ropensci-archive/opendata](https://github.com/ropensci-archive/opendata) - CRAN OpenData Task View
 - [dustin/humanFormat](https://github.com/dustin/humanFormat) - Human formatting for R
-- [INWTlab/shiny-matrix](https://github.com/INWTlab/shiny-matrix) - 
 - [ColinFay/odds](https://github.com/ColinFay/odds) - On Disk Data Storage for Cross-Session Access in R
 - [ColumbusCollaboratory/photon](https://github.com/ColumbusCollaboratory/photon) - RStudio Add-in to build Shiny apps utilizing the Electron framework
 - [abresler/gdeltr2](https://github.com/abresler/gdeltr2) - modern gdelt wrapper for r
@@ -5989,7 +5997,6 @@
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [RinteRface/argonR](https://github.com/RinteRface/argonR) - R interface to argon HTML design
 - [rstudio/bslib](https://github.com/rstudio/bslib) - Tools for theming shiny and rmarkdown from R via Bootstrap (3 or 4) Sass.
-- [StartBootstrap/startbootstrap-coming-soon](https://github.com/StartBootstrap/startbootstrap-coming-soon) - A coming soon theme with a video background for Bootstrap 4
 - [hafen/htmlwidgetsgallery](https://github.com/hafen/htmlwidgetsgallery) - 
 - [dreamRs/fresh](https://github.com/dreamRs/fresh) - Fresh shiny themes
 - [travis-ci/docs-travis-ci-com](https://github.com/travis-ci/docs-travis-ci-com) - The Travis CI Documentation
@@ -6212,7 +6219,7 @@
 - [ahmetb/serverless-url-redirect](https://github.com/ahmetb/serverless-url-redirect) - Simple click-to-deploy serverless URL redirect service
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [radiant-rstats/docker](https://github.com/radiant-rstats/docker) - Use R, Rstudio, Shiny, Radiant, Python, and Jupyter in a Docker container
-- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note-taking, bookmarking, and archiving with links, tags, filtering, search, Git-backed versioning & syncing, Pandoc-backed conversion, + more in a single portable script.
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note-taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more in a single portable script.
 - [ow/ubuntu-windows-dotfiles](https://github.com/ow/ubuntu-windows-dotfiles) - Ubuntu on Windows dotfiles
 - [umutphp/github-action-dynamic-profile-page](https://github.com/umutphp/github-action-dynamic-profile-page) - GitHub Action to push updates to your special profile repository.
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
