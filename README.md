@@ -1332,6 +1332,7 @@
 
 ## JavaScript 
 
+- [learnwithjason/lets-learn-obsidian](https://github.com/learnwithjason/lets-learn-obsidian) - 
 - [Flutterwave/rave-react-native](https://github.com/Flutterwave/rave-react-native) - Rave react native SDK
 - [QBisConsult/psql-api](https://github.com/QBisConsult/psql-api) - RAPID RESTful API for PostgreSQL
 - [issaafalkattan/React-Landing-Page-Template](https://github.com/issaafalkattan/React-Landing-Page-Template) - A simple react one page landing page templates for startups/companies
@@ -2087,6 +2088,7 @@
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [mml-book/mml-book.github.io](https://github.com/mml-book/mml-book.github.io) - Companion webpage to the book "Mathematics For Machine Learning"
 - [ramnathv/template-live-webinar-sql](https://github.com/ramnathv/template-live-webinar-sql) - 
+- [Non-Contradiction/JuliaCall](https://github.com/Non-Contradiction/JuliaCall) - Embed Julia in R
 - [wowchemy/starter-academic](https://github.com/wowchemy/starter-academic) - 🎓 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify.
 - [DiscoveryDNA/team_neural_network](https://github.com/DiscoveryDNA/team_neural_network) - Neural Network of enhancer regions
 - [advboxes/AdvBox](https://github.com/advboxes/AdvBox) - Advbox is a toolbox to generate adversarial examples that fool neural networks in PaddlePaddle、PyTorch、Caffe2、MxNet、Keras、TensorFlow and Advbox can benchmark the robustness of machine learning models.  Advbox give a command line tool to generate adversarial examples with Zero-Coding.
@@ -2196,6 +2198,8 @@
 
 ## Others 
 
+- [TechPrimers/whats-your-architecture](https://github.com/TechPrimers/whats-your-architecture) - "What's your Architecture?" is a series of architecture and design challenges to voice out the opinions of the TechPrimers community members.
+- [jimsforks/burglr](https://github.com/jimsforks/burglr) - Copy Functions from Other Packages Without Adding Them As Dependencies
 - [llrs/cran_histories](https://github.com/llrs/cran_histories) - Recollection of exchanges with CRAN reviewers and maintainer
 - [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support) - Thunder Client is a Rest API Client Extension for Visual Studio Code.
 - [drat-base/drat](https://github.com/drat-base/drat) - Sample drat repository for easy forking and bootstrapping
@@ -2280,7 +2284,7 @@
 - [jimbrig/gitflow](https://github.com/jimbrig/gitflow) - Best practices for using gitflow
 - [leeper/data-versioning](https://github.com/leeper/data-versioning) - Collecting thoughts about data versioning
 - [SaadAAkash/awesome-agile-essentials](https://github.com/SaadAAkash/awesome-agile-essentials) - An awesome list of concepts & resources of Agile Software Development, curated from handpicked project management contents, courses & more!
-- [GegznaV/eleventy-base-blog](https://github.com/GegznaV/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator.
+- [e-tutorials/eleventy-base-blog](https://github.com/e-tutorials/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator.
 - [feddelegrand7/data_science_with_R](https://github.com/feddelegrand7/data_science_with_R) - 
 - [feddelegrand7/datamods](https://github.com/feddelegrand7/datamods) - Shiny modules to import data into an application or addin
 - [feddelegrand7/postcards](https://github.com/feddelegrand7/postcards) - 💌 Create simple, beautiful personal websites and landing pages using only R Markdown.
@@ -2941,6 +2945,7 @@
 
 ## PowerShell 
 
+- [lukesampson/pshazz](https://github.com/lukesampson/pshazz) - Give your powershell some pizazz.
 - [TheRandomLabs/Scoop-Bucket](https://github.com/TheRandomLabs/Scoop-Bucket) - My personal Scoop bucket.
 - [TheRandomLabs/Scoop-Spotify](https://github.com/TheRandomLabs/Scoop-Spotify) - A Scoop bucket for Spotify, Spicetify and related packages.
 - [TheCjw/scoop-retools](https://github.com/TheCjw/scoop-retools) - Scoop bucket for reverse engineering tools
@@ -3419,6 +3424,9 @@
 
 ## R 
 
+- [flujoo/gm](https://github.com/flujoo/gm) - R package to create music, and show musical scores and audio files in R Markdown documents, R Jupyter Notebooks and RStudio
+- [Envirometrix/plotKML](https://github.com/Envirometrix/plotKML) - plotKML: Visualization of Spatial and Spatio-Temporal Objects in Google Earth
+- [moodymudskipper/burglr](https://github.com/moodymudskipper/burglr) - Copy Functions from Other Packages Without Adding Them As Dependencies
 - [powwater/powpolished](https://github.com/powwater/powpolished) - Authentication and Administration for POW Shiny apps
 - [ianmoran11/locatr](https://github.com/ianmoran11/locatr) - 
 - [samterfa/googlePackageMaker](https://github.com/samterfa/googlePackageMaker) - This package generates R packages for Google APIs.
@@ -3789,7 +3797,7 @@
 - [GegznaV/conspect.helper](https://github.com/GegznaV/conspect.helper) - Convenience functions :zap:
 - [GegznaV/backup.tools](https://github.com/GegznaV/backup.tools) - 
 - [GegznaV/addins.rmd](https://github.com/GegznaV/addins.rmd) - Add-ins to format R Markdown documents
-- [mokymai/bio](https://github.com/mokymai/bio) - Functions to manage R and RStudio
+- [mokymai/bio](https://github.com/mokymai/bio) - Functions to manage R and RStudio (R package)
 - [toddgrabowsky/shinydashboard_template](https://github.com/toddgrabowsky/shinydashboard_template) - This is a modular template for creating apps using the shinydashboard framework. Each app is stored in its own directory and dynamically loaded with a configurable sidebar title and icon.
 - [feddelegrand7/RSContest](https://github.com/feddelegrand7/RSContest) - Submission to RStudio Table Contest
 - [feddelegrand7/algo](https://github.com/feddelegrand7/algo) - Implement the Algolia Places Address Search Auto Completion Menu on Shiny Text Inputs
@@ -4266,7 +4274,6 @@
 - [Cesar-Urteaga/rfars](https://github.com/Cesar-Urteaga/rfars) - Project that illustrates how to create an R package.
 - [dr2pedro/baseR-multiarch-Docker-image](https://github.com/dr2pedro/baseR-multiarch-Docker-image) - Just a Dockerfile to build multi-arch docker image of R for development.
 - [m-jahn/R-tools](https://github.com/m-jahn/R-tools) - often used R scripts for bio-informatics work and plotting
-- [mcdesignnl/downstreamness](https://github.com/mcdesignnl/downstreamness) - :earth_americas: R package for the Downstreamness concept
 - [Nazaniiin/EDA_QualityofRedWine](https://github.com/Nazaniiin/EDA_QualityofRedWine) - :wine_glass: :chart_with_upwards_trend: (EDA) R - Vizualization / Performed exploratory analysis and visualization on Red Wine Quality dataset; Mainly answering which chemical properties influence the quality of red wines.
 - [stevecondylios/collidr](https://github.com/stevecondylios/collidr) - Check for namespace collisions across a half a million packages and functions on CRAN 💥
 - [mkearney/callmethod](https://github.com/mkearney/callmethod) - 🤙 Call Method for Developing Packages
@@ -4791,7 +4798,6 @@
 - [ceefluz/radar](https://github.com/ceefluz/radar) - An interactive tool for rapid analysis of diagnostic and antimicrobial pattern in R using Shiny
 - [meysubb/cfbscrapR-archived](https://github.com/meysubb/cfbscrapR-archived) - CFB R Package
 - [choonghyunryu/dlookr](https://github.com/choonghyunryu/dlookr) - Tools for Data Diagnosis, Exploration, Transformation
-- [Non-Contradiction/JuliaCall](https://github.com/Non-Contradiction/JuliaCall) - Embed Julia in R
 - [radiant-rstats/radiant.design](https://github.com/radiant-rstats/radiant.design) - Code for the Design menu in Radiant
 - [spren9er/tidytuesday](https://github.com/spren9er/tidytuesday) - Code snippets for weekly #tidytuesday project
 - [juliendiot42/markdownInput](https://github.com/juliendiot42/markdownInput) - A R-Shiny module for markdown text input
@@ -5873,6 +5879,7 @@
 
 ## Ruby 
 
+- [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [rgl/vagrant-windows-sysprep](https://github.com/rgl/vagrant-windows-sysprep) - Vagrant plugin to run Windows sysprep as a provisioning step
 - [ankane/pgsync](https://github.com/ankane/pgsync) - Sync data from one Postgres database to another
 - [zauberlabs/gh-pivotal-integration](https://github.com/zauberlabs/gh-pivotal-integration) - 
@@ -6292,6 +6299,7 @@
 
 ## Swift 
 
+- [WeTransfer/Mocker](https://github.com/WeTransfer/Mocker) - Mock Alamofire and URLSession requests without touching your code implementation
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
 - [krzysztofzablocki/Sourcery](https://github.com/krzysztofzablocki/Sourcery) - Meta-programming for Swift, stop writing boilerplate code.
 - [djyde/WebShell](https://github.com/djyde/WebShell) - Bundle web apps to native OS X app
@@ -6382,6 +6390,7 @@
 
 ## TypeScript 
 
+- [martin-jw/obsidian-recall](https://github.com/martin-jw/obsidian-recall) - A spaced repetition system for Obsidian!
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 - [garrylachman/ElectroCRUD](https://github.com/garrylachman/ElectroCRUD) - Database CRUD Application Built on Electron | MySQL, Postgres, SQLite
@@ -6675,7 +6684,7 @@
 
 ## Visual Basic .NET 
 
-- [Vitosh/VBA_personal](https://github.com/Vitosh/VBA_personal) - Excel personal VBA files in the personal.xlsb
+- [Vitosh/VBA_personal](https://github.com/Vitosh/VBA_personal) - Library with VBA, used in multiple projects.
 - [SQL-Server-projects/Reporting-Services-examples](https://github.com/SQL-Server-projects/Reporting-Services-examples) - :closed_book: Various example reports I use for SQL Server Reporting Services (SSRS) as well as documents for unit testing, requirements and a style guide template.
 - [MoscaDotTo/Winapp2](https://github.com/MoscaDotTo/Winapp2) - A database of extended cleaning routines for popular Windows PC based maintenance software.
 - [ChrisAnd1998/TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) - Center Windows taskbar icons with a variety of animations and options.
