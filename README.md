@@ -462,6 +462,7 @@
 
 ## CSS 
 
+- [jimbrig/obsidian_vault](https://github.com/jimbrig/obsidian_vault) - Personal Obsidian Vault
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [djnavarro/pkgdowngirl](https://github.com/djnavarro/pkgdowngirl) - A Minimal Pkgdown Template
 - [jh3y/whirl](https://github.com/jh3y/whirl) - CSS loading animations with minimal effort!
@@ -912,7 +913,7 @@
 - [dgrtwo/dgrtwo.github.com](https://github.com/dgrtwo/dgrtwo.github.com) - My website
 - [vfarcic/vfarcic.github.io](https://github.com/vfarcic/vfarcic.github.io) - 
 - [jimbrig/jimsdocs](https://github.com/jimbrig/jimsdocs) - R Blog written with Distill.
-- [daattali/inputknob](https://github.com/daattali/inputknob) - 
+- [daattali/shinywc](https://github.com/daattali/shinywc) - 
 - [datasketch/dspins](https://github.com/datasketch/dspins) - 
 - [skgrange/skgrange.github.io](https://github.com/skgrange/skgrange.github.io) - Personal website repository which is hosted at http://skgrange.github.io/
 - [pbiecek/BioColl2021](https://github.com/pbiecek/BioColl2021) - Notes for the tutorial "Introduction to Machine Learning with R" given at "Biometrisches Kolloquium 2021"
@@ -947,8 +948,8 @@
 - [dreyescat/bootstrap-rating](https://github.com/dreyescat/bootstrap-rating) - Bootstrap Rating is a jQuery plugin that creates a rating control that uses Bootstrap glyphicons for rating symbols.
 - [mslegrand/pointR](https://github.com/mslegrand/pointR) - A shiny-based IDE for creating SVG by using R and the svgR package.
 - [jsugarelli/shinyfilter](https://github.com/jsugarelli/shinyfilter) - 
-- [GegznaV/knitrContainer](https://github.com/GegznaV/knitrContainer) - :soon: :package: Collect and Print Multiple Objects in an R Markdown Report
-- [GegznaV/spMisc](https://github.com/GegznaV/spMisc) - :soon: :egg: Miscellaneous R functions
+- [GegznaV/knitrContainer](https://github.com/GegznaV/knitrContainer) - :warning:  Collect and Print Multiple Objects in an R Markdown Report (R package)
+- [GegznaV/spMisc](https://github.com/GegznaV/spMisc) - :warning: Miscellaneous R functions. Some functions may not work.
 - [openanalytics/shinyproxy-config-examples](https://github.com/openanalytics/shinyproxy-config-examples) - Configuration examples for ShinyProxy
 - [lamkel/shinyproxy-config-examples](https://github.com/lamkel/shinyproxy-config-examples) - 
 - [DavisVaughan/2020-06-01_dplyr-vctrs-compat](https://github.com/DavisVaughan/2020-06-01_dplyr-vctrs-compat) - 
@@ -988,7 +989,7 @@
 - [brennanbrown/enjoyment-work](https://github.com/brennanbrown/enjoyment-work) - 🗃️ A Digital Garden: Capturing my daily thoughts and progress, as well as curated ideas with unique synthesis—a personal zettelkasten. Built on Simply Jekyll by Raghuveer S.
 - [googlecodelabs/tools](https://github.com/googlecodelabs/tools) - Codelabs management & hosting tools
 - [ekstroem/whyR-2020](https://github.com/ekstroem/whyR-2020) - 
-- [GegznaV/spAddins](https://github.com/GegznaV/spAddins) - :white_check_mark: A Set of RStudio Addins
+- [GegznaV/spAddins](https://github.com/GegznaV/spAddins) - ❌ Deprecated R package. Use 'addins.rmd', 'addins.rs', etc. instead.
 - [skranz/CoursesWithR](https://github.com/skranz/CoursesWithR) - 
 - [jadjoubran/webdash](https://github.com/jadjoubran/webdash) - 🔥 Orchestrate your web project with Webdash the customizable web dashboard
 - [KasperZutterman/KasperZutterman.github.io](https://github.com/KasperZutterman/KasperZutterman.github.io) - Personal website:
@@ -1129,7 +1130,6 @@
 - [open-science-promoters/contibutor_manager](https://github.com/open-science-promoters/contibutor_manager) - Using a software to manage scientific publications author list, the same way reference managers work.
 - [wesslen/iviz-rstudio-workshop](https://github.com/wesslen/iviz-rstudio-workshop) - Interactive Visualizations with RStudio Workshop for UNCC DSI
 - [scotthmurray/d3-book](https://github.com/scotthmurray/d3-book) - Code examples for “Interactive Data Visualization for the Web”
-- [davidruvolo51/shinyAppTutorials](https://github.com/davidruvolo51/shinyAppTutorials) - a collection of shiny app demonstrations :bar_chart:
 - [jimbrig/therdispatch-blogdown](https://github.com/jimbrig/therdispatch-blogdown) - The R Dispatch - An R Related Blog and Knowledge Base
 - [anthro-data-science/making-websites-using-R](https://github.com/anthro-data-science/making-websites-using-R) - Short workshop on making professional websites with R, Blogdown, Hugo and the Academic template. View the slides here:
 - [juba/robservable](https://github.com/juba/robservable) - Observable notebooks as R htmlwidgets
@@ -1417,7 +1417,7 @@
 - [snapappointments/bootstrap-select](https://github.com/snapappointments/bootstrap-select) - :rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
 - [RobinHerbots/Inputmask](https://github.com/RobinHerbots/Inputmask) - Input Mask plugin
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
-- [rocket-booster/rocket-booster](https://github.com/rocket-booster/rocket-booster) - 🚀 The edge-rendered speed and security booster for web applications and RESTful APIs.
+- [rocket-booster/rocket-booster](https://github.com/rocket-booster/rocket-booster) - 🚀 The edge-rendered speed booster for web applications, storage platforms, and RESTful APIs.
 - [meliorence/react-native-snap-carousel](https://github.com/meliorence/react-native-snap-carousel) - Swiper/carousel component for React Native featuring previews, multiple layouts, parallax images, performant handling of huge numbers of items, and more. Compatible with Android & iOS.
 - [UDST/vizicities](https://github.com/UDST/vizicities) - A framework for 3D geospatial visualization in the browser
 - [bencodezen/obsidian-starter-kit](https://github.com/bencodezen/obsidian-starter-kit) - An opinionated starter kit to help people get up and running as quickly as possible
@@ -3424,6 +3424,11 @@
 
 ## R 
 
+- [kevinushey/loupe](https://github.com/kevinushey/loupe) - An R package for inspecting the call stack of other running R processes.
+- [hrbrmstr/curlconverter](https://github.com/hrbrmstr/curlconverter) - :curly_loop: :arrow_right: :heavy_minus_sign: Translate cURL command lines into parameters for use with httr or actual httr calls (R)
+- [adamlauretig/ny_r_talk](https://github.com/adamlauretig/ny_r_talk) - Slides and Code for NY R Users Meetup on January 9, 2020, "A Common Model, Separated by Two Disciplines: Bayesian Factorization Machines with Stan and R" presented by Adam Lauretig
+- [r-lib/brio](https://github.com/r-lib/brio) - Basic R Input Output
+- [rstudio/keras](https://github.com/rstudio/keras) - R Interface to Keras
 - [flujoo/gm](https://github.com/flujoo/gm) - R package to create music, and show musical scores and audio files in R Markdown documents, R Jupyter Notebooks and RStudio
 - [Envirometrix/plotKML](https://github.com/Envirometrix/plotKML) - plotKML: Visualization of Spatial and Spatio-Temporal Objects in Google Earth
 - [moodymudskipper/burglr](https://github.com/moodymudskipper/burglr) - Copy Functions from Other Packages Without Adding Them As Dependencies
@@ -3794,10 +3799,10 @@
 - [Kohze/fireData](https://github.com/Kohze/fireData) - Firebase + R
 - [OliverHennhoefer/R_Shiny_DataTable_DeleteRowSelection](https://github.com/OliverHennhoefer/R_Shiny_DataTable_DeleteRowSelection) - Example of interactively adding rows / deleting rows by selecting directly in a data.table (DT) in Shiny
 - [cgwhitehead/golfstats](https://github.com/cgwhitehead/golfstats) - gather and clean pga stats for fantasy golf
-- [GegznaV/conspect.helper](https://github.com/GegznaV/conspect.helper) - Convenience functions :zap:
-- [GegznaV/backup.tools](https://github.com/GegznaV/backup.tools) - 
-- [GegznaV/addins.rmd](https://github.com/GegznaV/addins.rmd) - Add-ins to format R Markdown documents
-- [mokymai/bio](https://github.com/mokymai/bio) - Functions to manage R and RStudio (R package)
+- [GegznaV/conspect.helper](https://github.com/GegznaV/conspect.helper) - :warning: :zap: Convenience functions for personal use (R package)
+- [GegznaV/backup.tools](https://github.com/GegznaV/backup.tools) - :heavy_check_mark: Helper R package to create file back-ups
+- [GegznaV/addins.rmd](https://github.com/GegznaV/addins.rmd) - :heavy_check_mark:  Add-ins to format R Markdown documents in RStudio (R package)
+- [mokymai/bio](https://github.com/mokymai/bio) - :heavy_check_mark: Automated management of R and RStudio (R package)
 - [toddgrabowsky/shinydashboard_template](https://github.com/toddgrabowsky/shinydashboard_template) - This is a modular template for creating apps using the shinydashboard framework. Each app is stored in its own directory and dynamically loaded with a configurable sidebar title and icon.
 - [feddelegrand7/RSContest](https://github.com/feddelegrand7/RSContest) - Submission to RStudio Table Contest
 - [feddelegrand7/algo](https://github.com/feddelegrand7/algo) - Implement the Algolia Places Address Search Auto Completion Menu on Shiny Text Inputs
@@ -4618,7 +4623,7 @@
 - [moodymudskipper/flow](https://github.com/moodymudskipper/flow) - View and Browse Code Using Flow Diagrams
 - [moodymudskipper/nakedpipe](https://github.com/moodymudskipper/nakedpipe) - Pipe Into a Sequence of Calls Without Repeating the Pipe Symbol.
 - [mlr3learners/mlr3learners.drat](https://github.com/mlr3learners/mlr3learners.drat) - drat repository for mlr3learners
-- [rstudio-education/gradethis](https://github.com/rstudio-education/gradethis) - Tools for teachers to use with learnr
+- [rstudio/gradethis](https://github.com/rstudio/gradethis) - Tools for teachers to use with learnr
 - [sdesabbata/BivariateTMap](https://github.com/sdesabbata/BivariateTMap) - A simple function to create bivariate Choropleth maps in R tmap
 - [kcf-jackson/sketch](https://github.com/kcf-jackson/sketch) - Interactive sketches in R
 - [MilesMcBain/capsule](https://github.com/MilesMcBain/capsule) - An inversion of renv for low effort reproducible R package libraries
@@ -4663,6 +4668,7 @@
 - [JohnCoene/linne](https://github.com/JohnCoene/linne) - 🌊 Write CSS in R
 - [benjaminrich/table1](https://github.com/benjaminrich/table1) - 
 - [gadenbuie/shinyComponents](https://github.com/gadenbuie/shinyComponents) - :memo::sparkles: Shiny Components in R Markdown
+- [davidruvolo51/shinyAppTutorials](https://github.com/davidruvolo51/shinyAppTutorials) - a collection of shiny app demonstrations :bar_chart:
 - [herbps10/reactor](https://github.com/herbps10/reactor) - Interactive notebooks for R
 - [jienagu/D3_folded_charts](https://github.com/jienagu/D3_folded_charts) - This is a showcase of interactive charts in shiny and Rmarkdown reports
 - [stemangiola/tidyHeatmap](https://github.com/stemangiola/tidyHeatmap) - Draw heatmap simply using a tidy data frame
@@ -4849,7 +4855,6 @@
 - [reconhub/nomad](https://github.com/reconhub/nomad) - :package::point_right::school_satchel: Pack up R to take away
 - [Hackout3/cleanr](https://github.com/Hackout3/cleanr) - 
 - [reconhub/linelist](https://github.com/reconhub/linelist) - An R package to import, clean, and store case data
-- [r-lib/brio](https://github.com/r-lib/brio) - Basic R Input Output
 - [HenrikBengtsson/future.tests](https://github.com/HenrikBengtsson/future.tests) - :nut_and_bolt: R package: future.tests - Test Suite for Future API Backends
 - [soerenkuenzel/causalToolbox](https://github.com/soerenkuenzel/causalToolbox) - 
 - [hrbrmstr/albersusa](https://github.com/hrbrmstr/albersusa) - Tools, shapefiles & data to work with an "AlbersUSA" composite projection in R
@@ -6535,7 +6540,7 @@
 - [storybookjs/design-system](https://github.com/storybookjs/design-system) - 🗃 Storybook Design System
 - [retorquere/zotero-citations](https://github.com/retorquere/zotero-citations) - Zotero Markdown citations for the Atom editor
 - [argenos/hotkeysplus-obsidian](https://github.com/argenos/hotkeysplus-obsidian) - Adds hotkeys to toggle todos, ordered/unordered lists and blockquotes in Obsidian
-- [argenos/nldates-obsidian](https://github.com/argenos/nldates-obsidian) - Create date-links based on natural language in Obsidian
+- [argenos/nldates-obsidian](https://github.com/argenos/nldates-obsidian) - Work with dates in natural language in Obsidian
 - [felixrieseberg/windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - :package: Install C++ Build Tools for Windows using npm
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
