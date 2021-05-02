@@ -354,6 +354,7 @@
 
 ## C++ 
 
+- [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [Ironholds/urltools](https://github.com/Ironholds/urltools) - Elegant URL handling in R
 - [plv8/plv8](https://github.com/plv8/plv8) - V8 Engine Javascript Procedural Language add-on for PostgreSQL
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
@@ -1295,7 +1296,7 @@
 - [airbnb/AirMapView](https://github.com/airbnb/AirMapView) - A view abstraction to provide a map user interface with various underlying map providers
 - [jrvansuita/MaterialAbout](https://github.com/jrvansuita/MaterialAbout) - It's a material-design about screen to use on your Android apps. A developer profile and application information easy to integrate. 🔖
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
-- [ctripcorp/apollo](https://github.com/ctripcorp/apollo) - Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。
+- [ctripcorp/apollo](https://github.com/ctripcorp/apollo) - Apollo is a reliable configuration management system. It can centrally manage the configurations of different applications and different clusters. It is suitable for microservice configuration management scenarios.
 - [microsoft/CDM](https://github.com/microsoft/CDM) - The Common Data Model (CDM) is a standard and extensible collection of schemas (entities, attributes, relationships) that represents business concepts and activities with well-defined semantics, to facilitate data interoperability. Examples of entities include: Account, Contact, Lead, Opportunity, Product, etc.
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
 - [GoogleCloudPlatform/spring-cloud-gcp](https://github.com/GoogleCloudPlatform/spring-cloud-gcp) - New home for Spring Cloud GCP development starting with version 2.0.
@@ -3424,7 +3425,8 @@
 
 ## R 
 
-- [kevinushey/loupe](https://github.com/kevinushey/loupe) - An R package for inspecting the call stack of other running R processes.
+- [EllaKaye/distilltools](https://github.com/EllaKaye/distilltools) - A collection of tools to support the creation and styling of content on {distill} websites
+- [ddsjoberg/bstfun](https://github.com/ddsjoberg/bstfun) - Miscellaneous collection of functions
 - [hrbrmstr/curlconverter](https://github.com/hrbrmstr/curlconverter) - :curly_loop: :arrow_right: :heavy_minus_sign: Translate cURL command lines into parameters for use with httr or actual httr calls (R)
 - [adamlauretig/ny_r_talk](https://github.com/adamlauretig/ny_r_talk) - Slides and Code for NY R Users Meetup on January 9, 2020, "A Common Model, Separated by Two Disciplines: Bayesian Factorization Machines with Stan and R" presented by Adam Lauretig
 - [r-lib/brio](https://github.com/r-lib/brio) - Basic R Input Output
@@ -5938,6 +5940,7 @@
 
 ## Rust 
 
+- [comtrya/comtrya](https://github.com/comtrya/comtrya) - Configuration Management for Localhost
 - [extendr/extendr](https://github.com/extendr/extendr) - R extension library for rust designed to be familiar to R users.
 - [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it's 2021
 - [trashhalo/obsidian-rust-plugin](https://github.com/trashhalo/obsidian-rust-plugin) - 
@@ -6040,6 +6043,7 @@
 
 ## Shell 
 
+- [kevinushey/loupe](https://github.com/kevinushey/loupe) - An R package for inspecting the call stack of other running R processes.
 - [deployable/node-docker-demo-app](https://github.com/deployable/node-docker-demo-app) - An Node.js app running in Docker with various process supervisors (s6, docker, nodemon, forever, supervisor)
 - [rsquaredacademy-education/bash-intro](https://github.com/rsquaredacademy-education/bash-intro) - Command Line Basics for R Users
 - [mrts/docker-postgresql-multiple-databases](https://github.com/mrts/docker-postgresql-multiple-databases) - Using multiple databases with the official PostgreSQL Docker image
