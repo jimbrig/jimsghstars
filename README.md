@@ -354,6 +354,7 @@
 
 ## C++ 
 
+- [jrwishart/mwaved](https://github.com/jrwishart/mwaved) - mWaveD - R package
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [Ironholds/urltools](https://github.com/Ironholds/urltools) - Elegant URL handling in R
 - [plv8/plv8](https://github.com/plv8/plv8) - V8 Engine Javascript Procedural Language add-on for PostgreSQL
@@ -692,6 +693,7 @@
 
 ## FreeBasic 
 
+- [ReneNyffenegger/VBAModules](https://github.com/ReneNyffenegger/VBAModules) - Modules for Visualb Basic for Applications
 - [ReneNyffenegger/about-VBA](https://github.com/ReneNyffenegger/about-VBA) - about VBA
 - [ReneNyffenegger/about-MS-Office-object-model](https://github.com/ReneNyffenegger/about-MS-Office-object-model) - About the MS Office objet model
 
@@ -1087,7 +1089,6 @@
 - [rstudio4edu/rstudio4edu-book](https://github.com/rstudio4edu/rstudio4edu-book) - Organizing rstudio4edu project progress
 - [remche/zero-to-shinyproxy](https://github.com/remche/zero-to-shinyproxy) - Deploy Shinyproxy with Helm
 - [InsaneNaman/parcel-static-site-starterkit](https://github.com/InsaneNaman/parcel-static-site-starterkit) - A starter kit to get Advanced features like SASS support, Uglification, Hot Module Reload in Static Website
-- [mrchypark/dplyr-100](https://github.com/mrchypark/dplyr-100) - 100 dplyr exercises
 - [egarpor/ShinyServer](https://github.com/egarpor/ShinyServer) - A served-oriented repository of Shiny apps and Rmd documents
 - [hbnordin2/spiralHeatMaps](https://github.com/hbnordin2/spiralHeatMaps) - Inspired by: https://bl.ocks.org/tomshanley/0a024581fd0b7c4e483203d5bff9631b
 - [rstudio/concept-maps](https://github.com/rstudio/concept-maps) - Concept maps for all things data science
@@ -1345,6 +1346,7 @@
 
 ## JavaScript 
 
+- [GoogleCloudPlatform/cloud-code-custom-samples-example](https://github.com/GoogleCloudPlatform/cloud-code-custom-samples-example) - 
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [APIDevTools/swagger-parser](https://github.com/APIDevTools/swagger-parser) - Swagger 2.0 and OpenAPI 3.0 parser/validator
 - [APIDevTools/swagger-cli](https://github.com/APIDevTools/swagger-cli) - Swagger 2.0 and OpenAPI 3.0 command-line tool
@@ -1996,6 +1998,7 @@
 - [Wellers0n/evernote-clone](https://github.com/Wellers0n/evernote-clone) - evernote clone with real time database
 - [d3/d3-scale-chromatic](https://github.com/d3/d3-scale-chromatic) - Sequential, diverging and categorical color scales.
 - [DataTables/DateTime](https://github.com/DataTables/DateTime) - Data / time picker used for DataTables.net components
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [trestletech/todotxtpp](https://github.com/trestletech/todotxtpp) - NodeJS Application with Dropbox Integration for Managing a Todo.txt File
 - [reZach/secure-electron-template](https://github.com/reZach/secure-electron-template) - The best way to build Electron apps with security in mind.
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
@@ -3474,6 +3477,7 @@
 
 ## R 
 
+- [codecov/example-r](https://github.com/codecov/example-r) - 
 - [atheriel/rsyslog](https://github.com/atheriel/rsyslog) - An R interface to syslog, the POSIX system logger API
 - [tomaztk/Useless_R_functions](https://github.com/tomaztk/Useless_R_functions) - Useless R Functions. That's it
 - [nbenn/mockthat](https://github.com/nbenn/mockthat) - Mocking for testthat unit testing
@@ -3874,7 +3878,7 @@
 - [yanirmor/shiny-user-management](https://github.com/yanirmor/shiny-user-management) - Demonstration of user management and authentication system in R Shiny
 - [dreamRs/datamods](https://github.com/dreamRs/datamods) - Shiny modules to import data into an application or addin
 - [dbosak01/libr](https://github.com/dbosak01/libr) - An R package to create data libraries and data dictionaries.
-- [jaytimm/quicknews](https://github.com/jaytimm/quicknews) - Some R-based tools for navigating the online news landscape
+- [jaytimm/quicknews](https://github.com/jaytimm/quicknews) - Some R-based tools for working with digital media
 - [ropensci-archive/packgraph](https://github.com/ropensci-archive/packgraph) - :no_entry:ARCHIVED:no_entry: Examine and analyse function call graphs from R packages
 - [hrbrmstr/waffle](https://github.com/hrbrmstr/waffle) - :maple_leaf: Make waffle (square pie) charts in R
 - [tomaztk/Install_setup_R_using_Powershell](https://github.com/tomaztk/Install_setup_R_using_Powershell) - Installing R and RStudio and setup R using Powershell
@@ -6712,7 +6716,6 @@
 - [jeremybarbet/react-native-modalize](https://github.com/jeremybarbet/react-native-modalize) - A highly customizable modal/bottom sheet that loves scrolling content.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [Rocketseat/umbriel](https://github.com/Rocketseat/umbriel) - 📪  Mail sending microservice with Node.js, TypeScript and MongoDB
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [kubernetes-client/javascript](https://github.com/kubernetes-client/javascript) - Javascript client
@@ -6734,7 +6737,6 @@
 
 - [jimbrig/excel-config](https://github.com/jimbrig/excel-config) - Personalized Excel Setup and Configuration
 - [ReneNyffenegger/temp-COM](https://github.com/ReneNyffenegger/temp-COM) - 
-- [ReneNyffenegger/VBAModules](https://github.com/ReneNyffenegger/VBAModules) - Modules for Visualb Basic for Applications
 - [ReneNyffenegger/about-Excel](https://github.com/ReneNyffenegger/about-Excel) - About Excel
 - [dragokas/hijackthis](https://github.com/dragokas/hijackthis) - A free utility that finds malware, adware and other security threats
 - [jimbrig/xl-macros](https://github.com/jimbrig/xl-macros) - My Personal Excel Workbook's Macros
