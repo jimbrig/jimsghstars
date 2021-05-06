@@ -173,7 +173,7 @@
 - [jeroen/sys](https://github.com/jeroen/sys) - Powerful replacements for base::system2
 - [robenkleene/development-references](https://github.com/robenkleene/development-references) - References for programming tools.
 - [nullsecuritynet/tools](https://github.com/nullsecuritynet/tools) - Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts.
-- [atheriel/longears](https://github.com/atheriel/longears) - A RabbitMQ client for R
+- [atheriel/longears](https://github.com/atheriel/longears) - The RabbitMQ client for R
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [henrypp/memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
 - [malxau/yori](https://github.com/malxau/yori) - Yori is a CMD replacement shell that supports backquotes, job control, and improves tab completion, file matching, aliases, command history, and more.
@@ -235,6 +235,7 @@
 
 ## C# # 
 
+- [ibigbug/PowerSession](https://github.com/ibigbug/PowerSession) - Record a Session in PowerShell
 - [brminnick/GitTrends](https://github.com/brminnick/GitTrends) - A iOS and Android app to monitor the views and clones of your GitHub repos
 - [fredatgithub/EventLogReader](https://github.com/fredatgithub/EventLogReader) - Event Log Reader sample
 - [v2kiran/PSLiteDB](https://github.com/v2kiran/PSLiteDB) - PowerShell wrapper for LiteDB
@@ -640,6 +641,7 @@
 
 ## Dockerfile 
 
+- [mgibeau/semantic-release-expo-github-action](https://github.com/mgibeau/semantic-release-expo-github-action) - 
 - [tmaier/docker-postgresql-client](https://github.com/tmaier/docker-postgresql-client) - Run the PostgreSQL Client (psql) within a docker container. Excellent for Kubernetes Init Containers
 - [sellorm/dockerfiles](https://github.com/sellorm/dockerfiles) - 
 - [GoogleCloudPlatform/cloud-sdk-docker](https://github.com/GoogleCloudPlatform/cloud-sdk-docker) - Docker image with all the components of the Google Cloud SDK
@@ -1309,7 +1311,7 @@
 - [airbnb/AirMapView](https://github.com/airbnb/AirMapView) - A view abstraction to provide a map user interface with various underlying map providers
 - [jrvansuita/MaterialAbout](https://github.com/jrvansuita/MaterialAbout) - It's a material-design about screen to use on your Android apps. A developer profile and application information easy to integrate. 🔖
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
-- [ctripcorp/apollo](https://github.com/ctripcorp/apollo) - Apollo is a reliable configuration management system. It can centrally manage the configurations of different applications and different clusters. It is suitable for microservice configuration management scenarios.
+- [ctripcorp/apollo](https://github.com/ctripcorp/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
 - [microsoft/CDM](https://github.com/microsoft/CDM) - The Common Data Model (CDM) is a standard and extensible collection of schemas (entities, attributes, relationships) that represents business concepts and activities with well-defined semantics, to facilitate data interoperability. Examples of entities include: Account, Contact, Lead, Opportunity, Product, etc.
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
 - [GoogleCloudPlatform/spring-cloud-gcp](https://github.com/GoogleCloudPlatform/spring-cloud-gcp) - New home for Spring Cloud GCP development starting with version 2.0.
@@ -1346,6 +1348,8 @@
 
 ## JavaScript 
 
+- [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
+- [taher07/dockerized-react-native](https://github.com/taher07/dockerized-react-native) - This repo contains the files required for building a docker container to build an expo managed react native app
 - [GoogleCloudPlatform/cloud-code-custom-samples-example](https://github.com/GoogleCloudPlatform/cloud-code-custom-samples-example) - 
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [APIDevTools/swagger-parser](https://github.com/APIDevTools/swagger-parser) - Swagger 2.0 and OpenAPI 3.0 parser/validator
@@ -2227,6 +2231,7 @@
 
 ## Others 
 
+- [rjcarneiro/windows-terminals](https://github.com/rjcarneiro/windows-terminals) - Repository with some awesome Windows Terminals themes
 - [h5bp/server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs
 - [maxto/R-Books](https://github.com/maxto/R-Books) - A non-exhaustive list of R books. Full list here bookdown.org
 - [roshanlam/ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - Done with your project but having a hard time writing a ReadMe? Check Out This Repo I created. If you like it then use it
@@ -3477,6 +3482,14 @@
 
 ## R 
 
+- [flujoo/erify](https://github.com/flujoo/erify) - R package to check arguments and generate informative and good-formatted error messages
+- [yogesh1612/spotify_shiny_app](https://github.com/yogesh1612/spotify_shiny_app) - 
+- [GegznaV/addins.rs](https://github.com/GegznaV/addins.rs) - :heavy_check_mark:  RStudio add-ins to insert and modify text (R package)
+- [GegznaV/RcmdrPlugin.biostat](https://github.com/GegznaV/RcmdrPlugin.biostat) - :heavy_check_mark: BioStat mode for R Commander (Rcmdr): improved functions, menus, and buttons (R package)
+- [jhofman/datamations](https://github.com/jhofman/datamations) - 
+- [thongphamthe/PAFit](https://github.com/thongphamthe/PAFit) - PAFit source
+- [evalclass/precrec](https://github.com/evalclass/precrec) - An R library for accurate and fast calculations of Precision-Recall and ROC curves
+- [colearendt/shinytest-example](https://github.com/colearendt/shinytest-example) - An example Shiny app utilizing shinytest
 - [codecov/example-r](https://github.com/codecov/example-r) - 
 - [atheriel/rsyslog](https://github.com/atheriel/rsyslog) - An R interface to syslog, the POSIX system logger API
 - [tomaztk/Useless_R_functions](https://github.com/tomaztk/Useless_R_functions) - Useless R Functions. That's it
@@ -6752,6 +6765,7 @@
 
 ## Vim Snippet 
 
+- [GegznaV/snippets](https://github.com/GegznaV/snippets) - :heavy_check_mark: (R package) Manage RStudio snippets
 - [gadenbuie/snippets](https://github.com/gadenbuie/snippets) - My snippets for RStudio (or elsewhere)
 
 ## Vim script 
