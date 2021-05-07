@@ -37,6 +37,7 @@
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jinja](#jinja)
   - [Jsonnet](#jsonnet)
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
@@ -105,6 +106,7 @@
 
 ## AutoHotkey 
 
+- [mgroat/Todoist-Global-Hotkey](https://github.com/mgroat/Todoist-Global-Hotkey) - An autohotkey script to open Todoist in Chrome and start a new item
 - [denolfe/AutoHotkey](https://github.com/denolfe/AutoHotkey) - :gear: My Autohotkey productivity suite that includes shortcuts, hotstrings, hotkeys, apps/utilities, AutoCorrect
 - [mrjackphil/qnote-ahk](https://github.com/mrjackphil/qnote-ahk) - Quick AHK script for fast note creation
 - [pallxk/dotfiles-windows](https://github.com/pallxk/dotfiles-windows) - Various config files, registry hacks, and shell scripts for Windows
@@ -477,7 +479,7 @@
 - [vivekkatial/uber_shiny](https://github.com/vivekkatial/uber_shiny) - Shiny App to play with uber data
 - [sebastiz/EndoMineR_Shiny](https://github.com/sebastiz/EndoMineR_Shiny) - Shiny app for the EndoMineR library
 - [paeselhz/shiny_gcr_tf](https://github.com/paeselhz/shiny_gcr_tf) - Repository containing basic R Shiny App, github action to build image and terraform to deploy to GCP Cloud Run
-- [bencodezen/obsidian-md-night-owl-theme](https://github.com/bencodezen/obsidian-md-night-owl-theme) - 
+- [bencodezen/night-owl-obsidian](https://github.com/bencodezen/night-owl-obsidian) - An Obsidian theme inspired by the original Night Owl VS Code Theme by Sarah Drasner!
 - [jbkunst/jbkunst.github.io](https://github.com/jbkunst/jbkunst.github.io) - jbkunst.github.io
 - [jdtrat/jdtratnr](https://github.com/jdtrat/jdtratnr) - 
 - [r4ds/bookclub-mshiny](https://github.com/r4ds/bookclub-mshiny) - Mastering Shiny Book Club
@@ -705,6 +707,7 @@
 
 ## Go 
 
+- [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Query, update and convert data structures from the command line. Comparable to jq/yq but supports JSON, TOML, YAML, XML and CSV with zero runtime dependencies.
 - [sethvargo/terraform-provider-googlecalendar](https://github.com/sethvargo/terraform-provider-googlecalendar) - A @HashiCorp Terraform provider for managing Google Calendar events.
 - [DeviaVir/terraform-provider-gsuite](https://github.com/DeviaVir/terraform-provider-gsuite) - A @HashiCorp Terraform provider for managing G Suite resources.
@@ -807,7 +810,7 @@
 - [mingrammer/go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars) - :star: Web frameworks for Go, most starred on GitHub
 - [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Kubernetes Native Batch System (Project under CNCF)
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
-- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed storage system for blobs, objects, files, and data warehouse, to store and serve billions of files fast! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
+- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed storage system for blobs, objects, files, and data lake, to store and serve billions of files fast! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [muesli/cache2go](https://github.com/muesli/cache2go) - Concurrency-safe Go caching library with expiration capabilities and access counters
 - [google/gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go
@@ -891,6 +894,7 @@
 
 ## HCL 
 
+- [GoogleCloudPlatform/solutions-terraform-cloudbuild-gitops](https://github.com/GoogleCloudPlatform/solutions-terraform-cloudbuild-gitops) - 
 - [ryboe/private-ip-cloud-sql-db](https://github.com/ryboe/private-ip-cloud-sql-db) - An example set of terraform files for deploying a Cloud SQL DB with a private IP address only
 - [robwleack/terraform-gcp-keys-example](https://github.com/robwleack/terraform-gcp-keys-example) - An example of how you could define cryptographic keys and bindings in a complex object using for_each
 - [rberlind/terraform-0.12-examples](https://github.com/rberlind/terraform-0.12-examples) - Some Terraform 0.12 Examples
@@ -904,6 +908,7 @@
 
 ## HTML 
 
+- [dbworker/dbcollect](https://github.com/dbworker/dbcollect) - dbtools utility scripts
 - [seankross/postcards](https://github.com/seankross/postcards) - 💌 Create simple, beautiful personal websites and landing pages using only R Markdown.
 - [relgisri/relgisri.github.io](https://github.com/relgisri/relgisri.github.io) - Static files generated by Hugo to display a personal GitHub Pages website.
 - [jimbrig/obsidian_published](https://github.com/jimbrig/obsidian_published) - Using mkdocs to publish my obsidian vault
@@ -961,7 +966,6 @@
 - [ColoradoDemography/shiny-landing-page](https://github.com/ColoradoDemography/shiny-landing-page) - 
 - [akashgiricse/templates-using-bootstrap4](https://github.com/akashgiricse/templates-using-bootstrap4) - 🌆 Here I've aggregated some of the most commonly used web-page templates made using Bootstrap4 🛒
 - [openschemas/extractors](https://github.com/openschemas/extractors) - generic extraction recipes to get you started extracting schema.org entities for your software, data, and all things
-- [40net-cloud/fortinet-gcp-solutions](https://github.com/40net-cloud/fortinet-gcp-solutions) - GCP Deployment Manager templates for easy and automated deployments of various Fortigate architectures in Google Compute.
 - [dreyescat/bootstrap-rating](https://github.com/dreyescat/bootstrap-rating) - Bootstrap Rating is a jQuery plugin that creates a rating control that uses Bootstrap glyphicons for rating symbols.
 - [mslegrand/pointR](https://github.com/mslegrand/pointR) - A shiny-based IDE for creating SVG by using R and the svgR package.
 - [jsugarelli/shinyfilter](https://github.com/jsugarelli/shinyfilter) - 
@@ -1799,7 +1803,6 @@
 - [mateodelnorte/meta](https://github.com/mateodelnorte/meta) - tool for turning many repos into a meta repo. why choose many repos or a monolithic repo, when you can have both with a meta repo?
 - [cassidoo/todometer](https://github.com/cassidoo/todometer) - A meter-based to-do list
 - [michaelowens/wilfred](https://github.com/michaelowens/wilfred) - A local boilerplate manager. Add folders as boilerplates and initialize projects from them using your terminal.
-- [dreamRs/capture](https://github.com/dreamRs/capture) - Take screenshots in Shiny apps
 - [jhu-ep-coursera/fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4) - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
 - [szepeviktor/windows-workstation](https://github.com/szepeviktor/windows-workstation) - Prepare my Windows 10 workstation
 - [noamross/juicer](https://github.com/noamross/juicer) - A thin wrapper for in-lining CSS styles into HTML
@@ -2092,6 +2095,10 @@
 - [daattali/colourpicker](https://github.com/daattali/colourpicker) - 🎨 A colour picker tool for Shiny and for selecting colours in plots (in R)
 - [shinyTree/shinyTree](https://github.com/shinyTree/shinyTree) - Shiny integration with the jsTree library
 
+## Jinja 
+
+- [40net-cloud/fortinet-gcp-solutions](https://github.com/40net-cloud/fortinet-gcp-solutions) - GCP Deployment Manager templates for easy and automated deployments of various Fortigate architectures in Google Compute.
+
 ## Jsonnet 
 
 - [google/jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
@@ -2166,6 +2173,7 @@
 
 ## Makefile 
 
+- [o2r-project/api](https://github.com/o2r-project/api) - Reproducibility service RESTful web API specification and documentation
 - [PostgresApp/PostgresApp](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac
 - [jnovack/git-checkout](https://github.com/jnovack/git-checkout) - Basic git checkout builder or side container for workflows.
 - [eddiejaoude/book-open-source-tips](https://github.com/eddiejaoude/book-open-source-tips) - Open Source book on Open Source Tips
@@ -2217,6 +2225,7 @@
 
 ## Objective-C 
 
+- [R-macos/Mac-GUI](https://github.com/R-macos/Mac-GUI) - R GUI for macOS
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [a7ul/react-native-exception-handler](https://github.com/a7ul/react-native-exception-handler) - A react native module that lets you to register a global error handler that can capture fatal/non fatal uncaught exceptions.
 - [TimOliver/PassKit-Business-Card](https://github.com/TimOliver/PassKit-Business-Card) - A template for iOS Wallet passes that can be used like business cards.
@@ -2231,6 +2240,7 @@
 
 ## Others 
 
+- [jdaarevalo/docker_postgres_with_data](https://github.com/jdaarevalo/docker_postgres_with_data) - 
 - [rjcarneiro/windows-terminals](https://github.com/rjcarneiro/windows-terminals) - Repository with some awesome Windows Terminals themes
 - [h5bp/server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs
 - [maxto/R-Books](https://github.com/maxto/R-Books) - A non-exhaustive list of R books. Full list here bookdown.org
@@ -2279,7 +2289,7 @@
 - [AccessGateLabs/useful-jsons](https://github.com/AccessGateLabs/useful-jsons) - A collection of JSONs used by AccessGate Labs in its applications.
 - [RichardLitt/meta-knowledge](https://github.com/RichardLitt/meta-knowledge) - 💡 A list of knowledge repositories
 - [mattes/gce-docker-push-action](https://github.com/mattes/gce-docker-push-action) - Github action to push a docker image to Google Cloud's Container Registry.
-- [Josee9988/Changelog-and-Markdown-snippets](https://github.com/Josee9988/Changelog-and-Markdown-snippets) - 🌞 Snippets for the creation of changelogs in VSCode!
+- [Josee9988/Changelog-and-Markdown-snippets](https://github.com/Josee9988/Changelog-and-Markdown-snippets) - 🌞 Snippets for the creation of changelogs in VSCode! Maintain a 𝗰𝗵𝗮𝗻𝗴𝗲𝗹𝗼𝗴 following the "use a changelog" guide 📜
 - [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude) - Custom GitHub profile for Eddie Jaoude
 - [Chris-Engelhardt/data_sci_guide](https://github.com/Chris-Engelhardt/data_sci_guide) - A community-sourced data science repo.
 - [docker-captains/about](https://github.com/docker-captains/about) - Docker Captains and Our Projects
@@ -3008,7 +3018,6 @@
 - [microsoft/CSS-Exchange](https://github.com/microsoft/CSS-Exchange) - Exchange Server support tools and scripts
 - [hmerritt/win10-setup](https://github.com/hmerritt/win10-setup) - Windows 10 setup scripts for fresh installs
 - [nickrod518/PowerShell-Scripts](https://github.com/nickrod518/PowerShell-Scripts) - PowerShell scripts ranging from SCCM, MSO, AD, and other corporate enterprise uses... to sending cat facts to coworkers.
-- [Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
 - [MicrosoftDocs/windows-itpro-docs](https://github.com/MicrosoftDocs/windows-itpro-docs) - This is used for contributions to the Windows 10 content for IT professionals on docs.microsoft.com.
 - [sqlcollaborative/dbatools](https://github.com/sqlcollaborative/dbatools) - 🚀 SQL Server automation and instance migrations have never been safer, faster or freer
 - [matt9ucci/DockerCompletion](https://github.com/matt9ucci/DockerCompletion) - Docker command completion for PowerShell.
@@ -3252,7 +3261,7 @@
 - [lggruspe/slipbox](https://github.com/lggruspe/slipbox) - A static site generator for Zettelkasten notes
 - [djplaner/memex](https://github.com/djplaner/memex) - Nascent attempt at using Foam to curate and leverage a personal memex
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
-- [ctuning/ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize black-box research software as a database of reusable components and micro-services with common APIs, automation actions and extensible meta descriptions. See real-world use cases from Arm, General Motors, ACM, Raspberry Pi foundation, MLPerf and other great partners:
+- [ctuning/ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize GitHub projects, Docker images and Jupyter Notebooks as a database of reusable components and micro-services with common APIs, automation actions and extensible meta descriptions based on FAIR principles. See real-world use cases from Arm, GM, the Raspberry Pi foundation, ACM and MLPerf:
 - [bhrigu123/classifier](https://github.com/bhrigu123/classifier) - Organize files in your directory instantly, by classifying them into different folders
 - [mcharleb/gittagstats](https://github.com/mcharleb/gittagstats) - 
 - [jctanner/ansible-tools](https://github.com/jctanner/ansible-tools) - 
@@ -3482,6 +3491,14 @@
 
 ## R 
 
+- [subugoe/metar](https://github.com/subugoe/metar) - Documentation and suggested best practices for data analysis at WAG
+- [subugoe/hoad](https://github.com/subugoe/hoad) - Hybrid Open Access Dashboard
+- [subugoe/muggle](https://github.com/subugoe/muggle) - Opinionated Devops for R Data Products Strictly Without Magic
+- [Sparrow0hawk/mynearestleedsmarginal](https://github.com/Sparrow0hawk/mynearestleedsmarginal) - R Shiny web app getting volunteers to marginal seats
+- [sckott/chimpr](https://github.com/sckott/chimpr) - mailchimp R client
+- [PavanVaddady/modvizpop](https://github.com/PavanVaddady/modvizpop) - R Shiny Based Population PK/PD Model Simulator
+- [ropensci/nlrx](https://github.com/ropensci/nlrx) - nlrx NetLogo R
+- [maelle/exemplighratia](https://github.com/maelle/exemplighratia) - Example package for https://github.com/ropensci-books/http-testing
 - [flujoo/erify](https://github.com/flujoo/erify) - R package to check arguments and generate informative and good-formatted error messages
 - [yogesh1612/spotify_shiny_app](https://github.com/yogesh1612/spotify_shiny_app) - 
 - [GegznaV/addins.rs](https://github.com/GegznaV/addins.rs) - :heavy_check_mark:  RStudio add-ins to insert and modify text (R package)
@@ -4480,6 +4497,7 @@
 - [cc-skuehn/Demo_Dashboard](https://github.com/cc-skuehn/Demo_Dashboard) - Interactive Dashboard in R using flexdashboard, shiny and plotly
 - [pablobernabeu/Data-is-present](https://github.com/pablobernabeu/Data-is-present) - This project offered free activities to practise reproducible data presentation. Pablo Bernabeu organised these events in the context of a Software Sustainability Institute Fellowship.
 - [empirical-path/rshiny-ga-article-attribution-dashboard](https://github.com/empirical-path/rshiny-ga-article-attribution-dashboard) - Source code for R Shiny Dashboard
+- [dreamRs/capture](https://github.com/dreamRs/capture) - Take screenshots in Shiny apps
 - [gaborcsardi/roxygenlabs](https://github.com/gaborcsardi/roxygenlabs) - Experimental roxygen tags and extensions
 - [chadih/Actuary-Project](https://github.com/chadih/Actuary-Project) - Tarification, forecast, etc...
 - [zchmielewska/actuaryr](https://github.com/zchmielewska/actuaryr) - 
@@ -6033,7 +6051,7 @@
 - [partycorgi/discord-slash-commands](https://github.com/partycorgi/discord-slash-commands) - slash commands!
 - [zoni/obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
 - [anyshortcut/anyshortcut-cli](https://github.com/anyshortcut/anyshortcut-cli) - CLI (Commnad line interface) version of Anyshortcut
-- [Shriram-Balaji/cli-hex-rgb](https://github.com/Shriram-Balaji/cli-hex-rgb) - A Rust CLI Program to convert hexadecimal color-code to RGB
+- [shrirambalaji/cli-hex-rgb](https://github.com/shrirambalaji/cli-hex-rgb) - A Rust CLI Program to convert hexadecimal color-code to RGB
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
@@ -6146,6 +6164,7 @@
 - [satackey/action-google-drive](https://github.com/satackey/action-google-drive) - GitHub Action to interact with Google Drive
 - [keeporsweep/keeporsweep.net](https://github.com/keeporsweep/keeporsweep.net) - 💻🔀🗑️ Randomly declutter your digital life!
 - [bntzio/wipe-modules](https://github.com/bntzio/wipe-modules) - 🗑️ Easily remove the node_modules folder of non-active projects
+- [Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
 - [SymbolixAU/gke-mongodb-demo](https://github.com/SymbolixAU/gke-mongodb-demo) - Demo project showing how to deploy MongoDB on the Google Container Engine (GKE) with Kubernetes
 - [nickjj/notes](https://github.com/nickjj/notes) - A zero dependency shell script that makes it really simple to manage your text notes.
 - [divine-dotfiles/divine-dotfiles](https://github.com/divine-dotfiles/divine-dotfiles) - Divine.dotfiles: The Bash framework for dotfiles and everything Bash
@@ -6479,6 +6498,7 @@
 
 ## TypeScript 
 
+- [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [RandomFractals/vscode-data-preview](https://github.com/RandomFractals/vscode-data-preview) - Data Preview 🈸 extension for importing 📤 viewing 🔎 slicing 🔪 dicing 🎲  charting 📊 & exporting 📥 large JSON array/config, YAML, Apache Arrow, Avro, Parquet & Excel data files
 - [algolia/autocomplete](https://github.com/algolia/autocomplete) - 🔮 Fast and full-featured autocomplete library
 - [charliecm/obsidian-tidy-footnotes](https://github.com/charliecm/obsidian-tidy-footnotes) - Tidy your footnotes seamlessly in Obsidian.
