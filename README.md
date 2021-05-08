@@ -223,6 +223,7 @@
 - [r-lib/fs](https://github.com/r-lib/fs) - Provide cross platform file operations based on libuv.
 - [hrbrmstr/tdigest](https://github.com/hrbrmstr/tdigest) - Wicked Fast, Accurate Quantiles Using 't-Digests'
 - [wrathematics/meanr](https://github.com/wrathematics/meanr) - A sentiment analysis package for R.
+- [randy3k/collections](https://github.com/randy3k/collections) - High-performance container datatypes for R
 - [gaborcsardi/parsedate](https://github.com/gaborcsardi/parsedate) - R package to parse dates given in arbitrary formats
 - [vigou3/actuar](https://github.com/vigou3/actuar) - Actuarial functions and heavy tailed distributions for R
 - [eddelbuettel/digest](https://github.com/eddelbuettel/digest) - R package to create compact hash digests of R objects
@@ -552,7 +553,6 @@
 - [assemble/assemble](https://github.com/assemble/assemble) - Get the rocks out of your socks! Assemble makes you fast at web development! Used by thousands of projects for rapid prototyping, themes, scaffolds, boilerplates, e-books, UI components, API documentation, blogs, building websites/static site generator, an alternative to Jekyll for gh-pages and more! Gulp- and grunt-friendly.
 - [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️A static blog writing client (一个静态博客写作客户端)
 - [rstudio-education/glossRy](https://github.com/rstudio-education/glossRy) - A glossary of terms used in  and around data science.
-- [crisrojas/Zettels](https://github.com/crisrojas/Zettels) - Zettels Hugo Theme
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [busterbenson/obsidian](https://github.com/busterbenson/obsidian) - Obsidian Letterpress Notes
@@ -1004,7 +1004,7 @@
 - [overtrue/wisteria](https://github.com/overtrue/wisteria) - Beautiful document tool for your project.
 - [lyfeyaj/awesome-resources](https://github.com/lyfeyaj/awesome-resources) - Awesome resources for coding and learning: open source projects, websites, books e.g.
 - [maximevaillancourt/digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Start your own digital garden using this Jekyll template 🌱
-- [ropenscilabs/r-docker-tutorial](https://github.com/ropenscilabs/r-docker-tutorial) - A docker tutorial for reproducible research
+- [jsta/r-docker-tutorial](https://github.com/jsta/r-docker-tutorial) - A docker tutorial for reproducible research
 - [kmasiello/pointblank_demo](https://github.com/kmasiello/pointblank_demo) - 
 - [gigsterous/gigsterous.github.io](https://github.com/gigsterous/gigsterous.github.io) - Gigsterous blog for sharing thoughts, technical insights and more.
 - [brennanbrown/enjoyment-work](https://github.com/brennanbrown/enjoyment-work) - 🗃️ A Digital Garden: Capturing my daily thoughts and progress, as well as curated ideas with unique synthesis—a personal zettelkasten. Built on Simply Jekyll by Raghuveer S.
@@ -1139,6 +1139,7 @@
 - [Andreilys/personal_dashboard](https://github.com/Andreilys/personal_dashboard) - A Real-Time Personal Dashboard For Your Life
 - [Naereen/uLogMe](https://github.com/Naereen/uLogMe) - :bar_chart: :chart_with_upwards_trend: Automatically collect and visualize usage statistics on Ubuntu, with :musical_keyboard: key frequencies and :computer: window titles →
 - [pbiecek/pbiecek.github.io](https://github.com/pbiecek/pbiecek.github.io) - My web page
+- [crisrojas/Zettels](https://github.com/crisrojas/Zettels) - Zettels Hugo Theme
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [kutyla-philipp/simple-dash](https://github.com/kutyla-philipp/simple-dash) - A simple, fully responsive Dashboard to forward to the services of your choice!
 - [betterspecs/betterspecs](https://github.com/betterspecs/betterspecs) - RSpec Best Practices
@@ -3008,7 +3009,7 @@
 - [TheRandomLabs/scoop-nonportable](https://github.com/TheRandomLabs/scoop-nonportable) - A Scoop bucket for nonportable applications.
 - [matthewjberger/scoop-nerd-fonts](https://github.com/matthewjberger/scoop-nerd-fonts) - A scoop bucket for installing nerd fonts
 - [lukesampson/scoop-extras](https://github.com/lukesampson/scoop-extras) - "Extras" bucket for Scoop
-- [SegoCode/Reg-importer](https://github.com/SegoCode/Reg-importer) - Easy import registry configurations for new windows install
+- [SegoCode/Reg-importer](https://github.com/SegoCode/Reg-importer) - Easy import registry configurations for new windows install - Json values to registry
 - [Metaljisawa/OptimizationWindowsV1](https://github.com/Metaljisawa/OptimizationWindowsV1) - Short script ps1 for remove the unnecessary part on Windows 10
 - [LeDragoX/Win10SmartDebloat](https://github.com/LeDragoX/Win10SmartDebloat) - This is a improved version from https://github.com/W4RH4WK/Debloat-Windows-10. These scripts will Customize, Debloat and Improve Security/Performance on Windows 10.
 - [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
@@ -5473,7 +5474,6 @@
 - [openbiox/UCSCXenaShiny](https://github.com/openbiox/UCSCXenaShiny) - 📊 An R package for interactively exploring UCSC Xena https://xenabrowser.net/datapages/
 - [JhuangLab/BioInstaller](https://github.com/JhuangLab/BioInstaller) - A comprehensive R package to construct interactive and reproducible biological data analysis applications based on the R platform
 - [clindet/anor](https://github.com/clindet/anor) - anor: an annotation and visualization system based on R and Shiny framework
-- [randy3k/collections](https://github.com/randy3k/collections) - High-performance container datatypes for R
 - [strboul/supreme](https://github.com/strboul/supreme) - Generate UML diagrams of Shiny modules
 - [skranz/appForms](https://github.com/skranz/appForms) - Tools to create and arrange input forms for shiny apps using simple yaml field specification
 - [skranz/webforms](https://github.com/skranz/webforms) - Forms for shinyEvents apps
