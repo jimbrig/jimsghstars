@@ -238,6 +238,7 @@
 
 ## C# # 
 
+- [cloudevents/sdk-csharp](https://github.com/cloudevents/sdk-csharp) - CSharp SDK for CloudEvents
 - [ibigbug/PowerSession](https://github.com/ibigbug/PowerSession) - Record a Session in PowerShell
 - [brminnick/GitTrends](https://github.com/brminnick/GitTrends) - A iOS and Android app to monitor the views and clones of your GitHub repos
 - [fredatgithub/EventLogReader](https://github.com/fredatgithub/EventLogReader) - Event Log Reader sample
@@ -1139,6 +1140,7 @@
 - [Andreilys/personal_dashboard](https://github.com/Andreilys/personal_dashboard) - A Real-Time Personal Dashboard For Your Life
 - [Naereen/uLogMe](https://github.com/Naereen/uLogMe) - :bar_chart: :chart_with_upwards_trend: Automatically collect and visualize usage statistics on Ubuntu, with :musical_keyboard: key frequencies and :computer: window titles →
 - [pbiecek/pbiecek.github.io](https://github.com/pbiecek/pbiecek.github.io) - My web page
+- [crisrojas/Zettels](https://github.com/crisrojas/Zettels) - Zettels Hugo Theme
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [kutyla-philipp/simple-dash](https://github.com/kutyla-philipp/simple-dash) - A simple, fully responsive Dashboard to forward to the services of your choice!
 - [betterspecs/betterspecs](https://github.com/betterspecs/betterspecs) - RSpec Best Practices
@@ -1914,7 +1916,6 @@
 - [att/rcloud](https://github.com/att/rcloud) - Collaborative data analysis and visualization
 - [adobe/brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-- [crisrojas/Zettels](https://github.com/crisrojas/Zettels) - Zettels Hugo Theme
 - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 - [keithmcnulty/r_package_training](https://github.com/keithmcnulty/r_package_training) - Short training session on building R packages
 - [noplanman/GitHub-Tweaks](https://github.com/noplanman/GitHub-Tweaks) - Userscript that adds tweaks to GitHub.
@@ -3493,6 +3494,7 @@
 
 ## R 
 
+- [rinprod/rip-tools](https://github.com/rinprod/rip-tools) - 
 - [subugoe/metar](https://github.com/subugoe/metar) - Documentation and suggested best practices for data analysis at WAG
 - [subugoe/hoad](https://github.com/subugoe/hoad) - Hybrid Open Access Dashboard
 - [subugoe/muggle](https://github.com/subugoe/muggle) - Opinionated Devops for R Data Products Strictly Without Magic
@@ -6298,7 +6300,6 @@
 - [Xyene/wsl-dotfiles](https://github.com/Xyene/wsl-dotfiles) - My dotfiles for running an i3-based environment within the Windows Subsystem for Linux (WSL).
 - [cretueusebiu/dotfiles](https://github.com/cretueusebiu/dotfiles) - My dotfiles for Windows
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
-- [Parth/dotfiles](https://github.com/Parth/dotfiles) - 
 - [andsens/homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [kazhala/dotbare](https://github.com/kazhala/dotbare) - Manage dotfiles and any git directories interactively with fzf
@@ -6805,6 +6806,7 @@
 - [ntkzwane/kickassdotfiles](https://github.com/ntkzwane/kickassdotfiles) - Dotfiles (configuration files) for various dev tools e.g editors, window managers, themes etc.
 - [antoniosarosi/dotfiles](https://github.com/antoniosarosi/dotfiles) - My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.
 - [willwm/dotfiles](https://github.com/willwm/dotfiles) - My default Linux/macOS/Windows configuration
+- [Parth/dotfiles](https://github.com/Parth/dotfiles) - 
 - [nickjj/dotfiles](https://github.com/nickjj/dotfiles) - Settings for various tools I use.
 - [vim-pandoc/vim-rmarkdown](https://github.com/vim-pandoc/vim-rmarkdown) - Rmarkdown support for vim
 - [jimhester/dotfiles](https://github.com/jimhester/dotfiles) - 
