@@ -1356,6 +1356,8 @@
 
 ## JavaScript 
 
+- [chainsawriot/cranitup](https://github.com/chainsawriot/cranitup) - make CRAN more useful
+- [mayorityz/flutterwave-cli](https://github.com/mayorityz/flutterwave-cli) - A cli tool for flutterwave
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [taher07/dockerized-react-native](https://github.com/taher07/dockerized-react-native) - This repo contains the files required for building a docker container to build an expo managed react native app
@@ -1473,7 +1475,6 @@
 - [sdllc/constructr](https://github.com/sdllc/constructr) - Electron-based R Shell
 - [ttiny/deploy](https://github.com/ttiny/deploy) - Git and Docker deployment tool.
 - [jthegedus/firebase-gcp-examples](https://github.com/jthegedus/firebase-gcp-examples) - 🔥 Firebase app architectures, languages, tools & some GCP things! React w Next.js, Svelte w Sapper, Cloud Functions, Cloud Run.
-- [darekkay/static-marks-app](https://github.com/darekkay/static-marks-app) - Frontend part of the Static Marks project
 - [darekkay/tip-of-the-day](https://github.com/darekkay/tip-of-the-day) - Get your daily knowledge dose
 - [node-modules/npm-updater](https://github.com/node-modules/npm-updater) - Prompt update of npm package
 - [maxkomarychev/react-native-ultimate-config](https://github.com/maxkomarychev/react-native-ultimate-config) - Config that works
@@ -2127,6 +2128,7 @@
 - [wayfair-contribs/gists](https://github.com/wayfair-contribs/gists) - because you can't create gists as an organization
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [jananiarunachalam/Data-Science-Portfolio](https://github.com/jananiarunachalam/Data-Science-Portfolio) - Data Science Projects Repository
+- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [ankur715/Python_R_BusinessAnalytics](https://github.com/ankur715/Python_R_BusinessAnalytics) - python 101, excel business analytics salesrep, R interface python
 - [marcotcr/checklist](https://github.com/marcotcr/checklist) - Beyond Accuracy: Behavioral Testing of NLP models with CheckList
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
@@ -3068,7 +3070,7 @@
 - [vors/ZLocation](https://github.com/vors/ZLocation) - ZLocation is the new Jump-Location
 - [jimbrig/winsetup](https://github.com/jimbrig/winsetup) - Windows 10 Setup
 - [asears/WindowsSetup](https://github.com/asears/WindowsSetup) - Apps for Windows
-- [pratyakshm/CleanWin](https://github.com/pratyakshm/CleanWin) - Makes your Windows 10 PC 🚀 instead of 🚶
+- [pratyakshm/CleanWin](https://github.com/pratyakshm/CleanWin) - Makes your Windows 10 PC 🚀
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [Daksh777/windows10-debloat](https://github.com/Daksh777/windows10-debloat) - Collection of various scripts and apps to debloat Windows 10 for better privacy, performance and optimization.
 - [gordonbay/Windows-On-Reins](https://github.com/gordonbay/Windows-On-Reins) - Windows 10 Ameliorated, Debloat, Optimize, Privacy fix
@@ -3376,7 +3378,6 @@
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup) - Git-integrated backup tool for macOS and Linux devs.
 - [mingrammer/awesome-finder](https://github.com/mingrammer/awesome-finder) - :sunglasses: Search the awesome curated list without browser
 - [pimutils/vdirsyncer](https://github.com/pimutils/vdirsyncer) - 📇 Synchronize calendars and contacts.
@@ -3498,6 +3499,8 @@
 
 ## R 
 
+- [lewinfox/icecream](https://github.com/lewinfox/icecream) - Never use `print()` to debug again.
+- [DominikRafacz/icecream](https://github.com/DominikRafacz/icecream) - Never use `print()` to debug again.
 - [elbersb/segregation](https://github.com/elbersb/segregation) - R package to calculate entropy-based segregation indices, with a focus on the Mutual Information Index (M) and Theil’s Information Index (H)
 - [tidylab/microservices](https://github.com/tidylab/microservices) - Breakdown a Monolithic Application to a Suite of Services
 - [crowding/async](https://github.com/crowding/async) - Asynchronous programming for R -- async/await and generators/yield
@@ -5078,7 +5081,7 @@
 - [ropensci-archive/opendata](https://github.com/ropensci-archive/opendata) - CRAN OpenData Task View
 - [dustin/humanFormat](https://github.com/dustin/humanFormat) - Human formatting for R
 - [ColinFay/odds](https://github.com/ColinFay/odds) - On Disk Data Storage for Cross-Session Access in R
-- [ColumbusCollaboratory/photon](https://github.com/ColumbusCollaboratory/photon) - RStudio Add-in to build Shiny apps utilizing the Electron framework
+- [COVAIL/photon](https://github.com/COVAIL/photon) - RStudio Add-in to build Shiny apps utilizing the Electron framework
 - [abresler/gdeltr2](https://github.com/abresler/gdeltr2) - modern gdelt wrapper for r
 - [MazamaScience/beakr](https://github.com/MazamaScience/beakr) - A Minimalist Web Framework for R
 - [lyndametref/RBoilerplateShinyAppPackage](https://github.com/lyndametref/RBoilerplateShinyAppPackage) - Boilerplate for a packaged shiny app
@@ -6101,6 +6104,7 @@
 ## SCSS 
 
 - [hbctraining/Intro-to-R](https://github.com/hbctraining/Intro-to-R) - 
+- [darekkay/static-marks-app](https://github.com/darekkay/static-marks-app) - Frontend part of the Static Marks project
 - [lvalnegri/workshops-setup_cloud_analytics_machine](https://github.com/lvalnegri/workshops-setup_cloud_analytics_machine) - Tips and Tricks to setup a cloud machine for Analytics and Data Science with R, RStudio and Shiny Servers, Python and JupyterLab
 - [nikvoronin/wtfcrt](https://github.com/nikvoronin/wtfcrt) - A personal wiki-like notebooks aka zettelkasten
 - [andybyers21/notes.ajb.app](https://github.com/andybyers21/notes.ajb.app) - This is the data for my Evergreen notes vault
