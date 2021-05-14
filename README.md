@@ -295,7 +295,7 @@
 - [FulanoD3Tal/UltimateFileManager](https://github.com/FulanoD3Tal/UltimateFileManager) - C# library to manipulate files and folders in Windows enviroment
 - [b3coded/file-organizer](https://github.com/b3coded/file-organizer) - :rocket: Organize your files faster with a few clicks.
 - [saulojoab/Quick-File-Organizer](https://github.com/saulojoab/Quick-File-Organizer) - :rocket: Quickly organize files in a folder with a few clicks.
-- [webprofusion/certify](https://github.com/webprofusion/certify) - SSL Certificate Manager UI for Windows, powered by Let's Encrypt. Download from certifytheweb.com
+- [webprofusion/certify](https://github.com/webprofusion/certify) - SSL Certificate Manager UI for Windows, powered by Let's Encrypt and compatible with all ACME v2 CAs. Download from certifytheweb.com
 - [RickStrahl/MarkdownMonster](https://github.com/RickStrahl/MarkdownMonster) - An extensible Markdown Editor, Viewer and Weblog Publisher for Windows
 - [LazoCoder/Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - Creative and unusual things that can be done with the Windows API.
 - [lucasg/Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
@@ -632,6 +632,7 @@
 
 ## Dart 
 
+- [stablekernel/aqueduct](https://github.com/stablekernel/aqueduct) - Dart HTTP server framework for building REST APIs. Includes PostgreSQL ORM and OAuth2 provider.
 - [sass/migrator](https://github.com/sass/migrator) - Tool for migrating stylesheets to new Sass versions
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [Maddoxx88/next-joke](https://github.com/Maddoxx88/next-joke) - Random Two Part Joke App using Flutter.
@@ -644,6 +645,7 @@
 
 ## Dockerfile 
 
+- [dougmet/docker-plumber](https://github.com/dougmet/docker-plumber) - Minimum docker image to deploy a plumber app
 - [mgibeau/semantic-release-expo-github-action](https://github.com/mgibeau/semantic-release-expo-github-action) - 
 - [tmaier/docker-postgresql-client](https://github.com/tmaier/docker-postgresql-client) - Run the PostgreSQL Client (psql) within a docker container. Excellent for Kubernetes Init Containers
 - [sellorm/dockerfiles](https://github.com/sellorm/dockerfiles) - 
@@ -709,6 +711,7 @@
 
 ## Go 
 
+- [ipinfo/cli](https://github.com/ipinfo/cli) - Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Query, update and convert data structures from the command line. Comparable to jq/yq but supports JSON, TOML, YAML, XML and CSV with zero runtime dependencies.
 - [sethvargo/terraform-provider-googlecalendar](https://github.com/sethvargo/terraform-provider-googlecalendar) - A @HashiCorp Terraform provider for managing Google Calendar events.
@@ -1356,6 +1359,7 @@
 
 ## JavaScript 
 
+- [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization
 - [chainsawriot/cranitup](https://github.com/chainsawriot/cranitup) - make CRAN more useful
 - [mayorityz/flutterwave-cli](https://github.com/mayorityz/flutterwave-cli) - A cli tool for flutterwave
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
@@ -3499,6 +3503,9 @@
 
 ## R 
 
+- [mdneuzerling/r-on-lambda](https://github.com/mdneuzerling/r-on-lambda) - An attempt to get an R runtime and function working on AWS Lambda using a container.
+- [BayerSe/esback](https://github.com/BayerSe/esback) - Expected Shortfall Backtesting
+- [USGS-R/dataRetrieval](https://github.com/USGS-R/dataRetrieval) - This R package is designed to obtain USGS or EPA water quality sample data, streamflow data, and metadata directly from web services. See: http://usgs-r.github.io/dataRetrieval/
 - [lewinfox/icecream](https://github.com/lewinfox/icecream) - Never use `print()` to debug again.
 - [DominikRafacz/icecream](https://github.com/DominikRafacz/icecream) - Never use `print()` to debug again.
 - [elbersb/segregation](https://github.com/elbersb/segregation) - R package to calculate entropy-based segregation indices, with a focus on the Mutual Information Index (M) and Theil’s Information Index (H)
@@ -3647,7 +3654,7 @@
 - [jimbrig/shiny_react_fluent_app](https://github.com/jimbrig/shiny_react_fluent_app) - An experimental shiny application using the shiny.react and shiny.fluent R packages provided by Appsilon.
 - [jonthegeek/stylex](https://github.com/jonthegeek/stylex) - Neural Style Transfer Assistant
 - [jimbrig/shiny.fluent](https://github.com/jimbrig/shiny.fluent) - Microsoft's Fluent UI for Shiny apps.
-- [Appsilon/shiny.fluent](https://github.com/Appsilon/shiny.fluent) - Microsoft's Fluent UI for Shiny apps.
+- [Appsilon/shiny.fluent](https://github.com/Appsilon/shiny.fluent) - Microsoft's Fluent UI for Shiny apps
 - [djnavarro/bs4cards](https://github.com/djnavarro/bs4cards) - Generate Bootstrap 4 Cards
 - [benubah/controldev](https://github.com/benubah/controldev) - A development repository for the control package in R for files in work
 - [opencpu/opencpu](https://github.com/opencpu/opencpu) - OpenCPU system for embedded scientific computation and reproducible research
