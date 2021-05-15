@@ -359,6 +359,7 @@
 
 ## C++ 
 
+- [blm768/pg-libphonenumber](https://github.com/blm768/pg-libphonenumber) - A (partially implemented!) PostgreSQL extension that provides access to Google's libphonenumber
 - [jrwishart/mwaved](https://github.com/jrwishart/mwaved) - mWaveD - R package
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [Ironholds/urltools](https://github.com/Ironholds/urltools) - Elegant URL handling in R
@@ -481,7 +482,7 @@
 - [vivekkatial/uber_shiny](https://github.com/vivekkatial/uber_shiny) - Shiny App to play with uber data
 - [sebastiz/EndoMineR_Shiny](https://github.com/sebastiz/EndoMineR_Shiny) - Shiny app for the EndoMineR library
 - [paeselhz/shiny_gcr_tf](https://github.com/paeselhz/shiny_gcr_tf) - Repository containing basic R Shiny App, github action to build image and terraform to deploy to GCP Cloud Run
-- [bencodezen/night-owl-obsidian](https://github.com/bencodezen/night-owl-obsidian) - An Obsidian theme inspired by the original Night Owl VS Code Theme by Sarah Drasner!
+- [bencodezen/obsidian-night-owl-theme](https://github.com/bencodezen/obsidian-night-owl-theme) - An Obsidian theme inspired by the original Night Owl VS Code Theme by Sarah Drasner!
 - [jbkunst/jbkunst.github.io](https://github.com/jbkunst/jbkunst.github.io) - jbkunst.github.io
 - [jdtrat/jdtratnr](https://github.com/jdtrat/jdtratnr) - 
 - [r4ds/bookclub-mshiny](https://github.com/r4ds/bookclub-mshiny) - Mastering Shiny Book Club
@@ -1359,6 +1360,8 @@
 
 ## JavaScript 
 
+- [googlecodelabs/maps-platform-101-js](https://github.com/googlecodelabs/maps-platform-101-js) - 
+- [asg017/dataflow](https://github.com/asg017/dataflow) - An experimental self-hosted Observable notebook editor, with support for FileAttachments, Secrets, custom standard libraries, and more!
 - [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization
 - [chainsawriot/cranitup](https://github.com/chainsawriot/cranitup) - make CRAN more useful
 - [mayorityz/flutterwave-cli](https://github.com/mayorityz/flutterwave-cli) - A cli tool for flutterwave
@@ -2250,6 +2253,7 @@
 
 ## Others 
 
+- [osamaqarem/reactnative-fastlane-appcenter](https://github.com/osamaqarem/reactnative-fastlane-appcenter) - 🚀 A fastlane step-by-step guide for signing, building and uploading new React Native apps to visual studio app center.
 - [r-darwish/msft-terminal-config](https://github.com/r-darwish/msft-terminal-config) - Microsoft Terminal Configuration
 - [TypeFox/R-Examples](https://github.com/TypeFox/R-Examples) - 
 - [jdaarevalo/docker_postgres_with_data](https://github.com/jdaarevalo/docker_postgres_with_data) - 
@@ -3023,7 +3027,7 @@
 - [lukesampson/scoop-extras](https://github.com/lukesampson/scoop-extras) - "Extras" bucket for Scoop
 - [SegoCode/Reg-importer](https://github.com/SegoCode/Reg-importer) - Easy import registry configurations for new windows install - Json values to registry
 - [Metaljisawa/OptimizationWindowsV1](https://github.com/Metaljisawa/OptimizationWindowsV1) - Short script ps1 for remove the unnecessary part on Windows 10
-- [LeDragoX/Win10SmartDebloat](https://github.com/LeDragoX/Win10SmartDebloat) - This is a improved version from https://github.com/W4RH4WK/Debloat-Windows-10. These scripts will Customize, Debloat and Improve Security/Performance on Windows 10.
+- [LeDragoX/Win10SmartDebloat](https://github.com/LeDragoX/Win10SmartDebloat) - This is an adapted version from https://github.com/W4RH4WK/Debloat-Windows-10. These scripts will Customize, Debloat and Improve Security/Performance on Windows 10.
 - [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
 - [canonical/ubuntu-cooker](https://github.com/canonical/ubuntu-cooker) - Ubuntu WSL UWP Builder
 - [Phil-Factor/SQLCloneFamily](https://github.com/Phil-Factor/SQLCloneFamily) - 
@@ -3274,7 +3278,7 @@
 - [lggruspe/slipbox](https://github.com/lggruspe/slipbox) - A static site generator for Zettelkasten notes
 - [djplaner/memex](https://github.com/djplaner/memex) - Nascent attempt at using Foam to curate and leverage a personal memex
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
-- [ctuning/ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize software projects as a database of reusable components and micro-services with common APIs, automation actions and extensible meta descriptions based on FAIR principles. See real-world use cases from MLPerf, Arm, GM, the Raspberry Pi foundation and ACM:
+- [ctuning/ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize software projects as a database of reusable components and micro-services with common APIs, automation actions and extensible meta descriptions based on FAIR principles. See real-world use cases from MLPerf(tm), General Motors, Arm,, the Raspberry Pi foundation and ACM:
 - [bhrigu123/classifier](https://github.com/bhrigu123/classifier) - Organize files in your directory instantly, by classifying them into different folders
 - [mcharleb/gittagstats](https://github.com/mcharleb/gittagstats) - 
 - [jctanner/ansible-tools](https://github.com/jctanner/ansible-tools) - 
@@ -3503,6 +3507,7 @@
 
 ## R 
 
+- [TheMITTech/shiny-apps](https://github.com/TheMITTech/shiny-apps) - Docker configuration and R code for The Tech's Shiny web apps
 - [mdneuzerling/r-on-lambda](https://github.com/mdneuzerling/r-on-lambda) - An attempt to get an R runtime and function working on AWS Lambda using a container.
 - [BayerSe/esback](https://github.com/BayerSe/esback) - Expected Shortfall Backtesting
 - [USGS-R/dataRetrieval](https://github.com/USGS-R/dataRetrieval) - This R package is designed to obtain USGS or EPA water quality sample data, streamflow data, and metadata directly from web services. See: http://usgs-r.github.io/dataRetrieval/
@@ -6260,7 +6265,7 @@
 - [yonicd/heroku-buildpack-r](https://github.com/yonicd/heroku-buildpack-r) - Heroku buildpack for R (http://www.r-project.org)
 - [KushagraKarira/Debloat](https://github.com/KushagraKarira/Debloat) - Remove ads, bloatware and speed up your device.
 - [pimterry/notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
-- [m0wer/tiddlywiki-docker](https://github.com/m0wer/tiddlywiki-docker) - NodeJS based TiddlyWiki 5 Docker image.
+- [m0wer/tiddlywiki-docker](https://github.com/m0wer/tiddlywiki-docker) - [UNMAINTAINED] NodeJS based TiddlyWiki 5 Docker image.
 - [mrhwick/journal](https://github.com/mrhwick/journal) - easily installed and used CLI journal using obsidian
 - [donnaken15/Autocommit](https://github.com/donnaken15/Autocommit) - using rather than committing every week holding back specific data, to look like any other user making daily contributions
 - [leongrdic/wsl-alias](https://github.com/leongrdic/wsl-alias) - Create aliases for Linux commands in Windows command line (for WSL)
