@@ -359,6 +359,7 @@
 
 ## C++ 
 
+- [googleapis/google-cloud-cpp](https://github.com/googleapis/google-cloud-cpp) - C++ Client Libraries for Google Cloud Services
 - [blm768/pg-libphonenumber](https://github.com/blm768/pg-libphonenumber) - A (partially implemented!) PostgreSQL extension that provides access to Google's libphonenumber
 - [jrwishart/mwaved](https://github.com/jrwishart/mwaved) - mWaveD - R package
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
@@ -680,6 +681,7 @@
 
 ## Elixir 
 
+- [peburrows/goth](https://github.com/peburrows/goth) - Elixir package for Oauth authentication via Google Cloud APIs
 - [supabase/realtime](https://github.com/supabase/realtime) - Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.
 - [daryllxd/lifelong-learning](https://github.com/daryllxd/lifelong-learning) - ✅ ✅ ✅ A massive repo filled with notes on everything from coding to philosophy to psychology to marketing to product
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
@@ -712,6 +714,8 @@
 
 ## Go 
 
+- [GoogleCloudPlatform/gcping](https://github.com/GoogleCloudPlatform/gcping) - Like gcping.com but a command line tool
+- [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [ipinfo/cli](https://github.com/ipinfo/cli) - Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Query, update and convert data structures from the command line. Comparable to jq/yq but supports JSON, TOML, YAML, XML and CSV with zero runtime dependencies.
@@ -914,6 +918,7 @@
 
 ## HTML 
 
+- [imjasonh/gcping](https://github.com/imjasonh/gcping) - Measure your latency to GCP regions
 - [topepo/an-introduction-to-tidymodels](https://github.com/topepo/an-introduction-to-tidymodels) - Overview of our packages
 - [dbworker/dbcollect](https://github.com/dbworker/dbcollect) - dbtools utility scripts
 - [seankross/postcards](https://github.com/seankross/postcards) - 💌 Create simple, beautiful personal websites and landing pages using only R Markdown.
@@ -1314,6 +1319,7 @@
 
 ## Java 
 
+- [GoogleCloudPlatform/bigquery-utils](https://github.com/GoogleCloudPlatform/bigquery-utils) - Useful scripts, udfs, views, and other utilities for migration and data warehouse operations in BigQuery.
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
 - [react-native-svg/react-native-svg](https://github.com/react-native-svg/react-native-svg) - SVG library for React Native, React Native Web, and plain React web projects.
@@ -1360,6 +1366,11 @@
 
 ## JavaScript 
 
+- [tevix/seneca-gcloudpubsub-transport](https://github.com/tevix/seneca-gcloudpubsub-transport) - Google Pub/Sub transport for seneca services
+- [doitintl/gSlack](https://github.com/doitintl/gSlack) - Get Slack notifications from Google Cloud Platform
+- [GabiAxel/google-cloud-gui](https://github.com/GabiAxel/google-cloud-gui) - GUI for Google Cloud Datastore emulator and production
+- [EQuimper/All-About-Programming](https://github.com/EQuimper/All-About-Programming) - Everything about programming!!
+- [firebase/functions-samples](https://github.com/firebase/functions-samples) - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase
 - [googlecodelabs/maps-platform-101-js](https://github.com/googlecodelabs/maps-platform-101-js) - 
 - [asg017/dataflow](https://github.com/asg017/dataflow) - An experimental self-hosted Observable notebook editor, with support for FileAttachments, Secrets, custom standard libraries, and more!
 - [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization
@@ -1504,7 +1515,6 @@
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [zeroturnaround/sql-formatter](https://github.com/zeroturnaround/sql-formatter) - A whitespace formatter for different query languages
-- [ankane/pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
 - [toorshia/justgage](https://github.com/toorshia/justgage) - JustGage is a handy JavaScript plugin for generating and animating nice & clean dashboard gauges. It is based on Raphaël library for vector drawing.
 - [holistics/dbml](https://github.com/holistics/dbml) - Database Markup Language (DBML), designed to define and document database structures
 - [swsoyee/r3dmol](https://github.com/swsoyee/r3dmol) - 🧬 An R package for visualizing molecular data in 3D
@@ -2253,6 +2263,9 @@
 
 ## Others 
 
+- [ivan-curada/Awesome-GCP](https://github.com/ivan-curada/Awesome-GCP) - Xyza's Notes about Google Cloud Platform
+- [hrvolapeter/awesome-gcp](https://github.com/hrvolapeter/awesome-gcp) - A curated list of awesome Google Cloud Platform (GCP) libraries, open source repos, guides, blogs, and other resources.
+- [gnkr8/awesome-gcp](https://github.com/gnkr8/awesome-gcp) - A curated list of Google Cloud Platform
 - [osamaqarem/reactnative-fastlane-appcenter](https://github.com/osamaqarem/reactnative-fastlane-appcenter) - 🚀 A fastlane step-by-step guide for signing, building and uploading new React Native apps to visual studio app center.
 - [r-darwish/msft-terminal-config](https://github.com/r-darwish/msft-terminal-config) - Microsoft Terminal Configuration
 - [TypeFox/R-Examples](https://github.com/TypeFox/R-Examples) - 
@@ -2272,7 +2285,7 @@
 - [TechPrimers/whats-your-architecture](https://github.com/TechPrimers/whats-your-architecture) - "What's your Architecture?" is a series of architecture and design challenges to voice out the opinions of the TechPrimers community members.
 - [jimsforks/burglr](https://github.com/jimsforks/burglr) - Copy Functions from Other Packages Without Adding Them As Dependencies
 - [llrs/cran_histories](https://github.com/llrs/cran_histories) - Recollection of exchanges with CRAN reviewers and maintainer
-- [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support) - Thunder Client is a Rest API Client Extension for Visual Studio Code.
+- [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support) - Thunder Client is a lightweight Rest API Client Extension for VS Code.
 - [drat-base/drat](https://github.com/drat-base/drat) - Sample drat repository for easy forking and bootstrapping
 - [jamespooley/shiny-resources](https://github.com/jamespooley/shiny-resources) - An annotated bibliography of resources for building Shiny apps
 - [ozean12/pay-after-delivery-api-specs](https://github.com/ozean12/pay-after-delivery-api-specs) - 
@@ -2965,6 +2978,7 @@
 
 ## PHP 
 
+- [petitpress/gps-messenger-bundle](https://github.com/petitpress/gps-messenger-bundle) - The bundle provides a simple implementation of Google Pub/Sub transport for Symfony Messenger.
 - [agorakit/agorakit](https://github.com/agorakit/agorakit) - Organization tool for citizen's collectives
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is a fully scalable open source e-commerce solution.
 - [WP-API/Basic-Auth](https://github.com/WP-API/Basic-Auth) - Basic Authentication handler for the JSON API, used for development and debugging purposes
@@ -3168,6 +3182,7 @@
 
 ## Python 
 
+- [spotify/gcp-audit](https://github.com/spotify/gcp-audit) - A tool for auditing security properties of GCP projects.
 - [randy3k/SendCode](https://github.com/randy3k/SendCode) - Send code and text to macOS and Linux Terminals, iTerm, ConEmu, Cmder, Tmux, Terminus; R (RStudio), Julia, IPython.
 - [hynek/environ-config](https://github.com/hynek/environ-config) - Python Application Configuration With Environment Variables
 - [smart-data-models/data-models](https://github.com/smart-data-models/data-models) - A joint collaboration program to support the adoption of a reference architecture and compatible common data models underpinning a digital market of interoperable and replicable smart solutions.
@@ -3507,6 +3522,8 @@
 
 ## R 
 
+- [nwstephens/secrets](https://github.com/nwstephens/secrets) - Deploying data products with the config package
+- [tanaylab/tgconfig](https://github.com/tanaylab/tgconfig) - The goal of tgconfig is to provide infrastructure for managing package parameters, (inspired by https://github.com/r-lib/pkgconfig)
 - [TheMITTech/shiny-apps](https://github.com/TheMITTech/shiny-apps) - Docker configuration and R code for The Tech's Shiny web apps
 - [mdneuzerling/r-on-lambda](https://github.com/mdneuzerling/r-on-lambda) - An attempt to get an R runtime and function working on AWS Lambda using a container.
 - [BayerSe/esback](https://github.com/BayerSe/esback) - Expected Shortfall Backtesting
@@ -3633,7 +3650,7 @@
 - [klmr/unpack](https://github.com/klmr/unpack) - Vector unpack assignment syntax for R
 - [klmr/minimappr](https://github.com/klmr/minimappr) - Code minimaps for R
 - [klmr/sys](https://github.com/klmr/sys) - Easily create reusable command line scripts with R
-- [ryushida/shinymoney](https://github.com/ryushida/shinymoney) - R Shiny + PostgreSQL application for managing and visualizing expenses + net worth
+- [ryuheidf/shinymoney](https://github.com/ryuheidf/shinymoney) - R Shiny + PostgreSQL application for managing and visualizing expenses + net worth
 - [meerapatelmd/rubix](https://github.com/meerapatelmd/rubix) - R package with wrapper functions of the Tidyverse package suite.
 - [meerapatelmd/glitter](https://github.com/meerapatelmd/glitter) - R package for making basic git commands from the R console and deploying packages and GitHub Pages
 - [guyschvitz/pgtools](https://github.com/guyschvitz/pgtools) - Helper functions to interact with Postgres from R
@@ -6014,6 +6031,7 @@
 - [github/linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [holistics/pgcp](https://github.com/holistics/pgcp) - Copying tables between Postgres databases (for analytics purpose)
 - [randym/axlsx](https://github.com/randym/axlsx) - xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your xlsx file before serialization so you know for sure that anything generated is going to load on your client's machine.
+- [ankane/pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
 - [librariesio/libraries.io](https://github.com/librariesio/libraries.io) - :books: The Open Source Discovery Service
 - [siteinspector/siteinspector](https://github.com/siteinspector/siteinspector) - A tool for catching spelling errors, grammatical errors, broken links, and other errors on websites.
 - [voostindie/vincents-productivity-suite-for-alfred](https://github.com/voostindie/vincents-productivity-suite-for-alfred) - A CLI and automatically generated Alfred workflows to make my daily computer work more efficient.
@@ -6115,6 +6133,7 @@
 
 ## SCSS 
 
+- [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
 - [hbctraining/Intro-to-R](https://github.com/hbctraining/Intro-to-R) - 
 - [darekkay/static-marks-app](https://github.com/darekkay/static-marks-app) - Frontend part of the Static Marks project
 - [lvalnegri/workshops-setup_cloud_analytics_machine](https://github.com/lvalnegri/workshops-setup_cloud_analytics_machine) - Tips and Tricks to setup a cloud machine for Analytics and Data Science with R, RStudio and Shiny Servers, Python and JupyterLab
@@ -6163,6 +6182,9 @@
 
 ## Shell 
 
+- [GoogleCloudPlatform/gke-monitoring-tutorial](https://github.com/GoogleCloudPlatform/gke-monitoring-tutorial) - This project walks you through setting up monitoring and visualizing metrics from a Kubernetes Engine cluster. The logs from the Kubernetes Engine cluster will be leveraged to walk through the monitoring capabilities of Stackdriver.
+- [JeffDeCola/my-cheat-sheets](https://github.com/JeffDeCola/my-cheat-sheets) - A place to keep all my cheat sheets for the complete development of ASIC/FPGA hardware or a software app/service.
+- [actions-hub/gcloud](https://github.com/actions-hub/gcloud) - GitHub Action for interacting with Google Cloud Platform (GCP)
 - [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts) - 100+ SQL Scripts - PostgreSQL, MySQL, Google BigQuery, MariaDB, AWS Athena. DevOps / DBA / Analytics / performance engineering. Google BigQuery ML machine learning classification.
 - [bbugyi200/cookie](https://github.com/bbugyi200/cookie) - A Template-based File Generator. Like cookiecutter but works with file templates instead of project templates.
 - [nvie/git-toolbelt](https://github.com/nvie/git-toolbelt) - A suite of useful Git commands that aid with scripting or every day command line usage
