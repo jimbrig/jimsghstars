@@ -3522,6 +3522,8 @@
 
 ## R 
 
+- [johnaponte/shinyPassprot](https://github.com/johnaponte/shinyPassprot) - Easy way to generate a password protected shiny app
+- [johnaponte/repana](https://github.com/johnaponte/repana) - Repetible Analysis in  R
 - [nwstephens/secrets](https://github.com/nwstephens/secrets) - Deploying data products with the config package
 - [tanaylab/tgconfig](https://github.com/tanaylab/tgconfig) - The goal of tgconfig is to provide infrastructure for managing package parameters, (inspired by https://github.com/r-lib/pkgconfig)
 - [TheMITTech/shiny-apps](https://github.com/TheMITTech/shiny-apps) - Docker configuration and R code for The Tech's Shiny web apps
@@ -5509,7 +5511,7 @@
 - [tmobile/loadtest](https://github.com/tmobile/loadtest) - an R package that automates performance testing of ML models and summarizes the results in a dashboard w/ rad visualizations
 - [mkearney/rstudiothemes](https://github.com/mkearney/rstudiothemes) - A curated list of RStudio themes found on Github
 - [milosvil/RecodeReorder](https://github.com/milosvil/RecodeReorder) - RStudio addin for interactively renaming, collapsing and reordering factor levels.
-- [stevecondylios/rawr](https://github.com/stevecondylios/rawr) - Extract the raw R code directly from webpages, including Github, Kaggle, Stack Overflow, Datacamp, and sites made using Blogdown.
+- [stevecondylios/rawr](https://github.com/stevecondylios/rawr) - Extract the raw R code directly from webpages, including Github, Kaggle, Stack Overflow, and sites made using Blogdown.
 - [pablobarbera/instaR](https://github.com/pablobarbera/instaR) - Dev version of instaR package: Access to Instagram API via R
 - [tylermorganwall/rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization
 - [JeanBertinR/shinyML](https://github.com/JeanBertinR/shinyML) - shinyML is a R package that use h2o and Spark  frameworks to easily compare supervised machine learning models on regression or classification tasks (published on CRAN in July 2019)
@@ -5852,7 +5854,7 @@
 - [hafen/packagedocs](https://github.com/hafen/packagedocs) - 
 - [JohnCoene/mjml](https://github.com/JohnCoene/mjml) - 📨  Create responsive emails with R
 - [mrchypark/sendgridr](https://github.com/mrchypark/sendgridr) - Mail Sender Using SendGrid mail API
-- [mrkaye97/slackr](https://github.com/mrkaye97/slackr) - A package to send messages to Slack channels/users from R
+- [mrkaye97/slackr](https://github.com/mrkaye97/slackr) - An R package for sending messages from R to Slack
 - [bnosac/cronR](https://github.com/bnosac/cronR) - A simple R package for managing your cron jobs.
 - [aoles/shinyURL](https://github.com/aoles/shinyURL) - :link: Save and restore the state of Shiny app's widgets by encoding them in an URL query string
 - [Appsilon/readmebuilder](https://github.com/Appsilon/readmebuilder) - 
@@ -5907,7 +5909,7 @@
 - [r-lib/withr](https://github.com/r-lib/withr) - Methods For Temporarily Modifying Global State
 - [cboettig/template](https://github.com/cboettig/template) - :package: A template for my research projects, based on the R package structure
 - [jhollist/manuscriptPackage](https://github.com/jhollist/manuscriptPackage) - Template for writing manuscripts as an R package
-- [ropenscilabs/dataspice](https://github.com/ropenscilabs/dataspice) - :hot_pepper: Create lightweight schema.org descriptions of your datasets
+- [ropensci/dataspice](https://github.com/ropensci/dataspice) - :hot_pepper: Create lightweight schema.org descriptions of your datasets
 - [ropensci/visdat](https://github.com/ropensci/visdat) - Preliminary Exploratory Visualisation of Data
 - [njtierney/naniar](https://github.com/njtierney/naniar) - Tidy data structures, summaries, and visualisations for missing data
 - [mdlincoln/internaldata](https://github.com/mdlincoln/internaldata) - Package skeleton to demonstrate a challenge with internal R package data
