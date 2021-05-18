@@ -714,6 +714,7 @@
 
 ## Go 
 
+- [google/gnostic](https://github.com/google/gnostic) - A compiler for APIs described by the OpenAPI Specification with plugins for code generation and other API support tasks.
 - [GoogleCloudPlatform/gcping](https://github.com/GoogleCloudPlatform/gcping) - Like gcping.com but a command line tool
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [ipinfo/cli](https://github.com/ipinfo/cli) - Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
@@ -918,6 +919,7 @@
 
 ## HTML 
 
+- [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
 - [imjasonh/gcping](https://github.com/imjasonh/gcping) - Measure your latency to GCP regions
 - [topepo/an-introduction-to-tidymodels](https://github.com/topepo/an-introduction-to-tidymodels) - Overview of our packages
 - [dbworker/dbcollect](https://github.com/dbworker/dbcollect) - dbtools utility scripts
@@ -1319,6 +1321,8 @@
 
 ## Java 
 
+- [swagger-api/swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
+- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [GoogleCloudPlatform/bigquery-utils](https://github.com/GoogleCloudPlatform/bigquery-utils) - Useful scripts, udfs, views, and other utilities for migration and data warehouse operations in BigQuery.
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
@@ -1366,6 +1370,10 @@
 
 ## JavaScript 
 
+- [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
+- [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.0 format
+- [apiaryio/dredd](https://github.com/apiaryio/dredd) - Language-agnostic HTTP API Testing Tool
+- [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [tevix/seneca-gcloudpubsub-transport](https://github.com/tevix/seneca-gcloudpubsub-transport) - Google Pub/Sub transport for seneca services
 - [doitintl/gSlack](https://github.com/doitintl/gSlack) - Get Slack notifications from Google Cloud Platform
 - [GabiAxel/google-cloud-gui](https://github.com/GabiAxel/google-cloud-gui) - GUI for Google Cloud Datastore emulator and production
@@ -1911,7 +1919,6 @@
 - [wleepang/shiny-pager-ui](https://github.com/wleepang/shiny-pager-ui) - A paging input for R/Shiny applications
 - [lawalter/r-shiny-electron-app](https://github.com/lawalter/r-shiny-electron-app) - Guide to desktop app creation using R Shiny and Electron
 - [gyang274/ygdashboard](https://github.com/gyang274/ygdashboard) - A modified shinydashboard to incorporate more functionality from adminLTE
-- [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 - [caub/github-clean-forks](https://github.com/caub/github-clean-forks) - :octocat: Manage your unused forks
 - [hakanu/pervane](https://github.com/hakanu/pervane) - Plain text file based note taking and knowledge base building tool, markdown editor, simple browser IDE.
 - [khaosdoctor/my-notes](https://github.com/khaosdoctor/my-notes) - :memo: Just a repo with my study notes. A simple notebook
@@ -2224,6 +2231,7 @@
 
 ## Mustache 
 
+- [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 - [bitnami/charts](https://github.com/bitnami/charts) - Helm Charts
 
 ## Nim 
@@ -2263,6 +2271,8 @@
 
 ## Others 
 
+- [topepo/2021-LA-RUG](https://github.com/topepo/2021-LA-RUG) - An introduction to workflow sets
+- [nickforr/rsetup](https://github.com/nickforr/rsetup) - Manage a list of R packages I find useful
 - [ivan-curada/Awesome-GCP](https://github.com/ivan-curada/Awesome-GCP) - Xyza's Notes about Google Cloud Platform
 - [hrvolapeter/awesome-gcp](https://github.com/hrvolapeter/awesome-gcp) - A curated list of awesome Google Cloud Platform (GCP) libraries, open source repos, guides, blogs, and other resources.
 - [gnkr8/awesome-gcp](https://github.com/gnkr8/awesome-gcp) - A curated list of Google Cloud Platform
@@ -3182,6 +3192,9 @@
 
 ## Python 
 
+- [marshmallow-code/apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [bbelyeu/tutorial-openapi-aiohttp](https://github.com/bbelyeu/tutorial-openapi-aiohttp) - Tutorial for learning OpenAPI spec + Connexion + AioHTTP + Google API Design Guide
 - [spotify/gcp-audit](https://github.com/spotify/gcp-audit) - A tool for auditing security properties of GCP projects.
 - [randy3k/SendCode](https://github.com/randy3k/SendCode) - Send code and text to macOS and Linux Terminals, iTerm, ConEmu, Cmder, Tmux, Terminus; R (RStudio), Julia, IPython.
 - [hynek/environ-config](https://github.com/hynek/environ-config) - Python Application Configuration With Environment Variables
@@ -3522,6 +3535,22 @@
 
 ## R 
 
+- [atheriel/openmetrics](https://github.com/atheriel/openmetrics) - An opinionated Prometheus client for R conforming to the OpenMetrics standard
+- [NiccoloSalvini/Dockerized-Plumber-API](https://github.com/NiccoloSalvini/Dockerized-Plumber-API) - Plumber API service reverse proxied with NGINX
+- [virtualstaticvoid/heroku-docker-r-plumber-app](https://github.com/virtualstaticvoid/heroku-docker-r-plumber-app) - Example Plumber Application on Heroku using heroku-docker-r
+- [jbixon13/mario](https://github.com/jbixon13/mario) - Implementing REST APIs through R Plumber
+- [Chrisjb/rstudio-dev-docker](https://github.com/Chrisjb/rstudio-dev-docker) - Rstudio development environment using docker compose
+- [j-buitrago/Scalable-R-API](https://github.com/j-buitrago/Scalable-R-API) - The main purpose of this project is provide a method to create a scalable API using R
+- [atheriel/httpproblems](https://github.com/atheriel/httpproblems) - Report errors from R APIs using "Problem Details" (RFC 7807)
+- [andybega/plumber.pack](https://github.com/andybega/plumber.pack) - Minimal example of a R package backing a plumber API
+- [r-lib/gargle](https://github.com/r-lib/gargle) - Infrastructure for calling Google APIs from R, including auth
+- [hrbrmstr/weekly-dmarc-grabber](https://github.com/hrbrmstr/weekly-dmarc-grabber) - Weekly DMARC Grabs of the Rapid7 1500
+- [startyourlab/r-project-template](https://github.com/startyourlab/r-project-template) - A template to start R projects with R Studio, using version control via Git and GitHub by default.
+- [sahirbhatnagar/manhattanly](https://github.com/sahirbhatnagar/manhattanly) - 
+- [cderv/demo-rstrap](https://github.com/cderv/demo-rstrap) - EXPERIMENTAL - R Markdown without Bootstrap dependency
+- [cloudyr/bigQueryR](https://github.com/cloudyr/bigQueryR) - R Interface with Google BigQuery
+- [nickforr/swagger](https://github.com/nickforr/swagger) - :construction_worker: Build R API Packages Automatically from Swagger &lt;http://swagger.io&gt; JSON Specifications
+- [samterfa/r_services](https://github.com/samterfa/r_services) - This repo provides continuous integration and deployment to my R-powered app on Google Cloud Run!
 - [johnaponte/shinyPassprot](https://github.com/johnaponte/shinyPassprot) - Easy way to generate a password protected shiny app
 - [johnaponte/repana](https://github.com/johnaponte/repana) - Repetible Analysis in  R
 - [nwstephens/secrets](https://github.com/nwstephens/secrets) - Deploying data products with the config package
@@ -5458,7 +5487,7 @@
 - [ropensci-archive/rcheatsheet](https://github.com/ropensci-archive/rcheatsheet) - Cheatsheets for R
 - [ropensci-archive/jobstatus](https://github.com/ropensci-archive/jobstatus) - :no_entry: ARCHIVED :no_entry: Send Job Information Between Functions and Processes
 - [ropenscilabs/pkginspector](https://github.com/ropenscilabs/pkginspector) - An R package that provides tools to review other R packages
-- [ropenscilabs/dirdf](https://github.com/ropenscilabs/dirdf) - R package: dirdf - Extracts Metadata from Directory and File Names
+- [HenrikBengtsson/dirdf](https://github.com/HenrikBengtsson/dirdf) - R package: dirdf - Extracts Metadata from Directory and File Names
 - [mitchelloharawild/icons](https://github.com/mitchelloharawild/icons) - R package to easily insert web icons to RMarkdown
 - [krlmlr/fstplyr](https://github.com/krlmlr/fstplyr) - A dplyr interface to fst
 - [annakrystalli/metadatar](https://github.com/annakrystalli/metadatar) - Tools for creating metadata files for reproducible research.
@@ -5663,7 +5692,7 @@
 - [Ironholds/webreadr](https://github.com/Ironholds/webreadr) - A package for consuming and munging access log data
 - [HenrikBengtsson/progressr](https://github.com/HenrikBengtsson/progressr) - 三 R package: An Inclusive, Unifying API for Progress Updates
 - [hrbrmstr/speedtest](https://github.com/hrbrmstr/speedtest) - :triangular_ruler: Measure upload/download speed/bandwidth for your network with R
-- [ropenscilabs/notary](https://github.com/ropenscilabs/notary) - :lock_with_ink_pen::package: Signing & verification of R packages
+- [ropensci-archive/notary](https://github.com/ropensci-archive/notary) - :no_entry: ARCHIVED :no_entry: :lock_with_ink_pen::package: Signing & verification of R packages
 - [dlab-berkeley/R-Fundamentals](https://github.com/dlab-berkeley/R-Fundamentals) - 12-hour intro to data science in R, no prior knowledge assumed
 - [alexsanjoseph/compareDF](https://github.com/alexsanjoseph/compareDF) - R Tool to compare two data.frames
 - [pmaji/financial-asset-comparison-tool](https://github.com/pmaji/financial-asset-comparison-tool) - R Shiny app to compare the relative performance of cryptos and equities.
@@ -5687,7 +5716,7 @@
 - [hrbrmstr/docxtractr](https://github.com/hrbrmstr/docxtractr) - :scissors: Extract Tables from Microsoft Word Documents with R
 - [ropensci/DataPackageR](https://github.com/ropensci/DataPackageR) - An R package to enable reproducible data processing, packaging and sharing.
 - [bergant/finstr](https://github.com/bergant/finstr) - :chart_with_upwards_trend: Financial statements in R
-- [ropenscilabs/trackmd](https://github.com/ropenscilabs/trackmd) - Tools for tracking changes in Markdown format within RStudio
+- [ropensci-archive/trackmd](https://github.com/ropensci-archive/trackmd) - :no_entry: ARCHIVED :no_entry: Tools for tracking changes in Markdown format within RStudio
 - [quanteda/readtext](https://github.com/quanteda/readtext) - an R package for reading text files
 - [lockedata/namer](https://github.com/lockedata/namer) - R package :package: for labelling chunks of RMarkdown files! :boom:
 - [datacarpentry/R-ecology-lesson](https://github.com/datacarpentry/R-ecology-lesson) - Data Analysis and Visualization in R for Ecologists
@@ -6536,7 +6565,7 @@
 - [kjhealy/pandoc-templates](https://github.com/kjhealy/pandoc-templates) - Some templates for Pandoc.
 - [kjhealy/latex-custom-kjh](https://github.com/kjhealy/latex-custom-kjh) - Some simple configuration files I use for use with LaTeX, the Memoir class and the Listings package.
 - [cliffordlau/cas-data-vis-wp](https://github.com/cliffordlau/cas-data-vis-wp) - CAS Data Visualization Working Party
-- [Pakillo/rmdTemplates](https://github.com/Pakillo/rmdTemplates) - R package containing a collection of Rmarkdown templates
+- [Pakillo/rmdTemplates](https://github.com/Pakillo/rmdTemplates) - Rmarkdown templates for reproducible science
 - [bdcaf/cookiecutter-r-data-analysis](https://github.com/bdcaf/cookiecutter-r-data-analysis) - cookie cutter template for my r workflow
 - [rstudio/rticles](https://github.com/rstudio/rticles) - LaTeX Journal Article Templates for R Markdown
 - [lervag/vimtex](https://github.com/lervag/vimtex) - VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
@@ -6548,6 +6577,7 @@
 
 ## TypeScript 
 
+- [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [RandomFractals/vscode-data-preview](https://github.com/RandomFractals/vscode-data-preview) - Data Preview 🈸 extension for importing 📤 viewing 🔎 slicing 🔪 dicing 🎲  charting 📊 & exporting 📥 large JSON array/config, YAML, Apache Arrow, Avro, Parquet & Excel data files
 - [algolia/autocomplete](https://github.com/algolia/autocomplete) - 🔮 Fast and full-featured autocomplete library
@@ -6883,6 +6913,7 @@
 
 ## Vue 
 
+- [siegerts/plumber-vue](https://github.com/siegerts/plumber-vue) - Project structure showing the use of an R-based Plumber API with a Vue frontend, using Vue CLI.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [bencodezen/obsidian-publish-vue](https://github.com/bencodezen/obsidian-publish-vue) - 
 - [Leniolabs/layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
