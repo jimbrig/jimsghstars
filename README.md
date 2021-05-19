@@ -919,6 +919,7 @@
 
 ## HTML 
 
+- [topepo/2021-LA-RUG](https://github.com/topepo/2021-LA-RUG) - An introduction to workflow sets
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
 - [imjasonh/gcping](https://github.com/imjasonh/gcping) - Measure your latency to GCP regions
 - [topepo/an-introduction-to-tidymodels](https://github.com/topepo/an-introduction-to-tidymodels) - Overview of our packages
@@ -1016,6 +1017,7 @@
 - [dirkschumacher/htmlvault](https://github.com/dirkschumacher/htmlvault) - Encrypt files in self-decrypting html files using libsodium
 - [worldbank/dime-r-training](https://github.com/worldbank/dime-r-training) - Dime Analytics R Training
 - [overtrue/wisteria](https://github.com/overtrue/wisteria) - Beautiful document tool for your project.
+- [resulumit/rmd_workshop](https://github.com/resulumit/rmd_workshop) - Materials for a workshop on writing reproducible research papers with R Markdown
 - [lyfeyaj/awesome-resources](https://github.com/lyfeyaj/awesome-resources) - Awesome resources for coding and learning: open source projects, websites, books e.g.
 - [maximevaillancourt/digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Start your own digital garden using this Jekyll template 🌱
 - [jsta/r-docker-tutorial](https://github.com/jsta/r-docker-tutorial) - A docker tutorial for reproducible research
@@ -1488,7 +1490,6 @@
 - [snapappointments/bootstrap-select](https://github.com/snapappointments/bootstrap-select) - :rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
 - [RobinHerbots/Inputmask](https://github.com/RobinHerbots/Inputmask) - Input Mask plugin
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
-- [rocket-booster/rocket-booster](https://github.com/rocket-booster/rocket-booster) - 🚀 The edge-rendered speed booster for web applications, storage platforms, and RESTful APIs.
 - [meliorence/react-native-snap-carousel](https://github.com/meliorence/react-native-snap-carousel) - Swiper/carousel component for React Native featuring previews, multiple layouts, parallax images, performant handling of huge numbers of items, and more. Compatible with Android & iOS.
 - [UDST/vizicities](https://github.com/UDST/vizicities) - A framework for 3D geospatial visualization in the browser
 - [bencodezen/obsidian-starter-kit](https://github.com/bencodezen/obsidian-starter-kit) - An opinionated starter kit to help people get up and running as quickly as possible
@@ -2271,7 +2272,6 @@
 
 ## Others 
 
-- [topepo/2021-LA-RUG](https://github.com/topepo/2021-LA-RUG) - An introduction to workflow sets
 - [nickforr/rsetup](https://github.com/nickforr/rsetup) - Manage a list of R packages I find useful
 - [ivan-curada/Awesome-GCP](https://github.com/ivan-curada/Awesome-GCP) - Xyza's Notes about Google Cloud Platform
 - [hrvolapeter/awesome-gcp](https://github.com/hrvolapeter/awesome-gcp) - A curated list of awesome Google Cloud Platform (GCP) libraries, open source repos, guides, blogs, and other resources.
@@ -3219,7 +3219,7 @@
 - [wal-e/wal-e](https://github.com/wal-e/wal-e) - Continuous Archiving for Postgres
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is developer-friendly, open-source product analytics.
 - [kennethreitz/records](https://github.com/kennethreitz/records) - SQL for Humans™
-- [PostgREST/postgrest-docs](https://github.com/PostgREST/postgrest-docs) - Documentation for
+- [PostgREST/postgrest-docs](https://github.com/PostgREST/postgrest-docs) - Documentation for PostgREST
 - [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
 - [keithmcnulty/ppt-generation](https://github.com/keithmcnulty/ppt-generation) - Generate parameterized powerpoint with Python and R
 - [adfmb/shiny-flask-postgresql_app](https://github.com/adfmb/shiny-flask-postgresql_app) - Shiny app with a Flask service backend and a postgresql data base
@@ -3535,6 +3535,10 @@
 
 ## R 
 
+- [collectivemedia/tictoc](https://github.com/collectivemedia/tictoc) - R package with extended timing functions tic/toc, as well as stack and list structures.
+- [Geeketics/Useful-R-How-Tos](https://github.com/Geeketics/Useful-R-How-Tos) - A variety of codes or step-by-step files to perform tasks in R
+- [sol-eng/plumber-load-test](https://github.com/sol-eng/plumber-load-test) - Code and a simple plumber api for configuring a load test
+- [sol-eng/testing-demo](https://github.com/sol-eng/testing-demo) - Demonstration of testing integration with RStudio 1.2
 - [atheriel/openmetrics](https://github.com/atheriel/openmetrics) - An opinionated Prometheus client for R conforming to the OpenMetrics standard
 - [NiccoloSalvini/Dockerized-Plumber-API](https://github.com/NiccoloSalvini/Dockerized-Plumber-API) - Plumber API service reverse proxied with NGINX
 - [virtualstaticvoid/heroku-docker-r-plumber-app](https://github.com/virtualstaticvoid/heroku-docker-r-plumber-app) - Example Plumber Application on Heroku using heroku-docker-r
@@ -4117,7 +4121,6 @@
 - [donaldrauscher/shiny-farkle](https://github.com/donaldrauscher/shiny-farkle) - Shiny app for the game of Farkle
 - [rundel/learnrhash](https://github.com/rundel/learnrhash) - 
 - [y-bar/mmetrics](https://github.com/y-bar/mmetrics) - Easy computation of Marketing Metrics in R
-- [resulumit/rmd_workshop](https://github.com/resulumit/rmd_workshop) - Materials for a workshop on writing reproducible research papers with R Markdown
 - [ropensci/ghql](https://github.com/ropensci/ghql) - GraphQL R client
 - [rdatsci/rtcl](https://github.com/rdatsci/rtcl) - R tools for the command line
 - [trevorld/r-argparse](https://github.com/trevorld/r-argparse) - R package providing a command line optional and positional argument parser.
@@ -6655,6 +6658,7 @@
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.
 - [jevakallio/git-notify](https://github.com/jevakallio/git-notify) - 🙉 📣 Communicate important updates to your team via git commit messages
 - [JasonEtco/create-an-issue](https://github.com/JasonEtco/create-an-issue) - A GitHub Action for creating a new issue from a template file.
+- [rocket-booster/rocket-booster](https://github.com/rocket-booster/rocket-booster) - 🚀 The edge-rendered speed booster for web applications, storage platforms, and RESTful APIs.
 - [obsidian-userland/publish](https://github.com/obsidian-userland/publish) - Open source Obsidian Publish alternative
 - [skalnik/obsidian-readwise-sync](https://github.com/skalnik/obsidian-readwise-sync) - Sync Readwise Highlights to Obsidian
 - [jplattel/obsidian-query-language](https://github.com/jplattel/obsidian-query-language) - An Obsidian plugin allowing you to query your notes
