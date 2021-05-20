@@ -714,6 +714,7 @@
 
 ## Go 
 
+- [rubenv/sql-migrate](https://github.com/rubenv/sql-migrate) - SQL schema migration tool for Go.
 - [google/gnostic](https://github.com/google/gnostic) - A compiler for APIs described by the OpenAPI Specification with plugins for code generation and other API support tasks.
 - [GoogleCloudPlatform/gcping](https://github.com/GoogleCloudPlatform/gcping) - Like gcping.com but a command line tool
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
@@ -1372,6 +1373,8 @@
 
 ## JavaScript 
 
+- [explorableexplanations/explorableexplanations.github.io](https://github.com/explorableexplanations/explorableexplanations.github.io) - The Explorable Explanations Website
+- [khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 - [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.0 format
 - [apiaryio/dredd](https://github.com/apiaryio/dredd) - Language-agnostic HTTP API Testing Tool
@@ -1389,7 +1392,7 @@
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [taher07/dockerized-react-native](https://github.com/taher07/dockerized-react-native) - This repo contains the files required for building a docker container to build an expo managed react native app
-- [jhofman/datamations](https://github.com/jhofman/datamations) - 
+- [microsoft/datamations](https://github.com/microsoft/datamations) - 
 - [GoogleCloudPlatform/cloud-code-custom-samples-example](https://github.com/GoogleCloudPlatform/cloud-code-custom-samples-example) - 
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [APIDevTools/swagger-parser](https://github.com/APIDevTools/swagger-parser) - Swagger 2.0 and OpenAPI 3.0 parser/validator
@@ -1729,7 +1732,6 @@
 - [720kb/ndm](https://github.com/720kb/ndm) - :computer: npm desktop manager https://720kb.github.io/ndm
 - [coreybutler/node-windows](https://github.com/coreybutler/node-windows) - Windows support for Node.JS scripts (daemons, eventlog, UAC, etc).
 - [felixrieseberg/npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - :rocket: Upgrade npm on Windows
-- [khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - [nodegit/nodegit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
 - [kentcdodds/cross-env](https://github.com/kentcdodds/cross-env) - 🔀 Cross platform setting of environment scripts
 - [appium/appium](https://github.com/appium/appium) - :iphone: Automation for iOS, Android, and Windows Apps.
@@ -3535,6 +3537,10 @@
 
 ## R 
 
+- [ijlyttle/projthis](https://github.com/ijlyttle/projthis) - Lightweight Framework for Analysis Development
+- [skranz/xglue](https://github.com/skranz/xglue) - Extended glue
+- [cyclestreets/cyclestreets-r](https://github.com/cyclestreets/cyclestreets-r) - An R interface to cyclestreets.net APIs
+- [TimTeaFan/dplyover](https://github.com/TimTeaFan/dplyover) - Create columns by applying functions to vectors and/or columns in 'dplyr'.
 - [collectivemedia/tictoc](https://github.com/collectivemedia/tictoc) - R package with extended timing functions tic/toc, as well as stack and list structures.
 - [Geeketics/Useful-R-How-Tos](https://github.com/Geeketics/Useful-R-How-Tos) - A variety of codes or step-by-step files to perform tasks in R
 - [sol-eng/plumber-load-test](https://github.com/sol-eng/plumber-load-test) - Code and a simple plumber api for configuring a load test
@@ -3706,7 +3712,7 @@
 - [tyronehunt/GolemShinyTemplate](https://github.com/tyronehunt/GolemShinyTemplate) - This repository rebuilds from the ground up another repository at https://github.com/ColinFay/tidytuesday201942 in order to understand the process and create a reusable Shiny-in-Golem template
 - [data-cleaning/validatedb](https://github.com/data-cleaning/validatedb) - Validate on a table in a DB, using dbplyr
 - [skgrange/databaser](https://github.com/skgrange/databaser) - Tools to Keep Database Interaction Easy and Consistent
-- [lorenzwalthert/touchstone](https://github.com/lorenzwalthert/touchstone) - Benchmark multiple git refs in one go.
+- [lorenzwalthert/touchstone](https://github.com/lorenzwalthert/touchstone) - Smart benchmarking of pull requests with statistical confidence
 - [moodymudskipper/boomer](https://github.com/moodymudskipper/boomer) - Print the Output of Intermediate Steps of a Call
 - [jimbrig/shiny_react_fluent_app](https://github.com/jimbrig/shiny_react_fluent_app) - An experimental shiny application using the shiny.react and shiny.fluent R packages provided by Appsilon.
 - [jonthegeek/stylex](https://github.com/jonthegeek/stylex) - Neural Style Transfer Assistant
@@ -5367,7 +5373,7 @@
 - [rsheets/rexcel](https://github.com/rsheets/rexcel) - Extracts spreadsheet data from Excel workbooks and puts into linen format
 - [rsheets/cellranger](https://github.com/rsheets/cellranger) - Helper functions to work with spreadsheets and the "A1:D10" style of cell range specification
 - [gadenbuie/xaringanthemer](https://github.com/gadenbuie/xaringanthemer) - 😎 Give your xaringan slides some style
-- [ropenscilabs/syn](https://github.com/ropenscilabs/syn) - syn - the thesaurus
+- [maelle/syn](https://github.com/maelle/syn) - syn - the thesaurus
 - [r-lib/memoise](https://github.com/r-lib/memoise) - Easy memoisation for R
 - [jcrodriguez1989/rco](https://github.com/jcrodriguez1989/rco) - Package: The R Code Optimizer
 - [ColinFay/hexmake](https://github.com/ColinFay/hexmake) - A Shiny App for Making Hex Stickers.
@@ -6493,7 +6499,7 @@
 - [krzysztofzablocki/Sourcery](https://github.com/krzysztofzablocki/Sourcery) - Meta-programming for Swift, stop writing boilerplate code.
 - [djyde/WebShell](https://github.com/djyde/WebShell) - Bundle web apps to native OS X app
 - [dongyuwei/tagged-github-stars](https://github.com/dongyuwei/tagged-github-stars) - A native Mac App to manage your Github stars with custom tags, powered by SwiftUI and SQLite.
-- [pawello2222/AppIconGenerator](https://github.com/pawello2222/AppIconGenerator) - A library for creating App Icons from SwiftUI views
+- [pawello2222/AppIconGenerator](https://github.com/pawello2222/AppIconGenerator) - A library for creating App Icons from SwiftUI views.
 - [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - Offline Toolbox for Developers
 - [zoejessica/Furnish](https://github.com/zoejessica/Furnish) - Configurable table view controller framework, drawing on ideas from Arkadiusz Holko (fastred) and Andy Matuschak (andymatuschak)
 - [ReactiveCocoa/ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - Cocoa framework and Obj-C dynamism bindings for ReactiveSwift.
@@ -6730,7 +6736,7 @@
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for Javascript
 - [mrjackphil/obsidian-backlinks-in-document](https://github.com/mrjackphil/obsidian-backlinks-in-document) - A hacky workaround which put backlinks section into the document
 - [thenewboston-developers/Website](https://github.com/thenewboston-developers/Website) - The website and documentation for thenewboston.
-- [angular/angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
+- [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
 - [westy92/html-pdf-chrome](https://github.com/westy92/html-pdf-chrome) - HTML to PDF converter via Chrome/Chromium
 - [Hopding/pdf-lib](https://github.com/Hopding/pdf-lib) - Create and modify PDF documents in any JavaScript environment
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
