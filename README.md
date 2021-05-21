@@ -2296,7 +2296,7 @@
 - [jobindj/obsidian-mkdocs](https://github.com/jobindj/obsidian-mkdocs) - Publish Obsidian Notes with MkDocs
 - [TechPrimers/whats-your-architecture](https://github.com/TechPrimers/whats-your-architecture) - "What's your Architecture?" is a series of architecture and design challenges to voice out the opinions of the TechPrimers community members.
 - [jimsforks/burglr](https://github.com/jimsforks/burglr) - Copy Functions from Other Packages Without Adding Them As Dependencies
-- [llrs/cran_histories](https://github.com/llrs/cran_histories) - Recollection of exchanges with CRAN reviewers and maintainer
+- [cranchange/cran_histories](https://github.com/cranchange/cran_histories) - Recollection of exchanges with CRAN reviewers and maintainer
 - [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support) - Thunder Client is a lightweight Rest API Client Extension for VS Code.
 - [drat-base/drat](https://github.com/drat-base/drat) - Sample drat repository for easy forking and bootstrapping
 - [jamespooley/shiny-resources](https://github.com/jamespooley/shiny-resources) - An annotated bibliography of resources for building Shiny apps
@@ -2992,7 +2992,7 @@
 
 - [petitpress/gps-messenger-bundle](https://github.com/petitpress/gps-messenger-bundle) - The bundle provides a simple implementation of Google Pub/Sub transport for Symfony Messenger.
 - [agorakit/agorakit](https://github.com/agorakit/agorakit) - Organization tool for citizen's collectives
-- [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is a fully scalable open source e-commerce solution.
+- [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is an Open Source e-commerce platform, committed to providing the best shopping cart experience for both merchants and customers.
 - [WP-API/Basic-Auth](https://github.com/WP-API/Basic-Auth) - Basic Authentication handler for the JSON API, used for development and debugging purposes
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [symfony/config](https://github.com/symfony/config) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
@@ -3194,6 +3194,7 @@
 
 ## Python 
 
+- [GoogleCloudPlatform/cloud-pubsub-sendmail](https://github.com/GoogleCloudPlatform/cloud-pubsub-sendmail) - pubsub_sendmail - Send emails from Google Cloud Pub/Sub events using a Google Cloud Function
 - [marshmallow-code/apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [bbelyeu/tutorial-openapi-aiohttp](https://github.com/bbelyeu/tutorial-openapi-aiohttp) - Tutorial for learning OpenAPI spec + Connexion + AioHTTP + Google API Design Guide
@@ -3537,6 +3538,8 @@
 
 ## R 
 
+- [fsolt/swiid](https://github.com/fsolt/swiid) - Standardized World Income Inequality Database
+- [sophof/blaise](https://github.com/sophof/blaise) - R package facilitating the reading and writing of blaise fwf files
 - [ijlyttle/projthis](https://github.com/ijlyttle/projthis) - Lightweight Framework for Analysis Development
 - [skranz/xglue](https://github.com/skranz/xglue) - Extended glue
 - [cyclestreets/cyclestreets-r](https://github.com/cyclestreets/cyclestreets-r) - An R interface to cyclestreets.net APIs
@@ -5373,7 +5376,7 @@
 - [rsheets/rexcel](https://github.com/rsheets/rexcel) - Extracts spreadsheet data from Excel workbooks and puts into linen format
 - [rsheets/cellranger](https://github.com/rsheets/cellranger) - Helper functions to work with spreadsheets and the "A1:D10" style of cell range specification
 - [gadenbuie/xaringanthemer](https://github.com/gadenbuie/xaringanthemer) - 😎 Give your xaringan slides some style
-- [maelle/syn](https://github.com/maelle/syn) - syn - the thesaurus
+- [njtierney/syn](https://github.com/njtierney/syn) - syn - the thesaurus
 - [r-lib/memoise](https://github.com/r-lib/memoise) - Easy memoisation for R
 - [jcrodriguez1989/rco](https://github.com/jcrodriguez1989/rco) - Package: The R Code Optimizer
 - [ColinFay/hexmake](https://github.com/ColinFay/hexmake) - A Shiny App for Making Hex Stickers.
@@ -5495,7 +5498,7 @@
 - [pablo14/funModeling](https://github.com/pablo14/funModeling) - R package: funModeling: data cleaning, importance variable analysis and model perfomance
 - [ropensci-archive/rcheatsheet](https://github.com/ropensci-archive/rcheatsheet) - Cheatsheets for R
 - [ropensci-archive/jobstatus](https://github.com/ropensci-archive/jobstatus) - :no_entry: ARCHIVED :no_entry: Send Job Information Between Functions and Processes
-- [ropenscilabs/pkginspector](https://github.com/ropenscilabs/pkginspector) - An R package that provides tools to review other R packages
+- [ropensci-archive/pkginspector](https://github.com/ropensci-archive/pkginspector) - :no_entry: ARCHIVED :no_entry: An R package that provides tools to review other R packages
 - [HenrikBengtsson/dirdf](https://github.com/HenrikBengtsson/dirdf) - R package: dirdf - Extracts Metadata from Directory and File Names
 - [mitchelloharawild/icons](https://github.com/mitchelloharawild/icons) - R package to easily insert web icons to RMarkdown
 - [krlmlr/fstplyr](https://github.com/krlmlr/fstplyr) - A dplyr interface to fst
@@ -6923,6 +6926,7 @@
 
 ## Vue 
 
+- [FrissAnalytics/shiny-vue-r](https://github.com/FrissAnalytics/shiny-vue-r) - shiny vue hybrid app
 - [siegerts/plumber-vue](https://github.com/siegerts/plumber-vue) - Project structure showing the use of an R-based Plumber API with a Vue frontend, using Vue CLI.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [bencodezen/obsidian-publish-vue](https://github.com/bencodezen/obsidian-publish-vue) - 
