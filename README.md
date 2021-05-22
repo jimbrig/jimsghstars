@@ -27,6 +27,7 @@
   - [Emacs Lisp](#emacs-lisp)
   - [F#](#f#)
   - [FreeBasic](#freebasic)
+  - [FreeMarker](#freemarker)
   - [Gherkin](#gherkin)
   - [Go](#go)
   - [Groovy](#groovy)
@@ -142,6 +143,7 @@
 
 ## C 
 
+- [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [EnterpriseDB/repmgr](https://github.com/EnterpriseDB/repmgr) - A lightweight replication manager for PostgreSQL (Postgres) - latest version 5.2.1 (2020-12-07)
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
@@ -647,6 +649,7 @@
 
 ## Dockerfile 
 
+- [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
 - [dougmet/docker-plumber](https://github.com/dougmet/docker-plumber) - Minimum docker image to deploy a plumber app
 - [mgibeau/semantic-release-expo-github-action](https://github.com/mgibeau/semantic-release-expo-github-action) - 
 - [tmaier/docker-postgresql-client](https://github.com/tmaier/docker-postgresql-client) - Run the PostgreSQL Client (psql) within a docker container. Excellent for Kubernetes Init Containers
@@ -681,6 +684,7 @@
 
 ## Elixir 
 
+- [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) - A toolkit for data mapping and language integrated query.
 - [peburrows/goth](https://github.com/peburrows/goth) - Elixir package for Oauth authentication via Google Cloud APIs
 - [supabase/realtime](https://github.com/supabase/realtime) - Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.
 - [daryllxd/lifelong-learning](https://github.com/daryllxd/lifelong-learning) - ✅ ✅ ✅ A massive repo filled with notes on everything from coding to philosophy to psychology to marketing to product
@@ -707,6 +711,10 @@
 - [ReneNyffenegger/about-VBA](https://github.com/ReneNyffenegger/about-VBA) - about VBA
 - [ReneNyffenegger/about-MS-Office-object-model](https://github.com/ReneNyffenegger/about-MS-Office-object-model) - About the MS Office objet model
 - [ReneNyffenegger/about-Excel](https://github.com/ReneNyffenegger/about-Excel) - About Excel
+
+## FreeMarker 
+
+- [mozilla/send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
 
 ## Gherkin 
 
@@ -920,6 +928,7 @@
 
 ## HTML 
 
+- [saiyam1814/cloudrundemos](https://github.com/saiyam1814/cloudrundemos) - This repository is for Cloud Run Demos
 - [topepo/2021-LA-RUG](https://github.com/topepo/2021-LA-RUG) - An introduction to workflow sets
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
 - [imjasonh/gcping](https://github.com/imjasonh/gcping) - Measure your latency to GCP regions
@@ -1327,6 +1336,7 @@
 - [swagger-api/swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [GoogleCloudPlatform/bigquery-utils](https://github.com/GoogleCloudPlatform/bigquery-utils) - Useful scripts, udfs, views, and other utilities for migration and data warehouse operations in BigQuery.
+- [GoogleCloudPlatform/cloud-code-custom-samples-example](https://github.com/GoogleCloudPlatform/cloud-code-custom-samples-example) - 
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
 - [react-native-svg/react-native-svg](https://github.com/react-native-svg/react-native-svg) - SVG library for React Native, React Native Web, and plain React web projects.
@@ -1373,6 +1383,7 @@
 
 ## JavaScript 
 
+- [archit-p/editable-react-table](https://github.com/archit-p/editable-react-table) - React table built to resemble a database.
 - [explorableexplanations/explorableexplanations.github.io](https://github.com/explorableexplanations/explorableexplanations.github.io) - The Explorable Explanations Website
 - [khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
@@ -1393,7 +1404,6 @@
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [taher07/dockerized-react-native](https://github.com/taher07/dockerized-react-native) - This repo contains the files required for building a docker container to build an expo managed react native app
 - [microsoft/datamations](https://github.com/microsoft/datamations) - 
-- [GoogleCloudPlatform/cloud-code-custom-samples-example](https://github.com/GoogleCloudPlatform/cloud-code-custom-samples-example) - 
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [APIDevTools/swagger-parser](https://github.com/APIDevTools/swagger-parser) - Swagger 2.0 and OpenAPI 3.0 parser/validator
 - [APIDevTools/swagger-cli](https://github.com/APIDevTools/swagger-cli) - Swagger 2.0 and OpenAPI 3.0 command-line tool
@@ -1848,7 +1858,6 @@
 - [dselivanov/shinycamera](https://github.com/dselivanov/shinycamera) - Video stream input to shiny applications
 - [trafficonese/daterangepicker](https://github.com/trafficonese/daterangepicker) - Shiny Input for Date Ranges
 - [datasketch/shinyinvoer](https://github.com/datasketch/shinyinvoer) - Shiny inputs
-- [mozilla/send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
 - [ramnathv/rChartsCalmap](https://github.com/ramnathv/rChartsCalmap) - An htmlwidgets binding for calendar heat maps using d3
 - [jpmarindiaz/d3calmap](https://github.com/jpmarindiaz/d3calmap) - An htmlwidgets binding for calendar heat maps using d3
 - [jpmarindiaz/captureWidget](https://github.com/jpmarindiaz/captureWidget) - 
@@ -3027,6 +3036,7 @@
 ## PLpgSQL 
 
 - [digoal/blog](https://github.com/digoal/blog) - Everything about database,business.(Most for PostgreSQL).
+- [Active-Travel-Academy/ata-traffic-recorder](https://github.com/Active-Travel-Academy/ata-traffic-recorder) - 
 - [ankane/groupdate.sql](https://github.com/ankane/groupdate.sql) - The simplest way to group temporal data
 - [subzerocloud/postgrest-starter-kit](https://github.com/subzerocloud/postgrest-starter-kit) - Starter Kit and tooling for authoring REST API backends with PostgREST
 - [theory/pgtap](https://github.com/theory/pgtap) - PostgreSQL Unit Testing Suite
@@ -3538,6 +3548,7 @@
 
 ## R 
 
+- [JohnCoene/coronavirus](https://github.com/JohnCoene/coronavirus) - 🦠 Novel Coronavirus (COVID-19) Tracker
 - [fsolt/swiid](https://github.com/fsolt/swiid) - Standardized World Income Inequality Database
 - [sophof/blaise](https://github.com/sophof/blaise) - R package facilitating the reading and writing of blaise fwf files
 - [ijlyttle/projthis](https://github.com/ijlyttle/projthis) - Lightweight Framework for Analysis Development
@@ -3839,7 +3850,6 @@
 - [sebastiz/EndoMineR](https://github.com/sebastiz/EndoMineR) - Endoscopic and Pathological data extraction for various endo-pathological data extraction
 - [davidruvolo51/rheroicons](https://github.com/davidruvolo51/rheroicons) - The heroicons library for R 🖼️
 - [paeselhz/buy-the-dip](https://github.com/paeselhz/buy-the-dip) - Shiny Application para analisar retorno de ações do Ibovespa
-- [Active-Travel-Academy/ata-traffic-recorder](https://github.com/Active-Travel-Academy/ata-traffic-recorder) - 
 - [sumitrahman/golf](https://github.com/sumitrahman/golf) - trying out purrr using my golf scores
 - [pdelboca/shiny-golf](https://github.com/pdelboca/shiny-golf) - Shiny Dashboard for Personal Golf Statistics
 - [diegovalle/comipems](https://github.com/diegovalle/comipems) - 
@@ -3864,7 +3874,7 @@
 - [reconhub/aweek](https://github.com/reconhub/aweek) - Convert dates to arbitrary week definitions :calendar:
 - [reconhub/rfextras](https://github.com/reconhub/rfextras) - 
 - [reconverse/incidence2](https://github.com/reconverse/incidence2) - Compute and visualise incidence (reworking of the original incidence package)
-- [reconhub/trendbreaker](https://github.com/reconhub/trendbreaker) - Auto surveillance for count data WIP
+- [reconhub/trendbreaker](https://github.com/reconhub/trendbreaker) - Analysing epidemic trends using AutoML approaches.
 - [jdtrat/shinydesignr](https://github.com/jdtrat/shinydesignr) - 
 - [Yacine87/interactive_data_viz](https://github.com/Yacine87/interactive_data_viz) - You will find in this repository exemple of interactive data visualisation with Shiny and other R pakages
 - [Yacine87/Shiny_Dynamic_Interactive_Dashboards](https://github.com/Yacine87/Shiny_Dynamic_Interactive_Dashboards) - Successfuly Communicating our analytical outputs highlights the hard work we've done along the workflow. Deciders are expecting to have easally interpretable & useful insights that help them take the right decisions. Shiny is the R framework for making web apps without knowing HTML, CSS & JS. Shinydashboard is a package from the Shiny ecosystem that allows analysts who aren't software engineers to develop independently their (scalable) dashboards. We will discover in this repo the shinydashboards package, its main functionnalities and how nowadays it is possible using the R ecosystem to deliver business dashboards that have nothing to envy to MS Power BI, Tableau, Qlick, TIBCO & the other analytics industry leaders
