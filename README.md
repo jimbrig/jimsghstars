@@ -3858,7 +3858,7 @@
 - [ropensci/osmextract](https://github.com/ropensci/osmextract) - Download and import OpenStreetMap data from Geofabrik and other providers
 - [kcuilla/Shiny_home_valuation_model](https://github.com/kcuilla/Shiny_home_valuation_model) - 
 - [kcuilla/swapir](https://github.com/kcuilla/swapir) - swapir package
-- [kcuilla/reactablefmtr](https://github.com/kcuilla/reactablefmtr) - An R package to simplify formatting and customization of tables made with {reactable}
+- [kcuilla/reactablefmtr](https://github.com/kcuilla/reactablefmtr) - Simplify and ehance the styling and formatting of tables made with {reactable}
 - [zonebuilders/zonebuilder](https://github.com/zonebuilders/zonebuilder) - Divide geographic space into discrete chunks
 - [jeroen/maketools](https://github.com/jeroen/maketools) - Exploring and Testing your Toolchain Configuration and System Packages
 - [SchmidtPaul/CitaviR](https://github.com/SchmidtPaul/CitaviR) - A set of tools for dealing with Citavi data
@@ -4295,7 +4295,7 @@
 - [OHDSI/SqlRender](https://github.com/OHDSI/SqlRender) - This is an R package and Java library for rendering parameterized SQL, and translating it to different SQL dialects.
 - [OHDSI/ShinyDeploy](https://github.com/OHDSI/ShinyDeploy) - Shiny apps in this repository will be automatically deployed to the OHDSI Shiny server.
 - [mdlincoln/clipr](https://github.com/mdlincoln/clipr) - R functions for reading and writing from the system clipboard
-- [rspatial/raster](https://github.com/rspatial/raster) - R raster package https://rspatial.github.io/raster/
+- [rspatial/raster](https://github.com/rspatial/raster) - R raster package https://rspatial.github.io/raster/reference/raster-package.html
 - [r-lib/urlchecker](https://github.com/r-lib/urlchecker) - Run CRAN URL checks from older versions of R
 - [datascienceworkshops/tmuxr](https://github.com/datascienceworkshops/tmuxr) - Manage tmux from R
 - [cole-brokamp/bindertools](https://github.com/cole-brokamp/bindertools) - 
