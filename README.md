@@ -1091,7 +1091,6 @@
 - [MilesMcBain/milesmcbain.com](https://github.com/MilesMcBain/milesmcbain.com) - Seeing if I can make my website look any good with distill...
 - [tallguyjenks/tallguyjenks.github.io](https://github.com/tallguyjenks/tallguyjenks.github.io) - My personal Website
 - [bdavis19/Basic-data-manipulation](https://github.com/bdavis19/Basic-data-manipulation) - Springboard - Data Wrangling Exercise 1
-- [nunesma/Health-analytics](https://github.com/nunesma/Health-analytics) - Data analysis focusing on health problems
 - [yujunkuo/Business-Analytics-with-R](https://github.com/yujunkuo/Business-Analytics-with-R) - This is my homework in the course of Business Analytics with R, 2019@NCCU
 - [JHM9191/Smart_Inventory_Manager](https://github.com/JHM9191/Smart_Inventory_Manager) - This is a IoT project repository. The topic is about Smart Inventory Management using Load Cell Sensor that detects current weight of the IoT Container that we made
 - [TheScientistBr/DataScienceTraining](https://github.com/TheScientistBr/DataScienceTraining) - Treinamento em Data Science
@@ -1169,6 +1168,7 @@
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [kutyla-philipp/simple-dash](https://github.com/kutyla-philipp/simple-dash) - A simple, fully responsive Dashboard to forward to the services of your choice!
 - [betterspecs/betterspecs](https://github.com/betterspecs/betterspecs) - RSpec Best Practices
+- [kcf-jackson/sketch](https://github.com/kcf-jackson/sketch) - Interactive sketches in R
 - [slopp/Load-Test](https://github.com/slopp/Load-Test) - Load test shiny app against Docker Swarm and HA RSC Cluster.
 - [canovasjm/blog](https://github.com/canovasjm/blog) - My blog
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
@@ -2171,7 +2171,7 @@
 - [mml-book/mml-book.github.io](https://github.com/mml-book/mml-book.github.io) - Companion webpage to the book "Mathematics For Machine Learning"
 - [ramnathv/template-live-webinar-sql](https://github.com/ramnathv/template-live-webinar-sql) - 
 - [Non-Contradiction/JuliaCall](https://github.com/Non-Contradiction/JuliaCall) - Embed Julia in R
-- [wowchemy/starter-academic](https://github.com/wowchemy/starter-academic) - 🎓 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify.
+- [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify.
 - [DiscoveryDNA/team_neural_network](https://github.com/DiscoveryDNA/team_neural_network) - Neural Network of enhancer regions
 - [advboxes/AdvBox](https://github.com/advboxes/AdvBox) - Advbox is a toolbox to generate adversarial examples that fool neural networks in PaddlePaddle、PyTorch、Caffe2、MxNet、Keras、TensorFlow and Advbox can benchmark the robustness of machine learning models.  Advbox give a command line tool to generate adversarial examples with Zero-Coding.
 - [m-clark/data-processing-and-visualization](https://github.com/m-clark/data-processing-and-visualization) - This document forms the basis of several workshops/talks that get into everyday programming with R, but also includes mirrored code in Python as Jupyter notebooks.
@@ -2339,7 +2339,7 @@
 - [AccessGateLabs/useful-jsons](https://github.com/AccessGateLabs/useful-jsons) - A collection of JSONs used by AccessGate Labs in its applications.
 - [RichardLitt/meta-knowledge](https://github.com/RichardLitt/meta-knowledge) - 💡 A list of knowledge repositories
 - [mattes/gce-docker-push-action](https://github.com/mattes/gce-docker-push-action) - Github action to push a docker image to Google Cloud's Container Registry.
-- [Josee9988/Changelog-and-Markdown-snippets](https://github.com/Josee9988/Changelog-and-Markdown-snippets) - 🌞 Snippets for the creation of changelogs in VSCode! Maintain a 𝗰𝗵𝗮𝗻𝗴𝗲𝗹𝗼𝗴 following the "use a changelog" guide 📜
+- [Josee9988/Changelog-and-Markdown-snippets](https://github.com/Josee9988/Changelog-and-Markdown-snippets) - 🌞 Snippets for the creation of 𝗰𝗵𝗮𝗻𝗴𝗲𝗹𝗼𝗴𝘀 𝗶𝗻 𝗩𝗦𝗖𝗼𝗱𝗲!📑 Maintain a 𝗰𝗵𝗮𝗻𝗴𝗲𝗹𝗼𝗴 following the "use a changelog" guide 📜
 - [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude) - Custom GitHub profile for Eddie Jaoude
 - [Chris-Engelhardt/data_sci_guide](https://github.com/Chris-Engelhardt/data_sci_guide) - A community-sourced data science repo.
 - [docker-captains/about](https://github.com/docker-captains/about) - Docker Captains and Our Projects
@@ -4470,6 +4470,7 @@
 - [Nazaniiin/EDA_QualityofRedWine](https://github.com/Nazaniiin/EDA_QualityofRedWine) - :wine_glass: :chart_with_upwards_trend: (EDA) R - Vizualization / Performed exploratory analysis and visualization on Red Wine Quality dataset; Mainly answering which chemical properties influence the quality of red wines.
 - [stevecondylios/collidr](https://github.com/stevecondylios/collidr) - Check for namespace collisions across a half a million packages and functions on CRAN 💥
 - [mkearney/callmethod](https://github.com/mkearney/callmethod) - 🤙 Call Method for Developing Packages
+- [nunesma/Health-analytics](https://github.com/nunesma/Health-analytics) - Data analysis focusing on health problems
 - [tkanngiesser/R-for-Everyone-Code-Samples](https://github.com/tkanngiesser/R-for-Everyone-Code-Samples) - Code Examples used in https://www.amazon.com/Everyone-Advanced-Analytics-Graphics-Addison-Wesley/dp/013454692X
 - [NeilCollinsMS/Paycheck-Protection-Program-Analysis](https://github.com/NeilCollinsMS/Paycheck-Protection-Program-Analysis) - This project aims to analyze trends in the Paycheck Protection Program and to generate predictive models based on demographics to predict the likelihood of receiving a loan.
 - [m-jahn/ShinyMC](https://github.com/m-jahn/ShinyMC) - R Shiny based interface for monitoring bioreactors
@@ -4814,7 +4815,6 @@
 - [mlr3learners/mlr3learners.drat](https://github.com/mlr3learners/mlr3learners.drat) - drat repository for mlr3learners
 - [rstudio/gradethis](https://github.com/rstudio/gradethis) - Tools for teachers to use with learnr
 - [sdesabbata/BivariateTMap](https://github.com/sdesabbata/BivariateTMap) - A simple function to create bivariate Choropleth maps in R tmap
-- [kcf-jackson/sketch](https://github.com/kcf-jackson/sketch) - Interactive sketches in R
 - [MilesMcBain/capsule](https://github.com/MilesMcBain/capsule) - An inversion of renv for low effort reproducible R package libraries
 - [RoheLab/aPPR](https://github.com/RoheLab/aPPR) - Approximate Personalized Page Rank
 - [jienagu/forestry](https://github.com/jienagu/forestry) - R package
@@ -6692,7 +6692,7 @@
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A realtime Database for JavaScript Applications
 - [googlemaps/google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
-- [teambit/bit](https://github.com/teambit/bit) - Build modular projects with components in harmony.
+- [teambit/bit](https://github.com/teambit/bit) - A lightweight and highly extendible tool for component-driven development.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [shd101wyy/mume](https://github.com/shd101wyy/mume) - Powerful markdown tool
 - [react-native-community/cli](https://github.com/react-native-community/cli) - React Native command line tools
@@ -6923,7 +6923,6 @@
 
 ## Visual Basic 
 
-- [ImminentFate/CompactGUI](https://github.com/ImminentFate/CompactGUI) - Visual Interface for the Windows 10 Compact Function
 - [curipha/dotfiles_w](https://github.com/curipha/dotfiles_w) - dotfiles for Windows
 - [krlmlr/Excel2LaTeX](https://github.com/krlmlr/Excel2LaTeX) - The Excel add-in for creating LaTeX tables
 
@@ -6932,6 +6931,7 @@
 - [Vitosh/VBA_personal](https://github.com/Vitosh/VBA_personal) - Library with VBA, used in multiple projects.
 - [SQL-Server-projects/Reporting-Services-examples](https://github.com/SQL-Server-projects/Reporting-Services-examples) - :closed_book: Various example reports I use for SQL Server Reporting Services (SSRS) as well as documents for unit testing, requirements and a style guide template.
 - [MoscaDotTo/Winapp2](https://github.com/MoscaDotTo/Winapp2) - A database of extended cleaning routines for popular Windows PC based maintenance software.
+- [ImminentFate/CompactGUI](https://github.com/ImminentFate/CompactGUI) - Visual Interface for the Windows 10 Compact Function
 - [ChrisAnd1998/TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) - Center Windows taskbar icons with a variety of animations and options.
 
 ## Vue 
