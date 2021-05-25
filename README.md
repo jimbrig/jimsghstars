@@ -274,7 +274,6 @@
 - [dariusz-wozniak/VisualStudio](https://github.com/dariusz-wozniak/VisualStudio) - GitHub Extension for Visual Studio
 - [James231/Start-Menu-Manager](https://github.com/James231/Start-Menu-Manager) - App to add websites/software/files/folders/scripts to the Windows 10 Start Menu and Taskbar, and priority shortcuts to Windows 10 Search.
 - [Fs00/Win10BloatRemover](https://github.com/Fs00/Win10BloatRemover) - Configurable CLI tool to easily and aggressively debloat and tweak Windows 10 by removing preinstalled UWP apps, services and more. Originally based on the W10 de-botnet guide made by @adolfintel.
-- [builtbybel/bloatbox](https://github.com/builtbybel/bloatbox) - ☑️🌠 Remove Bloatwares from Windows 10
 - [builtbybel/privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
 - [Zeeex/XTR-Toolbox](https://github.com/Zeeex/XTR-Toolbox) - 🛠 Versatile tool to optimize Windows
 - [aurelitec/cinemadrape-windows](https://github.com/aurelitec/cinemadrape-windows) - Minimize distractions and focus on your current task by blacking out or dimming other screen areas.
@@ -2339,7 +2338,7 @@
 - [AccessGateLabs/useful-jsons](https://github.com/AccessGateLabs/useful-jsons) - A collection of JSONs used by AccessGate Labs in its applications.
 - [RichardLitt/meta-knowledge](https://github.com/RichardLitt/meta-knowledge) - 💡 A list of knowledge repositories
 - [mattes/gce-docker-push-action](https://github.com/mattes/gce-docker-push-action) - Github action to push a docker image to Google Cloud's Container Registry.
-- [Josee9988/Changelog-and-Markdown-snippets](https://github.com/Josee9988/Changelog-and-Markdown-snippets) - 🌞 Snippets for the creation of 𝗰𝗵𝗮𝗻𝗴𝗲𝗹𝗼𝗴𝘀 𝗶𝗻 𝗩𝗦𝗖𝗼𝗱𝗲!📑 Maintain a 𝗰𝗵𝗮𝗻𝗴𝗲𝗹𝗼𝗴 following the "use a changelog" guide 📜
+- [Josee9988/Changelog-and-Markdown-snippets](https://github.com/Josee9988/Changelog-and-Markdown-snippets) - 🌞 Snippets for the creation of 𝗰𝗵𝗮𝗻𝗴𝗲𝗹𝗼𝗴𝘀 𝗶𝗻 𝗩𝗦𝗖𝗼𝗱𝗲! Create useful version documentation📑 Maintain a 𝗰𝗵𝗮𝗻𝗴𝗲𝗹𝗼𝗴 following the "use a changelog" guide 📜
 - [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude) - Custom GitHub profile for Eddie Jaoude
 - [Chris-Engelhardt/data_sci_guide](https://github.com/Chris-Engelhardt/data_sci_guide) - A community-sourced data science repo.
 - [docker-captains/about](https://github.com/docker-captains/about) - Docker Captains and Our Projects
@@ -3123,6 +3122,7 @@
 - [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Fully Optimize, Harden, and Debloat Windows 10 Deployments to Windows Best Practices and DoD STIG/SRG Requirements. The ultimate Windows 10 security and privacy script!
 - [WurstCommander/Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove) - A Powershell-Script for removing / debloating Windows 10 apps. Mandatory apps which can't be uninstalled via start menu will be removed too.
 - [DrEmpiricism/Optimize-Offline](https://github.com/DrEmpiricism/Optimize-Offline) - Optimize-Offline is a Windows 10 offline image optimization framework.
+- [builtbybel/bloatbox](https://github.com/builtbybel/bloatbox) - ☑️🌠 Remove Bloatwares from Windows 10
 - [mikebattista/PowerShell-WSL-Interop](https://github.com/mikebattista/PowerShell-WSL-Interop) - Integrate Linux commands into Windows with PowerShell and the Windows Subsystem for Linux (WSL).
 - [roose/win-cli](https://github.com/roose/win-cli) - Windows command line tools
 - [wtjones/PSDirTag](https://github.com/wtjones/PSDirTag) - DirTags are relative paths that appear as variables in the Powershell prompt that update as you navigate. Saves keystrokes when navigating folder structures.
