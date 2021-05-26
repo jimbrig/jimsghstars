@@ -384,7 +384,7 @@
 - [npyl/runnix](https://github.com/npyl/runnix) - Run linux executables or scripts from withing Windows without opening Bash
 - [neosmart/paste](https://github.com/neosmart/paste) - A Windows utility that simply dumps the clipboard data to stdout
 - [repelliuss/WSL-Context-Menu-Manager](https://github.com/repelliuss/WSL-Context-Menu-Manager) - Manages the context menu for your Linux tools in WSL/WSL2 using on Windows.
-- [mgbowen/windows-fido-bridge](https://github.com/mgbowen/windows-fido-bridge) - An OpenSSH SK middleware that allows you to use a FIDO/U2F security key (e.g. a YubiKey) to SSH into a remote server from WSL.
+- [mgbowen/windows-fido-bridge](https://github.com/mgbowen/windows-fido-bridge) - An OpenSSH SK middleware that allows you to use a FIDO/U2F security key (e.g. a YubiKey) to SSH into a remote server from WSL or Cygwin.
 - [0xbadfca11/miniwsl](https://github.com/0xbadfca11/miniwsl) - Mini Windows Subsystem for Linux Distribution
 - [neosmart/RunInBash](https://github.com/neosmart/RunInBash) - Run Linux commands under WSL without leaving your PowerShell or CMD!
 - [bitcrazed/ConsoleTool](https://github.com/bitcrazed/ConsoleTool) - Handy tools for exploring the Windows Console
@@ -1623,6 +1623,7 @@
 - [kdpsingh/rjs](https://github.com/kdpsingh/rjs) - R in JavaScript
 - [preactjs/wmr](https://github.com/preactjs/wmr) - 👩‍🚀 The tiny all-in-one development tool for modern web apps.
 - [brendanhcullen/wisely](https://github.com/brendanhcullen/wisely) - Using R more "wisely": Column-wise and row-wise operations with dplyr
+- [snipsnapdev/snipsnap](https://github.com/snipsnapdev/snipsnap) - Speed up your development with a powerful set of tools
 - [thomaskoppelaar/Gettlr](https://github.com/thomaskoppelaar/Gettlr) - A Markdown Editor for me, mostly.
 - [DustinBrett/x](https://github.com/DustinBrett/x) - Desktop environment in the browser.
 - [ModClean/modclean](https://github.com/ModClean/modclean) - Remove unwanted files and directories from your node_modules folder
@@ -2327,7 +2328,6 @@
 - [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels) - Issue labels using Open Source labels standards
 - [nicferrier/docker-shell-deploy](https://github.com/nicferrier/docker-shell-deploy) - a shell script to help with deploying dockers
 - [jimsforks/plumber-logging](https://github.com/jimsforks/plumber-logging) - An opinionated example for implementing logging in Plumber APIs
-- [vfarcic/rancher-demo](https://github.com/vfarcic/rancher-demo) - 
 - [r-universe/colinfay](https://github.com/r-universe/colinfay) - Source universe for: colinfay
 - [dogsheep/dogsheep.github.io](https://github.com/dogsheep/dogsheep.github.io) - Tools for personal analytics using SQLite and Datasette
 - [jimbrig/jimsnotes](https://github.com/jimbrig/jimsnotes) - Scratch One-Off Markdown Notes for Safekeeping 📝
@@ -2489,7 +2489,6 @@
 - [pat-s/alfred-r](https://github.com/pat-s/alfred-r) - #rstats Alfred workflow
 - [pandoc/pandoc-action-example](https://github.com/pandoc/pandoc-action-example) - using the pandoc document converter on GitHub Actions
 - [tehtbl/awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) - A curated list of awesome note-taking software.
-- [snipsnapdev/snipsnap](https://github.com/snipsnapdev/snipsnap) - The ultimate snippets collection for VS Code
 - [KasperZutterman/ontologies](https://github.com/KasperZutterman/ontologies) - This project describes the two ontologies used by https://www.datavillage.me to build the Digital Twins of people and to process these Digital Twins in a fully transparent way. This project uses WIDICO (https://github.com/dgarijo/Widoco) to generate documentation of ontologies. The generated ontology websites are automatically deployed on https://www.netlify.com.
 - [KasperZutterman/Contribute-To-This-Project](https://github.com/KasperZutterman/Contribute-To-This-Project) - This project is waiting for your contribution. If you have never contributed code on GitHub before, this is the project to get you started.
 - [zettelstore/zettelstore-manual-github](https://github.com/zettelstore/zettelstore-manual-github) - Development is discontinued here. Please use https://zettelstore.de or fork the new mirror https://github.com/zettelstore/zettelstore
@@ -6434,7 +6433,7 @@
 - [ahmetb/serverless-url-redirect](https://github.com/ahmetb/serverless-url-redirect) - Simple click-to-deploy serverless URL redirect service
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [radiant-rstats/docker](https://github.com/radiant-rstats/docker) - Use R, Rstudio, Shiny, Radiant, Python, and Jupyter in a Docker container
-- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note-taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more in a single portable script.
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more in a single portable script.
 - [ow/ubuntu-windows-dotfiles](https://github.com/ow/ubuntu-windows-dotfiles) - Ubuntu on Windows dotfiles
 - [umutphp/github-action-dynamic-profile-page](https://github.com/umutphp/github-action-dynamic-profile-page) - GitHub Action to push updates to your special profile repository.
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
