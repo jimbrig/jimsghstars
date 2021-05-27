@@ -3318,7 +3318,7 @@
 - [lggruspe/slipbox](https://github.com/lggruspe/slipbox) - A static site generator for Zettelkasten notes
 - [djplaner/memex](https://github.com/djplaner/memex) - Nascent attempt at using Foam to curate and leverage a personal memex
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
-- [ctuning/ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize software projects as a database of reusable components and micro-services with common APIs, automation actions and extensible meta descriptions based on FAIR principles. See real-world use cases from MLPerf(tm), General Motors, Arm,, the Raspberry Pi foundation and ACM:
+- [ctuning/ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize software projects as a database of reusable components and micro-services with common APIs, automation actions and extensible meta descriptions based on FAIR principles. See real-world use cases from MLPerf(tm), General Motors, Arm, Qualcomm, the Raspberry Pi foundation and ACM:
 - [bhrigu123/classifier](https://github.com/bhrigu123/classifier) - Organize files in your directory instantly, by classifying them into different folders
 - [mcharleb/gittagstats](https://github.com/mcharleb/gittagstats) - 
 - [jctanner/ansible-tools](https://github.com/jctanner/ansible-tools) - 
@@ -3746,7 +3746,6 @@
 - [hughjonesd/rumpel](https://github.com/hughjonesd/rumpel) - Manipulate objects by their names
 - [cynkra/indiedown](https://github.com/cynkra/indiedown) - Individual RMarkdown Templates
 - [G-Thomson/Manu](https://github.com/G-Thomson/Manu) - This package provides colour palettes derived from birds native to New Zealand
-- [colearendt/shinytest-playground](https://github.com/colearendt/shinytest-playground) - 
 - [deepanshu88/shinyDarkmode](https://github.com/deepanshu88/shinyDarkmode) - Add Darkmode in Shiny App
 - [poissonconsulting/checkr](https://github.com/poissonconsulting/checkr) - An R package of assertive functions to check the properties of common R objects.
 - [skranz/shinyChatQuiz](https://github.com/skranz/shinyChatQuiz) - App for online lecture support with chat and quizzes
@@ -4413,7 +4412,7 @@
 - [karoliskoncevicius/r_redo_example](https://github.com/karoliskoncevicius/r_redo_example) - Example of R redo workflow
 - [ycphs/openxlsx](https://github.com/ycphs/openxlsx) - openxlsx - a fast way to read and write complex xslx files
 - [feddelegrand7/fabricerin](https://github.com/feddelegrand7/fabricerin) - Create Easily Canvas in Shiny and RMarkdown Documents
-- [IndrajeetPatil/statsExpressions](https://github.com/IndrajeetPatil/statsExpressions) - Expressions and dataframes with statistical details 📉 📜🔣✅
+- [IndrajeetPatil/statsExpressions](https://github.com/IndrajeetPatil/statsExpressions) - Tidy Dataframes and Expressions with Statistical Details 📉 📜🔣✅
 - [RinteRface/charpente](https://github.com/RinteRface/charpente) - Seamlessly design robust 'shiny' extensions
 - [davidgohel/ReporteRs](https://github.com/davidgohel/ReporteRs) - Note that ReporteRs has been removed from CRAN the 16th of July 2018 and is not maintained anymore. please migrate to officer.
 - [jhudsl/alexar](https://github.com/jhudsl/alexar) - Serve R code for the Amazon Echo, originally written by Jeff Allen of Trestletech
@@ -6176,7 +6175,6 @@
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 - [denoland/deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 
 ## SAS 
@@ -6669,7 +6667,7 @@
 - [expo/react-native-action-sheet](https://github.com/expo/react-native-action-sheet) - A cross-platform ActionSheet for React Native
 - [microsoft/vscode-react-native](https://github.com/microsoft/vscode-react-native) - VSCode extension for React Native - supports debugging and editor integration
 - [Flutterwave/flutterwave-react-native](https://github.com/Flutterwave/flutterwave-react-native) - Easily plug Flutterwave into your react-native app for payments.
-- [docker/build-push-action](https://github.com/docker/build-push-action) - :octocat: GitHub Action to build and push Docker images with Buildx
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
 - [oliveryh/obsidian-emoji-toolbar](https://github.com/oliveryh/obsidian-emoji-toolbar) - 
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
@@ -6858,6 +6856,7 @@
 - [y-lohse/inkjs](https://github.com/y-lohse/inkjs) - A javascript port of inkle's ink scripting language.
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [zendeskgarden/react-containers](https://github.com/zendeskgarden/react-containers) - :seedling: garden React (no-UI) containers
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [microsoft/SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
