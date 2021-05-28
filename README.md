@@ -2116,6 +2116,7 @@
 - [jcheng5/shinymeta-user2019-talk](https://github.com/jcheng5/shinymeta-user2019-talk) - 
 - [rstudio/shiny-examples](https://github.com/rstudio/shiny-examples) - 
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+- [plotly/dashR](https://github.com/plotly/dashR) - Dash for R - An R interface to the Dash ecosystem for creating analytic web applications
 - [johnjones4/InBrief](https://github.com/johnjones4/InBrief) - InBrief is a personal briefing app and dashboard powered by Electron and React
 - [zappingseb/customshinyinput](https://github.com/zappingseb/customshinyinput) - An example app describing how to build custom shiny inputs
 - [htmlwidgets/sparkline](https://github.com/htmlwidgets/sparkline) - jQuery Sparkline HTML Widget for R
@@ -2506,7 +2507,7 @@
 - [shanselman/learninggit](https://github.com/shanselman/learninggit) - 
 - [shanselman/WindowsTerminalHere](https://github.com/shanselman/WindowsTerminalHere) - a .inf file for a right click Explorer "windows terminal here" for Windows Terminal until it's supported directly
 - [shanselman/devcomrade](https://github.com/shanselman/devcomrade) - DevComrade - A copy/paste/run productivity improvement utility for developers
-- [BookmarksDev/bookmarks](https://github.com/BookmarksDev/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.bookmarks.dev
+- [CodeverLand/bookmarks](https://github.com/CodeverLand/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.bookmarks.dev
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 - [jtommaney/blog](https://github.com/jtommaney/blog) - notes on parallel analytic operators
 - [jimbrig/template_shinydashboard](https://github.com/jimbrig/template_shinydashboard) - Template for creating a shinydashboard at Tychobra
@@ -3547,6 +3548,7 @@
 
 ## R 
 
+- [analythium/covidapp-shiny](https://github.com/analythium/covidapp-shiny) - A simple Shiny app to display and forecast COVID-19 daily cases
 - [JohnCoene/coronavirus](https://github.com/JohnCoene/coronavirus) - 🦠 Novel Coronavirus (COVID-19) Tracker
 - [fsolt/swiid](https://github.com/fsolt/swiid) - Standardized World Income Inequality Database
 - [sophof/blaise](https://github.com/sophof/blaise) - R package facilitating the reading and writing of blaise fwf files
@@ -5874,7 +5876,6 @@
 - [luisDVA/annotater](https://github.com/luisDVA/annotater) - Annotate Package Load Calls
 - [davidgohel/flextable](https://github.com/davidgohel/flextable) - table farming
 - [elbersb/tidylog](https://github.com/elbersb/tidylog) - Tidylog provides feedback about dplyr and tidyr operations. It provides wrapper functions for the most common functions, such as filter, mutate, select, and group_by, and provides detailed output for joins.
-- [plotly/dashR](https://github.com/plotly/dashR) - Dash for R - An R interface to the Dash ecosystem for creating analytic web applications
 - [r-lib/tidyselect](https://github.com/r-lib/tidyselect) - A backend for functions taking tidyverse selections
 - [datawookie/emayili](https://github.com/datawookie/emayili) - An R package for sending email messages.
 - [rstudio/htmltools](https://github.com/rstudio/htmltools) - Tools for HTML generation and output
@@ -6735,7 +6736,7 @@
 - [akatrukhin/MagicBox](https://github.com/akatrukhin/MagicBox) - Organize your workspace, keep files optimized, prepare images for publishing
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [hasura/data-dictionary](https://github.com/hasura/data-dictionary) - 
-- [BookmarksDev/bookmarks.dev](https://github.com/BookmarksDev/bookmarks.dev) - Bookmarks and Code Snippets Manager for Developers & Co
+- [CodeverLand/codever](https://github.com/CodeverLand/codever) - Bookmarks and Snippets Manager for Developers & Co
 - [agathauy/wikilinks-to-mdlinks-obsidian](https://github.com/agathauy/wikilinks-to-mdlinks-obsidian) - An Obsidian md plugin which allows for the conversion of individually selected wikilinks to markdown links, and vice versa.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Build custom CRUD apps that talk to any API or database. All without HTML or CSS.
 - [toddbluhm/env-cmd](https://github.com/toddbluhm/env-cmd) - Setting environment variables from a file
