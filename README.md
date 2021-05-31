@@ -1929,7 +1929,7 @@
 - [richarddmorey/stat-distributions-js](https://github.com/richarddmorey/stat-distributions-js) - Javascript library for the visualization of statistical distributions
 - [sourcerer-io/awesome-libraries](https://github.com/sourcerer-io/awesome-libraries) - :sunglasses: Libraries that are being shown in Sourcerer profiles.
 - [ingalless/foam-template-gatsby-search](https://github.com/ingalless/foam-template-gatsby-search) - Foam template, built with Gatsby, plus search
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (June 2021)
 - [renrousousuo/DocumentTemplate](https://github.com/renrousousuo/DocumentTemplate) - 文件 Markdown 格式。方便书写各种文档。
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -3874,7 +3874,7 @@
 - [ropensci/osmextract](https://github.com/ropensci/osmextract) - Download and import OpenStreetMap data from Geofabrik and other providers
 - [kcuilla/Shiny_home_valuation_model](https://github.com/kcuilla/Shiny_home_valuation_model) - 
 - [kcuilla/swapir](https://github.com/kcuilla/swapir) - swapir package
-- [kcuilla/reactablefmtr](https://github.com/kcuilla/reactablefmtr) - Simplify and ehance the styling and formatting of tables made with {reactable}
+- [kcuilla/reactablefmtr](https://github.com/kcuilla/reactablefmtr) - Easily Customize Interactive Tables Made With Reactable
 - [zonebuilders/zonebuilder](https://github.com/zonebuilders/zonebuilder) - Divide geographic space into discrete chunks
 - [jeroen/maketools](https://github.com/jeroen/maketools) - Exploring and Testing your Toolchain Configuration and System Packages
 - [SchmidtPaul/CitaviR](https://github.com/SchmidtPaul/CitaviR) - A set of tools for dealing with Citavi data
@@ -6694,7 +6694,7 @@
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.
 - [jevakallio/git-notify](https://github.com/jevakallio/git-notify) - 🙉 📣 Communicate important updates to your team via git commit messages
 - [JasonEtco/create-an-issue](https://github.com/JasonEtco/create-an-issue) - A GitHub Action for creating a new issue from a template file.
-- [rocket-booster/rocket-booster](https://github.com/rocket-booster/rocket-booster) - 🚀 The edge-rendered speed booster for web applications, storage platforms, and RESTful APIs.
+- [rocket-booster/rocket-booster](https://github.com/rocket-booster/rocket-booster) - 🚀 Serverless reverse proxy and load balancer library built for Cloudflare Workers.
 - [obsidian-userland/publish](https://github.com/obsidian-userland/publish) - Open source Obsidian Publish alternative
 - [skalnik/obsidian-readwise-sync](https://github.com/skalnik/obsidian-readwise-sync) - Sync Readwise Highlights to Obsidian
 - [jplattel/obsidian-query-language](https://github.com/jplattel/obsidian-query-language) - An Obsidian plugin allowing you to query your notes
