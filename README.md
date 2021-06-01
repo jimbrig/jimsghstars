@@ -496,7 +496,7 @@
 - [paeselhz/reticulate_101](https://github.com/paeselhz/reticulate_101) - Apresentação introdutória sobre o uso de Reticulate para integrar R e Python
 - [gadenbuie/cleanrmd](https://github.com/gadenbuie/cleanrmd) - 📄✨Clean Class-Less R Markdown HTML Documents
 - [dicook/exploratory-data-analysis-in-the-21st-century](https://github.com/dicook/exploratory-data-analysis-in-the-21st-century) - A book about exploratory data analysis in the 21st century
-- [pachamaltese/tradestatistics-visualization-with-shiny](https://github.com/pachamaltese/tradestatistics-visualization-with-shiny) - Open Trade Statistics Shiny Dashboard
+- [pachadotdev/tradestatistics-visualization-with-shiny](https://github.com/pachadotdev/tradestatistics-visualization-with-shiny) - Open Trade Statistics Shiny Dashboard
 - [ykob/fullscreen-slider](https://github.com/ykob/fullscreen-slider) - This asset controls sections in a page.   It resizes sections to fullscreen resolution and moves these individually by wheel/touch events.
 - [rbind/support](https://github.com/rbind/support) - Technical support for rbind
 - [jimbrig/resources](https://github.com/jimbrig/resources) - 
@@ -1052,8 +1052,6 @@
 - [mcanouil/rstartup](https://github.com/mcanouil/rstartup) - Tips to start working with R
 - [nstrayer/cv](https://github.com/nstrayer/cv) - My CV built using RMarkdown and the pagedown package.
 - [allejo/jekyll-toc](https://github.com/allejo/jekyll-toc) - A GitHub Pages compatible Table of Contents generator without a plugin or JavaScript :octocat:
-- [iamericfletcher/distill_blog](https://github.com/iamericfletcher/distill_blog) - 
-- [iamericfletcher/EDA](https://github.com/iamericfletcher/EDA) - 
 - [GShotwell/easyMake](https://github.com/GShotwell/easyMake) - Automatically generate Makefiles for R projects
 - [ScottHands/ScottHands.github.io](https://github.com/ScottHands/ScottHands.github.io) - Portfolio
 - [arthrp/quick-skeleton-templates](https://github.com/arthrp/quick-skeleton-templates) - Templates for quick-skeleton scaffolding engine
@@ -3882,7 +3880,7 @@
 - [r-assist/assignr](https://github.com/r-assist/assignr) - Tools for Educators Writing Assignments in RMarkdown
 - [sol-eng/plumber-logging](https://github.com/sol-eng/plumber-logging) - An opinionated example for implementing logging in Plumber APIs
 - [CristianAbrante/ShinyVisualizationAssignments](https://github.com/CristianAbrante/ShinyVisualizationAssignments) - Repository for the visualization assignments using Shiny at the Big Data course on the EIT Digital data science master at UPM. 📚
-- [pachamaltese/cepiigeodist](https://github.com/pachamaltese/cepiigeodist) - GeoDist datasets in R
+- [pachadotdev/cepiigeodist](https://github.com/pachadotdev/cepiigeodist) - GeoDist datasets in R
 - [jbkunst/trd-sttstcs](https://github.com/jbkunst/trd-sttstcs) - 
 - [jbkunst/blog](https://github.com/jbkunst/blog) - Data, Code and Visualization
 - [wStockhausen/wtsUtilities](https://github.com/wStockhausen/wtsUtilities) - R package with various utility functions.
