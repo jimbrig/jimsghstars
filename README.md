@@ -1428,7 +1428,7 @@
 - [issaafalkattan/React-Landing-Page-Template](https://github.com/issaafalkattan/React-Landing-Page-Template) - A simple react one page landing page templates for startups/companies
 - [vikrantnegi/react-native-location-tracking](https://github.com/vikrantnegi/react-native-location-tracking) - Track User location and draws the path you have taken
 - [paaatrick/playball](https://github.com/paaatrick/playball) - Watch MLB games from the comfort of your own terminal
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [sqorn/sqorn](https://github.com/sqorn/sqorn) - A Javascript library for building SQL queries
 - [sqlpad/sqlpad](https://github.com/sqlpad/sqlpad) - Web-based SQL editor run in your own private cloud. Supports MySQL, Postgres, SQL Server, Vertica, Crate, ClickHouse, Trino, Presto, SAP HANA, Cassandra, Snowflake, BigQuery, SQLite, and more with ODBC
@@ -6081,7 +6081,7 @@
 
 ## Reason 
 
-- [davesnx/query-json](https://github.com/davesnx/query-json) - Faster and simpler implementation of jq in Reason Native
+- [davesnx/query-json](https://github.com/davesnx/query-json) - Faster, simpler and more portable implementation of `jq` in Reason
 - [revery-ui/revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason!
 
 ## Ruby 
@@ -6491,7 +6491,7 @@
 - [nicksp/dotfiles](https://github.com/nicksp/dotfiles) - My OS X environment
 - [vincentcox/bypass-firewalls-by-DNS-history](https://github.com/vincentcox/bypass-firewalls-by-DNS-history) - Firewall bypass script based on DNS history records. This script will search for DNS A history records and check if the server replies for that domain. Handy for bugbounty hunters.
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
-- [dmedri/roaster](https://github.com/dmedri/roaster) - Check R updates and build sources
+- [dmedri/roaster](https://github.com/dmedri/roaster) - R - Fetch, build and deploy.
 - [grssnbchr/rddj-template](https://github.com/grssnbchr/rddj-template) - A template for bootstrapping reproducible RMarkdown documents for data journalistic purposes.
 - [petervanderdoes/gitflow-avh](https://github.com/petervanderdoes/gitflow-avh) - AVH Edition of the git extensions to provide high-level repository operations for Vincent Driessen's branching model
 - [r-hub/sysreqsdb](https://github.com/r-hub/sysreqsdb) - SystemRequirements mappings for R packages
@@ -6692,7 +6692,7 @@
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.
 - [jevakallio/git-notify](https://github.com/jevakallio/git-notify) - 🙉 📣 Communicate important updates to your team via git commit messages
 - [JasonEtco/create-an-issue](https://github.com/JasonEtco/create-an-issue) - A GitHub Action for creating a new issue from a template file.
-- [rocket-booster/rocket-booster](https://github.com/rocket-booster/rocket-booster) - 🚀 Serverless reverse proxy and load balancer library built for Cloudflare Workers.
+- [edge-booster/rocket-booster](https://github.com/edge-booster/rocket-booster) - 🚀 Serverless reverse proxy and load balancer library built for Cloudflare Workers.
 - [obsidian-userland/publish](https://github.com/obsidian-userland/publish) - Open source Obsidian Publish alternative
 - [skalnik/obsidian-readwise-sync](https://github.com/skalnik/obsidian-readwise-sync) - Sync Readwise Highlights to Obsidian
 - [jplattel/obsidian-query-language](https://github.com/jplattel/obsidian-query-language) - An Obsidian plugin allowing you to query your notes
