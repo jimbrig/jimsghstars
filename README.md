@@ -1289,7 +1289,6 @@
 - [darwinanddavis/UsefulCode](https://github.com/darwinanddavis/UsefulCode) - Useful R code for functions, plotting, cool things {R}
 - [kellobri/spc-app](https://github.com/kellobri/spc-app) - 
 - [rstudio/rstudio-conf](https://github.com/rstudio/rstudio-conf) - Materials for rstudio::conf
-- [ThinkR-open/testdown](https://github.com/ThinkR-open/testdown) - Turn your 'testthat' results into a Bookdown.
 - [ThinkR-open/engineering-shiny-book](https://github.com/ThinkR-open/engineering-shiny-book) - Engineering Production-Grade Shiny Apps — To be published in the R Series in 2021.
 - [ThinkR-open/licensing-r](https://github.com/ThinkR-open/licensing-r) - A Bookdown about R & licenses
 - [mlysy/rdoxygen](https://github.com/mlysy/rdoxygen) - Create doxygen documentation for R package C++ code
@@ -1298,7 +1297,7 @@
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [dr-harper/example-rmd-templates](https://github.com/dr-harper/example-rmd-templates) - 📄 A selection of minimal examples used to highlight R Markdown templates, as referred to in the "R Markdown Definitive Guide"
 - [pbiecek/archivist](https://github.com/pbiecek/archivist) - A set of tools for datasets and plots archiving
-- [tidymodels/recipes](https://github.com/tidymodels/recipes) - A preprocessing engine to generate design matrices
+- [tidymodels/recipes](https://github.com/tidymodels/recipes) - Pipeable steps for feature engineering and data preprocessing to prepare for modeling
 - [kasaai/quests](https://github.com/kasaai/quests) - Adventures in research at the intersection of insurance and AI
 - [ekstroem/dataMaid](https://github.com/ekstroem/dataMaid) - An R package for data screening
 - [yihui/rolldown](https://github.com/yihui/rolldown) - R Markdown output formats for storytelling
@@ -2167,7 +2166,7 @@
 - [casact/covid_19_data](https://github.com/casact/covid_19_data) - Data collection and exploratory analysis related to COVID-19 for general insurance actuaries and the public
 - [validatehealth/actuary](https://github.com/validatehealth/actuary) - Python code examples to support the Python for Actuaries webinars sponsored by ACTEX Learning
 - [khanhnamle1994/cracking-the-data-science-interview](https://github.com/khanhnamle1994/cracking-the-data-science-interview) - A Collection of Cheatsheets, Books, Questions, and Portfolio For DS/ML Interview Prep
-- [wayfair-contribs/gists](https://github.com/wayfair-contribs/gists) - because you can't create gists as an organization
+- [wayfair-archive/gists](https://github.com/wayfair-archive/gists) - because you can't create gists as an organization
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [jananiarunachalam/Data-Science-Portfolio](https://github.com/jananiarunachalam/Data-Science-Portfolio) - Data Science Projects Repository
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
@@ -5820,6 +5819,7 @@
 - [ThinkR-open/tagsinput](https://github.com/ThinkR-open/tagsinput) - Bootstrap tags input for shiny
 - [ThinkR-open/fa](https://github.com/ThinkR-open/fa) - font awesome R tools
 - [ThinkR-open/clientapp](https://github.com/ThinkR-open/clientapp) - Showcase of Shiny App for client database and after-sales calls exploration
+- [ThinkR-open/testdown](https://github.com/ThinkR-open/testdown) - Turn your 'testthat' results into a Bookdown.
 - [ThinkR-open/brighter](https://github.com/ThinkR-open/brighter) - A toolbox of functions for easier shiny development.
 - [ThinkR-open/chameleon](https://github.com/ThinkR-open/chameleon) - Build And Highlight Package Documentation With Customized Templates
 - [ThinkR-open/thinkr](https://github.com/ThinkR-open/thinkr) - Some tools for cleaning up messy 'Excel' files to be suitable for R
