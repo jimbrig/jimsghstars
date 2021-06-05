@@ -649,6 +649,7 @@
 
 ## Dockerfile 
 
+- [littlemanco/docker--git-crypt](https://github.com/littlemanco/docker--git-crypt) - 
 - [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
 - [dougmet/docker-plumber](https://github.com/dougmet/docker-plumber) - Minimum docker image to deploy a plumber app
 - [mgibeau/semantic-release-expo-github-action](https://github.com/mgibeau/semantic-release-expo-github-action) - 
@@ -796,7 +797,7 @@
 - [tumblr/docker-registry-pruner](https://github.com/tumblr/docker-registry-pruner) - Tool to apply retention logic to docker images in a Docker Registry
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-- [Matt-Gleich/gh_fsync](https://github.com/Matt-Gleich/gh_fsync) - 🔄 GitHub action to sync files across repos in GitHub
+- [gleich/gh_fsync](https://github.com/gleich/gh_fsync) - 🔄 GitHub action to sync files across repos in GitHub
 - [snwfdhmp/duck](https://github.com/snwfdhmp/duck) - Create command snippets for repetitive development task. Share them to an online repository system (self hosted options available).
 - [google/nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
 - [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) - Programs to keep Docker login credentials safe by storing in platform keystores
@@ -2289,6 +2290,7 @@
 
 ## Others 
 
+- [Dmitriy-Shulha/obsidian-css-snippets](https://github.com/Dmitriy-Shulha/obsidian-css-snippets) - Most common appearance solutions for Obsidian now in a single place. Initially collected by Klaas: https://forum.obsidian.md/t/how-to-achieve-css-code-snippets/8474
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG.
 - [kidonng/sushi](https://github.com/kidonng/sushi) - 🍣 A tasty and inclusive Scoop bucket
 - [nickforr/rsetup](https://github.com/nickforr/rsetup) - Manage a list of R packages I find useful
@@ -2355,7 +2357,7 @@
 - [TylerLeonhardt/vscode-github-test](https://github.com/TylerLeonhardt/vscode-github-test) - 
 - [jennybc/making-messages](https://github.com/jennybc/making-messages) - 
 - [thisroot/dotfiles](https://github.com/thisroot/dotfiles) - Windows + WSL 2 Ubuntu + Windows Terminal + zsh + p10k + Docker + IntelliJ IDEA
-- [ReneNyffenegger/ps-modules](https://github.com/ReneNyffenegger/ps-modules) - PowerShell modules
+- [ReneNyffenegger/ps-modules-](https://github.com/ReneNyffenegger/ps-modules-) - PowerShell modules
 - [mjskay/by_row](https://github.com/mjskay/by_row) - A proposal for an alternative to rowwise() and mutate() + map()
 - [CHCP/toolmaker-docs](https://github.com/CHCP/toolmaker-docs) - Toolmaker website.
 - [lilin90/awesome-technical-communication](https://github.com/lilin90/awesome-technical-communication) - 😎 A curated list of awesome resources about technical communication
@@ -2513,7 +2515,7 @@
 - [shanselman/learninggit](https://github.com/shanselman/learninggit) - 
 - [shanselman/WindowsTerminalHere](https://github.com/shanselman/WindowsTerminalHere) - a .inf file for a right click Explorer "windows terminal here" for Windows Terminal until it's supported directly
 - [shanselman/devcomrade](https://github.com/shanselman/devcomrade) - DevComrade - A copy/paste/run productivity improvement utility for developers
-- [CodeverLand/bookmarks](https://github.com/CodeverLand/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.land
+- [codeverland/bookmarks](https://github.com/codeverland/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.land
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 - [jtommaney/blog](https://github.com/jtommaney/blog) - notes on parallel analytic operators
 - [jimbrig/template_shinydashboard](https://github.com/jimbrig/template_shinydashboard) - Template for creating a shinydashboard at Tychobra
@@ -3553,6 +3555,7 @@
 
 ## R 
 
+- [warlicks/cookiecutteR](https://github.com/warlicks/cookiecutteR) - Package To Create A Project With The Cookie Cutter For Data Science Layout
 - [tomhiatt/WHO-maps](https://github.com/tomhiatt/WHO-maps) - A few tools for easily creating maps in R that are aligned with official boundaries.
 - [UweBlock/ISOweek](https://github.com/UweBlock/ISOweek) - R Package to compute week of the year and weekday according to ISO 8601.
 - [jokergoo/ComplexHeatmap](https://github.com/jokergoo/ComplexHeatmap) - Make Complex Heatmaps
@@ -3783,7 +3786,7 @@
 - [dgrtwo/drlib](https://github.com/dgrtwo/drlib) - Personal R package
 - [chriscardillo/giftwrap](https://github.com/chriscardillo/giftwrap) - Take shell commands and turn them into R functions
 - [dgrtwo/cranview](https://github.com/dgrtwo/cranview) - A Shiny app to visualize downloads from RStudio's CRAN mirror
-- [powwater/vendor_dashboard](https://github.com/powwater/vendor_dashboard) - Vendor Dashboard Shiny Web Application
+- [powwater/pow_vendor](https://github.com/powwater/pow_vendor) - Vendor Dashboard Shiny Web Application
 - [powwater/landing_page](https://github.com/powwater/landing_page) - Minimal example landing page application portal for powwater apps.
 - [jimbrig/jimstemplates](https://github.com/jimbrig/jimstemplates) - Personal Templates
 - [datasketch/parmesan](https://github.com/datasketch/parmesan) - 
@@ -6616,6 +6619,7 @@
 
 ## TypeScript 
 
+- [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A complex query language implementation for the Obsidian note-taking tool.
 - [tgrosinger/tq-obsidian](https://github.com/tgrosinger/tq-obsidian) - Yet another Obsidian task manager
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
@@ -6710,7 +6714,7 @@
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A realtime Database for JavaScript Applications
 - [googlemaps/google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
-- [teambit/bit](https://github.com/teambit/bit) - A lightweight and highly extendible tool for component-driven development.
+- [teambit/bit](https://github.com/teambit/bit) - A lightweight and highly extendible Polyrepo for component-driven development.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [shd101wyy/mume](https://github.com/shd101wyy/mume) - Powerful markdown tool
 - [react-native-community/cli](https://github.com/react-native-community/cli) - React Native command line tools
@@ -6756,7 +6760,7 @@
 - [akatrukhin/MagicBox](https://github.com/akatrukhin/MagicBox) - Organize your workspace, keep files optimized, prepare images for publishing
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [hasura/data-dictionary](https://github.com/hasura/data-dictionary) - 
-- [CodeverLand/codever](https://github.com/CodeverLand/codever) - Bookmarks and Snippets Manager for Developers & Co
+- [codeverland/codever](https://github.com/codeverland/codever) - Bookmarks and Snippets Manager for Developers & Co
 - [agathauy/wikilinks-to-mdlinks-obsidian](https://github.com/agathauy/wikilinks-to-mdlinks-obsidian) - An Obsidian md plugin which allows for the conversion of individually selected wikilinks to markdown links, and vice versa.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Build custom CRUD apps that talk to any API or database. All without HTML or CSS.
 - [toddbluhm/env-cmd](https://github.com/toddbluhm/env-cmd) - Setting environment variables from a file
