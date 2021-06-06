@@ -3120,7 +3120,7 @@
 - [vors/ZLocation](https://github.com/vors/ZLocation) - ZLocation is the new Jump-Location
 - [jimbrig/winsetup](https://github.com/jimbrig/winsetup) - Windows 10 Setup
 - [asears/WindowsSetup](https://github.com/asears/WindowsSetup) - Apps for Windows
-- [pratyakshm/CleanWin](https://github.com/pratyakshm/CleanWin) - Makes your Windows 10 PC 🚀
+- [pratyakshm/CleanWin](https://github.com/pratyakshm/CleanWin) - Makes your PC run faster.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [Daksh777/windows10-debloat](https://github.com/Daksh777/windows10-debloat) - Collection of various scripts and apps to debloat Windows 10 for better privacy, performance and optimization.
 - [gordonbay/Windows-On-Reins](https://github.com/gordonbay/Windows-On-Reins) - Windows 10 Ameliorated, Debloat, Optimize, Privacy fix
@@ -3555,6 +3555,10 @@
 
 ## R 
 
+- [phuse-org/valtools](https://github.com/phuse-org/valtools) - Validation framework for R packages used in clinical research and drug development.
+- [rstudio/remarker](https://github.com/rstudio/remarker) - 
+- [coolbutuseless/gluestick](https://github.com/coolbutuseless/gluestick) - Simple, single-function string interpolation in Base R
+- [arthurwelle/codehover](https://github.com/arthurwelle/codehover) - Hoverable HTML Table for Displaying Intermediary Code Results (e.g. Pipes)
 - [warlicks/cookiecutteR](https://github.com/warlicks/cookiecutteR) - Package To Create A Project With The Cookie Cutter For Data Science Layout
 - [tomhiatt/WHO-maps](https://github.com/tomhiatt/WHO-maps) - A few tools for easily creating maps in R that are aligned with official boundaries.
 - [UweBlock/ISOweek](https://github.com/UweBlock/ISOweek) - R Package to compute week of the year and weekday according to ISO 8601.
