@@ -956,7 +956,6 @@
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [sammy007-debug/Responsive-Restaurant-Website-Design](https://github.com/sammy007-debug/Responsive-Restaurant-Website-Design) - Responsive Restaurant Website Design Using HTML CSS And JavaScript  | Website Light/Dark mode. This is a great project for beginners and will fit well in your portfolio. This website is made with html css and js.
 - [sammy007-debug/Eccom-Website](https://github.com/sammy007-debug/Eccom-Website) - This is Ecommerce Website made with Html and CSS and Also Javascript. This Ecom website is fully responsive.
-- [powwater/powdocs](https://github.com/powwater/powdocs) - Powwater Hosted Documentation
 - [Kodular/Documentation](https://github.com/Kodular/Documentation) - Kodular Documentation
 - [dgrtwo/dgrtwo.github.com](https://github.com/dgrtwo/dgrtwo.github.com) - My website
 - [vfarcic/vfarcic.github.io](https://github.com/vfarcic/vfarcic.github.io) - 
