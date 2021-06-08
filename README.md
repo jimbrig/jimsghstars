@@ -443,6 +443,7 @@
 - [eddelbuettel/rcppsimdjson](https://github.com/eddelbuettel/rcppsimdjson) - Rcpp Bindings for the 'simdjson' Header Library
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
 - [bnosac/sentencepiece](https://github.com/bnosac/sentencepiece) - R package for Byte Pair Encoding / Unigram modelling based on Sentencepiece
+- [r-lib/vdiffr](https://github.com/r-lib/vdiffr) - Visual regression testing and graphical diffing with testthat
 - [omegahat/RDCOMClient](https://github.com/omegahat/RDCOMClient) - 
 - [coolbutuseless/devout](https://github.com/coolbutuseless/devout) - Write R graphics output devices in plain R
 - [intel/hyperscan](https://github.com/intel/hyperscan) - High-performance regular expression matching library
@@ -2274,6 +2275,7 @@
 
 ## Objective-C 
 
+- [JustinFincher/GitHubContributionsiOS](https://github.com/JustinFincher/GitHubContributionsiOS) - Show off your GitHub contributions from your lock screen 📱
 - [R-macos/Mac-GUI](https://github.com/R-macos/Mac-GUI) - R GUI for macOS
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [a7ul/react-native-exception-handler](https://github.com/a7ul/react-native-exception-handler) - A react native module that lets you to register a global error handler that can capture fatal/non fatal uncaught exceptions.
@@ -5320,7 +5322,6 @@
 - [GuangchuangYu/rvcheck](https://github.com/GuangchuangYu/rvcheck) - :white_check_mark:R/Package Version Check
 - [philchalmers/mirt](https://github.com/philchalmers/mirt) - Multidimensional item response theory
 - [gadenbuie/js4shiny](https://github.com/gadenbuie/js4shiny) - Companion Package for JavaScript for Shiny Users
-- [r-lib/vdiffr](https://github.com/r-lib/vdiffr) - Visual regression testing and graphical diffing with testthat
 - [yihui/Rd2roxygen](https://github.com/yihui/Rd2roxygen) - Convert Rd to roxygen documentation
 - [gadenbuie/metathis](https://github.com/gadenbuie/metathis) - :information_source: &lt;meta&gt; tags and social media cards for R-made web things
 - [clevr-dev/Shiny-GEM](https://github.com/clevr-dev/Shiny-GEM) - A data analysis web-app written in R Shiny.
@@ -5539,7 +5540,7 @@
 - [jennybc/foofactors](https://github.com/jennybc/foofactors) - Make Factors Less Aggravating
 - [dgarmat/expectdata](https://github.com/dgarmat/expectdata) - Test Expectations of a Data Frame
 - [eddelbuettel/pkgkitten](https://github.com/eddelbuettel/pkgkitten) - Create simple packages which pass R CMD check
-- [Pakillo/template](https://github.com/Pakillo/template) - A template for data analysis projects structured as R packages
+- [Pakillo/template](https://github.com/Pakillo/template) - A template for data analysis projects structured as R packages (or not)
 - [ropensci/datapack](https://github.com/ropensci/datapack) - An R package to handle data packages
 - [ropensci/rdataretriever](https://github.com/ropensci/rdataretriever) - R interface to the Data Retriever
 - [markvanderloo/tinytest](https://github.com/markvanderloo/tinytest) - A lightweight, no-dependency, but full-featured package for unit testing in R
