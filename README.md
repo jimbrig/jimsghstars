@@ -120,6 +120,7 @@
 
 ## Batchfile 
 
+- [teddy-gustiaux/scripts](https://github.com/teddy-gustiaux/scripts) - Set of miscellaneous scripts for personal use.
 - [OHDSI/CommonDataModel](https://github.com/OHDSI/CommonDataModel) - Definition and DDLs for the OMOP Common Data Model (CDM)
 - [JoePlant/windows-scripts](https://github.com/JoePlant/windows-scripts) - A set of scripts that I use to manage my laptop
 - [vensko/pint](https://github.com/vensko/pint) - A single-file command-line package manager for Windows.
@@ -502,7 +503,6 @@
 - [rbind/support](https://github.com/rbind/support) - Technical support for rbind
 - [jimbrig/resources](https://github.com/jimbrig/resources) - 
 - [tautomer/WSL_Windows_Terminal](https://github.com/tautomer/WSL_Windows_Terminal) - A full guide on how to set up WSL/WSL2 and use Windows Terminal or Terminator as the terminal emulator. Some tricky X11 configuration is also included.
-- [phibr0/obsidian-charts](https://github.com/phibr0/obsidian-charts) - Charts - Obsidian Plugin | Create editable, interactive and animated Charts in Obsidian
 - [gilbertohasnofb/typora-panda-theme](https://github.com/gilbertohasnofb/typora-panda-theme) - Panda theme for Typora
 - [heroku/12factor](https://github.com/heroku/12factor) - 
 - [stla/shinyMergely](https://github.com/stla/shinyMergely) - A Shiny app allowing to compare and merge two files.
@@ -659,7 +659,6 @@
 - [GoogleCloudPlatform/cloud-sdk-docker](https://github.com/GoogleCloudPlatform/cloud-sdk-docker) - Docker image with all the components of the Google Cloud SDK
 - [mdneuzerling/plumber-on-k8s](https://github.com/mdneuzerling/plumber-on-k8s) - Run a `plumber` API on Kubernetes
 - [RaccoonDev/push-docker-gcr](https://github.com/RaccoonDev/push-docker-gcr) - Github Workflow Action to push a docker image to Google Container Registry
-- [ThinkR-open/docker4dev](https://github.com/ThinkR-open/docker4dev) - Repository with DockerFiles for tutorials
 - [MangoTheCat/docker-docker-gcpsdk](https://github.com/MangoTheCat/docker-docker-gcpsdk) - Docker-in-Docker with GCP SDK
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [QuantumObject/docker-shiny](https://github.com/QuantumObject/docker-shiny) - Dockerfile to be use to build image for docker container with Shiny
@@ -2292,6 +2291,7 @@
 
 ## Others 
 
+- [webpro/programming-principles](https://github.com/webpro/programming-principles) - Categorized overview of programming principles & design patterns
 - [Neolyon0101/MyFilesXProject](https://github.com/Neolyon0101/MyFilesXProject) - A new File Explorer with a new design based on Fluent Design and UWP, with most of the features of the Windows Native File Explorer!
 - [stemmlerjs/software-design-and-architecture-roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - 🧱 The software design and architecture roadmap for any developer
 - [Dmitriy-Shulha/obsidian-css-snippets](https://github.com/Dmitriy-Shulha/obsidian-css-snippets) - Most common appearance solutions for Obsidian now in a single place. Initially collected by Klaas: https://forum.obsidian.md/t/how-to-achieve-css-code-snippets/8474
@@ -3560,6 +3560,11 @@
 
 ## R 
 
+- [ResearchActuary/claim_sim](https://github.com/ResearchActuary/claim_sim) - 
+- [ITSLeeds/slopes](https://github.com/ITSLeeds/slopes) - Package to calculate slopes of roads, rivers and trajectories
+- [sewardlee337/finreportr](https://github.com/sewardlee337/finreportr) - R package - Financial Data from U.S. Securities and Exchange Commission
+- [sicarul/xray](https://github.com/sicarul/xray) - xray: The R Package to have X Ray vision on your datasets
+- [rstudio/webdriver](https://github.com/rstudio/webdriver) - WebDriver client in R
 - [phuse-org/valtools](https://github.com/phuse-org/valtools) - Validation framework for R packages used in clinical research and drug development.
 - [rstudio/remarker](https://github.com/rstudio/remarker) - 
 - [coolbutuseless/gluestick](https://github.com/coolbutuseless/gluestick) - Simple, single-function string interpolation in Base R
@@ -3725,7 +3730,7 @@
 - [tunnelWithAC/r-boilerplate-api](https://github.com/tunnelWithAC/r-boilerplate-api) - 
 - [fdrennan/gittrash](https://github.com/fdrennan/gittrash) - Blah blah
 - [fdrennan/ndexr-platform](https://github.com/fdrennan/ndexr-platform) - The NDEXR platform code
-- [ropenscilabs/pkgstats](https://github.com/ropenscilabs/pkgstats) - Historical statistics of every R package ever
+- [ropensci-review-tools/pkgstats](https://github.com/ropensci-review-tools/pkgstats) - Historical statistics of every R package ever
 - [InseeFrLab/lockdown-maps-R](https://github.com/InseeFrLab/lockdown-maps-R) - Population Movements at Spring 2020 Lockdown in France - Interactive Data Visualizations
 - [leonawicz/imgpalr](https://github.com/leonawicz/imgpalr) - R package for generating color palettes from arbitrary images.
 - [klmr/r-dict](https://github.com/klmr/r-dict) - 
@@ -3907,6 +3912,7 @@
 - [Yacine87/Shiny_Dynamic_Interactive_Dashboards](https://github.com/Yacine87/Shiny_Dynamic_Interactive_Dashboards) - Successfuly Communicating our analytical outputs highlights the hard work we've done along the workflow. Deciders are expecting to have easally interpretable & useful insights that help them take the right decisions. Shiny is the R framework for making web apps without knowing HTML, CSS & JS. Shinydashboard is a package from the Shiny ecosystem that allows analysts who aren't software engineers to develop independently their (scalable) dashboards. We will discover in this repo the shinydashboards package, its main functionnalities and how nowadays it is possible using the R ecosystem to deliver business dashboards that have nothing to envy to MS Power BI, Tableau, Qlick, TIBCO & the other analytics industry leaders
 - [Yacine87/EDA_R_Packages](https://github.com/Yacine87/EDA_R_Packages) - EDA is a must to do step in the data science workflow. Working on data, wrangling & transforming them is time consuming, and it determine the success degree of the next steps (pre preocessing, modelling, communicating outputs & decision making). This repo will show you how to perform EDA in R using the tidyverse ecosystem, and will introduce a comparative approach between the main packages in R whcich could let you perform automated EDA & generating automated EDA html or pdf reports, ready to be communicated.
 - [Yacine87/Shiny_ecosystem](https://github.com/Yacine87/Shiny_ecosystem) - R & its best IDE RStudio (according to the majority of R daily users) offer us a wondeful framework for web apps creation. It's called Shiny. The success of this web apps framework generates the development of a large package's ecosystem arround shiny. From prototyping, realising beautiful UI, to testing and deploying to the production scale. With Shiny it's possible to realise both the front and the back end parts inside R :-) Isn't huge !
+- [ThinkR-open/docker4dev](https://github.com/ThinkR-open/docker4dev) - Repository with DockerFiles for tutorials
 - [ColinFay/geoloc](https://github.com/ColinFay/geoloc) - Add geolocation inside your shiny app
 - [MangoTheCat/Introduction-to-Functional-Programming-with-Purrr](https://github.com/MangoTheCat/Introduction-to-Functional-Programming-with-Purrr) - EARL workshop for Introduction to Functional Programming with Purrr
 - [MangoTheCat/dtdbshiny](https://github.com/MangoTheCat/dtdbshiny) - Shiny app demo of database bulk update and inline editing
@@ -4161,7 +4167,7 @@
 - [smouksassi/coveffectsplot](https://github.com/smouksassi/coveffectsplot) - A Shiny App that Produce Forest Plots to Visualize Covariate Effects
 - [petermeissner/wayback](https://github.com/petermeissner/wayback) - #rstats package to handle package installations on legacy #rstats systems
 - [riatelab/potential](https://github.com/riatelab/potential) - An R package to compute the potential model as defined by Stewart (1941).
-- [ropenscilabs/autotest](https://github.com/ropenscilabs/autotest) - Automatic testing of R packages
+- [ropensci-review-tools/autotest](https://github.com/ropensci-review-tools/autotest) - Automatic testing of R packages
 - [paeselhz/rstudioProjectTemplate](https://github.com/paeselhz/rstudioProjectTemplate) - Package that builds RStudio Project Template
 - [paeselhz/ghActionsDockerShiny](https://github.com/paeselhz/ghActionsDockerShiny) - Example integrating Github Actions tools to build a containerized shiny app
 - [donaldrauscher/shiny-farkle](https://github.com/donaldrauscher/shiny-farkle) - Shiny app for the game of Farkle
@@ -5519,7 +5525,6 @@
 - [moodymudskipper/fastpipe](https://github.com/moodymudskipper/fastpipe) - A fast pipe implementation
 - [Derek-Jones/ESEUR-code-data](https://github.com/Derek-Jones/ESEUR-code-data) - Code and data used to create the examples in "Evidence-based Software Engineering based on the publicly available data"
 - [kevinushey/rex](https://github.com/kevinushey/rex) - Friendly regular expressions for R.
-- [sewardlee337/finreportr](https://github.com/sewardlee337/finreportr) - R package - Financial Data from U.S. Securities and Exchange Commission
 - [dppalomar/riskParityPortfolio](https://github.com/dppalomar/riskParityPortfolio) - Design of Risk Parity Portfolios
 - [ArdiaD/RiskPortfolios](https://github.com/ArdiaD/RiskPortfolios) - Functions for the construction of risk-based portfolios
 - [sckott/rresync](https://github.com/sckott/rresync) - ResourceSync R Client
@@ -6738,6 +6743,7 @@
 - [JLChnToZ/uniterm](https://github.com/JLChnToZ/uniterm) - 🚧Universal Terminal Emulator, might be a great toy terminal front-end for geeks.
 - [satackey/action-docker-layer-caching](https://github.com/satackey/action-docker-layer-caching) - 🐳  Enable Docker layer caching in GitHub Actions
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
+- [phibr0/obsidian-charts](https://github.com/phibr0/obsidian-charts) - Charts - Obsidian Plugin | Create editable, interactive and animated Charts in Obsidian
 - [PicGo/PicGo-Core](https://github.com/PicGo/PicGo-Core) - :zap:A tool for pictures uploading. Both CLI & API supports.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [Thinkmill/manypkg](https://github.com/Thinkmill/manypkg) - ☔️ An umbrella for your monorepo
