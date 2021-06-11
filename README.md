@@ -1509,7 +1509,7 @@
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [meliorence/react-native-snap-carousel](https://github.com/meliorence/react-native-snap-carousel) - Swiper/carousel component for React Native featuring previews, multiple layouts, parallax images, performant handling of huge numbers of items, and more. Compatible with Android & iOS.
 - [UDST/vizicities](https://github.com/UDST/vizicities) - A framework for 3D geospatial visualization in the browser
-- [bencodezen/bens-obsidian-boilerplate](https://github.com/bencodezen/bens-obsidian-boilerplate) - An opinionated starter kit to help people get up and running as quickly as possible
+- [bencodezen/bens-obsidian-boilerplate](https://github.com/bencodezen/bens-obsidian-boilerplate) - An opinionated kit to provide people some inspiration and ideas for their own workflows.
 - [Monorepo-Actions/setup-gh-cli](https://github.com/Monorepo-Actions/setup-gh-cli) - 
 - [jh3y/kody](https://github.com/jh3y/kody) - .files and environment configuration manager created with node
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
@@ -3125,7 +3125,7 @@
 - [vors/ZLocation](https://github.com/vors/ZLocation) - ZLocation is the new Jump-Location
 - [jimbrig/winsetup](https://github.com/jimbrig/winsetup) - Windows 10 Setup
 - [asears/WindowsSetup](https://github.com/asears/WindowsSetup) - Apps for Windows
-- [pratyakshm/CleanWin](https://github.com/pratyakshm/CleanWin) - Makes your PC run faster.
+- [pratyakshm/CleanWin](https://github.com/pratyakshm/CleanWin) - Cool code that makes your PC cool.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [Daksh777/windows10-debloat](https://github.com/Daksh777/windows10-debloat) - Collection of various scripts and apps to debloat Windows 10 for better privacy, performance and optimization.
 - [gordonbay/Windows-On-Reins](https://github.com/gordonbay/Windows-On-Reins) - Windows 10 Ameliorated, Debloat, Optimize, Privacy fix
@@ -3560,6 +3560,7 @@
 
 ## R 
 
+- [dming1024/ProjectManage](https://github.com/dming1024/ProjectManage) - 
 - [ResearchActuary/claim_sim](https://github.com/ResearchActuary/claim_sim) - 
 - [ITSLeeds/slopes](https://github.com/ITSLeeds/slopes) - Package to calculate slopes of roads, rivers and trajectories
 - [sewardlee337/finreportr](https://github.com/sewardlee337/finreportr) - R package - Financial Data from U.S. Securities and Exchange Commission
