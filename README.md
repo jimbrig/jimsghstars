@@ -241,6 +241,7 @@
 
 ## C# # 
 
+- [TanayParikh/Moneta](https://github.com/TanayParikh/Moneta) - Moneta - Financial Management for Freelancers
 - [cloudevents/sdk-csharp](https://github.com/cloudevents/sdk-csharp) - CSharp SDK for CloudEvents
 - [ibigbug/PowerSession](https://github.com/ibigbug/PowerSession) - Record a Session in PowerShell
 - [brminnick/GitTrends](https://github.com/brminnick/GitTrends) - A iOS and Android app to monitor the views and clones of your GitHub repos
@@ -964,7 +965,7 @@
 - [datasketch/dspins](https://github.com/datasketch/dspins) - 
 - [skgrange/skgrange.github.io](https://github.com/skgrange/skgrange.github.io) - Personal website repository which is hosted at http://skgrange.github.io/
 - [pbiecek/BioColl2021](https://github.com/pbiecek/BioColl2021) - Notes for the tutorial "Introduction to Machine Learning with R" given at "Biometrisches Kolloquium 2021"
-- [kcuilla/kc_analytics](https://github.com/kcuilla/kc_analytics) - Personal blog made with distill
+- [kcuilla/UnchartedData](https://github.com/kcuilla/UnchartedData) - Data science & data visualization blog made with distill
 - [wilkelab/SDS375](https://github.com/wilkelab/SDS375) - SDS 375 Data Visualization in R
 - [jthomasmock/reactable-presentation](https://github.com/jthomasmock/reactable-presentation) - 
 - [keen/dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates 📊✨
@@ -1382,6 +1383,9 @@
 
 ## JavaScript 
 
+- [mckeever02/tryingtowork](https://github.com/mckeever02/tryingtowork) - A collection of free spaces to work online
+- [luckyshot/freelance-timetracker](https://github.com/luckyshot/freelance-timetracker) - Free and super-simple web-based timetracking system in JavaScript and PHP.
+- [worknenjoy/gitpay](https://github.com/worknenjoy/gitpay) - Bounties for issues on demand. Be rewarded by learning, using Git workflow and continuous integration
 - [the-road-to-react-with-firebase/react-firebase-authentication](https://github.com/the-road-to-react-with-firebase/react-firebase-authentication) - 🔥 Boilerplate Project for Authentication with Firebase in React.
 - [davidruvolo51/r-react-demo](https://github.com/davidruvolo51/r-react-demo) - R ❤️ React Demo application
 - [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
@@ -1672,7 +1676,6 @@
 - [preactjs/compressed-size-action](https://github.com/preactjs/compressed-size-action) - GitHub Action that adds compressed size changes to your PRs.
 - [datasketch/tabler](https://github.com/datasketch/tabler) - HTMLWidget to render tables from Google Sheets database
 - [joshfarrant/slack-clicky](https://github.com/joshfarrant/slack-clicky) - #Clicky is a Chrome Extension which lets you share links to Slack in a single click!
-- [integrations/slack](https://github.com/integrations/slack) - Bring your code to the conversations you care about with the GitHub and Slack integration
 - [le0pard/pgtune](https://github.com/le0pard/pgtune) - Pgtune - tuning PostgreSQL config by your hardware
 - [bit101/quicksettings](https://github.com/bit101/quicksettings) - JavaScript library for making a quick settings panel to control code parameters.
 - [dnote/browser-extension](https://github.com/dnote/browser-extension) - Instantly take encrypted notes inside Chrome or Firefox
@@ -2291,6 +2294,8 @@
 
 ## Others 
 
+- [pratjz/Resources](https://github.com/pratjz/Resources) - Resources
+- [reddavis/freelancer-tools](https://github.com/reddavis/freelancer-tools) - List of useful tools for freelancers
 - [webpro/programming-principles](https://github.com/webpro/programming-principles) - Categorized overview of programming principles & design patterns
 - [Neolyon0101/MyFilesXProject](https://github.com/Neolyon0101/MyFilesXProject) - A new File Explorer with a new design based on Fluent Design and UWP, with most of the features of the Windows Native File Explorer!
 - [stemmlerjs/software-design-and-architecture-roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - 🧱 The software design and architecture roadmap for any developer
@@ -2355,6 +2360,7 @@
 - [Josee9988/Changelog-and-Markdown-snippets](https://github.com/Josee9988/Changelog-and-Markdown-snippets) - 🌞 Snippets for the creation of 𝗰𝗵𝗮𝗻𝗴𝗲𝗹𝗼𝗴𝘀 𝗶𝗻 𝗩𝗦𝗖𝗼𝗱𝗲! Create useful version documentation📑 Maintain a 𝗰𝗵𝗮𝗻𝗴𝗲𝗹𝗼𝗴 following the "use a changelog" guide 📜
 - [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude) - Custom GitHub profile for Eddie Jaoude
 - [Chris-Engelhardt/data_sci_guide](https://github.com/Chris-Engelhardt/data_sci_guide) - A community-sourced data science repo.
+- [powwater/landing_page](https://github.com/powwater/landing_page) - Minimal example landing page application portal for powwater apps.
 - [docker-captains/about](https://github.com/docker-captains/about) - Docker Captains and Our Projects
 - [jimsforks/crrry](https://github.com/jimsforks/crrry) - 'crrri' recipes for 'shiny'
 - [jefftriplett/scripts-to-rule-them-all](https://github.com/jefftriplett/scripts-to-rule-them-all) - ⚙ Scripts To Rule Them All
@@ -2529,6 +2535,7 @@
 - [cole-brokamp/dockeR](https://github.com/cole-brokamp/dockeR) - 
 - [cole-brokamp/tmuxr](https://github.com/cole-brokamp/tmuxr) - Manage tmux from R
 - [tallguyjenks/tallguyjenks](https://github.com/tallguyjenks/tallguyjenks) - 
+- [integrations/slack](https://github.com/integrations/slack) - Bring your code to the conversations you care about with the GitHub and Slack integration
 - [dotcli/knowledge](https://github.com/dotcli/knowledge) - What do I know? Do I know things? Let's find out!
 - [bit101/wiki_example](https://github.com/bit101/wiki_example) - 
 - [Razumihin/obsidian-plugins](https://github.com/Razumihin/obsidian-plugins) - Small plugins for Obsidian note taking tool
@@ -3802,7 +3809,6 @@
 - [chriscardillo/giftwrap](https://github.com/chriscardillo/giftwrap) - Take shell commands and turn them into R functions
 - [dgrtwo/cranview](https://github.com/dgrtwo/cranview) - A Shiny app to visualize downloads from RStudio's CRAN mirror
 - [powwater/pow_vendor](https://github.com/powwater/pow_vendor) - Vendor Dashboard Shiny Web Application
-- [powwater/landing_page](https://github.com/powwater/landing_page) - Minimal example landing page application portal for powwater apps.
 - [jimbrig/jimstemplates](https://github.com/jimbrig/jimstemplates) - Personal Templates
 - [datasketch/parmesan](https://github.com/datasketch/parmesan) - 
 - [Pascal-Schmidt/A-Data-Driven-Approach-to-Evaluating-the-Vancouver-Housing-Market](https://github.com/Pascal-Schmidt/A-Data-Driven-Approach-to-Evaluating-the-Vancouver-Housing-Market) - 
@@ -6657,7 +6663,7 @@
 - [hadynz/obsidian-kindle-plugin](https://github.com/hadynz/obsidian-kindle-plugin) - Sync your Kindle notes and highlights directly into your Obsidian vault
 - [avirut/obsidian-query2table](https://github.com/avirut/obsidian-query2table) - Represent files returned by a query as a table of their YAML frontmatter (for obsidian.md)
 - [avirut/obsidian-metatemplates](https://github.com/avirut/obsidian-metatemplates) - Take advantage of YAML front-matter in generating notes from templates (for obsidian.md)
-- [zephraph/obsidian-tools](https://github.com/zephraph/obsidian-tools) - An unofficial collection of tools that helps you build plugins for obsidian.md
+- [obsidian-tools/obsidian-tools](https://github.com/obsidian-tools/obsidian-tools) - An unofficial collection of tools that helps you build plugins for obsidian.md
 - [renehernandez/obsidian-readwise](https://github.com/renehernandez/obsidian-readwise) - Sync Readwise highlights into your obsidian vault
 - [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker) - A plugin tracks occurrences and numbers in your notes
 - [mgmeyers/obsidian-style-settings](https://github.com/mgmeyers/obsidian-style-settings) - Dynamically creates a user interface for adjusting theme, plugin, and snippet CSS variables
