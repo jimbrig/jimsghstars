@@ -441,7 +441,7 @@
 - [romainfrancois/chew](https://github.com/romainfrancois/chew) - hashing tools for R
 - [romainfrancois/css](https://github.com/romainfrancois/css) - tidy css manipulation
 - [RfastOfficial/Rfast](https://github.com/RfastOfficial/Rfast) - A collection of Rfast functions for data analysis.  Note 1: The vast majority of the functions accept matrices only, not data.frames.  Note 2: Do not have matrices or vectors with have missing data (i.e NAs). We do no check about them and C++ internally transforms them into zeros (0), so you may get wrong results. Note 3: In general, make sure you give the correct input, in order to get the correct output. We do no checks and this is one of the many reasons we are fast.
-- [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication. Languages currently supported include C, C++, Java, JavaScript, Python, and Ruby.
+- [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
 - [eddelbuettel/rcppsimdjson](https://github.com/eddelbuettel/rcppsimdjson) - Rcpp Bindings for the 'simdjson' Header Library
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
 - [bnosac/sentencepiece](https://github.com/bnosac/sentencepiece) - R package for Byte Pair Encoding / Unigram modelling based on Sentencepiece
@@ -724,6 +724,7 @@
 
 ## Go 
 
+- [Backblaze/terraform-provider-b2](https://github.com/Backblaze/terraform-provider-b2) - Terraform Provider for Backblaze B2 Cloud Storage
 - [rubenv/sql-migrate](https://github.com/rubenv/sql-migrate) - SQL schema migration tool for Go.
 - [google/gnostic](https://github.com/google/gnostic) - A compiler for APIs described by the OpenAPI Specification with plugins for code generation and other API support tasks.
 - [GoogleCloudPlatform/gcping](https://github.com/GoogleCloudPlatform/gcping) - Like gcping.com but a command line tool
