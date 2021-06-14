@@ -698,6 +698,7 @@
 
 ## Emacs Lisp 
 
+- [Atemu/dotfiles](https://github.com/Atemu/dotfiles) - Mirror of https://gitlab.com/atemu/dotfiles
 - [gf3/dotfiles](https://github.com/gf3/dotfiles) - Configurations for the tools I use every day
 - [cole-brokamp/dotfiles](https://github.com/cole-brokamp/dotfiles) - dotfiles
 - [yihui/configuration](https://github.com/yihui/configuration) - My configuration files
@@ -1320,6 +1321,7 @@
 
 ## Haskell 
 
+- [Atemu/git-annex](https://github.com/Atemu/git-annex) - Fork of git-annex.branchable.com/
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
@@ -3133,7 +3135,7 @@
 - [vors/ZLocation](https://github.com/vors/ZLocation) - ZLocation is the new Jump-Location
 - [jimbrig/winsetup](https://github.com/jimbrig/winsetup) - Windows 10 Setup
 - [asears/WindowsSetup](https://github.com/asears/WindowsSetup) - Apps for Windows
-- [pratyakshm/CleanWin](https://github.com/pratyakshm/CleanWin) - Cool code that makes your PC cool.
+- [pratyakshm/CleanWin](https://github.com/pratyakshm/CleanWin) - The cooler Windows 10.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [Daksh777/windows10-debloat](https://github.com/Daksh777/windows10-debloat) - Collection of various scripts and apps to debloat Windows 10 for better privacy, performance and optimization.
 - [gordonbay/Windows-On-Reins](https://github.com/gordonbay/Windows-On-Reins) - Windows 10 Ameliorated, Debloat, Optimize, Privacy fix
@@ -3224,6 +3226,8 @@
 
 ## Python 
 
+- [Backblaze/b2-sdk-python](https://github.com/Backblaze/b2-sdk-python) - Python library to access B2 cloud storage.
+- [Backblaze/B2_Command_Line_Tool](https://github.com/Backblaze/B2_Command_Line_Tool) - The command-line tool that gives easy access to all of the capabilities of B2 Cloud Storage
 - [GoogleCloudPlatform/cloud-pubsub-sendmail](https://github.com/GoogleCloudPlatform/cloud-pubsub-sendmail) - pubsub_sendmail - Send emails from Google Cloud Pub/Sub events using a Google Cloud Function
 - [marshmallow-code/apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -4927,7 +4931,7 @@
 - [pzhaonet/mindr](https://github.com/pzhaonet/mindr) - an R package which converts markdown files (.md, .Rmd) into mindmaps (brainstorms)
 - [USGS-R/waterData](https://github.com/USGS-R/waterData) - An R package for retrieval, analysis, and anomaly calculation of daily hydrologic time series data
 - [TomKellyGenetics/vioplot](https://github.com/TomKellyGenetics/vioplot) - Development version of vioplot R package (CRAN maintainer)
-- [jeroen/jose](https://github.com/jeroen/jose) - Javascript Object Signing and Encryption for R
+- [r-lib/jose](https://github.com/r-lib/jose) - Javascript Object Signing and Encryption for R
 - [colearendt/xlsx](https://github.com/colearendt/xlsx) - An R package to interact with Excel files using the Apache POI java library
 - [jimbrig/myicons](https://github.com/jimbrig/myicons) - Manage your own personal icon library and generate random icons for quick prototyping
 - [business-science/correlationfunnel](https://github.com/business-science/correlationfunnel) - Speed Up Exploratory Data Analysis (EDA)
