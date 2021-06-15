@@ -94,6 +94,7 @@
   - [Visual Basic .NET](#visual-basic-.net)
   - [Vue](#vue)
   - [XSLT](#xslt)
+  - [YAML](#yaml)
   - [YASnippet](#yasnippet)
   - [sed](#sed)
 
@@ -498,7 +499,6 @@
 - [feddelegrand7/pivta](https://github.com/feddelegrand7/pivta) - Create an Interactive Pivot Table with Data Analysis Tools
 - [paeselhz/reticulate_101](https://github.com/paeselhz/reticulate_101) - Apresentação introdutória sobre o uso de Reticulate para integrar R e Python
 - [gadenbuie/cleanrmd](https://github.com/gadenbuie/cleanrmd) - 📄✨Clean Class-Less R Markdown HTML Documents
-- [dicook/exploratory-data-analysis-in-the-21st-century](https://github.com/dicook/exploratory-data-analysis-in-the-21st-century) - A book about exploratory data analysis in the 21st century
 - [pachadotdev/tradestatistics-visualization-with-shiny](https://github.com/pachadotdev/tradestatistics-visualization-with-shiny) - Open Trade Statistics Shiny Dashboard
 - [ykob/fullscreen-slider](https://github.com/ykob/fullscreen-slider) - This asset controls sections in a page.   It resizes sections to fullscreen resolution and moves these individually by wheel/touch events.
 - [rbind/support](https://github.com/rbind/support) - Technical support for rbind
@@ -932,6 +932,8 @@
 
 ## HTML 
 
+- [analythium/docker-compose-shiny-example](https://github.com/analythium/docker-compose-shiny-example) - Docker Compose Example with Shiny Apps
+- [easystats/blog](https://github.com/easystats/blog) - :mega: The collaborative blog
 - [rfortherestofus/beautiful-reports](https://github.com/rfortherestofus/beautiful-reports) - 
 - [saiyam1814/cloudrundemos](https://github.com/saiyam1814/cloudrundemos) - This repository is for Cloud Run Demos
 - [topepo/2021-LA-RUG](https://github.com/topepo/2021-LA-RUG) - An introduction to workflow sets
@@ -1013,6 +1015,7 @@
 - [SymbolixAU/r_docker_hello](https://github.com/SymbolixAU/r_docker_hello) - A simple hello world R-docker example
 - [schemaspy/schemaspy](https://github.com/schemaspy/schemaspy) - SchemaSpy code home
 - [GordCaswell/rapideeportable](https://github.com/GordCaswell/rapideeportable) - PortableApps package of Rapid Environment Editor
+- [dicook/exploratory-data-analysis-in-the-21st-century](https://github.com/dicook/exploratory-data-analysis-in-the-21st-century) - A book about exploratory data analysis in the 21st century
 - [maelle/reprex_demo](https://github.com/maelle/reprex_demo) - Experiments around sharing reprexes on Gist and Twitter
 - [o2r-project/ctv-computational-environments](https://github.com/o2r-project/ctv-computational-environments) - A CRAN task view for computational environments and reproducibility
 - [ahmetb/cloud-run-hello](https://github.com/ahmetb/cloud-run-hello) - Sample Cloud Run application
@@ -1336,6 +1339,7 @@
 
 ## Java 
 
+- [stargate/stargate](https://github.com/stargate/stargate) - An open source data gateway
 - [swagger-api/swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [GoogleCloudPlatform/bigquery-utils](https://github.com/GoogleCloudPlatform/bigquery-utils) - Useful scripts, udfs, views, and other utilities for migration and data warehouse operations in BigQuery.
@@ -2297,6 +2301,10 @@
 
 ## Others 
 
+- [akosbalasko/obsidian-autotagger-plugin](https://github.com/akosbalasko/obsidian-autotagger-plugin) - This plugin analyses the note content and offers tags based on the content
+- [RestCheatSheet/microservices-cheat-sheet](https://github.com/RestCheatSheet/microservices-cheat-sheet) - Cheat sheet for how to build microservices with scale, resilience and success.
+- [RestCheatSheet/platform-cheat-sheet](https://github.com/RestCheatSheet/platform-cheat-sheet) - Platform Creation Strategy and Guidelines
+- [RestCheatSheet/api-cheat-sheet](https://github.com/RestCheatSheet/api-cheat-sheet) - API Design Guidelines and Best Practices Cheat Sheet
 - [pratjz/Resources](https://github.com/pratjz/Resources) - Resources
 - [reddavis/freelancer-tools](https://github.com/reddavis/freelancer-tools) - List of useful tools for freelancers
 - [webpro/programming-principles](https://github.com/webpro/programming-principles) - Categorized overview of programming principles & design patterns
@@ -2906,7 +2914,7 @@
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
-- [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟Curated design resources
+- [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
@@ -3353,7 +3361,7 @@
 - [VirtusLab/git-machete](https://github.com/VirtusLab/git-machete) - Probably the sharpest git repository organizer & rebase/merge workflow automation tool you've ever seen ;)
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Raytray/todoist-cli](https://github.com/Raytray/todoist-cli) - Python command line tool to quickly add tasks to projects with due dates.
-- [rexdivakar/Notifly](https://github.com/rexdivakar/Notifly) - 
+- [rexdivakar/Notifly](https://github.com/rexdivakar/Notifly) - Notifly is an AI Model tracking system designed to monitor the metrics and hardware resources during training the model in real-time alerts over various social networks like Telegram, discord, slack.
 - [chdsbd/kodiak](https://github.com/chdsbd/kodiak) - 🔮 A bot to automatically update and merge GitHub PRs
 - [bcicen/docker-replay](https://github.com/bcicen/docker-replay) - Generate docker commands to rerun existing containers
 - [dewitt/opensearch](https://github.com/dewitt/opensearch) - OpenSearch is a collection of simple formats for the sharing of search results.
@@ -3572,6 +3580,8 @@
 
 ## R 
 
+- [mdevans21/xgboost-virtual-data-science-seminar](https://github.com/mdevans21/xgboost-virtual-data-science-seminar) - XGBoost Insurance Pricing code comparing results with GLM and GAM for Actuarial Virtual Data Science Seminar
+- [benmarwick/wordcountaddin](https://github.com/benmarwick/wordcountaddin) - Word counts and readability statistics in R markdown documents
 - [dming1024/ProjectManage](https://github.com/dming1024/ProjectManage) - 
 - [ResearchActuary/claim_sim](https://github.com/ResearchActuary/claim_sim) - 
 - [ITSLeeds/slopes](https://github.com/ITSLeeds/slopes) - Package to calculate slopes of roads, rivers and trajectories
@@ -6171,6 +6181,7 @@
 
 ## Rust 
 
+- [chrisdickinson/tide-http-auth](https://github.com/chrisdickinson/tide-http-auth) - HTTP auth for tide! Pretty Basic, if you'll Bearer with me
 - [trashhalo/obsidian-extract-url](https://github.com/trashhalo/obsidian-extract-url) - Plugin to extract markdown out of urls
 - [comtrya/comtrya](https://github.com/comtrya/comtrya) - Configuration Management for Localhost
 - [extendr/extendr](https://github.com/extendr/extendr) - R extension library for rust designed to be familiar to R users.
@@ -6305,7 +6316,7 @@
 - [dotphiles/dotsync](https://github.com/dotphiles/dotsync) - Sync dotfiles between multiple machines from a git repo or push using rsync
 - [larsxschneider/cached-clone](https://github.com/larsxschneider/cached-clone) - Clone a repository and leverage a local cache.
 - [larsxschneider/scotty](https://github.com/larsxschneider/scotty) - Helper scripts for GitHub Enterprise admins
-- [github/scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Scripts to Rule Them All
+- [github/scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Set of boilerplate scripts describing the normalized script pattern that GitHub uses in its projects.
 - [github/platform-samples](https://github.com/github/platform-samples) - A public place for all platform sample projects.
 - [satackey/action-google-drive](https://github.com/satackey/action-google-drive) - GitHub Action to interact with Google Drive
 - [keeporsweep/keeporsweep.net](https://github.com/keeporsweep/keeporsweep.net) - 💻🔀🗑️ Randomly declutter your digital life!
@@ -6644,6 +6655,7 @@
 
 ## TypeScript 
 
+- [atomcorp/themes](https://github.com/atomcorp/themes) - Themes for Windows Terminal
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A complex query language implementation for the Obsidian note-taking tool.
 - [tgrosinger/tq-obsidian](https://github.com/tgrosinger/tq-obsidian) - Yet another Obsidian task manager
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
@@ -7006,6 +7018,10 @@
 ## XSLT 
 
 - [schacon/git-scribe](https://github.com/schacon/git-scribe) - basically the best way to write an ebook
+
+## YAML 
+
+- [k8ssandra/k8ssandra](https://github.com/k8ssandra/k8ssandra) - K8ssandra is an open-source distribution of Apache Cassandra for Kubernetes including API services and operational tooling.
 
 ## YASnippet 
 
