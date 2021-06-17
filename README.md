@@ -382,7 +382,7 @@
 - [SymbolixAU/colourvalues](https://github.com/SymbolixAU/colourvalues) - R library for assigning colours to values
 - [hrbrmstr/construe](https://github.com/hrbrmstr/construe) - 🧰  HTTP Request, Response and URL Parser
 - [ReneNyffenegger/development_misc](https://github.com/ReneNyffenegger/development_misc) - Snippets that I found useful the other day or might find useful another day.
-- [jimhester/archive](https://github.com/jimhester/archive) - R bindings to libarchive, supporting a large variety of archive formats
+- [r-lib/archive](https://github.com/r-lib/archive) - R bindings to libarchive, supporting a large variety of archive formats
 - [tmyt/bashground](https://github.com/tmyt/bashground) - Keep WLS (Bash on Windows) instance in background.
 - [npyl/runnix](https://github.com/npyl/runnix) - Run linux executables or scripts from withing Windows without opening Bash
 - [neosmart/paste](https://github.com/neosmart/paste) - A Windows utility that simply dumps the clipboard data to stdout
@@ -454,6 +454,7 @@
 - [ropensci/qpdf](https://github.com/ropensci/qpdf) - Split, Combine and Compress PDF files
 - [troldal/OpenXLSX](https://github.com/troldal/OpenXLSX) - A C++ library for reading, writing, creating and modifying Microsoft Excel® (.xlsx) files.
 - [paleolimbot/rlibpal](https://github.com/paleolimbot/rlibpal) - Label placement using libpal
+- [TysonStanley/tidyfast](https://github.com/TysonStanley/tidyfast) - Fast and efficient alternatives to tidyr functions built on data.table #rdatatable #rstats
 - [hannesmuehleisen/miniparquet](https://github.com/hannesmuehleisen/miniparquet) - Library to read a subset of Parquet files
 - [hrbrmstr/spiderbar](https://github.com/hrbrmstr/spiderbar) - Lightweight R wrapper around rep-cpp for robot.txt (Robots Exclusion Protocol) parsing and path testing in R
 - [hrbrmstr/xattrs](https://github.com/hrbrmstr/xattrs) - 🗃 Work With Filesystem Object Extended Attributes — https://hrbrmstr.github.io/xattrs/index.html
@@ -1785,6 +1786,7 @@
 - [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [DE-RSE/de-rse.github.io](https://github.com/DE-RSE/de-rse.github.io) - Web repository
 - [domitriusclark/mdnext](https://github.com/domitriusclark/mdnext) - The opinionated ecosystem for MDX powered NextJS apps for blogs, documentation, and more.
+- [WojciechMatuszewski/programming-notes](https://github.com/WojciechMatuszewski/programming-notes) - Programming notes. About anything really.
 - [mgsloan/todoist-shortcuts](https://github.com/mgsloan/todoist-shortcuts) - Comprehensive keyboard shortcuts for Todoist, via browser extension
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [westurner/tools](https://github.com/westurner/tools) - https://westurner.org/tools
@@ -2303,7 +2305,7 @@
 
 ## Others 
 
-- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives or complements to common unix commands.
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [akosbalasko/obsidian-autotagger-plugin](https://github.com/akosbalasko/obsidian-autotagger-plugin) - This plugin analyses the note content and offers tags based on the content
 - [RestCheatSheet/microservices-cheat-sheet](https://github.com/RestCheatSheet/microservices-cheat-sheet) - Cheat sheet for how to build microservices with scale, resilience and success.
 - [RestCheatSheet/platform-cheat-sheet](https://github.com/RestCheatSheet/platform-cheat-sheet) - Platform Creation Strategy and Guidelines
@@ -2611,7 +2613,6 @@
 - [courtiol/Rguides](https://github.com/courtiol/Rguides) - Alternative cheat sheets for R
 - [datasnakes/awesome-reproducible-R](https://github.com/datasnakes/awesome-reproducible-R) - An awesome list of resources for reproducible research in R.  Includes a table of comparison for different tools.
 - [maxx1128/Webdev-Study-Notes](https://github.com/maxx1128/Webdev-Study-Notes) - Notebook on programming, web development, nonfiction, and some fiction (ARCHIVED)
-- [WojciechMatuszewski/programming-notes](https://github.com/WojciechMatuszewski/programming-notes) - Programming notes. About anything really.
 - [Aniruddha-Tapas/Operating-Systems-Notes](https://github.com/Aniruddha-Tapas/Operating-Systems-Notes) - :books: Compendium of all the important OS concepts and key points. https://applied-programming.github.io/Operating-Systems-Notes/
 - [yang/notes](https://github.com/yang/notes) - Gitit wiki notes on computer science and programming
 - [randyviandaputra/programming-notes](https://github.com/randyviandaputra/programming-notes) - Semua catatan tentang teknologi dan development 😎
@@ -3471,7 +3472,7 @@
 - [larose/utt](https://github.com/larose/utt) - Ultimate Time Tracker - A simple command-line time tracker written in Python
 - [TailorDev/Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time!
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
-- [jarun/buku](https://github.com/jarun/buku) - :bookmark: Browser-independent bookmark manager
+- [jarun/buku](https://github.com/jarun/buku) - :bookmark: browser-independent bookmark manager
 - [s3tools/s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
@@ -5547,7 +5548,6 @@
 - [mkearney/tfse](https://github.com/mkearney/tfse) - 🛠 Useful R functions for various things
 - [daattali/shiny-server](https://github.com/daattali/shiny-server) - My personal Shiny server
 - [krlmlr/scalar](https://github.com/krlmlr/scalar) - Scalars
-- [TysonStanley/tidyfast](https://github.com/TysonStanley/tidyfast) - Fast and efficient alternatives to tidyr functions built on data.table #rdatatable #rstats
 - [f0nzie/r4ds-rsuite](https://github.com/f0nzie/r4ds-rsuite) - R for Data Science administered by rsuite. Frozen on 6-6-2019
 - [yihui/rlp](https://github.com/yihui/rlp) - An Example of Using Literate Programming for R Package Development
 - [moodymudskipper/fastpipe](https://github.com/moodymudskipper/fastpipe) - A fast pipe implementation
@@ -6741,7 +6741,7 @@
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.
 - [jevakallio/git-notify](https://github.com/jevakallio/git-notify) - 🙉 📣 Communicate important updates to your team via git commit messages
 - [JasonEtco/create-an-issue](https://github.com/JasonEtco/create-an-issue) - A GitHub Action for creating a new issue from a template file.
-- [edge-booster/rocket-booster](https://github.com/edge-booster/rocket-booster) - 🚀 Serverless reverse proxy and load balancer library built for Cloudflare Workers.
+- [booster-labs/rocket-booster](https://github.com/booster-labs/rocket-booster) - 🚀 Serverless reverse proxy and load balancer library built for Cloudflare Workers.
 - [obsidian-userland/publish](https://github.com/obsidian-userland/publish) - Open source Obsidian Publish alternative
 - [skalnik/obsidian-readwise-sync](https://github.com/skalnik/obsidian-readwise-sync) - Sync Readwise Highlights to Obsidian
 - [jplattel/obsidian-query-language](https://github.com/jplattel/obsidian-query-language) - An Obsidian plugin allowing you to query your notes
