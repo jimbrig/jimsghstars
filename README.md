@@ -32,6 +32,7 @@
   - [Go](#go)
   - [Groovy](#groovy)
   - [HCL](#hcl)
+  - [HLSL](#hlsl)
   - [HTML](#html)
   - [Haml](#haml)
   - [Handlebars](#handlebars)
@@ -108,6 +109,7 @@
 
 ## AutoHotkey 
 
+- [JuanmaMenendez/AutoHotkey-script-Open-Show-Apps](https://github.com/JuanmaMenendez/AutoHotkey-script-Open-Show-Apps) - AutoHotkey script to open, restore or minimize, Window's and Chrome's Apps using hotkeys
 - [mgroat/Todoist-Global-Hotkey](https://github.com/mgroat/Todoist-Global-Hotkey) - An autohotkey script to open Todoist in Chrome and start a new item
 - [denolfe/AutoHotkey](https://github.com/denolfe/AutoHotkey) - :gear: My Autohotkey productivity suite that includes shortcuts, hotstrings, hotkeys, apps/utilities, AutoCorrect
 - [mrjackphil/qnote-ahk](https://github.com/mrjackphil/qnote-ahk) - Quick AHK script for fast note creation
@@ -121,6 +123,8 @@
 
 ## Batchfile 
 
+- [kingjuliando/dotbatch](https://github.com/kingjuliando/dotbatch) - 🖳 Windows based 'dotfiles' - CMD scripts and AHK
+- [Atavic/regtweaks](https://github.com/Atavic/regtweaks) - Over 600 Windows Registry Tweaks for Windows 7, 8, 8.1 and 10
 - [teddy-gustiaux/scripts](https://github.com/teddy-gustiaux/scripts) - Set of miscellaneous scripts for personal use.
 - [OHDSI/CommonDataModel](https://github.com/OHDSI/CommonDataModel) - Definition and DDLs for the OMOP Common Data Model (CDM)
 - [JoePlant/windows-scripts](https://github.com/JoePlant/windows-scripts) - A set of scripts that I use to manage my laptop
@@ -145,6 +149,8 @@
 
 ## C 
 
+- [rsa9000/regfanalysistools](https://github.com/rsa9000/regfanalysistools) - Low-level MS Windows registry files analysis tools
+- [janbodnar/Windows-API-examples](https://github.com/janbodnar/Windows-API-examples) - Sources from the ZetCode's Windows API tutorial
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [EnterpriseDB/repmgr](https://github.com/EnterpriseDB/repmgr) - A lightweight replication manager for PostgreSQL (Postgres) - latest version 5.2.1 (2020-12-07)
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
@@ -221,7 +227,6 @@
 - [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
 - [r-lib/gert](https://github.com/r-lib/gert) - Simple git client for R
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter, and the most universal runtime
-- [SwiftLaTeX/SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX) - SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor
 - [richfitz/thor](https://github.com/richfitz/thor) - :zap::computer::zap: R client for the Lightning Memory-Mapped Database
 - [ropensci/writexl](https://github.com/ropensci/writexl) - Portable, light-weight data frame to xlsx exporter for R
 - [r-lib/fs](https://github.com/r-lib/fs) - Provide cross platform file operations based on libuv.
@@ -242,6 +247,12 @@
 
 ## C# # 
 
+- [mgarrettm/serverless-prototype](https://github.com/mgarrettm/serverless-prototype) - This is a prototype of a serverless platform built in .NET using Microsoft Azure and Windows Containers.
+- [Sphinkie/RegFineViewer](https://github.com/Sphinkie/RegFineViewer) - RegFineViewer is an utility to visualize and navigate easily the Windows Registry
+- [jchomarat/wttop](https://github.com/jchomarat/wttop) - System monitor for the new Windows Terminal
+- [gerardog/gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows - run elevated without spawning a new Console Host Window
+- [dockpanelsuite/dockpanelsuite](https://github.com/dockpanelsuite/dockpanelsuite) - DockPanel Suite - The Visual Studio inspired docking library for .NET WinForms
+- [cairoshell/cairoshell](https://github.com/cairoshell/cairoshell) - Cairo is a customizable, intuitive desktop environment for Windows.
 - [TanayParikh/Moneta](https://github.com/TanayParikh/Moneta) - Moneta - Financial Management for Freelancers
 - [cloudevents/sdk-csharp](https://github.com/cloudevents/sdk-csharp) - CSharp SDK for CloudEvents
 - [ibigbug/PowerSession](https://github.com/ibigbug/PowerSession) - Record a Session in PowerShell
@@ -363,6 +374,11 @@
 
 ## C++ 
 
+- [ThomasThelen/BrowserLib](https://github.com/ThomasThelen/BrowserLib) - A library which makes modification of browsers' behavior easy.
+- [microsoft/WSL-DistroLauncher](https://github.com/microsoft/WSL-DistroLauncher) - Sample/reference launcher app for WSL distro Microsoft Store packages.
+- [DDoSolitary/LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) - A full-featured utility for managing Windows Subsystem for Linux (WSL)
+- [bablosoft/BAS](https://github.com/bablosoft/BAS) - BrowserAutomationStudio can automate everything that Chrome can.
+- [dchapyshev/aspia](https://github.com/dchapyshev/aspia) - Remote desktop and file transfer tool.
 - [googleapis/google-cloud-cpp](https://github.com/googleapis/google-cloud-cpp) - C++ Client Libraries for Google Cloud Services
 - [blm768/pg-libphonenumber](https://github.com/blm768/pg-libphonenumber) - A (partially implemented!) PostgreSQL extension that provides access to Google's libphonenumber
 - [jrwishart/mwaved](https://github.com/jrwishart/mwaved) - mWaveD - R package
@@ -452,6 +468,7 @@
 - [intel/hyperscan](https://github.com/intel/hyperscan) - High-performance regular expression matching library
 - [tidyverse/readxl](https://github.com/tidyverse/readxl) - Read excel files (.xls and .xlsx) into R 🖇
 - [ropensci/qpdf](https://github.com/ropensci/qpdf) - Split, Combine and Compress PDF files
+- [SwiftLaTeX/SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX) - SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor
 - [troldal/OpenXLSX](https://github.com/troldal/OpenXLSX) - A C++ library for reading, writing, creating and modifying Microsoft Excel® (.xlsx) files.
 - [paleolimbot/rlibpal](https://github.com/paleolimbot/rlibpal) - Label placement using libpal
 - [TysonStanley/tidyfast](https://github.com/TysonStanley/tidyfast) - Fast and efficient alternatives to tidyr functions built on data.table #rdatatable #rstats
@@ -652,6 +669,7 @@
 
 ## Dockerfile 
 
+- [nuest/rocker-win](https://github.com/nuest/rocker-win) - Proof-of-concept for R in Windows containers
 - [littlemanco/docker--git-crypt](https://github.com/littlemanco/docker--git-crypt) - 
 - [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
 - [dougmet/docker-plumber](https://github.com/dougmet/docker-plumber) - Minimum docker image to deploy a plumber app
@@ -726,6 +744,7 @@
 
 ## Go 
 
+- [Azure/azure-container-networking](https://github.com/Azure/azure-container-networking) - Azure Container Networking Solutions for Linux and Windows Containers
 - [Backblaze/terraform-provider-b2](https://github.com/Backblaze/terraform-provider-b2) - Terraform Provider for Backblaze B2 Cloud Storage
 - [rubenv/sql-migrate](https://github.com/rubenv/sql-migrate) - SQL schema migration tool for Go.
 - [google/gnostic](https://github.com/google/gnostic) - A compiler for APIs described by the OpenAPI Specification with plugins for code generation and other API support tasks.
@@ -931,8 +950,13 @@
 - [jerowe/rshiny-with-polished-tech-eks](https://github.com/jerowe/rshiny-with-polished-tech-eks) - Example RShiny Authentication with Polished Tech hosted on AWS EKS with Terraform.
 - [ginocoates/rstudio-server-terraform](https://github.com/ginocoates/rstudio-server-terraform) - A terraform project for provisioning an rstudio server of the desired size
 
+## HLSL 
+
+- [Hammster/windows-terminal-shaders](https://github.com/Hammster/windows-terminal-shaders) - A small collection of terminal shaders
+
 ## HTML 
 
+- [razi-rais/microservices](https://github.com/razi-rais/microservices) - Education & lessons learned from the field. Mainly focusing on AKS and Containers.
 - [rladies/meetup-presentations_nairobi](https://github.com/rladies/meetup-presentations_nairobi) - 
 - [analythium/docker-compose-shiny-example](https://github.com/analythium/docker-compose-shiny-example) - Docker Compose Example with Shiny Apps
 - [easystats/blog](https://github.com/easystats/blog) - :mega: The collaborative blog
@@ -1393,6 +1417,12 @@
 
 ## JavaScript 
 
+- [pizycki/NugetServerContainer](https://github.com/pizycki/NugetServerContainer) - Nuget Server in Windows Container
+- [PacktPublishing/Hands-On-Kubernetes-on-Windows](https://github.com/PacktPublishing/Hands-On-Kubernetes-on-Windows) - Hands-On Kubernetes on Windows, published by Packt
+- [StefanScherer/dockerfiles-windows](https://github.com/StefanScherer/dockerfiles-windows) - Various Dockerfiles for Windows Containers
+- [omidnikrah/WTC](https://github.com/omidnikrah/WTC) - ⏱💰Working Time Calculator app for remote workers.
+- [pavjacko/renative](https://github.com/pavjacko/renative) - 🚀🚀🚀Build universal cross-platform apps with React Native. Includes latest iOS, tvOS, Android, Android TV, Android Wear, Web, Tizen TV, Tizen Watch, Tizen Mobile, LG webOS, macOS/OSX, Windows, KaiOS, FirefoxOS Firefox TV platforms
+- [thumbsup/thumbsup](https://github.com/thumbsup/thumbsup) - Generate static HTML photo / video galleries
 - [mckeever02/tryingtowork](https://github.com/mckeever02/tryingtowork) - A collection of free spaces to work online
 - [luckyshot/freelance-timetracker](https://github.com/luckyshot/freelance-timetracker) - Free and super-simple web-based timetracking system in JavaScript and PHP.
 - [worknenjoy/gitpay](https://github.com/worknenjoy/gitpay) - Bounties for issues on demand. Be rewarded by learning, using Git workflow and continuous integration
@@ -2236,6 +2266,8 @@
 
 ## Makefile 
 
+- [VPraharsha03/DevuanWSL](https://github.com/VPraharsha03/DevuanWSL) - Devuan as a WSL instance. A Debian variant without the complexities and dependencies of systemd.
+- [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [o2r-project/api](https://github.com/o2r-project/api) - Reproducibility service RESTful web API specification and documentation
 - [PostgresApp/PostgresApp](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac
 - [jnovack/git-checkout](https://github.com/jnovack/git-checkout) - Basic git checkout builder or side container for workflows.
@@ -2305,6 +2337,15 @@
 
 ## Others 
 
+- [fanfan54/dotfiles-windows](https://github.com/fanfan54/dotfiles-windows) - :gear: The dotfiles (configuration files) and Chocolatey packages I use on Windows environments, forked from the dotfiles of https://github.com/jayharris/dotfiles-windows. Built in PowerShell.
+- [scottdorman/microsoft-terminal-settings](https://github.com/scottdorman/microsoft-terminal-settings) - A collection of profiles, color schemes and other settings for Windows Terminal
+- [StefanScherer/windows-docker-desktop-box](https://github.com/StefanScherer/windows-docker-desktop-box) - Vagrant box to test Docker Desktop with Linux/Windows containers
+- [yosukes-dev/one-dark-windows-terminal](https://github.com/yosukes-dev/one-dark-windows-terminal) - One Dark Color Scheme for Windows Terminal inspired by Atom's One Dark and One Light theme.
+- [getomni/windows-terminal](https://github.com/getomni/windows-terminal) - 🎨 Omni for Windows Terminal
+- [yanglr/WindowsDevTools](https://github.com/yanglr/WindowsDevTools) - Windows UI development tools.
+- [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release) - Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+- [revodavid/R-at-Microsoft](https://github.com/revodavid/R-at-Microsoft) - R at Microsoft
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [akosbalasko/obsidian-autotagger-plugin](https://github.com/akosbalasko/obsidian-autotagger-plugin) - This plugin analyses the note content and offers tags based on the content
 - [RestCheatSheet/microservices-cheat-sheet](https://github.com/RestCheatSheet/microservices-cheat-sheet) - Cheat sheet for how to build microservices with scale, resilience and success.
@@ -3032,6 +3073,7 @@
 
 ## PHP 
 
+- [sagebind/windows-registry](https://github.com/sagebind/windows-registry) - A small library for accessing and manipulating the Windows registry.
 - [petitpress/gps-messenger-bundle](https://github.com/petitpress/gps-messenger-bundle) - The bundle provides a simple implementation of Google Pub/Sub transport for Symfony Messenger.
 - [agorakit/agorakit](https://github.com/agorakit/agorakit) - Organization tool for citizen's collectives
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is an Open Source e-commerce platform, committed to providing the best shopping cart experience for both merchants and customers.
@@ -3086,6 +3128,24 @@
 
 ## PowerShell 
 
+- [nekocodeX/windotfiles](https://github.com/nekocodeX/windotfiles) - 🪟📦 Windows 用 dotfiles のような何か
+- [JTBrinkmann/windows-setup](https://github.com/JTBrinkmann/windows-setup) - Script to set up a Windows profile to my personal preferences
+- [LeoCalbi/dotfiles](https://github.com/LeoCalbi/dotfiles) - My Windows, Powershell, wsl dotfiles
+- [TsekNet/dotfiles](https://github.com/TsekNet/dotfiles) - Cross-platform automated system configuration 🛠
+- [olljanat/docker-issue-tracking](https://github.com/olljanat/docker-issue-tracking) - Keeping track of status different components issues which we have seen with Linux + Windows hybrid Docker Swarm.
+- [getreddy/getdocker](https://github.com/getreddy/getdocker) - Docker containers under windows 2016 server - Swarm cluster creation ; Invoke Docker service using REST API's
+- [spring2/dockerfiles](https://github.com/spring2/dockerfiles) - Assorted useful Dockerfiles, mostly for windows.
+- [StefanScherer/windows10-docker-swarm](https://github.com/StefanScherer/windows10-docker-swarm) - Windows 10 Insider + Docker swarm-mode
+- [nicholasdille/docker](https://github.com/nicholasdille/docker) - Repository of container images for Windows as well as Linux
+- [StefanScherer/docker-windows-azure](https://github.com/StefanScherer/docker-windows-azure) - Deploy a Windows "Docker-Machine" on Azure
+- [StefanScherer/windows-docker-workshop](https://github.com/StefanScherer/windows-docker-workshop) - Docker on Windows workshop
+- [StefanScherer/docker-windows-box](https://github.com/StefanScherer/docker-windows-box) - Various Vagrant envs with Windows 2019/10 and Docker, Swarm mode, LCOW, WSL2, ...
+- [StefanScherer/packer-windows](https://github.com/StefanScherer/packer-windows) - Windows Templates for Packer: Win10, Server 2016, 1709, 1803, 1809, 2019, 1903, 1909, 2004, Insider with Docker
+- [mguludag/WSL-Manager](https://github.com/mguludag/WSL-Manager) - This is PowerShell script for linux distro download and installation to wsl plus adding to Windows Terminal with icon!
+- [kerol2r20/Windows-terminal-context-menu](https://github.com/kerol2r20/Windows-terminal-context-menu) - 📃 This is a simple script to add right click context menu for your best Windows terminal ❤
+- [AutomatedLab/AutomatedLab](https://github.com/AutomatedLab/AutomatedLab) - AutomatedLab is a provisioning solution and framework that lets you deploy complex labs on HyperV and Azure with simple PowerShell scripts. It supports all Windows operating systems from 2008 R2 to 2019, some Linux distributions and various products like AD, Exchange, PKI, IIS, etc.
+- [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) - PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...)
+- [psake/psake](https://github.com/psake/psake) - A build automation tool written in PowerShell
 - [felixrieseberg/windows-development-environment](https://github.com/felixrieseberg/windows-development-environment) - :telescope: Turning Windows into an environment ready for modern development
 - [r-darwish/powershell-config](https://github.com/r-darwish/powershell-config) - Powershell Configuration
 - [lukesampson/pshazz](https://github.com/lukesampson/pshazz) - Give your powershell some pizazz.
@@ -3238,6 +3298,11 @@
 
 ## Python 
 
+- [Cobertos/dotfiles](https://github.com/Cobertos/dotfiles) - My configs for everything and a script to bootstrap it all on a new install.
+- [Azure/batch-shipyard](https://github.com/Azure/batch-shipyard) - Simplify HPC and Batch workloads on Azure
+- [ThomasThelen/Disable-Task-Manager](https://github.com/ThomasThelen/Disable-Task-Manager) - Example of disabling the task manager via registry manipulation
+- [AvinashSingh786/RegSmart](https://github.com/AvinashSingh786/RegSmart) - Windows Registry Analysis Tool
+- [fran-f/keypirinha-terminal-profiles](https://github.com/fran-f/keypirinha-terminal-profiles) - A plugin to integrate Keypirinha and Windows Terminal
 - [Backblaze/b2-sdk-python](https://github.com/Backblaze/b2-sdk-python) - Python library to access B2 cloud storage.
 - [Backblaze/B2_Command_Line_Tool](https://github.com/Backblaze/B2_Command_Line_Tool) - The command-line tool that gives easy access to all of the capabilities of B2 Cloud Storage
 - [GoogleCloudPlatform/cloud-pubsub-sendmail](https://github.com/GoogleCloudPlatform/cloud-pubsub-sendmail) - pubsub_sendmail - Send emails from Google Cloud Pub/Sub events using a Google Cloud Function
@@ -3472,7 +3537,7 @@
 - [larose/utt](https://github.com/larose/utt) - Ultimate Time Tracker - A simple command-line time tracker written in Python
 - [TailorDev/Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time!
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
-- [jarun/buku](https://github.com/jarun/buku) - :bookmark: browser-independent bookmark manager
+- [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [s3tools/s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
@@ -3585,6 +3650,7 @@
 
 ## R 
 
+- [revodavid/R-custom-handler](https://github.com/revodavid/R-custom-handler) - 
 - [ropensci/ruODK](https://github.com/ropensci/ruODK) - ruODK: An R Client for the ODK Central API
 - [soodoku/tuber](https://github.com/soodoku/tuber) - :sweet_potato: Access YouTube from R
 - [mdevans21/xgboost-virtual-data-science-seminar](https://github.com/mdevans21/xgboost-virtual-data-science-seminar) - XGBoost Insurance Pricing code comparing results with GLM and GAM for Actuarial Virtual Data Science Seminar
@@ -6187,6 +6253,7 @@
 
 ## Rust 
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [chrisdickinson/tide-http-auth](https://github.com/chrisdickinson/tide-http-auth) - HTTP auth for tide! Pretty Basic, if you'll Bearer with me
 - [trashhalo/obsidian-extract-url](https://github.com/trashhalo/obsidian-extract-url) - Plugin to extract markdown out of urls
 - [comtrya/comtrya](https://github.com/comtrya/comtrya) - Configuration Management for Localhost
@@ -6294,6 +6361,10 @@
 
 ## Shell 
 
+- [ishchow/dotfiles](https://github.com/ishchow/dotfiles) - Personal dotfiles and stuff
+- [rpeloff/WSL-dotfiles](https://github.com/rpeloff/WSL-dotfiles) - My dotfiles and other things for WSL 1.0 on a Windows machine.
+- [gbgabiola/dotfiles](https://github.com/gbgabiola/dotfiles) - @genesisgabiola does dotfiles
+- [samuelramox/wsl-setup](https://github.com/samuelramox/wsl-setup) - WSL Ubuntu Dotfiles
 - [BenEmdon/dotfiles](https://github.com/BenEmdon/dotfiles) - dotfiles for my codespaces
 - [GoogleCloudPlatform/gke-monitoring-tutorial](https://github.com/GoogleCloudPlatform/gke-monitoring-tutorial) - This project walks you through setting up monitoring and visualizing metrics from a Kubernetes Engine cluster. The logs from the Kubernetes Engine cluster will be leveraged to walk through the monitoring capabilities of Stackdriver.
 - [JeffDeCola/my-cheat-sheets](https://github.com/JeffDeCola/my-cheat-sheets) - A place to keep all my cheat sheets for the complete development of ASIC/FPGA hardware or a software app/service.
@@ -6660,6 +6731,8 @@
 
 ## TypeScript 
 
+- [blake-mealey/vscode-generate-wt-scheme](https://github.com/blake-mealey/vscode-generate-wt-scheme) - Generate Windows Terminal color schemes from your VSCode themes
+- [nateshmbhat/windows-terminal-tweaker](https://github.com/nateshmbhat/windows-terminal-tweaker) - Tweak your windows terminal to heart's content with this app using its beautiful interface to configure everything about the terminal.
 - [atomcorp/themes](https://github.com/atomcorp/themes) - Themes for Windows Terminal
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A complex query language implementation for the Obsidian note-taking tool.
 - [tgrosinger/tq-obsidian](https://github.com/tgrosinger/tq-obsidian) - Yet another Obsidian task manager
@@ -6958,6 +7031,7 @@
 
 ## Vim script 
 
+- [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
 - [TylerLeonhardt/dotfiles](https://github.com/TylerLeonhardt/dotfiles) - dotfiles
 - [hongyuanjia/dotfiles](https://github.com/hongyuanjia/dotfiles) - 
 - [eddiezane/dotfiles](https://github.com/eddiezane/dotfiles) - doot doot
