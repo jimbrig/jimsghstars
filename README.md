@@ -216,6 +216,7 @@
 - [libuv/libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
 - [haiwen/seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
+- [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
 - [coolbutuseless/simplecall](https://github.com/coolbutuseless/simplecall) - A demo R package incorporating C code which is called with .Call()
 - [coolbutuseless/lz4lite](https://github.com/coolbutuseless/lz4lite) - Very Fast compression/decompression of in-memory numeric vectors with LZ4
 - [bmbolstad/preprocessCore](https://github.com/bmbolstad/preprocessCore) - 
@@ -447,7 +448,6 @@
 - [M2Team/NSudo](https://github.com/M2Team/NSudo) - Series of System Administration Tools
 - [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 - [r-dbi/RPostgres](https://github.com/r-dbi/RPostgres) - A DBI-compliant interface to PostgreSQL
-- [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [CherryPill/system_info](https://github.com/CherryPill/system_info) - Hardware information tool for Windows
 - [mandreyel/mio](https://github.com/mandreyel/mio) - Cross-platform C++11 header-only library for memory mapped file IO
@@ -2429,7 +2429,6 @@
 - [lilin90/awesome-technical-communication](https://github.com/lilin90/awesome-technical-communication) - 😎 A curated list of awesome resources about technical communication
 - [bp4you/sadd](https://github.com/bp4you/sadd) - SADD makes it easier for Software Development Teams to create high qualitative solutions and products for the sake of well designed System and Software Architecture.  You'll no longer have to know all of world wide SW development methodologies so as they are incorporated in SADD.
 - [itsazzad/SRS](https://github.com/itsazzad/SRS) - Systems and software engineering — Life cycle processes — Requirements engineering
-- [MicrosoftDocs/docs-taxonomy](https://github.com/MicrosoftDocs/docs-taxonomy) - Latest taxonomy table markdowns
 - [CookingWithCale/MarkdownSoftwareEngineering](https://github.com/CookingWithCale/MarkdownSoftwareEngineering) - Software engineering markdown templates, including Requirements Analysis Document and Software Design Document.
 - [leonardochang36/srsdoc](https://github.com/leonardochang36/srsdoc) - A software requirements specification is the basis for your entire project. It lays the framework that every team involved in development will follow. Here you can find an easy to use template.
 - [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems) - A curated list to learn about distributed systems
@@ -6844,7 +6843,7 @@
 - [JLChnToZ/uniterm](https://github.com/JLChnToZ/uniterm) - 🚧Universal Terminal Emulator, might be a great toy terminal front-end for geeks.
 - [satackey/action-docker-layer-caching](https://github.com/satackey/action-docker-layer-caching) - 🐳  Enable Docker layer caching in GitHub Actions
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
-- [phibr0/obsidian-charts](https://github.com/phibr0/obsidian-charts) - Charts - Obsidian Plugin | Create editable, interactive and animated Charts in Obsidian
+- [phibr0/obsidian-charts](https://github.com/phibr0/obsidian-charts) - Charts - Obsidian Plugin | Create editable, interactive and animated Charts in Obsidian via Chart.js
 - [PicGo/PicGo-Core](https://github.com/PicGo/PicGo-Core) - :zap:A tool for pictures uploading. Both CLI & API supports.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [Thinkmill/manypkg](https://github.com/Thinkmill/manypkg) - ☔️ An umbrella for your monorepo
