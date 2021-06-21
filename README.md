@@ -648,7 +648,7 @@
 
 ## Common Lisp 
 
-- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the internet on your terms.
+- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the Internet on your terms.
 
 ## D 
 
@@ -2647,7 +2647,7 @@
 - [siddhujetty/A-Collection-of-Data-Science-Take-Home-Challenges](https://github.com/siddhujetty/A-Collection-of-Data-Science-Take-Home-Challenges) - My Solutions to  "A Collection of Data Science Take-Home Challenges" by Giulio Palombo.
 - [Joe-Rstats/Books](https://github.com/Joe-Rstats/Books) - R & Stats Books and Websites that I think are good.
 - [harryprince/awesome-sparklyr](https://github.com/harryprince/awesome-sparklyr) - An awesome sparklyr related package collection
-- [dailydotdev/daily](https://github.com/dailydotdev/daily) - All-in-one coding news reader 👩🏽‍💻
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - The home page every developer deserves 👩🏽‍💻
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [courtiol/Rguides](https://github.com/courtiol/Rguides) - Alternative cheat sheets for R
 - [datasnakes/awesome-reproducible-R](https://github.com/datasnakes/awesome-reproducible-R) - An awesome list of resources for reproducible research in R.  Includes a table of comparison for different tools.
@@ -3648,6 +3648,8 @@
 
 ## R 
 
+- [pedrocoutinhosilva/shiny.pwa](https://github.com/pedrocoutinhosilva/shiny.pwa) - Progressive Web Apps for r/shiny
+- [DivadNojnarg/golemPWA](https://github.com/DivadNojnarg/golemPWA) - 
 - [revodavid/R-custom-handler](https://github.com/revodavid/R-custom-handler) - 
 - [ropensci/ruODK](https://github.com/ropensci/ruODK) - ruODK: An R Client for the ODK Central API
 - [soodoku/tuber](https://github.com/soodoku/tuber) - :sweet_potato: Access YouTube from R
