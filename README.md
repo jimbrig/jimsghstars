@@ -744,6 +744,7 @@
 
 ## Go 
 
+- [GoogleCloudPlatform/docker-credential-gcr](https://github.com/GoogleCloudPlatform/docker-credential-gcr) - A Docker credential helper for GCR users
 - [Azure/azure-container-networking](https://github.com/Azure/azure-container-networking) - Azure Container Networking Solutions for Linux and Windows Containers
 - [Backblaze/terraform-provider-b2](https://github.com/Backblaze/terraform-provider-b2) - Terraform Provider for Backblaze B2 Cloud Storage
 - [rubenv/sql-migrate](https://github.com/rubenv/sql-migrate) - SQL schema migration tool for Go.
@@ -2345,7 +2346,6 @@
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [revodavid/R-at-Microsoft](https://github.com/revodavid/R-at-Microsoft) - R at Microsoft
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-- [akosbalasko/obsidian-autotagger-plugin](https://github.com/akosbalasko/obsidian-autotagger-plugin) - This plugin analyses the note content and offers tags based on the content
 - [RestCheatSheet/microservices-cheat-sheet](https://github.com/RestCheatSheet/microservices-cheat-sheet) - Cheat sheet for how to build microservices with scale, resilience and success.
 - [RestCheatSheet/platform-cheat-sheet](https://github.com/RestCheatSheet/platform-cheat-sheet) - Platform Creation Strategy and Guidelines
 - [RestCheatSheet/api-cheat-sheet](https://github.com/RestCheatSheet/api-cheat-sheet) - API Design Guidelines and Best Practices Cheat Sheet
@@ -2357,7 +2357,7 @@
 - [Dmitriy-Shulha/obsidian-css-snippets](https://github.com/Dmitriy-Shulha/obsidian-css-snippets) - Most common appearance solutions for Obsidian now in a single place. Initially collected by Klaas: https://forum.obsidian.md/t/how-to-achieve-css-code-snippets/8474
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG.
 - [kidonng/sushi](https://github.com/kidonng/sushi) - 🍣 A tasty and inclusive Scoop bucket
-- [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.0 format
+- [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 - [nickforr/rsetup](https://github.com/nickforr/rsetup) - Manage a list of R packages I find useful
 - [ivan-curada/Awesome-GCP](https://github.com/ivan-curada/Awesome-GCP) - Xyza's Notes about Google Cloud Platform
 - [hrvolapeter/awesome-gcp](https://github.com/hrvolapeter/awesome-gcp) - A curated list of awesome Google Cloud Platform (GCP) libraries, open source repos, guides, blogs, and other resources.
@@ -3296,6 +3296,7 @@
 
 ## Python 
 
+- [Kaggle/kaggle-api](https://github.com/Kaggle/kaggle-api) - Official Kaggle API
 - [Cobertos/dotfiles](https://github.com/Cobertos/dotfiles) - My configs for everything and a script to bootstrap it all on a new install.
 - [Azure/batch-shipyard](https://github.com/Azure/batch-shipyard) - Simplify HPC and Batch workloads on Azure
 - [ThomasThelen/Disable-Task-Manager](https://github.com/ThomasThelen/Disable-Task-Manager) - Example of disabling the task manager via registry manipulation
@@ -3648,6 +3649,7 @@
 
 ## R 
 
+- [nlmixrdevelopment/RxODE](https://github.com/nlmixrdevelopment/RxODE) - RxODE is an R package that facilitates easy simulations in R
 - [pedrocoutinhosilva/shiny.pwa](https://github.com/pedrocoutinhosilva/shiny.pwa) - Progressive Web Apps for r/shiny
 - [DivadNojnarg/golemPWA](https://github.com/DivadNojnarg/golemPWA) - 
 - [revodavid/R-custom-handler](https://github.com/revodavid/R-custom-handler) - 
@@ -6733,6 +6735,7 @@
 
 - [blake-mealey/vscode-generate-wt-scheme](https://github.com/blake-mealey/vscode-generate-wt-scheme) - Generate Windows Terminal color schemes from your VSCode themes
 - [nateshmbhat/windows-terminal-tweaker](https://github.com/nateshmbhat/windows-terminal-tweaker) - Tweak your windows terminal to heart's content with this app using its beautiful interface to configure everything about the terminal.
+- [akosbalasko/obsidian-autotagger-plugin](https://github.com/akosbalasko/obsidian-autotagger-plugin) - This plugin analyses the note content and offers tags based on the content
 - [atomcorp/themes](https://github.com/atomcorp/themes) - Themes for Windows Terminal
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A complex query language implementation for the Obsidian note-taking tool.
 - [tgrosinger/tq-obsidian](https://github.com/tgrosinger/tq-obsidian) - Yet another Obsidian task manager
@@ -6955,7 +6958,7 @@
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [ionic-team/stencil](https://github.com/ionic-team/stencil) - A Web Component compiler for building fast, reusable UI components and static site generated Progressive Web Apps
 - [luvsic3/issue-md-generator](https://github.com/luvsic3/issue-md-generator) - A command-line tool to generate markdown list from your github repository issue page
-- [Ikuyadeu/vscode-R](https://github.com/Ikuyadeu/vscode-R) - R Extension for Visual Studio Code (execution, snippet, lint, R documantation, R Markdown)
+- [Ikuyadeu/vscode-R](https://github.com/Ikuyadeu/vscode-R) - R Extension for Visual Studio Code (execution, snippet, R documentation, R Markdown)
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
 - [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes) - Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization options.
