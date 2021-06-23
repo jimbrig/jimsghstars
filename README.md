@@ -296,7 +296,6 @@
 - [xoofx/markdig](https://github.com/xoofx/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET
 - [PowerShell/Pager](https://github.com/PowerShell/Pager) - Project for console pager, which is published as a NuGet package Microsoft.PowerShell.Pager
 - [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine) - A bash inspired readline implementation for PowerShell
-- [PowerShell/PowerShellGet](https://github.com/PowerShell/PowerShellGet) - PowerShellGet is the package manager for PowerShell
 - [tkellogg/Jump-Location](https://github.com/tkellogg/Jump-Location) - Powershell `cd` that reads your mind
 - [microsoft/RTVS](https://github.com/microsoft/RTVS) - R Tools for Visual Studio.
 - [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer.
@@ -656,6 +655,7 @@
 
 ## Dart 
 
+- [pbissonho/fast.cli](https://github.com/pbissonho/fast.cli) - An incredible command line interface for Flutter.
 - [stablekernel/aqueduct](https://github.com/stablekernel/aqueduct) - Dart HTTP server framework for building REST APIs. Includes PostgreSQL ORM and OAuth2 provider.
 - [sass/migrator](https://github.com/sass/migrator) - Tool for migrating stylesheets to new Sass versions
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
@@ -3217,6 +3217,7 @@
 - [builtbybel/bloatbox](https://github.com/builtbybel/bloatbox) - ☑️🌠 Remove Bloatwares from Windows 10
 - [mikebattista/PowerShell-WSL-Interop](https://github.com/mikebattista/PowerShell-WSL-Interop) - Integrate Linux commands into Windows with PowerShell and the Windows Subsystem for Linux (WSL).
 - [roose/win-cli](https://github.com/roose/win-cli) - Windows command line tools
+- [PowerShell/PowerShellGet](https://github.com/PowerShell/PowerShellGet) - PowerShellGet is the package manager for PowerShell
 - [wtjones/PSDirTag](https://github.com/wtjones/PSDirTag) - DirTags are relative paths that appear as variables in the Powershell prompt that update as you navigate. Saves keystrokes when navigating folder structures.
 - [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 - [farag2/Utilities](https://github.com/farag2/Utilities) - Useful things
@@ -5846,7 +5847,7 @@
 - [alexsanjoseph/compareDF](https://github.com/alexsanjoseph/compareDF) - R Tool to compare two data.frames
 - [pmaji/financial-asset-comparison-tool](https://github.com/pmaji/financial-asset-comparison-tool) - R Shiny app to compare the relative performance of cryptos and equities.
 - [globeandmail/startr](https://github.com/globeandmail/startr) - A template for data journalism in R
-- [ropenscilabs/checkers](https://github.com/ropenscilabs/checkers) - Automated checking of best practices for research compendia ✔️
+- [ropensci-archive/checkers](https://github.com/ropensci-archive/checkers) - :no_entry: ARCHIVED :no_entry: Automated checking of best practices for research compendia ✔️
 - [bnosac/textrank](https://github.com/bnosac/textrank) - Summarise text by finding relevant sentences and keywords using the Textrank algorithm
 - [capitalone/dataCompareR](https://github.com/capitalone/dataCompareR) - dataCompareR is an R package that allows users to compare two datasets and view a report on the similarities and differences.
 - [jbkunst/r-posts](https://github.com/jbkunst/r-posts) - Some R scripts and some R ideas
@@ -6615,7 +6616,7 @@
 - [grssnbchr/rddj-template](https://github.com/grssnbchr/rddj-template) - A template for bootstrapping reproducible RMarkdown documents for data journalistic purposes.
 - [petervanderdoes/gitflow-avh](https://github.com/petervanderdoes/gitflow-avh) - AVH Edition of the git extensions to provide high-level repository operations for Vincent Driessen's branching model
 - [r-hub/sysreqsdb](https://github.com/r-hub/sysreqsdb) - SystemRequirements mappings for R packages
-- [strboul/dotfiles](https://github.com/strboul/dotfiles) - My dotfiles with a setup script :rocket:
+- [strboul/dotfiles](https://github.com/strboul/dotfiles) - My workbench :toolbox:
 - [jcheng5/rhub-linux-builders](https://github.com/jcheng5/rhub-linux-builders) - Docker configuration for the Linux builders
 - [luong-komorebi/professional-programming](https://github.com/luong-komorebi/professional-programming) - A collection of full-stack resources for programmers.
 - [clevr-dev/ShinyStudio](https://github.com/clevr-dev/ShinyStudio) - A fully Dockerized, self-hosted development environment for teams. Develop where you serve.
@@ -6854,7 +6855,7 @@
 - [Thinkmill/manypkg](https://github.com/Thinkmill/manypkg) - ☔️ An umbrella for your monorepo
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [cardinalby/google-api-fetch-token-action](https://github.com/cardinalby/google-api-fetch-token-action) - Call Google Auth API to prevent you refresh token being expired
-- [docker/login-action](https://github.com/docker/login-action) - :octocat: GitHub Action to login against a Docker registry
+- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry
 - [snyk/release-notes-preview](https://github.com/snyk/release-notes-preview) - GitHub Action for providing release notes preview for semantic releases
 - [JoRyGu/client-book](https://github.com/JoRyGu/client-book) - 
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
