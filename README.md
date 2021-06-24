@@ -237,7 +237,6 @@
 - [gaborcsardi/parsedate](https://github.com/gaborcsardi/parsedate) - R package to parse dates given in arbitrary formats
 - [vigou3/actuar](https://github.com/vigou3/actuar) - Actuarial functions and heavy tailed distributions for R
 - [eddelbuettel/digest](https://github.com/eddelbuettel/digest) - R package to create compact hash digests of R objects
-- [mhahsler/arules](https://github.com/mhahsler/arules) - Mining Association Rules and Frequent Itemsets with R
 - [ropensci/git2r](https://github.com/ropensci/git2r) - R bindings to the libgit2 library
 - [viking/r-yaml](https://github.com/viking/r-yaml) - R package for converting objects to and from YAML
 - [wrathematics/getPass](https://github.com/wrathematics/getPass) - Password function for R with masking (where supported)
@@ -696,6 +695,7 @@
 - [darkbitio/mkit](https://github.com/darkbitio/mkit) - MKIT is a Managed Kubernetes Inspection Tool that validates several common security-related configuration settings of managed Kubernetes cluster objects and the workloads/resources running inside the cluster.
 - [maddox/actions](https://github.com/maddox/actions) - A collection of useful GitHub Actions
 - [dirmeier/dockerfiles](https://github.com/dirmeier/dockerfiles) - A collection of docker files.
+- [rstudio/rstudio-docker-products](https://github.com/rstudio/rstudio-docker-products) - Docker images for RStudio Professional Products
 - [codecheckers/register](https://github.com/codecheckers/register) - Register of CODECHECK certificates
 - [steren/awesome-cloudrun](https://github.com/steren/awesome-cloudrun) - 👓 ⏩ A curated list of resources about all things Cloud Run
 - [rstudio/r-docker](https://github.com/rstudio/r-docker) - Docker images for R
@@ -1314,6 +1314,7 @@
 - [ColinFay/craneur](https://github.com/ColinFay/craneur) - Create your own R Archive Network
 - [radiant-rstats/radiant.data](https://github.com/radiant-rstats/radiant.data) - Code for the Data menu in Radiant
 - [JSchelldorfer/ActuarialDataScience](https://github.com/JSchelldorfer/ActuarialDataScience) - Code for the Actuarial Data Science Tutorials published at https://actuarialdatascience.org.
+- [mhahsler/arules](https://github.com/mhahsler/arules) - Mining Association Rules and Frequent Itemsets with R
 - [dirkschumacher/encryptedRmd](https://github.com/dirkschumacher/encryptedRmd) - 🔑 Password protected markdown html reports in R using libsodium
 - [trinker/pacman](https://github.com/trinker/pacman) - A package management tools for R
 - [smbache/ensurer](https://github.com/smbache/ensurer) - Ensure values are as expected at runtime
@@ -1418,6 +1419,7 @@
 
 ## JavaScript 
 
+- [ricardolsmendes/gcp-cloudfunction-git-event](https://github.com/ricardolsmendes/gcp-cloudfunction-git-event) - Google Cloud Function to be triggered on Git repository events
 - [pizycki/NugetServerContainer](https://github.com/pizycki/NugetServerContainer) - Nuget Server in Windows Container
 - [PacktPublishing/Hands-On-Kubernetes-on-Windows](https://github.com/PacktPublishing/Hands-On-Kubernetes-on-Windows) - Hands-On Kubernetes on Windows, published by Packt
 - [StefanScherer/dockerfiles-windows](https://github.com/StefanScherer/dockerfiles-windows) - Various Dockerfiles for Windows Containers
@@ -1712,6 +1714,7 @@
 - [djadmin/medium-cli](https://github.com/djadmin/medium-cli) - Medium for Hackers - :computer: A CLI for Medium Stories.
 - [bentaylor2/react-structured-data](https://github.com/bentaylor2/react-structured-data) - React Structured Data provides an easy way to add structured data to your React apps
 - [evoluteur/structured-filter](https://github.com/evoluteur/structured-filter) - jQuery UI widget for structured queries like "Contacts where Firstname starts with A and Birthday before 1/1/2000 and State in (CA, NY, FL)"...
+- [awesomemotive/all-in-one-seo-pack](https://github.com/awesomemotive/all-in-one-seo-pack) - All in One SEO plugin for WordPress SEO
 - [preactjs/compressed-size-action](https://github.com/preactjs/compressed-size-action) - GitHub Action that adds compressed size changes to your PRs.
 - [datasketch/tabler](https://github.com/datasketch/tabler) - HTMLWidget to render tables from Google Sheets database
 - [joshfarrant/slack-clicky](https://github.com/joshfarrant/slack-clicky) - #Clicky is a Chrome Extension which lets you share links to Slack in a single click!
@@ -2336,6 +2339,7 @@
 
 ## Others 
 
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [fanfan54/dotfiles-windows](https://github.com/fanfan54/dotfiles-windows) - :gear: The dotfiles (configuration files) and Chocolatey packages I use on Windows environments, forked from the dotfiles of https://github.com/jayharris/dotfiles-windows. Built in PowerShell.
 - [scottdorman/microsoft-terminal-settings](https://github.com/scottdorman/microsoft-terminal-settings) - A collection of profiles, color schemes and other settings for Windows Terminal
 - [StefanScherer/windows-docker-desktop-box](https://github.com/StefanScherer/windows-docker-desktop-box) - Vagrant box to test Docker Desktop with Linux/Windows containers
@@ -3089,7 +3093,6 @@
 - [spatie/schema-org](https://github.com/spatie/schema-org) - A fluent builder Schema.org types and ld+json generator
 - [KnpLabs/KnpSnappyBundle](https://github.com/KnpLabs/KnpSnappyBundle) - Easily create PDF and images in Symfony by converting html using webkit
 - [dompdf/dompdf](https://github.com/dompdf/dompdf) - HTML to PDF converter for PHP
-- [awesomemotive/all-in-one-seo-pack](https://github.com/awesomemotive/all-in-one-seo-pack) - All in One SEO plugin for WordPress SEO
 - [appzcoder/crud-generator](https://github.com/appzcoder/crud-generator) - Laravel CRUD Generator
 - [knotworks/knot-server](https://github.com/knotworks/knot-server) - A decentralized server to build private social networks from.
 - [laravel/valet](https://github.com/laravel/valet) - 
@@ -3471,7 +3474,7 @@
 - [sourabhjagtap95/AwesomePythonScripts](https://github.com/sourabhjagtap95/AwesomePythonScripts) - [Show some :heart: by giving :stars:], A place to post your python scripts which you think are awesome
 - [mingrammer/python-web-framework-stars](https://github.com/mingrammer/python-web-framework-stars) - ⭐️ Web frameworks for Python, most starred on Github
 - [nodiscc/github-stars-backup](https://github.com/nodiscc/github-stars-backup) - [mirror] Backup a list of github starred repositories for the specified user.
-- [hedythedev/starcli](https://github.com/hedythedev/starcli) - :sparkles: Browse GitHub trending projects from your command line
+- [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse GitHub trending projects from your command line
 - [dexy/dexy](https://github.com/dexy/dexy) - 
 - [retext-project/retext](https://github.com/retext-project/retext) - ReText: Simple but powerful editor for Markdown and reStructuredText
 - [saadmk11/django-newsfeed](https://github.com/saadmk11/django-newsfeed) - A news curator and newsletter subscription package for Django
@@ -3650,6 +3653,7 @@
 
 ## R 
 
+- [sol-eng/microarray](https://github.com/sol-eng/microarray) - Data for demonstrating jobs and launcher features
 - [nlmixrdevelopment/RxODE](https://github.com/nlmixrdevelopment/RxODE) - RxODE is an R package that facilitates easy simulations in R
 - [pedrocoutinhosilva/shiny.pwa](https://github.com/pedrocoutinhosilva/shiny.pwa) - Progressive Web Apps for r/shiny
 - [DivadNojnarg/golemPWA](https://github.com/DivadNojnarg/golemPWA) - 
@@ -6307,6 +6311,7 @@
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 - [denoland/deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 
 ## SAS 
@@ -6364,6 +6369,7 @@
 
 ## Shell 
 
+- [ivamluz/cloud-build-cloud-functions-pipeline](https://github.com/ivamluz/cloud-build-cloud-functions-pipeline) - A sample project showing how to automate the deployment of Cloud Functions with Cloud Build on Google Cloud Platform.
 - [ishchow/dotfiles](https://github.com/ishchow/dotfiles) - Personal dotfiles and stuff
 - [rpeloff/WSL-dotfiles](https://github.com/rpeloff/WSL-dotfiles) - My dotfiles and other things for WSL 1.0 on a Windows machine.
 - [gbgabiola/dotfiles](https://github.com/gbgabiola/dotfiles) - @genesisgabiola does dotfiles
@@ -6513,7 +6519,6 @@
 - [pietvanzoen/git-get](https://github.com/pietvanzoen/git-get) - Like `go get` but `git`.
 - [jaspernbrouwer/git-flow-hooks](https://github.com/jaspernbrouwer/git-flow-hooks) - Some useful hooks for git-flow (AVH Edition)
 - [trestletech/rdeps](https://github.com/trestletech/rdeps) - 
-- [rstudio/rstudio-docker-products](https://github.com/rstudio/rstudio-docker-products) - Docker images for RStudio Professional Products
 - [kevinushey/etc](https://github.com/kevinushey/etc) - Scripts, dot files, and other things that make my programming life a happy one
 - [rocker-org/rocker-versioned2](https://github.com/rocker-org/rocker-versioned2) - 
 - [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
@@ -7000,7 +7005,6 @@
 - [y-lohse/inkjs](https://github.com/y-lohse/inkjs) - A javascript port of inkle's ink scripting language.
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [zendeskgarden/react-containers](https://github.com/zendeskgarden/react-containers) - :seedling: garden React (no-UI) containers
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [microsoft/SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
