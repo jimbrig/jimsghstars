@@ -1076,7 +1076,7 @@
 - [KasperZutterman/KasperZutterman.github.io](https://github.com/KasperZutterman/KasperZutterman.github.io) - Personal website:
 - [dnnsmnstrr/zettelkasten](https://github.com/dnnsmnstrr/zettelkasten) - 
 - [Thought-Tank/thought-tank](https://github.com/Thought-Tank/thought-tank) - Your second brain belongs to you.
-- [SinglePageBookProject/SPB](https://github.com/SinglePageBookProject/SPB) - Pragmatical way to create cheat-sheets, bookmarks, full-books in a single page. (Zettlekasten the web!)
+- [SinglePageBookProject/Single-Page-Book](https://github.com/SinglePageBookProject/Single-Page-Book) - Pragmatical way to create cheat-sheets, bookmarks, full-books in a single page. (Zettlekasten the web!)
 - [SinglePageBookProject/IT_notes](https://github.com/SinglePageBookProject/IT_notes) - A new way to document for the 21st century
 - [canro91/canro91.github.io](https://github.com/canro91/canro91.github.io) - My personal site
 - [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
@@ -1314,6 +1314,7 @@
 - [ColinFay/craneur](https://github.com/ColinFay/craneur) - Create your own R Archive Network
 - [radiant-rstats/radiant.data](https://github.com/radiant-rstats/radiant.data) - Code for the Data menu in Radiant
 - [JSchelldorfer/ActuarialDataScience](https://github.com/JSchelldorfer/ActuarialDataScience) - Code for the Actuarial Data Science Tutorials published at https://actuarialdatascience.org.
+- [datastorm-open/shinymanager](https://github.com/datastorm-open/shinymanager) - Simple and secure authentification mechanism for single shiny applications.
 - [dirkschumacher/encryptedRmd](https://github.com/dirkschumacher/encryptedRmd) - 🔑 Password protected markdown html reports in R using libsodium
 - [trinker/pacman](https://github.com/trinker/pacman) - A package management tools for R
 - [smbache/ensurer](https://github.com/smbache/ensurer) - Ensure values are as expected at runtime
@@ -3128,6 +3129,8 @@
 
 ## PowerShell 
 
+- [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) - Module template with build pipeline and examples, including DSC elements.
+- [mozilla-releng/OpenCloudConfig](https://github.com/mozilla-releng/OpenCloudConfig) - 
 - [nekocodeX/windotfiles](https://github.com/nekocodeX/windotfiles) - 🪟📦 Windows 用 dotfiles のような何か
 - [JTBrinkmann/windows-setup](https://github.com/JTBrinkmann/windows-setup) - Script to set up a Windows profile to my personal preferences
 - [LeoCalbi/dotfiles](https://github.com/LeoCalbi/dotfiles) - My Windows, Powershell, wsl dotfiles
@@ -3321,7 +3324,7 @@
 - [tiangolo/full-stack](https://github.com/tiangolo/full-stack) - Full stack, modern web application generator. Using Flask, PostgreSQL DB, Docker, Swagger, automatic HTTPS and more.
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
-- [khalednassar/obyde](https://github.com/khalednassar/obyde) - A minimal tool to convert a "standardly" configured Obsidian vault to a Jekyll-based blog.
+- [khalednassar/obyde](https://github.com/khalednassar/obyde) - A minimal tool to convert a "standardly" configured Obsidian vault to a Jekyll or Hugo blog.
 - [whateverforever/zettelwarmer](https://github.com/whateverforever/zettelwarmer) - CLI Tool for Zettlr/Obsidian to help you browse random notes. The older the note, the more likely it will be shown.
 - [djsudduth/keep-it-markdown](https://github.com/djsudduth/keep-it-markdown) - Convert Google Keep notes dynamically to markdown for Obsidian and Notion using the unofficial Keep API
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
@@ -3652,6 +3655,8 @@
 
 ## R 
 
+- [Azure/AzureAuth](https://github.com/Azure/AzureAuth) - R package for OAuth 2.0 authentication with Azure Active Directory
+- [sr320/cockle-reproduction](https://github.com/sr320/cockle-reproduction) - 
 - [gaborcsardi/after](https://github.com/gaborcsardi/after) - Run Code in the Background
 - [sol-eng/microarray](https://github.com/sol-eng/microarray) - Data for demonstrating jobs and launcher features
 - [nlmixrdevelopment/RxODE](https://github.com/nlmixrdevelopment/RxODE) - RxODE is an R package that facilitates easy simulations in R
@@ -4490,7 +4495,7 @@
 - [yusuzech/R6_examples](https://github.com/yusuzech/R6_examples) - Create some examples for using R6.
 - [yusuzech/dfutils](https://github.com/yusuzech/dfutils) - Utility functions for interacting with tabular data.
 - [yusuzech/timeR](https://github.com/yusuzech/timeR) - A simple R package for timing your code.
-- [wcjochem/sfarrow](https://github.com/wcjochem/sfarrow) - Experimental R package for reading/writing `sf` objects from/to parquet files with `arrow`.
+- [wcjochem/sfarrow](https://github.com/wcjochem/sfarrow) - R package for reading/writing `sf` objects from/to parquet files with `arrow`.
 - [feddelegrand7/scrollrevealR](https://github.com/feddelegrand7/scrollrevealR) - Animate shiny elements when they scroll into view   🍁 🍁 🍁
 - [cole-brokamp/automagic](https://github.com/cole-brokamp/automagic) - automagically install packages necessary to run R code
 - [Luwei-Ying/validateIt](https://github.com/Luwei-Ying/validateIt) - 
@@ -5814,7 +5819,6 @@
 - [cloudyr/googleCloudStorageR](https://github.com/cloudyr/googleCloudStorageR) - Google Cloud Storage API to R
 - [analyticalmonk/Rperform](https://github.com/analyticalmonk/Rperform) - :bar_chart: R package for tracking performance metrics across git versions and branches.
 - [davidski/evaluator](https://github.com/davidski/evaluator) - ⚖Open Source Toolkit for Quantitative Risk Assessment
-- [datastorm-open/shinymanager](https://github.com/datastorm-open/shinymanager) - Simple and secure authentification mechanism for single shiny applications.
 - [HenrikBengtsson/Wishlist-for-R](https://github.com/HenrikBengtsson/Wishlist-for-R) - Features and tweaks to R that I and others would love to see - feel free to add yours!
 - [ropensci/spelling](https://github.com/ropensci/spelling) - Tools for Spell Checking in R
 - [hrbrmstr/freebase](https://github.com/hrbrmstr/freebase) - 👃🏽A 'usethis'-like Package for Base R Pseudo-equivalents of 'tidyverse' Code
