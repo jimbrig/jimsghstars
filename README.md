@@ -2339,6 +2339,7 @@
 
 ## Others 
 
+- [MajorGeek/MajorGeeks-Windows-Tweaks](https://github.com/MajorGeek/MajorGeeks-Windows-Tweaks) - MajorGeeks Windows Tweaks contains approximately 215 registry, PowerShell, Visual Basic, and batch files to enable tweaks and hidden features in Windows 10, 8, and 7 for any skill level.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [fanfan54/dotfiles-windows](https://github.com/fanfan54/dotfiles-windows) - :gear: The dotfiles (configuration files) and Chocolatey packages I use on Windows environments, forked from the dotfiles of https://github.com/jayharris/dotfiles-windows. Built in PowerShell.
 - [scottdorman/microsoft-terminal-settings](https://github.com/scottdorman/microsoft-terminal-settings) - A collection of profiles, color schemes and other settings for Windows Terminal
@@ -4294,7 +4295,7 @@
 - [HenrikBengtsson/doFuture](https://github.com/HenrikBengtsson/doFuture) - :rocket: R package: doFuture - A Universal Foreach Parallel Adaptor using the Future API of the 'future' Package
 - [cwickham/purrr-tutorial](https://github.com/cwickham/purrr-tutorial) - A introduction to purrr
 - [ropensci-archive/tic.package](https://github.com/ropensci-archive/tic.package) - tic example: Building a package with pkgdown documentation
-- [robertdj/renv-docker](https://github.com/robertdj/renv-docker) - A guide to getting renv projects into Docker images
+- [robertdj/renv-docker](https://github.com/robertdj/renv-docker) - A guide to getting {renv} projects into Docker images
 - [thebioengineer/dockyard](https://github.com/thebioengineer/dockyard) - Tools for building and working with docker containers in R
 - [blairj09/dockerterm](https://github.com/blairj09/dockerterm) - An RStudio Addin for running docker containers in the RStudio terminal
 - [Kaggle/docker-rstats](https://github.com/Kaggle/docker-rstats) - Kaggle R docker image
