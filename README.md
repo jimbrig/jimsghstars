@@ -2339,6 +2339,8 @@
 
 ## Others 
 
+- [builtbybel/sharpapp](https://github.com/builtbybel/sharpapp) - 💩⭐️🚀A #app with cutting edge technology to #minimize windows-10 telemetry and #maximize privacy plus many more
+- [builtbybel/CloneApp](https://github.com/builtbybel/CloneApp) - 📦Easily Backup & Restore Windows Programs Settings
 - [MajorGeek/MajorGeeks-Windows-Tweaks](https://github.com/MajorGeek/MajorGeeks-Windows-Tweaks) - MajorGeeks Windows Tweaks contains approximately 215 registry, PowerShell, Visual Basic, and batch files to enable tweaks and hidden features in Windows 10, 8, and 7 for any skill level.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [fanfan54/dotfiles-windows](https://github.com/fanfan54/dotfiles-windows) - :gear: The dotfiles (configuration files) and Chocolatey packages I use on Windows environments, forked from the dotfiles of https://github.com/jayharris/dotfiles-windows. Built in PowerShell.
@@ -2382,7 +2384,7 @@
 - [relgisri/git-toolbelt](https://github.com/relgisri/git-toolbelt) - A suite of useful Git commands that aid with scripting or every day command line usage
 - [relgisri/private-ip-cloud-sql-db](https://github.com/relgisri/private-ip-cloud-sql-db) - An example set of terraform files for deploying a Cloud SQL DB with a private IP address only
 - [relgisri/cloudbuild-optimizer](https://github.com/relgisri/cloudbuild-optimizer) - Run builds across all machine types in Cloud Build to find the optimal price/performance tradeoff
-- [jobindj/obsidian-mkdocs](https://github.com/jobindj/obsidian-mkdocs) - Publish Obsidian Notes with MkDocs
+- [jobindj/obsidian-mkdocs](https://github.com/jobindj/obsidian-mkdocs) - A Template to Publish Obsidian Notes on Github Pages using MkDocs
 - [TechPrimers/whats-your-architecture](https://github.com/TechPrimers/whats-your-architecture) - "What's your Architecture?" is a series of architecture and design challenges to voice out the opinions of the TechPrimers community members.
 - [jimsforks/burglr](https://github.com/jimsforks/burglr) - Copy Functions from Other Packages Without Adding Them As Dependencies
 - [cranchange/cran_histories](https://github.com/cranchange/cran_histories) - Recollection of exchanges with CRAN reviewers and maintainer
@@ -2958,7 +2960,7 @@
 - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
 - [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
 - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
-- [n1trux/awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
