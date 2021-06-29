@@ -982,7 +982,7 @@
 - [tidynomicon/tidynomicon](https://github.com/tidynomicon/tidynomicon) - The Tidynomicon: An Introduction to R for Data Engineers and Others
 - [jhelvy/distillery](https://github.com/jhelvy/distillery) - A distill blog and showcase about building distill websites and blogs!
 - [FrissAnalytics/shinyJsTutorials](https://github.com/FrissAnalytics/shinyJsTutorials) - tutorials materials on R/Shiny bindings to popular javascript libraries
-- [domchristie/turndown](https://github.com/domchristie/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
+- [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
 - [iGISc/EnvDataSci](https://github.com/iGISc/EnvDataSci) - 
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
@@ -3658,6 +3658,7 @@
 
 ## R 
 
+- [fangzhou-xie/Randomuseragent](https://github.com/fangzhou-xie/Randomuseragent) - Randomly Shuffle User-Agent Strings
 - [Azure/AzureAuth](https://github.com/Azure/AzureAuth) - R package for OAuth 2.0 authentication with Azure Active Directory
 - [sr320/cockle-reproduction](https://github.com/sr320/cockle-reproduction) - 
 - [gaborcsardi/after](https://github.com/gaborcsardi/after) - Run Code in the Background
