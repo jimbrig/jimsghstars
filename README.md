@@ -109,6 +109,7 @@
 
 ## AutoHotkey 
 
+- [vincvincvinc/autohotkey-scripts](https://github.com/vincvincvinc/autohotkey-scripts) - Collection of autohotkey scripts I use. Most are hacky mash-ups of self-made and copy-pasted.
 - [JuanmaMenendez/AutoHotkey-script-Open-Show-Apps](https://github.com/JuanmaMenendez/AutoHotkey-script-Open-Show-Apps) - AutoHotkey script to open, restore or minimize, Window's and Chrome's Apps using hotkeys
 - [mgroat/Todoist-Global-Hotkey](https://github.com/mgroat/Todoist-Global-Hotkey) - An autohotkey script to open Todoist in Chrome and start a new item
 - [denolfe/AutoHotkey](https://github.com/denolfe/AutoHotkey) - :gear: My Autohotkey productivity suite that includes shortcuts, hotstrings, hotkeys, apps/utilities, AutoCorrect
@@ -1648,7 +1649,7 @@
 - [verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
 - [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 - [stickmy/docanary](https://github.com/stickmy/docanary) - :memo: Site generator. Markdown -&gt; Site
-- [DavidWells/markdown-magic](https://github.com/DavidWells/markdown-magic) - 💫  Automatically format markdown files, sync external docs/src code & make better docs
+- [DavidWells/markdown-magic](https://github.com/DavidWells/markdown-magic) - 💫  Automatically format markdown files using comment blocks. Update contents via custom transforms, external data sources & your source code.
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [abhisheknaiidu/todoist-readme](https://github.com/abhisheknaiidu/todoist-readme) - 🚧 Updates README with Todoist Stats of a user
 - [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A collection of GitHub Actions for interfacing with Google Cloud Platform.
@@ -3187,7 +3188,7 @@
 - [Ash258/Scoop-NirSoft](https://github.com/Ash258/Scoop-NirSoft) - WIP: All NirSoft applications and utilities
 - [Ash258/Scoop-Sysinternals](https://github.com/Ash258/Scoop-Sysinternals) - All Sysinternals tools separately.
 - [Ash258/Scoop-JetBrains](https://github.com/Ash258/Scoop-JetBrains) - All JetBrains Utilities and IDEs
-- [Ash258/GithubActionsBucketForTesting](https://github.com/Ash258/GithubActionsBucketForTesting) - Test repo for https://github.com/Ash258/scoop-GithubActions
+- [Ash258/GithubActionsBucketForTesting](https://github.com/Ash258/GithubActionsBucketForTesting) - Test repo for https://github.com/shovel-org/GithubActions
 - [Ash258/Scoop-Ash258](https://github.com/Ash258/Scoop-Ash258) - Personal bucket with wide variety of applications of all kind.
 - [ScoopInstaller/Install](https://github.com/ScoopInstaller/Install) - 📥 WIP: Next-generation Scoop (un)installer
 - [Ash258/Scoop-Core](https://github.com/Ash258/Scoop-Core) - Shovel. Alternative, more advanced, and user-friendly implementation of windows command-line installer scoop.
@@ -3872,7 +3873,7 @@
 - [data-cleaning/validatedb](https://github.com/data-cleaning/validatedb) - Validate on a table in a DB, using dbplyr
 - [skgrange/databaser](https://github.com/skgrange/databaser) - Tools to Keep Database Interaction Easy and Consistent
 - [lorenzwalthert/touchstone](https://github.com/lorenzwalthert/touchstone) - Smart benchmarking of pull requests with statistical confidence
-- [moodymudskipper/boomer](https://github.com/moodymudskipper/boomer) - Print the Output of Intermediate Steps of a Call
+- [moodymudskipper/boomer](https://github.com/moodymudskipper/boomer) - Debugging Tools to Inspect the Intermediate Steps of a Call
 - [jimbrig/shiny_react_fluent_app](https://github.com/jimbrig/shiny_react_fluent_app) - An experimental shiny application using the shiny.react and shiny.fluent R packages provided by Appsilon.
 - [jonthegeek/stylex](https://github.com/jonthegeek/stylex) - Neural Style Transfer Assistant
 - [jimbrig/shiny.fluent](https://github.com/jimbrig/shiny.fluent) - Microsoft's Fluent UI for Shiny apps.
@@ -6846,7 +6847,7 @@
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A realtime Database for JavaScript Applications
 - [googlemaps/google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
-- [teambit/bit](https://github.com/teambit/bit) - A lightweight and highly extendible Polyrepo for component-driven development.
+- [teambit/bit](https://github.com/teambit/bit) - A tool for component-driven application development.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [shd101wyy/mume](https://github.com/shd101wyy/mume) - Powerful markdown tool
 - [react-native-community/cli](https://github.com/react-native-community/cli) - React Native command line tools
@@ -7031,6 +7032,7 @@
 - [ReneNyffenegger/temp-COM](https://github.com/ReneNyffenegger/temp-COM) - 
 - [dragokas/hijackthis](https://github.com/dragokas/hijackthis) - A free utility that finds malware, adware and other security threats
 - [jimbrig/xl-macros](https://github.com/jimbrig/xl-macros) - My Personal Excel Workbook's Macros
+- [krlmlr/Excel2LaTeX](https://github.com/krlmlr/Excel2LaTeX) - The Excel add-in for creating LaTeX tables
 
 ## VBScript 
 
@@ -7080,7 +7082,6 @@
 ## Visual Basic 
 
 - [curipha/dotfiles_w](https://github.com/curipha/dotfiles_w) - dotfiles for Windows
-- [krlmlr/Excel2LaTeX](https://github.com/krlmlr/Excel2LaTeX) - The Excel add-in for creating LaTeX tables
 
 ## Visual Basic .NET 
 
