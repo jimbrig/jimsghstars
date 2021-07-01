@@ -249,6 +249,7 @@
 
 ## C# # 
 
+- [Orbmu2k/nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - 
 - [mgarrettm/serverless-prototype](https://github.com/mgarrettm/serverless-prototype) - This is a prototype of a serverless platform built in .NET using Microsoft Azure and Windows Containers.
 - [Sphinkie/RegFineViewer](https://github.com/Sphinkie/RegFineViewer) - RegFineViewer is an utility to visualize and navigate easily the Windows Registry
 - [jchomarat/wttop](https://github.com/jchomarat/wttop) - System monitor for the new Windows Terminal
@@ -335,7 +336,7 @@
 - [JasonStein/Notepads](https://github.com/JasonStein/Notepads) - A modern, lightweight text editor with a minimalist design.
 - [dotnet/docfx](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects
 - [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
-- [BernieWhite/PSDocs](https://github.com/BernieWhite/PSDocs) - Generate markdown from PowerShell.
+- [microsoft/PSDocs](https://github.com/microsoft/PSDocs) - Generate markdown from PowerShell.
 - [mazmazz/jumplist-extender](https://github.com/mazmazz/jumplist-extender) - A custom Jump List creator for any program on Windows.
 - [GitTools/GitVersion](https://github.com/GitTools/GitVersion) - From git log to SemVer in no time
 - [microsoft/perfview](https://github.com/microsoft/perfview) - PerfView is a CPU and memory performance-analysis tool
@@ -2269,6 +2270,7 @@
 
 ## Makefile 
 
+- [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 - [VPraharsha03/DevuanWSL](https://github.com/VPraharsha03/DevuanWSL) - Devuan as a WSL instance. A Debian variant without the complexities and dependencies of systemd.
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [o2r-project/api](https://github.com/o2r-project/api) - Reproducibility service RESTful web API specification and documentation
@@ -2342,7 +2344,7 @@
 
 - [builtbybel/sharpapp](https://github.com/builtbybel/sharpapp) - 💩⭐️🚀A #app with cutting edge technology to #minimize windows-10 telemetry and #maximize privacy plus many more
 - [builtbybel/CloneApp](https://github.com/builtbybel/CloneApp) - 📦Easily Backup & Restore Windows Programs Settings
-- [MajorGeek/MajorGeeks-Windows-Tweaks](https://github.com/MajorGeek/MajorGeeks-Windows-Tweaks) - MajorGeeks Windows Tweaks contains approximately 215 registry, PowerShell, Visual Basic, and batch files to enable tweaks and hidden features in Windows 10, 8, and 7 for any skill level.
+- [MajorGeek/MajorGeeks-Windows-Tweaks](https://github.com/MajorGeek/MajorGeeks-Windows-Tweaks) - MajorGeeks Windows Tweaks contains approximately 218 registry, PowerShell, Visual Basic, and batch files to enable tweaks and hidden features in Windows 10, 8, and 7 for any skill level.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [fanfan54/dotfiles-windows](https://github.com/fanfan54/dotfiles-windows) - :gear: The dotfiles (configuration files) and Chocolatey packages I use on Windows environments, forked from the dotfiles of https://github.com/jayharris/dotfiles-windows. Built in PowerShell.
 - [scottdorman/microsoft-terminal-settings](https://github.com/scottdorman/microsoft-terminal-settings) - A collection of profiles, color schemes and other settings for Windows Terminal
@@ -3133,6 +3135,7 @@
 
 ## PowerShell 
 
+- [lord-carlos/nvidia-update](https://github.com/lord-carlos/nvidia-update) - Checks for a new version of the Nvidia Driver, downloads and installs it.
 - [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) - Module template with build pipeline and examples, including DSC elements.
 - [mozilla-releng/OpenCloudConfig](https://github.com/mozilla-releng/OpenCloudConfig) - 
 - [nekocodeX/windotfiles](https://github.com/nekocodeX/windotfiles) - 🪟📦 Windows 用 dotfiles のような何か
@@ -3642,7 +3645,6 @@
 - [cmu-lib/printprob-db](https://github.com/cmu-lib/printprob-db) - Database and interface for Print and Probability project
 - [KevinMusgrave/easy-module-attribute-getter](https://github.com/KevinMusgrave/easy-module-attribute-getter) - Fetch and initialize objects in one line, without any if-statements or dictionaries. Merge and override complex config options at the command line.
 - [ctjacobs/git-rdm](https://github.com/ctjacobs/git-rdm) - A research data management plugin for the Git version control system.
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [common-workflow-language/common-workflow-language](https://github.com/common-workflow-language/common-workflow-language) - Repository for the CWL standards. Use https://cwl.discourse.group/ for support 😊
 - [airbnb/knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions.
 - [drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
@@ -5594,7 +5596,7 @@
 - [krupanss/Interactive-Exploratory-Data-Analysis](https://github.com/krupanss/Interactive-Exploratory-Data-Analysis) - An Interactive Shiny Application for exploratory data analysis thru visualization
 - [exploratory-io/book](https://github.com/exploratory-io/book) - 
 - [datatxtorg/datatxt](https://github.com/datatxtorg/datatxt) - Tools for working with the data.txt specification
-- [r-lib/pkgdepends](https://github.com/r-lib/pkgdepends) - R Package Dependency Resolution -- EXPERIMENTAL, WORK IN PROGRESS!
+- [r-lib/pkgdepends](https://github.com/r-lib/pkgdepends) - R Package Dependency Resolution
 - [dpastoor/devutils](https://github.com/dpastoor/devutils) - utility functions for R related projects and/or development
 - [dpastoor/lpgitbook](https://github.com/dpastoor/lpgitbook) - literate programming with gitbook (and rmarkdown)
 - [stan-dev/posterior](https://github.com/stan-dev/posterior) - The posterior R package
@@ -7014,6 +7016,7 @@
 - [y-lohse/inkjs](https://github.com/y-lohse/inkjs) - A javascript port of inkle's ink scripting language.
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [zendeskgarden/react-containers](https://github.com/zendeskgarden/react-containers) - :seedling: garden React (no-UI) containers
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
