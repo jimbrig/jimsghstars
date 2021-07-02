@@ -124,6 +124,11 @@
 
 ## Batchfile 
 
+- [vegardit/cygwin-portable-installer](https://github.com/vegardit/cygwin-portable-installer) - Windows batch file to perform unattended installations of a portable Cygwin environment.
+- [NARCOTIC/Windows-Optimizer](https://github.com/NARCOTIC/Windows-Optimizer) - Windows-Optimizer is a batch program. This program is Optimizing and Defragmenting All Connected Storage Drives & Fixing File System Errors.
+- [ManuelGil/Uninstall-Office-2016](https://github.com/ManuelGil/Uninstall-Office-2016) - This script allows you to uninstall or automatically delete Office 2016, 365 or earlier using the Microsoft Windows command line.
+- [Empyreal96/win-10-services-toolbox](https://github.com/Empyreal96/win-10-services-toolbox) - A Toolbox allowing users to modify various aspects of Windows 10 from one place.
+- [cmartinezone/WinPEBuilder](https://github.com/cmartinezone/WinPEBuilder) - WinPEBuilder v1.1 - create your WinPE bootable Images easily, including custom scripts and drivers.
 - [kingjuliando/dotbatch](https://github.com/kingjuliando/dotbatch) - 🖳 Windows based 'dotfiles' - CMD scripts and AHK
 - [Atavic/regtweaks](https://github.com/Atavic/regtweaks) - Over 600 Windows Registry Tweaks for Windows 7, 8, 8.1 and 10
 - [teddy-gustiaux/scripts](https://github.com/teddy-gustiaux/scripts) - Set of miscellaneous scripts for personal use.
@@ -249,6 +254,7 @@
 
 ## C# # 
 
+- [micahlmartin/SettingsManager](https://github.com/micahlmartin/SettingsManager) - A utility for managing machine.config settings
 - [Orbmu2k/nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - 
 - [mgarrettm/serverless-prototype](https://github.com/mgarrettm/serverless-prototype) - This is a prototype of a serverless platform built in .NET using Microsoft Azure and Windows Containers.
 - [Sphinkie/RegFineViewer](https://github.com/Sphinkie/RegFineViewer) - RegFineViewer is an utility to visualize and navigate easily the Windows Registry
@@ -1035,7 +1041,6 @@
 - [DavisVaughan/2020-06-01_dplyr-vctrs-compat](https://github.com/DavisVaughan/2020-06-01_dplyr-vctrs-compat) - 
 - [maelle/addintest](https://github.com/maelle/addintest) - 
 - [ThinkR-open/js4shinyfieldnotes](https://github.com/ThinkR-open/js4shinyfieldnotes) - Field Notes on JavaScript for Shiny Users
-- [systats/shinyuser](https://github.com/systats/shinyuser) - User login and admin panel for shiny apps (Semantic UI)
 - [spences10/last.scottspence.com](https://github.com/spences10/last.scottspence.com) - My Letter Beautiful Mysterious Notebook.
 - [ropensci/webservices](https://github.com/ropensci/webservices) - CRAN WebTechnologies Task View
 - [ropensci/taxonomy](https://github.com/ropensci/taxonomy) - taxonomy R packages
@@ -2342,6 +2347,7 @@
 
 ## Others 
 
+- [BiltuDas1/RepackInstalledWindows](https://github.com/BiltuDas1/RepackInstalledWindows) - This Package Will Help you to Repack your Current Operating System into an install.wim file
 - [builtbybel/sharpapp](https://github.com/builtbybel/sharpapp) - 💩⭐️🚀A #app with cutting edge technology to #minimize windows-10 telemetry and #maximize privacy plus many more
 - [builtbybel/CloneApp](https://github.com/builtbybel/CloneApp) - 📦Easily Backup & Restore Windows Programs Settings
 - [MajorGeek/MajorGeeks-Windows-Tweaks](https://github.com/MajorGeek/MajorGeeks-Windows-Tweaks) - MajorGeeks Windows Tweaks contains approximately 218 registry, PowerShell, Visual Basic, and batch files to enable tweaks and hidden features in Windows 10, 8, and 7 for any skill level.
@@ -3135,6 +3141,8 @@
 
 ## PowerShell 
 
+- [potatoqualitee/kbupdate](https://github.com/potatoqualitee/kbupdate) - 🛡 KB Viewer, Saver, Installer and Uninstaller
+- [pxlrbt/move-wsl](https://github.com/pxlrbt/move-wsl) - Easily move your WSL distros VHDX file to a new location.
 - [lord-carlos/nvidia-update](https://github.com/lord-carlos/nvidia-update) - Checks for a new version of the Nvidia Driver, downloads and installs it.
 - [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) - Module template with build pipeline and examples, including DSC elements.
 - [mozilla-releng/OpenCloudConfig](https://github.com/mozilla-releng/OpenCloudConfig) - 
@@ -3432,7 +3440,7 @@
 - [lggruspe/slipbox](https://github.com/lggruspe/slipbox) - A static site generator for Zettelkasten notes
 - [djplaner/memex](https://github.com/djplaner/memex) - Nascent attempt at using Foam to curate and leverage a personal memex
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
-- [ctuning/ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize software projects as a database of reusable components and micro-services with common APIs, automation actions and extensible meta descriptions based on FAIR principles. See real-world use cases from MLPerf, General Motors, Arm, Qualcomm, the Raspberry Pi foundation and ACM:
+- [ctuning/ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize software projects as a database of reusable automation recipes and portable workflows with common APIs and extensible meta descriptions based on FAIR principles. See real-world use cases from MLPerf, Qualcomm, Arm, Raspberry Pi and ACM to enable portable MLOps and automate ML/SW/HW co-design:
 - [bhrigu123/classifier](https://github.com/bhrigu123/classifier) - Organize files in your directory instantly, by classifying them into different folders
 - [mcharleb/gittagstats](https://github.com/mcharleb/gittagstats) - 
 - [jctanner/ansible-tools](https://github.com/jctanner/ansible-tools) - 
@@ -4147,6 +4155,7 @@
 - [fdrennan/redditsuite](https://github.com/fdrennan/redditsuite) - A package to pull Reddit data and store it in PostgreSQL.
 - [ThinkR-open/fusen](https://github.com/ThinkR-open/fusen) - Inflate your package from a simple flat Rmd
 - [gadenbuie/grkstyle](https://github.com/gadenbuie/grkstyle) - A Tidy R Code Style
+- [systats/shinyuser](https://github.com/systats/shinyuser) - User login and admin panel for shiny apps (Semantic UI)
 - [yanirmor/shiny-r-console](https://github.com/yanirmor/shiny-r-console) - Small app that simulates an R console and lets you run R commands, for live debugging and transparency of the hosting environment
 - [yanirmor/shiny-user-management](https://github.com/yanirmor/shiny-user-management) - Demonstration of user management and authentication system in R Shiny
 - [dreamRs/datamods](https://github.com/dreamRs/datamods) - Shiny modules to import data into an application or addin
@@ -6750,6 +6759,7 @@
 
 ## TypeScript 
 
+- [pnp/cli-microsoft365](https://github.com/pnp/cli-microsoft365) - Manage Microsoft 365 and SharePoint Framework projects on any platform
 - [blake-mealey/vscode-generate-wt-scheme](https://github.com/blake-mealey/vscode-generate-wt-scheme) - Generate Windows Terminal color schemes from your VSCode themes
 - [nateshmbhat/windows-terminal-tweaker](https://github.com/nateshmbhat/windows-terminal-tweaker) - Tweak your windows terminal to heart's content with this app using its beautiful interface to configure everything about the terminal.
 - [akosbalasko/obsidian-autotagger-plugin](https://github.com/akosbalasko/obsidian-autotagger-plugin) - This plugin analyses the note content and offers tags based on the content
@@ -6975,7 +6985,7 @@
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [ionic-team/stencil](https://github.com/ionic-team/stencil) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and traditional web developers from a single, framework-agnostic codebase.
 - [luvsic3/issue-md-generator](https://github.com/luvsic3/issue-md-generator) - A command-line tool to generate markdown list from your github repository issue page
-- [Ikuyadeu/vscode-R](https://github.com/Ikuyadeu/vscode-R) - R Extension for Visual Studio Code (execution, snippet, R documentation, R Markdown)
+- [REditorSupport/vscode-R](https://github.com/REditorSupport/vscode-R) - R Extension for Visual Studio Code (execution, snippet, R documentation, R Markdown)
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
 - [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes) - Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization options.
