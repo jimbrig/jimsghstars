@@ -124,6 +124,7 @@
 
 ## Batchfile 
 
+- [AlexanderOnischuk/BackupRestoreREG](https://github.com/AlexanderOnischuk/BackupRestoreREG) - Backup/Restore Windows registry hives
 - [vegardit/cygwin-portable-installer](https://github.com/vegardit/cygwin-portable-installer) - Windows batch file to perform unattended installations of a portable Cygwin environment.
 - [NARCOTIC/Windows-Optimizer](https://github.com/NARCOTIC/Windows-Optimizer) - Windows-Optimizer is a batch program. This program is Optimizing and Defragmenting All Connected Storage Drives & Fixing File System Errors.
 - [ManuelGil/Uninstall-Office-2016](https://github.com/ManuelGil/Uninstall-Office-2016) - This script allows you to uninstall or automatically delete Office 2016, 365 or earlier using the Microsoft Windows command line.
@@ -254,6 +255,14 @@
 
 ## C# # 
 
+- [asdfjkl/yahb](https://github.com/asdfjkl/yahb) - Deduplicating File-Copy/Backup Tool (Commandline)
+- [UweKeim/SimpleBackup](https://github.com/UweKeim/SimpleBackup) - Windows Explorer Context Menu extension to backup and restore folders to temporary storage
+- [Deadpikle/EasyBackup](https://github.com/Deadpikle/EasyBackup) - A simple, no-frills file copy/backup program for Windows built in C# WPF
+- [jessehouwing/WindowsFileHistoryCleaner](https://github.com/jessehouwing/WindowsFileHistoryCleaner) - Simple command line executable to turn a File History share back into a snapshot of files
+- [Disassembler0/RoboBackup](https://github.com/Disassembler0/RoboBackup) - Windows service for orchestrating file backups via robocopy utility.
+- [colinkiama/UWP-Package-Installer](https://github.com/colinkiama/UWP-Package-Installer) - An UWP installer for appx/appxbundle packages
+- [telerik/UI-For-UWP](https://github.com/telerik/UI-For-UWP) - This repo contains the source code for Telerik UI for Universal Windows Platform (UWP), which includes 20+ UI controls for developers building UWP applications.
+- [MahApps/MahApps.Metro.IconPacks](https://github.com/MahApps/MahApps.Metro.IconPacks) - Awesome icon packs for WPF and UWP in one library
 - [micahlmartin/SettingsManager](https://github.com/micahlmartin/SettingsManager) - A utility for managing machine.config settings
 - [Orbmu2k/nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - 
 - [mgarrettm/serverless-prototype](https://github.com/mgarrettm/serverless-prototype) - This is a prototype of a serverless platform built in .NET using Microsoft Azure and Windows Containers.
@@ -752,6 +761,7 @@
 
 ## Go 
 
+- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [GoogleCloudPlatform/docker-credential-gcr](https://github.com/GoogleCloudPlatform/docker-credential-gcr) - A Docker credential helper for GCR users
 - [Azure/azure-container-networking](https://github.com/Azure/azure-container-networking) - Azure Container Networking Solutions for Linux and Windows Containers
 - [Backblaze/terraform-provider-b2](https://github.com/Backblaze/terraform-provider-b2) - Terraform Provider for Backblaze B2 Cloud Storage
@@ -2347,6 +2357,8 @@
 
 ## Others 
 
+- [cmpute/awesome-uwp-apps](https://github.com/cmpute/awesome-uwp-apps) - A list about open-sourced repositories of Win 10 (UWP) Applications in Github | In store or off store
+- [futurice/windows-app-development-best-practices](https://github.com/futurice/windows-app-development-best-practices) - A collection of best practices for Windows App and C# developers
 - [BiltuDas1/RepackInstalledWindows](https://github.com/BiltuDas1/RepackInstalledWindows) - This Package Will Help you to Repack your Current Operating System into an install.wim file
 - [builtbybel/sharpapp](https://github.com/builtbybel/sharpapp) - 💩⭐️🚀A #app with cutting edge technology to #minimize windows-10 telemetry and #maximize privacy plus many more
 - [builtbybel/CloneApp](https://github.com/builtbybel/CloneApp) - 📦Easily Backup & Restore Windows Programs Settings
@@ -3141,6 +3153,11 @@
 
 ## PowerShell 
 
+- [PowerShell/PowerShellGallery](https://github.com/PowerShell/PowerShellGallery) - 
+- [KNOXDEV/scoop-backup](https://github.com/KNOXDEV/scoop-backup) - mirror of https://git.irs.sh/KNOXDEV/scoop-backup
+- [mchubby/FileHistory-Start-FHBackup](https://github.com/mchubby/FileHistory-Start-FHBackup) - A PowerShell cmdlet to manually start a File History backup.
+- [perplexityjeff/Backup-VirtualBox-PowerShell](https://github.com/perplexityjeff/Backup-VirtualBox-PowerShell) - A simple PowerShell script that allows you to backup VirtualBox machines
+- [aaronparker/evergreen](https://github.com/aaronparker/evergreen) - Create evergreen Windows image build scripts with the latest version numbers and download links for applications
 - [potatoqualitee/kbupdate](https://github.com/potatoqualitee/kbupdate) - 🛡 KB Viewer, Saver, Installer and Uninstaller
 - [pxlrbt/move-wsl](https://github.com/pxlrbt/move-wsl) - Easily move your WSL distros VHDX file to a new location.
 - [lord-carlos/nvidia-update](https://github.com/lord-carlos/nvidia-update) - Checks for a new version of the Nvidia Driver, downloads and installs it.
@@ -3317,6 +3334,7 @@
 
 ## Python 
 
+- [polar147/RCloneBackup](https://github.com/polar147/RCloneBackup) - A Reverse Incremental Backup Script for RClone with support for Windows/Linux/Mac with Volume Shadow Copy (VSS) and email report.
 - [Kaggle/kaggle-api](https://github.com/Kaggle/kaggle-api) - Official Kaggle API
 - [Cobertos/dotfiles](https://github.com/Cobertos/dotfiles) - My configs for everything and a script to bootstrap it all on a new install.
 - [Azure/batch-shipyard](https://github.com/Azure/batch-shipyard) - Simplify HPC and Batch workloads on Azure
@@ -3440,7 +3458,7 @@
 - [lggruspe/slipbox](https://github.com/lggruspe/slipbox) - A static site generator for Zettelkasten notes
 - [djplaner/memex](https://github.com/djplaner/memex) - Nascent attempt at using Foam to curate and leverage a personal memex
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
-- [ctuning/ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize software projects as a database of reusable automation recipes and portable workflows with common APIs and extensible meta descriptions based on FAIR principles. See real-world use cases from MLPerf, Qualcomm, Arm, Raspberry Pi and ACM to enable portable MLOps and automate ML/SW/HW co-design:
+- [ctuning/ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize software projects as a database of reusable components, automation recipes and portable workflows with common APIs and extensible meta descriptions based on FAIR principles. See real-world use cases from our partners to enable portable MLOps and automate ML/SW/HW co-design:
 - [bhrigu123/classifier](https://github.com/bhrigu123/classifier) - Organize files in your directory instantly, by classifying them into different folders
 - [mcharleb/gittagstats](https://github.com/mcharleb/gittagstats) - 
 - [jctanner/ansible-tools](https://github.com/jctanner/ansible-tools) - 
@@ -6280,6 +6298,8 @@
 
 ## Rust 
 
+- [rami3l/pacaptr](https://github.com/rami3l/pacaptr) - Pacman-like syntax wrapper for many package managers.
+- [sourcefrog/conserve](https://github.com/sourcefrog/conserve) - [beta] robust portable backup tool in Rust
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [chrisdickinson/tide-http-auth](https://github.com/chrisdickinson/tide-http-auth) - HTTP auth for tide! Pretty Basic, if you'll Bearer with me
 - [trashhalo/obsidian-extract-url](https://github.com/trashhalo/obsidian-extract-url) - Plugin to extract markdown out of urls
@@ -6388,6 +6408,8 @@
 
 ## Shell 
 
+- [selfire1/goodsidian](https://github.com/selfire1/goodsidian) - A Goodreads to Obsidian script
+- [vladgh/backup](https://github.com/vladgh/backup) - Vlad's Backup
 - [ivamluz/cloud-build-cloud-functions-pipeline](https://github.com/ivamluz/cloud-build-cloud-functions-pipeline) - A sample project showing how to automate the deployment of Cloud Functions with Cloud Build on Google Cloud Platform.
 - [ishchow/dotfiles](https://github.com/ishchow/dotfiles) - Personal dotfiles and stuff
 - [rpeloff/WSL-dotfiles](https://github.com/rpeloff/WSL-dotfiles) - My dotfiles and other things for WSL 1.0 on a Windows machine.
