@@ -6413,7 +6413,7 @@
 - [ivamluz/cloud-build-cloud-functions-pipeline](https://github.com/ivamluz/cloud-build-cloud-functions-pipeline) - A sample project showing how to automate the deployment of Cloud Functions with Cloud Build on Google Cloud Platform.
 - [ishchow/dotfiles](https://github.com/ishchow/dotfiles) - Personal dotfiles and stuff
 - [rpeloff/WSL-dotfiles](https://github.com/rpeloff/WSL-dotfiles) - My dotfiles and other things for WSL 1.0 on a Windows machine.
-- [gbgabiola/dotfiles](https://github.com/gbgabiola/dotfiles) - @genesisgabiola does dotfiles
+- [gbgabiola/dotfiles](https://github.com/gbgabiola/dotfiles) - @gbgabiola does dotfiles
 - [samuelramox/wsl-setup](https://github.com/samuelramox/wsl-setup) - WSL Ubuntu Dotfiles
 - [BenEmdon/dotfiles](https://github.com/BenEmdon/dotfiles) - dotfiles for my codespaces
 - [GoogleCloudPlatform/gke-monitoring-tutorial](https://github.com/GoogleCloudPlatform/gke-monitoring-tutorial) - This project walks you through setting up monitoring and visualizing metrics from a Kubernetes Engine cluster. The logs from the Kubernetes Engine cluster will be leveraged to walk through the monitoring capabilities of Stackdriver.
