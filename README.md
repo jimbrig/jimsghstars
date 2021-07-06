@@ -1094,7 +1094,7 @@
 - [dnnsmnstrr/zettelkasten](https://github.com/dnnsmnstrr/zettelkasten) - 
 - [Thought-Tank/thought-tank](https://github.com/Thought-Tank/thought-tank) - Your second brain belongs to you.
 - [SinglePageBookProject/Single-Page-Book](https://github.com/SinglePageBookProject/Single-Page-Book) - Pragmatical way to create cheat-sheets, bookmarks, full-books in a single page. (Zettlekasten the web!)
-- [SinglePageBookProject/IT_notes](https://github.com/SinglePageBookProject/IT_notes) - A new way to document for the 21st century
+- [SinglePageBookProject/IT_notes](https://github.com/SinglePageBookProject/IT_notes) - A new way to document for the 21st century on top of the Single Page Book Project
 - [canro91/canro91.github.io](https://github.com/canro91/canro91.github.io) - My personal site
 - [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
 - [holtzy/R-Markdown-Parallax](https://github.com/holtzy/R-Markdown-Parallax) - How to use parallax on your R Markdown output
@@ -1267,6 +1267,7 @@
 - [hrbrmstr/ssdeepr](https://github.com/hrbrmstr/ssdeepr) - Context Triggered Piecewise Hash Computation Using 'ssdeep' for R
 - [jangorecki/r-talks](https://github.com/jangorecki/r-talks) - R talks, auto-mirror from GitLab
 - [UVa-R-Users-Group/website](https://github.com/UVa-R-Users-Group/website) - 
+- [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [thebioengineer/colortable](https://github.com/thebioengineer/colortable) - Add coloring and styling to data.frame and tibble records!
 - [rstudio/pro_admin_training_assets](https://github.com/rstudio/pro_admin_training_assets) - Public assets for the RStudio Professional Admin Training
 - [reconhub/guides](https://github.com/reconhub/guides) - Recon's guidelines for writing statistical analyses reports
@@ -1788,7 +1789,7 @@
 - [mozilla/nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 - [rstudio/reactlog](https://github.com/rstudio/reactlog) - Shiny Reactivity Visualizer
 - [chrisfitkin/gatsby-query-string-demo](https://github.com/chrisfitkin/gatsby-query-string-demo) - Demonstrates dynamic content based on query string values in Gatsby
-- [loouislow81/loouislow81.github.io](https://github.com/loouislow81/loouislow81.github.io) - My personal and portfolio website built with Krugurt.js (Krugurt.js + Yogurt.css)
+- [lewislow81/lewislow81.github.io](https://github.com/lewislow81/lewislow81.github.io) - My personal and portfolio website built with Krugurt.js (Krugurt.js + Yogurt.css)
 - [sinedied/publish-devto](https://github.com/sinedied/publish-devto) - :postbox: GitHub Action to publish markdown files on dev.to platform, with assets hosted on GitHub.
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - 🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.
 - [ottomatica/docable-notebooks](https://github.com/ottomatica/docable-notebooks) - :ledger: Next-Generation Interactive Notebooks
@@ -2191,6 +2192,7 @@
 - [htmlwidgets/sparkline](https://github.com/htmlwidgets/sparkline) - jQuery Sparkline HTML Widget for R
 - [hrbrmstr/vegalite](https://github.com/hrbrmstr/vegalite) - R ggplot2 "bindings" for Vega-Lite
 - [timelyportfolio/sunburstR](https://github.com/timelyportfolio/sunburstR) - R htmlwidget for interactive sunburst plots
+- [JohnCoene/tippy](https://github.com/JohnCoene/tippy) - 💬 Tippy.js for R htmlwidget
 - [thomasp85/shinyFiles](https://github.com/thomasp85/shinyFiles) - A shiny extension for server side file access
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [nefe/You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
@@ -6095,7 +6097,6 @@
 - [trestletech/shinyAce](https://github.com/trestletech/shinyAce) - Integrating the Ace editor with Shiny.
 - [sbihorel/rclipboard](https://github.com/sbihorel/rclipboard) - clipboard.js for R/Shiny Applications
 - [cwthom/shinyhelper](https://github.com/cwthom/shinyhelper) - Add markdown help files to 'shiny' apps
-- [JohnCoene/tippy](https://github.com/JohnCoene/tippy) - 💬 Tippy.js for R htmlwidget
 - [carlganz/rintrojs](https://github.com/carlganz/rintrojs) - Wrapper for the Intro.js library
 - [JohnCoene/echarts4r](https://github.com/JohnCoene/echarts4r) - 🐳 ECharts 5 for R
 - [emitanaka/shinycustomloader](https://github.com/emitanaka/shinycustomloader) - Add a custom loader for R shiny
@@ -6374,7 +6375,6 @@
 - [f-prime/Blunt](https://github.com/f-prime/Blunt) - A CSS framework that helps with layouts and leaves your styling alone.
 - [gadenbuie/rsthemes](https://github.com/gadenbuie/rsthemes) - 🔮 Full RStudio IDE and Syntax Themes
 - [saeedalipoor/icono](https://github.com/saeedalipoor/icono) - One tag One icon, no font or svg, Pure CSS
-- [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [RinteRface/argonR](https://github.com/RinteRface/argonR) - R interface to argon HTML design
 - [rstudio/bslib](https://github.com/rstudio/bslib) - Tools for theming shiny and rmarkdown from R via Bootstrap (3 or 4) Sass.
 - [hafen/htmlwidgetsgallery](https://github.com/hafen/htmlwidgetsgallery) - 
