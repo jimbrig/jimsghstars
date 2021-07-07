@@ -255,6 +255,7 @@
 
 ## C# # 
 
+- [chocolatey/ChocolateyGUI](https://github.com/chocolatey/ChocolateyGUI) - A delicious GUI for Chocolatey
 - [asdfjkl/yahb](https://github.com/asdfjkl/yahb) - Deduplicating File-Copy/Backup Tool (Commandline)
 - [UweKeim/SimpleBackup](https://github.com/UweKeim/SimpleBackup) - Windows Explorer Context Menu extension to backup and restore folders to temporary storage
 - [Deadpikle/EasyBackup](https://github.com/Deadpikle/EasyBackup) - A simple, no-frills file copy/backup program for Windows built in C# WPF
@@ -351,7 +352,7 @@
 - [JasonStein/Notepads](https://github.com/JasonStein/Notepads) - A modern, lightweight text editor with a minimalist design.
 - [dotnet/docfx](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects
 - [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
-- [microsoft/PSDocs](https://github.com/microsoft/PSDocs) - Generate markdown from PowerShell.
+- [microsoft/PSDocs](https://github.com/microsoft/PSDocs) - Generate documentation from Infrastructure as Code (IaC).
 - [mazmazz/jumplist-extender](https://github.com/mazmazz/jumplist-extender) - A custom Jump List creator for any program on Windows.
 - [GitTools/GitVersion](https://github.com/GitTools/GitVersion) - From git log to SemVer in no time
 - [microsoft/perfview](https://github.com/microsoft/perfview) - PerfView is a CPU and memory performance-analysis tool
@@ -509,6 +510,8 @@
 
 ## CSS 
 
+- [Psionica/dual-obsidian-client](https://github.com/Psionica/dual-obsidian-client) - A skilled virtual assistant for Obsidian.
+- [inbo/INBOmd](https://github.com/inbo/INBOmd) - An R package with a collection of RMarkdown styles and templates. Elaborate examples are available at https://github.com/inbo/inbomd_examples
 - [FinancialMarkets/5MinuteFinance](https://github.com/FinancialMarkets/5MinuteFinance) - Interactive Presentations for Financial Education using R/Shiny.  See full list of presentations (with links) below.
 - [ramnathv/rChartsCalendar](https://github.com/ramnathv/rChartsCalendar) - rCharts binding for CalMap
 - [tomzorz/obsidian-toolkit](https://github.com/tomzorz/obsidian-toolkit) - Plugins, templates, css snippets and more for obsidian.md
@@ -686,6 +689,7 @@
 
 ## Dockerfile 
 
+- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) - :octocat: GitHub Action for Chocolatey, the package manager for Windows
 - [nuest/rocker-win](https://github.com/nuest/rocker-win) - Proof-of-concept for R in Windows containers
 - [littlemanco/docker--git-crypt](https://github.com/littlemanco/docker--git-crypt) - 
 - [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
@@ -761,6 +765,7 @@
 
 ## Go 
 
+- [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [GoogleCloudPlatform/docker-credential-gcr](https://github.com/GoogleCloudPlatform/docker-credential-gcr) - A Docker credential helper for GCR users
 - [Azure/azure-container-networking](https://github.com/Azure/azure-container-networking) - Azure Container Networking Solutions for Linux and Windows Containers
@@ -1437,6 +1442,8 @@
 
 ## JavaScript 
 
+- [m-dwyer/obsidian-vault-template](https://github.com/m-dwyer/obsidian-vault-template) - 
+- [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) - online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. like gitbook.
 - [ricardolsmendes/gcp-cloudfunction-git-event](https://github.com/ricardolsmendes/gcp-cloudfunction-git-event) - Google Cloud Function to be triggered on Git repository events
 - [pizycki/NugetServerContainer](https://github.com/pizycki/NugetServerContainer) - Nuget Server in Windows Container
 - [PacktPublishing/Hands-On-Kubernetes-on-Windows](https://github.com/PacktPublishing/Hands-On-Kubernetes-on-Windows) - Hands-On Kubernetes on Windows, published by Packt
@@ -1789,7 +1796,7 @@
 - [mozilla/nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 - [rstudio/reactlog](https://github.com/rstudio/reactlog) - Shiny Reactivity Visualizer
 - [chrisfitkin/gatsby-query-string-demo](https://github.com/chrisfitkin/gatsby-query-string-demo) - Demonstrates dynamic content based on query string values in Gatsby
-- [lewislow81/lewislow81.github.io](https://github.com/lewislow81/lewislow81.github.io) - My personal and portfolio website built with Krugurt.js (Krugurt.js + Yogurt.css)
+- [louislow81/louislow81.github.io](https://github.com/louislow81/louislow81.github.io) - My personal and portfolio website built with Krugurt.js (Krugurt.js + Yogurt.css)
 - [sinedied/publish-devto](https://github.com/sinedied/publish-devto) - :postbox: GitHub Action to publish markdown files on dev.to platform, with assets hosted on GitHub.
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - 🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.
 - [ottomatica/docable-notebooks](https://github.com/ottomatica/docable-notebooks) - :ledger: Next-Generation Interactive Notebooks
@@ -2192,7 +2199,6 @@
 - [htmlwidgets/sparkline](https://github.com/htmlwidgets/sparkline) - jQuery Sparkline HTML Widget for R
 - [hrbrmstr/vegalite](https://github.com/hrbrmstr/vegalite) - R ggplot2 "bindings" for Vega-Lite
 - [timelyportfolio/sunburstR](https://github.com/timelyportfolio/sunburstR) - R htmlwidget for interactive sunburst plots
-- [JohnCoene/tippy](https://github.com/JohnCoene/tippy) - 💬 Tippy.js for R htmlwidget
 - [thomasp85/shinyFiles](https://github.com/thomasp85/shinyFiles) - A shiny extension for server side file access
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [nefe/You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
@@ -3155,6 +3161,15 @@
 
 ## PowerShell 
 
+- [jhochwald/PowerShell-collection](https://github.com/jhochwald/PowerShell-collection) - PowerShell Scripts, Tools, and Modules
+- [cyberark/epv-api-scripts](https://github.com/cyberark/epv-api-scripts) - These API scripts enable CyberArk users to automate privileged account management task like account creation, user management, and more.
+- [scriptrunner/ActionPacks](https://github.com/scriptrunner/ActionPacks) - Public PowerShell script gallery for ScriptRunner.
+- [directorcia/Office365](https://github.com/directorcia/Office365) - Office 365 scripts and information
+- [chocolatey/cChoco](https://github.com/chocolatey/cChoco) - Community resource to manage Chocolatey
+- [majkinetor/au](https://github.com/majkinetor/au) - Chocolatey Automatic Package Updater Module
+- [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
+- [jdhitsolutions/PSScriptTools](https://github.com/jdhitsolutions/PSScriptTools) - :wrench: :hammer: A set of PowerShell functions you might use to enhance your own functions and scripts or to facilitate working in the console. Most should work in both Windows PowerShell and PowerShell 7, even cross-platform. Any operating system limitations should be handled on a per command basis. The Samples folder contains demonstration script files
+- [beatcracker/toptout](https://github.com/beatcracker/toptout) - 📡 Easily opt-out from telemetry collection
 - [PowerShell/PowerShellGallery](https://github.com/PowerShell/PowerShellGallery) - 
 - [KNOXDEV/scoop-backup](https://github.com/KNOXDEV/scoop-backup) - mirror of https://git.irs.sh/KNOXDEV/scoop-backup
 - [mchubby/FileHistory-Start-FHBackup](https://github.com/mchubby/FileHistory-Start-FHBackup) - A PowerShell cmdlet to manually start a File History backup.
@@ -3689,6 +3704,7 @@
 
 ## R 
 
+- [inbo/checklist](https://github.com/inbo/checklist) - An R package for checking R packages and R code
 - [fangzhou-xie/Randomuseragent](https://github.com/fangzhou-xie/Randomuseragent) - Randomly Shuffle User-Agent Strings
 - [Azure/AzureAuth](https://github.com/Azure/AzureAuth) - R package for OAuth 2.0 authentication with Azure Active Directory
 - [sr320/cockle-reproduction](https://github.com/sr320/cockle-reproduction) - 
@@ -6097,6 +6113,7 @@
 - [trestletech/shinyAce](https://github.com/trestletech/shinyAce) - Integrating the Ace editor with Shiny.
 - [sbihorel/rclipboard](https://github.com/sbihorel/rclipboard) - clipboard.js for R/Shiny Applications
 - [cwthom/shinyhelper](https://github.com/cwthom/shinyhelper) - Add markdown help files to 'shiny' apps
+- [JohnCoene/tippy](https://github.com/JohnCoene/tippy) - 💬 Tippy.js for Shiny
 - [carlganz/rintrojs](https://github.com/carlganz/rintrojs) - Wrapper for the Intro.js library
 - [JohnCoene/echarts4r](https://github.com/JohnCoene/echarts4r) - 🐳 ECharts 5 for R
 - [emitanaka/shinycustomloader](https://github.com/emitanaka/shinycustomloader) - Add a custom loader for R shiny
@@ -6244,6 +6261,7 @@
 
 ## Ruby 
 
+- [jonashackt/ansible-windows-docker-springboot](https://github.com/jonashackt/ansible-windows-docker-springboot) - Example project showing how to provision, deploy, run & orchestrate Spring Boot apps with Docker Windows Containers on Docker Windows native using Packer, Powershell, Vagrant & Ansible
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [rgl/vagrant-windows-sysprep](https://github.com/rgl/vagrant-windows-sysprep) - Vagrant plugin to run Windows sysprep as a provisioning step
 - [ankane/pgsync](https://github.com/ankane/pgsync) - Sync data from one Postgres database to another
