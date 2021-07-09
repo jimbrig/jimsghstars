@@ -579,7 +579,6 @@
 - [kognise/obsidian-atom](https://github.com/kognise/obsidian-atom) - A theme for Obsidian based on Atom's One family
 - [kognise/obsidian-aviation](https://github.com/kognise/obsidian-aviation) - Clean Markdown files for FAR/AIM and more
 - [whyt-byte/Blue-Topaz-with-Andy-mode_Obsidian_css](https://github.com/whyt-byte/Blue-Topaz-with-Andy-mode_Obsidian_css) - An Andy Matuschak-mode blue theme for Obsidian.
-- [rcvd/obsidian_ia](https://github.com/rcvd/obsidian_ia) - A clean and minimal theme for obsidian, heavily inspired by iA Writer.
 - [toridoriv/pensieve](https://github.com/toridoriv/pensieve) - My notes using loosely the Zettelkasten method and the app Obsidian
 - [lucasrla/obsidian-css-tweaks](https://github.com/lucasrla/obsidian-css-tweaks) - CSS snippet for Obsidian – just a few (minimal) tweaks and fixes
 - [joshwingreene/Obsidian-JG-Method](https://github.com/joshwingreene/Obsidian-JG-Method) - A starter kit that follows how I use Obsidian to manage my goals, tasks, notes, and software development knowledge base.
@@ -1442,6 +1441,8 @@
 
 ## JavaScript 
 
+- [yangshun/delete-github-forks](https://github.com/yangshun/delete-github-forks) - 🍴 Bulk delete your GitHub forks in two simple steps!
+- [maxime1992/git-commit-summary](https://github.com/maxime1992/git-commit-summary) - Generate a commit summary of your project, following Angular conventions.
 - [m-dwyer/obsidian-vault-template](https://github.com/m-dwyer/obsidian-vault-template) - 
 - [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) - online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. like gitbook.
 - [ricardolsmendes/gcp-cloudfunction-git-event](https://github.com/ricardolsmendes/gcp-cloudfunction-git-event) - Google Cloud Function to be triggered on Git repository events
@@ -2497,7 +2498,6 @@
 - [daroczig/CEU-R-prod](https://github.com/daroczig/CEU-R-prod) - R materials for the "Data Infrastructure in Production" class at CEU
 - [ministryofjustice/analytics-platform](https://github.com/ministryofjustice/analytics-platform) - Parent repository for the MOJ Analytics Platform
 - [GoogleCloudPlatform/edu-resources](https://github.com/GoogleCloudPlatform/edu-resources) - Curated List of GCP educational resources http://goo.gle/google-cloud-edu
-- [jimbrig/gitflow](https://github.com/jimbrig/gitflow) - Best practices for using gitflow
 - [leeper/data-versioning](https://github.com/leeper/data-versioning) - Collecting thoughts about data versioning
 - [SaadAAkash/awesome-agile-essentials](https://github.com/SaadAAkash/awesome-agile-essentials) - An awesome list of concepts & resources of Agile Software Development, curated from handpicked project management contents, courses & more!
 - [e-tutorials/eleventy-base-blog](https://github.com/e-tutorials/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator.
@@ -2905,6 +2905,7 @@
 - [objcio/articles](https://github.com/objcio/articles) - All current objc.io articles
 - [andymatuschak/reMarkable-typescript](https://github.com/andymatuschak/reMarkable-typescript) - A typescript reMarkable Cloud API
 - [julian-englert/Andy-Grove---High-Output-Management](https://github.com/julian-englert/Andy-Grove---High-Output-Management) - Summary of the book High Output Management by Andy Grove
+- [rcvd/obsidian_ia](https://github.com/rcvd/obsidian_ia) - A clean and minimal theme for obsidian, heavily inspired by iA Writer.
 - [binyamin/obsidian-plugins](https://github.com/binyamin/obsidian-plugins) - Obsidian Plugin Ideas
 - [ShannaSeigel/slipbox](https://github.com/ShannaSeigel/slipbox) - knowledgebase sharing experiment
 - [tekacs/editorial-obsidian](https://github.com/tekacs/editorial-obsidian) - Editorial scripts for Obsidian (unofficial)
@@ -2939,7 +2940,6 @@
 - [travis-ci/travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 - [IQAndreas/markdown-licenses](https://github.com/IQAndreas/markdown-licenses) - A collection of open source licenses in Markdown format. Contributions are always welcome!
-- [jimbrig/tmetricr](https://github.com/jimbrig/tmetricr) - TMetric API in R
 - [harbur/kubernetic](https://github.com/harbur/kubernetic) - Kubernetic - Supercharge your Kubernetes clusters
 - [pinceladasdaweb/Static-Site-Generators](https://github.com/pinceladasdaweb/Static-Site-Generators) - A definitive list of tools for generating static websites.
 - [prayash/awesome-gatsby](https://github.com/prayash/awesome-gatsby) - ⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.
@@ -3418,7 +3418,7 @@
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [lynnlangit/gcp-essentials](https://github.com/lynnlangit/gcp-essentials) - Example gcloud statements for GCP services
-- [oilshell/oil](https://github.com/oilshell/oil) - A new Unix shell.  Our upgrade path from bash to a better language and runtime.
+- [oilshell/oil](https://github.com/oilshell/oil) - Oil is a new Unix shell.  It's our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [jescresswell/route-optimization](https://github.com/jescresswell/route-optimization) - Produces optimal routing for freight deliveries, accounting for multiple trucks working in tandem, and multiple dispatch depots.
 - [zalando/patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [jefftriplett/pinboard-bookmarks-updater](https://github.com/jefftriplett/pinboard-bookmarks-updater) - 🤖 Opinionated Pinboard.in Bookmarks Updater
@@ -3924,7 +3924,6 @@
 - [moodymudskipper/boomer](https://github.com/moodymudskipper/boomer) - Debugging Tools to Inspect the Intermediate Steps of a Call
 - [jimbrig/shiny_react_fluent_app](https://github.com/jimbrig/shiny_react_fluent_app) - An experimental shiny application using the shiny.react and shiny.fluent R packages provided by Appsilon.
 - [jonthegeek/stylex](https://github.com/jonthegeek/stylex) - Neural Style Transfer Assistant
-- [jimbrig/shiny.fluent](https://github.com/jimbrig/shiny.fluent) - Microsoft's Fluent UI for Shiny apps.
 - [Appsilon/shiny.fluent](https://github.com/Appsilon/shiny.fluent) - Microsoft's Fluent UI for Shiny apps
 - [djnavarro/bs4cards](https://github.com/djnavarro/bs4cards) - Generate Bootstrap 4 Cards
 - [benubah/controldev](https://github.com/benubah/controldev) - A development repository for the control package in R for files in work
@@ -4998,7 +4997,7 @@
 - [datawookie/feedeR](https://github.com/datawookie/feedeR) - Handle RSS and Atom feeds from R
 - [pbiecek/ddst](https://github.com/pbiecek/ddst) - R package for Data driven smooth tests
 - [traitecoevo/dockertest](https://github.com/traitecoevo/dockertest) - Run tests in docker containers
-- [sckott/analogsea](https://github.com/sckott/analogsea) - Digital Ocean R client
+- [pachadotdev/analogsea](https://github.com/pachadotdev/analogsea) - Digital Ocean R client
 - [andrie/miniCRAN](https://github.com/andrie/miniCRAN) - R package to create internally consistent, mini version of CRAN
 - [franapoli/repo](https://github.com/franapoli/repo) - The Data-Centered Data Flow manager for R
 - [Rapporter/rapport](https://github.com/Rapporter/rapport) - rapport is an R package that facilitates the creation of reproducible statistical report templates
@@ -5219,7 +5218,6 @@
 - [bradlindblad/deerLottery](https://github.com/bradlindblad/deerLottery) - Shiny app with {golem}. Analyze North Dakota deer gun lottery results
 - [easystats/effectsize](https://github.com/easystats/effectsize) - :dragon: Compute and work with indices of effect size and standardized parameters
 - [easystats/see](https://github.com/easystats/see) - :art: Visualisation toolbox for beautiful and publication-ready figures
-- [jimbrig/shinydashboardPlus](https://github.com/jimbrig/shinydashboardPlus) - extensions for shinydashboard
 - [DeclareDesign/estimatr](https://github.com/DeclareDesign/estimatr) - estimatr: Fast Estimators for Design-Based Inference
 - [jhrcook/mustashe](https://github.com/jhrcook/mustashe) - A system for stashing and loading the results of long running computations.
 - [hope-data-science/tidyfst](https://github.com/hope-data-science/tidyfst) - Tidy Verbs for Fast Data Manipulation
