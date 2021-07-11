@@ -3259,7 +3259,7 @@
 - [vors/ZLocation](https://github.com/vors/ZLocation) - ZLocation is the new Jump-Location
 - [jimbrig/winsetup](https://github.com/jimbrig/winsetup) - Windows 10 Setup
 - [asears/WindowsSetup](https://github.com/asears/WindowsSetup) - Apps for Windows
-- [pratyakshm/CleanWin](https://github.com/pratyakshm/CleanWin) - Windows but cooler.
+- [pratyakshm/CleanWin](https://github.com/pratyakshm/CleanWin) - Cool underrated code that sets up Windows.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [Daksh777/windows10-debloat](https://github.com/Daksh777/windows10-debloat) - Collection of various scripts and apps to debloat Windows 10 for better privacy, performance and optimization.
 - [gordonbay/Windows-On-Reins](https://github.com/gordonbay/Windows-On-Reins) - Windows 10 Ameliorated, Debloat, Optimize, Privacy fix
