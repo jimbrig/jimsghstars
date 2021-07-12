@@ -185,7 +185,6 @@
 - [ReneNyffenegger/Windows-development](https://github.com/ReneNyffenegger/Windows-development) - Playground to experiment with developping applications for Windows.
 - [ReneNyffenegger/temp-VBA](https://github.com/ReneNyffenegger/temp-VBA) - temporary VBA snippets
 - [yuk7/wsl2exe](https://github.com/yuk7/wsl2exe) - [TESTING]Use command in WSL from exe executable
-- [yuk7/wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
 - [haileysome/doslinux](https://github.com/haileysome/doslinux) - Run Linux programs on DOS
 - [adamyg/mcwin32](https://github.com/adamyg/mcwin32) - Midnight Commander for Windows
 - [Sage-Bionetworks/Rsftp](https://github.com/Sage-Bionetworks/Rsftp) - R package for sftp and other ssh-related functionality
@@ -835,6 +834,7 @@
 - [NZSmartie/wsl-ssh-pageant](https://github.com/NZSmartie/wsl-ssh-pageant) - A Pageant bridge for WSL, enabling ssh-ageants to talk to to PuTTY Pagent or GnuPG for Windows
 - [rupor-github/wsl-ssh-agent](https://github.com/rupor-github/wsl-ssh-agent) - Helper to interface with Windows ssh-agent.exe service from Windows Subsystem for Linux (WSL)
 - [benpye/wsl-ssh-pageant](https://github.com/benpye/wsl-ssh-pageant) - A Pageant -&gt; TCP bridge for use with WSL, allowing for Pageant to be used as an ssh-ageant within the WSL environment.
+- [yuk7/wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
 - [orisano/dignore](https://github.com/orisano/dignore) - dockerignore generator for monorepo
 - [bergkvist/includeimage](https://github.com/bergkvist/includeimage) - Dockerfile syntax extension for combining multiple Docker images into one. (INCLUDE &lt;image&gt;)
 - [orisano/castage](https://github.com/orisano/castage) - castage is multi-stage builds helper for caching
@@ -1844,7 +1844,6 @@
 - [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [DE-RSE/de-rse.github.io](https://github.com/DE-RSE/de-rse.github.io) - Web repository
 - [domitriusclark/mdnext](https://github.com/domitriusclark/mdnext) - The opinionated ecosystem for MDX powered NextJS apps for blogs, documentation, and more.
-- [WojciechMatuszewski/programming-notes](https://github.com/WojciechMatuszewski/programming-notes) - Programming notes. About anything really.
 - [mgsloan/todoist-shortcuts](https://github.com/mgsloan/todoist-shortcuts) - Comprehensive keyboard shortcuts for Todoist, via browser extension
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [westurner/tools](https://github.com/westurner/tools) - https://westurner.org/tools
@@ -2689,6 +2688,7 @@
 - [courtiol/Rguides](https://github.com/courtiol/Rguides) - Alternative cheat sheets for R
 - [datasnakes/awesome-reproducible-R](https://github.com/datasnakes/awesome-reproducible-R) - An awesome list of resources for reproducible research in R.  Includes a table of comparison for different tools.
 - [maxx1128/Webdev-Study-Notes](https://github.com/maxx1128/Webdev-Study-Notes) - Notebook on programming, web development, nonfiction, and some fiction (ARCHIVED)
+- [WojciechMatuszewski/programming-notes](https://github.com/WojciechMatuszewski/programming-notes) - Programming notes. About anything really.
 - [Aniruddha-Tapas/Operating-Systems-Notes](https://github.com/Aniruddha-Tapas/Operating-Systems-Notes) - :books: Compendium of all the important OS concepts and key points. https://applied-programming.github.io/Operating-Systems-Notes/
 - [yang/notes](https://github.com/yang/notes) - Gitit wiki notes on computer science and programming
 - [randyviandaputra/programming-notes](https://github.com/randyviandaputra/programming-notes) - Semua catatan tentang teknologi dan development 😎
@@ -6521,7 +6521,7 @@
 - [cpdt/slinky](https://github.com/cpdt/slinky) - Run Bash commands from Windows Command Prompt, natively!
 - [jmaxwilson/wsl-docker-git-setup](https://github.com/jmaxwilson/wsl-docker-git-setup) - Shell script to configure Windows Subsystem for Linux (WSL) & Ubuntu on Windows to use docker and docker-compose as well as a git-enabled prompt
 - [ErickRock/oh-my-zsh-on-windows-terminal](https://github.com/ErickRock/oh-my-zsh-on-windows-terminal) - Utilizando terminal Linux de forma nativa no Windows 10 - WSL 2
-- [seapagan/ubuntu-win-bootstrap](https://github.com/seapagan/ubuntu-win-bootstrap) - A very simple bootstrap script to install some development tools to the Windows 10 Ubuntu Bash system - Ruby, Perl, Python, Node, Sublime Text and more!
+- [seapagan/ubuntu-win-bootstrap](https://github.com/seapagan/ubuntu-win-bootstrap) - DEPRECIATED! A very simple bootstrap script to install some development tools to the Windows 10 Ubuntu Bash system - Ruby, Perl, Python, Node, Sublime Text and more!
 - [robertluwang/portabledevops](https://github.com/robertluwang/portabledevops) - A portable devops tool set on windows, easy customization of cmder/console+msys2/cygwin/wsl
 - [mviereck/runx](https://github.com/mviereck/runx) - Provide X server on MS Windows with cookie authentication.
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
