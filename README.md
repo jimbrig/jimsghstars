@@ -10,6 +10,7 @@
   - [AutoHotkey](#autohotkey)
   - [AutoIt](#autoit)
   - [Batchfile](#batchfile)
+  - [Blade](#blade)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -153,6 +154,10 @@
 - [DeadManWalkingTO/Windows10MiningTweaksDmW](https://github.com/DeadManWalkingTO/Windows10MiningTweaksDmW) - Windows 10 Mining Tweaks by DeadManWalking (DeadManWalkingTO-GitHub)
 - [CHEF-KOCH/regtweaks](https://github.com/CHEF-KOCH/regtweaks) - Registry Tweaks for Windows.
 - [FoxP/rclone-backup](https://github.com/FoxP/rclone-backup) - Just my rclone Windows batch scripts to backup / sync the second hard drive of my computer to pCloud (encrypted).
+
+## Blade 
+
+- [overtrue/wisteria](https://github.com/overtrue/wisteria) - Beautiful document tool for your project.
 
 ## C 
 
@@ -467,6 +472,7 @@
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [CherryPill/system_info](https://github.com/CherryPill/system_info) - Hardware information tool for Windows
 - [mandreyel/mio](https://github.com/mandreyel/mio) - Cross-platform C++11 header-only library for memory mapped file IO
+- [rspatial/terra](https://github.com/rspatial/terra) - R package for spatial data handling https://rspatial.github.io/terra/reference/terra-package.html
 - [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [nathan-russell/hashmap](https://github.com/nathan-russell/hashmap) - Faster hash maps in R
 - [mkuhn/dict](https://github.com/mkuhn/dict) - Dictionary with arbitrary keys and values for R
@@ -1079,7 +1085,6 @@
 - [amirmasoudabdol/preferably](https://github.com/amirmasoudabdol/preferably) - An accessible template for `pkgdown` websites with dynamic light/dark mode support
 - [dirkschumacher/htmlvault](https://github.com/dirkschumacher/htmlvault) - Encrypt files in self-decrypting html files using libsodium
 - [worldbank/dime-r-training](https://github.com/worldbank/dime-r-training) - Dime Analytics R Training
-- [overtrue/wisteria](https://github.com/overtrue/wisteria) - Beautiful document tool for your project.
 - [resulumit/rmd_workshop](https://github.com/resulumit/rmd_workshop) - Materials for a workshop on writing reproducible research papers with R Markdown
 - [lyfeyaj/awesome-resources](https://github.com/lyfeyaj/awesome-resources) - Awesome resources for coding and learning: open source projects, websites, books e.g.
 - [maximevaillancourt/digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Start your own digital garden using this Jekyll template 🌱
@@ -1339,7 +1344,6 @@
 - [dirkschumacher/encryptedRmd](https://github.com/dirkschumacher/encryptedRmd) - 🔑 Password protected markdown html reports in R using libsodium
 - [trinker/pacman](https://github.com/trinker/pacman) - A package management tools for R
 - [smbache/ensurer](https://github.com/smbache/ensurer) - Ensure values are as expected at runtime
-- [ddsjoberg/gtsummary](https://github.com/ddsjoberg/gtsummary) - Presentation-Ready Data Summary and Analytic Result Tables
 - [cengel/R-data-wrangling](https://github.com/cengel/R-data-wrangling) - Materials for my my R data workshop. https://cengel.github.io/R-data-wrangling/
 - [darwinanddavis/UsefulCode](https://github.com/darwinanddavis/UsefulCode) - Useful R code for functions, plotting, cool things {R}
 - [kellobri/spc-app](https://github.com/kellobri/spc-app) - 
@@ -4197,7 +4201,6 @@
 - [yanirmor/shiny-user-management](https://github.com/yanirmor/shiny-user-management) - Demonstration of user management and authentication system in R Shiny
 - [dreamRs/datamods](https://github.com/dreamRs/datamods) - Shiny modules to import data into an application or addin
 - [dbosak01/libr](https://github.com/dbosak01/libr) - An R package to create data libraries and data dictionaries.
-- [jaytimm/quicknews](https://github.com/jaytimm/quicknews) - Some R-based tools for working with digital media
 - [ropensci-archive/packgraph](https://github.com/ropensci-archive/packgraph) - :no_entry:ARCHIVED:no_entry: Examine and analyse function call graphs from R packages
 - [hrbrmstr/waffle](https://github.com/hrbrmstr/waffle) - :maple_leaf: Make waffle (square pie) charts in R
 - [tomaztk/Install_setup_R_using_Powershell](https://github.com/tomaztk/Install_setup_R_using_Powershell) - Installing R and RStudio and setup R using Powershell
@@ -5195,7 +5198,6 @@
 - [coolbutuseless/flagon](https://github.com/coolbutuseless/flagon) - Flags of the World
 - [nathaneastwood/poorman](https://github.com/nathaneastwood/poorman) - A poor man's dependency free grammar of data manipulation
 - [moodymudskipper/safejoin](https://github.com/moodymudskipper/safejoin) - Wrappers around dplyr functions to join safely     using various checks
-- [rspatial/terra](https://github.com/rspatial/terra) - R package for spatial data handling https://rspatial.github.io/terra/reference/terra-package.html
 - [hope-data-science/tidyft](https://github.com/hope-data-science/tidyft) - Tidy Verbs for Fast Data Operations by Reference
 - [HenrikBengtsson/future.batchtools](https://github.com/HenrikBengtsson/future.batchtools) - :rocket: R package future.batchtools: A Future API for Parallel and Distributed Processing using batchtools
 - [data-cleaning/deducorrect](https://github.com/data-cleaning/deducorrect) - An R package for rule-based record correction and imputation
@@ -5959,6 +5961,7 @@
 - [rstudio/renv](https://github.com/rstudio/renv) - renv: Project environments for R.
 - [jjanuszczak/freshdeskr](https://github.com/jjanuszczak/freshdeskr) - R client for Freshdesk
 - [ThinkR-open/attachment](https://github.com/ThinkR-open/attachment) - Tools to deal with dependencies in scripts, Rmd and packages
+- [ddsjoberg/gtsummary](https://github.com/ddsjoberg/gtsummary) - Presentation-Ready Data Summary and Analytic Result Tables
 - [zappingseb/shinymetaTest](https://github.com/zappingseb/shinymetaTest) - An example App to test shinyMeta
 - [alastairrushworth/inspectdf](https://github.com/alastairrushworth/inspectdf) - 🛠️ 📊 Tools for Exploring and Comparing Data Frames
 - [ELToulemonde/dataPreparation](https://github.com/ELToulemonde/dataPreparation) - Data preparation for data science projects.
@@ -6733,7 +6736,7 @@
 
 ## TeX 
 
-- [MathiasHarrer/Doing-Meta-Analysis-in-R](https://github.com/MathiasHarrer/Doing-Meta-Analysis-in-R) - All R codes for the guide "Doing Meta-Analysis in R"
+- [MathiasHarrer/Doing-Meta-Analysis-in-R](https://github.com/MathiasHarrer/Doing-Meta-Analysis-in-R) - All R code and source files for the online guide "Doing Meta-Analysis with R: A Hands-On Guide"
 - [Robinlovelace/open-gat](https://github.com/Robinlovelace/open-gat) - Open source software for geographic transport data analysis and planning
 - [GDSL-UL/the_knowledge](https://github.com/GDSL-UL/the_knowledge) - A Repo of things GDSLers Should Know....
 - [jeroen/RAppArmor](https://github.com/jeroen/RAppArmor) - R interfaces to Linux and AppArmor security methods
