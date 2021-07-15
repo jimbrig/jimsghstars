@@ -370,7 +370,7 @@
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - Make Windows faster and more secure
 - [adrianmteo/Luna](https://github.com/adrianmteo/Luna) - Automatic dark mode for Windows 10
 - [Armin2208/Windows-Auto-Night-Mode](https://github.com/Armin2208/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10
-- [windows-toolkit/WindowsCommunityToolkit](https://github.com/windows-toolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building UWP and .NET apps for Windows 10. The toolkit is part of the .NET Foundation.
+- [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building UWP and .NET apps for Windows 10. The toolkit is part of the .NET Foundation.
 - [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
 - [mscrivo/OotD](https://github.com/mscrivo/OotD) - Outlook on the Desktop (OotD)
 - [microsoft/Integration](https://github.com/microsoft/Integration) - Public repository for Microsoft Integration open source samples, code and tools
@@ -953,7 +953,7 @@
 - [helm/charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [OneOfOne/xxhash](https://github.com/OneOfOne/xxhash) - A native implementation of the excellent XXHash hashing algorithm.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-- [cuelang/cue](https://github.com/cuelang/cue) - Validate and define text-based and dynamic configuration
+- [cuelang/cue](https://github.com/cuelang/cue) - CUE has moved to https://github.com/cue-lang/cue
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 
 ## Groovy 
@@ -1052,7 +1052,7 @@
 - [openschemas/extractors](https://github.com/openschemas/extractors) - generic extraction recipes to get you started extracting schema.org entities for your software, data, and all things
 - [dreyescat/bootstrap-rating](https://github.com/dreyescat/bootstrap-rating) - Bootstrap Rating is a jQuery plugin that creates a rating control that uses Bootstrap glyphicons for rating symbols.
 - [mslegrand/pointR](https://github.com/mslegrand/pointR) - A shiny-based IDE for creating SVG by using R and the svgR package.
-- [jsugarelli/shinyfilter](https://github.com/jsugarelli/shinyfilter) - 
+- [jsugarelli/shinyfilter](https://github.com/jsugarelli/shinyfilter) - Use interdependent filters on table columns in shiny apps as in spreadsheet applications
 - [GegznaV/knitrContainer](https://github.com/GegznaV/knitrContainer) - :warning:  Collect and Print Multiple Objects in an R Markdown Report (R package)
 - [GegznaV/spMisc](https://github.com/GegznaV/spMisc) - :warning: Miscellaneous R functions. Some functions may not work.
 - [openanalytics/shinyproxy-config-examples](https://github.com/openanalytics/shinyproxy-config-examples) - Configuration examples for ShinyProxy
@@ -3349,7 +3349,6 @@
 
 ## Puppet 
 
-- [GoogleCloudPlatform/puppet-google-logging](https://github.com/GoogleCloudPlatform/puppet-google-logging) - Managed Google Stackdriver Logging Agent via Puppet
 - [fasrc/puppet-shiny](https://github.com/fasrc/puppet-shiny) - R Shiny config via puppet
 
 ## Python 
@@ -3903,7 +3902,7 @@
 - [klmr/unpack](https://github.com/klmr/unpack) - Vector unpack assignment syntax for R
 - [klmr/minimappr](https://github.com/klmr/minimappr) - Code minimaps for R
 - [klmr/sys](https://github.com/klmr/sys) - Easily create reusable command line scripts with R
-- [ryuheidf/shinymoney](https://github.com/ryuheidf/shinymoney) - R Shiny + PostgreSQL application for managing and visualizing expenses + net worth
+- [rewheigh/shinymoney](https://github.com/rewheigh/shinymoney) - R Shiny + PostgreSQL application for managing and visualizing expenses + net worth
 - [meerapatelmd/rubix](https://github.com/meerapatelmd/rubix) - R package with wrapper functions of the Tidyverse package suite.
 - [meerapatelmd/glitter](https://github.com/meerapatelmd/glitter) - R package for making basic git commands from the R console and deploying packages and GitHub Pages
 - [guyschvitz/pgtools](https://github.com/guyschvitz/pgtools) - Helper functions to interact with Postgres from R
@@ -6455,6 +6454,7 @@
 - [klmr/switch-r](https://github.com/klmr/switch-r) - R version switcher for macOS
 - [tallguyjenks/Obsidian-CLI](https://github.com/tallguyjenks/Obsidian-CLI) - Opening Obsidian files with the command line
 - [GoogleCloudPlatform/shell-samples](https://github.com/GoogleCloudPlatform/shell-samples) - 
+- [GoogleCloudPlatform/puppet-google-logging](https://github.com/GoogleCloudPlatform/puppet-google-logging) - Managed Google Stackdriver Logging Agent via Puppet
 - [mrzool/bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults
 - [pmorelli92/github-container-registry-build-push](https://github.com/pmorelli92/github-container-registry-build-push) - Github Action that builds and pushes a docker image to Github Container Registry
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
