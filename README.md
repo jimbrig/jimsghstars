@@ -692,6 +692,7 @@
 
 ## Dockerfile 
 
+- [rajarshig/MyReference](https://github.com/rajarshig/MyReference) - Documentation for various software development related topic, using Mkdocs package
 - [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) - :octocat: GitHub Action for Chocolatey, the package manager for Windows
 - [nuest/rocker-win](https://github.com/nuest/rocker-win) - Proof-of-concept for R in Windows containers
 - [littlemanco/docker--git-crypt](https://github.com/littlemanco/docker--git-crypt) - 
@@ -984,6 +985,7 @@
 
 ## HTML 
 
+- [RichardLitt/knowledge](https://github.com/RichardLitt/knowledge) - 💡 document everything
 - [razi-rais/microservices](https://github.com/razi-rais/microservices) - Education & lessons learned from the field. Mainly focusing on AKS and Containers.
 - [rladies/meetup-presentations_nairobi](https://github.com/rladies/meetup-presentations_nairobi) - 
 - [analythium/docker-compose-shiny-example](https://github.com/analythium/docker-compose-shiny-example) - Docker Compose Example with Shiny Apps
@@ -1069,6 +1071,7 @@
 - [schemaspy/schemaspy](https://github.com/schemaspy/schemaspy) - SchemaSpy code home
 - [GordCaswell/rapideeportable](https://github.com/GordCaswell/rapideeportable) - PortableApps package of Rapid Environment Editor
 - [dicook/explore-data](https://github.com/dicook/explore-data) - A book about exploratory data analysis in the 21st century
+- [jimbrig/property_allocation_demo](https://github.com/jimbrig/property_allocation_demo) - property allocation shiny app
 - [maelle/reprex_demo](https://github.com/maelle/reprex_demo) - Experiments around sharing reprexes on Gist and Twitter
 - [o2r-project/ctv-computational-environments](https://github.com/o2r-project/ctv-computational-environments) - A CRAN task view for computational environments and reproducibility
 - [ahmetb/cloud-run-hello](https://github.com/ahmetb/cloud-run-hello) - Sample Cloud Run application
@@ -1444,9 +1447,13 @@
 
 ## JavaScript 
 
+- [xg-wang/.obsidian](https://github.com/xg-wang/.obsidian) - Obsidian configs
+- [jawil/blog](https://github.com/jawil/blog) - Too young, too simple. Sometimes, naive & stupid 🐌
+- [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [yangshun/delete-github-forks](https://github.com/yangshun/delete-github-forks) - 🍴 Bulk delete your GitHub forks in two simple steps!
 - [maxime1992/git-commit-summary](https://github.com/maxime1992/git-commit-summary) - Generate a commit summary of your project, following Angular conventions.
 - [m-dwyer/obsidian-vault-template](https://github.com/m-dwyer/obsidian-vault-template) - 
+- [Psionica/dual-obsidian-client](https://github.com/Psionica/dual-obsidian-client) - A skilled virtual assistant for Obsidian.
 - [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) - online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. like gitbook.
 - [ricardolsmendes/gcp-cloudfunction-git-event](https://github.com/ricardolsmendes/gcp-cloudfunction-git-event) - Google Cloud Function to be triggered on Git repository events
 - [pizycki/NugetServerContainer](https://github.com/pizycki/NugetServerContainer) - Nuget Server in Windows Container
@@ -2368,6 +2375,9 @@
 
 ## Others 
 
+- [vicoyeh/pointers-for-software-engineers](https://github.com/vicoyeh/pointers-for-software-engineers) - A curated list of topics to start learning software engineering
+- [darshanime/notes](https://github.com/darshanime/notes) - detailed notes on computer science topics, in one page
+- [diawi/knowledge-base](https://github.com/diawi/knowledge-base) - Development and In-house Apps Wireless Installation Knowledge Base
 - [osvaldokalvaitir/awesome](https://github.com/osvaldokalvaitir/awesome) - :eyeglasses: Awesome is a list of the best tools, softwares, libraries and guides for developing projects in the Node.js, ReactJS and React Native ecosystem.
 - [cmpute/awesome-uwp-apps](https://github.com/cmpute/awesome-uwp-apps) - A list about open-sourced repositories of Win 10 (UWP) Applications in Github | In store or off store
 - [futurice/windows-app-development-best-practices](https://github.com/futurice/windows-app-development-best-practices) - A collection of best practices for Windows App and C# developers
@@ -3110,6 +3120,7 @@
 
 ## PHP 
 
+- [ksdev-pl/Gist-List](https://github.com/ksdev-pl/Gist-List) - Clear Organization of Your Gists
 - [sagebind/windows-registry](https://github.com/sagebind/windows-registry) - A small library for accessing and manipulating the Windows registry.
 - [petitpress/gps-messenger-bundle](https://github.com/petitpress/gps-messenger-bundle) - The bundle provides a simple implementation of Google Pub/Sub transport for Symfony Messenger.
 - [agorakit/agorakit](https://github.com/agorakit/agorakit) - Organization tool for citizen's collectives
@@ -6428,6 +6439,8 @@
 
 ## Shell 
 
+- [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
+- [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [selfire1/goodsidian](https://github.com/selfire1/goodsidian) - A Goodreads to Obsidian script
 - [vladgh/backup](https://github.com/vladgh/backup) - Vlad's Backup
 - [ivamluz/cloud-build-cloud-functions-pipeline](https://github.com/ivamluz/cloud-build-cloud-functions-pipeline) - A sample project showing how to automate the deployment of Cloud Functions with Cloud Build on Google Cloud Platform.
@@ -6803,7 +6816,6 @@
 
 ## TypeScript 
 
-- [Psionica/dual-obsidian-client](https://github.com/Psionica/dual-obsidian-client) - A skilled virtual assistant for Obsidian.
 - [pnp/cli-microsoft365](https://github.com/pnp/cli-microsoft365) - Manage Microsoft 365 and SharePoint Framework projects on any platform
 - [blake-mealey/vscode-generate-wt-scheme](https://github.com/blake-mealey/vscode-generate-wt-scheme) - Generate Windows Terminal color schemes from your VSCode themes
 - [nateshmbhat/windows-terminal-tweaker](https://github.com/nateshmbhat/windows-terminal-tweaker) - Tweak your windows terminal to heart's content with this app using its beautiful interface to configure everything about the terminal.
