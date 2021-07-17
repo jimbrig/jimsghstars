@@ -259,6 +259,7 @@
 
 ## C# # 
 
+- [ScoopInstaller/Shim](https://github.com/ScoopInstaller/Shim) - A Scoop helper program for shimming executables
 - [chocolatey/ChocolateyGUI](https://github.com/chocolatey/ChocolateyGUI) - A delicious GUI for Chocolatey
 - [asdfjkl/yahb](https://github.com/asdfjkl/yahb) - Deduplicating File-Copy/Backup Tool (Commandline)
 - [UweKeim/SimpleBackup](https://github.com/UweKeim/SimpleBackup) - Windows Explorer Context Menu extension to backup and restore folders to temporary storage
@@ -336,7 +337,7 @@
 - [RickStrahl/MarkdownMonster](https://github.com/RickStrahl/MarkdownMonster) - An extensible Markdown Editor, Viewer and Weblog Publisher for Windows
 - [LazoCoder/Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - Creative and unusual things that can be done with the Windows API.
 - [lucasg/Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
-- [carlospolop/privilege-escalation-awesome-scripts-suite](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
+- [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 - [gitextensions/gitextensions](https://github.com/gitextensions/gitextensions) - Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).
@@ -543,7 +544,6 @@
 - [pachadotdev/tradestatistics-visualization-with-shiny](https://github.com/pachadotdev/tradestatistics-visualization-with-shiny) - Open Trade Statistics Shiny Dashboard
 - [ykob/fullscreen-slider](https://github.com/ykob/fullscreen-slider) - This asset controls sections in a page.   It resizes sections to fullscreen resolution and moves these individually by wheel/touch events.
 - [rbind/support](https://github.com/rbind/support) - Technical support for rbind
-- [jimbrig/resources](https://github.com/jimbrig/resources) - 
 - [tautomer/WSL_Windows_Terminal](https://github.com/tautomer/WSL_Windows_Terminal) - A full guide on how to set up WSL/WSL2 and use Windows Terminal or Terminator as the terminal emulator. Some tricky X11 configuration is also included.
 - [gilbertohasnofb/typora-panda-theme](https://github.com/gilbertohasnofb/typora-panda-theme) - Panda theme for Typora
 - [heroku/12factor](https://github.com/heroku/12factor) - 
@@ -1183,7 +1183,6 @@
 - [egarpor/ShinyServer](https://github.com/egarpor/ShinyServer) - A served-oriented repository of Shiny apps and Rmd documents
 - [hbnordin2/spiralHeatMaps](https://github.com/hbnordin2/spiralHeatMaps) - Inspired by: https://bl.ocks.org/tomshanley/0a024581fd0b7c4e483203d5bff9631b
 - [rstudio/concept-maps](https://github.com/rstudio/concept-maps) - Concept maps for all things data science
-- [jimbrig/dotfiles-new](https://github.com/jimbrig/dotfiles-new) - Personal dotfiles on Windows 10 Professional - Dev Insider Edition
 - [rstudio-education/datascience-box](https://github.com/rstudio-education/datascience-box) - Data Science Course in a Box
 - [yonicd/whereami](https://github.com/yonicd/whereami) - Reliably return location where command is called from in R.
 - [jpmarindiaz/country-neighbors](https://github.com/jpmarindiaz/country-neighbors) - List of all the neighbors for all the countries in the world
@@ -1272,7 +1271,6 @@
 - [jgm/pandoc-templates](https://github.com/jgm/pandoc-templates) - Templates for pandoc, tagged to release
 - [heggesethlab/ClusterLongCat-mirror](https://github.com/heggesethlab/ClusterLongCat-mirror) - 
 - [SurgicalInformatics/encryptr](https://github.com/SurgicalInformatics/encryptr) - Encrypt and decrypt data frame or tibble columns using the strong RSA public/private keys
-- [jimbrig/myblogdown](https://github.com/jimbrig/myblogdown) - Personal Website built via blogdown and hugo deployed on Netlify
 - [ProQuestionAsker/websiteSource](https://github.com/ProQuestionAsker/websiteSource) - The source files for my github/blogdown website
 - [tomgreenwood1/shiny_filter](https://github.com/tomgreenwood1/shiny_filter) - a demo of a filtering widget for shiny documents
 - [hrbrmstr/ssdeepr](https://github.com/hrbrmstr/ssdeepr) - Context Triggered Piecewise Hash Computation Using 'ssdeep' for R
@@ -2104,7 +2102,6 @@
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [JasonEtco/todo](https://github.com/JasonEtco/todo) - 🤖✅ GitHub App that creates new issues from actionable comments in your code.
 - [BoostIO/Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for developers on Mac, Windows and Linux.
-- [jhrcook/academic-kickstart](https://github.com/jhrcook/academic-kickstart) - Personal website made user Academic & Hugo, hosted on Netlify
 - [daranzolin/textych](https://github.com/daranzolin/textych) - Create interactive text parallels :page_with_curl: :page_with_curl: :page_with_curl:
 - [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 - [rstudio/shiny-server](https://github.com/rstudio/shiny-server) - Host Shiny applications over the web.
@@ -2260,6 +2257,7 @@
 - [ramnathv/template-live-webinar-sql](https://github.com/ramnathv/template-live-webinar-sql) - 
 - [Non-Contradiction/JuliaCall](https://github.com/Non-Contradiction/JuliaCall) - Embed Julia in R
 - [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify.
+- [jhrcook/academic-kickstart](https://github.com/jhrcook/academic-kickstart) - Personal website made user Academic & Hugo, hosted on Netlify
 - [DiscoveryDNA/team_neural_network](https://github.com/DiscoveryDNA/team_neural_network) - Neural Network of enhancer regions
 - [advboxes/AdvBox](https://github.com/advboxes/AdvBox) - Advbox is a toolbox to generate adversarial examples that fool neural networks in PaddlePaddle、PyTorch、Caffe2、MxNet、Keras、TensorFlow and Advbox can benchmark the robustness of machine learning models.  Advbox give a command line tool to generate adversarial examples with Zero-Coding.
 - [m-clark/data-processing-and-visualization](https://github.com/m-clark/data-processing-and-visualization) - This document forms the basis of several workshops/talks that get into everyday programming with R, but also includes mirrored code in Python as Jupyter notebooks.
@@ -2375,6 +2373,9 @@
 
 ## Others 
 
+- [ScoopInstaller/Binary](https://github.com/ScoopInstaller/Binary) - 🗄 Scoops mirror for binaries that are no longer available
+- [ztj1993/scoop-index](https://github.com/ztj1993/scoop-index) - 
+- [snaphat/alias-additions](https://github.com/snaphat/alias-additions) - Additional aliases for scoop to ease updating and searching for apps.
 - [vicoyeh/pointers-for-software-engineers](https://github.com/vicoyeh/pointers-for-software-engineers) - A curated list of topics to start learning software engineering
 - [darshanime/notes](https://github.com/darshanime/notes) - detailed notes on computer science topics, in one page
 - [diawi/knowledge-base](https://github.com/diawi/knowledge-base) - Development and In-house Apps Wireless Installation Knowledge Base
@@ -2632,7 +2633,6 @@
 - [codeverland/bookmarks](https://github.com/codeverland/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.land
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 - [jtommaney/blog](https://github.com/jtommaney/blog) - notes on parallel analytic operators
-- [jimbrig/template_shinydashboard](https://github.com/jimbrig/template_shinydashboard) - Template for creating a shinydashboard at Tychobra
 - [mkorenkov/tools](https://github.com/mkorenkov/tools) - GitHub issues import has moved to other repo
 - [JayHoltslander/Structured-Data-JSON-LD](https://github.com/JayHoltslander/Structured-Data-JSON-LD) - Collection of structured data snippets in Google preferred JSON-LD format.
 - [MenaiAla/You-Dont-Know-UI](https://github.com/MenaiAla/You-Dont-Know-UI) - Learn how to build universal, modern and scalable user interfaces
@@ -3048,7 +3048,6 @@
 - [hadley/sjlabelled](https://github.com/hadley/sjlabelled) - Working with Labelled Data in R
 - [ThinkR-open/prepare-for-cran](https://github.com/ThinkR-open/prepare-for-cran) - A Collaborative list of things to know before submitting to CRAN
 - [mkearney/fastai](https://github.com/mkearney/fastai) - The fastai deep learning library, plus lessons and tutorials
-- [jimbrig/incognito](https://github.com/jimbrig/incognito) - R Package for "scrubbing" client versions of shiny apps into showcase demo applications
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [jtleek/escalatr](https://github.com/jtleek/escalatr) - A package for making R markdown websites.
 - [arantespp/MyZettelkasten](https://github.com/arantespp/MyZettelkasten) - Welcome to my second memory.
@@ -3175,6 +3174,10 @@
 
 ## PowerShell 
 
+- [gabrielmccoll/PackerTemplates](https://github.com/gabrielmccoll/PackerTemplates) - most of all the windows stuff has come from https://github.com/StefanScherer/packer-windows
+- [pBouillon/personal-tooling](https://github.com/pBouillon/personal-tooling) - My configuration files and other scripts I use to automate some tasks
+- [ScoopInstaller/GitCloner](https://github.com/ScoopInstaller/GitCloner) - A small helper script that clones a Git repository
+- [foosel/scoop-tray](https://github.com/foosel/scoop-tray) - Systray companion for scoop. Polls for updates every 30min and alerts if there are any.
 - [jhochwald/PowerShell-collection](https://github.com/jhochwald/PowerShell-collection) - PowerShell Scripts, Tools, and Modules
 - [cyberark/epv-api-scripts](https://github.com/cyberark/epv-api-scripts) - These API scripts enable CyberArk users to automate privileged account management task like account creation, user management, and more.
 - [scriptrunner/ActionPacks](https://github.com/scriptrunner/ActionPacks) - Public PowerShell script gallery for ScriptRunner.
@@ -3229,7 +3232,7 @@
 - [Phil-Factor/SQLCloneFamily](https://github.com/Phil-Factor/SQLCloneFamily) - 
 - [microsoftgraph/microsoft-graph-docs](https://github.com/microsoftgraph/microsoft-graph-docs) - Documentation for the Microsoft Graph REST API
 - [microsoft/CSS-Exchange](https://github.com/microsoft/CSS-Exchange) - Exchange Server support tools and scripts
-- [hmerritt/win10-setup](https://github.com/hmerritt/win10-setup) - Windows 10 setup scripts for fresh installs
+- [hmerritt/win10-setup](https://github.com/hmerritt/win10-setup) - Windows 10/11 setup scripts for fresh installs
 - [nickrod518/PowerShell-Scripts](https://github.com/nickrod518/PowerShell-Scripts) - PowerShell scripts ranging from SCCM, MSO, AD, and other corporate enterprise uses... to sending cat facts to coworkers.
 - [MicrosoftDocs/windows-itpro-docs](https://github.com/MicrosoftDocs/windows-itpro-docs) - This is used for contributions to the Windows 10 content for IT professionals on docs.microsoft.com.
 - [sqlcollaborative/dbatools](https://github.com/sqlcollaborative/dbatools) - 🚀 SQL Server automation and instance migrations have never been safer, faster or freer
@@ -4981,7 +4984,6 @@
 - [r-hub/r-builder](https://github.com/r-hub/r-builder) - Tools to build R
 - [snystrom/cmdfun](https://github.com/snystrom/cmdfun) - Framework for building R interfaces to shell commands
 - [r-prof/procmaps](https://github.com/r-prof/procmaps) - Portable Address Space Mapping in R
-- [jimbrig/xs-factors](https://github.com/jimbrig/xs-factors) - 
 - [geoffwlamb/checklist](https://github.com/geoffwlamb/checklist) - Create Checklists in RStudio
 - [AndreaCirilloAC/updateR](https://github.com/AndreaCirilloAC/updateR) - update your R version in a breeze ( on OSX)  √
 - [aWhereAPI/R-Training-Tutorials](https://github.com/aWhereAPI/R-Training-Tutorials) - This repo stores our tutorials about how to use the R package to interface with the aWhere API
@@ -5094,7 +5096,6 @@
 - [TomKellyGenetics/vioplot](https://github.com/TomKellyGenetics/vioplot) - Development version of vioplot R package (CRAN maintainer)
 - [r-lib/jose](https://github.com/r-lib/jose) - Javascript Object Signing and Encryption for R
 - [colearendt/xlsx](https://github.com/colearendt/xlsx) - An R package to interact with Excel files using the Apache POI java library
-- [jimbrig/myicons](https://github.com/jimbrig/myicons) - Manage your own personal icon library and generate random icons for quick prototyping
 - [business-science/correlationfunnel](https://github.com/business-science/correlationfunnel) - Speed Up Exploratory Data Analysis (EDA)
 - [dutangc/CASdatasets](https://github.com/dutangc/CASdatasets) - Datasets for the book Computational Actuarial Science with R
 - [johnmyleswhite/log4r](https://github.com/johnmyleswhite/log4r) - A log4j derivative for R.
@@ -6439,6 +6440,7 @@
 
 ## Shell 
 
+- [ScoopInstaller/Excavator](https://github.com/ScoopInstaller/Excavator) - 🕳️ This container runs the updating services for all scoop manifest repos
 - [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [selfire1/goodsidian](https://github.com/selfire1/goodsidian) - A Goodreads to Obsidian script
@@ -7018,7 +7020,7 @@
 - [getmoro/moro](https://github.com/getmoro/moro) - Simple CLI tool for tracking work hours. Note: Heavy changes are happening in this repository. Docs might not be up to date, and things might be broken. Only the released NPM version is stable.
 - [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static) - Scaffolding utility for vanilla-js
 - [freeCodeCamp/chapter](https://github.com/freeCodeCamp/chapter) - A self-hosted event management tool for nonprofits
-- [eankeen/tails](https://github.com/eankeen/tails) - tails enables you to view, edit, and organize all your programming projects in one place
+- [hyperupcall/tails](https://github.com/hyperupcall/tails) - tails enables you to view, edit, and organize all your programming projects in one place
 - [deathau/sliding-panes-obsidian](https://github.com/deathau/sliding-panes-obsidian) - Andy Matuschak Mode as a plugin
 - [kortina/vscode-markdown-notes](https://github.com/kortina/vscode-markdown-notes) - Install from: https://ark.dance/md-notes
 - [wanasit/chrono](https://github.com/wanasit/chrono) - A natural language date parser in Javascript
