@@ -6039,7 +6039,7 @@
 - [r-lib/styler](https://github.com/r-lib/styler) - Non-invasive pretty printing of R code
 - [tidyverse/stringr](https://github.com/tidyverse/stringr) - A fresh approach to string manipulation in R
 - [fstpackage/fst](https://github.com/fstpackage/fst) - Lightning Fast Serialization of Data Frames for R
-- [EmilHvitfeldt/r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes) - Comprehensive list of color palettes available in r ❤️🧡💛💚💙💜
+- [EmilHvitfeldt/r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes) - Comprehensive list of color palettes available in R ❤️🧡💛💚💙💜
 - [leeper/rio](https://github.com/leeper/rio) - A Swiss-Army Knife for Data I/O
 - [tidyverse/glue](https://github.com/tidyverse/glue) - Glue strings to data in R. Small, fast, dependency free interpreted string literals.
 - [r-lib/usethis](https://github.com/r-lib/usethis) - Set up commonly used 📦 components
@@ -7183,7 +7183,7 @@
 - [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
 - [zpj80231/znote](https://github.com/zpj80231/znote) - 🎈VuePress 静态布局 Blog，清新+ 简洁+。
 - [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 
 ## XSLT 
 
