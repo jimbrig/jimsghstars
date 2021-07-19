@@ -110,6 +110,7 @@
 
 ## AutoHotkey 
 
+- [emisjerry/admonitions](https://github.com/emisjerry/admonitions) - AutoHotkey GUI for Obsidian-Admonitions plugin
 - [vincvincvinc/autohotkey-scripts](https://github.com/vincvincvinc/autohotkey-scripts) - Collection of autohotkey scripts I use. Most are hacky mash-ups of self-made and copy-pasted.
 - [JuanmaMenendez/AutoHotkey-script-Open-Show-Apps](https://github.com/JuanmaMenendez/AutoHotkey-script-Open-Show-Apps) - AutoHotkey script to open, restore or minimize, Window's and Chrome's Apps using hotkeys
 - [mgroat/Todoist-Global-Hotkey](https://github.com/mgroat/Todoist-Global-Hotkey) - An autohotkey script to open Todoist in Chrome and start a new item
@@ -516,6 +517,7 @@
 
 ## CSS 
 
+- [ahkscript/ahkbook](https://github.com/ahkscript/ahkbook) - a free online book about AutoHotkey!
 - [inbo/INBOmd](https://github.com/inbo/INBOmd) - An R package with a collection of RMarkdown styles and templates. Elaborate examples are available at https://github.com/inbo/inbomd_examples
 - [FinancialMarkets/5MinuteFinance](https://github.com/FinancialMarkets/5MinuteFinance) - Interactive Presentations for Financial Education using R/Shiny.  See full list of presentations (with links) below.
 - [ramnathv/rChartsCalendar](https://github.com/ramnathv/rChartsCalendar) - rCharts binding for CalMap
@@ -2006,7 +2008,7 @@
 - [richarddmorey/stat-distributions-js](https://github.com/richarddmorey/stat-distributions-js) - Javascript library for the visualization of statistical distributions
 - [sourcerer-io/awesome-libraries](https://github.com/sourcerer-io/awesome-libraries) - :sunglasses: Libraries that are being shown in Sourcerer profiles.
 - [ingalless/foam-template-gatsby-search](https://github.com/ingalless/foam-template-gatsby-search) - Foam template, built with Gatsby, plus search
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (June 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2021)
 - [renrousousuo/DocumentTemplate](https://github.com/renrousousuo/DocumentTemplate) - 文件 Markdown 格式。方便书写各种文档。
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -3367,6 +3369,7 @@
 
 ## Python 
 
+- [click-contrib/click-man](https://github.com/click-contrib/click-man) - Automate generation of man pages for python click applications :star:
 - [polar147/RCloneBackup](https://github.com/polar147/RCloneBackup) - A Reverse Incremental Backup Script for RClone with support for Windows/Linux/Mac with Volume Shadow Copy (VSS) and email report.
 - [Kaggle/kaggle-api](https://github.com/Kaggle/kaggle-api) - Official Kaggle API
 - [Cobertos/dotfiles](https://github.com/Cobertos/dotfiles) - My configs for everything and a script to bootstrap it all on a new install.
@@ -5186,6 +5189,7 @@
 - [business-science/tidyquant](https://github.com/business-science/tidyquant) - Bringing financial analysis to the tidyverse
 - [moodymudskipper/liblog](https://github.com/moodymudskipper/liblog) - Log Calls to loadNamespace
 - [coolbutuseless/arcadefont](https://github.com/coolbutuseless/arcadefont) - Oldschool arcade vector font
+- [coolbutuseless/arcadefont](https://github.com/coolbutuseless/arcadefont) - Oldschool arcade vector font
 - [sckott/webmiddens](https://github.com/sckott/webmiddens) - cache http requests
 - [gadenbuie/shrtcts](https://github.com/gadenbuie/shrtcts) - Make Anything an RStudio Shortcut
 - [rstudio/bookdown.org](https://github.com/rstudio/bookdown.org) - Source documents to generate the bookdown.org website
@@ -6440,6 +6444,7 @@
 
 ## Shell 
 
+- [udacity/create-your-own-adventure](https://github.com/udacity/create-your-own-adventure) - This is example repo illustrates the concept of a "Pull Request", created as part of the course How to Use Git and GitHub
 - [ScoopInstaller/Excavator](https://github.com/ScoopInstaller/Excavator) - 🕳️ This container runs the updating services for all scoop manifest repos
 - [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
@@ -6818,6 +6823,7 @@
 
 ## TypeScript 
 
+- [chhoumann/quickadd](https://github.com/chhoumann/quickadd) - QuickAdd for Obsidian
 - [pnp/cli-microsoft365](https://github.com/pnp/cli-microsoft365) - Manage Microsoft 365 and SharePoint Framework projects on any platform
 - [blake-mealey/vscode-generate-wt-scheme](https://github.com/blake-mealey/vscode-generate-wt-scheme) - Generate Windows Terminal color schemes from your VSCode themes
 - [nateshmbhat/windows-terminal-tweaker](https://github.com/nateshmbhat/windows-terminal-tweaker) - Tweak your windows terminal to heart's content with this app using its beautiful interface to configure everything about the terminal.
