@@ -987,6 +987,9 @@
 
 ## HTML 
 
+- [zabore/intro-to-r-rstudio](https://github.com/zabore/intro-to-r-rstudio) - 
+- [IndrajeetPatil/codeswitchR](https://github.com/IndrajeetPatil/codeswitchR) - A list of helpful R packages to learn other programming languages or workflows
+- [tallguyjenks/DevLog](https://github.com/tallguyjenks/DevLog) - My DevLog detailing my learnings in Tech
 - [RichardLitt/knowledge](https://github.com/RichardLitt/knowledge) - 💡 document everything
 - [razi-rais/microservices](https://github.com/razi-rais/microservices) - Education & lessons learned from the field. Mainly focusing on AKS and Containers.
 - [rladies/meetup-presentations_nairobi](https://github.com/rladies/meetup-presentations_nairobi) - 
@@ -1351,7 +1354,6 @@
 - [darwinanddavis/UsefulCode](https://github.com/darwinanddavis/UsefulCode) - Useful R code for functions, plotting, cool things {R}
 - [kellobri/spc-app](https://github.com/kellobri/spc-app) - 
 - [rstudio/rstudio-conf](https://github.com/rstudio/rstudio-conf) - Materials for rstudio::conf
-- [ThinkR-open/engineering-shiny-book](https://github.com/ThinkR-open/engineering-shiny-book) - Engineering Production-Grade Shiny Apps — To be published in the R Series in 2021.
 - [ThinkR-open/licensing-r](https://github.com/ThinkR-open/licensing-r) - A Bookdown about R & licenses
 - [mlysy/rdoxygen](https://github.com/mlysy/rdoxygen) - Create doxygen documentation for R package C++ code
 - [lbusett/insert_table](https://github.com/lbusett/insert_table) - R function and addin to easily insert tables in Rmd code chunks
@@ -2375,6 +2377,7 @@
 
 ## Others 
 
+- [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community &lt;3
 - [ScoopInstaller/Binary](https://github.com/ScoopInstaller/Binary) - 🗄 Scoops mirror for binaries that are no longer available
 - [ztj1993/scoop-index](https://github.com/ztj1993/scoop-index) - 
 - [snaphat/alias-additions](https://github.com/snaphat/alias-additions) - Additional aliases for scoop to ease updating and searching for apps.
@@ -2562,7 +2565,6 @@
 - [vladdeSV/my-windows](https://github.com/vladdeSV/my-windows) - 🕶️ Showcase of my personal computer
 - [allinu/Awesome-Windows](https://github.com/allinu/Awesome-Windows) - Windows 平台下的优秀软件、工具推荐列表
 - [dpteam/AwesomeDPT-WindowsSoft](https://github.com/dpteam/AwesomeDPT-WindowsSoft) - 💻 Список программного обеспечения, которое DartPower Team советует установить каждому!
-- [AtakanErmis/Windows10A](https://github.com/AtakanErmis/Windows10A) - My Windows 10 customizations & programs I use. (A for Atakan)
 - [StymiedSloth/awesome-windows-store-apps](https://github.com/StymiedSloth/awesome-windows-store-apps) - ⌨️ An awesome & curated list of well designed and tools from the Windows Store.
 - [FrostMiKu/Awesome-Windows-Software](https://github.com/FrostMiKu/Awesome-Windows-Software) - 😎👍 A list of efficiency software for Windows
 - [Toxblh/Awesome-Windows-Apps](https://github.com/Toxblh/Awesome-Windows-Apps) - 💾 Awesome windows apps which you need to try
@@ -3228,7 +3230,7 @@
 - [lukesampson/scoop-extras](https://github.com/lukesampson/scoop-extras) - "Extras" bucket for Scoop
 - [SegoCode/Reg-importer](https://github.com/SegoCode/Reg-importer) - Easy import registry configurations for new windows install - Json values to registry
 - [Metaljisawa/OptimizationWindowsV1](https://github.com/Metaljisawa/OptimizationWindowsV1) - Short script ps1 for remove the unnecessary part on Windows 10
-- [LeDragoX/Win10SmartDebloat](https://github.com/LeDragoX/Win10SmartDebloat) - This is an adapted version from https://github.com/W4RH4WK/Debloat-Windows-10. These scripts will Customize, Debloat and Improve Security/Performance on Windows 10.
+- [LeDragoX/Win10SmartDebloat](https://github.com/LeDragoX/Win10SmartDebloat) - This is an adapted version from https://github.com/W4RH4WK/Debloat-Windows-10. These scripts will Customize, Debloat and Improve Security/Performance on Windows 10/11.
 - [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
 - [canonical/ubuntu-cooker](https://github.com/canonical/ubuntu-cooker) - Ubuntu WSL UWP Builder
 - [Phil-Factor/SQLCloneFamily](https://github.com/Phil-Factor/SQLCloneFamily) - 
@@ -3369,6 +3371,7 @@
 
 ## Python 
 
+- [jonathan-s/pelican-obsidian](https://github.com/jonathan-s/pelican-obsidian) - Makes it possible to bridge work in obsidian to pelican seamlessly
 - [click-contrib/click-man](https://github.com/click-contrib/click-man) - Automate generation of man pages for python click applications :star:
 - [polar147/RCloneBackup](https://github.com/polar147/RCloneBackup) - A Reverse Incremental Backup Script for RClone with support for Windows/Linux/Mac with Volume Shadow Copy (VSS) and email report.
 - [Kaggle/kaggle-api](https://github.com/Kaggle/kaggle-api) - Official Kaggle API
@@ -3723,6 +3726,7 @@
 
 ## R 
 
+- [DeclareDesign/fabricatr](https://github.com/DeclareDesign/fabricatr) - fabricatr: Imagine Your Data Before You Collect It
 - [talgalili/installr](https://github.com/talgalili/installr) - Functions for installing softwares from within R
 - [anaidpm/R-viz](https://github.com/anaidpm/R-viz) - IBM R visualisation course
 - [anaidpm/rladies](https://github.com/anaidpm/rladies) - 
@@ -5189,7 +5193,6 @@
 - [business-science/tidyquant](https://github.com/business-science/tidyquant) - Bringing financial analysis to the tidyverse
 - [moodymudskipper/liblog](https://github.com/moodymudskipper/liblog) - Log Calls to loadNamespace
 - [coolbutuseless/arcadefont](https://github.com/coolbutuseless/arcadefont) - Oldschool arcade vector font
-- [coolbutuseless/arcadefont](https://github.com/coolbutuseless/arcadefont) - Oldschool arcade vector font
 - [sckott/webmiddens](https://github.com/sckott/webmiddens) - cache http requests
 - [gadenbuie/shrtcts](https://github.com/gadenbuie/shrtcts) - Make Anything an RStudio Shortcut
 - [rstudio/bookdown.org](https://github.com/rstudio/bookdown.org) - Source documents to generate the bookdown.org website
@@ -6444,6 +6447,7 @@
 
 ## Shell 
 
+- [logseq/git-auto](https://github.com/logseq/git-auto) - A Simple Shell Script To Do Git Commit And Push Automatically
 - [udacity/create-your-own-adventure](https://github.com/udacity/create-your-own-adventure) - This is example repo illustrates the concept of a "Pull Request", created as part of the course How to Use Git and GitHub
 - [ScoopInstaller/Excavator](https://github.com/ScoopInstaller/Excavator) - 🕳️ This container runs the updating services for all scoop manifest repos
 - [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
@@ -6813,6 +6817,7 @@
 - [cliffordlau/cas-data-vis-wp](https://github.com/cliffordlau/cas-data-vis-wp) - CAS Data Visualization Working Party
 - [Pakillo/rmdTemplates](https://github.com/Pakillo/rmdTemplates) - Rmarkdown templates for reproducible science
 - [bdcaf/cookiecutter-r-data-analysis](https://github.com/bdcaf/cookiecutter-r-data-analysis) - cookie cutter template for my r workflow
+- [ThinkR-open/engineering-shiny-book](https://github.com/ThinkR-open/engineering-shiny-book) - Engineering Production-Grade Shiny Apps — To be published in the R Series in 2021.
 - [rstudio/rticles](https://github.com/rstudio/rticles) - LaTeX Journal Article Templates for R Markdown
 - [lervag/vimtex](https://github.com/lervag/vimtex) - VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
 - [csgillespie/efficientR](https://github.com/csgillespie/efficientR) - Efficient R programming: a book
@@ -7050,7 +7055,7 @@
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [ionic-team/stencil](https://github.com/ionic-team/stencil) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and traditional web developers from a single, framework-agnostic codebase.
 - [luvsic3/issue-md-generator](https://github.com/luvsic3/issue-md-generator) - A command-line tool to generate markdown list from your github repository issue page
-- [REditorSupport/vscode-R](https://github.com/REditorSupport/vscode-R) - R Extension for Visual Studio Code (execution, snippet, R documentation, R Markdown)
+- [REditorSupport/vscode-R](https://github.com/REditorSupport/vscode-R) - R Extension for Visual Studio Code
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
 - [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes) - Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization options.
