@@ -122,10 +122,18 @@
 
 ## AutoIt 
 
+- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC isn't Windows 11  Release Ready
 - [rizonesoft/Resolute](https://github.com/rizonesoft/Resolute) - 
 
 ## Batchfile 
 
+- [ITCMD/DISM-Manager](https://github.com/ITCMD/DISM-Manager) - Manage Dism and WinPE with this program!
+- [kuzi-moto/WinPEHelper](https://github.com/kuzi-moto/WinPEHelper) - Powershell modules that run without being in the Deployment and Imaging Tools environment
+- [Pernat1y/winpe_scripts](https://github.com/Pernat1y/winpe_scripts) - Scripts to work with WinPE images
+- [cmartinezone/DriveSanitizer](https://github.com/cmartinezone/DriveSanitizer) - DriveSanitizer Cleans multiple storage drives simultaneously and secure
+- [gdiaz384/ADKTools](https://github.com/gdiaz384/ADKTools) - ADKTools provides a set of windows scripts to help manage ADKs, WIM images and WinPE.
+- [semaluo/MakePE](https://github.com/semaluo/MakePE) - Scripts used to build WinPE 3, WinPE 5, and WinPE 10
+- [solucky11/winpe_script](https://github.com/solucky11/winpe_script) - Backup and Restore Image
 - [AlexanderOnischuk/BackupRestoreREG](https://github.com/AlexanderOnischuk/BackupRestoreREG) - Backup/Restore Windows registry hives
 - [vegardit/cygwin-portable-installer](https://github.com/vegardit/cygwin-portable-installer) - Windows batch file to perform unattended installations of a portable Cygwin environment.
 - [NARCOTIC/Windows-Optimizer](https://github.com/NARCOTIC/Windows-Optimizer) - Windows-Optimizer is a batch program. This program is Optimizing and Defragmenting All Connected Storage Drives & Fixing File System Errors.
@@ -260,6 +268,11 @@
 
 ## C# # 
 
+- [brunopaiva15/Redows](https://github.com/brunopaiva15/Redows) - Redows is a free and Open source utility for Windows.
+- [brunopaiva15/WinPE-Creation-Tool](https://github.com/brunopaiva15/WinPE-Creation-Tool) - WinPE Creation Tool is a free and Open source utility that allows you to create a complete WinPE environment, including a directory, an ISO and a bootable USB key.
+- [pebakery/pebakery](https://github.com/pebakery/pebakery) - PEBakery is a script engine that specializes in customizing the Windows Preinstalled Environment (WinPE/WinRE).
+- [CakeRepository/Buildo](https://github.com/CakeRepository/Buildo) - Build automation for Windows Devices
+- [CakeRepository/Friendly-Dism](https://github.com/CakeRepository/Friendly-Dism) - A GUI to make Dism a little more friendly
 - [ScoopInstaller/Shim](https://github.com/ScoopInstaller/Shim) - A Scoop helper program for shimming executables
 - [chocolatey/ChocolateyGUI](https://github.com/chocolatey/ChocolateyGUI) - A delicious GUI for Chocolatey
 - [asdfjkl/yahb](https://github.com/asdfjkl/yahb) - Deduplicating File-Copy/Backup Tool (Commandline)
@@ -335,7 +348,6 @@
 - [b3coded/file-organizer](https://github.com/b3coded/file-organizer) - :rocket: Organize your files faster with a few clicks.
 - [saulojoab/Quick-File-Organizer](https://github.com/saulojoab/Quick-File-Organizer) - :rocket: Quickly organize files in a folder with a few clicks.
 - [webprofusion/certify](https://github.com/webprofusion/certify) - SSL Certificate Manager UI for Windows, powered by Let's Encrypt and compatible with all ACME v2 CAs. Download from certifytheweb.com
-- [RickStrahl/MarkdownMonster](https://github.com/RickStrahl/MarkdownMonster) - An extensible Markdown Editor, Viewer and Weblog Publisher for Windows
 - [LazoCoder/Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - Creative and unusual things that can be done with the Windows API.
 - [lucasg/Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
 - [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
@@ -969,6 +981,7 @@
 
 ## HCL 
 
+- [marcinbojko/hv-packer](https://github.com/marcinbojko/hv-packer) - Hyper-V Generation 2 Packer Templates for Windows 2016/2019, Windows Server and CentOS 7.x/AlmaLinux 8.x
 - [GoogleCloudPlatform/solutions-terraform-cloudbuild-gitops](https://github.com/GoogleCloudPlatform/solutions-terraform-cloudbuild-gitops) - 
 - [ryboe/private-ip-cloud-sql-db](https://github.com/ryboe/private-ip-cloud-sql-db) - An example set of terraform files for deploying a Cloud SQL DB with a private IP address only
 - [robwleack/terraform-gcp-keys-example](https://github.com/robwleack/terraform-gcp-keys-example) - An example of how you could define cryptographic keys and bindings in a complex object using for_each
@@ -1145,6 +1158,7 @@
 - [foambubble/foam-template](https://github.com/foambubble/foam-template) - Foam workpace template
 - [byrnereese/mkdocs-bootstrap4](https://github.com/byrnereese/mkdocs-bootstrap4) - Bootstrap 4.0+ theme for MkDocs
 - [raghuveerdotnet/scratchpad](https://github.com/raghuveerdotnet/scratchpad) - As the name suggests, this is my scratchpad to try out code to understand a concept or try out new ideas
+- [RickStrahl/MarkdownMonster](https://github.com/RickStrahl/MarkdownMonster) - An extensible Markdown Editor, Viewer and Weblog Publisher for Windows
 - [xfirefly/Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) - Airplay Receiver SDK supports Airplay Mirroring and AirPlay Casting to a receiver device.
 - [r4ds/bookclub-rpkgs](https://github.com/r4ds/bookclub-rpkgs) - 
 - [gadenbuie/garrickadenbuie-com](https://github.com/gadenbuie/garrickadenbuie-com) - My personal website
@@ -1449,6 +1463,7 @@
 
 ## JavaScript 
 
+- [cmartinezone/MDTCustom](https://github.com/cmartinezone/MDTCustom) - Customizing Windows images, scripts and deployments with MDT (Microsoft Deployment Toolkit)
 - [xg-wang/.obsidian](https://github.com/xg-wang/.obsidian) - Obsidian configs
 - [jawil/blog](https://github.com/jawil/blog) - Too young, too simple. Sometimes, naive & stupid 🐌
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
@@ -1811,7 +1826,7 @@
 - [chrisfitkin/gatsby-query-string-demo](https://github.com/chrisfitkin/gatsby-query-string-demo) - Demonstrates dynamic content based on query string values in Gatsby
 - [louislow81/louislow81.github.io](https://github.com/louislow81/louislow81.github.io) - My personal and portfolio website built with Krugurt.js (Krugurt.js + Yogurt.css)
 - [sinedied/publish-devto](https://github.com/sinedied/publish-devto) - :postbox: GitHub Action to publish markdown files on dev.to platform, with assets hosted on GitHub.
-- [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - 🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.
+- [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - 🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [ottomatica/docable-notebooks](https://github.com/ottomatica/docable-notebooks) - :ledger: Next-Generation Interactive Notebooks
 - [vanila-io/wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
 - [wakatime/chrome-wakatime](https://github.com/wakatime/chrome-wakatime) - Chrome extension for automatic time tracking and metrics generated from your browsing activity.
@@ -2377,6 +2392,10 @@
 
 ## Others 
 
+- [byteben/OSDBuilder](https://github.com/byteben/OSDBuilder) - PowerShell Module
+- [byteben/Registry](https://github.com/byteben/Registry) - Code to manipulate Windows Registry
+- [Hoorge/WIM-Witch](https://github.com/Hoorge/WIM-Witch) - WIM Witch
+- [pebakery/pebakery-docs](https://github.com/pebakery/pebakery-docs) - The Official PEBakery Documentation. The Master branch contains current docs for the latest stable release of PEBakery. The Develop branch includes changes and features introduced in nightly builds and may change without notice.
 - [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community &lt;3
 - [ScoopInstaller/Binary](https://github.com/ScoopInstaller/Binary) - 🗄 Scoops mirror for binaries that are no longer available
 - [ztj1993/scoop-index](https://github.com/ztj1993/scoop-index) - 
@@ -3178,6 +3197,39 @@
 
 ## PowerShell 
 
+- [byteben/Get-SoftwareUpdates](https://github.com/byteben/Get-SoftwareUpdates) - Connect to SCCM Collections and enumerate Required Software Updates with WMI
+- [byteben/Dell](https://github.com/byteben/Dell) - PowerShell Scripts primarily using the Dell Command PowerShell Provider Module
+- [byteben/Dev](https://github.com/byteben/Dev) - 
+- [byteben/File-Associations](https://github.com/byteben/File-Associations) - 
+- [byteben/Registry-Scripts](https://github.com/byteben/Registry-Scripts) - Repository for Registry Manipulation Scripts
+- [byteben/DNS](https://github.com/byteben/DNS) - Powershell Scripts for DNS Functions
+- [byteben/M365](https://github.com/byteben/M365) - 
+- [byteben/OneDrive](https://github.com/byteben/OneDrive) - PowerShell Scripts for OneDrive Discovery and remediation in WIndows 10 / SCCM
+- [byteben/MEM](https://github.com/byteben/MEM) - 
+- [byteben/Win32App-Migration-Tool](https://github.com/byteben/Win32App-Migration-Tool) - 
+- [byteben/Windows-10](https://github.com/byteben/Windows-10) - Repository for uncategorized Windows 10 Scripts
+- [microsoft/configmgr-hub](https://github.com/microsoft/configmgr-hub) - Open source repository for the System Center Configuration Manager Hub.
+- [johnyoakum/DriverManagement](https://github.com/johnyoakum/DriverManagement) - This repo is for the way I am automatically managing Dell drivers for SCCM. I also included my rendition of the Driver Automation script for applying drivers to computers during OSD.
+- [johnyoakum/PowershellScripts](https://github.com/johnyoakum/PowershellScripts) - 
+- [johnyoakum/DynamicApplicationChooser](https://github.com/johnyoakum/DynamicApplicationChooser) - 
+- [btnhd/TheServerRoom](https://github.com/btnhd/TheServerRoom) - Weekly shows notes are added here.
+- [Layer8Err/WinPE_Recovery](https://github.com/Layer8Err/WinPE_Recovery) - Build a Windows 10 recovery environment with support for network-based image recovery.
+- [rgl/windows-pe-vagrant](https://github.com/rgl/windows-pe-vagrant) - An example Windows PE (WinPE) iso built in a vagrant environment
+- [UXabre/WIMan](https://github.com/UXabre/WIMan) - WIMan is a Windows Image Generator for The Foreman. It creates both the WinPE file as well as the Windows images with a zero-hassle approach
+- [kbarnes3/WinPE-Installer](https://github.com/kbarnes3/WinPE-Installer) - A custom Windows installer based on WinPE
+- [cmartinezone/CM-PScripts](https://github.com/cmartinezone/CM-PScripts) - Carlos Martinez + PowerShell = Scripts
+- [cloudbase/adk-tools-maas](https://github.com/cloudbase/adk-tools-maas) - ADK tools for automated WinPE provisioning in MaaS
+- [tabs-not-spaces/Intune.USB.Creator](https://github.com/tabs-not-spaces/Intune.USB.Creator) - A module containing tools to assist with the creation of a bootable WinPE USB used to provision devices for enrollment to Intune.
+- [OSDeploy/OSDCloud](https://github.com/OSDeploy/OSDCloud) - OSDCloud is a process to fully deploy a Windows OS from a WinPE Environment
+- [PowerShellMafia/WinPETools](https://github.com/PowerShellMafia/WinPETools) - A module designed to simplify the creation, customization, and deployment of bootable Windows Preinstallation Environment (WinPE) images.
+- [x0nn/Convert-WindowsImage](https://github.com/x0nn/Convert-WindowsImage) - Creates a Windows VM for Hyper-V from a Windows-ISO
+- [fdcastel/Hyper-V-Automation](https://github.com/fdcastel/Hyper-V-Automation) - Collection of Powershell scripts to create Windows and Ubuntu VMs in Hyper-V.
+- [mwrock/packer-templates](https://github.com/mwrock/packer-templates) - Templates for creating vagrant boxes
+- [MattHodge/PackerTemplates](https://github.com/MattHodge/PackerTemplates) - Packer Templates for building Windows Operating Systems
+- [CakeRepository/windows_updates](https://github.com/CakeRepository/windows_updates) - Powershell scripts to run windows updates
+- [CakeRepository/PPKG-Export-to-ISO](https://github.com/CakeRepository/PPKG-Export-to-ISO) - Export PPKG File to ISO
+- [CakeRepository/WindowsUpgrade](https://github.com/CakeRepository/WindowsUpgrade) - Runs Windows 10 ISO from online path and upgrades Windows 10 using setup.exe commands
+- [jianyunt/ChocolateyGet](https://github.com/jianyunt/ChocolateyGet) - ChocolateyGet provider allows to download packages from Chocolatey.org repository via OneGet
 - [gabrielmccoll/PackerTemplates](https://github.com/gabrielmccoll/PackerTemplates) - most of all the windows stuff has come from https://github.com/StefanScherer/packer-windows
 - [pBouillon/personal-tooling](https://github.com/pBouillon/personal-tooling) - My configuration files and other scripts I use to automate some tasks
 - [ScoopInstaller/GitCloner](https://github.com/ScoopInstaller/GitCloner) - A small helper script that clones a Git repository
@@ -3280,7 +3332,7 @@
 - [vors/ZLocation](https://github.com/vors/ZLocation) - ZLocation is the new Jump-Location
 - [jimbrig/winsetup](https://github.com/jimbrig/winsetup) - Windows 10 Setup
 - [asears/WindowsSetup](https://github.com/asears/WindowsSetup) - Apps for Windows
-- [pratyakshm/CleanWin](https://github.com/pratyakshm/CleanWin) - Cool underrated code that sets up Windows.
+- [pratyakshm/CleanWin](https://github.com/pratyakshm/CleanWin) - Automates Windows settings
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [Daksh777/windows10-debloat](https://github.com/Daksh777/windows10-debloat) - Collection of various scripts and apps to debloat Windows 10 for better privacy, performance and optimization.
 - [gordonbay/Windows-On-Reins](https://github.com/gordonbay/Windows-On-Reins) - Windows 10 Ameliorated, Debloat, Optimize, Privacy fix
@@ -3371,6 +3423,7 @@
 
 ## Python 
 
+- [btnhd/BTNHD](https://github.com/btnhd/BTNHD) - All files (notes, scripts, and reference links) used within YouTube videos are placed here.
 - [jonathan-s/pelican-obsidian](https://github.com/jonathan-s/pelican-obsidian) - Makes it possible to bridge work in obsidian to pelican seamlessly
 - [click-contrib/click-man](https://github.com/click-contrib/click-man) - Automate generation of man pages for python click applications :star:
 - [polar147/RCloneBackup](https://github.com/polar147/RCloneBackup) - A Reverse Incremental Backup Script for RClone with support for Windows/Linux/Mac with Volume Shadow Copy (VSS) and email report.
@@ -7164,6 +7217,8 @@
 
 ## Visual Basic 
 
+- [CakeRepository/Office-IT-Pro-Deployment-Scripts](https://github.com/CakeRepository/Office-IT-Pro-Deployment-Scripts) - A collection of useful PowerShell scripts to make deploying Office 2016 and Office 365 ProPlus easier for IT Pros and administrators.  If you have any feature requests or ideas for future scripts please add the idea to the issues list in this repository
+- [CakeRepository/Office-InstallHelper](https://github.com/CakeRepository/Office-InstallHelper) - 
 - [curipha/dotfiles_w](https://github.com/curipha/dotfiles_w) - dotfiles for Windows
 
 ## Visual Basic .NET 
