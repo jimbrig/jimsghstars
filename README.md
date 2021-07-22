@@ -110,6 +110,7 @@
 
 ## AutoHotkey 
 
+- [denolfe/AutoHotkeyBoilerplate](https://github.com/denolfe/AutoHotkeyBoilerplate) - An AutoHotkey boilerplate to help jumpstart a script for personal productivity
 - [emisjerry/admonitions](https://github.com/emisjerry/admonitions) - AutoHotkey GUI for Obsidian-Admonitions plugin
 - [vincvincvinc/autohotkey-scripts](https://github.com/vincvincvinc/autohotkey-scripts) - Collection of autohotkey scripts I use. Most are hacky mash-ups of self-made and copy-pasted.
 - [JuanmaMenendez/AutoHotkey-script-Open-Show-Apps](https://github.com/JuanmaMenendez/AutoHotkey-script-Open-Show-Apps) - AutoHotkey script to open, restore or minimize, Window's and Chrome's Apps using hotkeys
@@ -122,7 +123,7 @@
 
 ## AutoIt 
 
-- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC isn't Windows 11  Release Ready
+- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11  Release Ready
 - [rizonesoft/Resolute](https://github.com/rizonesoft/Resolute) - 
 
 ## Batchfile 
@@ -783,6 +784,7 @@
 
 ## Go 
 
+- [criscola/raindrop-todoist](https://github.com/criscola/raindrop-todoist) - A lightweight Docker microservice written in Go to synchronize Raindrop bookmarks with Todoist tasks.
 - [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [GoogleCloudPlatform/docker-credential-gcr](https://github.com/GoogleCloudPlatform/docker-credential-gcr) - A Docker credential helper for GCR users
@@ -1463,6 +1465,11 @@
 
 ## JavaScript 
 
+- [pjeby/hotkey-helper](https://github.com/pjeby/hotkey-helper) - Easily see and access any Obsidian plugin's options pane or hotkey assignments (including conflicts) from the Community Plugins tab
+- [pavel-john/markdown-file-tree](https://github.com/pavel-john/markdown-file-tree) - Generate file-tree in markdown (`_Sidebar.md`) for Github wiki, including links to files.
+- [raindropio/extensions](https://github.com/raindropio/extensions) - Source code of Raindrop.io browser extension (Chrome, Firefox, Opera)
+- [raindropio/desktop](https://github.com/raindropio/desktop) - Official Raindrop.io Desktop App
+- [jimbrig/.obsidian](https://github.com/jimbrig/.obsidian) - Default Obsidian Vault Configurations
 - [cmartinezone/MDTCustom](https://github.com/cmartinezone/MDTCustom) - Customizing Windows images, scripts and deployments with MDT (Microsoft Deployment Toolkit)
 - [xg-wang/.obsidian](https://github.com/xg-wang/.obsidian) - Obsidian configs
 - [jawil/blog](https://github.com/jawil/blog) - Too young, too simple. Sometimes, naive & stupid 🐌
@@ -2392,6 +2399,9 @@
 
 ## Others 
 
+- [e-sence/keyboard-shortcuts](https://github.com/e-sence/keyboard-shortcuts) - Popular applications keyboard combinations
+- [jdtrat/shinyreport](https://github.com/jdtrat/shinyreport) - 
+- [jimbrig/universe](https://github.com/jimbrig/universe) - 
 - [byteben/OSDBuilder](https://github.com/byteben/OSDBuilder) - PowerShell Module
 - [byteben/Registry](https://github.com/byteben/Registry) - Code to manipulate Windows Registry
 - [Hoorge/WIM-Witch](https://github.com/Hoorge/WIM-Witch) - WIM Witch
@@ -3197,6 +3207,8 @@
 
 ## PowerShell 
 
+- [jimbrig/WindowsPowerShell](https://github.com/jimbrig/WindowsPowerShell) - Windows PowerShell Profile Directory
+- [jimbrig/PowerShell](https://github.com/jimbrig/PowerShell) - PowerShell Core Profile Directory Backup
 - [byteben/Get-SoftwareUpdates](https://github.com/byteben/Get-SoftwareUpdates) - Connect to SCCM Collections and enumerate Required Software Updates with WMI
 - [byteben/Dell](https://github.com/byteben/Dell) - PowerShell Scripts primarily using the Dell Command PowerShell Provider Module
 - [byteben/Dev](https://github.com/byteben/Dev) - 
@@ -3282,7 +3294,7 @@
 - [lukesampson/scoop-extras](https://github.com/lukesampson/scoop-extras) - "Extras" bucket for Scoop
 - [SegoCode/Reg-importer](https://github.com/SegoCode/Reg-importer) - Easy import registry configurations for new windows install - Json values to registry
 - [Metaljisawa/OptimizationWindowsV1](https://github.com/Metaljisawa/OptimizationWindowsV1) - Short script ps1 for remove the unnecessary part on Windows 10
-- [LeDragoX/Win10SmartDebloat](https://github.com/LeDragoX/Win10SmartDebloat) - This is an adapted version from https://github.com/W4RH4WK/Debloat-Windows-10. These scripts will Customize, Debloat and Improve Security/Performance on Windows 10/11.
+- [LeDragoX/Win10SmartDebloat](https://github.com/LeDragoX/Win10SmartDebloat) - This is an adapted version from https://github.com/W4RH4WK/Debloat-Windows-10. These scripts will Customize, Debloat and Improve Security/Performance on Windows 10/Newer.
 - [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
 - [canonical/ubuntu-cooker](https://github.com/canonical/ubuntu-cooker) - Ubuntu WSL UWP Builder
 - [Phil-Factor/SQLCloneFamily](https://github.com/Phil-Factor/SQLCloneFamily) - 
@@ -3423,6 +3435,7 @@
 
 ## Python 
 
+- [martapanc/Raindrop.io-digest](https://github.com/martapanc/Raindrop.io-digest) - 
 - [btnhd/BTNHD](https://github.com/btnhd/BTNHD) - All files (notes, scripts, and reference links) used within YouTube videos are placed here.
 - [jonathan-s/pelican-obsidian](https://github.com/jonathan-s/pelican-obsidian) - Makes it possible to bridge work in obsidian to pelican seamlessly
 - [click-contrib/click-man](https://github.com/click-contrib/click-man) - Automate generation of man pages for python click applications :star:
@@ -3461,7 +3474,7 @@
 - [tonycpsu/streamglob](https://github.com/tonycpsu/streamglob) - A console media browser designed to facilitate live and time-shifted viewing of online content.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [wal-e/wal-e](https://github.com/wal-e/wal-e) - Continuous Archiving for Postgres
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is developer-friendly, open-source product analytics.
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self host.
 - [kennethreitz/records](https://github.com/kennethreitz/records) - SQL for Humans™
 - [PostgREST/postgrest-docs](https://github.com/PostgREST/postgrest-docs) - Documentation for PostgREST
 - [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
@@ -3779,6 +3792,7 @@
 
 ## R 
 
+- [jimbrig/Scripts](https://github.com/jimbrig/Scripts) - Useful Scripts and Snippets across various interfaces
 - [DeclareDesign/fabricatr](https://github.com/DeclareDesign/fabricatr) - fabricatr: Imagine Your Data Before You Collect It
 - [talgalili/installr](https://github.com/talgalili/installr) - Functions for installing softwares from within R
 - [anaidpm/R-viz](https://github.com/anaidpm/R-viz) - IBM R visualisation course
@@ -3865,7 +3879,7 @@
 - [subugoe/muggle](https://github.com/subugoe/muggle) - Opinionated Devops for R Data Products Strictly Without Magic
 - [Sparrow0hawk/mynearestleedsmarginal](https://github.com/Sparrow0hawk/mynearestleedsmarginal) - R Shiny web app getting volunteers to marginal seats
 - [sckott/chimpr](https://github.com/sckott/chimpr) - mailchimp R client
-- [PavanVaddady/modvizpop](https://github.com/PavanVaddady/modvizpop) - R Shiny Based Population PK/PD Model Simulator
+- [PavanVaddady/modvizpop](https://github.com/PavanVaddady/modvizpop) - Shiny Based Population PK/PD Model Simulator
 - [ropensci/nlrx](https://github.com/ropensci/nlrx) - nlrx NetLogo R
 - [maelle/exemplighratia](https://github.com/maelle/exemplighratia) - Example package for https://github.com/ropensci-books/http-testing
 - [flujoo/erify](https://github.com/flujoo/erify) - R package to check arguments and generate informative and good-formatted error messages
@@ -6500,6 +6514,7 @@
 
 ## Shell 
 
+- [jimscratch/obsidian-test-sync-vault](https://github.com/jimscratch/obsidian-test-sync-vault) - 
 - [logseq/git-auto](https://github.com/logseq/git-auto) - A Simple Shell Script To Do Git Commit And Push Automatically
 - [udacity/create-your-own-adventure](https://github.com/udacity/create-your-own-adventure) - This is example repo illustrates the concept of a "Pull Request", created as part of the course How to Use Git and GitHub
 - [ScoopInstaller/Excavator](https://github.com/ScoopInstaller/Excavator) - 🕳️ This container runs the updating services for all scoop manifest repos
@@ -6531,7 +6546,7 @@
 - [klmr/switch-r](https://github.com/klmr/switch-r) - R version switcher for macOS
 - [tallguyjenks/Obsidian-CLI](https://github.com/tallguyjenks/Obsidian-CLI) - Opening Obsidian files with the command line
 - [GoogleCloudPlatform/shell-samples](https://github.com/GoogleCloudPlatform/shell-samples) - 
-- [GoogleCloudPlatform/puppet-google-logging](https://github.com/GoogleCloudPlatform/puppet-google-logging) - Managed Google Stackdriver Logging Agent via Puppet
+- [GoogleCloudPlatform/google-cloud-ops-agents-puppet](https://github.com/GoogleCloudPlatform/google-cloud-ops-agents-puppet) - Managed Google Stackdriver Logging Agent via Puppet
 - [mrzool/bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults
 - [pmorelli92/github-container-registry-build-push](https://github.com/pmorelli92/github-container-registry-build-push) - Github Action that builds and pushes a docker image to Github Container Registry
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
@@ -6881,6 +6896,8 @@
 
 ## TypeScript 
 
+- [luhmann/evernote-to-raindrop-exporter](https://github.com/luhmann/evernote-to-raindrop-exporter) - Export your Evernote-Notes that contain a url (usually added by the Evernote Webclipper) to raindrop.io.
+- [chhoumann/MetaEdit](https://github.com/chhoumann/MetaEdit) - MetaEdit for Obsidian
 - [chhoumann/quickadd](https://github.com/chhoumann/quickadd) - QuickAdd for Obsidian
 - [pnp/cli-microsoft365](https://github.com/pnp/cli-microsoft365) - Manage Microsoft 365 and SharePoint Framework projects on any platform
 - [blake-mealey/vscode-generate-wt-scheme](https://github.com/blake-mealey/vscode-generate-wt-scheme) - Generate Windows Terminal color schemes from your VSCode themes
