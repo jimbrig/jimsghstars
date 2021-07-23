@@ -1155,6 +1155,7 @@
 - [yihui/xran](https://github.com/yihui/xran) - Xie's R Archive Network (experimental and for my personal interest only)
 - [w01fgang/webhook-logger](https://github.com/w01fgang/webhook-logger) - 
 - [znlbwo/gitstars](https://github.com/znlbwo/gitstars) - Github Stars Repositories Manager
+- [lewislow81/lewislow81.github.io](https://github.com/lewislow81/lewislow81.github.io) - My personal and portfolio website
 - [ianw/bottomupcs](https://github.com/ianw/bottomupcs) - Bottom Up Computer Science
 - [rust-lang/compiler-team](https://github.com/rust-lang/compiler-team) - A home for compiler team planning documents, meeting minutes, and other such things.
 - [foambubble/foam-template](https://github.com/foambubble/foam-template) - Foam workpace template
@@ -1831,7 +1832,6 @@
 - [mozilla/nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 - [rstudio/reactlog](https://github.com/rstudio/reactlog) - Shiny Reactivity Visualizer
 - [chrisfitkin/gatsby-query-string-demo](https://github.com/chrisfitkin/gatsby-query-string-demo) - Demonstrates dynamic content based on query string values in Gatsby
-- [louislow81/louislow81.github.io](https://github.com/louislow81/louislow81.github.io) - My personal and portfolio website built with Krugurt.js (Krugurt.js + Yogurt.css)
 - [sinedied/publish-devto](https://github.com/sinedied/publish-devto) - :postbox: GitHub Action to publish markdown files on dev.to platform, with assets hosted on GitHub.
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - 🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [ottomatica/docable-notebooks](https://github.com/ottomatica/docable-notebooks) - :ledger: Next-Generation Interactive Notebooks
@@ -3644,7 +3644,6 @@
 - [nolte/gitlab-bulkcheckout](https://github.com/nolte/gitlab-bulkcheckout) - Gitlab Bulkcheckout
 - [apenwarr/redo](https://github.com/apenwarr/redo) - Smaller, easier, more powerful, and more reliable than make.  An implementation of djb's redo.
 - [Iristyle/ChocolateyPackages](https://github.com/Iristyle/ChocolateyPackages) - Chocolatey Install Packages
-- [bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - nginx Docker image secure by default.
 - [shadowmoose/RedditDownloader](https://github.com/shadowmoose/RedditDownloader) - Scrapes Reddit to download media of your choice.
 - [smart-data-models/incubated](https://github.com/smart-data-models/incubated) - A holding repository for immature data models still under development. Once completed, these data models are moved across to the appropriate domain repository
 - [GoogleCloudPlatform/functions-framework-python](https://github.com/GoogleCloudPlatform/functions-framework-python) - FaaS (Function as a service) framework for writing portable Python functions
@@ -3792,6 +3791,7 @@
 
 ## R 
 
+- [analythium/openfaas-rstats-templates](https://github.com/analythium/openfaas-rstats-templates) - OpenFaaS templates for R
 - [jimbrig/Scripts](https://github.com/jimbrig/Scripts) - Useful Scripts and Snippets across various interfaces
 - [DeclareDesign/fabricatr](https://github.com/DeclareDesign/fabricatr) - fabricatr: Imagine Your Data Before You Collect It
 - [talgalili/installr](https://github.com/talgalili/installr) - Functions for installing softwares from within R
@@ -6514,6 +6514,7 @@
 
 ## Shell 
 
+- [aws-samples/aws-fargate-with-rstudio-open-source](https://github.com/aws-samples/aws-fargate-with-rstudio-open-source) - This project delivers AWS CDK Python code to provision serverless infrastructure in AWS Cloud to run Open Source RStudio Server and Shiny.
 - [jimscratch/obsidian-test-sync-vault](https://github.com/jimscratch/obsidian-test-sync-vault) - 
 - [logseq/git-auto](https://github.com/logseq/git-auto) - A Simple Shell Script To Do Git Commit And Push Automatically
 - [udacity/create-your-own-adventure](https://github.com/udacity/create-your-own-adventure) - This is example repo illustrates the concept of a "Pull Request", created as part of the course How to Use Git and GitHub
@@ -6672,6 +6673,7 @@
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [pietvanzoen/git-get](https://github.com/pietvanzoen/git-get) - Like `go get` but `git`.
 - [jaspernbrouwer/git-flow-hooks](https://github.com/jaspernbrouwer/git-flow-hooks) - Some useful hooks for git-flow (AVH Edition)
+- [bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - nginx Docker image secure by default.
 - [trestletech/rdeps](https://github.com/trestletech/rdeps) - 
 - [rstudio/rstudio-docker-products](https://github.com/rstudio/rstudio-docker-products) - Docker images for RStudio Professional Products
 - [kevinushey/etc](https://github.com/kevinushey/etc) - Scripts, dot files, and other things that make my programming life a happy one
