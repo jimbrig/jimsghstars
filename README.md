@@ -269,6 +269,7 @@
 
 ## C# # 
 
+- [ArkaneDev/WinPass11](https://github.com/ArkaneDev/WinPass11) - 🔑 WinPass11 is a tool for installing Windows 11 on unsupported hardware.
 - [brunopaiva15/Redows](https://github.com/brunopaiva15/Redows) - Redows is a free and Open source utility for Windows.
 - [brunopaiva15/WinPE-Creation-Tool](https://github.com/brunopaiva15/WinPE-Creation-Tool) - WinPE Creation Tool is a free and Open source utility that allows you to create a complete WinPE environment, including a directory, an ISO and a bootable USB key.
 - [pebakery/pebakery](https://github.com/pebakery/pebakery) - PEBakery is a script engine that specializes in customizing the Windows Preinstalled Environment (WinPE/WinRE).
@@ -784,6 +785,7 @@
 
 ## Go 
 
+- [clindet/bget](https://github.com/clindet/bget) - Portable command-line tool to query bioinformatics APIs, data, databases and files.
 - [criscola/raindrop-todoist](https://github.com/criscola/raindrop-todoist) - A lightweight Docker microservice written in Go to synchronize Raindrop bookmarks with Todoist tasks.
 - [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
@@ -1466,6 +1468,7 @@
 
 ## JavaScript 
 
+- [clindet/rctl](https://github.com/clindet/rctl) - A set of command line tools based on R and JavaScript.
 - [pjeby/hotkey-helper](https://github.com/pjeby/hotkey-helper) - Easily see and access any Obsidian plugin's options pane or hotkey assignments (including conflicts) from the Community Plugins tab
 - [pavel-john/markdown-file-tree](https://github.com/pavel-john/markdown-file-tree) - Generate file-tree in markdown (`_Sidebar.md`) for Github wiki, including links to files.
 - [raindropio/extensions](https://github.com/raindropio/extensions) - Source code of Raindrop.io browser extension (Chrome, Firefox, Opera)
@@ -1712,7 +1715,6 @@
 - [DavidWells/markdown-magic](https://github.com/DavidWells/markdown-magic) - 💫  Automatically format markdown files using comment blocks. Update contents via custom transforms, external data sources & your source code.
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [abhisheknaiidu/todoist-readme](https://github.com/abhisheknaiidu/todoist-readme) - 🚧 Updates README with Todoist Stats of a user
-- [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A collection of GitHub Actions for interfacing with Google Cloud Platform.
 - [pegaltier/awesome-utils-dev](https://github.com/pegaltier/awesome-utils-dev) - 📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...
 - [awslabs/serverless-image-handler](https://github.com/awslabs/serverless-image-handler) - A solution to dynamically handle images on the fly, utilizing SharpJS
 - [wouterverweirder/electron-website-downloader](https://github.com/wouterverweirder/electron-website-downloader) - Desktop application to download a website with all of it's internal links and assets to your local machine.
@@ -6904,7 +6906,7 @@
 - [pnp/cli-microsoft365](https://github.com/pnp/cli-microsoft365) - Manage Microsoft 365 and SharePoint Framework projects on any platform
 - [blake-mealey/vscode-generate-wt-scheme](https://github.com/blake-mealey/vscode-generate-wt-scheme) - Generate Windows Terminal color schemes from your VSCode themes
 - [nateshmbhat/windows-terminal-tweaker](https://github.com/nateshmbhat/windows-terminal-tweaker) - Tweak your windows terminal to heart's content with this app using its beautiful interface to configure everything about the terminal.
-- [akosbalasko/obsidian-autotagger-plugin](https://github.com/akosbalasko/obsidian-autotagger-plugin) - This plugin analyses the note content and offers tags based on the content
+- [akosbalasko/obsidian-autotagger-plugin](https://github.com/akosbalasko/obsidian-autotagger-plugin) - This plugin offers smart tags for notes by performing Named Entity Recognition (NER) on the content
 - [atomcorp/themes](https://github.com/atomcorp/themes) - Themes for Windows Terminal
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A complex query language implementation for the Obsidian note-taking tool.
 - [tgrosinger/tq-obsidian](https://github.com/tgrosinger/tq-obsidian) - Yet another Obsidian task manager
@@ -7022,6 +7024,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [Thinkmill/manypkg](https://github.com/Thinkmill/manypkg) - ☔️ An umbrella for your monorepo
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
+- [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A collection of GitHub Actions for interfacing with Google Cloud Platform.
 - [cardinalby/google-api-fetch-token-action](https://github.com/cardinalby/google-api-fetch-token-action) - Call Google Auth API to prevent you refresh token being expired
 - [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry
 - [snyk/release-notes-preview](https://github.com/snyk/release-notes-preview) - GitHub Action for providing release notes preview for semantic releases
