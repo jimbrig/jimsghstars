@@ -171,6 +171,7 @@
 
 ## C 
 
+- [zodiacon/SystemExplorer](https://github.com/zodiacon/SystemExplorer) - Windows System Explorer
 - [rsa9000/regfanalysistools](https://github.com/rsa9000/regfanalysistools) - Low-level MS Windows registry files analysis tools
 - [janbodnar/Windows-API-examples](https://github.com/janbodnar/Windows-API-examples) - Sources from the ZetCode's Windows API tutorial
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
@@ -412,6 +413,8 @@
 
 ## C++ 
 
+- [stla/gfilogisreg](https://github.com/stla/gfilogisreg) - Generalized fiducial inference for the logistic regression model.
+- [stla/jsonStrings](https://github.com/stla/jsonStrings) - Manipulate JSON strings in R.
 - [ThomasThelen/BrowserLib](https://github.com/ThomasThelen/BrowserLib) - A library which makes modification of browsers' behavior easy.
 - [microsoft/WSL-DistroLauncher](https://github.com/microsoft/WSL-DistroLauncher) - Sample/reference launcher app for WSL distro Microsoft Store packages.
 - [DDoSolitary/LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) - A full-featured utility for managing Windows Subsystem for Linux (WSL)
@@ -616,7 +619,7 @@
 - [assemble/assemble](https://github.com/assemble/assemble) - Get the rocks out of your socks! Assemble makes you fast at web development! Used by thousands of projects for rapid prototyping, themes, scaffolds, boilerplates, e-books, UI components, API documentation, blogs, building websites/static site generator, an alternative to Jekyll for gh-pages and more! Gulp- and grunt-friendly.
 - [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️A static blog writing client (一个静态博客写作客户端)
 - [rstudio-education/glossRy](https://github.com/rstudio-education/glossRy) - A glossary of terms used in  and around data science.
-- [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
+- [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. &lt;personal.management.system.pms@gmail.com&gt;
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [busterbenson/obsidian](https://github.com/busterbenson/obsidian) - Obsidian Letterpress Notes
 - [capnfabs/paperesque](https://github.com/capnfabs/paperesque) - A lightweight theme for Hugo (gohugo.io)
@@ -1468,6 +1471,13 @@
 
 ## JavaScript 
 
+- [stla/aceEditor](https://github.com/stla/aceEditor) - A second editor in RStudio.
+- [stla/ReactPaperJS_ApollonianGasket](https://github.com/stla/ReactPaperJS_ApollonianGasket) - Apollonian gasket with React and paper.js
+- [stla/shinyDatetimePicker](https://github.com/stla/shinyDatetimePicker) - A datetime picker for Shiny.
+- [stla/rAmCharts4](https://github.com/stla/rAmCharts4) - An R interface to amCharts 4
+- [stla/findInFiles](https://github.com/stla/findInFiles) - Find a pattern in some files.
+- [stla/shinyToastify](https://github.com/stla/shinyToastify) - A wrapper of the 'React-Toastify' library, for usage in Shiny.
+- [stla/shinyChakraUI](https://github.com/stla/shinyChakraUI) - A wrapper of the React library 'Chakra UI' for usage in Shiny.
 - [clindet/rctl](https://github.com/clindet/rctl) - A set of command line tools based on R and JavaScript.
 - [pjeby/hotkey-helper](https://github.com/pjeby/hotkey-helper) - Easily see and access any Obsidian plugin's options pane or hotkey assignments (including conflicts) from the Community Plugins tab
 - [pavel-john/markdown-file-tree](https://github.com/pavel-john/markdown-file-tree) - Generate file-tree in markdown (`_Sidebar.md`) for Github wiki, including links to files.
@@ -2379,7 +2389,7 @@
 
 ## OCaml 
 
-- [dmbaturin/soupault](https://github.com/dmbaturin/soupault) - Static website generator based on HTML rewriting
+- [dmbaturin/soupault](https://github.com/dmbaturin/soupault) - Static website generator based on HTML element tree rewriting
 - [moby/datakit](https://github.com/moby/datakit) - Connect processes into powerful data pipelines with a simple git-like filesystem interface
 - [talex5/cuekeeper](https://github.com/talex5/cuekeeper) - Browser-based GTD (TODO list) system. No server needed.
 
@@ -2401,6 +2411,7 @@
 
 ## Others 
 
+- [SchmidtPaul/RMarkdownMSWordTemplate](https://github.com/SchmidtPaul/RMarkdownMSWordTemplate) - 
 - [e-sence/keyboard-shortcuts](https://github.com/e-sence/keyboard-shortcuts) - Popular applications keyboard combinations
 - [jdtrat/shinyreport](https://github.com/jdtrat/shinyreport) - 
 - [jimbrig/universe](https://github.com/jimbrig/universe) - 
@@ -2946,7 +2957,7 @@
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
-- [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - ▶️ An awesome list containing awesome YouTubers that teach about technology.
+- [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - ▶️ An awesome list of awesome YouTubers that teach about technology.
 - [kognise/dev.to](https://github.com/kognise/dev.to) - Where programmers share ideas and help each other grow
 - [kognise/oogle](https://github.com/kognise/oogle) - An open-source clone of the Google search engine and crawler infrastructure
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - 
@@ -3495,7 +3506,7 @@
 - [mdneuzerling/starfleet](https://github.com/mdneuzerling/starfleet) - Configuration files for my personal Kubernetes (k3s) cluster
 - [jotweh/IssueRelocate](https://github.com/jotweh/IssueRelocate) - RZGithubUtils
 - [lorenzwalthert/pre-commit](https://github.com/lorenzwalthert/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
-- [strictdoc-project/strictdoc](https://github.com/strictdoc-project/strictdoc) - Software for writing technical requirements and specifications.
+- [strictdoc-project/strictdoc](https://github.com/strictdoc-project/strictdoc) - Software for writing technical requirements specifications.
 - [randy3k/ProjectManager](https://github.com/randy3k/ProjectManager) - Project Manager for Sublime Text
 - [gonzalezben81/simplefastapi](https://github.com/gonzalezben81/simplefastapi) - Simple Dockerfile to create a working fastapi example
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
@@ -3565,7 +3576,7 @@
 - [lggruspe/slipbox](https://github.com/lggruspe/slipbox) - A static site generator for Zettelkasten notes
 - [djplaner/memex](https://github.com/djplaner/memex) - Nascent attempt at using Foam to curate and leverage a personal memex
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
-- [ctuning/ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize software projects as a database of reusable components, automation recipes and portable workflows with common APIs and extensible meta descriptions based on FAIR principles. See real-world use cases from our partners to enable portable MLOps and automate ML/SW/HW co-design:
+- [ctuning/ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize software projects as a database of reusable components, automation recipes and portable workflows with common APIs and extensible meta descriptions based on FAIR principles. See the real-world use cases to support reproducible MLSys R&D, enable portable MLOps and automate ML/SW/HW co-design:
 - [bhrigu123/classifier](https://github.com/bhrigu123/classifier) - Organize files in your directory instantly, by classifying them into different folders
 - [mcharleb/gittagstats](https://github.com/mcharleb/gittagstats) - 
 - [jctanner/ansible-tools](https://github.com/jctanner/ansible-tools) - 
@@ -3793,6 +3804,14 @@
 
 ## R 
 
+- [stla/NestedMenu](https://github.com/stla/NestedMenu) - 
+- [stla/gfiUltra](https://github.com/stla/gfiUltra) - Generalized fiducial inference for ultrahigh-dimensional regression.
+- [stla/syt](https://github.com/stla/syt) - R package for standard Young tableaux
+- [stla/jsTreeR](https://github.com/stla/jsTreeR) - A wrapper of the jQuery plugin `jsTree`.
+- [stla/bracketify](https://github.com/stla/bracketify) - RStudio addin to transform `foo$bar` to `foo[["bar"]]`.
+- [MilesMcBain/rmdocs](https://github.com/MilesMcBain/rmdocs) - browse help files as Rmarkdown documents
+- [DavisVaughan/test-renv](https://github.com/DavisVaughan/test-renv) - 
+- [StatisMike/shiny.reglog](https://github.com/StatisMike/shiny.reglog) - ShinyApps modules for optional account creation and log-in. It is NOT intended to being used for securing your apps but for user identification between sessions.
 - [analythium/openfaas-rstats-templates](https://github.com/analythium/openfaas-rstats-templates) - OpenFaaS templates for R
 - [jimbrig/Scripts](https://github.com/jimbrig/Scripts) - Useful Scripts and Snippets across various interfaces
 - [DeclareDesign/fabricatr](https://github.com/DeclareDesign/fabricatr) - fabricatr: Imagine Your Data Before You Collect It
@@ -6407,6 +6426,7 @@
 
 ## Rust 
 
+- [hoodie/toastify](https://github.com/hoodie/toastify) - 🍞A commandline tool that shows desktop notifications using notify-rust
 - [rami3l/pacaptr](https://github.com/rami3l/pacaptr) - Pacman-like syntax wrapper for many package managers.
 - [sourcefrog/conserve](https://github.com/sourcefrog/conserve) - [beta] robust portable backup tool in Rust
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
