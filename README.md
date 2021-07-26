@@ -270,6 +270,8 @@
 
 ## C# # 
 
+- [nkdAgility/azure-devops-migration-tools](https://github.com/nkdAgility/azure-devops-migration-tools) - Azure DevOps Migration Tools allow you to migrate Teams, Backlogs, Tasks, Test Cases, and Plans & Suits from one Project to another in Azure DevOps / TFS both within the same Organisation, and between Organisations.
+- [geluk/pass-winmenu](https://github.com/geluk/pass-winmenu) - An easy-to-use Windows interface for pass
 - [ArkaneDev/WinPass11](https://github.com/ArkaneDev/WinPass11) - 🔑 WinPass11 is a tool for installing Windows 11 on unsupported hardware.
 - [brunopaiva15/Redows](https://github.com/brunopaiva15/Redows) - Redows is a free and Open source utility for Windows.
 - [brunopaiva15/WinPE-Creation-Tool](https://github.com/brunopaiva15/WinPE-Creation-Tool) - WinPE Creation Tool is a free and Open source utility that allows you to create a complete WinPE environment, including a directory, an ISO and a bootable USB key.
@@ -788,6 +790,7 @@
 
 ## Go 
 
+- [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
 - [clindet/bget](https://github.com/clindet/bget) - Portable command-line tool to query bioinformatics APIs, data, databases and files.
 - [criscola/raindrop-todoist](https://github.com/criscola/raindrop-todoist) - A lightweight Docker microservice written in Go to synchronize Raindrop bookmarks with Todoist tasks.
 - [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
@@ -988,6 +991,7 @@
 
 ## HCL 
 
+- [dhoer/terraform_examples](https://github.com/dhoer/terraform_examples) - Terraform AWS Windows examples
 - [marcinbojko/hv-packer](https://github.com/marcinbojko/hv-packer) - Hyper-V Generation 2 Packer Templates for Windows 2016/2019, Windows Server and CentOS 7.x/AlmaLinux 8.x
 - [GoogleCloudPlatform/solutions-terraform-cloudbuild-gitops](https://github.com/GoogleCloudPlatform/solutions-terraform-cloudbuild-gitops) - 
 - [ryboe/private-ip-cloud-sql-db](https://github.com/ryboe/private-ip-cloud-sql-db) - An example set of terraform files for deploying a Cloud SQL DB with a private IP address only
@@ -1404,6 +1408,7 @@
 
 ## Haskell 
 
+- [NickSeagull/pahket](https://github.com/NickSeagull/pahket) - 
 - [Atemu/git-annex](https://github.com/Atemu/git-annex) - Fork of git-annex.branchable.com/
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
@@ -1471,6 +1476,8 @@
 
 ## JavaScript 
 
+- [kevinjalbert/todoist-shortcuts-nativefier](https://github.com/kevinjalbert/todoist-shortcuts-nativefier) - Todoist via nativefier with todoist-shortcuts and badge count support
+- [dineshsonachalam/markdown-autodocs](https://github.com/dineshsonachalam/markdown-autodocs) - ✨ A GitHub Action that automatically generates & updates markdown content (like your README.md) from external or remote files.
 - [stla/aceEditor](https://github.com/stla/aceEditor) - A second editor in RStudio.
 - [stla/ReactPaperJS_ApollonianGasket](https://github.com/stla/ReactPaperJS_ApollonianGasket) - Apollonian gasket with React and paper.js
 - [stla/shinyDatetimePicker](https://github.com/stla/shinyDatetimePicker) - A datetime picker for Shiny.
@@ -2272,6 +2279,7 @@
 
 ## Jupyter Notebook 
 
+- [markwk/qs_ledger](https://github.com/markwk/qs_ledger) - Quantified Self Personal Data Aggregator and Data Analysis
 - [anaidpm/data_science_workshop](https://github.com/anaidpm/data_science_workshop) - 
 - [tunnelWithAC/fantasy_premier_league](https://github.com/tunnelWithAC/fantasy_premier_league) - 
 - [maxhumber/DE4DS](https://github.com/maxhumber/DE4DS) - ⭕️ Data Engineering for Data Scientists
@@ -2300,7 +2308,6 @@
 - [advboxes/AdvBox](https://github.com/advboxes/AdvBox) - Advbox is a toolbox to generate adversarial examples that fool neural networks in PaddlePaddle、PyTorch、Caffe2、MxNet、Keras、TensorFlow and Advbox can benchmark the robustness of machine learning models.  Advbox give a command line tool to generate adversarial examples with Zero-Coding.
 - [m-clark/data-processing-and-visualization](https://github.com/m-clark/data-processing-and-visualization) - This document forms the basis of several workshops/talks that get into everyday programming with R, but also includes mirrored code in Python as Jupyter notebooks.
 - [jadianes/data-science-your-way](https://github.com/jadianes/data-science-your-way) - Ways of doing Data Science Engineering and Machine Learning in R and Python
-- [markwk/qs_ledger](https://github.com/markwk/qs_ledger) - Quantified Self Personal Data Aggregator and Data Analysis
 
 ## Kotlin 
 
@@ -2421,7 +2428,7 @@
 - [pebakery/pebakery-docs](https://github.com/pebakery/pebakery-docs) - The Official PEBakery Documentation. The Master branch contains current docs for the latest stable release of PEBakery. The Develop branch includes changes and features introduced in nightly builds and may change without notice.
 - [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community &lt;3
 - [ScoopInstaller/Binary](https://github.com/ScoopInstaller/Binary) - 🗄 Scoops mirror for binaries that are no longer available
-- [ztj1993/scoop-index](https://github.com/ztj1993/scoop-index) - 
+- [ztj1993/scoop](https://github.com/ztj1993/scoop) - 
 - [snaphat/alias-additions](https://github.com/snaphat/alias-additions) - Additional aliases for scoop to ease updating and searching for apps.
 - [vicoyeh/pointers-for-software-engineers](https://github.com/vicoyeh/pointers-for-software-engineers) - A curated list of topics to start learning software engineering
 - [darshanime/notes](https://github.com/darshanime/notes) - detailed notes on computer science topics, in one page
@@ -2546,7 +2553,7 @@
 - [priyankavergadia/GCPSketchnote](https://github.com/priyankavergadia/GCPSketchnote) - If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format.
 - [b0o/awesome-by-example](https://github.com/b0o/awesome-by-example) - A curated list of awesome example-based learning resources.
 - [Alex1990/awesome-services](https://github.com/Alex1990/awesome-services) - A collection of the services which participate in application construction.
-- [getaclue/awesome-saas-starters](https://github.com/getaclue/awesome-saas-starters) - 😎 Awesome List of SaaS Starter Kits and Boilerplates. Save time and skip implementing features like authentication, subscriptions, teams, and many more.
+- [lastminutealex/awesome-saas-starters](https://github.com/lastminutealex/awesome-saas-starters) - 😎 Awesome List of SaaS Starter Kits and Boilerplates. Save time and skip implementing features like authentication, subscriptions, teams, and many more.
 - [georgezouq/awesome-saas](https://github.com/georgezouq/awesome-saas) - A curated list for SaaS (Software as a services)
 - [sujeet-agrahari/awesome-database-design](https://github.com/sujeet-agrahari/awesome-database-design) - :zap: A collection of resources and tutorials to design a better database schema.
 - [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) - Awesome materials about database development.
@@ -3220,6 +3227,7 @@
 
 ## PowerShell 
 
+- [AlexAsplund/PSTodoist](https://github.com/AlexAsplund/PSTodoist) - A powershell module for todoist
 - [jimbrig/WindowsPowerShell](https://github.com/jimbrig/WindowsPowerShell) - Windows PowerShell Profile Directory
 - [jimbrig/PowerShell](https://github.com/jimbrig/PowerShell) - PowerShell Core Profile Directory Backup
 - [byteben/Get-SoftwareUpdates](https://github.com/byteben/Get-SoftwareUpdates) - Connect to SCCM Collections and enumerate Required Software Updates with WMI
@@ -3448,6 +3456,10 @@
 
 ## Python 
 
+- [bcongdon/todoist-to-sqlite](https://github.com/bcongdon/todoist-to-sqlite) - Export your Todoist data to SQLite
+- [scholer/actionista-todoist](https://github.com/scholer/actionista-todoist) - CLI tool to manage your Todoist tasks from the command line, using powerful filters to select, print, reschedule, and complete tasks in a batch-wise fashion.
+- [anicolaides/todoist-gcal-sync](https://github.com/anicolaides/todoist-gcal-sync) - 📅 ✔️ Bi-directional syncing between Todoist and Google Calendar (deprecated).
+- [Garee/pytodoist](https://github.com/Garee/pytodoist) - Use Todoist with Python ✅
 - [martapanc/Raindrop.io-digest](https://github.com/martapanc/Raindrop.io-digest) - 
 - [btnhd/BTNHD](https://github.com/btnhd/BTNHD) - All files (notes, scripts, and reference links) used within YouTube videos are placed here.
 - [jonathan-s/pelican-obsidian](https://github.com/jonathan-s/pelican-obsidian) - Makes it possible to bridge work in obsidian to pelican seamlessly
@@ -6627,7 +6639,7 @@
 - [zloeber/dotfiles](https://github.com/zloeber/dotfiles) - Zachary Loeber's dotfiles
 - [Owen-Davies/dmenu-bm](https://github.com/Owen-Davies/dmenu-bm) - 
 - [Depau/shcrt](https://github.com/Depau/shcrt) - Shell script to replace SecureCRT/FX
-- [algono/dotfiles](https://github.com/algono/dotfiles) - My dotfiles for Ubuntu (WSL 2)
+- [algono/dotfiles](https://github.com/algono/dotfiles) - My dotfiles, originally designed for Ubuntu (WSL 2)
 - [ColinPeyrat/dotfiles](https://github.com/ColinPeyrat/dotfiles) - 🏡 My Windows environment setup
 - [notlmn/.dotfiles](https://github.com/notlmn/.dotfiles) - 🧰 Some random persons dotfiles repository
 - [x4ax/lxss-install-zeppelin](https://github.com/x4ax/lxss-install-zeppelin) - Step by step guide on how to install Zeppelin 0.7.3 on Linux subsystem (WSL) for Windows 10
@@ -6920,6 +6932,9 @@
 
 ## TypeScript 
 
+- [up2jj/vscodist](https://github.com/up2jj/vscodist) - Create Todoist task directly from VS Code
+- [spoo-bar/code-with-todoist](https://github.com/spoo-bar/code-with-todoist) - Todoist plugin for vscode
+- [cobraz/todoist-action](https://github.com/cobraz/todoist-action) - Synchronize Github tasks with Todoist :ballot_box_with_check:
 - [luhmann/evernote-to-raindrop-exporter](https://github.com/luhmann/evernote-to-raindrop-exporter) - Export your Evernote-Notes that contain a url (usually added by the Evernote Webclipper) to raindrop.io.
 - [chhoumann/MetaEdit](https://github.com/chhoumann/MetaEdit) - MetaEdit for Obsidian
 - [chhoumann/quickadd](https://github.com/chhoumann/quickadd) - QuickAdd for Obsidian
@@ -7219,6 +7234,7 @@
 
 ## Vala 
 
+- [alainm23/planner](https://github.com/alainm23/planner) - Task manager with Todoist support designed for GNU/Linux 🚀
 - [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
 
 ## Vim Snippet 
