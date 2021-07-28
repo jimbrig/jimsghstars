@@ -540,6 +540,8 @@
 
 ## CSS 
 
+- [iamshaunjp/sass-playlist](https://github.com/iamshaunjp/sass-playlist) - Course files for The Net Ninja SASS tutorial playlist on YouTube
+- [iamshaunjp/next-contentful](https://github.com/iamshaunjp/next-contentful) - All course files for the Next.js & Contentful tutorial series on the Net Ninja YouTube channel.
 - [ahkscript/ahkbook](https://github.com/ahkscript/ahkbook) - a free online book about AutoHotkey!
 - [inbo/INBOmd](https://github.com/inbo/INBOmd) - An R package with a collection of RMarkdown styles and templates. Elaborate examples are available at https://github.com/inbo/inbomd_examples
 - [FinancialMarkets/5MinuteFinance](https://github.com/FinancialMarkets/5MinuteFinance) - Interactive Presentations for Financial Education using R/Shiny.  See full list of presentations (with links) below.
@@ -795,6 +797,7 @@
 
 ## Go 
 
+- [skx/github2mr](https://github.com/skx/github2mr) - Export all your github repositories to a form suitable for 'myrepos' to work with.
 - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
 - [clindet/bget](https://github.com/clindet/bget) - Portable command-line tool to query bioinformatics APIs, data, databases and files.
 - [criscola/raindrop-todoist](https://github.com/criscola/raindrop-todoist) - A lightweight Docker microservice written in Go to synchronize Raindrop bookmarks with Todoist tasks.
@@ -882,6 +885,7 @@
 - [snwfdhmp/duck](https://github.com/snwfdhmp/duck) - Create command snippets for repetitive development task. Share them to an online repository system (self hosted options available).
 - [google/nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
 - [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) - Programs to keep Docker login credentials safe by storing in platform keystores
+- [googlecodelabs/tools](https://github.com/googlecodelabs/tools) - Codelabs management & hosting tools
 - [mlesniak/markdown](https://github.com/mlesniak/markdown) - Markdown-based webserver using Dropbox as storage medium to allow editing content using miscellaneous applications.
 - [zettelstore/zettelstore-github](https://github.com/zettelstore/zettelstore-github) - Development is discontinued here. Please use https://zettelstore.de or fork the new mirror https://github.com/zettelstore/zettelstore
 - [github-release/github-release](https://github.com/github-release/github-release) - Commandline app to create and edit releases on Github (and upload artifacts)
@@ -1016,6 +1020,9 @@
 
 ## HTML 
 
+- [jjallaire/reproducible-finance-with-r](https://github.com/jjallaire/reproducible-finance-with-r) - 
+- [iamshaunjp/regex-playlist](https://github.com/iamshaunjp/regex-playlist) - Course files for the Regular Expressions playlist on The Net Ninja YouTube channel.
+- [iamshaunjp/git-playlist](https://github.com/iamshaunjp/git-playlist) - Playground for the Net Ninja Git / GitHub tutorials on YouTube
 - [cheny0y0/windows-iso-source](https://github.com/cheny0y0/windows-iso-source) - Provide Windows Setup ISO file. (Notice: I don't provide the product keys)
 - [zabore/intro-to-r-rstudio](https://github.com/zabore/intro-to-r-rstudio) - 
 - [IndrajeetPatil/codeswitchR](https://github.com/IndrajeetPatil/codeswitchR) - A list of helpful R packages to learn other programming languages or workflows
@@ -1130,7 +1137,6 @@
 - [kmasiello/pointblank_demo](https://github.com/kmasiello/pointblank_demo) - 
 - [gigsterous/gigsterous.github.io](https://github.com/gigsterous/gigsterous.github.io) - Gigsterous blog for sharing thoughts, technical insights and more.
 - [brennanbrown/enjoyment-work](https://github.com/brennanbrown/enjoyment-work) - 🗃️ A Digital Garden: Capturing my daily thoughts and progress, as well as curated ideas with unique synthesis—a personal zettelkasten. Built on Simply Jekyll by Raghuveer S.
-- [googlecodelabs/tools](https://github.com/googlecodelabs/tools) - Codelabs management & hosting tools
 - [ekstroem/whyR-2020](https://github.com/ekstroem/whyR-2020) - 
 - [GegznaV/spAddins](https://github.com/GegznaV/spAddins) - ❌ Deprecated R package. Use 'addins.rmd', 'addins.rs', etc. instead.
 - [skranz/CoursesWithR](https://github.com/skranz/CoursesWithR) - 
@@ -1481,6 +1487,11 @@
 
 ## JavaScript 
 
+- [iamshaunjp/js-tricks-countdown](https://github.com/iamshaunjp/js-tricks-countdown) - Allc ompleted files for the JavaScript Ticks video - Creating an Animating Countdown
+- [iamshaunjp/next-netlify-identity](https://github.com/iamshaunjp/next-netlify-identity) - 
+- [iamshaunjp/node-js-playlist](https://github.com/iamshaunjp/node-js-playlist) - CSS and asset files for the Net Ninja YouTube nodejs playlist
+- [iamshaunjp/react-context-hooks](https://github.com/iamshaunjp/react-context-hooks) - All the course files for the React Context API & Hooks tutorial series on the Net Ninja YouTube channel.
+- [iamshaunjp/gatsby-tutorial](https://github.com/iamshaunjp/gatsby-tutorial) - 
 - [codedamn/stack-snippet-console](https://github.com/codedamn/stack-snippet-console) - A simple console visualizer for the DOM.
 - [codedamn/react-native-first-steps](https://github.com/codedamn/react-native-first-steps) - Source code of app #1 in react native first steps
 - [codedamn/html-portals](https://github.com/codedamn/html-portals) - Online tool to check/create HTML portals
@@ -2426,6 +2437,29 @@
 
 ## Others 
 
+- [iamshaunjp/CSS-Tips-and-Tricks](https://github.com/iamshaunjp/CSS-Tips-and-Tricks) - A repo for the 'CSS Tips & Tricks' playlist on The Net Ninja YouTube channel.
+- [iamshaunjp/oauth-playlist](https://github.com/iamshaunjp/oauth-playlist) - 
+- [iamshaunjp/firebase-functions](https://github.com/iamshaunjp/firebase-functions) - Course files for the Firebase Cloud Functions tutorial series on The Net Ninja YouTube channel.
+- [iamshaunjp/deno-jumpstart](https://github.com/iamshaunjp/deno-jumpstart) - All course files for the Deno Jumpstart Tutorial on the Net Ninja YouTube chanel.
+- [iamshaunjp/django-playlist](https://github.com/iamshaunjp/django-playlist) - Course files for The Net Ninja Django playlist on YouTube
+- [iamshaunjp/node-express-jwt-auth](https://github.com/iamshaunjp/node-express-jwt-auth) - All course files for the Node.js (& Express) JWT Authentication tutorial series on The Net Ninja YouTube channel.
+- [iamshaunjp/rest-api-playlist](https://github.com/iamshaunjp/rest-api-playlist) - Course files for the REST API tutorial series on The Net Ninja Youtube channel
+- [iamshaunjp/JavaScript-DOM-Tutorial](https://github.com/iamshaunjp/JavaScript-DOM-Tutorial) - All course files for the JavaScript DOM Tutorials on The Net Ninja YouTube channel.
+- [iamshaunjp/flutter-firebase](https://github.com/iamshaunjp/flutter-firebase) - All course files for the Flutter & Firebase tutorial playlist on The Net Ninja YouTube channel
+- [iamshaunjp/firebase-auth](https://github.com/iamshaunjp/firebase-auth) - All course files for the Firebase authentication tutorial series on The Net Ninja YouTube channel.
+- [iamshaunjp/pwa-tutorial](https://github.com/iamshaunjp/pwa-tutorial) - Course files for the progressive web app tutorial series on The Net Ninja YouTube channel.
+- [iamshaunjp/golang-tutorials](https://github.com/iamshaunjp/golang-tutorials) - All course files for the Net Ninja Go tutorial series.
+- [iamshaunjp/bootstrap-5-tutorial](https://github.com/iamshaunjp/bootstrap-5-tutorial) - All course files for the Bootstrap 5 tutorial series on Net Ninja.
+- [iamshaunjp/css-grid-playlist](https://github.com/iamshaunjp/css-grid-playlist) - Course files for the CSS Grid playlist on The Net Ninja YouTube channel.
+- [iamshaunjp/Customizing-Bootstrap-5](https://github.com/iamshaunjp/Customizing-Bootstrap-5) - All course files for the Net Ninja Pro course - Customizing Bootstrap 5
+- [iamshaunjp/Complete-React-Tutorial](https://github.com/iamshaunjp/Complete-React-Tutorial) - All course files for the Complete React Tutorial on the Net Ninja YouTube channel.
+- [iamshaunjp/node-crash-course](https://github.com/iamshaunjp/node-crash-course) - Course files for the Node.js Crash Course tutorial series on The Net Ninja YouTube channel.
+- [iamshaunjp/typescript-tutorial](https://github.com/iamshaunjp/typescript-tutorial) - All the course files for the TypeScript tutorial playlist on The Net Ninja YouTube channel.
+- [iamshaunjp/react-native-tutorial](https://github.com/iamshaunjp/react-native-tutorial) - All the course files for the React Tutorial for Beginners playlist on The Ne Ninja Playlist
+- [iamshaunjp/modern-javascript](https://github.com/iamshaunjp/modern-javascript) - All lecture files from the Modern JavaScript (Novice to Ninja) course on Udemy.
+- [iamshaunjp/websockets-playlist](https://github.com/iamshaunjp/websockets-playlist) - All the course files for the WebSockets playlist on The Net Ninja YouTube channel.
+- [iamshaunjp/flutter-beginners-tutorial](https://github.com/iamshaunjp/flutter-beginners-tutorial) - All course files for the Flutter Beginners playlist on The Net Ninja YouTube channel.
+- [iamshaunjp/nextjs-tutorial](https://github.com/iamshaunjp/nextjs-tutorial) - All course files for the Next.js tutorial series on the Net Ninja YouTube channel.
 - [Zer0CoolX/proxmox-windows-slipstream-virtio-drivers](https://github.com/Zer0CoolX/proxmox-windows-slipstream-virtio-drivers) - Step-by-step guide to slipstream VirtIO drivers into Windows ISO's for use in Proxmox VE
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - An open and transparent modification of the Windows 10 operating system, designed to optimize performance and latency.
 - [RogueScholar/woeusb-legacy](https://github.com/RogueScholar/woeusb-legacy) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
@@ -3232,6 +3266,7 @@
 
 ## Perl 
 
+- [RichiH/myrepos](https://github.com/RichiH/myrepos) - 
 - [jfcoz/postgresqltuner](https://github.com/jfcoz/postgresqltuner) - Simple script to analyse your PostgreSQL database configuration, and give tuning advice
 - [cbbrowne/autodoc](https://github.com/cbbrowne/autodoc) - PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms
 - [ReneNyffenegger/notes](https://github.com/ReneNyffenegger/notes) - 
@@ -3249,6 +3284,7 @@
 - [AlexAsplund/PSTodoist](https://github.com/AlexAsplund/PSTodoist) - A powershell module for todoist
 - [jimbrig/WindowsPowerShell](https://github.com/jimbrig/WindowsPowerShell) - Windows PowerShell Profile Directory
 - [jimbrig/PowerShell](https://github.com/jimbrig/PowerShell) - PowerShell Core Profile Directory Backup
+- [jimbrig/Scripts](https://github.com/jimbrig/Scripts) - Useful Scripts and Snippets across various interfaces
 - [byteben/Get-SoftwareUpdates](https://github.com/byteben/Get-SoftwareUpdates) - Connect to SCCM Collections and enumerate Required Software Updates with WMI
 - [byteben/Dell](https://github.com/byteben/Dell) - PowerShell Scripts primarily using the Dell Command PowerShell Provider Module
 - [byteben/Dev](https://github.com/byteben/Dev) - 
@@ -3845,7 +3881,6 @@
 - [DavisVaughan/test-renv](https://github.com/DavisVaughan/test-renv) - 
 - [StatisMike/shiny.reglog](https://github.com/StatisMike/shiny.reglog) - ShinyApps modules for optional account creation and log-in. It is NOT intended to being used for securing your apps but for user identification between sessions.
 - [analythium/openfaas-rstats-templates](https://github.com/analythium/openfaas-rstats-templates) - OpenFaaS templates for R
-- [jimbrig/Scripts](https://github.com/jimbrig/Scripts) - Useful Scripts and Snippets across various interfaces
 - [DeclareDesign/fabricatr](https://github.com/DeclareDesign/fabricatr) - fabricatr: Imagine Your Data Before You Collect It
 - [talgalili/installr](https://github.com/talgalili/installr) - Functions for installing softwares from within R
 - [anaidpm/R-viz](https://github.com/anaidpm/R-viz) - IBM R visualisation course
@@ -6567,6 +6602,7 @@
 
 ## Shell 
 
+- [jimscratch/dotfiles](https://github.com/jimscratch/dotfiles) - 
 - [Karapatakis106/MakeMeBootable](https://github.com/Karapatakis106/MakeMeBootable) - Make bootable USB's by Linux Terminal. More info on README.md
 - [calledtoconstruct/devbuntu](https://github.com/calledtoconstruct/devbuntu) - Scripts for creating and using a custom Ubuntu Live Image for software development, kubernetes, service mesh, and beyond.
 - [Mexit/MultiOS-USB](https://github.com/Mexit/MultiOS-USB) - Boot operating systems directly from ISO files
@@ -6956,6 +6992,7 @@
 
 ## TypeScript 
 
+- [styxlab/next-cms-ghost](https://github.com/styxlab/next-cms-ghost) - Publish flaring fast blogs with Next.js and Ghost CMS
 - [mehulmpt/ghost-cms-nextjs](https://github.com/mehulmpt/ghost-cms-nextjs) - 
 - [up2jj/vscodist](https://github.com/up2jj/vscodist) - Create Todoist task directly from VS Code
 - [spoo-bar/code-with-todoist](https://github.com/spoo-bar/code-with-todoist) - Todoist plugin for vscode
@@ -7314,6 +7351,7 @@
 
 ## Vue 
 
+- [iamshaunjp/vuejs-playlist](https://github.com/iamshaunjp/vuejs-playlist) - Course files for the Vue.js 2 playlist on The Net Ninja YouTube channel
 - [Lt0/sysmon](https://github.com/Lt0/sysmon) - A B/S mode system monitor for linux (demo http://199.247.1.240:2048)
 - [FrissAnalytics/shiny-vue-r](https://github.com/FrissAnalytics/shiny-vue-r) - shiny vue hybrid app
 - [siegerts/plumber-vue](https://github.com/siegerts/plumber-vue) - Project structure showing the use of an R-based Plumber API with a Vue frontend, using Vue CLI.
