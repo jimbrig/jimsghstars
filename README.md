@@ -1079,7 +1079,6 @@
 - [angeligareta/ulltimate-calendar](https://github.com/angeligareta/ulltimate-calendar) - Example of landing page using the web technologies HTML, CSS, Javascript, Bootstrap, and Firebase.
 - [reconhub/drat](https://github.com/reconhub/drat) - :package::package::package: drat repository
 - [reconhub/reconhub.github.io](https://github.com/reconhub/reconhub.github.io) - Official website for RECON - The R Epidemics CONsortium
-- [Yacine87/Beautiful-Simple_Dashboards_flexdashboard](https://github.com/Yacine87/Beautiful-Simple_Dashboards_flexdashboard) - Flexdashboard (https://rmarkdown.rstudio.com/flexdashboard/) is an R package that allows creating easy interactive dashboards in R. Its powered by R Markdown, offer support for a wide variety of components & easally specofy row & column flexible layouts . We are going to introduce flexdashboard in this repo and see how easally we can deliver beautiful outputs & insights
 - [smithjd/sql-pet](https://github.com/smithjd/sql-pet) - Exploring a realistic postgreSQL database with R via Docker
 - [Esri/bootstrap-map-js](https://github.com/Esri/bootstrap-map-js) - A light-weight JS/CSS extension for building awesome mapping apps with Bootstrap and ArcGIS.
 - [eodaGmbH/ready_for_production](https://github.com/eodaGmbH/ready_for_production) - Workshop materials from the RStudio and eoda Event Ready for Production
@@ -4247,7 +4246,6 @@
 - [reconhub/trendbreaker](https://github.com/reconhub/trendbreaker) - Analysing epidemic trends using AutoML approaches.
 - [jdtrat/shinydesignr](https://github.com/jdtrat/shinydesignr) - 
 - [Yacine87/interactive_data_viz](https://github.com/Yacine87/interactive_data_viz) - You will find in this repository exemple of interactive data visualisation with Shiny and other R pakages
-- [Yacine87/Shiny_Dynamic_Interactive_Dashboards](https://github.com/Yacine87/Shiny_Dynamic_Interactive_Dashboards) - Successfuly Communicating our analytical outputs highlights the hard work we've done along the workflow. Deciders are expecting to have easally interpretable & useful insights that help them take the right decisions. Shiny is the R framework for making web apps without knowing HTML, CSS & JS. Shinydashboard is a package from the Shiny ecosystem that allows analysts who aren't software engineers to develop independently their (scalable) dashboards. We will discover in this repo the shinydashboards package, its main functionnalities and how nowadays it is possible using the R ecosystem to deliver business dashboards that have nothing to envy to MS Power BI, Tableau, Qlick, TIBCO & the other analytics industry leaders
 - [Yacine87/EDA_R_Packages](https://github.com/Yacine87/EDA_R_Packages) - EDA is a must to do step in the data science workflow. Working on data, wrangling & transforming them is time consuming, and it determine the success degree of the next steps (pre preocessing, modelling, communicating outputs & decision making). This repo will show you how to perform EDA in R using the tidyverse ecosystem, and will introduce a comparative approach between the main packages in R whcich could let you perform automated EDA & generating automated EDA html or pdf reports, ready to be communicated.
 - [Yacine87/Shiny_ecosystem](https://github.com/Yacine87/Shiny_ecosystem) - R & its best IDE RStudio (according to the majority of R daily users) offer us a wondeful framework for web apps creation. It's called Shiny. The success of this web apps framework generates the development of a large package's ecosystem arround shiny. From prototyping, realising beautiful UI, to testing and deploying to the production scale. With Shiny it's possible to realise both the front and the back end parts inside R :-) Isn't huge !
 - [ThinkR-open/docker4dev](https://github.com/ThinkR-open/docker4dev) - Repository with DockerFiles for tutorials
@@ -6483,7 +6481,7 @@
 - [tsubery/quantifier](https://github.com/tsubery/quantifier) - A quantified-self app that tracks various fitness & productivity metrics.
 - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 - [sferik/t](https://github.com/sferik/t) - A command-line power tool for Twitter.
-- [postalhq/postal](https://github.com/postalhq/postal) - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
+- [postalserver/postal](https://github.com/postalserver/postal) - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [mm53bar/obsidian_utils](https://github.com/mm53bar/obsidian_utils) - Various scripts and utilities for Obsidian.md
 - [LeonardoCardoso/gsrd](https://github.com/LeonardoCardoso/gsrd) - GitHub Starred Repos Downloader
 - [sirupsen/zk](https://github.com/sirupsen/zk) - Zettelkasten on the command-line 📚 🔍
@@ -7229,7 +7227,7 @@
 - [luvsic3/issue-md-generator](https://github.com/luvsic3/issue-md-generator) - A command-line tool to generate markdown list from your github repository issue page
 - [REditorSupport/vscode-R](https://github.com/REditorSupport/vscode-R) - R Extension for Visual Studio Code
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Technical documentation that just works
 - [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes) - Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization options.
 - [atolye15/checklist](https://github.com/atolye15/checklist) - The protocols we follow for the things we cannot automate yet! ✅
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
