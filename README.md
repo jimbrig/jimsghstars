@@ -128,6 +128,7 @@
 
 ## Batchfile 
 
+- [skrizzles/Device-Provisioning](https://github.com/skrizzles/Device-Provisioning) - Provisioning scripts and tools for devices I use (Windows, Mac, Android & iOS)
 - [Sporesirius/YAMS](https://github.com/Sporesirius/YAMS) - YAMS (Yet Another Multiboot System)
 - [joeldidier/Bootable-Windows-ISO-Creator](https://github.com/joeldidier/Bootable-Windows-ISO-Creator) - Create a bootable ISO (BIOS/UEFI) from Windows source installation files.
 - [mhgschmidt/w10install](https://github.com/mhgschmidt/w10install) - Automated Windows installation and Telemetry removal.
@@ -273,6 +274,11 @@
 
 ## C# # 
 
+- [EdiWang/Moonglade-Tools](https://github.com/EdiWang/Moonglade-Tools) - Tools or scripts for clean up my blog system mess
+- [EdiWang/Tracing-UWP](https://github.com/EdiWang/Tracing-UWP) - Tracing (描图) App for Windows 10
+- [EdiWang/Azure-Blob-Backup](https://github.com/EdiWang/Azure-Blob-Backup) - Backup files in Azure Blob Storage to local file system.
+- [EdiWang/FileDateEditor](https://github.com/EdiWang/FileDateEditor) - Modify create time, visit time of a file
+- [EdiWang/Azure-Samples](https://github.com/EdiWang/Azure-Samples) - Code samples for blog posts on Azure
 - [monchack/WinIsoBurn](https://github.com/monchack/WinIsoBurn) - Simple ISO writing application for Windows
 - [nkdAgility/azure-devops-migration-tools](https://github.com/nkdAgility/azure-devops-migration-tools) - Azure DevOps Migration Tools allow you to migrate Teams, Backlogs, Tasks, Test Cases, and Plans & Suits from one Project to another in Azure DevOps / TFS both within the same Organisation, and between Organisations.
 - [geluk/pass-winmenu](https://github.com/geluk/pass-winmenu) - An easy-to-use Windows interface for pass
@@ -683,7 +689,7 @@
 - [krisajenkins/yesql](https://github.com/krisajenkins/yesql) - A Clojure library for using SQL.
 - [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://app.gitbook.com/@athensresearch/s/handbook/
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend now, backend later) platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [Factual/drake](https://github.com/Factual/drake) - Data workflow tool, like a "Make for data"
 
 ## CoffeeScript 
@@ -719,6 +725,7 @@
 
 ## Dockerfile 
 
+- [devkitspaces/packer-on-github](https://github.com/devkitspaces/packer-on-github) - Experimenting with GitHub Actions for building machine images with Packer
 - [saiyam1814/awesome-cloudrun](https://github.com/saiyam1814/awesome-cloudrun) - 👓 ⏩ A curated list of resources about all things Cloud Run
 - [rajarshig/MyReference](https://github.com/rajarshig/MyReference) - Documentation for various software development related topic, using Mkdocs package
 - [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) - :octocat: GitHub Action for Chocolatey, the package manager for Windows
@@ -797,6 +804,9 @@
 
 ## Go 
 
+- [lyraproj/lyra](https://github.com/lyraproj/lyra) - Open Source Workflow Engine for Cloud Native Infrastructure
+- [radekg/terraform-provisioner-ansible](https://github.com/radekg/terraform-provisioner-ansible) - Ansible with Terraform 0.14.x
+- [docker-archive/deploykit](https://github.com/docker-archive/deploykit) - A toolkit for creating and managing declarative, self-healing infrastructure.
 - [skx/github2mr](https://github.com/skx/github2mr) - Export all your github repositories to a form suitable for 'myrepos' to work with.
 - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
 - [clindet/bget](https://github.com/clindet/bget) - Portable command-line tool to query bioinformatics APIs, data, databases and files.
@@ -808,7 +818,7 @@
 - [Backblaze/terraform-provider-b2](https://github.com/Backblaze/terraform-provider-b2) - Terraform Provider for Backblaze B2 Cloud Storage
 - [rubenv/sql-migrate](https://github.com/rubenv/sql-migrate) - SQL schema migration tool for Go.
 - [google/gnostic](https://github.com/google/gnostic) - A compiler for APIs described by the OpenAPI Specification with plugins for code generation and other API support tasks.
-- [GoogleCloudPlatform/gcping](https://github.com/GoogleCloudPlatform/gcping) - Like gcping.com but a command line tool
+- [GoogleCloudPlatform/gcping](https://github.com/GoogleCloudPlatform/gcping) - The source for the CLI and web app at gcping.com
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [ipinfo/cli](https://github.com/ipinfo/cli) - Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
@@ -1020,6 +1030,7 @@
 
 ## HTML 
 
+- [EdiWang/Guid-Generator](https://github.com/EdiWang/Guid-Generator) - GUID Generator in Blazor WASM
 - [jjallaire/reproducible-finance-with-r](https://github.com/jjallaire/reproducible-finance-with-r) - 
 - [iamshaunjp/regex-playlist](https://github.com/iamshaunjp/regex-playlist) - Course files for the Regular Expressions playlist on The Net Ninja YouTube channel.
 - [iamshaunjp/git-playlist](https://github.com/iamshaunjp/git-playlist) - Playground for the Net Ninja Git / GitHub tutorials on YouTube
@@ -2436,6 +2447,11 @@
 
 ## Others 
 
+- [EdiWang/linux-cheatsheet-for-windows-users](https://github.com/EdiWang/linux-cheatsheet-for-windows-users) - For Windows folks like me who struggle to remember Linux commands
+- [samuelramox/awesome-javascript](https://github.com/samuelramox/awesome-javascript) - 
+- [samuelramox/react-payment-inputs](https://github.com/samuelramox/react-payment-inputs) - A React Hook & Container to help with payment card input fields.
+- [samuelramox/dev-log](https://github.com/samuelramox/dev-log) - My logfile.
+- [Azure/AzureDatabricksBestPractices](https://github.com/Azure/AzureDatabricksBestPractices) - Version 1 of Technical Best Practices of Azure Databricks based on real world Customer and Technical SME inputs
 - [iamshaunjp/CSS-Tips-and-Tricks](https://github.com/iamshaunjp/CSS-Tips-and-Tricks) - A repo for the 'CSS Tips & Tricks' playlist on The Net Ninja YouTube channel.
 - [iamshaunjp/oauth-playlist](https://github.com/iamshaunjp/oauth-playlist) - 
 - [iamshaunjp/firebase-functions](https://github.com/iamshaunjp/firebase-functions) - Course files for the Firebase Cloud Functions tutorial series on The Net Ninja YouTube channel.
@@ -3275,6 +3291,15 @@
 
 ## PowerShell 
 
+- [EdiWang/EnvSetup](https://github.com/EdiWang/EnvSetup) - Choco script for setting up my dev box.
+- [samuelramox/windows-setup](https://github.com/samuelramox/windows-setup) - Windows 10 Setup Script
+- [a4099181/vagrant-provvin](https://github.com/a4099181/vagrant-provvin) - Provvin - Provision Windows Powershell module (extracted from a4099181/vagrant-officeVM). In ecosystem with: packer-officeVM and vagrant-officeVM.
+- [devkitspaces/boxstarter-workspace](https://github.com/devkitspaces/boxstarter-workspace) - A set of chocolatey packages for setting up a Windows PC.
+- [fmmendo/win-provision](https://github.com/fmmendo/win-provision) - Setting up after a fresh install
+- [niklasrast/Windows-10-Bloatware-Removal-Tool](https://github.com/niklasrast/Windows-10-Bloatware-Removal-Tool) - This repo contains an powershell scripts to remove bloatware applications from any windows 10 installation.
+- [aikawame/provision-windows](https://github.com/aikawame/provision-windows) - Private Windows provisioning settings.
+- [SubPointSolutions/uplift-contrib](https://github.com/SubPointSolutions/uplift-contrib) - Vagrant configs for the uplift project: Windows 2016 domain controllers, SQL 2016, SharePoint 2016 and CRM.
+- [Badgerati/Picassio2](https://github.com/Badgerati/Picassio2) - Picassio2 is a Code-over-Config version of Picassio, and far more flexible for automation using PowerShell
 - [R4RD0/W10Upgrade](https://github.com/R4RD0/W10Upgrade) - Windows 7 & Windows 10 In Place Upgrade
 - [a4099181/packer-officeVM](https://github.com/a4099181/packer-officeVM) - Building vagrant box from Windows ISO for vagrant-officeVM project. In ecosystem with: vagrant-officeVM and vagrant-provvin.
 - [wellsluo/DeployVHD](https://github.com/wellsluo/DeployVHD) - PowerShell script to deploy new VHD(X) file with un-attend information from Windows Server/Desktop image file ISO/WIM.
@@ -3510,6 +3535,8 @@
 
 ## Python 
 
+- [CentOS-PaaS-SIG/linchpin](https://github.com/CentOS-PaaS-SIG/linchpin) - ansible based multicloud orchestrator
+- [ansible-provisioning/ansible-provisioning](https://github.com/ansible-provisioning/ansible-provisioning) - Ansible provisioning framework - a set of modules, plugins, and documentation for provisioning with Ansible
 - [3omar-mostafa/Windows-ISO-Extractor](https://github.com/3omar-mostafa/Windows-ISO-Extractor) - Extract Important files from MS Windows ISO files
 - [bcongdon/todoist-to-sqlite](https://github.com/bcongdon/todoist-to-sqlite) - Export your Todoist data to SQLite
 - [scholer/actionista-todoist](https://github.com/scholer/actionista-todoist) - CLI tool to manage your Todoist tasks from the command line, using powerful filters to select, print, reschedule, and complete tasks in a batch-wise fashion.
@@ -3799,7 +3826,7 @@
 - [eichingertim/ProjectCreationAutomation](https://github.com/eichingertim/ProjectCreationAutomation) - Short script that enables a "create"-command for the command-line to create a new project-folder with a local and remote github repository
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation and energy management that puts local control and privacy first.
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [gnebbia/kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
 - [marksweiss/sofine](https://github.com/marksweiss/sofine) - Lightweight framework for creating data-collecting plugins and chaining calls to them from CLI, REST or Python to return unified data sets.
@@ -6435,6 +6462,8 @@
 
 ## Ruby 
 
+- [devkitspaces/vagrant-desktop](https://github.com/devkitspaces/vagrant-desktop) - This repository provides a base Linux Desktop environment, sandboxed on your local computer.
+- [intercity/intercity-next](https://github.com/intercity/intercity-next) - Web control panel to deploy apps on your servers (with Dokku)
 - [jonashackt/ansible-windows-docker-springboot](https://github.com/jonashackt/ansible-windows-docker-springboot) - Example project showing how to provision, deploy, run & orchestrate Spring Boot apps with Docker Windows Containers on Docker Windows native using Packer, Powershell, Vagrant & Ansible
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [rgl/vagrant-windows-sysprep](https://github.com/rgl/vagrant-windows-sysprep) - Vagrant plugin to run Windows sysprep as a provisioning step
@@ -6481,7 +6510,7 @@
 - [tsubery/quantifier](https://github.com/tsubery/quantifier) - A quantified-self app that tracks various fitness & productivity metrics.
 - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 - [sferik/t](https://github.com/sferik/t) - A command-line power tool for Twitter.
-- [postalserver/postal](https://github.com/postalserver/postal) - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
+- [postalserver/postal](https://github.com/postalserver/postal) - ✉️ A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [mm53bar/obsidian_utils](https://github.com/mm53bar/obsidian_utils) - Various scripts and utilities for Obsidian.md
 - [LeonardoCardoso/gsrd](https://github.com/LeonardoCardoso/gsrd) - GitHub Starred Repos Downloader
 - [sirupsen/zk](https://github.com/sirupsen/zk) - Zettelkasten on the command-line 📚 🔍
@@ -6600,6 +6629,10 @@
 
 ## Shell 
 
+- [sndnv/provision](https://github.com/sndnv/provision) - Ansible roles and playbooks for provisioning devices
+- [shakahl/ansible-runner-docker](https://github.com/shakahl/ansible-runner-docker) - Windows runtime environment for Ansible with seamless integration based on Docker.
+- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Pigsty - Open-Source PostgreSQL Distribution
+- [coreprocess/linux-unattended-installation](https://github.com/coreprocess/linux-unattended-installation) - This project provides all you need to create an unattended installation of a minimal setup of Linux.
 - [jimscratch/dotfiles](https://github.com/jimscratch/dotfiles) - 
 - [Karapatakis106/MakeMeBootable](https://github.com/Karapatakis106/MakeMeBootable) - Make bootable USB's by Linux Terminal. More info on README.md
 - [calledtoconstruct/devbuntu](https://github.com/calledtoconstruct/devbuntu) - Scripts for creating and using a custom Ubuntu Live Image for software development, kubernetes, service mesh, and beyond.
@@ -6877,6 +6910,7 @@
 
 ## Smarty 
 
+- [clayshek/ans-pve-win-provision](https://github.com/clayshek/ans-pve-win-provision) - Use Ansible to provision new Proxmox Windows VMs from template
 - [MarkEdmondson1234/edmonlytica-server-side-client](https://github.com/MarkEdmondson1234/edmonlytica-server-side-client) - Edmonlytica is a proof of concept for making your own digital analytics stream using GTM Server Side and BigQuery.
 - [MarkEdmondson1234/edmonlytica-browser-template](https://github.com/MarkEdmondson1234/edmonlytica-browser-template) - Edmonlytica is a proof of concept for making your own digital analytics stream using GTM Server Side and BigQuery.
 - [MarkEdmondson1234/edmonlytica-server-side-tag](https://github.com/MarkEdmondson1234/edmonlytica-server-side-tag) - Edmonlytica is a proof of concept for making your own digital analytics stream using GTM Server Side and BigQuery.
