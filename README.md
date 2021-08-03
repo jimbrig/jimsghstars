@@ -824,7 +824,7 @@
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [ipinfo/cli](https://github.com/ipinfo/cli) - Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Query, update and convert data structures from the command line. Comparable to jq/yq but supports JSON, TOML, YAML, XML and CSV with zero runtime dependencies.
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [sethvargo/terraform-provider-googlecalendar](https://github.com/sethvargo/terraform-provider-googlecalendar) - A @HashiCorp Terraform provider for managing Google Calendar events.
 - [DeviaVir/terraform-provider-gsuite](https://github.com/DeviaVir/terraform-provider-gsuite) - A @HashiCorp Terraform provider for managing G Suite resources.
 - [viglesiasce/cloudbuild-optimizer](https://github.com/viglesiasce/cloudbuild-optimizer) - Run builds across all machine types in Cloud Build to find the optimal price/performance tradeoff
@@ -2614,7 +2614,7 @@
 - [priyankavergadia/GCPSketchnote](https://github.com/priyankavergadia/GCPSketchnote) - If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format.
 - [b0o/awesome-by-example](https://github.com/b0o/awesome-by-example) - A curated list of awesome example-based learning resources.
 - [Alex1990/awesome-services](https://github.com/Alex1990/awesome-services) - A collection of the services which participate in application construction.
-- [lastminutealex/awesome-saas-starters](https://github.com/lastminutealex/awesome-saas-starters) - 😎 Awesome List of SaaS Starter Kits and Boilerplates. Save time and skip implementing features like authentication, subscriptions, teams, and many more.
+- [getaclue00/awesome-saas-starters](https://github.com/getaclue00/awesome-saas-starters) - 😎 Awesome List of SaaS Starter Kits and Boilerplates. Save time and skip implementing features like authentication, subscriptions, teams, and many more.
 - [georgezouq/awesome-saas](https://github.com/georgezouq/awesome-saas) - A curated list for SaaS (Software as a services)
 - [sujeet-agrahari/awesome-database-design](https://github.com/sujeet-agrahari/awesome-database-design) - :zap: A collection of resources and tutorials to design a better database schema.
 - [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) - Awesome materials about database development.
@@ -3827,7 +3827,7 @@
 - [eichingertim/ProjectCreationAutomation](https://github.com/eichingertim/ProjectCreationAutomation) - Short script that enables a "create"-command for the command-line to create a new project-folder with a local and remote github repository
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation and energy management that puts local control and privacy first.
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [gnebbia/kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
 - [marksweiss/sofine](https://github.com/marksweiss/sofine) - Lightweight framework for creating data-collecting plugins and chaining calls to them from CLI, REST or Python to return unified data sets.
