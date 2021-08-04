@@ -110,6 +110,7 @@
 
 ## AutoHotkey 
 
+- [benwa/BgInfo-Helper](https://github.com/benwa/BgInfo-Helper) - Quality of life improvements for Sysinternal's BgInfo
 - [denolfe/AutoHotkeyBoilerplate](https://github.com/denolfe/AutoHotkeyBoilerplate) - An AutoHotkey boilerplate to help jumpstart a script for personal productivity
 - [emisjerry/admonitions](https://github.com/emisjerry/admonitions) - AutoHotkey GUI for Obsidian-Admonitions plugin
 - [vincvincvinc/autohotkey-scripts](https://github.com/vincvincvinc/autohotkey-scripts) - Collection of autohotkey scripts I use. Most are hacky mash-ups of self-made and copy-pasted.
@@ -128,6 +129,7 @@
 
 ## Batchfile 
 
+- [niklasrast/Windows-PE-Builder](https://github.com/niklasrast/Windows-PE-Builder) - Code Snippets for WinPE building
 - [skrizzles/Device-Provisioning](https://github.com/skrizzles/Device-Provisioning) - Provisioning scripts and tools for devices I use (Windows, Mac, Android & iOS)
 - [Sporesirius/YAMS](https://github.com/Sporesirius/YAMS) - YAMS (Yet Another Multiboot System)
 - [joeldidier/Bootable-Windows-ISO-Creator](https://github.com/joeldidier/Bootable-Windows-ISO-Creator) - Create a bootable ISO (BIOS/UEFI) from Windows source installation files.
@@ -175,6 +177,7 @@
 
 ## C 
 
+- [pbatard/winpatch](https://github.com/pbatard/winpatch) - Windows system file patcher
 - [zodiacon/SystemExplorer](https://github.com/zodiacon/SystemExplorer) - Windows System Explorer
 - [rsa9000/regfanalysistools](https://github.com/rsa9000/regfanalysistools) - Low-level MS Windows registry files analysis tools
 - [janbodnar/Windows-API-examples](https://github.com/janbodnar/Windows-API-examples) - Sources from the ZetCode's Windows API tutorial
@@ -274,6 +277,10 @@
 
 ## C# # 
 
+- [belowaverage-org/SuperBGInfo](https://github.com/belowaverage-org/SuperBGInfo) - A re-creation of SysInternals BGInfo that doesn't touch the desktop wallpaper.
+- [hellzerg/cloning](https://github.com/hellzerg/cloning) - Backup and restore your programs settings
+- [builtbybel/ReadySunValley](https://github.com/builtbybel/ReadySunValley) - Replacement for Microsoft  PC Health Check app
+- [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11
 - [EdiWang/Moonglade-Tools](https://github.com/EdiWang/Moonglade-Tools) - Tools or scripts for clean up my blog system mess
 - [EdiWang/Tracing-UWP](https://github.com/EdiWang/Tracing-UWP) - Tracing (描图) App for Windows 10
 - [EdiWang/Azure-Blob-Backup](https://github.com/EdiWang/Azure-Blob-Backup) - Backup files in Azure Blob Storage to local file system.
@@ -588,7 +595,7 @@
 - [timtroendle/cookiecutter-reproducible-research](https://github.com/timtroendle/cookiecutter-reproducible-research) - A cookiecutter template for reproducible research projects using Python, Snakemake, and Pandoc.
 - [shanselman/firsttimersonly](https://github.com/shanselman/firsttimersonly) - The Repository for the FirstTimersOnly movement in Open Source. We want projects to reserve some issues for newbies.
 - [jimbrig/browsr](https://github.com/jimbrig/browsr) - Query advanced searches from your R console!
-- [TriDiamond/Obsidian-Obsidianite](https://github.com/TriDiamond/Obsidian-Obsidianite) - 🎨 Obsidian.md custom theme, it's dark and simple but yet still stays sparkles!
+- [bennyxguo/Obsidian-Obsidianite](https://github.com/bennyxguo/Obsidian-Obsidianite) - 🎨 Obsidian.md custom theme, it's dark and simple but yet still stays sparkles!
 - [ishgunacar/gitsidian](https://github.com/ishgunacar/gitsidian) - An obsidian theme inspired by GitHub markdown styles
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - Minimal theme for Obsidian
 - [timelyportfolio/tooltipsterR](https://github.com/timelyportfolio/tooltipsterR) - R htmlwidget for tooltipster
@@ -604,7 +611,7 @@
 - [EnMod/obsidian-so3-dictionary](https://github.com/EnMod/obsidian-so3-dictionary) - A fully-linked implementation of the Star Ocean: Till the End of Time dictionary feature as an Obsidian.md vault.
 - [binyamin/cobalt2-obsidian](https://github.com/binyamin/cobalt2-obsidian) - A port of the cobalt2 theme (@wesbos) for Obsidian.md
 - [steakscience/obsidian-matte-theme](https://github.com/steakscience/obsidian-matte-theme) - A theme for Obsidian. Focus on what matters.
-- [TriDiamond/typora-theme-obsidian](https://github.com/TriDiamond/typora-theme-obsidian) - A elegant theme with dark and light styles
+- [bennyxguo/typora-theme-obsidian](https://github.com/bennyxguo/typora-theme-obsidian) - A elegant theme with dark and light styles
 - [StefanoCecere/BuboLibro_RegaloSpeciale](https://github.com/StefanoCecere/BuboLibro_RegaloSpeciale) - il LibroGame da regalare ad un fratellino di 5 anni
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
@@ -806,6 +813,7 @@
 
 ## Go 
 
+- [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [lyraproj/lyra](https://github.com/lyraproj/lyra) - Open Source Workflow Engine for Cloud Native Infrastructure
 - [radekg/terraform-provisioner-ansible](https://github.com/radekg/terraform-provisioner-ansible) - Ansible with Terraform 0.14.x
 - [docker-archive/deploykit](https://github.com/docker-archive/deploykit) - A toolkit for creating and managing declarative, self-healing infrastructure.
@@ -1032,6 +1040,9 @@
 
 ## HTML 
 
+- [pbatard/pbatard.github.io](https://github.com/pbatard/pbatard.github.io) - Github pages
+- [BulmaTemplates/bulma-templates](https://github.com/BulmaTemplates/bulma-templates) - free flexbox templates built with the bulma css framework
+- [statnmap/interactive.maps.iframe](https://github.com/statnmap/interactive.maps.iframe) - 
 - [EdiWang/Guid-Generator](https://github.com/EdiWang/Guid-Generator) - GUID Generator in Blazor WASM
 - [jjallaire/reproducible-finance-with-r](https://github.com/jjallaire/reproducible-finance-with-r) - 
 - [iamshaunjp/regex-playlist](https://github.com/iamshaunjp/regex-playlist) - Course files for the Regular Expressions playlist on The Net Ninja YouTube channel.
@@ -2296,6 +2307,7 @@
 
 ## Jinja 
 
+- [juju4/ansible-harden-windows](https://github.com/juju4/ansible-harden-windows) - Ansible role to harden windows system
 - [40net-cloud/fortinet-gcp-solutions](https://github.com/40net-cloud/fortinet-gcp-solutions) - GCP Deployment Manager templates for easy and automated deployments of various Fortigate architectures in Google Compute.
 
 ## Jsonnet 
@@ -2447,6 +2459,20 @@
 
 ## Others 
 
+- [pratyakshm/CleanWin_Releases](https://github.com/pratyakshm/CleanWin_Releases) - 
+- [pratyakshm/ISOBuild](https://github.com/pratyakshm/ISOBuild) - 
+- [Hack-with-Github/Windows](https://github.com/Hack-with-Github/Windows) - Awesome tools to exploit Windows !
+- [niklasrast/Windows-10-Configuration-Files](https://github.com/niklasrast/Windows-10-Configuration-Files) - 
+- [builtbybel/CloneApp-UA](https://github.com/builtbybel/CloneApp-UA) - CloneApp UA is a free program for Microsoft's Windows 10 operating system that users and administrators may use to back up or restore settings of UWP applications on Windows 10 devices.
+- [jimscratch/ThisIsWin11](https://github.com/jimscratch/ThisIsWin11) - The real PowerToys for Windows 11
+- [statnmap/crrry](https://github.com/statnmap/crrry) - 'crrri' recipes for 'shiny'
+- [statnmap/gmailr](https://github.com/statnmap/gmailr) - Access the Gmail RESTful API from R.
+- [statnmap/repo.rtask](https://github.com/statnmap/repo.rtask) - Example for a blog post on rtask.thinkr.fr
+- [statnmap/compareWith](https://github.com/statnmap/compareWith) - RStudio Addins for Enhanced Diff and Merge
+- [statnmap/parsermd](https://github.com/statnmap/parsermd) - 
+- [statnmap/rocker-versioned2](https://github.com/statnmap/rocker-versioned2) - 
+- [statnmap/thinkr](https://github.com/statnmap/thinkr) - Some tools for cleaning up messy 'Excel' files to be suitable for R
+- [statnmap/namer](https://github.com/statnmap/namer) - R package :package: for labelling chunks of RMarkdown files! :boom:
 - [EdiWang/linux-cheatsheet-for-windows-users](https://github.com/EdiWang/linux-cheatsheet-for-windows-users) - For Windows folks like me who struggle to remember Linux commands
 - [samuelramox/awesome-javascript](https://github.com/samuelramox/awesome-javascript) - 
 - [samuelramox/react-payment-inputs](https://github.com/samuelramox/react-payment-inputs) - A React Hook & Container to help with payment card input fields.
@@ -2798,7 +2824,7 @@
 - [kevinushey/texPreview](https://github.com/kevinushey/texPreview) - Efficiently iterate, refine and share snippets of LaTeX in R with ease
 - [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [rubymorillo/pocket-tech-writing-list](https://github.com/rubymorillo/pocket-tech-writing-list) - A small but formidable list of technical writing resources for developers
-- [TriDiamond/theme-obsidian-doc](https://github.com/TriDiamond/theme-obsidian-doc) - Documentation for theme `Obisidian`
+- [bennyxguo/theme-obsidian-doc](https://github.com/bennyxguo/theme-obsidian-doc) - Documentation for theme `Obisidian`
 - [tallguyjenks/template](https://github.com/tallguyjenks/template) - My Template Repo
 - [tallguyjenks/LEARNING](https://github.com/tallguyjenks/LEARNING) - Using issues and project boards to track all my questions to learn new languages
 - [tallguyjenks/Obsidian-Workflow](https://github.com/tallguyjenks/Obsidian-Workflow) - An Alfred workflow for Obsidian
@@ -3291,6 +3317,41 @@
 
 ## PowerShell 
 
+- [dpet23/New-Machine-Settings](https://github.com/dpet23/New-Machine-Settings) - PowerShell scripts for setting up a new Windows 10 machine.
+- [Apoc70/Get-ExchangeEnvironmentReport](https://github.com/Apoc70/Get-ExchangeEnvironmentReport) - This script creates an HTML report showing the following information about an Exchange 2019, 2016, 2013, 2010, and, to a lesser extent, 2007 and 2003 environment.
+- [SConstantinou/SysInfo](https://github.com/SConstantinou/SysInfo) - PowerShell Module to get local and remote system information
+- [Digressive/WSUS-Maintenance](https://github.com/Digressive/WSUS-Maintenance) - Clean up your WSUS.
+- [SteveUnderScoreN/WindowsFirewall](https://github.com/SteveUnderScoreN/WindowsFirewall) - PowerShell scripts/GUI tools for the enterprise to harden Windows Defender Firewall via group policy (GPO). These can be used together with privileged access workstations (PAW) to enforce network level application whitelisting and strengthen the security posture of devices.
+- [scipag/PowerShellUtilities](https://github.com/scipag/PowerShellUtilities) - PowerShellUtilities provides various utility commandlets.
+- [ModuleBuild/ModuleBuild](https://github.com/ModuleBuild/ModuleBuild) - A scaffolding framework which can be used to kickstart a generic PowerShell module project.
+- [codingo/Retrieve-Windows-Wifi-Passwords](https://github.com/codingo/Retrieve-Windows-Wifi-Passwords) - Retreives the SSID names and passwords in cleartext for each Wifi network stored on the computer running this powershell script and output to JSON.
+- [pratyakshm/scripts](https://github.com/pratyakshm/scripts) - Automating shit
+- [pratyakshm/PowerShell_Scripts](https://github.com/pratyakshm/PowerShell_Scripts) - A repo that contains general PowerShell scripts that I personally use or are created for others.
+- [pratyakshm/CleanWin-test](https://github.com/pratyakshm/CleanWin-test) - 
+- [Ioan-Popovici/SCCM-Zone](https://github.com/Ioan-Popovici/SCCM-Zone) - My ♡ collection of PowerShell scripts and SCCM related stuff :)
+- [claustromaniac/Compare-UserJS](https://github.com/claustromaniac/Compare-UserJS) - PowerShell script for comparing user.js (or prefs.js) files.
+- [nickrod518/Create-EXEFromPS1](https://github.com/nickrod518/Create-EXEFromPS1) - Takes one PowerShell script and any number of supplementary files or even a directory and creates an exe using Windows's built in iexpress program. The exe will run on any machine with PowerShell 2.0+.
+- [lazywinadmin/LazyTS](https://github.com/lazywinadmin/LazyTS) - PowerShell Script (GUI) to manage Terminal Sessions
+- [aaronparker/intune](https://github.com/aaronparker/intune) - Various scripts for use with Microsoft Intune and Windows 10 Modern Management
+- [Micke-K/IntuneManagement](https://github.com/Micke-K/IntuneManagement) - Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI
+- [VikasSukhija/Downloads](https://github.com/VikasSukhija/Downloads) - AD Health Check, Send HTML Email,  Ping machines, Encrypt Password,Bulk Password,Microsoft Teams,Monitor Certificate expiry, Monitor cert expiry, AD attributes, IP to Hostname, Export AD group, CSV to SQL,Shutdown, Restart, Local Admin, Disk Space, Account expiry,Restore Permissions, Backup permissions, Delete Files Older Than X-Days, export DHCP options,Read Registry,Distribution group AD attributes,Monitor Windows Services,Export Reverse DNS,Task Monitor,Monitor and alert, Exchange Health check,Get Network Info, Export AD Attributes,AD group members, Office 365 Group member, SQL to CSV, Outlook save send attachments, Upload files to FTP,Exchange – Total Messages Sent Received, Set Teams Only Mode, Intune Duplicate Device,Intune Cleanup Not Evaluated, Ownership and Grant Permissions, Write Create Modify Registry , Organization Hierarchy from AD,Azure AD Privileged Identity Management,Intune – Export MAM Devices,Intune Marking devices as Corporate, Dynamic to Static Distribution Group,Monitor Alert Office 365 services,Group Member Count,Bulk Addition external users sharepoint, ADD to Exchange online License Group,All in One Office 365 Powershell,Bulk Addition of Secondary Email, Automate move mailboxes to o365, Addition Modification Termination Exchange users, Monitoring Unified Messaging port,Unified Messaging Extensions Report, Set Default Quota for SharePoint,Bulk Contact Creation and Forwarding, Uploading and Downloading files sftp, Monitoring Sftp file and download, Office 365 groups Write back, CSV parser, Email address update, Email address modify, MDM enrollment, Welcome Email, Intune Welcome Email, remove messages, remove email, SKOB to AD, SKOB to group, PowerApps report, Powerautomate Report, Flow report, Server QA, Server Check List, O365 IP range, IP range Monitor, o365 Admin Roles, memberof extraction, CSV to Excel,  Skype Policy, UPN Flip, Rooms Report, License Reconciliation,Intune Bulk Device Removal, Device Removal, Clear Activesync, Lync Account Termination,Lync Account Removal, Enable office 365 services, Enable o365 Services, Export PST, Site collection Report, Office 365 Group Sites, System Admin,ActiveSync Report,White Space,Active Directory attributes, outlook automation, Intune Detect App, Distribution list Fix, Legacy DN, start service, stop service, disable service, Message tracking, Distribution lists report,Distribution groups report,Quota Report, Auto reply, out of office, robocopy multi session, Home Folder, local admin, Database, UPN SIP Mismatch, Recoverable deleted, teams number, Number assignment, teams phone, AD Group Hierarchy, Hierarchy membership, Sync Groups
+- [scriptrunner/ActionPacks](https://github.com/scriptrunner/ActionPacks) - Public PowerShell script gallery for ScriptRunner.
+- [JulianChow94/Windows-screenFetch](https://github.com/JulianChow94/Windows-screenFetch) - Powershell port of bash/unix screenfetch.
+- [BornToBeRoot/PowerShell_IPv4NetworkScanner](https://github.com/BornToBeRoot/PowerShell_IPv4NetworkScanner) - Powerful asynchronus IPv4 network scanner for PowerShell
+- [r00t-3xp10it/meterpeter](https://github.com/r00t-3xp10it/meterpeter) - C2 Powershell Command & Control Framework with BuiltIn Commands
+- [MSEndpointMgr/IntuneWin32AppPackager](https://github.com/MSEndpointMgr/IntuneWin32AppPackager) - This project aims at making it easier to package, create and at the same time document Win32 applications for Microsoft Intune
+- [wimmatthyssen/Hyper-V-VM-Template](https://github.com/wimmatthyssen/Hyper-V-VM-Template) - 
+- [niklasrast/Windows-10-BGInfo-Configurator](https://github.com/niklasrast/Windows-10-BGInfo-Configurator) - PowerShell script to install BGInfo with a default configuration on Windows 10
+- [niklasrast/Windows-10-OEM-BIOS-Productkey-Activator](https://github.com/niklasrast/Windows-10-OEM-BIOS-Productkey-Activator) - Activate Windows 10 with the OEM-BIOS Product key
+- [niklasrast/Windows-10-OptionalFeature-Configurator](https://github.com/niklasrast/Windows-10-OptionalFeature-Configurator) - 
+- [niklasrast/Windows-10-PortableApp-Deployment](https://github.com/niklasrast/Windows-10-PortableApp-Deployment) - 
+- [niklasrast/Windows-10-Update-Cleanup](https://github.com/niklasrast/Windows-10-Update-Cleanup) - 
+- [niklasrast/Windows-10-ToastNotification-Wrapper](https://github.com/niklasrast/Windows-10-ToastNotification-Wrapper) - This repo contains an powershell scripts to send Windows 10 toast notifications to any windows 10 client.
+- [niklasrast/Windows-10-PowerShell-ExecutionPolicy-Configurator](https://github.com/niklasrast/Windows-10-PowerShell-ExecutionPolicy-Configurator) - This repo contains an powershell scripts to configure the execution policy for powershell on any windows 10 client.
+- [niklasrast/Windows-10-LocalAdministrators](https://github.com/niklasrast/Windows-10-LocalAdministrators) - Create local administrator accounts with or without a predefined password on Windows 10 clients
+- [niklasrast/Windows-11-Compatibility-Check](https://github.com/niklasrast/Windows-11-Compatibility-Check) - This repo contains an powershell script to test the compatibility from an windows 10 client to be able to install the upcoming windows 11. The result will be sent to an Microsoft Teams Channel.
+- [parkitwonka/Migrate-User-Data](https://github.com/parkitwonka/Migrate-User-Data) - 
+- [madbomb122/BlackViperScript](https://github.com/madbomb122/BlackViperScript) - Sets Win 10 Services based on Black Viper's Service Configurations
 - [joefitzgerald/packer-windows](https://github.com/joefitzgerald/packer-windows) - Windows Packer Templates
 - [EdiWang/EnvSetup](https://github.com/EdiWang/EnvSetup) - Choco script for setting up my dev box.
 - [samuelramox/windows-setup](https://github.com/samuelramox/windows-setup) - Windows 10 Setup Script
@@ -3349,7 +3410,6 @@
 - [foosel/scoop-tray](https://github.com/foosel/scoop-tray) - Systray companion for scoop. Polls for updates every 30min and alerts if there are any.
 - [jhochwald/PowerShell-collection](https://github.com/jhochwald/PowerShell-collection) - PowerShell Scripts, Tools, and Modules
 - [cyberark/epv-api-scripts](https://github.com/cyberark/epv-api-scripts) - These API scripts enable CyberArk users to automate privileged account management task like account creation, user management, and more.
-- [scriptrunner/ActionPacks](https://github.com/scriptrunner/ActionPacks) - Public PowerShell script gallery for ScriptRunner.
 - [directorcia/Office365](https://github.com/directorcia/Office365) - Office 365 scripts and information
 - [chocolatey/cChoco](https://github.com/chocolatey/cChoco) - Community resource to manage Chocolatey
 - [majkinetor/au](https://github.com/majkinetor/au) - Chocolatey Automatic Package Updater Module
@@ -3899,6 +3959,9 @@
 
 ## R 
 
+- [statnmap/cartomisc](https://github.com/statnmap/cartomisc) - Miscellaneous tools for spatial data manipulation and analysis
+- [statnmap/blog_tips](https://github.com/statnmap/blog_tips) - Complete R script files shared on the blog
+- [statnmap/arpr](https://github.com/statnmap/arpr) - Advanced R Pipes
 - [stla/NestedMenu](https://github.com/stla/NestedMenu) - 
 - [stla/gfiUltra](https://github.com/stla/gfiUltra) - Generalized fiducial inference for ultrahigh-dimensional regression.
 - [stla/syt](https://github.com/stla/syt) - R package for standard Young tableaux
@@ -6464,6 +6527,7 @@
 
 ## Ruby 
 
+- [boxcutter/windows](https://github.com/boxcutter/windows) - Virtual machine templates for Windows written in legacy JSON and Batch Scripting/JScript
 - [devkitspaces/vagrant-desktop](https://github.com/devkitspaces/vagrant-desktop) - This repository provides a base Linux Desktop environment, sandboxed on your local computer.
 - [intercity/intercity-next](https://github.com/intercity/intercity-next) - Web control panel to deploy apps on your servers (with Dokku)
 - [jonashackt/ansible-windows-docker-springboot](https://github.com/jonashackt/ansible-windows-docker-springboot) - Example project showing how to provision, deploy, run & orchestrate Spring Boot apps with Docker Windows Containers on Docker Windows native using Packer, Powershell, Vagrant & Ansible
@@ -6631,6 +6695,9 @@
 
 ## Shell 
 
+- [LearnLinuxTV/ansible_desktop_tutorial](https://github.com/LearnLinuxTV/ansible_desktop_tutorial) - Ansible configuration for desktops and laptops
+- [xnng/my-git-bash](https://github.com/xnng/my-git-bash) - my git bash config
+- [caddyserver/dist](https://github.com/caddyserver/dist) - Resources for packaging and distributing Caddy
 - [sndnv/provision](https://github.com/sndnv/provision) - Ansible roles and playbooks for provisioning devices
 - [shakahl/ansible-runner-docker](https://github.com/shakahl/ansible-runner-docker) - Windows runtime environment for Ansible with seamless integration based on Docker.
 - [Vonng/pigsty](https://github.com/Vonng/pigsty) - Pigsty - Open-Source PostgreSQL Distribution
