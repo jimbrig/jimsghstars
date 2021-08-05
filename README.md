@@ -2238,7 +2238,6 @@
 - [dreamRs/shinypop](https://github.com/dreamRs/shinypop) - Collection of notifications, confirm dialogs and alerts for 'Shiny' applications
 - [hrbrmstr/supercaliheatmapwidget](https://github.com/hrbrmstr/supercaliheatmapwidget) - 📅 Supercalifragilistic HTML Calendar Heatmaps
 - [rstudio/nomnoml](https://github.com/rstudio/nomnoml) - Sassy 'UML' Diagrams for R
-- [juba/shinyglide](https://github.com/juba/shinyglide) - Glide.js component for Shiny apps
 - [alyssaxuu/flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
 - [openlayers/openlayers](https://github.com/openlayers/openlayers) - OpenLayers
 - [jquense/react-big-calendar](https://github.com/jquense/react-big-calendar) - gcal/outlook like calendar component
@@ -2463,7 +2462,6 @@
 - [pratyakshm/ISOBuild](https://github.com/pratyakshm/ISOBuild) - 
 - [Hack-with-Github/Windows](https://github.com/Hack-with-Github/Windows) - Awesome tools to exploit Windows !
 - [niklasrast/Windows-10-Configuration-Files](https://github.com/niklasrast/Windows-10-Configuration-Files) - 
-- [builtbybel/CloneApp-UA](https://github.com/builtbybel/CloneApp-UA) - CloneApp UA is a free program for Microsoft's Windows 10 operating system that users and administrators may use to back up or restore settings of UWP applications on Windows 10 devices.
 - [jimscratch/ThisIsWin11](https://github.com/jimscratch/ThisIsWin11) - The real PowerToys for Windows 11
 - [statnmap/crrry](https://github.com/statnmap/crrry) - 'crrri' recipes for 'shiny'
 - [statnmap/gmailr](https://github.com/statnmap/gmailr) - Access the Gmail RESTful API from R.
@@ -2941,7 +2939,7 @@
 - [heartexlabs/awesome-data-labeling](https://github.com/heartexlabs/awesome-data-labeling) - A curated list of awesome data labeling tools
 - [mdibaiee/awesome-lite-websites](https://github.com/mdibaiee/awesome-lite-websites) - A list of awesome lightweight websites without all the bloat
 - [aloisdg/awesome-regex](https://github.com/aloisdg/awesome-regex) - A curated collection of awesome Regex libraries, tools, frameworks and software
-- [noahbuscher/inspire](https://github.com/noahbuscher/inspire) - :bulb: Collection of web design & dev links
+- [noahbuscher/inspire](https://github.com/noahbuscher/inspire) - Collection of web design & development links :bulb:
 - [hantuzun/awesome-clojurescript](https://github.com/hantuzun/awesome-clojurescript) - A community driven list of ClojureScript frameworks, libraries and wrappers.
 - [ciconia/awesome-music](https://github.com/ciconia/awesome-music) - Awesome Music Projects
 - [ebu/awesome-broadcasting](https://github.com/ebu/awesome-broadcasting) - A curated list of amazingly awesome open source resources related to broadcast technologies
@@ -5843,6 +5841,7 @@
 - [rsheets/cellranger](https://github.com/rsheets/cellranger) - Helper functions to work with spreadsheets and the "A1:D10" style of cell range specification
 - [gadenbuie/xaringanthemer](https://github.com/gadenbuie/xaringanthemer) - 😎 Give your xaringan slides some style
 - [njtierney/syn](https://github.com/njtierney/syn) - syn - the thesaurus
+- [juba/shinyglide](https://github.com/juba/shinyglide) - Glide.js component for Shiny apps
 - [r-lib/memoise](https://github.com/r-lib/memoise) - Easy memoisation for R
 - [jcrodriguez1989/rco](https://github.com/jcrodriguez1989/rco) - Package: The R Code Optimizer
 - [ColinFay/hexmake](https://github.com/ColinFay/hexmake) - A Shiny App for Making Hex Stickers.
@@ -7092,6 +7091,7 @@
 
 ## TypeScript 
 
+- [derwish-pro/obsidian-unique-attachments](https://github.com/derwish-pro/obsidian-unique-attachments) - Obsidian plugin. Renames attachments, making their names unique.
 - [styxlab/next-cms-ghost](https://github.com/styxlab/next-cms-ghost) - Publish flaring fast blogs with Next.js and Ghost CMS
 - [mehulmpt/ghost-cms-nextjs](https://github.com/mehulmpt/ghost-cms-nextjs) - 
 - [up2jj/vscodist](https://github.com/up2jj/vscodist) - Create Todoist task directly from VS Code
