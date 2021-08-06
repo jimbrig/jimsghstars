@@ -711,6 +711,7 @@
 
 ## Common Lisp 
 
+- [miclill/next](https://github.com/miclill/next) - Next Browser - Be Productive.
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the Internet on your terms.
 
 ## D 
@@ -813,6 +814,7 @@
 
 ## Go 
 
+- [hashicorp/terraform-provider-google-beta](https://github.com/hashicorp/terraform-provider-google-beta) - Terraform Google Cloud Platform Beta provider
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [lyraproj/lyra](https://github.com/lyraproj/lyra) - Open Source Workflow Engine for Cloud Native Infrastructure
 - [radekg/terraform-provisioner-ansible](https://github.com/radekg/terraform-provisioner-ansible) - Ansible with Terraform 0.14.x
@@ -1020,6 +1022,7 @@
 
 ## HCL 
 
+- [terraform-google-modules/terraform-google-bootstrap](https://github.com/terraform-google-modules/terraform-google-bootstrap) - A module for bootstrapping Terraform usage in a new GCP organization.
 - [dhoer/terraform_examples](https://github.com/dhoer/terraform_examples) - Terraform AWS Windows examples
 - [marcinbojko/hv-packer](https://github.com/marcinbojko/hv-packer) - Hyper-V Generation 2 Packer Templates for Windows 2016/2019, Windows Server and CentOS 7.x/AlmaLinux 8.x
 - [GoogleCloudPlatform/solutions-terraform-cloudbuild-gitops](https://github.com/GoogleCloudPlatform/solutions-terraform-cloudbuild-gitops) - 
@@ -1040,6 +1043,7 @@
 
 ## HTML 
 
+- [kbroman/kbroman.github.io](https://github.com/kbroman/kbroman.github.io) - Karl Broman's website
 - [pbatard/pbatard.github.io](https://github.com/pbatard/pbatard.github.io) - Github pages
 - [BulmaTemplates/bulma-templates](https://github.com/BulmaTemplates/bulma-templates) - free flexbox templates built with the bulma css framework
 - [statnmap/interactive.maps.iframe](https://github.com/statnmap/interactive.maps.iframe) - 
@@ -1229,7 +1233,7 @@
 - [shinydevseries/shinydevseries_site](https://github.com/shinydevseries/shinydevseries_site) - Web site for Shiny Developer Series
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 - [alejandrogallo/papis](https://github.com/alejandrogallo/papis) - Powerful and highly extensible command-line based document and bibliography manager.
-- [kebifurai/TiddlyResearch](https://github.com/kebifurai/TiddlyResearch) - Local and Anki-compatible note-taking tool based on TiddlyWiki
+- [postkevone/TiddlyResearch](https://github.com/postkevone/TiddlyResearch) - Local and Anki-compatible note-taking tool based on TiddlyWiki
 - [WaylonWalker/waylonwalkerv2](https://github.com/WaylonWalker/waylonwalkerv2) - My personal website, mostly a blog, always a work in progress.
 - [awesome-br/awesome-br.github.io](https://github.com/awesome-br/awesome-br.github.io) - 
 - [MarcSkovMadsen/awesome-streamlit](https://github.com/MarcSkovMadsen/awesome-streamlit) - The purpose of this project is to share knowledge on how awesome Streamlit is and can be
@@ -1509,6 +1513,8 @@
 
 ## JavaScript 
 
+- [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.
+- [farag2/Mozilla-Firefox](https://github.com/farag2/Mozilla-Firefox) - Config (user.js) for Mozilla Firefox
 - [iamshaunjp/js-tricks-countdown](https://github.com/iamshaunjp/js-tricks-countdown) - Allc ompleted files for the JavaScript Ticks video - Creating an Animating Countdown
 - [iamshaunjp/next-netlify-identity](https://github.com/iamshaunjp/next-netlify-identity) - 
 - [iamshaunjp/node-js-playlist](https://github.com/iamshaunjp/node-js-playlist) - CSS and asset files for the Net Ninja YouTube nodejs playlist
@@ -2386,6 +2392,7 @@
 
 ## Makefile 
 
+- [koaning/makefile-demo](https://github.com/koaning/makefile-demo) - just a demo of a makefile in action
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 - [VPraharsha03/DevuanWSL](https://github.com/VPraharsha03/DevuanWSL) - Devuan as a WSL instance. A Debian variant without the complexities and dependencies of systemd.
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
@@ -2458,6 +2465,7 @@
 
 ## Others 
 
+- [orta/typescript-notes](https://github.com/orta/typescript-notes) - High-level notes about TypeScript
 - [pratyakshm/CleanWin_Releases](https://github.com/pratyakshm/CleanWin_Releases) - 
 - [pratyakshm/ISOBuild](https://github.com/pratyakshm/ISOBuild) - 
 - [Hack-with-Github/Windows](https://github.com/Hack-with-Github/Windows) - Awesome tools to exploit Windows !
@@ -2980,7 +2988,7 @@
 - [tmcw/awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
 - [t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome) - :octocat: A a curated list of curated lists of awesome lists.
 - [zingchart/awesome-charting](https://github.com/zingchart/awesome-charting) - A curated list of the best charting and dataviz resources that developers may find useful, including the best JavaScript charting libraries
-- [matttga/awesome-product-design](https://github.com/matttga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
+- [ttt30ga/awesome-product-design](https://github.com/ttt30ga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
 - [Kikobeats/awesome-api](https://github.com/Kikobeats/awesome-api) - A curated list of awesome resources for design and implement RESTful API's.
 - [marcobiedermann/search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization) - :mag: A helpful checklist/collection of Search Engine Optimization (SEO) tips and techniques.
 - [diegocard/awesome-html5](https://github.com/diegocard/awesome-html5) - :memo: A curated list of awesome HTML5 resources
@@ -3315,6 +3323,13 @@
 
 ## PowerShell 
 
+- [zeiss-digital-innovation/install-hashicorp-binaries](https://github.com/zeiss-digital-innovation/install-hashicorp-binaries) - 
+- [farag2/Nvidia-Intel](https://github.com/farag2/Nvidia-Intel) - Setup Nvidia & Intel services
+- [farag2/Delete-old-drivers](https://github.com/farag2/Delete-old-drivers) - Delete old drivers using Get-WindowsDriver
+- [farag2/Hyper-V](https://github.com/farag2/Hyper-V) - Install OS in a Virtual Machine using Hyper-V easily than ever
+- [farag2/Adobe-Acrobat-DC-Setup](https://github.com/farag2/Adobe-Acrobat-DC-Setup) - Adobe Acrobat Pro/Reader DC Setup
+- [farag2/PC-information](https://github.com/farag2/PC-information) - Get all PC information
+- [windows-admins/Technet-Gallery](https://github.com/windows-admins/Technet-Gallery) - Technet Gallery
 - [dpet23/New-Machine-Settings](https://github.com/dpet23/New-Machine-Settings) - PowerShell scripts for setting up a new Windows 10 machine.
 - [Apoc70/Get-ExchangeEnvironmentReport](https://github.com/Apoc70/Get-ExchangeEnvironmentReport) - This script creates an HTML report showing the following information about an Exchange 2019, 2016, 2013, 2010, and, to a lesser extent, 2007 and 2003 environment.
 - [SConstantinou/SysInfo](https://github.com/SConstantinou/SysInfo) - PowerShell Module to get local and remote system information
@@ -3577,7 +3592,7 @@
 - [equk/windows](https://github.com/equk/windows) - 💎 tweaks & fixes for windows 10 - mostly powershell
 - [madbomb122/Win10Script](https://github.com/madbomb122/Win10Script) - Win 10 Powershell Script to tweak and change windows settings
 - [lukesampson/scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
-- [farag2/Windows-10-Sophia-Script](https://github.com/farag2/Windows-10-Sophia-Script) - :zap: A powerful PowerShell module for fine-tuning and tweaking Windows 10
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: A powerful PowerShell module for fine-tuning and tweaking Windows 10 & Windows 11
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 - [ironmansoftware/universal-dashboard](https://github.com/ironmansoftware/universal-dashboard) - Build beautiful websites with PowerShell.
 - [AlexanderSavenkov/Zotero-Obdisian-Picker-Windows](https://github.com/AlexanderSavenkov/Zotero-Obdisian-Picker-Windows) - Allows you to call up a Zotero picker from within Obsidian in Windows 10
@@ -3594,6 +3609,7 @@
 
 ## Python 
 
+- [koaning/mktestdocs](https://github.com/koaning/mktestdocs) - Run pytest against markdown files/docstrings.
 - [CentOS-PaaS-SIG/linchpin](https://github.com/CentOS-PaaS-SIG/linchpin) - ansible based multicloud orchestrator
 - [ansible-provisioning/ansible-provisioning](https://github.com/ansible-provisioning/ansible-provisioning) - Ansible provisioning framework - a set of modules, plugins, and documentation for provisioning with Ansible
 - [3omar-mostafa/Windows-ISO-Extractor](https://github.com/3omar-mostafa/Windows-ISO-Extractor) - Extract Important files from MS Windows ISO files
@@ -3659,7 +3675,7 @@
 - [mdneuzerling/starfleet](https://github.com/mdneuzerling/starfleet) - Configuration files for my personal Kubernetes (k3s) cluster
 - [jotweh/IssueRelocate](https://github.com/jotweh/IssueRelocate) - RZGithubUtils
 - [lorenzwalthert/pre-commit](https://github.com/lorenzwalthert/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
-- [strictdoc-project/strictdoc](https://github.com/strictdoc-project/strictdoc) - Software for writing technical requirements specifications.
+- [strictdoc-project/strictdoc](https://github.com/strictdoc-project/strictdoc) - Software for writing traceable technical requirements specifications.
 - [randy3k/ProjectManager](https://github.com/randy3k/ProjectManager) - Project Manager for Sublime Text
 - [gonzalezben81/simplefastapi](https://github.com/gonzalezben81/simplefastapi) - Simple Dockerfile to create a working fastapi example
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
@@ -3957,6 +3973,9 @@
 
 ## R 
 
+- [jamovi/jmv](https://github.com/jamovi/jmv) - jamovi for R
+- [jamovi/jmvtools](https://github.com/jamovi/jmvtools) - An R package which makes it easy to develop modules for jamovi
+- [adhikars11/shinymodels](https://github.com/adhikars11/shinymodels) - 
 - [statnmap/cartomisc](https://github.com/statnmap/cartomisc) - Miscellaneous tools for spatial data manipulation and analysis
 - [statnmap/blog_tips](https://github.com/statnmap/blog_tips) - Complete R script files shared on the blog
 - [statnmap/arpr](https://github.com/statnmap/arpr) - Advanced R Pipes
@@ -6526,6 +6545,8 @@
 
 ## Ruby 
 
+- [kbroman/minimal_make](https://github.com/kbroman/minimal_make) - Minimal make: A minimal tutorial on the most important tool for reproducible research
+- [kbroman/dataorg](https://github.com/kbroman/dataorg) - Tutorial on organizing data in spreadsheets.
 - [boxcutter/windows](https://github.com/boxcutter/windows) - Virtual machine templates for Windows written in legacy JSON and Batch Scripting/JScript
 - [devkitspaces/vagrant-desktop](https://github.com/devkitspaces/vagrant-desktop) - This repository provides a base Linux Desktop environment, sandboxed on your local computer.
 - [intercity/intercity-next](https://github.com/intercity/intercity-next) - Web control panel to deploy apps on your servers (with Dokku)
@@ -6694,6 +6715,7 @@
 
 ## Shell 
 
+- [garvincasimir/Azure-ISO-To-VHD](https://github.com/garvincasimir/Azure-ISO-To-VHD) - 
 - [LearnLinuxTV/ansible_desktop_tutorial](https://github.com/LearnLinuxTV/ansible_desktop_tutorial) - Ansible configuration for desktops and laptops
 - [xnng/my-git-bash](https://github.com/xnng/my-git-bash) - my git bash config
 - [caddyserver/dist](https://github.com/caddyserver/dist) - Resources for packaging and distributing Caddy
@@ -7391,6 +7413,7 @@
 
 ## VBScript 
 
+- [farag2/Office](https://github.com/farag2/Office) - Setup Office 2016/2019
 - [rickstaa/todoist-global-shortcuts-WIN10](https://github.com/rickstaa/todoist-global-shortcuts-WIN10) - Since TODOIST its Windows 10 app doesn’t support global shortcuts at the moment. I made a little workaround for the "open TODOIST" global shortcut.
 - [ReneNyffenegger/about-VBScript](https://github.com/ReneNyffenegger/about-VBScript) - about VBScript
 
