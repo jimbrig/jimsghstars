@@ -277,6 +277,7 @@
 
 ## C# # 
 
+- [AlexAsplund/PowershellStarter](https://github.com/AlexAsplund/PowershellStarter) - Starts Powershell scripts as service in windows
 - [belowaverage-org/SuperBGInfo](https://github.com/belowaverage-org/SuperBGInfo) - A re-creation of SysInternals BGInfo that doesn't touch the desktop wallpaper.
 - [hellzerg/cloning](https://github.com/hellzerg/cloning) - Backup and restore your programs settings
 - [builtbybel/ReadySunValley](https://github.com/builtbybel/ReadySunValley) - Replacement for Microsoft  PC Health Check app
@@ -814,6 +815,8 @@
 
 ## Go 
 
+- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Community maintained clone of https://github.com/dgrijalva/jwt-go
+- [jamesroutley/news.routley.io](https://github.com/jamesroutley/news.routley.io) - 🗞 My personal RSS feed
 - [hashicorp/terraform-provider-google-beta](https://github.com/hashicorp/terraform-provider-google-beta) - Terraform Google Cloud Platform Beta provider
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [lyraproj/lyra](https://github.com/lyraproj/lyra) - Open Source Workflow Engine for Cloud Native Infrastructure
@@ -1043,6 +1046,7 @@
 
 ## HTML 
 
+- [ivangeorgiev/dj-statuspage](https://github.com/ivangeorgiev/dj-statuspage) - System Status Page for Django
 - [kbroman/kbroman.github.io](https://github.com/kbroman/kbroman.github.io) - Karl Broman's website
 - [pbatard/pbatard.github.io](https://github.com/pbatard/pbatard.github.io) - Github pages
 - [BulmaTemplates/bulma-templates](https://github.com/BulmaTemplates/bulma-templates) - free flexbox templates built with the bulma css framework
@@ -1513,6 +1517,11 @@
 
 ## JavaScript 
 
+- [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
+- [beautifulinteractions/beautiful-react-hooks](https://github.com/beautifulinteractions/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
+- [fastify/fastify-nextjs](https://github.com/fastify/fastify-nextjs) - React server side rendering support for Fastify with Next
+- [styxlab/gatsby-starter-try-ghost](https://github.com/styxlab/gatsby-starter-try-ghost) - Publish flaring fast blogs with Gatsby and Ghost
+- [acorcutt/next-multi-host](https://github.com/acorcutt/next-multi-host) - Multiple domains hosting on next.js
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.
 - [farag2/Mozilla-Firefox](https://github.com/farag2/Mozilla-Firefox) - Config (user.js) for Mozilla Firefox
 - [iamshaunjp/js-tricks-countdown](https://github.com/iamshaunjp/js-tricks-countdown) - Allc ompleted files for the JavaScript Ticks video - Creating an Animating Countdown
@@ -1629,7 +1638,7 @@
 - [malsup/blockui](https://github.com/malsup/blockui) - jQuery BlockUI Plugin
 - [expo/expo-github-action](https://github.com/expo/expo-github-action) - Expo in your GitHub Actions workflow
 - [react-native-mapbox-gl/maps](https://github.com/react-native-mapbox-gl/maps) - A Mapbox GL react native module for creating custom maps
-- [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers a website and a Chrome extension.
+- [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
 - [flexible-agency/react-native-map-link](https://github.com/flexible-agency/react-native-map-link) - 🗺 Open the map app of the user's choice.
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
 - [timmywheels/github-api-tutorial](https://github.com/timmywheels/github-api-tutorial) - 👨‍💻⚡️🛠 A Quick Tutorial on Building a Simple Web App w/ the GitHub API
@@ -2465,6 +2474,8 @@
 
 ## Others 
 
+- [apreshill/ppt-templates](https://github.com/apreshill/ppt-templates) - 
+- [jimbrig/static-site-examples](https://github.com/jimbrig/static-site-examples) - A monorepo housing various static site generators and front-end frameworks.
 - [orta/typescript-notes](https://github.com/orta/typescript-notes) - High-level notes about TypeScript
 - [pratyakshm/CleanWin_Releases](https://github.com/pratyakshm/CleanWin_Releases) - 
 - [pratyakshm/ISOBuild](https://github.com/pratyakshm/ISOBuild) - 
@@ -3323,6 +3334,8 @@
 
 ## PowerShell 
 
+- [AlexAsplund/Nozbe-Powershell-Module](https://github.com/AlexAsplund/Nozbe-Powershell-Module) - Powershell module for Nozbe
+- [AlexAsplund/MyPowershellRepository](https://github.com/AlexAsplund/MyPowershellRepository) - Here I'll add my public powershell modules, scripts and such
 - [zeiss-digital-innovation/install-hashicorp-binaries](https://github.com/zeiss-digital-innovation/install-hashicorp-binaries) - 
 - [farag2/Nvidia-Intel](https://github.com/farag2/Nvidia-Intel) - Setup Nvidia & Intel services
 - [farag2/Delete-old-drivers](https://github.com/farag2/Delete-old-drivers) - Delete old drivers using Get-WindowsDriver
@@ -3609,6 +3622,7 @@
 
 ## Python 
 
+- [django-hijack/django-hijack](https://github.com/django-hijack/django-hijack) - With Django Hijack, admins can log in and work on behalf of other users without having to know their credentials.
 - [koaning/mktestdocs](https://github.com/koaning/mktestdocs) - Run pytest against markdown files/docstrings.
 - [CentOS-PaaS-SIG/linchpin](https://github.com/CentOS-PaaS-SIG/linchpin) - ansible based multicloud orchestrator
 - [ansible-provisioning/ansible-provisioning](https://github.com/ansible-provisioning/ansible-provisioning) - Ansible provisioning framework - a set of modules, plugins, and documentation for provisioning with Ansible
@@ -3973,6 +3987,10 @@
 
 ## R 
 
+- [dreamRs/phosphoricons](https://github.com/dreamRs/phosphoricons) - Phosphor Icons for R
+- [OHDSI/ParallelLogger](https://github.com/OHDSI/ParallelLogger) - An R package for easy parallel computing, logging, and function call automation.
+- [yihui/crandalf](https://github.com/yihui/crandalf) - Check all reverse dependencies of your R package with Github Actions
+- [MilesMcBain/paint](https://github.com/MilesMcBain/paint) - paint the data
 - [jamovi/jmv](https://github.com/jamovi/jmv) - jamovi for R
 - [jamovi/jmvtools](https://github.com/jamovi/jmvtools) - An R package which makes it easy to develop modules for jamovi
 - [adhikars11/shinymodels](https://github.com/adhikars11/shinymodels) - 
@@ -6606,6 +6624,7 @@
 
 ## Rust 
 
+- [extendr/libR-sys](https://github.com/extendr/libR-sys) - Low level R bindgen interface
 - [hoodie/toastify](https://github.com/hoodie/toastify) - 🍞A commandline tool that shows desktop notifications using notify-rust
 - [rami3l/pacaptr](https://github.com/rami3l/pacaptr) - Pacman-like syntax wrapper for many package managers.
 - [sourcefrog/conserve](https://github.com/sourcefrog/conserve) - [beta] robust portable backup tool in Rust
@@ -7113,6 +7132,7 @@
 
 ## TypeScript 
 
+- [mattwaler/next-ssr-starter](https://github.com/mattwaler/next-ssr-starter) - A starter project for Next with session-based auth ready to go.
 - [derwish-pro/obsidian-unique-attachments](https://github.com/derwish-pro/obsidian-unique-attachments) - Obsidian plugin. Renames attachments, making their names unique.
 - [styxlab/next-cms-ghost](https://github.com/styxlab/next-cms-ghost) - Publish flaring fast blogs with Next.js and Ghost CMS
 - [mehulmpt/ghost-cms-nextjs](https://github.com/mehulmpt/ghost-cms-nextjs) - 
