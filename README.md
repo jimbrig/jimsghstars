@@ -815,6 +815,7 @@
 
 ## Go 
 
+- [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Software Delivery Workflow For Kubernetes
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Community maintained clone of https://github.com/dgrijalva/jwt-go
 - [jamesroutley/news.routley.io](https://github.com/jamesroutley/news.routley.io) - 🗞 My personal RSS feed
 - [hashicorp/terraform-provider-google-beta](https://github.com/hashicorp/terraform-provider-google-beta) - Terraform Google Cloud Platform Beta provider
@@ -1046,6 +1047,12 @@
 
 ## HTML 
 
+- [mdn/dom-examples](https://github.com/mdn/dom-examples) - Code examples that accompany various MDN DOM and Web API documentation pages
+- [mdn/css-examples](https://github.com/mdn/css-examples) - Code examples that accompany the MDN CSS documentation
+- [mdn/beginner-html-site](https://github.com/mdn/beginner-html-site) - A simple one page website created to help complete beginners learn HTML basics. This example is built up over the course of https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/HTML_basics
+- [mdn/interactive-examples](https://github.com/mdn/interactive-examples) - Home of the MDN live code editor interactive examples
+- [mdn/insights](https://github.com/mdn/insights) - The repo that powers MDN Web Docs Insights.
+- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [ivangeorgiev/dj-statuspage](https://github.com/ivangeorgiev/dj-statuspage) - System Status Page for Django
 - [kbroman/kbroman.github.io](https://github.com/kbroman/kbroman.github.io) - Karl Broman's website
 - [pbatard/pbatard.github.io](https://github.com/pbatard/pbatard.github.io) - Github pages
@@ -1201,7 +1208,7 @@
 - [xxxzeus/goffer](https://github.com/xxxzeus/goffer) - Beautiful and basic file manager written on electron.js
 - [victoriadrake/hugo-theme-introduction](https://github.com/victoriadrake/hugo-theme-introduction) - Minimal, single page, smooth-scrolling theme for Hugo static site generator.
 - [thebioengineer/validation](https://github.com/thebioengineer/validation) - Repository for Validation of R Packages
-- [JohnCoene/javascript-for-r](https://github.com/JohnCoene/javascript-for-r) - JavaScript for R CRC Book
+- [JohnCoene/javascript-for-r](https://github.com/JohnCoene/javascript-for-r) - 📚 JavaScript for R CRC Book
 - [yihui/xran](https://github.com/yihui/xran) - Xie's R Archive Network (experimental and for my personal interest only)
 - [w01fgang/webhook-logger](https://github.com/w01fgang/webhook-logger) - 
 - [znlbwo/gitstars](https://github.com/znlbwo/gitstars) - Github Stars Repositories Manager
@@ -1517,6 +1524,8 @@
 
 ## JavaScript 
 
+- [Rohithv07/Docker](https://github.com/Rohithv07/Docker) - My Workplay on Docker and Kubernetes. Ref : https://github.com/Rohithv07/DockerCasts
+- [mdn/data](https://github.com/mdn/data) - This repository contains general data for Web technologies
 - [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [beautifulinteractions/beautiful-react-hooks](https://github.com/beautifulinteractions/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [fastify/fastify-nextjs](https://github.com/fastify/fastify-nextjs) - React server side rendering support for Fastify with Next
@@ -1937,7 +1946,7 @@
 - [timelyportfolio/rCharts_d3_sankey](https://github.com/timelyportfolio/rCharts_d3_sankey) - rCharts implementation of d3 sankey plugin
 - [benlcollins/apps_script](https://github.com/benlcollins/apps_script) - 
 - [jonasschmedtmann/complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course) - Starter files, final projects, and FAQ for my Complete JavaScript course
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Materials to help you rock your next coding interview
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [kentcdodds/react-fundamentals](https://github.com/kentcdodds/react-fundamentals) - Material for my React Fundamentals Workshop
 - [b3nsn0w/koa-easy-ws](https://github.com/b3nsn0w/koa-easy-ws) - Simple Koa middleware for websocket handling
@@ -2087,7 +2096,6 @@
 - [TryGhost/gatsby-starter-ghost](https://github.com/TryGhost/gatsby-starter-ghost) - A starter template to build lightning fast websites with Ghost & Gatsby
 - [saimn/sigal](https://github.com/saimn/sigal) - yet another simple static gallery generator
 - [elmasse/nextein](https://github.com/elmasse/nextein) - A static site generator with markdown + react for Next.js
-- [Vagr9K/gatsby-advanced-starter](https://github.com/Vagr9K/gatsby-advanced-starter) - A high performance skeleton starter for GatsbyJS that focuses on SEO/Social features/development environment.
 - [netlify-templates/gatsby-starter-netlify-cms](https://github.com/netlify-templates/gatsby-starter-netlify-cms) - Example gatsby + netlify cms project
 - [eduardoboucas/staticman](https://github.com/eduardoboucas/staticman) - 💪  User-generated content for Git-powered websites
 - [react-static/react-static](https://github.com/react-static/react-static) - ⚛️ 🚀 A progressive static site generator for React.
@@ -2321,6 +2329,7 @@
 
 ## Jinja 
 
+- [mdn/ansible-jenkins](https://github.com/mdn/ansible-jenkins) - Jenkins ansible playbook
 - [juju4/ansible-harden-windows](https://github.com/juju4/ansible-harden-windows) - Ansible role to harden windows system
 - [40net-cloud/fortinet-gcp-solutions](https://github.com/40net-cloud/fortinet-gcp-solutions) - GCP Deployment Manager templates for easy and automated deployments of various Fortigate architectures in Google Compute.
 
@@ -2401,6 +2410,7 @@
 
 ## Makefile 
 
+- [enspirit/makefile-for-monorepos](https://github.com/enspirit/makefile-for-monorepos) - A flexible and extensible makefile for monorepos with  docker/docker-compose.
 - [koaning/makefile-demo](https://github.com/koaning/makefile-demo) - just a demo of a makefile in action
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 - [VPraharsha03/DevuanWSL](https://github.com/VPraharsha03/DevuanWSL) - Devuan as a WSL instance. A Debian variant without the complexities and dependencies of systemd.
@@ -2474,6 +2484,8 @@
 
 ## Others 
 
+- [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
+- [jinxankit/Bank-Database-Design](https://github.com/jinxankit/Bank-Database-Design) - 
 - [apreshill/ppt-templates](https://github.com/apreshill/ppt-templates) - 
 - [jimbrig/static-site-examples](https://github.com/jimbrig/static-site-examples) - A monorepo housing various static site generators and front-end frameworks.
 - [orta/typescript-notes](https://github.com/orta/typescript-notes) - High-level notes about TypeScript
@@ -3987,6 +3999,7 @@
 
 ## R 
 
+- [analythium/heroku-shiny](https://github.com/analythium/heroku-shiny) - Deploy Shiny Apps to Heroku with CLI and CI/CD
 - [dreamRs/phosphoricons](https://github.com/dreamRs/phosphoricons) - Phosphor Icons for R
 - [OHDSI/ParallelLogger](https://github.com/OHDSI/ParallelLogger) - An R package for easy parallel computing, logging, and function call automation.
 - [yihui/crandalf](https://github.com/yihui/crandalf) - Check all reverse dependencies of your R package with Github Actions
@@ -7132,6 +7145,8 @@
 
 ## TypeScript 
 
+- [meshcloud/collie-cli](https://github.com/meshcloud/collie-cli) - Collie CLI allows you to manage your AWS, Azure & GCP cloud landscape through a single view.
+- [auth0/nextjs-auth0](https://github.com/auth0/nextjs-auth0) - Next.js SDK for signing in with Auth0
 - [mattwaler/next-ssr-starter](https://github.com/mattwaler/next-ssr-starter) - A starter project for Next with session-based auth ready to go.
 - [derwish-pro/obsidian-unique-attachments](https://github.com/derwish-pro/obsidian-unique-attachments) - Obsidian plugin. Renames attachments, making their names unique.
 - [styxlab/next-cms-ghost](https://github.com/styxlab/next-cms-ghost) - Publish flaring fast blogs with Next.js and Ghost CMS
@@ -7366,6 +7381,7 @@
 - [tannerlinsley/react-query](https://github.com/tannerlinsley/react-query) - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
 - [prathamesh24307/DataCleanRoomUI](https://github.com/prathamesh24307/DataCleanRoomUI) - 
 - [benbalter/github-mention-highlighter](https://github.com/benbalter/github-mention-highlighter) - A Chrome extension that automatically highlights any time you are mentioned on a GitHub issue or pull request thread by highlighting your username, any team you're a member of, and the border of any containing comment.
+- [Vagr9K/gatsby-advanced-starter](https://github.com/Vagr9K/gatsby-advanced-starter) - A high performance skeleton starter for GatsbyJS with an advanced feature set.
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [ionic-team/stencil](https://github.com/ionic-team/stencil) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and traditional web developers from a single, framework-agnostic codebase.
 - [luvsic3/issue-md-generator](https://github.com/luvsic3/issue-md-generator) - A command-line tool to generate markdown list from your github repository issue page
