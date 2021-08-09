@@ -177,6 +177,7 @@
 
 ## C 
 
+- [vstakhov/libucl](https://github.com/vstakhov/libucl) - Universal configuration library parser
 - [pbatard/winpatch](https://github.com/pbatard/winpatch) - Windows system file patcher
 - [zodiacon/SystemExplorer](https://github.com/zodiacon/SystemExplorer) - Windows System Explorer
 - [rsa9000/regfanalysistools](https://github.com/rsa9000/regfanalysistools) - Low-level MS Windows registry files analysis tools
@@ -815,6 +816,7 @@
 
 ## Go 
 
+- [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Software Delivery Workflow For Kubernetes
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Community maintained clone of https://github.com/dgrijalva/jwt-go
 - [jamesroutley/news.routley.io](https://github.com/jamesroutley/news.routley.io) - 🗞 My personal RSS feed
@@ -1047,6 +1049,7 @@
 
 ## HTML 
 
+- [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [mdn/dom-examples](https://github.com/mdn/dom-examples) - Code examples that accompany various MDN DOM and Web API documentation pages
 - [mdn/css-examples](https://github.com/mdn/css-examples) - Code examples that accompany the MDN CSS documentation
 - [mdn/beginner-html-site](https://github.com/mdn/beginner-html-site) - A simple one page website created to help complete beginners learn HTML basics. This example is built up over the course of https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/HTML_basics
@@ -2114,7 +2117,7 @@
 - [richarddmorey/stat-distributions-js](https://github.com/richarddmorey/stat-distributions-js) - Javascript library for the visualization of statistical distributions
 - [sourcerer-io/awesome-libraries](https://github.com/sourcerer-io/awesome-libraries) - :sunglasses: Libraries that are being shown in Sourcerer profiles.
 - [ingalless/foam-template-gatsby-search](https://github.com/ingalless/foam-template-gatsby-search) - Foam template, built with Gatsby, plus search
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2021)
 - [renrousousuo/DocumentTemplate](https://github.com/renrousousuo/DocumentTemplate) - 文件 Markdown 格式。方便书写各种文档。
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -2484,6 +2487,7 @@
 
 ## Others 
 
+- [aristosv/google_auth](https://github.com/aristosv/google_auth) - How-To create Client ID and Client Secret for a Google project
 - [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
 - [jinxankit/Bank-Database-Design](https://github.com/jinxankit/Bank-Database-Design) - 
 - [apreshill/ppt-templates](https://github.com/apreshill/ppt-templates) - 
@@ -3346,6 +3350,7 @@
 
 ## PowerShell 
 
+- [kelleyma49/PSFzf](https://github.com/kelleyma49/PSFzf) - A PowerShell wrapper around the fuzzy finder fzf
 - [AlexAsplund/Nozbe-Powershell-Module](https://github.com/AlexAsplund/Nozbe-Powershell-Module) - Powershell module for Nozbe
 - [AlexAsplund/MyPowershellRepository](https://github.com/AlexAsplund/MyPowershellRepository) - Here I'll add my public powershell modules, scripts and such
 - [zeiss-digital-innovation/install-hashicorp-binaries](https://github.com/zeiss-digital-innovation/install-hashicorp-binaries) - 
@@ -6747,6 +6752,8 @@
 
 ## Shell 
 
+- [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
+- [zyrikby/managing_vscode_extensions](https://github.com/zyrikby/managing_vscode_extensions) - Bash scripts to manage Visual Studio Code extensions
 - [garvincasimir/Azure-ISO-To-VHD](https://github.com/garvincasimir/Azure-ISO-To-VHD) - 
 - [LearnLinuxTV/ansible_desktop_tutorial](https://github.com/LearnLinuxTV/ansible_desktop_tutorial) - Ansible configuration for desktops and laptops
 - [xnng/my-git-bash](https://github.com/xnng/my-git-bash) - my git bash config
@@ -7145,6 +7152,7 @@
 
 ## TypeScript 
 
+- [mrmartineau/gatsby-theme-code-notes](https://github.com/mrmartineau/gatsby-theme-code-notes) - A Gatsby theme for publishing code-related notes to your website
 - [meshcloud/collie-cli](https://github.com/meshcloud/collie-cli) - Collie CLI allows you to manage your AWS, Azure & GCP cloud landscape through a single view.
 - [auth0/nextjs-auth0](https://github.com/auth0/nextjs-auth0) - Next.js SDK for signing in with Auth0
 - [mattwaler/next-ssr-starter](https://github.com/mattwaler/next-ssr-starter) - A starter project for Next with session-based auth ready to go.
