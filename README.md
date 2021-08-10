@@ -986,7 +986,7 @@
 - [volcano-sh/devices](https://github.com/volcano-sh/devices) - Device plugins for Volcano, e.g. GPU
 - [ahmetb/sheets-url-shortener](https://github.com/ahmetb/sheets-url-shortener) - A simple short URL redirect service built on top of Google Sheets, and runs for cheap on Google Cloud Run serverless.
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
-- [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your cluster for use of deprecated APIs
+- [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [docker/cli](https://github.com/docker/cli) - The Docker CLI
 - [GoogleCloudPlatform/cloud-builders-community](https://github.com/GoogleCloudPlatform/cloud-builders-community) - Community-contributed images for Google Cloud Build
@@ -2487,6 +2487,7 @@
 
 ## Others 
 
+- [jimbrig/cloud-adoption-framework](https://github.com/jimbrig/cloud-adoption-framework) - Cloud Adoption Framework
 - [aristosv/google_auth](https://github.com/aristosv/google_auth) - How-To create Client ID and Client Secret for a Google project
 - [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
 - [jinxankit/Bank-Database-Design](https://github.com/jinxankit/Bank-Database-Design) - 
@@ -3517,7 +3518,7 @@
 - [OlafHaag/chocolatey-packages](https://github.com/OlafHaag/chocolatey-packages) - 
 - [chawyehsu/dorado](https://github.com/chawyehsu/dorado) - 🐟 Yet Another bucket for lovely Scoop
 - [Ash258/Scoop-Extras](https://github.com/Ash258/Scoop-Extras) - "Extras" bucket for Scoop
-- [Ash258/Scoop-GithubActions](https://github.com/Ash258/Scoop-GithubActions) - GitHub actions for scoop bucket automation.
+- [Ash258/Scoop-GithubActions](https://github.com/Ash258/Scoop-GithubActions) - Use https://github.com/shovel-org/GithubActions
 - [Ash258/Scoop-Main](https://github.com/Ash258/Scoop-Main) - 📦 The next-generation default bucket for Scoop.
 - [Ash258/Scoop-NirSoft](https://github.com/Ash258/Scoop-NirSoft) - WIP: All NirSoft applications and utilities
 - [Ash258/Scoop-Sysinternals](https://github.com/Ash258/Scoop-Sysinternals) - All Sysinternals tools separately.
@@ -4022,7 +4023,7 @@
 - [stla/bracketify](https://github.com/stla/bracketify) - RStudio addin to transform `foo$bar` to `foo[["bar"]]`.
 - [MilesMcBain/rmdocs](https://github.com/MilesMcBain/rmdocs) - browse help files as Rmarkdown documents
 - [DavisVaughan/test-renv](https://github.com/DavisVaughan/test-renv) - 
-- [StatisMike/shiny.reglog](https://github.com/StatisMike/shiny.reglog) - ShinyApps modules for optional account creation and log-in. It is NOT intended to being used for securing your apps but for user identification between sessions.
+- [StatisMike/shiny.reglog](https://github.com/StatisMike/shiny.reglog) - ShinyApps modules for user-handled account registering, password recovery and log-in.
 - [analythium/openfaas-rstats-templates](https://github.com/analythium/openfaas-rstats-templates) - OpenFaaS templates for R
 - [DeclareDesign/fabricatr](https://github.com/DeclareDesign/fabricatr) - fabricatr: Imagine Your Data Before You Collect It
 - [talgalili/installr](https://github.com/talgalili/installr) - Functions for installing softwares from within R
