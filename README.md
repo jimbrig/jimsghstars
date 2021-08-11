@@ -38,6 +38,7 @@
   - [Haml](#haml)
   - [Handlebars](#handlebars)
   - [Haskell](#haskell)
+  - [Inno Setup](#inno-setup)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jinja](#jinja)
@@ -129,6 +130,12 @@
 
 ## Batchfile 
 
+- [ChrisTitusTech/windows-lite-2004](https://github.com/ChrisTitusTech/windows-lite-2004) - AME scripts
+- [jpedrodsp/windows-quick-tools](https://github.com/jpedrodsp/windows-quick-tools) - A collection of Windows batches to setup a system, install tools and quickstart a development environment.
+- [ArtanisInc/Post-Tweaks](https://github.com/ArtanisInc/Post-Tweaks) - A post-installation batch script for Windows
+- [NIKHIL0VERMA/Hacks_and_Tricks_for_Windows](https://github.com/NIKHIL0VERMA/Hacks_and_Tricks_for_Windows) - Hello there, This repo contains small scripts or something like that which will definitely help full for windows users. Just follow the instruction of respective Scripts to use them, they are completely free to use. Report bug if appears in any script
+- [SethuSenthil/WindowsHacks](https://github.com/SethuSenthil/WindowsHacks) - A collection of all Windows Hacks 💀!
+- [farag2/ADB-Debloating](https://github.com/farag2/ADB-Debloating) - Debloat MIUI 12 and One UI 3.1 via ADB
 - [niklasrast/Windows-PE-Builder](https://github.com/niklasrast/Windows-PE-Builder) - Code Snippets for WinPE building
 - [skrizzles/Device-Provisioning](https://github.com/skrizzles/Device-Provisioning) - Provisioning scripts and tools for devices I use (Windows, Mac, Android & iOS)
 - [Sporesirius/YAMS](https://github.com/Sporesirius/YAMS) - YAMS (Yet Another Multiboot System)
@@ -278,6 +285,9 @@
 
 ## C# # 
 
+- [vbfox/win32iam](https://github.com/vbfox/win32iam) - Windows Installed Application Manager
+- [feel-the-dz3n/RegistryFileManager](https://github.com/feel-the-dz3n/RegistryFileManager) - Allows to add/move/remove real files to/from Windows Registry
+- [JannisKirschner/General-IT-Stuff](https://github.com/JannisKirschner/General-IT-Stuff) - This repository is meant to document my knowledge I've earned at work and in my spare time. Mostly System Engineering stuff :)
 - [AlexAsplund/PowershellStarter](https://github.com/AlexAsplund/PowershellStarter) - Starts Powershell scripts as service in windows
 - [belowaverage-org/SuperBGInfo](https://github.com/belowaverage-org/SuperBGInfo) - A re-creation of SysInternals BGInfo that doesn't touch the desktop wallpaper.
 - [hellzerg/cloning](https://github.com/hellzerg/cloning) - Backup and restore your programs settings
@@ -816,6 +826,7 @@
 
 ## Go 
 
+- [securitywithoutborders/hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
 - [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Software Delivery Workflow For Kubernetes
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Community maintained clone of https://github.com/dgrijalva/jwt-go
@@ -944,7 +955,7 @@
 - [mingrammer/go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars) - :star: Web frameworks for Go, most starred on GitHub
 - [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Kubernetes Native Batch System (Project under CNCF)
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
-- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed storage system for blobs, objects, files, and data lake, to store and serve billions of files fast! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
+- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV, mount cloud storage.
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [muesli/cache2go](https://github.com/muesli/cache2go) - Concurrency-safe Go caching library with expiration capabilities and access counters
 - [google/gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go
@@ -1473,6 +1484,11 @@
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [BurntSushi/erd](https://github.com/BurntSushi/erd) - Translates a plain text description of a relational database schema to a graphical entity-relationship diagram.
 
+## Inno Setup 
+
+- [tildehacker/apache-kafka-windows-installer](https://github.com/tildehacker/apache-kafka-windows-installer) - 🤖 Automatically download and install Apache Kafka on Windows.
+- [hardwario/bch-toolchain-windows](https://github.com/hardwario/bch-toolchain-windows) - HARDWARIO Toolchain for Windows
+
 ## Java 
 
 - [carlossg/jenkinsfile-runner-google-cloud-run](https://github.com/carlossg/jenkinsfile-runner-google-cloud-run) - Serverless Jenkins pipelines on Google Cloud Run
@@ -1527,6 +1543,7 @@
 
 ## JavaScript 
 
+- [dominique-mueller/exec-bin](https://github.com/dominique-mueller/exec-bin) - Run any binary files / executables within your npm scripts.
 - [Rohithv07/Docker](https://github.com/Rohithv07/Docker) - My Workplay on Docker and Kubernetes. Ref : https://github.com/Rohithv07/DockerCasts
 - [mdn/data](https://github.com/mdn/data) - This repository contains general data for Web technologies
 - [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
@@ -2487,6 +2504,24 @@
 
 ## Others 
 
+- [dwyl/dev-setup](https://github.com/dwyl/dev-setup) - :airplane: A quick-start guide for new developers on how to set up their environments
+- [andrewchaa/developer-machine-setup](https://github.com/andrewchaa/developer-machine-setup) - Mixed Development Environment on Mac with Windows on Parallels Desktop
+- [dominique-mueller/my-open-source-setup](https://github.com/dominique-mueller/my-open-source-setup) - My personal setup for Open Source projects on Github.
+- [dominique-mueller/my-hardware-setup](https://github.com/dominique-mueller/my-hardware-setup) - My personal hardware setup.
+- [dominique-mueller/my-scrum-setup](https://github.com/dominique-mueller/my-scrum-setup) - My personal SCRUM setup, including templates, DoR & DoD.
+- [dominique-mueller/awesome-web-development](https://github.com/dominique-mueller/awesome-web-development) - My personal list of web development websites, tools and resources
+- [tabs-not-spaces/WindowsTerminalTheme](https://github.com/tabs-not-spaces/WindowsTerminalTheme) - My WT Theme. For anyone to use.
+- [tomtom28/hello-windows](https://github.com/tomtom28/hello-windows) - Notes to self on creating a developer environment in Windows 10
+- [alandooz/HelloWorld](https://github.com/alandooz/HelloWorld) - A script to setup your new computer.
+- [Squirrel-installer-problems/info](https://github.com/Squirrel-installer-problems/info) - Squirrel installer problems - Impossible to install softwares where we want (example in Program Files)
+- [saidursumon96/winpartitionproblem](https://github.com/saidursumon96/winpartitionproblem) - Problem : We couldn't create a new partition or locate an existing one. For more information, see the Setup log files.
+- [JaipurJS/dev-setup](https://github.com/JaipurJS/dev-setup) - A Guide to setting up your developer environment on Mac, Windows and Unix based OSes
+- [dominique-mueller/my-computer-setup](https://github.com/dominique-mueller/my-computer-setup) - My personal computer setup.
+- [giangvdm/setup-guides](https://github.com/giangvdm/setup-guides) - Bunch of Guides on Installing and Setting up various development environment and tools.
+- [dominique-mueller/my-development-setup](https://github.com/dominique-mueller/my-development-setup) - My personal development setup, for Frontend Development on Windows.
+- [radarsu/me](https://github.com/radarsu/me) - Highly personal and opinionated AWESOME stuff for Typescript, JavaScript and Node.js full-stack developers along with my own best practices and setups 🙈🙉🙊
+- [Maux/win-tips-tricks](https://github.com/Maux/win-tips-tricks) - Windows Tips & Tricks
+- [abdzrahim/Note](https://github.com/abdzrahim/Note) - Trick and setting for python development for linux and windows
 - [jimbrig/cloud-adoption-framework](https://github.com/jimbrig/cloud-adoption-framework) - Cloud Adoption Framework
 - [aristosv/google_auth](https://github.com/aristosv/google_auth) - How-To create Client ID and Client Secret for a Google project
 - [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
@@ -3351,6 +3386,27 @@
 
 ## PowerShell 
 
+- [scriptman-de/windows-resetstick](https://github.com/scriptman-de/windows-resetstick) - Scripts to Add a Reset functionality to a Windows NativeBoot Environment
+- [Zezypisa/Remove-Bloatware](https://github.com/Zezypisa/Remove-Bloatware) - Removes bloatware from windows 10 depending on how intense it is
+- [Zezypisa/Remove-WindowsApps](https://github.com/Zezypisa/Remove-WindowsApps) - Removes WindowsApps + Friends from a drive if you reinstalled windows or encountered errors,
+- [Zezypisa/Toggle-Programs](https://github.com/Zezypisa/Toggle-Programs) - A Multi-toggler tool for toggling mulitple annoying programs like EA Desktop, Vanguard, and others.
+- [tikabu/TikabuPSModuleTemplate](https://github.com/tikabu/TikabuPSModuleTemplate) - Plaster template to scaffold PowerShell Modules
+- [MicrosoftDocs/Virtualization-Documentation](https://github.com/MicrosoftDocs/Virtualization-Documentation) - Place to store our documentation, code samples, etc for public consumption.
+- [tabs-not-spaces/Hyper-ConvertImage](https://github.com/tabs-not-spaces/Hyper-ConvertImage) - Microsoft hasn't published any approved PRs on their Convert-WindowsImage module in years. This is a more recent version.
+- [Zezypisa/Setup-PC](https://github.com/Zezypisa/Setup-PC) - Reinstalls programs I use commonly use, and set registry information with a simple script
+- [FlorianTim/autosetup_win](https://github.com/FlorianTim/autosetup_win) - Automated basic pc setup
+- [sbaerlocher/ansible.hello](https://github.com/sbaerlocher/ansible.hello) - Hello Ansible allows the devices for the client use of Ansible to advance.
+- [vijaygurunanee/gocdsetuponwindows](https://github.com/vijaygurunanee/gocdsetuponwindows) - This is a sample demonstration on how we can automate the Go-CD set-up on windows instances. This can help in keeping our environment as a code back-up mechanism.
+- [C-Fergus/WindowsShiteSieve](https://github.com/C-Fergus/WindowsShiteSieve) - Filter the shite from Windows 10 and change settings to be more comfortable for you. Cut holes in the sieve to let some shite through or patch it up in other areas you think there is more shite to be filtered.
+- [redaxscript/redaxscript-powershell](https://github.com/redaxscript/redaxscript-powershell) - A powerful collection of setup routines for Windows
+- [0x4F776C/Windows-OS](https://github.com/0x4F776C/Windows-OS) - Windows OS setup guide
+- [daijro/amelio](https://github.com/daijro/amelio) - Windows debloater and optimizer
+- [CJavierSaldana/MS-Config](https://github.com/CJavierSaldana/MS-Config) - Initial configuration of working environment for windows.
+- [z0ph/ansible-win-install](https://github.com/z0ph/ansible-win-install) - Automate your post-windows Installation with Ansible & Chocolatey
+- [CSRedRat/Win10-Initial-Setup-Script-Debloater](https://github.com/CSRedRat/Win10-Initial-Setup-Script-Debloater) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019. Links to disable telemetry, remove bloat pre-installed apps.
+- [tprasadtp/w10-setup](https://github.com/tprasadtp/w10-setup) - Windows Setup Scripts
+- [jetersen/setup](https://github.com/jetersen/setup) - Personal setup
+- [jimsforks/Utilities](https://github.com/jimsforks/Utilities) - Useful things
 - [kelleyma49/PSFzf](https://github.com/kelleyma49/PSFzf) - A PowerShell wrapper around the fuzzy finder fzf
 - [AlexAsplund/Nozbe-Powershell-Module](https://github.com/AlexAsplund/Nozbe-Powershell-Module) - Powershell module for Nozbe
 - [AlexAsplund/MyPowershellRepository](https://github.com/AlexAsplund/MyPowershellRepository) - Here I'll add my public powershell modules, scripts and such
@@ -3414,7 +3470,6 @@
 - [AlexAsplund/PSTodoist](https://github.com/AlexAsplund/PSTodoist) - A powershell module for todoist
 - [jimbrig/WindowsPowerShell](https://github.com/jimbrig/WindowsPowerShell) - Windows PowerShell Profile Directory
 - [jimbrig/PowerShell](https://github.com/jimbrig/PowerShell) - PowerShell Core Profile Directory Backup
-- [jimbrig/Scripts](https://github.com/jimbrig/Scripts) - Useful Scripts and Snippets across various interfaces
 - [byteben/Get-SoftwareUpdates](https://github.com/byteben/Get-SoftwareUpdates) - Connect to SCCM Collections and enumerate Required Software Updates with WMI
 - [byteben/Dell](https://github.com/byteben/Dell) - PowerShell Scripts primarily using the Dell Command PowerShell Provider Module
 - [byteben/Dev](https://github.com/byteben/Dev) - 
@@ -3439,6 +3494,7 @@
 - [cloudbase/adk-tools-maas](https://github.com/cloudbase/adk-tools-maas) - ADK tools for automated WinPE provisioning in MaaS
 - [tabs-not-spaces/Intune.USB.Creator](https://github.com/tabs-not-spaces/Intune.USB.Creator) - A module containing tools to assist with the creation of a bootable WinPE USB used to provision devices for enrollment to Intune.
 - [OSDeploy/OSDCloud](https://github.com/OSDeploy/OSDCloud) - OSDCloud is a process to fully deploy a Windows OS from a WinPE Environment
+- [PowerShellMafia/WinPETools](https://github.com/PowerShellMafia/WinPETools) - A module designed to simplify the creation, customization, and deployment of bootable Windows Preinstallation Environment (WinPE) images.
 - [PowerShellMafia/WinPETools](https://github.com/PowerShellMafia/WinPETools) - A module designed to simplify the creation, customization, and deployment of bootable Windows Preinstallation Environment (WinPE) images.
 - [x0nn/Convert-WindowsImage](https://github.com/x0nn/Convert-WindowsImage) - Creates a Windows VM for Hyper-V from a Windows-ISO
 - [fdcastel/Hyper-V-Automation](https://github.com/fdcastel/Hyper-V-Automation) - Collection of Powershell scripts to create Windows and Ubuntu VMs in Hyper-V.
@@ -3640,6 +3696,7 @@
 
 ## Python 
 
+- [eliasbenb/EzSetup](https://github.com/eliasbenb/EzSetup) - EzSetup is a Python app that uses a PyQt5 GUI. It eases the process of setting up your Windows PC by backing up your files, automatically downloading software and automatically setting your background.
 - [django-hijack/django-hijack](https://github.com/django-hijack/django-hijack) - With Django Hijack, admins can log in and work on behalf of other users without having to know their credentials.
 - [koaning/mktestdocs](https://github.com/koaning/mktestdocs) - Run pytest against markdown files/docstrings.
 - [CentOS-PaaS-SIG/linchpin](https://github.com/CentOS-PaaS-SIG/linchpin) - ansible based multicloud orchestrator
@@ -3874,7 +3931,7 @@
 - [ofek/hatch](https://github.com/ofek/hatch) - A modern project, package, and virtual env manager for Python
 - [mhagger/git-imerge](https://github.com/mhagger/git-imerge) - Incremental merge for git
 - [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images
-- [bronsonavila/automate-boring-stuff-python-notes](https://github.com/bronsonavila/automate-boring-stuff-python-notes) - Notes on "Automate the Boring Stuff with Python Programming"
+- [bronsonavila/automate-boring-stuff-python-notes](https://github.com/bronsonavila/automate-boring-stuff-python-notes) - 📝 Notes on "Automate the Boring Stuff with Python Programming"
 - [leipzig/awesome-reproducible-research](https://github.com/leipzig/awesome-reproducible-research) - A curated list of reproducible research case studies, projects, tutorials, and media
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
@@ -4001,6 +4058,7 @@
 - [nteract/papermill](https://github.com/nteract/papermill) - 📚 Parameterize, execute, and analyze notebooks
 - [Wookai/paper-tips-and-tricks](https://github.com/Wookai/paper-tips-and-tricks) - Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab.
 - [SublimeText/LaTeXTools](https://github.com/SublimeText/LaTeXTools) - LaTeX plugin for Sublime Text 2 and 3
+- [SublimeText/LaTeXTools](https://github.com/SublimeText/LaTeXTools) - LaTeX plugin for Sublime Text 2 and 3
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 
 ## R 
@@ -4025,6 +4083,7 @@
 - [DavisVaughan/test-renv](https://github.com/DavisVaughan/test-renv) - 
 - [StatisMike/shiny.reglog](https://github.com/StatisMike/shiny.reglog) - ShinyApps modules for user-handled account registering, password recovery and log-in.
 - [analythium/openfaas-rstats-templates](https://github.com/analythium/openfaas-rstats-templates) - OpenFaaS templates for R
+- [jimbrig/Scripts](https://github.com/jimbrig/Scripts) - Useful Scripts and Snippets across various interfaces
 - [DeclareDesign/fabricatr](https://github.com/DeclareDesign/fabricatr) - fabricatr: Imagine Your Data Before You Collect It
 - [talgalili/installr](https://github.com/talgalili/installr) - Functions for installing softwares from within R
 - [anaidpm/R-viz](https://github.com/anaidpm/R-viz) - IBM R visualisation course
@@ -4849,7 +4908,6 @@
 - [dirmeier/rstanarm](https://github.com/dirmeier/rstanarm) - rstanarm R package for Bayesian applied regression modeling
 - [dirmeier/dag-gnn](https://github.com/dirmeier/dag-gnn) - A variational autoencoder to learn the DAG of a structural equations model
 - [dirmeier/netReg](https://github.com/dirmeier/netReg) - :bar_chart: Generalized linear regression models with network-regularization in R.
-- [dirmeier/R-bones](https://github.com/dirmeier/R-bones) - A yeoman-generator for R projects.
 - [mitchelloharawild/tidyverse-dev-day](https://github.com/mitchelloharawild/tidyverse-dev-day) - Shiny app for tracking tidyverse developer day issues
 - [sebkopf/shinyApps](https://github.com/sebkopf/shinyApps) - collection of shiny apps
 - [daattali/cranalerts](https://github.com/daattali/cranalerts) - Get email alerts when a CRAN package gets updated
@@ -6643,6 +6701,7 @@
 
 ## Rust 
 
+- [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [extendr/libR-sys](https://github.com/extendr/libR-sys) - Low level R bindgen interface
 - [hoodie/toastify](https://github.com/hoodie/toastify) - 🍞A commandline tool that shows desktop notifications using notify-rust
 - [rami3l/pacaptr](https://github.com/rami3l/pacaptr) - Pacman-like syntax wrapper for many package managers.
@@ -6753,6 +6812,13 @@
 
 ## Shell 
 
+- [tprasadtp/dotfiles](https://github.com/tprasadtp/dotfiles) - dotfiles
+- [tprasadtp/ubuntu-post-install](https://github.com/tprasadtp/ubuntu-post-install) - Effortless and Simple Post Install Script for Ubuntu, Linux Mint, Debian & their derivatives
+- [thxi/df](https://github.com/thxi/df) - dotfiles and links for a pc setup
+- [nbsp1221/wsl-setup](https://github.com/nbsp1221/wsl-setup) - ⚙️ Shell Script for WSL Setup
+- [olivomarco/dotfiles](https://github.com/olivomarco/dotfiles) - Easy shell environment + automated workstation setup
+- [WhatIsHeDoing/Setup](https://github.com/WhatIsHeDoing/Setup) - Scripts that set up my common environments.
+- [anthrax3/PreDamEnv](https://github.com/anthrax3/PreDamEnv) - Automation script to prepare development environments.
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [zyrikby/managing_vscode_extensions](https://github.com/zyrikby/managing_vscode_extensions) - Bash scripts to manage Visual Studio Code extensions
 - [garvincasimir/Azure-ISO-To-VHD](https://github.com/garvincasimir/Azure-ISO-To-VHD) - 
@@ -7153,6 +7219,9 @@
 
 ## TypeScript 
 
+- [scriptman-de/windows-setup-automation](https://github.com/scriptman-de/windows-setup-automation) - 
+- [dominique-mueller/hugo-installer](https://github.com/dominique-mueller/hugo-installer) - Installs hugo into your repository.
+- [jcs090218/setup-emacs-windows](https://github.com/jcs090218/setup-emacs-windows) - A Github Action that installs a specific emacs version
 - [mrmartineau/gatsby-theme-code-notes](https://github.com/mrmartineau/gatsby-theme-code-notes) - A Gatsby theme for publishing code-related notes to your website
 - [meshcloud/collie-cli](https://github.com/meshcloud/collie-cli) - Collie CLI allows you to manage your AWS, Azure & GCP cloud landscape through a single view.
 - [auth0/nextjs-auth0](https://github.com/auth0/nextjs-auth0) - Next.js SDK for signing in with Auth0
@@ -7511,6 +7580,7 @@
 
 ## Visual Basic .NET 
 
+- [faffolao/Windows10_postinstall](https://github.com/faffolao/Windows10_postinstall) - Graphic tool for configure Windows 10 after a fresh installation. Based on the original "Win10-initial-setup-script" by Disassembler.
 - [Vitosh/VBA_personal](https://github.com/Vitosh/VBA_personal) - Library with VBA, used in multiple projects.
 - [SQL-Server-projects/Reporting-Services-examples](https://github.com/SQL-Server-projects/Reporting-Services-examples) - :closed_book: Various example reports I use for SQL Server Reporting Services (SSRS) as well as documents for unit testing, requirements and a style guide template.
 - [MoscaDotTo/Winapp2](https://github.com/MoscaDotTo/Winapp2) - A database of extended cleaning routines for popular Windows PC based maintenance software.
