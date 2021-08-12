@@ -130,6 +130,10 @@
 
 ## Batchfile 
 
+- [gaze9999/Windows10_AutoUnattend](https://github.com/gaze9999/Windows10_AutoUnattend) - For my Windows 10 USB installer automation
+- [stayboogy/Windows_Stuff](https://github.com/stayboogy/Windows_Stuff) - Windows Stuff I use from time to time, for archiving purposes
+- [stayboogy/WindowsProfileSync](https://github.com/stayboogy/WindowsProfileSync) - backup script for Windows' Users' files
+- [ivayloivanov8/path-reset](https://github.com/ivayloivanov8/path-reset) - Batch files that resets default path of main folder in windows like downloads, videos, pictures, desktop, etc.
 - [ChrisTitusTech/windows-lite-2004](https://github.com/ChrisTitusTech/windows-lite-2004) - AME scripts
 - [jpedrodsp/windows-quick-tools](https://github.com/jpedrodsp/windows-quick-tools) - A collection of Windows batches to setup a system, install tools and quickstart a development environment.
 - [ArtanisInc/Post-Tweaks](https://github.com/ArtanisInc/Post-Tweaks) - A post-installation batch script for Windows
@@ -184,6 +188,8 @@
 
 ## C 
 
+- [microsoft/Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples) - This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.
+- [ed10vi/msi-steelseries-led](https://github.com/ed10vi/msi-steelseries-led) - Control Keyboard backlight in MSI laptops with Steelseries Engine 3 Keyboards
 - [vstakhov/libucl](https://github.com/vstakhov/libucl) - Universal configuration library parser
 - [pbatard/winpatch](https://github.com/pbatard/winpatch) - Windows system file patcher
 - [zodiacon/SystemExplorer](https://github.com/zodiacon/SystemExplorer) - Windows System Explorer
@@ -1750,7 +1756,6 @@
 - [visgl/react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
 - [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [zeroturnaround/sql-formatter](https://github.com/zeroturnaround/sql-formatter) - A whitespace formatter for different query languages
 - [toorshia/justgage](https://github.com/toorshia/justgage) - JustGage is a handy JavaScript plugin for generating and animating nice & clean dashboard gauges. It is based on Raphaël library for vector drawing.
 - [holistics/dbml](https://github.com/holistics/dbml) - Database Markup Language (DBML), designed to define and document database structures
@@ -2440,6 +2445,7 @@
 - [jnovack/git-checkout](https://github.com/jnovack/git-checkout) - Basic git checkout builder or side container for workflows.
 - [eddiejaoude/book-open-source-tips](https://github.com/eddiejaoude/book-open-source-tips) - Open Source book on Open Source Tips
 - [hrbrmstr/RSwitch](https://github.com/hrbrmstr/RSwitch) - 🎛 A small menubar app that allows you to switch between R versions quickly (if you have multiple versions of R framework installed).
+- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [o2r-project/reference-implementation](https://github.com/o2r-project/reference-implementation) - A catch-all repository to run all o2r microservices and the user interface platform
 - [ComputationalProteomicsUnit/maker](https://github.com/ComputationalProteomicsUnit/maker) - Makefile for R packages
 - [hauselin/obsidian-alfred](https://github.com/hauselin/obsidian-alfred) - Alfred workflow for Obsidian note-taking app. Open vaults and files in Obsidian.
@@ -2504,6 +2510,8 @@
 
 ## Others 
 
+- [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Win10XPE is a Complete Project Based on Win10 Recovery Environment With Many Windows Features Added...
+- [lihbr/doc-win10-reset](https://github.com/lihbr/doc-win10-reset) - A personal reminder of many crappy stuff to do when formating to Windows 10
 - [dwyl/dev-setup](https://github.com/dwyl/dev-setup) - :airplane: A quick-start guide for new developers on how to set up their environments
 - [andrewchaa/developer-machine-setup](https://github.com/andrewchaa/developer-machine-setup) - Mixed Development Environment on Mac with Windows on Parallels Desktop
 - [dominique-mueller/my-open-source-setup](https://github.com/dominique-mueller/my-open-source-setup) - My personal setup for Open Source projects on Github.
@@ -3386,6 +3394,16 @@
 
 ## PowerShell 
 
+- [techthoughts2/Learn-PowerShell-Code-Examples](https://github.com/techthoughts2/Learn-PowerShell-Code-Examples) - Contains code examples used in the Learn PowerShell Video & Blog series
+- [nickrod518/Migrate-WindowsUserProfile](https://github.com/nickrod518/Migrate-WindowsUserProfile) - Migrate Windows user profile to a new machine using Microsoft USMT with a PowerShell GUI.
+- [greyhamwoohoo/new-vm-from-iso](https://github.com/greyhamwoohoo/new-vm-from-iso) - Provision a Hyper-V VM with Windows automatically installed from an ISO using PowerShell; on first boot, the Unattend.Xml (OOBE) will automatically configure the installation and Windows will boot as far as the Login Screen. Windows Updates will then be automatically installed.
+- [tinohager/Windows10-Autounattend](https://github.com/tinohager/Windows10-Autounattend) - Unattended Windows 10 Installation
+- [rohit-basra/Windows10_unattended](https://github.com/rohit-basra/Windows10_unattended) - 
+- [InfiniteLoopIO/WindowsImageCapture](https://github.com/InfiniteLoopIO/WindowsImageCapture) - Minimal unattend.xml templates to capture various Microsoft OSs
+- [Hivos/windows-kvm-unattend](https://github.com/Hivos/windows-kvm-unattend) - scripts and howto for unattended windows server installs on kvm platform
+- [meeuw/unattended-windows-10](https://github.com/meeuw/unattended-windows-10) - Packer templates to install Windows 10 Evaluation using the qemu/kvm builder.
+- [pldmgg/ProgramManagement](https://github.com/pldmgg/ProgramManagement) - This Module makes it easier to Install/Uninstall programs on Windows, regardless of the method of installation (PSGet, Chocolatey CmdLine, .msi, etc)
+- [damienvanrobaeys/Run-in-Sandbox](https://github.com/damienvanrobaeys/Run-in-Sandbox) - Run PS1, VBS, EXE, MSI in Windows Sandbox very quickly just from a right-click
 - [scriptman-de/windows-resetstick](https://github.com/scriptman-de/windows-resetstick) - Scripts to Add a Reset functionality to a Windows NativeBoot Environment
 - [Zezypisa/Remove-Bloatware](https://github.com/Zezypisa/Remove-Bloatware) - Removes bloatware from windows 10 depending on how intense it is
 - [Zezypisa/Remove-WindowsApps](https://github.com/Zezypisa/Remove-WindowsApps) - Removes WindowsApps + Friends from a drive if you reinstalled windows or encountered errors,
@@ -3494,7 +3512,6 @@
 - [cloudbase/adk-tools-maas](https://github.com/cloudbase/adk-tools-maas) - ADK tools for automated WinPE provisioning in MaaS
 - [tabs-not-spaces/Intune.USB.Creator](https://github.com/tabs-not-spaces/Intune.USB.Creator) - A module containing tools to assist with the creation of a bootable WinPE USB used to provision devices for enrollment to Intune.
 - [OSDeploy/OSDCloud](https://github.com/OSDeploy/OSDCloud) - OSDCloud is a process to fully deploy a Windows OS from a WinPE Environment
-- [PowerShellMafia/WinPETools](https://github.com/PowerShellMafia/WinPETools) - A module designed to simplify the creation, customization, and deployment of bootable Windows Preinstallation Environment (WinPE) images.
 - [PowerShellMafia/WinPETools](https://github.com/PowerShellMafia/WinPETools) - A module designed to simplify the creation, customization, and deployment of bootable Windows Preinstallation Environment (WinPE) images.
 - [x0nn/Convert-WindowsImage](https://github.com/x0nn/Convert-WindowsImage) - Creates a Windows VM for Hyper-V from a Windows-ISO
 - [fdcastel/Hyper-V-Automation](https://github.com/fdcastel/Hyper-V-Automation) - Collection of Powershell scripts to create Windows and Ubuntu VMs in Hyper-V.
@@ -3696,6 +3713,7 @@
 
 ## Python 
 
+- [deajan/smartmontools-win](https://github.com/deajan/smartmontools-win) - smartmontools for windows package providing automated / mass installation and email alert support out of the box for hard drive SMART functionality. Scriptable for unattended or GUI end user install.
 - [eliasbenb/EzSetup](https://github.com/eliasbenb/EzSetup) - EzSetup is a Python app that uses a PyQt5 GUI. It eases the process of setting up your Windows PC by backing up your files, automatically downloading software and automatically setting your background.
 - [django-hijack/django-hijack](https://github.com/django-hijack/django-hijack) - With Django Hijack, admins can log in and work on behalf of other users without having to know their credentials.
 - [koaning/mktestdocs](https://github.com/koaning/mktestdocs) - Run pytest against markdown files/docstrings.
@@ -4057,7 +4075,6 @@
 - [rnorm/book_sample](https://github.com/rnorm/book_sample) - another book on data science
 - [nteract/papermill](https://github.com/nteract/papermill) - 📚 Parameterize, execute, and analyze notebooks
 - [Wookai/paper-tips-and-tricks](https://github.com/Wookai/paper-tips-and-tricks) - Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab.
-- [SublimeText/LaTeXTools](https://github.com/SublimeText/LaTeXTools) - LaTeX plugin for Sublime Text 2 and 3
 - [SublimeText/LaTeXTools](https://github.com/SublimeText/LaTeXTools) - LaTeX plugin for Sublime Text 2 and 3
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 
@@ -6812,6 +6829,8 @@
 
 ## Shell 
 
+- [jimbrig/wsl-dotfiles](https://github.com/jimbrig/wsl-dotfiles) - WSL Dotfiles
+- [DamionGans/ubuntu-wsl2-systemd-script](https://github.com/DamionGans/ubuntu-wsl2-systemd-script) - Script to enable systemd support on current Ubuntu WSL2 images [Unsupported, no longer updated]
 - [tprasadtp/dotfiles](https://github.com/tprasadtp/dotfiles) - dotfiles
 - [tprasadtp/ubuntu-post-install](https://github.com/tprasadtp/ubuntu-post-install) - Effortless and Simple Post Install Script for Ubuntu, Linux Mint, Debian & their derivatives
 - [thxi/df](https://github.com/thxi/df) - dotfiles and links for a pc setup
@@ -6994,7 +7013,7 @@
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [pietvanzoen/git-get](https://github.com/pietvanzoen/git-get) - Like `go get` but `git`.
 - [jaspernbrouwer/git-flow-hooks](https://github.com/jaspernbrouwer/git-flow-hooks) - Some useful hooks for git-flow (AVH Edition)
-- [bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - nginx Docker image secure by default.
+- [bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - 🛡️ Make your web services secured by default !
 - [trestletech/rdeps](https://github.com/trestletech/rdeps) - 
 - [kevinushey/etc](https://github.com/kevinushey/etc) - Scripts, dot files, and other things that make my programming life a happy one
 - [rocker-org/rocker-versioned2](https://github.com/rocker-org/rocker-versioned2) - 
