@@ -832,6 +832,7 @@
 
 ## Go 
 
+- [BlackReloaded/wsl2-ssh-pageant](https://github.com/BlackReloaded/wsl2-ssh-pageant) - bridge between windows pageant and wsl2
 - [securitywithoutborders/hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
 - [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Software Delivery Workflow For Kubernetes
@@ -2069,6 +2070,7 @@
 - [szepeviktor/windows-workstation](https://github.com/szepeviktor/windows-workstation) - Prepare my Windows 10 workstation
 - [noamross/juicer](https://github.com/noamross/juicer) - A thin wrapper for in-lining CSS styles into HTML
 - [noamross/redirectr-ff](https://github.com/noamross/redirectr-ff) - 
+- [chrisvel/wreeto_official](https://github.com/chrisvel/wreeto_official) - Wreeto is an open source note-taking, knowledge management and wiki system.
 - [ColinFay/mdlinks](https://github.com/ColinFay/mdlinks) - A Google Chrome extension to create Markdown links for the current page
 - [whitwort/vectorInput](https://github.com/whitwort/vectorInput) - A shiny input widget that returns a (possibly named) vector of values.
 - [strongh/telemetry](https://github.com/strongh/telemetry) - R Shiny inputs for geolocation and sensor data
@@ -6696,7 +6698,6 @@
 - [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG.
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [gitshowcase/gitshowcase](https://github.com/gitshowcase/gitshowcase) - Awesome Portfolio from your Github
-- [chrisvel/wreeto_official](https://github.com/chrisvel/wreeto_official) - Wreeto is an open source note-taking, knowledge management and wiki system.
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [octobox/octobox](https://github.com/octobox/octobox) - 📮Untangle your GitHub Notifications
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
