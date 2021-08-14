@@ -777,7 +777,7 @@
 - [icolwell/docker_scripts](https://github.com/icolwell/docker_scripts) - This repo contains the Dockerfiles for the images hosted on my dockerhub
 - [robertdj/r-dockerfiles](https://github.com/robertdj/r-dockerfiles) - Dockerfiles for R
 - [ericsgagnon/rlang-shiny-oci-docker](https://github.com/ericsgagnon/rlang-shiny-oci-docker) - Multi-stage docker build to extend rocker/shiny-verse with oracle oci
-- [vasudevgupta7/ds-toolkit](https://github.com/vasudevgupta7/ds-toolkit) - This repo is having some useful stuff for data scientist related stuff.
+- [vasudevgupta7/ds-toolkit](https://github.com/vasudevgupta7/ds-toolkit) - Some useful stuff for a software/ML engineer
 - [mcanouil/coeos](https://github.com/mcanouil/coeos) - My own Docker image
 - [G-Thomson/EfficientR_Docker](https://github.com/G-Thomson/EfficientR_Docker) - Unofficial Docker image for Efficient R programming by Colin Gillespie and  Robin Lovelace
 - [darkbitio/mkit](https://github.com/darkbitio/mkit) - MKIT is a Managed Kubernetes Inspection Tool that validates several common security-related configuration settings of managed Kubernetes cluster objects and the workloads/resources running inside the cluster.
@@ -1550,6 +1550,8 @@
 
 ## JavaScript 
 
+- [bradtraversy/dj-events-backend](https://github.com/bradtraversy/dj-events-backend) - Strapi backend/API for DJ events
+- [bradtraversy/dj-events-frontend](https://github.com/bradtraversy/dj-events-frontend) - Next.js website to list DJ and other musical events
 - [dominique-mueller/exec-bin](https://github.com/dominique-mueller/exec-bin) - Run any binary files / executables within your npm scripts.
 - [Rohithv07/Docker](https://github.com/Rohithv07/Docker) - My Workplay on Docker and Kubernetes. Ref : https://github.com/Rohithv07/DockerCasts
 - [mdn/data](https://github.com/mdn/data) - This repository contains general data for Web technologies
@@ -2512,6 +2514,8 @@
 
 ## Others 
 
+- [jimbrig/dj-events-frontend](https://github.com/jimbrig/dj-events-frontend) - Next.js website to list DJ and other musical events
+- [AndyFul/ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) - Utility for configuring Windows 10 built-in Defender antivirus settings.
 - [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Win10XPE is a Complete Project Based on Win10 Recovery Environment With Many Windows Features Added...
 - [lihbr/doc-win10-reset](https://github.com/lihbr/doc-win10-reset) - A personal reminder of many crappy stuff to do when formating to Windows 10
 - [dwyl/dev-setup](https://github.com/dwyl/dev-setup) - :airplane: A quick-start guide for new developers on how to set up their environments
@@ -3160,7 +3164,6 @@
 - [timoxley/best-practices](https://github.com/timoxley/best-practices) - Tidbits of developer best practices from around the web
 - [thomasdavis/best-practices](https://github.com/thomasdavis/best-practices) - This is a fork of timoxley - Tidbits of best practices information from around the web
 - [chrisjacob/grandmaster](https://github.com/chrisjacob/grandmaster) - Setup GitHub Pages "gh-pages" branch and "master" branch as subfolders of a "grandmaster" (aka parent) project folder
-- [ThinkR-open/tidyversedashboard](https://github.com/ThinkR-open/tidyversedashboard) - Tidyverse activity dashboard
 - [Velocet/dotfiles](https://github.com/Velocet/dotfiles) - Linux/macOS/Windows dotfiles: zsh, PowerShell, etc.
 - [noamross/rmd-rant](https://github.com/noamross/rmd-rant) - 
 - [noamross/zero-dependency-problems](https://github.com/noamross/zero-dependency-problems) - Real-world code problems in R, without dependencies
@@ -3951,7 +3954,7 @@
 - [ofek/hatch](https://github.com/ofek/hatch) - A modern project, package, and virtual env manager for Python
 - [mhagger/git-imerge](https://github.com/mhagger/git-imerge) - Incremental merge for git
 - [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images
-- [bronsonavila/automate-boring-stuff-python-notes](https://github.com/bronsonavila/automate-boring-stuff-python-notes) - 📝 Notes on "Automate the Boring Stuff with Python Programming"
+- [bronsonavila/automate-boring-stuff-python-notes](https://github.com/bronsonavila/automate-boring-stuff-python-notes) - 📝 Notes on "Automate the Boring Stuff with Python Programming"
 - [leipzig/awesome-reproducible-research](https://github.com/leipzig/awesome-reproducible-research) - A curated list of reproducible research case studies, projects, tutorials, and media
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
@@ -4082,6 +4085,7 @@
 
 ## R 
 
+- [SebKrantz/fastverse](https://github.com/SebKrantz/fastverse) - An Extensible Suite of High-Performance and Low-Dependency Packages for Statistical Computing and Data Manipulation in R
 - [analythium/heroku-shiny](https://github.com/analythium/heroku-shiny) - Deploy Shiny Apps to Heroku with CLI and CI/CD
 - [dreamRs/phosphoricons](https://github.com/dreamRs/phosphoricons) - Phosphor Icons for R
 - [OHDSI/ParallelLogger](https://github.com/OHDSI/ParallelLogger) - An R package for easy parallel computing, logging, and function call automation.
@@ -5191,6 +5195,7 @@
 - [zchmielewska/actuaryr](https://github.com/zchmielewska/actuaryr) - 
 - [mayer79/actools](https://github.com/mayer79/actools) - Tools for actuary science
 - [RBigData/remoter](https://github.com/RBigData/remoter) - Control a remote R session from your local R session.
+- [ThinkR-open/tidyversedashboard](https://github.com/ThinkR-open/tidyversedashboard) - Tidyverse activity dashboard
 - [cloudyr/aws.alexa](https://github.com/cloudyr/aws.alexa) - Client Package for the Amazon Alexa Web Information Service
 - [hadley/emo](https://github.com/hadley/emo) - Easily insert emoji into R and RMarkdown
 - [r-lib/decor](https://github.com/r-lib/decor) - 
@@ -7267,7 +7272,7 @@
 - [RandomFractals/vscode-data-preview](https://github.com/RandomFractals/vscode-data-preview) - Data Preview 🈸 extension for importing 📤 viewing 🔎 slicing 🔪 dicing 🎲  charting 📊 & exporting 📥 large JSON array/config, YAML, Apache Arrow, Avro, Parquet & Excel data files
 - [algolia/autocomplete](https://github.com/algolia/autocomplete) - 🔮 Fast and full-featured autocomplete library
 - [charliecm/obsidian-tidy-footnotes](https://github.com/charliecm/obsidian-tidy-footnotes) - Tidy your footnotes seamlessly in Obsidian.
-- [Vinzent03/obsidian-sort-and-permute-lines](https://github.com/Vinzent03/obsidian-sort-and-permute-lines) - Sort and Permute lines in whle file or selection.
+- [Vinzent03/obsidian-sort-and-permute-lines](https://github.com/Vinzent03/obsidian-sort-and-permute-lines) - Sort and Permute lines in whole file or selection.
 - [mgmeyers/obsidian-embedded-note-titles](https://github.com/mgmeyers/obsidian-embedded-note-titles) - 
 - [kepano/obsidian-system-dark-mode](https://github.com/kepano/obsidian-system-dark-mode) - Automatically use the operating system's setting to switch between light and dark mode.
 - [kepano/obsidian-advanced-appearance](https://github.com/kepano/obsidian-advanced-appearance) - Change Obsidian colors, fonts and other cosmetic settings
