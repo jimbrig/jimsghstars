@@ -832,6 +832,7 @@
 
 ## Go 
 
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
 - [BlackReloaded/wsl2-ssh-pageant](https://github.com/BlackReloaded/wsl2-ssh-pageant) - bridge between windows pageant and wsl2
 - [securitywithoutborders/hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
 - [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
@@ -1067,6 +1068,7 @@
 
 ## HTML 
 
+- [m8/refined.blog](https://github.com/m8/refined.blog) - 
 - [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [mdn/dom-examples](https://github.com/mdn/dom-examples) - Code examples that accompany various MDN DOM and Web API documentation pages
 - [mdn/css-examples](https://github.com/mdn/css-examples) - Code examples that accompany the MDN CSS documentation
@@ -1550,6 +1552,7 @@
 
 ## JavaScript 
 
+- [coreymunn3/Portfolio-Website](https://github.com/coreymunn3/Portfolio-Website) - 
 - [bradtraversy/dj-events-backend](https://github.com/bradtraversy/dj-events-backend) - Strapi backend/API for DJ events
 - [bradtraversy/dj-events-frontend](https://github.com/bradtraversy/dj-events-frontend) - Next.js website to list DJ and other musical events
 - [dominique-mueller/exec-bin](https://github.com/dominique-mueller/exec-bin) - Run any binary files / executables within your npm scripts.
@@ -2514,6 +2517,11 @@
 
 ## Others 
 
+- [unreadablewxy/unreadablewxy](https://github.com/unreadablewxy/unreadablewxy) - 
+- [unreadablewxy/fs-curator](https://github.com/unreadablewxy/fs-curator) - Automation for the serious data hoarder that wants to have their data and use it
+- [XenIrvana/PoSh-PSD1-Configuration](https://github.com/XenIrvana/PoSh-PSD1-Configuration) - A simple example of how to create a very basic 'Configuration file' for PowerShell Scripts usiing *.psd1 files (usually used only as Module Manifests). Works so long as any Configuration you're needing to do can be accomplished with Variables.
+- [XenIrvana/PowerShell-ISE-PlusPlus](https://github.com/XenIrvana/PowerShell-ISE-PlusPlus) - An updated, modern recreation of Microsoft's Windows PowerShell ISE with support for PowerShell Core and Cross-Platform compatibility, along with additional features based about popular VS Code PowerShell Extensions, and SAPIEN PowerShell Studio.
+- [XenIrvana/Project-Documentation-Collection](https://github.com/XenIrvana/Project-Documentation-Collection) - A collection of templates for various forms of Project Documentation, in multiple formats. Some I wrote up myself, others are random, assorted templates sourced from across the web, mostly GitHub. All Docs templates in this repository come in both Markdown and Plaintext varieties, in addition to some more 'formal', and in depth Docs Templates written in Microsoft Word, and thusly coming in *.doc/*.docx formats, as well as *.rtf. Includes README Templates, CHANGELOG Templates, CONTRIBUTING Templates, Code of Conduct Templates, various niche Documentation Types, and a collection of the most commonly used Licenses in Plaintext, Rich Formatted Text, and Markdown formats also.
 - [jimbrig/dj-events-frontend](https://github.com/jimbrig/dj-events-frontend) - Next.js website to list DJ and other musical events
 - [AndyFul/ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) - Utility for configuring Windows 10 built-in Defender antivirus settings.
 - [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Win10XPE is a Complete Project Based on Win10 Recovery Environment With Many Windows Features Added...
@@ -2526,7 +2534,6 @@
 - [dominique-mueller/awesome-web-development](https://github.com/dominique-mueller/awesome-web-development) - My personal list of web development websites, tools and resources
 - [tabs-not-spaces/WindowsTerminalTheme](https://github.com/tabs-not-spaces/WindowsTerminalTheme) - My WT Theme. For anyone to use.
 - [tomtom28/hello-windows](https://github.com/tomtom28/hello-windows) - Notes to self on creating a developer environment in Windows 10
-- [alandooz/HelloWorld](https://github.com/alandooz/HelloWorld) - A script to setup your new computer.
 - [Squirrel-installer-problems/info](https://github.com/Squirrel-installer-problems/info) - Squirrel installer problems - Impossible to install softwares where we want (example in Program Files)
 - [saidursumon96/winpartitionproblem](https://github.com/saidursumon96/winpartitionproblem) - Problem : We couldn't create a new partition or locate an existing one. For more information, see the Setup log files.
 - [JaipurJS/dev-setup](https://github.com/JaipurJS/dev-setup) - A Guide to setting up your developer environment on Mac, Windows and Unix based OSes
@@ -3249,7 +3256,6 @@
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
 - [microsoft/Windows-Dev-Performance](https://github.com/microsoft/Windows-Dev-Performance) - A repo for developers on Windows to file issues that impede their productivity, efficiency, and efficacy
-- [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
 - [josedv82/shinyAMS-resources](https://github.com/josedv82/shinyAMS-resources) - A compilation of resources for sport scientist building Athlete Management Tools in Shiny
 - [github/renaming](https://github.com/github/renaming) - Guidance for changing the default branch name for GitHub repositories
 - [UnseenWizzard/git_training](https://github.com/UnseenWizzard/git_training) - An interactive git training meant to teach you how git works, not just which commands to execute
@@ -3341,6 +3347,7 @@
 
 ## PHP 
 
+- [FOGProject/fogproject](https://github.com/FOGProject/fogproject) - An open source computer cloning & management system
 - [uup-dump/api](https://github.com/uup-dump/api) - UUP dump API code
 - [ksdev-pl/Gist-List](https://github.com/ksdev-pl/Gist-List) - Clear Organization of Your Gists
 - [sagebind/windows-registry](https://github.com/sagebind/windows-registry) - A small library for accessing and manipulating the Windows registry.
@@ -3399,6 +3406,9 @@
 
 ## PowerShell 
 
+- [hackf5/powershell-profile-alias](https://github.com/hackf5/powershell-profile-alias) - Bash style aliases in PowerShell
+- [Jaykul/PowerLine](https://github.com/Jaykul/PowerLine) - A more PowerShell prompt
+- [XenIrvana/My-PowerShell-Configuration](https://github.com/XenIrvana/My-PowerShell-Configuration) - Repository for my personal PowerShell Profile(s), modules (ones I havent made in 'Third-Party Modules' Directory), and various other config files
 - [techthoughts2/Learn-PowerShell-Code-Examples](https://github.com/techthoughts2/Learn-PowerShell-Code-Examples) - Contains code examples used in the Learn PowerShell Video & Blog series
 - [nickrod518/Migrate-WindowsUserProfile](https://github.com/nickrod518/Migrate-WindowsUserProfile) - Migrate Windows user profile to a new machine using Microsoft USMT with a PowerShell GUI.
 - [greyhamwoohoo/new-vm-from-iso](https://github.com/greyhamwoohoo/new-vm-from-iso) - Provision a Hyper-V VM with Windows automatically installed from an ISO using PowerShell; on first boot, the Unattend.Xml (OOBE) will automatically configure the installation and Windows will boot as far as the Login Screen. Windows Updates will then be automatically installed.
@@ -6664,6 +6674,7 @@
 
 ## Ruby 
 
+- [fluffgfx/dit](https://github.com/fluffgfx/dit) - :file_folder: dotfile management that thinks it's git
 - [kbroman/minimal_make](https://github.com/kbroman/minimal_make) - Minimal make: A minimal tutorial on the most important tool for reproducible research
 - [kbroman/dataorg](https://github.com/kbroman/dataorg) - Tutorial on organizing data in spreadsheets.
 - [boxcutter/windows](https://github.com/boxcutter/windows) - Virtual machine templates for Windows written in legacy JSON and Batch Scripting/JScript
@@ -6835,6 +6846,8 @@
 
 ## Shell 
 
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+- [cheat/cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets
 - [jimbrig/wsl-dotfiles](https://github.com/jimbrig/wsl-dotfiles) - WSL Dotfiles
 - [DamionGans/ubuntu-wsl2-systemd-script](https://github.com/DamionGans/ubuntu-wsl2-systemd-script) - Script to enable systemd support on current Ubuntu WSL2 images [Unsupported, no longer updated]
 - [tprasadtp/dotfiles](https://github.com/tprasadtp/dotfiles) - dotfiles
@@ -7019,7 +7032,7 @@
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [pietvanzoen/git-get](https://github.com/pietvanzoen/git-get) - Like `go get` but `git`.
 - [jaspernbrouwer/git-flow-hooks](https://github.com/jaspernbrouwer/git-flow-hooks) - Some useful hooks for git-flow (AVH Edition)
-- [bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - 🛡️ Make your web services secured by default !
+- [bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - 🛡️ Make your web services secure by default !
 - [trestletech/rdeps](https://github.com/trestletech/rdeps) - 
 - [kevinushey/etc](https://github.com/kevinushey/etc) - Scripts, dot files, and other things that make my programming life a happy one
 - [rocker-org/rocker-versioned2](https://github.com/rocker-org/rocker-versioned2) - 
@@ -7105,6 +7118,7 @@
 - [blay/dotfiles](https://github.com/blay/dotfiles) - My dotfiles
 - [nikitavoloboev/dotfiles](https://github.com/nikitavoloboev/dotfiles) - Zsh, Karabiner, VS Code, Sublime, Neovim, Nix
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
 - [ropensci/actions](https://github.com/ropensci/actions) - Some public GitHub actions
 - [gohugoio/hugoThemes](https://github.com/gohugoio/hugoThemes) - A curated directory of Hugo themes
 - [cgrima/rsync_backup](https://github.com/cgrima/rsync_backup) - Rsync incremental and rotating backups
@@ -7244,6 +7258,7 @@
 
 ## TypeScript 
 
+- [one-aalam/next-starter-kit](https://github.com/one-aalam/next-starter-kit) - Next.js with brilliant bells and useful whistles
 - [scriptman-de/windows-setup-automation](https://github.com/scriptman-de/windows-setup-automation) - 
 - [dominique-mueller/hugo-installer](https://github.com/dominique-mueller/hugo-installer) - Installs hugo into your repository.
 - [jcs090218/setup-emacs-windows](https://github.com/jcs090218/setup-emacs-windows) - A Github Action that installs a specific emacs version
