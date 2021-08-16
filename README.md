@@ -299,7 +299,6 @@
 - [hellzerg/cloning](https://github.com/hellzerg/cloning) - Backup and restore your programs settings
 - [builtbybel/ReadySunValley](https://github.com/builtbybel/ReadySunValley) - Replacement for Microsoft  PC Health Check app
 - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11
-- [EdiWang/Moonglade-Tools](https://github.com/EdiWang/Moonglade-Tools) - Tools or scripts for clean up my blog system mess
 - [EdiWang/Tracing-UWP](https://github.com/EdiWang/Tracing-UWP) - Tracing (描图) App for Windows 10
 - [EdiWang/Azure-Blob-Backup](https://github.com/EdiWang/Azure-Blob-Backup) - Backup files in Azure Blob Storage to local file system.
 - [EdiWang/FileDateEditor](https://github.com/EdiWang/FileDateEditor) - Modify create time, visit time of a file
@@ -1049,7 +1048,7 @@
 
 - [terraform-google-modules/terraform-google-bootstrap](https://github.com/terraform-google-modules/terraform-google-bootstrap) - A module for bootstrapping Terraform usage in a new GCP organization.
 - [dhoer/terraform_examples](https://github.com/dhoer/terraform_examples) - Terraform AWS Windows examples
-- [marcinbojko/hv-packer](https://github.com/marcinbojko/hv-packer) - Hyper-V Generation 2 Packer Templates for Windows 2016/2019, Windows Server and CentOS 7.x/AlmaLinux 8.x
+- [marcinbojko/hv-packer](https://github.com/marcinbojko/hv-packer) - Hyper-V Generation 2 Packer Templates for Windows 2016/2019, Windows Server and CentOS 7.x/AlmaLinux 8.x/RockyLinux 8.x
 - [GoogleCloudPlatform/solutions-terraform-cloudbuild-gitops](https://github.com/GoogleCloudPlatform/solutions-terraform-cloudbuild-gitops) - 
 - [ryboe/private-ip-cloud-sql-db](https://github.com/ryboe/private-ip-cloud-sql-db) - An example set of terraform files for deploying a Cloud SQL DB with a private IP address only
 - [robwleack/terraform-gcp-keys-example](https://github.com/robwleack/terraform-gcp-keys-example) - An example of how you could define cryptographic keys and bindings in a complex object using for_each
@@ -1068,6 +1067,7 @@
 
 ## HTML 
 
+- [google/web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
 - [m8/refined.blog](https://github.com/m8/refined.blog) - 
 - [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [mdn/dom-examples](https://github.com/mdn/dom-examples) - Code examples that accompany various MDN DOM and Web API documentation pages
@@ -1552,6 +1552,7 @@
 
 ## JavaScript 
 
+- [howardroark/pollinate](https://github.com/howardroark/pollinate) - Template your base files and generate new projects from Git(Hub).
 - [coreymunn3/Portfolio-Website](https://github.com/coreymunn3/Portfolio-Website) - 
 - [bradtraversy/dj-events-backend](https://github.com/bradtraversy/dj-events-backend) - Strapi backend/API for DJ events
 - [bradtraversy/dj-events-frontend](https://github.com/bradtraversy/dj-events-frontend) - Next.js website to list DJ and other musical events
@@ -2273,7 +2274,6 @@
 - [trestletech/todotxtpp](https://github.com/trestletech/todotxtpp) - NodeJS Application with Dropbox Integration for Managing a Todo.txt File
 - [reZach/secure-electron-template](https://github.com/reZach/secure-electron-template) - The best way to build Electron apps with security in mind.
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
-- [foo123/HtmlWidget](https://github.com/foo123/HtmlWidget) - HtmlWidget: optimised dynamic html widgets used as (template) plugins and/or standalone for PHP, Node.js / Browser / XPCOM Javascript, Python
 - [daranzolin/compareBars](https://github.com/daranzolin/compareBars) - Simplify comparative bar charts :bar_chart:
 - [dreamRs/sqlquery](https://github.com/dreamRs/sqlquery) - Htmlwidget to write SQL queries
 - [bupaverse/processanimateR](https://github.com/bupaverse/processanimateR) - Token replay animation for process maps created with processmapR by using SVG animations (SMIL) and the htmlwidget package.
@@ -2517,6 +2517,9 @@
 
 ## Others 
 
+- [vitalets/awesome-browser-extensions-and-apps](https://github.com/vitalets/awesome-browser-extensions-and-apps) - :zap:A curated list of awesome resources for building browser extensions and apps
+- [cezaraugusto/github-template-guidelines](https://github.com/cezaraugusto/github-template-guidelines) - Guidelines for building GitHub templates.
+- [melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates) - Boilerplates for mobile and web apps
 - [unreadablewxy/unreadablewxy](https://github.com/unreadablewxy/unreadablewxy) - 
 - [unreadablewxy/fs-curator](https://github.com/unreadablewxy/fs-curator) - Automation for the serious data hoarder that wants to have their data and use it
 - [XenIrvana/PoSh-PSD1-Configuration](https://github.com/XenIrvana/PoSh-PSD1-Configuration) - A simple example of how to create a very basic 'Configuration file' for PowerShell Scripts usiing *.psd1 files (usually used only as Module Manifests). Works so long as any Configuration you're needing to do can be accomplished with Variables.
@@ -3382,6 +3385,7 @@
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [cavo789/marknotes](https://github.com/cavo789/marknotes) - 📝 You’re taking a lot of notes and need a solution to manage them i.e. put your knowledge base in one central place and being able to retrieve quickly information’s, display them nicely through the browser as a HTML page or a slideshow, export them in many file formats (docx, odt, pdf, txt, …).  Sensitive information’s can be encrypted and notes can be edited online. Online demo: https://www.marknotes.fr | Stay informed, follow us on Facebook: https://www.facebook.com/marknotes789
 - [knowfox/knowfox](https://github.com/knowfox/knowfox) - Personal Knowledge Management. Use branch "minimal change" to deploy as laravel package.
+- [foo123/HtmlWidget](https://github.com/foo123/HtmlWidget) - Html Widgets used as (template) plugins and/or standalone, for Javascript, PHP and Python
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 
 ## PLpgSQL 
@@ -7089,7 +7093,7 @@
 - [ahmetb/serverless-url-redirect](https://github.com/ahmetb/serverless-url-redirect) - Simple click-to-deploy serverless URL redirect service
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [radiant-rstats/docker](https://github.com/radiant-rstats/docker) - Use R, Rstudio, Shiny, Radiant, Python, and Jupyter in a Docker container
-- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more in a single portable script.
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [ow/ubuntu-windows-dotfiles](https://github.com/ow/ubuntu-windows-dotfiles) - Ubuntu on Windows dotfiles
 - [umutphp/github-action-dynamic-profile-page](https://github.com/umutphp/github-action-dynamic-profile-page) - GitHub Action to push updates to your special profile repository.
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
@@ -7583,6 +7587,7 @@
 
 ## Vim script 
 
+- [aperezdc/vim-template](https://github.com/aperezdc/vim-template) - Simple templates plugin for Vim
 - [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
 - [TylerLeonhardt/dotfiles](https://github.com/TylerLeonhardt/dotfiles) - dotfiles
 - [hongyuanjia/dotfiles](https://github.com/hongyuanjia/dotfiles) - 
