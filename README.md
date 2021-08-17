@@ -130,6 +130,7 @@
 
 ## Batchfile 
 
+- [DreamDevourer/NT-Optimizer](https://github.com/DreamDevourer/NT-Optimizer) - Post Install Windows Scripts, optimized for NT Kernel 10+
 - [gaze9999/Windows10_AutoUnattend](https://github.com/gaze9999/Windows10_AutoUnattend) - For my Windows 10 USB installer automation
 - [stayboogy/Windows_Stuff](https://github.com/stayboogy/Windows_Stuff) - Windows Stuff I use from time to time, for archiving purposes
 - [stayboogy/WindowsProfileSync](https://github.com/stayboogy/WindowsProfileSync) - backup script for Windows' Users' files
@@ -783,6 +784,7 @@
 - [maddox/actions](https://github.com/maddox/actions) - A collection of useful GitHub Actions
 - [dirmeier/dockerfiles](https://github.com/dirmeier/dockerfiles) - A collection of docker files.
 - [rstudio/rstudio-docker-products](https://github.com/rstudio/rstudio-docker-products) - Docker images for RStudio Professional Products
+- [rocker-org/rocker-versioned2](https://github.com/rocker-org/rocker-versioned2) - 
 - [codecheckers/register](https://github.com/codecheckers/register) - Register of CODECHECK certificates
 - [steren/awesome-cloudrun](https://github.com/steren/awesome-cloudrun) - 👓 ⏩ A curated list of resources about all things Cloud Run
 - [rstudio/r-docker](https://github.com/rstudio/r-docker) - Docker images for R
@@ -1524,7 +1526,6 @@
 - [apache/maven](https://github.com/apache/maven) - Apache Maven core
 - [ContextQuickie/ContextQuickie](https://github.com/ContextQuickie/ContextQuickie) - An eclipse add-on which extens the context menu for accessing various tools.
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
-- [agnitas-org/openemm](https://github.com/agnitas-org/openemm) - Web-based software for email automation and marketing (newsletters, mutli-stage mail campaigns, transaction mails, autoresponder, etc.)
 - [GDGAhmedabad/Learning-Resources](https://github.com/GDGAhmedabad/Learning-Resources) - "Technology Gold mine" to collect and share materials/resources
 - [cokeSchlumpf/zttl-client](https://github.com/cokeSchlumpf/zttl-client) - Zettels is a note taking application written with JavaFX. It follows the principles Niklas Luhman's Zettelkasten.
 - [han-chao/GitPKM](https://github.com/han-chao/GitPKM) - Git-based Personal Knowledge Management
@@ -1829,6 +1830,7 @@
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [abhisheknaiidu/todoist-readme](https://github.com/abhisheknaiidu/todoist-readme) - 🚧 Updates README with Todoist Stats of a user
 - [pegaltier/awesome-utils-dev](https://github.com/pegaltier/awesome-utils-dev) - 📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...
+- [agnitas-org/openemm](https://github.com/agnitas-org/openemm) - Web-based software for email automation and marketing (newsletters, mutli-stage mail campaigns, transaction mails, autoresponder, etc.)
 - [awslabs/serverless-image-handler](https://github.com/awslabs/serverless-image-handler) - A solution to dynamically handle images on the fly, utilizing SharpJS
 - [wouterverweirder/electron-website-downloader](https://github.com/wouterverweirder/electron-website-downloader) - Desktop application to download a website with all of it's internal links and assets to your local machine.
 - [up209d/ResourcesSaverExt](https://github.com/up209d/ResourcesSaverExt) - Chrome Extension for one click downloading all resources files and keeping folder structures.
@@ -3410,6 +3412,8 @@
 
 ## PowerShell 
 
+- [stackriot-labs/Windows10Debloater](https://github.com/stackriot-labs/Windows10Debloater) - Script to remove Windows 10 bloatware.
+- [jimbrig/WindowsSetup](https://github.com/jimbrig/WindowsSetup) - 
 - [hackf5/powershell-profile-alias](https://github.com/hackf5/powershell-profile-alias) - Bash style aliases in PowerShell
 - [Jaykul/PowerLine](https://github.com/Jaykul/PowerLine) - A more PowerShell prompt
 - [XenIrvana/My-PowerShell-Configuration](https://github.com/XenIrvana/My-PowerShell-Configuration) - Repository for my personal PowerShell Profile(s), modules (ones I havent made in 'Third-Party Modules' Directory), and various other config files
@@ -3424,13 +3428,10 @@
 - [pldmgg/ProgramManagement](https://github.com/pldmgg/ProgramManagement) - This Module makes it easier to Install/Uninstall programs on Windows, regardless of the method of installation (PSGet, Chocolatey CmdLine, .msi, etc)
 - [damienvanrobaeys/Run-in-Sandbox](https://github.com/damienvanrobaeys/Run-in-Sandbox) - Run PS1, VBS, EXE, MSI in Windows Sandbox very quickly just from a right-click
 - [scriptman-de/windows-resetstick](https://github.com/scriptman-de/windows-resetstick) - Scripts to Add a Reset functionality to a Windows NativeBoot Environment
-- [Zezypisa/Remove-Bloatware](https://github.com/Zezypisa/Remove-Bloatware) - Removes bloatware from windows 10 depending on how intense it is
-- [Zezypisa/Remove-WindowsApps](https://github.com/Zezypisa/Remove-WindowsApps) - Removes WindowsApps + Friends from a drive if you reinstalled windows or encountered errors,
-- [Zezypisa/Toggle-Programs](https://github.com/Zezypisa/Toggle-Programs) - A Multi-toggler tool for toggling mulitple annoying programs like EA Desktop, Vanguard, and others.
 - [tikabu/TikabuPSModuleTemplate](https://github.com/tikabu/TikabuPSModuleTemplate) - Plaster template to scaffold PowerShell Modules
 - [MicrosoftDocs/Virtualization-Documentation](https://github.com/MicrosoftDocs/Virtualization-Documentation) - Place to store our documentation, code samples, etc for public consumption.
 - [tabs-not-spaces/Hyper-ConvertImage](https://github.com/tabs-not-spaces/Hyper-ConvertImage) - Microsoft hasn't published any approved PRs on their Convert-WindowsImage module in years. This is a more recent version.
-- [Zezypisa/Setup-PC](https://github.com/Zezypisa/Setup-PC) - Reinstalls programs I use commonly use, and set registry information with a simple script
+- [Zezypisa/Zezy-PC-Essentials](https://github.com/Zezypisa/Zezy-PC-Essentials) - A repository holding all of my Windows / Powershell scripts projects
 - [FlorianTim/autosetup_win](https://github.com/FlorianTim/autosetup_win) - Automated basic pc setup
 - [sbaerlocher/ansible.hello](https://github.com/sbaerlocher/ansible.hello) - Hello Ansible allows the devices for the client use of Ansible to advance.
 - [vijaygurunanee/gocdsetuponwindows](https://github.com/vijaygurunanee/gocdsetuponwindows) - This is a sample demonstration on how we can automate the Go-CD set-up on windows instances. This can help in keeping our environment as a code back-up mechanism.
@@ -3715,7 +3716,7 @@
 - [equk/windows](https://github.com/equk/windows) - 💎 tweaks & fixes for windows 10 - mostly powershell
 - [madbomb122/Win10Script](https://github.com/madbomb122/Win10Script) - Win 10 Powershell Script to tweak and change windows settings
 - [lukesampson/scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
-- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: A powerful PowerShell module for fine-tuning and tweaking Windows 10 & Windows 11
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for Windows 10 & Windows 11 fine-tuning and tweaking
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 - [ironmansoftware/universal-dashboard](https://github.com/ironmansoftware/universal-dashboard) - Build beautiful websites with PowerShell.
 - [AlexanderSavenkov/Zotero-Obdisian-Picker-Windows](https://github.com/AlexanderSavenkov/Zotero-Obdisian-Picker-Windows) - Allows you to call up a Zotero picker from within Obsidian in Windows 10
@@ -3732,6 +3733,7 @@
 
 ## Python 
 
+- [tzwel/WSD](https://github.com/tzwel/WSD) - Quickly disable unnecessary services on Windows
 - [deajan/smartmontools-win](https://github.com/deajan/smartmontools-win) - smartmontools for windows package providing automated / mass installation and email alert support out of the box for hard drive SMART functionality. Scriptable for unattended or GUI end user install.
 - [eliasbenb/EzSetup](https://github.com/eliasbenb/EzSetup) - EzSetup is a Python app that uses a PyQt5 GUI. It eases the process of setting up your Windows PC by backing up your files, automatically downloading software and automatically setting your background.
 - [django-hijack/django-hijack](https://github.com/django-hijack/django-hijack) - With Django Hijack, admins can log in and work on behalf of other users without having to know their credentials.
@@ -7039,7 +7041,6 @@
 - [bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - 🛡️ Make your web services secure by default !
 - [trestletech/rdeps](https://github.com/trestletech/rdeps) - 
 - [kevinushey/etc](https://github.com/kevinushey/etc) - Scripts, dot files, and other things that make my programming life a happy one
-- [rocker-org/rocker-versioned2](https://github.com/rocker-org/rocker-versioned2) - 
 - [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 - [tallguyjenks/BusinessCard](https://github.com/tallguyjenks/BusinessCard) - 💳 My curl-able business card
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
