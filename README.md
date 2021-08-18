@@ -2519,6 +2519,7 @@
 
 ## Others 
 
+- [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE) - ⚡ Open GitHub repositories in online web IDE
 - [vitalets/awesome-browser-extensions-and-apps](https://github.com/vitalets/awesome-browser-extensions-and-apps) - :zap:A curated list of awesome resources for building browser extensions and apps
 - [cezaraugusto/github-template-guidelines](https://github.com/cezaraugusto/github-template-guidelines) - Guidelines for building GitHub templates.
 - [melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates) - Boilerplates for mobile and web apps
@@ -3412,6 +3413,7 @@
 
 ## PowerShell 
 
+- [JeffBrownTech/powershell-prompts](https://github.com/JeffBrownTech/powershell-prompts) - Examples of how to create user prompts in PowerShell
 - [stackriot-labs/Windows10Debloater](https://github.com/stackriot-labs/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [jimbrig/WindowsSetup](https://github.com/jimbrig/WindowsSetup) - 
 - [hackf5/powershell-profile-alias](https://github.com/hackf5/powershell-profile-alias) - Bash style aliases in PowerShell
@@ -3803,7 +3805,7 @@
 - [mdneuzerling/starfleet](https://github.com/mdneuzerling/starfleet) - Configuration files for my personal Kubernetes (k3s) cluster
 - [jotweh/IssueRelocate](https://github.com/jotweh/IssueRelocate) - RZGithubUtils
 - [lorenzwalthert/pre-commit](https://github.com/lorenzwalthert/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
-- [strictdoc-project/strictdoc](https://github.com/strictdoc-project/strictdoc) - Software for writing traceable technical requirements specifications.
+- [strictdoc-project/strictdoc](https://github.com/strictdoc-project/strictdoc) - Software for writing technical requirements specifications.
 - [randy3k/ProjectManager](https://github.com/randy3k/ProjectManager) - Project Manager for Sublime Text
 - [gonzalezben81/simplefastapi](https://github.com/gonzalezben81/simplefastapi) - Simple Dockerfile to create a working fastapi example
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
@@ -7076,7 +7078,7 @@
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [basherpm/basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
 - [aaronpowell/system-init](https://github.com/aaronpowell/system-init) - 
-- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically Commit changed Files back to Github with Github Actions
+- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically Commit changed Files back to GitHub with GitHub Actions for the 80% use case.
 - [Hiperblade/HyperNote](https://github.com/Hiperblade/HyperNote) - HyperNote - Eee Note Package Manager
 - [aviaryan/utility-bash-scripts](https://github.com/aviaryan/utility-bash-scripts) - 🤓 Useful bash scripts to do automatable tasks with a single command
 - [aitemr/awesome-git-hooks](https://github.com/aitemr/awesome-git-hooks) - 😎 A collection of awesome Git Hooks
