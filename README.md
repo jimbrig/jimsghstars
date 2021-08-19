@@ -2519,6 +2519,7 @@
 
 ## Others 
 
+- [SysAdminDocs/gpg-docs](https://github.com/SysAdminDocs/gpg-docs) - GPG Documentation
 - [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE) - ⚡ Open GitHub repositories in online web IDE
 - [vitalets/awesome-browser-extensions-and-apps](https://github.com/vitalets/awesome-browser-extensions-and-apps) - :zap:A curated list of awesome resources for building browser extensions and apps
 - [cezaraugusto/github-template-guidelines](https://github.com/cezaraugusto/github-template-guidelines) - Guidelines for building GitHub templates.
@@ -3413,6 +3414,7 @@
 
 ## PowerShell 
 
+- [EvotecIT/PSWriteColor](https://github.com/EvotecIT/PSWriteColor) - Write-Color is a wrapper around Write-Host allowing you to create nice looking scripts, with colorized output.
 - [JeffBrownTech/powershell-prompts](https://github.com/JeffBrownTech/powershell-prompts) - Examples of how to create user prompts in PowerShell
 - [stackriot-labs/Windows10Debloater](https://github.com/stackriot-labs/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [jimbrig/WindowsSetup](https://github.com/jimbrig/WindowsSetup) - 
@@ -6879,7 +6881,7 @@
 - [Karapatakis106/MakeMeBootable](https://github.com/Karapatakis106/MakeMeBootable) - Make bootable USB's by Linux Terminal. More info on README.md
 - [calledtoconstruct/devbuntu](https://github.com/calledtoconstruct/devbuntu) - Scripts for creating and using a custom Ubuntu Live Image for software development, kubernetes, service mesh, and beyond.
 - [Mexit/MultiOS-USB](https://github.com/Mexit/MultiOS-USB) - Boot operating systems directly from ISO files
-- [ValdikSS/windows2usb](https://github.com/ValdikSS/windows2usb) - Windows 7/8/8.1/10 ISO to Flash Drive burning utility for Linux (MBR/GPT, BIOS/UEFI, FAT32/NTFS)
+- [ValdikSS/windows2usb](https://github.com/ValdikSS/windows2usb) - Windows 7/8/8.1/10/11 ISO to Flash Drive burning utility for Linux (MBR/GPT, BIOS/UEFI, FAT32/NTFS)
 - [uup-dump/converter](https://github.com/uup-dump/converter) - Multiplatform UUP converter
 - [aws-samples/aws-fargate-with-rstudio-open-source](https://github.com/aws-samples/aws-fargate-with-rstudio-open-source) - This project delivers AWS CDK Python code to provision serverless infrastructure in AWS Cloud to run Open Source RStudio Server and Shiny.
 - [jimscratch/obsidian-test-sync-vault](https://github.com/jimscratch/obsidian-test-sync-vault) - 
@@ -7651,7 +7653,7 @@
 - [KeziahMoselle/export-github-stars](https://github.com/KeziahMoselle/export-github-stars) - View / Sort / Export your Starred repositories.
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
 - [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
-- [ycparak/ycparak](https://github.com/ycparak/ycparak) - Personal site, blog, wiki and note taking system  🎧
+- [ycparak/ycparak](https://github.com/ycparak/ycparak) - 🎧  Personal site, blog and note taking system
 - [zzetao/awesome-github-profile](https://github.com/zzetao/awesome-github-profile) - 🌐  A website of awesome Github Profile READMEs
 - [lusaxweb/devAwesome](https://github.com/lusaxweb/devAwesome) - 🐣 Upload your own sites as portfolio or projects of your github
 - [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
