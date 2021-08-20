@@ -130,6 +130,7 @@
 
 ## Batchfile 
 
+- [ildar-shaimordanov/psubst](https://github.com/ildar-shaimordanov/psubst) - Associates a path with a drive letter and extends the standard SUBST command allowing to create persistent substituted drives between startups
 - [DreamDevourer/NT-Optimizer](https://github.com/DreamDevourer/NT-Optimizer) - Post Install Windows Scripts, optimized for NT Kernel 10+
 - [gaze9999/Windows10_AutoUnattend](https://github.com/gaze9999/Windows10_AutoUnattend) - For my Windows 10 USB installer automation
 - [stayboogy/Windows_Stuff](https://github.com/stayboogy/Windows_Stuff) - Windows Stuff I use from time to time, for archiving purposes
@@ -223,7 +224,7 @@
 - [ReneNyffenegger/Windows-development](https://github.com/ReneNyffenegger/Windows-development) - Playground to experiment with developping applications for Windows.
 - [ReneNyffenegger/temp-VBA](https://github.com/ReneNyffenegger/temp-VBA) - temporary VBA snippets
 - [yuk7/wsl2exe](https://github.com/yuk7/wsl2exe) - [TESTING]Use command in WSL from exe executable
-- [haileysome/doslinux](https://github.com/haileysome/doslinux) - Run Linux programs on DOS
+- [haileys/doslinux](https://github.com/haileys/doslinux) - Run Linux programs on DOS
 - [adamyg/mcwin32](https://github.com/adamyg/mcwin32) - Midnight Commander for Windows
 - [Sage-Bionetworks/Rsftp](https://github.com/Sage-Bionetworks/Rsftp) - R package for sftp and other ssh-related functionality
 - [jeroen/sys](https://github.com/jeroen/sys) - Powerful replacements for base::system2
@@ -350,7 +351,6 @@
 - [Azure/azure-functions-sql-extension](https://github.com/Azure/azure-functions-sql-extension) - Azure Functions trigger and bindings for SQL
 - [tjackenpacken/taskbar-groups](https://github.com/tjackenpacken/taskbar-groups) - Lightweight utility for organizing the taskbar through groups
 - [ReneNyffenegger/show-command-line-arguments](https://github.com/ReneNyffenegger/show-command-line-arguments) - Programs that show the command line arguments that they received.
-- [ReneNyffenegger/.NET-API](https://github.com/ReneNyffenegger/.NET-API) - Code snippets for select .NET classes etc.
 - [microsoft/Git-Credential-Manager-Core](https://github.com/microsoft/Git-Credential-Manager-Core) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [Pscx/Pscx](https://github.com/Pscx/Pscx) - PowerShell Community Extensions module repository
 - [meteatamel/cloudrun-tutorial](https://github.com/meteatamel/cloudrun-tutorial) - A tutorial showing some of the features of Cloud Run
@@ -1553,6 +1553,7 @@
 
 ## JavaScript 
 
+- [gskinner/regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 - [howardroark/pollinate](https://github.com/howardroark/pollinate) - Template your base files and generate new projects from Git(Hub).
 - [coreymunn3/Portfolio-Website](https://github.com/coreymunn3/Portfolio-Website) - 
 - [bradtraversy/dj-events-backend](https://github.com/bradtraversy/dj-events-backend) - Strapi backend/API for DJ events
@@ -2127,7 +2128,6 @@
 - [SilenceDN/simple-notes](https://github.com/SilenceDN/simple-notes) - Article & Snippet Management For Programer
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [LekoArts/gatsby-starter-prismic](https://github.com/LekoArts/gatsby-starter-prismic) - A typography-heavy & light-themed Gatsby Starter which uses the Headless CMS Prismic.
-- [Vagr9K/gatsby-material-starter](https://github.com/Vagr9K/gatsby-material-starter) - A high performance blog starter with Material design in mind for GatsbyJS.
 - [TryGhost/gatsby-starter-ghost](https://github.com/TryGhost/gatsby-starter-ghost) - A starter template to build lightning fast websites with Ghost & Gatsby
 - [saimn/sigal](https://github.com/saimn/sigal) - yet another simple static gallery generator
 - [elmasse/nextein](https://github.com/elmasse/nextein) - A static site generator with markdown + react for Next.js
@@ -3414,6 +3414,8 @@
 
 ## PowerShell 
 
+- [kiedtl/winfetch](https://github.com/kiedtl/winfetch) - 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
+- [DBHeise/VM_Setup](https://github.com/DBHeise/VM_Setup) - A collection of scripts to initialize a windows VM to run all the malwares!
 - [EvotecIT/PSWriteColor](https://github.com/EvotecIT/PSWriteColor) - Write-Color is a wrapper around Write-Host allowing you to create nice looking scripts, with colorized output.
 - [JeffBrownTech/powershell-prompts](https://github.com/JeffBrownTech/powershell-prompts) - Examples of how to create user prompts in PowerShell
 - [stackriot-labs/Windows10Debloater](https://github.com/stackriot-labs/Windows10Debloater) - Script to remove Windows 10 bloatware.
@@ -3630,6 +3632,7 @@
 - [ReneNyffenegger/about-Windows-Registry](https://github.com/ReneNyffenegger/about-Windows-Registry) - Windows Registry
 - [ReneNyffenegger/temp-registry-extension](https://github.com/ReneNyffenegger/temp-registry-extension) - 
 - [ReneNyffenegger/about-SQL-Developer](https://github.com/ReneNyffenegger/about-SQL-Developer) - Stored stuff about SQL Developer
+- [ReneNyffenegger/.NET-API](https://github.com/ReneNyffenegger/.NET-API) - Code snippets for select .NET classes etc.
 - [changhuixu/ScriptsArchive](https://github.com/changhuixu/ScriptsArchive) - Useful scripts
 - [ReneNyffenegger/about-powershell](https://github.com/ReneNyffenegger/about-powershell) - Small powershell scriptlets and/or examples.
 - [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests) - Please submit your package requests as issues here
@@ -6745,6 +6748,7 @@
 
 ## Rust 
 
+- [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [extendr/libR-sys](https://github.com/extendr/libR-sys) - Low level R bindgen interface
 - [hoodie/toastify](https://github.com/hoodie/toastify) - 🍞A commandline tool that shows desktop notifications using notify-rust
@@ -6808,6 +6812,7 @@
 
 ## SCSS 
 
+- [AnilSeervi/DevFolio](https://github.com/AnilSeervi/DevFolio) - A Minimal Portfolio Template for Developers with easy setup process documented(with hosting).
 - [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
 - [hbctraining/Intro-to-R](https://github.com/hbctraining/Intro-to-R) - 
 - [darekkay/static-marks-app](https://github.com/darekkay/static-marks-app) - Frontend part of the Static Marks project
@@ -6856,12 +6861,15 @@
 
 ## Shell 
 
+- [wking/dotfiles-framework](https://github.com/wking/dotfiles-framework) - Framework for keeping your dotfiles versioned and in sync.
+- [eli-schwartz/dotfiles.sh](https://github.com/eli-schwartz/dotfiles.sh) - Dotfiles made easy
+- [collinbarrett/box-setup](https://github.com/collinbarrett/box-setup) - A set of instructions and scripts to document and semi-automate the setup of a new Windows developer machine
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [cheat/cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets
 - [jimbrig/wsl-dotfiles](https://github.com/jimbrig/wsl-dotfiles) - WSL Dotfiles
 - [DamionGans/ubuntu-wsl2-systemd-script](https://github.com/DamionGans/ubuntu-wsl2-systemd-script) - Script to enable systemd support on current Ubuntu WSL2 images [Unsupported, no longer updated]
 - [tprasadtp/dotfiles](https://github.com/tprasadtp/dotfiles) - dotfiles
-- [tprasadtp/ubuntu-post-install](https://github.com/tprasadtp/ubuntu-post-install) - Effortless and Simple Post Install Script for Ubuntu, Linux Mint, Debian & their derivatives
+- [tprasadtp/ubuntu-post-install](https://github.com/tprasadtp/ubuntu-post-install) - Effortless, Flexible and Simple Post Install Script for Ubuntu, Linux Mint, Debian & their derivatives
 - [thxi/df](https://github.com/thxi/df) - dotfiles and links for a pc setup
 - [nbsp1221/wsl-setup](https://github.com/nbsp1221/wsl-setup) - ⚙️ Shell Script for WSL Setup
 - [olivomarco/dotfiles](https://github.com/olivomarco/dotfiles) - Easy shell environment + automated workstation setup
@@ -7508,6 +7516,7 @@
 - [tannerlinsley/react-query](https://github.com/tannerlinsley/react-query) - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
 - [prathamesh24307/DataCleanRoomUI](https://github.com/prathamesh24307/DataCleanRoomUI) - 
 - [benbalter/github-mention-highlighter](https://github.com/benbalter/github-mention-highlighter) - A Chrome extension that automatically highlights any time you are mentioned on a GitHub issue or pull request thread by highlighting your username, any team you're a member of, and the border of any containing comment.
+- [Vagr9K/gatsby-material-starter](https://github.com/Vagr9K/gatsby-material-starter) - A high performance blog starter with Material design in mind for GatsbyJS.
 - [Vagr9K/gatsby-advanced-starter](https://github.com/Vagr9K/gatsby-advanced-starter) - A high performance skeleton starter for GatsbyJS with an advanced feature set.
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [ionic-team/stencil](https://github.com/ionic-team/stencil) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and traditional web developers from a single, framework-agnostic codebase.
