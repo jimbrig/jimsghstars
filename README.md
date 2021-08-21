@@ -190,6 +190,7 @@
 
 ## C 
 
+- [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
 - [microsoft/Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples) - This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.
 - [ed10vi/msi-steelseries-led](https://github.com/ed10vi/msi-steelseries-led) - Control Keyboard backlight in MSI laptops with Steelseries Engine 3 Keyboards
 - [vstakhov/libucl](https://github.com/vstakhov/libucl) - Universal configuration library parser
@@ -752,6 +753,7 @@
 
 ## Dockerfile 
 
+- [Duffney/reclaim](https://github.com/Duffney/reclaim) - Take back your attention, Hit RESET on your digital life.
 - [devkitspaces/packer-on-github](https://github.com/devkitspaces/packer-on-github) - Experimenting with GitHub Actions for building machine images with Packer
 - [saiyam1814/awesome-cloudrun](https://github.com/saiyam1814/awesome-cloudrun) - 👓 ⏩ A curated list of resources about all things Cloud Run
 - [rajarshig/MyReference](https://github.com/rajarshig/MyReference) - Documentation for various software development related topic, using Mkdocs package
@@ -833,6 +835,7 @@
 
 ## Go 
 
+- [muesli/gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull & push changes
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
 - [BlackReloaded/wsl2-ssh-pageant](https://github.com/BlackReloaded/wsl2-ssh-pageant) - bridge between windows pageant and wsl2
 - [securitywithoutborders/hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
@@ -1048,6 +1051,7 @@
 
 ## HCL 
 
+- [Duffney/terraform-in20hours](https://github.com/Duffney/terraform-in20hours) - Learning Terraform in 20 Hours
 - [terraform-google-modules/terraform-google-bootstrap](https://github.com/terraform-google-modules/terraform-google-bootstrap) - A module for bootstrapping Terraform usage in a new GCP organization.
 - [dhoer/terraform_examples](https://github.com/dhoer/terraform_examples) - Terraform AWS Windows examples
 - [marcinbojko/hv-packer](https://github.com/marcinbojko/hv-packer) - Hyper-V Generation 2 Packer Templates for Windows 2016/2019, Windows Server and CentOS 7.x/AlmaLinux 8.x/RockyLinux 8.x
@@ -1069,6 +1073,8 @@
 
 ## HTML 
 
+- [rtpsug/Meetups](https://github.com/rtpsug/Meetups) - Content from our Online and In-Person Meetups
+- [Duffney/duffney.io](https://github.com/Duffney/duffney.io) - 
 - [google/web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
 - [m8/refined.blog](https://github.com/m8/refined.blog) - 
 - [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
@@ -1526,7 +1532,7 @@
 - [apache/maven](https://github.com/apache/maven) - Apache Maven core
 - [ContextQuickie/ContextQuickie](https://github.com/ContextQuickie/ContextQuickie) - An eclipse add-on which extens the context menu for accessing various tools.
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
-- [GDGAhmedabad/Learning-Resources](https://github.com/GDGAhmedabad/Learning-Resources) - "Technology Gold mine" to collect and share materials/resources
+- [GDGAhmedabad/Awesome-Learning-Resources](https://github.com/GDGAhmedabad/Awesome-Learning-Resources) - "Technology Gold mine" to collect and share materials/resources
 - [cokeSchlumpf/zttl-client](https://github.com/cokeSchlumpf/zttl-client) - Zettels is a note taking application written with JavaFX. It follows the principles Niklas Luhman's Zettelkasten.
 - [han-chao/GitPKM](https://github.com/han-chao/GitPKM) - Git-based Personal Knowledge Management
 - [itext/itext7](https://github.com/itext/itext7) - iText 7 for Java represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, high and low-level programming capabilities and the ability to create, edit and enhance PDF documents, iText 7 can be a boon to nearly every workflow.
@@ -1553,6 +1559,12 @@
 
 ## JavaScript 
 
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [open-cli-tools/chokidar-cli](https://github.com/open-cli-tools/chokidar-cli) - Fast cross-platform cli utility to watch file system changes
+- [sindresorhus/gh-home](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the given or current directory repo
+- [jonschlinkert/gists](https://github.com/jonschlinkert/gists) - Methods for working with the GitHub Gist API. Node.js/JavaScript
+- [kevva/github-gists](https://github.com/kevva/github-gists) - Get all gists from a GitHub user
+- [medikoo/cli-color](https://github.com/medikoo/cli-color) - Colors and formatting for the console
 - [gskinner/regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 - [howardroark/pollinate](https://github.com/howardroark/pollinate) - Template your base files and generate new projects from Git(Hub).
 - [coreymunn3/Portfolio-Website](https://github.com/coreymunn3/Portfolio-Website) - 
@@ -1691,7 +1703,6 @@
 - [berstend/hypertunnel](https://github.com/berstend/hypertunnel) - ✨ Expose any local TCP/IP service on the internet.
 - [berstend/puppeteer-extra](https://github.com/berstend/puppeteer-extra) - 💯  Teach puppeteer new tricks through plugins.
 - [ehmicky/cross-platform-terminal-characters](https://github.com/ehmicky/cross-platform-terminal-characters) - All the characters that work on most terminals
-- [jimbrig/jimsdots](https://github.com/jimbrig/jimsdots) - My personalized dotfiles and configs for Windows 10 ⚙️
 - [scottstanfield/markdown-to-json](https://github.com/scottstanfield/markdown-to-json) - 🕹️ Convert YAML front-matter in Markdown files to JSON. v0.5.1 is published on NPM. Current version is v0.5.3
 - [gsoft-inc/craco](https://github.com/gsoft-inc/craco) - Create React App Configuration Override, an easy and comprehensible configuration layer for create-react-app
 - [Appsilon/shiny.react](https://github.com/Appsilon/shiny.react) - 
@@ -1928,7 +1939,7 @@
 - [rstudio/flexdashboard](https://github.com/rstudio/flexdashboard) - Easy interactive dashboards for R
 - [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) - 🔥 Add Programming Quotes To Your GitHub Readme
 - [inkle/inky](https://github.com/inkle/inky) - An editor for ink: inkle's narrative scripting language
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 100+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [gajus/pg-formatter](https://github.com/gajus/pg-formatter) - A PostgreSQL SQL syntax beautifier.
 - [nosir/obelisk.js](https://github.com/nosir/obelisk.js) - Build pixel isometric graphics with HTML5 canvas
 - [sebhildebrandt/systeminformation](https://github.com/sebhildebrandt/systeminformation) - System Information Library for Node.JS
@@ -3414,6 +3425,13 @@
 
 ## PowerShell 
 
+- [matthewjdegarmo/AdminToolkit](https://github.com/matthewjdegarmo/AdminToolkit) - Miscellaneous functions and utilities for System Administrators.
+- [rtpsug/PowerShell-Saturday](https://github.com/rtpsug/PowerShell-Saturday) - This repository is a place to store Speaker content for the Raleigh PowerShell Saturday events.
+- [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts
+- [Duffney/chocolatey](https://github.com/Duffney/chocolatey) - Ansible role for installing Chocolatey
+- [Duffney/archive](https://github.com/Duffney/archive) - Repository of repositories, storing all abandoned but useful code.
+- [Duffney/PowerShell](https://github.com/Duffney/PowerShell) - A PowerShell Repository for all the miscellaneous scripts I'm working on. Enjoy!
+- [Duffney/becomeansible](https://github.com/Duffney/becomeansible) - Start as a beginner, leave production ready. Begin with running ad-hoc Ansible commands and end deploying Ansible with GitHub Actions.
 - [kiedtl/winfetch](https://github.com/kiedtl/winfetch) - 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
 - [DBHeise/VM_Setup](https://github.com/DBHeise/VM_Setup) - A collection of scripts to initialize a windows VM to run all the malwares!
 - [EvotecIT/PSWriteColor](https://github.com/EvotecIT/PSWriteColor) - Write-Color is a wrapper around Write-Host allowing you to create nice looking scripts, with colorized output.
@@ -3603,6 +3621,7 @@
 - [canonical/ubuntu-cooker](https://github.com/canonical/ubuntu-cooker) - Ubuntu WSL UWP Builder
 - [Phil-Factor/SQLCloneFamily](https://github.com/Phil-Factor/SQLCloneFamily) - 
 - [microsoftgraph/microsoft-graph-docs](https://github.com/microsoftgraph/microsoft-graph-docs) - Documentation for the Microsoft Graph REST API
+- [jimbrig/jimsdots](https://github.com/jimbrig/jimsdots) - My personalized dotfiles and configs for Windows 10 ⚙️
 - [microsoft/CSS-Exchange](https://github.com/microsoft/CSS-Exchange) - Exchange Server support tools and scripts
 - [hmerritt/win10-setup](https://github.com/hmerritt/win10-setup) - Windows 10/11 setup scripts for fresh installs
 - [nickrod518/PowerShell-Scripts](https://github.com/nickrod518/PowerShell-Scripts) - PowerShell scripts ranging from SCCM, MSO, AD, and other corporate enterprise uses... to sending cat facts to coworkers.
@@ -3617,7 +3636,7 @@
 - [OlafHaag/chocolatey-packages](https://github.com/OlafHaag/chocolatey-packages) - 
 - [chawyehsu/dorado](https://github.com/chawyehsu/dorado) - 🐟 Yet Another bucket for lovely Scoop
 - [Ash258/Scoop-Extras](https://github.com/Ash258/Scoop-Extras) - "Extras" bucket for Scoop
-- [Ash258/Scoop-GithubActions](https://github.com/Ash258/Scoop-GithubActions) - Use https://github.com/shovel-org/GithubActions
+- [Ash258/Scoop-GithubActions](https://github.com/Ash258/Scoop-GithubActions) - Deprecated. Use https://github.com/shovel-org/GithubActions
 - [Ash258/Scoop-Main](https://github.com/Ash258/Scoop-Main) - 📦 The next-generation default bucket for Scoop.
 - [Ash258/Scoop-NirSoft](https://github.com/Ash258/Scoop-NirSoft) - WIP: All NirSoft applications and utilities
 - [Ash258/Scoop-Sysinternals](https://github.com/Ash258/Scoop-Sysinternals) - All Sysinternals tools separately.
@@ -3740,6 +3759,7 @@
 
 ## Python 
 
+- [iWoz/file_sync](https://github.com/iWoz/file_sync) - Detect file modification in background and push it to git automatically.
 - [tzwel/WSD](https://github.com/tzwel/WSD) - Quickly disable unnecessary services on Windows
 - [deajan/smartmontools-win](https://github.com/deajan/smartmontools-win) - smartmontools for windows package providing automated / mass installation and email alert support out of the box for hard drive SMART functionality. Scriptable for unattended or GUI end user install.
 - [eliasbenb/EzSetup](https://github.com/eliasbenb/EzSetup) - EzSetup is a Python app that uses a PyQt5 GUI. It eases the process of setting up your Windows PC by backing up your files, automatically downloading software and automatically setting your background.
@@ -4108,6 +4128,7 @@
 
 ## R 
 
+- [rstudio/packrat](https://github.com/rstudio/packrat) - Packrat is a dependency management system for R
 - [SebKrantz/fastverse](https://github.com/SebKrantz/fastverse) - An Extensible Suite of High-Performance and Low-Dependency Packages for Statistical Computing and Data Manipulation in R
 - [analythium/heroku-shiny](https://github.com/analythium/heroku-shiny) - Deploy Shiny Apps to Heroku with CLI and CI/CD
 - [dreamRs/phosphoricons](https://github.com/dreamRs/phosphoricons) - Phosphor Icons for R
@@ -4116,7 +4137,7 @@
 - [MilesMcBain/paint](https://github.com/MilesMcBain/paint) - paint the data
 - [jamovi/jmv](https://github.com/jamovi/jmv) - jamovi for R
 - [jamovi/jmvtools](https://github.com/jamovi/jmvtools) - An R package which makes it easy to develop modules for jamovi
-- [adhikars11/shinymodels](https://github.com/adhikars11/shinymodels) - 
+- [tidymodels/shinymodels](https://github.com/tidymodels/shinymodels) - 
 - [statnmap/cartomisc](https://github.com/statnmap/cartomisc) - Miscellaneous tools for spatial data manipulation and analysis
 - [statnmap/blog_tips](https://github.com/statnmap/blog_tips) - Complete R script files shared on the blog
 - [statnmap/arpr](https://github.com/statnmap/arpr) - Advanced R Pipes
