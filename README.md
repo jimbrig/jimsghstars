@@ -572,6 +572,7 @@
 
 ## CSS 
 
+- [aaronpowell/gatsby-static-web-app](https://github.com/aaronpowell/gatsby-static-web-app) - 
 - [iamshaunjp/sass-playlist](https://github.com/iamshaunjp/sass-playlist) - Course files for The Net Ninja SASS tutorial playlist on YouTube
 - [iamshaunjp/next-contentful](https://github.com/iamshaunjp/next-contentful) - All course files for the Next.js & Contentful tutorial series on the Net Ninja YouTube channel.
 - [ahkscript/ahkbook](https://github.com/ahkscript/ahkbook) - a free online book about AutoHotkey!
@@ -3425,6 +3426,8 @@
 
 ## PowerShell 
 
+- [jamestharpe/windows-development-environment](https://github.com/jamestharpe/windows-development-environment) - When starting with a fresh install of Windows, these are my dev tools. All in one script for quick-and-easy installation. Run it, go make coffee, come back to a complete dev box!
+- [aaronpowell/ps-nvm](https://github.com/aaronpowell/ps-nvm) - PowerShell module for managing multiple Node.js versions
 - [matthewjdegarmo/AdminToolkit](https://github.com/matthewjdegarmo/AdminToolkit) - Miscellaneous functions and utilities for System Administrators.
 - [rtpsug/PowerShell-Saturday](https://github.com/rtpsug/PowerShell-Saturday) - This repository is a place to store Speaker content for the Raleigh PowerShell Saturday events.
 - [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts
