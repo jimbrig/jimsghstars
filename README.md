@@ -665,6 +665,7 @@
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [busterbenson/obsidian](https://github.com/busterbenson/obsidian) - Obsidian Letterpress Notes
 - [capnfabs/paperesque](https://github.com/capnfabs/paperesque) - A lightweight theme for Hugo (gohugo.io)
+- [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [zthxxx/wiki-site](https://github.com/zthxxx/wiki-site) - My personal knowledge management site.
 - [gadenbuie/tweet-conf-dash](https://github.com/gadenbuie/tweet-conf-dash) - A shiny twitter conference dashboard
 - [5t3ph/stylestage](https://github.com/5t3ph/stylestage) - A modern CSS showcase styled by community contributions. Add your stylesheet!
@@ -895,7 +896,7 @@
 - [kelseyhightower/konfig](https://github.com/kelseyhightower/konfig) - 
 - [GoogleCloudPlatform/berglas](https://github.com/GoogleCloudPlatform/berglas) - A tool for managing secrets on Google Cloud
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
-- [thecodingmachine/gotenberg](https://github.com/thecodingmachine/gotenberg) - A Docker-powered stateless API for converting HTML, Markdown and Office documents to PDF
+- [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A Docker-powered stateless API for PDF files.
 - [lafikl/pginsight](https://github.com/lafikl/pginsight) - CLI tool to easily dig deep inside your Postgresql database.
 - [XiaoMi/soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
@@ -3269,7 +3270,6 @@
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [learn-anything/websites](https://github.com/learn-anything/websites) - Awesome Websites
 - [learn-anything/curated-lists](https://github.com/learn-anything/curated-lists) - Curated lists on various topics
-- [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [postlight/awesome-cms](https://github.com/postlight/awesome-cms) - 📚 A collection of open and closed source Content Management Systems (CMS) for your perusal.
 - [Zettelkasten-Method/The-Archive-Themes](https://github.com/Zettelkasten-Method/The-Archive-Themes) - The Archive userland for app themes
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
@@ -3426,6 +3426,8 @@
 
 ## PowerShell 
 
+- [SonOfSafwat/win-dev-setup](https://github.com/SonOfSafwat/win-dev-setup) - Setup your fresh windows development machine with one click. An opinionated approach
+- [kurone-kito/setup.windows](https://github.com/kurone-kito/setup.windows) - 🖥 Desktop environment preference for Windows (8.1, 10)
 - [jamestharpe/windows-development-environment](https://github.com/jamestharpe/windows-development-environment) - When starting with a fresh install of Windows, these are my dev tools. All in one script for quick-and-easy installation. Run it, go make coffee, come back to a complete dev box!
 - [aaronpowell/ps-nvm](https://github.com/aaronpowell/ps-nvm) - PowerShell module for managing multiple Node.js versions
 - [matthewjdegarmo/AdminToolkit](https://github.com/matthewjdegarmo/AdminToolkit) - Miscellaneous functions and utilities for System Administrators.
@@ -3469,7 +3471,6 @@
 - [CJavierSaldana/MS-Config](https://github.com/CJavierSaldana/MS-Config) - Initial configuration of working environment for windows.
 - [z0ph/ansible-win-install](https://github.com/z0ph/ansible-win-install) - Automate your post-windows Installation with Ansible & Chocolatey
 - [CSRedRat/Win10-Initial-Setup-Script-Debloater](https://github.com/CSRedRat/Win10-Initial-Setup-Script-Debloater) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019. Links to disable telemetry, remove bloat pre-installed apps.
-- [tprasadtp/w10-setup](https://github.com/tprasadtp/w10-setup) - Windows Setup Scripts
 - [jetersen/setup](https://github.com/jetersen/setup) - Personal setup
 - [jimsforks/Utilities](https://github.com/jimsforks/Utilities) - Useful things
 - [kelleyma49/PSFzf](https://github.com/kelleyma49/PSFzf) - A PowerShell wrapper around the fuzzy finder fzf
@@ -3602,7 +3603,7 @@
 - [StefanScherer/docker-windows-azure](https://github.com/StefanScherer/docker-windows-azure) - Deploy a Windows "Docker-Machine" on Azure
 - [StefanScherer/windows-docker-workshop](https://github.com/StefanScherer/windows-docker-workshop) - Docker on Windows workshop
 - [StefanScherer/docker-windows-box](https://github.com/StefanScherer/docker-windows-box) - Various Vagrant envs with Windows 2019/10 and Docker, Swarm mode, LCOW, WSL2, ...
-- [StefanScherer/packer-windows](https://github.com/StefanScherer/packer-windows) - Windows Templates for Packer: Win10, Server 2016, 1709, 1803, 1809, 2019, 1903, 1909, 2004, Insider with Docker
+- [StefanScherer/packer-windows](https://github.com/StefanScherer/packer-windows) - Windows Templates for Packer: Windows 10, Windows Server 2022, 2016, 1709, 1803, 1809, 2019, 1903, 1909, 2004, Insider with Docker
 - [mguludag/WSL-Manager](https://github.com/mguludag/WSL-Manager) - This is PowerShell script for linux distro download and installation to wsl plus adding to Windows Terminal with icon!
 - [kerol2r20/Windows-terminal-context-menu](https://github.com/kerol2r20/Windows-terminal-context-menu) - 📃 This is a simple script to add right click context menu for your best Windows terminal ❤
 - [AutomatedLab/AutomatedLab](https://github.com/AutomatedLab/AutomatedLab) - AutomatedLab is a provisioning solution and framework that lets you deploy complex labs on HyperV and Azure with simple PowerShell scripts. It supports all Windows operating systems from 2008 R2 to 2019, some Linux distributions and various products like AD, Exchange, PKI, IIS, etc.
@@ -6885,6 +6886,7 @@
 
 ## Shell 
 
+- [dallinski/dev-setup](https://github.com/dallinski/dev-setup) - My personal configurations for setting up dev environment
 - [wking/dotfiles-framework](https://github.com/wking/dotfiles-framework) - Framework for keeping your dotfiles versioned and in sync.
 - [eli-schwartz/dotfiles.sh](https://github.com/eli-schwartz/dotfiles.sh) - Dotfiles made easy
 - [collinbarrett/box-setup](https://github.com/collinbarrett/box-setup) - A set of instructions and scripts to document and semi-automate the setup of a new Windows developer machine
@@ -7321,7 +7323,7 @@
 - [nateshmbhat/windows-terminal-tweaker](https://github.com/nateshmbhat/windows-terminal-tweaker) - Tweak your windows terminal to heart's content with this app using its beautiful interface to configure everything about the terminal.
 - [akosbalasko/obsidian-autotagger-plugin](https://github.com/akosbalasko/obsidian-autotagger-plugin) - This plugin offers smart tags for notes by performing Named Entity Recognition (NER) on the content
 - [atomcorp/themes](https://github.com/atomcorp/themes) - Themes for Windows Terminal
-- [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A complex query language implementation for the Obsidian note-taking tool.
+- [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A high-performance data index and query language over Markdown files, for https://obsidian.md/.
 - [tgrosinger/tq-obsidian](https://github.com/tgrosinger/tq-obsidian) - Yet another Obsidian task manager
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
