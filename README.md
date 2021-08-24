@@ -969,7 +969,7 @@
 - [mingrammer/go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars) - :star: Web frameworks for Go, most starred on GitHub
 - [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Kubernetes Native Batch System (Project under CNCF)
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
-- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV, mount cloud storage.
+- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV, Cloud Drive.
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [muesli/cache2go](https://github.com/muesli/cache2go) - Concurrency-safe Go caching library with expiration capabilities and access counters
 - [google/gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go
@@ -978,7 +978,7 @@
 - [mattn/go-gtk](https://github.com/mattn/go-gtk) - Go binding for GTK
 - [google/gapid](https://github.com/google/gapid) - Graphics API Debugger
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
-- [AlecAivazis/survey](https://github.com/AlecAivazis/survey) - A golang library for building interactive prompts with full support for windows and posix terminals.
+- [AlecAivazis/survey](https://github.com/AlecAivazis/survey) - A golang library for building interactive and accessible prompts with full support for windows and posix terminals.
 - [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create desktop apps using Go and Web Technologies.
 - [txthinking/brook](https://github.com/txthinking/brook) - Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration. Brook 是一个跨平台的强加密无特征的代理软件. 零配置.
@@ -7403,7 +7403,7 @@
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.
 - [jevakallio/git-notify](https://github.com/jevakallio/git-notify) - 🙉 📣 Communicate important updates to your team via git commit messages
 - [JasonEtco/create-an-issue](https://github.com/JasonEtco/create-an-issue) - A GitHub Action for creating a new issue from a template file.
-- [booster-labs/rocket-booster](https://github.com/booster-labs/rocket-booster) - 🚀 Serverless reverse proxy and load balancing library built for Cloudflare Workers.
+- [booster-labs/rocket-booster](https://github.com/booster-labs/rocket-booster) - 🚀 Lightweight and scalable reverse proxy and load balancing library built for Cloudflare Workers.
 - [obsidian-userland/publish](https://github.com/obsidian-userland/publish) - Open source Obsidian Publish alternative
 - [skalnik/obsidian-readwise-sync](https://github.com/skalnik/obsidian-readwise-sync) - Sync Readwise Highlights to Obsidian
 - [jplattel/obsidian-query-language](https://github.com/jplattel/obsidian-query-language) - An Obsidian plugin allowing you to query your notes
