@@ -755,6 +755,7 @@
 
 ## Dockerfile 
 
+- [koenverburg/article-source-code](https://github.com/koenverburg/article-source-code) - This repo will hold all of the code I mention in my articles
 - [Duffney/reclaim](https://github.com/Duffney/reclaim) - Take back your attention, Hit RESET on your digital life.
 - [devkitspaces/packer-on-github](https://github.com/devkitspaces/packer-on-github) - Experimenting with GitHub Actions for building machine images with Packer
 - [saiyam1814/awesome-cloudrun](https://github.com/saiyam1814/awesome-cloudrun) - 👓 ⏩ A curated list of resources about all things Cloud Run
@@ -837,6 +838,7 @@
 
 ## Go 
 
+- [dkaslovsky/textnote](https://github.com/dkaslovsky/textnote) - Simple tool for creating and organizing daily notes on the command line
 - [muesli/gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull & push changes
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
 - [BlackReloaded/wsl2-ssh-pageant](https://github.com/BlackReloaded/wsl2-ssh-pageant) - bridge between windows pageant and wsl2
@@ -1078,7 +1080,7 @@
 - [rtpsug/Meetups](https://github.com/rtpsug/Meetups) - Content from our Online and In-Person Meetups
 - [Duffney/duffney.io](https://github.com/Duffney/duffney.io) - 
 - [google/web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
-- [m8/refined.blog](https://github.com/m8/refined.blog) - 
+- [m8/refined.blog](https://github.com/m8/refined.blog) - curated list of personal blogs
 - [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [mdn/dom-examples](https://github.com/mdn/dom-examples) - Code examples that accompany various MDN DOM and Web API documentation pages
 - [mdn/css-examples](https://github.com/mdn/css-examples) - Code examples that accompany the MDN CSS documentation
@@ -1321,6 +1323,7 @@
 - [ropensci-org/pkgreviewr](https://github.com/ropensci-org/pkgreviewr) - R package to facilitate rOpenSci package reviews.
 - [daattali/daattali.github.io](https://github.com/daattali/daattali.github.io) - Dean Attali's website - R/Shiny Consultant
 - [epwalsh/docker-shiny](https://github.com/epwalsh/docker-shiny) - :whale: A Docker image for an R Shiny server with username + password authentication :closed_lock_with_key:
+- [marton-balazs-kovacs/tenzing](https://github.com/marton-balazs-kovacs/tenzing) - tenzing: documening contributorship with CRediT
 - [scibrokes/owner](https://github.com/scibrokes/owner) - Personal CV
 - [stisla/stisla](https://github.com/stisla/stisla) - Free Bootstrap Admin Template
 - [tclavelle/dplyr-tidyr-tutorial](https://github.com/tclavelle/dplyr-tidyr-tutorial) - Tutorial on dplyr and tidyr packages for Eco-Data-Sci group
@@ -1561,6 +1564,10 @@
 
 ## JavaScript 
 
+- [bennyxguo/hexo-theme-obsidian](https://github.com/bennyxguo/hexo-theme-obsidian) - 🎨 A dark Hexo theme, it's responsive, simple but elegant.
+- [metruzanca/dev-journal](https://github.com/metruzanca/dev-journal) - An Obsidian.md Vault Template for a Productive Agile Journal
+- [e-schultz/not-a-robot-vault](https://github.com/e-schultz/not-a-robot-vault) - Vault for my not a robot digital garden
+- [tanepiper/obsidian-garden](https://github.com/tanepiper/obsidian-garden) - A knowledge management garden for https://obsidian.md, in which to grow your ideas
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
 - [open-cli-tools/chokidar-cli](https://github.com/open-cli-tools/chokidar-cli) - Fast cross-platform cli utility to watch file system changes
 - [sindresorhus/gh-home](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the given or current directory repo
@@ -2532,6 +2539,7 @@
 
 ## Others 
 
+- [Twigonometry/Cybersecurity-Notes](https://github.com/Twigonometry/Cybersecurity-Notes) - My Markdown notes for all things cybersecurity
 - [SysAdminDocs/gpg-docs](https://github.com/SysAdminDocs/gpg-docs) - GPG Documentation
 - [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE) - ⚡ Open GitHub repositories in online web IDE
 - [vitalets/awesome-browser-extensions-and-apps](https://github.com/vitalets/awesome-browser-extensions-and-apps) - :zap:A curated list of awesome resources for building browser extensions and apps
@@ -3366,6 +3374,7 @@
 
 ## PHP 
 
+- [dereckson/ObsidianWorkspaces](https://github.com/dereckson/ObsidianWorkspaces) - Obsidian Workspaces
 - [FOGProject/fogproject](https://github.com/FOGProject/fogproject) - An open source computer cloning & management system
 - [uup-dump/api](https://github.com/uup-dump/api) - UUP dump API code
 - [ksdev-pl/Gist-List](https://github.com/ksdev-pl/Gist-List) - Clear Organization of Your Gists
@@ -3426,6 +3435,8 @@
 
 ## PowerShell 
 
+- [ur0n2/dotfiles-for-windows](https://github.com/ur0n2/dotfiles-for-windows) - dotfiles for windows
+- [anishathalye/dotfiles_template](https://github.com/anishathalye/dotfiles_template) - A template for structuring dotfiles (using Dotbot as an installer) 📜
 - [SonOfSafwat/win-dev-setup](https://github.com/SonOfSafwat/win-dev-setup) - Setup your fresh windows development machine with one click. An opinionated approach
 - [kurone-kito/setup.windows](https://github.com/kurone-kito/setup.windows) - 🖥 Desktop environment preference for Windows (8.1, 10)
 - [jamestharpe/windows-development-environment](https://github.com/jamestharpe/windows-development-environment) - When starting with a fresh install of Windows, these are my dev tools. All in one script for quick-and-easy installation. Run it, go make coffee, come back to a complete dev box!
@@ -3532,7 +3543,7 @@
 - [a4099181/packer-officeVM](https://github.com/a4099181/packer-officeVM) - Building vagrant box from Windows ISO for vagrant-officeVM project. In ecosystem with: vagrant-officeVM and vagrant-provvin.
 - [wellsluo/DeployVHD](https://github.com/wellsluo/DeployVHD) - PowerShell script to deploy new VHD(X) file with un-attend information from Windows Server/Desktop image file ISO/WIM.
 - [majkinetor/posher](https://github.com/majkinetor/posher) - Windows image  build system via POwerSHell + packER
-- [pbatard/Fido](https://github.com/pbatard/Fido) - A PowerShell script to download Windows retail ISOs
+- [pbatard/Fido](https://github.com/pbatard/Fido) - A PowerShell script to download Windows ISOs or the UEFI Shell
 - [AlexAsplund/PSTodoist](https://github.com/AlexAsplund/PSTodoist) - A powershell module for todoist
 - [jimbrig/WindowsPowerShell](https://github.com/jimbrig/WindowsPowerShell) - Windows PowerShell Profile Directory
 - [jimbrig/PowerShell](https://github.com/jimbrig/PowerShell) - PowerShell Core Profile Directory Backup
@@ -5406,7 +5417,6 @@
 - [ianmcook/tidyquery](https://github.com/ianmcook/tidyquery) - Query R data frames with SQL
 - [business-science/timetk](https://github.com/business-science/timetk) - A toolkit for working with time series in R
 - [leonawicz/shinyaccess](https://github.com/leonawicz/shinyaccess) - Web Accessibility in Shiny
-- [marton-balazs-kovacs/tenzing](https://github.com/marton-balazs-kovacs/tenzing) - tenzing: documening contributorship with CRediT
 - [OmaymaS/intro_to_shiny_workshop](https://github.com/OmaymaS/intro_to_shiny_workshop) - Building Web Applications with Shiny (Workshop Material)
 - [surajsharan/Rshiny-Snippets](https://github.com/surajsharan/Rshiny-Snippets) - Shiny snippets for improving apps and solving common problems
 - [DeclareDesign/DDWizard](https://github.com/DeclareDesign/DDWizard) - DeclareDesign Wizard -- Shiny app for creating, editing and inspecting research designs.
@@ -6886,6 +6896,7 @@
 
 ## Shell 
 
+- [iridakos/stup](https://github.com/iridakos/stup) - Daily notes in the terminal :penguin:
 - [dallinski/dev-setup](https://github.com/dallinski/dev-setup) - My personal configurations for setting up dev environment
 - [wking/dotfiles-framework](https://github.com/wking/dotfiles-framework) - Framework for keeping your dotfiles versioned and in sync.
 - [eli-schwartz/dotfiles.sh](https://github.com/eli-schwartz/dotfiles.sh) - Dotfiles made easy
@@ -7301,6 +7312,8 @@
 
 ## TypeScript 
 
+- [koenverburg/site](https://github.com/koenverburg/site) - My slice of the internet built with Nextjs, TypeScript, and a whole lot more
+- [lynchjames/obsidian-mind-map](https://github.com/lynchjames/obsidian-mind-map) - An Obsidian plugin for displaying markdown notes as mind maps using Markmap.
 - [one-aalam/next-starter-kit](https://github.com/one-aalam/next-starter-kit) - Next.js with brilliant bells and useful whistles
 - [scriptman-de/windows-setup-automation](https://github.com/scriptman-de/windows-setup-automation) - 
 - [dominique-mueller/hugo-installer](https://github.com/dominique-mueller/hugo-installer) - Installs hugo into your repository.
@@ -7474,7 +7487,7 @@
 - [peter-evans/create-issue-from-file](https://github.com/peter-evans/create-issue-from-file) - A GitHub action to create an issue using content from a file
 - [ManuelHentschel/VSCode-R-Debugger](https://github.com/ManuelHentschel/VSCode-R-Debugger) - R Debugger Extension for Visual Studio Code
 - [liamcain/obsidian-calendar-plugin](https://github.com/liamcain/obsidian-calendar-plugin) - Simple calendar widget for Obsidian.
-- [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for Javascript
+- [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
 - [mrjackphil/obsidian-backlinks-in-document](https://github.com/mrjackphil/obsidian-backlinks-in-document) - A hacky workaround which put backlinks section into the document
 - [thenewboston-developers/Website](https://github.com/thenewboston-developers/Website) - The website and documentation for thenewboston.
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
