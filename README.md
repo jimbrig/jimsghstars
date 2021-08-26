@@ -46,6 +46,7 @@
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
+  - [Less](#less)
   - [Lua](#lua)
   - [M4](#m4)
   - [Makefile](#makefile)
@@ -294,6 +295,7 @@
 
 ## C# # 
 
+- [baynezy/Html2Markdown](https://github.com/baynezy/Html2Markdown) - A library for converting HTML to markdown syntax in C#
 - [vbfox/win32iam](https://github.com/vbfox/win32iam) - Windows Installed Application Manager
 - [feel-the-dz3n/RegistryFileManager](https://github.com/feel-the-dz3n/RegistryFileManager) - Allows to add/move/remove real files to/from Windows Registry
 - [JannisKirschner/General-IT-Stuff](https://github.com/JannisKirschner/General-IT-Stuff) - This repository is meant to document my knowledge I've earned at work and in my spare time. Mostly System Engineering stuff :)
@@ -586,7 +588,6 @@
 - [djnavarro/pkgdowngirl](https://github.com/djnavarro/pkgdowngirl) - A Minimal Pkgdown Template
 - [jh3y/whirl](https://github.com/jh3y/whirl) - CSS loading animations with minimal effort!
 - [crilleengvall/electron-tutorial-app](https://github.com/crilleengvall/electron-tutorial-app) - An electron application for tutorials
-- [klaussilveira/gitlist](https://github.com/klaussilveira/gitlist) - An elegant and modern git repository viewer
 - [tatianamac/tm11ty](https://github.com/tatianamac/tm11ty) - Personal site for Tatiana Mac (based on Eleventy)
 - [sammy007-debug/interactive-pricing-component-Frontend-mentors](https://github.com/sammy007-debug/interactive-pricing-component-Frontend-mentors) - 
 - [vivekkatial/uber_shiny](https://github.com/vivekkatial/uber_shiny) - Shiny App to play with uber data
@@ -838,6 +839,7 @@
 
 ## Go 
 
+- [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [dkaslovsky/textnote](https://github.com/dkaslovsky/textnote) - Simple tool for creating and organizing daily notes on the command line
 - [muesli/gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull & push changes
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
@@ -971,7 +973,7 @@
 - [mingrammer/go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars) - :star: Web frameworks for Go, most starred on GitHub
 - [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Kubernetes Native Batch System (Project under CNCF)
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
-- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV, Cloud Drive.
+- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, Hadoop, WebDAV, encryption, Erasure Coding.
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [muesli/cache2go](https://github.com/muesli/cache2go) - Concurrency-safe Go caching library with expiration capabilities and access counters
 - [google/gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go
@@ -1077,6 +1079,7 @@
 
 ## HTML 
 
+- [Markavian/html-table-to-markdown-converter](https://github.com/Markavian/html-table-to-markdown-converter) - Converts HTML tables to Markdown. Paste in, click Convert.
 - [rtpsug/Meetups](https://github.com/rtpsug/Meetups) - Content from our Online and In-Person Meetups
 - [Duffney/duffney.io](https://github.com/Duffney/duffney.io) - 
 - [google/web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
@@ -1125,6 +1128,7 @@
 - [tidynomicon/tidynomicon](https://github.com/tidynomicon/tidynomicon) - The Tidynomicon: An Introduction to R for Data Engineers and Others
 - [jhelvy/distillery](https://github.com/jhelvy/distillery) - A distill blog and showcase about building distill websites and blogs!
 - [FrissAnalytics/shinyJsTutorials](https://github.com/FrissAnalytics/shinyJsTutorials) - tutorials materials on R/Shiny bindings to popular javascript libraries
+- [djnavarro/bs4cards](https://github.com/djnavarro/bs4cards) - Generate Bootstrap 4 Cards
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
 - [iGISc/EnvDataSci](https://github.com/iGISc/EnvDataSci) - 
@@ -1564,6 +1568,7 @@
 
 ## JavaScript 
 
+- [jmalarcon/markdowntables](https://github.com/jmalarcon/markdowntables) - markdownTables - Turn HTML table syntax into Markdown
 - [bennyxguo/hexo-theme-obsidian](https://github.com/bennyxguo/hexo-theme-obsidian) - 🎨 A dark Hexo theme, it's responsive, simple but elegant.
 - [metruzanca/dev-journal](https://github.com/metruzanca/dev-journal) - An Obsidian.md Vault Template for a Productive Agile Journal
 - [e-schultz/not-a-robot-vault](https://github.com/e-schultz/not-a-robot-vault) - Vault for my not a robot digital garden
@@ -2439,6 +2444,10 @@
 - [JetBrains/Rplugin](https://github.com/JetBrains/Rplugin) - R Language support for IntelliJ-based IDEs
 - [rstudio/shinycannon](https://github.com/rstudio/shinycannon) - Load generation tool, part of shinyloadtest
 - [spypunk/sponge](https://github.com/spypunk/sponge) - sponge is a website crawler and links downloader command-line tool
+
+## Less 
+
+- [klaussilveira/gitlist](https://github.com/klaussilveira/gitlist) - An elegant and modern git repository viewer
 
 ## Lua 
 
@@ -3435,6 +3444,7 @@
 
 ## PowerShell 
 
+- [volllly/Dotted](https://github.com/volllly/Dotted) - Cross platform dotfile managing and dev environment bootstrapping tool
 - [ur0n2/dotfiles-for-windows](https://github.com/ur0n2/dotfiles-for-windows) - dotfiles for windows
 - [anishathalye/dotfiles_template](https://github.com/anishathalye/dotfiles_template) - A template for structuring dotfiles (using Dotbot as an installer) 📜
 - [SonOfSafwat/win-dev-setup](https://github.com/SonOfSafwat/win-dev-setup) - Setup your fresh windows development machine with one click. An opinionated approach
@@ -3774,6 +3784,7 @@
 
 ## Python 
 
+- [johnfraney/blog-examples](https://github.com/johnfraney/blog-examples) - Example repositories for my blog posts
 - [iWoz/file_sync](https://github.com/iWoz/file_sync) - Detect file modification in background and push it to git automatically.
 - [tzwel/WSD](https://github.com/tzwel/WSD) - Quickly disable unnecessary services on Windows
 - [deajan/smartmontools-win](https://github.com/deajan/smartmontools-win) - smartmontools for windows package providing automated / mass installation and email alert support out of the box for hard drive SMART functionality. Scriptable for unattended or GUI end user install.
@@ -4390,7 +4401,6 @@
 - [jimbrig/shiny_react_fluent_app](https://github.com/jimbrig/shiny_react_fluent_app) - An experimental shiny application using the shiny.react and shiny.fluent R packages provided by Appsilon.
 - [jonthegeek/stylex](https://github.com/jonthegeek/stylex) - Neural Style Transfer Assistant
 - [Appsilon/shiny.fluent](https://github.com/Appsilon/shiny.fluent) - Microsoft's Fluent UI for Shiny apps
-- [djnavarro/bs4cards](https://github.com/djnavarro/bs4cards) - Generate Bootstrap 4 Cards
 - [benubah/controldev](https://github.com/benubah/controldev) - A development repository for the control package in R for files in work
 - [opencpu/opencpu](https://github.com/opencpu/opencpu) - OpenCPU system for embedded scientific computation and reproducible research
 - [r-lib/askpass](https://github.com/r-lib/askpass) - Password Entry for R, Git, and SSH
@@ -7640,6 +7650,7 @@
 
 ## Vim script 
 
+- [volllly/.dotfiles](https://github.com/volllly/.dotfiles) - Collection of my dotfiles.
 - [aperezdc/vim-template](https://github.com/aperezdc/vim-template) - Simple templates plugin for Vim
 - [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
 - [TylerLeonhardt/dotfiles](https://github.com/TylerLeonhardt/dotfiles) - dotfiles
