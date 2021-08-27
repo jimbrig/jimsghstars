@@ -191,6 +191,8 @@
 
 ## C 
 
+- [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
+- [billziss-gh/sshfs-win](https://github.com/billziss-gh/sshfs-win) - SSHFS For Windows
 - [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
 - [microsoft/Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples) - This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.
 - [ed10vi/msi-steelseries-led](https://github.com/ed10vi/msi-steelseries-led) - Control Keyboard backlight in MSI laptops with Steelseries Engine 3 Keyboards
@@ -295,6 +297,7 @@
 
 ## C# # 
 
+- [jimradford/superputty](https://github.com/jimradford/superputty) - The SuperPuTTY Window Manager for putty sessions
 - [baynezy/Html2Markdown](https://github.com/baynezy/Html2Markdown) - A library for converting HTML to markdown syntax in C#
 - [vbfox/win32iam](https://github.com/vbfox/win32iam) - Windows Installed Application Manager
 - [feel-the-dz3n/RegistryFileManager](https://github.com/feel-the-dz3n/RegistryFileManager) - Allows to add/move/remove real files to/from Windows Registry
@@ -1532,7 +1535,7 @@
 - [airbnb/AirMapView](https://github.com/airbnb/AirMapView) - A view abstraction to provide a map user interface with various underlying map providers
 - [jrvansuita/MaterialAbout](https://github.com/jrvansuita/MaterialAbout) - It's a material-design about screen to use on your Android apps. A developer profile and application information easy to integrate. 🔖
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
-- [ctripcorp/apollo](https://github.com/ctripcorp/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
+- [apolloconfig/apollo](https://github.com/apolloconfig/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
 - [microsoft/CDM](https://github.com/microsoft/CDM) - The Common Data Model (CDM) is a standard and extensible collection of schemas (entities, attributes, relationships) that represents business concepts and activities with well-defined semantics, to facilitate data interoperability. Examples of entities include: Account, Contact, Lead, Opportunity, Product, etc.
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
 - [GoogleCloudPlatform/spring-cloud-gcp](https://github.com/GoogleCloudPlatform/spring-cloud-gcp) - New home for Spring Cloud GCP development starting with version 2.0.
@@ -2233,7 +2236,7 @@
 - [basharovV/StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - ⚡️A browser extension that takes you to a random site from one of the awesome curated lists. Like good ol' StumbleUpon, for developers, tech & science lovers.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - 👻 The #1 headless Node.js CMS for professional publishing
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 - [zthxxx/hexo-theme-Wikitten](https://github.com/zthxxx/hexo-theme-Wikitten) - A theme of Hexo for personal wiki which seems like Wikitten style.
 - [nitishMehrotra/developers-brain](https://github.com/nitishMehrotra/developers-brain) - Building a 🧠 Developers' Brain around People, Tools and every developer's day-to-day workflows.
 - [mathieudutour/gatsby-digital-garden](https://github.com/mathieudutour/gatsby-digital-garden) - 🌷 🌻 🌺 Create a digital garden with Gatsby
@@ -3444,6 +3447,7 @@
 
 ## PowerShell 
 
+- [MattiasC85/Scripts](https://github.com/MattiasC85/Scripts) - A mix of scripts/tools I've made, put together or simply found online
 - [volllly/Dotted](https://github.com/volllly/Dotted) - Cross platform dotfile managing and dev environment bootstrapping tool
 - [ur0n2/dotfiles-for-windows](https://github.com/ur0n2/dotfiles-for-windows) - dotfiles for windows
 - [anishathalye/dotfiles_template](https://github.com/anishathalye/dotfiles_template) - A template for structuring dotfiles (using Dotbot as an installer) 📜
@@ -6906,6 +6910,7 @@
 
 ## Shell 
 
+- [AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE) - Manager Script
 - [iridakos/stup](https://github.com/iridakos/stup) - Daily notes in the terminal :penguin:
 - [dallinski/dev-setup](https://github.com/dallinski/dev-setup) - My personal configurations for setting up dev environment
 - [wking/dotfiles-framework](https://github.com/wking/dotfiles-framework) - Framework for keeping your dotfiles versioned and in sync.
