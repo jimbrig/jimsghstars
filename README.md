@@ -297,6 +297,7 @@
 
 ## C# # 
 
+- [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - Windows右键菜单管理程序
 - [jimradford/superputty](https://github.com/jimradford/superputty) - The SuperPuTTY Window Manager for putty sessions
 - [baynezy/Html2Markdown](https://github.com/baynezy/Html2Markdown) - A library for converting HTML to markdown syntax in C#
 - [vbfox/win32iam](https://github.com/vbfox/win32iam) - Windows Installed Application Manager
@@ -943,7 +944,7 @@
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [gleich/gh_fsync](https://github.com/gleich/gh_fsync) - 🔄 GitHub action to sync files across repos in GitHub
 - [snwfdhmp/duck](https://github.com/snwfdhmp/duck) - Create command snippets for repetitive development task. Share them to an online repository system (self hosted options available).
-- [google/nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
+- [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager
 - [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) - Programs to keep Docker login credentials safe by storing in platform keystores
 - [googlecodelabs/tools](https://github.com/googlecodelabs/tools) - Codelabs management & hosting tools
 - [mlesniak/markdown](https://github.com/mlesniak/markdown) - Markdown-based webserver using Dropbox as storage medium to allow editing content using miscellaneous applications.
@@ -1237,7 +1238,6 @@
 - [arthrp/quick-skeleton-templates](https://github.com/arthrp/quick-skeleton-templates) - Templates for quick-skeleton scaffolding engine
 - [KasperZutterman/freelance](https://github.com/KasperZutterman/freelance) - 
 - [malcolmbarrett/causal_inference_r_workshop](https://github.com/malcolmbarrett/causal_inference_r_workshop) - Causal Inference in R Workshop
-- [pcdevil/browser-search-engines](https://github.com/pcdevil/browser-search-engines) - 
 - [HarrisJT/web-launch-checklist](https://github.com/HarrisJT/web-launch-checklist) - :clipboard: A simple website launch checklist to keep track of the most important enrichment possibilities for a website.
 - [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [martinctc/parallaxr](https://github.com/martinctc/parallaxr) - Generate a parallax scroll document in R with YAML and Markdown
@@ -1591,7 +1591,7 @@
 - [Rohithv07/Docker](https://github.com/Rohithv07/Docker) - My Workplay on Docker and Kubernetes. Ref : https://github.com/Rohithv07/DockerCasts
 - [mdn/data](https://github.com/mdn/data) - This repository contains general data for Web technologies
 - [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
-- [beautifulinteractions/beautiful-react-hooks](https://github.com/beautifulinteractions/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
+- [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [fastify/fastify-nextjs](https://github.com/fastify/fastify-nextjs) - React server side rendering support for Fastify with Next
 - [styxlab/gatsby-starter-try-ghost](https://github.com/styxlab/gatsby-starter-try-ghost) - Publish flaring fast blogs with Gatsby and Ghost
 - [acorcutt/next-multi-host](https://github.com/acorcutt/next-multi-host) - Multiple domains hosting on next.js
@@ -2015,8 +2015,8 @@
 - [b3nsn0w/koa-easy-ws](https://github.com/b3nsn0w/koa-easy-ws) - Simple Koa middleware for websocket handling
 - [egoist/devdocs-desktop](https://github.com/egoist/devdocs-desktop) - 🗂 A full-featured desktop app for DevDocs.io.
 - [sindresorhus/open-cli](https://github.com/sindresorhus/open-cli) - Open stuff like URLs, files, executables. Cross-platform.
-- [Pika1998/Git-Widget](https://github.com/Pika1998/Git-Widget) - Showcase your projects on their official websites/blogs. 👨‍💻👩‍💻
-- [Pika1998/express-autodocs](https://github.com/Pika1998/express-autodocs) - A GitHub action which automatically generates documentation for your express APIs.
+- [prafulla-codes/Git-Widget](https://github.com/prafulla-codes/Git-Widget) - Showcase your projects on their official websites/blogs. 👨‍💻👩‍💻
+- [prafulla-codes/express-autodocs](https://github.com/prafulla-codes/express-autodocs) - A GitHub action which automatically generates documentation for your express APIs.
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [thieman/github-selfies](https://github.com/thieman/github-selfies) - Everything is better with selfies. Yes, even pull requests. Trust me.
 - [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
@@ -2272,7 +2272,7 @@
 - [lukeed/uid](https://github.com/lukeed/uid) - A tiny (130B to 205B) and fast utility to generate random IDs of fixed length
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [JasonEtco/todo](https://github.com/JasonEtco/todo) - 🤖✅ GitHub App that creates new issues from actionable comments in your code.
-- [BoostIO/Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for developers on Mac, Windows and Linux.
+- [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - A markdown editor for developers on Mac, Windows and Linux.
 - [daranzolin/textych](https://github.com/daranzolin/textych) - Create interactive text parallels :page_with_curl: :page_with_curl: :page_with_curl:
 - [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 - [rstudio/shiny-server](https://github.com/rstudio/shiny-server) - Host Shiny applications over the web.
@@ -2551,6 +2551,7 @@
 
 ## Others 
 
+- [Gorstak1979/Registry](https://github.com/Gorstak1979/Registry) - Registry tweaks
 - [Twigonometry/Cybersecurity-Notes](https://github.com/Twigonometry/Cybersecurity-Notes) - My Markdown notes for all things cybersecurity
 - [SysAdminDocs/gpg-docs](https://github.com/SysAdminDocs/gpg-docs) - GPG Documentation
 - [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE) - ⚡ Open GitHub repositories in online web IDE
@@ -4361,7 +4362,7 @@
 - [hairizuanbinnoorazman/kubeapps](https://github.com/hairizuanbinnoorazman/kubeapps) - Contains a bunch of repos and files for deploying and testing things with Kubernetes
 - [hairizuanbinnoorazman/githubR](https://github.com/hairizuanbinnoorazman/githubR) - Manage Github repositories with R scripts
 - [jwilczek-dotcom/RACORD](https://github.com/jwilczek-dotcom/RACORD) - Computer-Assisted Shape Classification of Archaeological Pottery Fragments
-- [databio/unitar](https://github.com/databio/unitar) - Targets that span projects
+- [databio/unitar](https://github.com/databio/unitar) - Targets that span projects in R
 - [jeroen/webutils](https://github.com/jeroen/webutils) - Utility functions for web applications
 - [ropensci/vcr](https://github.com/ropensci/vcr) - Record HTTP calls and replay them
 - [sckott/httpcode](https://github.com/sckott/httpcode) - http code investigation
