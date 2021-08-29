@@ -131,6 +131,10 @@
 
 ## Batchfile 
 
+- [jahwi/BATCH](https://github.com/jahwi/BATCH) - All the old batch files I could find
+- [jahwi/scripts](https://github.com/jahwi/scripts) - Set of miscellaneous scripts for personal use.
+- [jahwi/bget-list](https://github.com/jahwi/bget-list) - 
+- [jahwi/Box-Visualizer](https://github.com/jahwi/Box-Visualizer) - Create Box-menus using unicode for your batch file (100% compatible)
 - [ildar-shaimordanov/psubst](https://github.com/ildar-shaimordanov/psubst) - Associates a path with a drive letter and extends the standard SUBST command allowing to create persistent substituted drives between startups
 - [DreamDevourer/NT-Optimizer](https://github.com/DreamDevourer/NT-Optimizer) - Post Install Windows Scripts, optimized for NT Kernel 10+
 - [gaze9999/Windows10_AutoUnattend](https://github.com/gaze9999/Windows10_AutoUnattend) - For my Windows 10 USB installer automation
@@ -2551,6 +2555,7 @@
 
 ## Others 
 
+- [jahwi/Articles](https://github.com/jahwi/Articles) - A collection of articles written by me.
 - [Gorstak1979/Registry](https://github.com/Gorstak1979/Registry) - Registry tweaks
 - [Twigonometry/Cybersecurity-Notes](https://github.com/Twigonometry/Cybersecurity-Notes) - My Markdown notes for all things cybersecurity
 - [SysAdminDocs/gpg-docs](https://github.com/SysAdminDocs/gpg-docs) - GPG Documentation
