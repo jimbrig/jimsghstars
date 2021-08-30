@@ -934,6 +934,7 @@
 - [nunux-keeper/keeper-cli](https://github.com/nunux-keeper/keeper-cli) - Nunux Keeper CLI
 - [sachaos/todoist](https://github.com/sachaos/todoist) - Todoist CLI Client. I ❤️ Todoist and CLI.
 - [replicatedhq/kots](https://github.com/replicatedhq/kots) - KOTS provides the framework, tools and integrations that enable the delivery and management of 3rd-party Kubernetes applications, a.k.a. Kubernetes Off-The-Shelf (KOTS) Software.
+- [xct/xc](https://github.com/xct/xc) - A small reverse shell for Linux & Windows
 - [NZSmartie/wsl-ssh-pageant](https://github.com/NZSmartie/wsl-ssh-pageant) - A Pageant bridge for WSL, enabling ssh-ageants to talk to to PuTTY Pagent or GnuPG for Windows
 - [rupor-github/wsl-ssh-agent](https://github.com/rupor-github/wsl-ssh-agent) - Helper to interface with Windows ssh-agent.exe service from Windows Subsystem for Linux (WSL)
 - [benpye/wsl-ssh-pageant](https://github.com/benpye/wsl-ssh-pageant) - A Pageant -&gt; TCP bridge for use with WSL, allowing for Pageant to be used as an ssh-ageant within the WSL environment.
@@ -1384,7 +1385,7 @@
 - [tidymodels/tidymodels.org](https://github.com/tidymodels/tidymodels.org) - Source of tidymodels.org
 - [bansal-io/pattern.css](https://github.com/bansal-io/pattern.css) - CSS only library to fill empty background with beautiful patterns.
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
-- [wowchemy/wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 🔥 The website builder for Hugo. No code, build with widgets! 创建在线课程，学术简历或初创网站。
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
 - [dwyl/process-handbook](https://github.com/dwyl/process-handbook) - :green_book: Contains our processes, questions and journey to creating ateam
 - [jimbrig/propalloc](https://github.com/jimbrig/propalloc) - Dynamic Risk Allocation Model - bringing simplicity to the complex realm of Property Insurance
 - [data-edu/data-science-in-education](https://github.com/data-edu/data-science-in-education) - Repository for 'Data Science in Education Using R' by Emily A. Bovee, Ryan A. Estrellado, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez to be published by Routledge in 2020
@@ -2565,9 +2566,9 @@
 - [melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates) - Boilerplates for mobile and web apps
 - [unreadablewxy/unreadablewxy](https://github.com/unreadablewxy/unreadablewxy) - 
 - [unreadablewxy/fs-curator](https://github.com/unreadablewxy/fs-curator) - Automation for the serious data hoarder that wants to have their data and use it
-- [XenIrvana/PoSh-PSD1-Configuration](https://github.com/XenIrvana/PoSh-PSD1-Configuration) - A simple example of how to create a very basic 'Configuration file' for PowerShell Scripts usiing *.psd1 files (usually used only as Module Manifests). Works so long as any Configuration you're needing to do can be accomplished with Variables.
-- [XenIrvana/PowerShell-ISE-PlusPlus](https://github.com/XenIrvana/PowerShell-ISE-PlusPlus) - An updated, modern recreation of Microsoft's Windows PowerShell ISE with support for PowerShell Core and Cross-Platform compatibility, along with additional features based about popular VS Code PowerShell Extensions, and SAPIEN PowerShell Studio.
-- [XenIrvana/Project-Documentation-Collection](https://github.com/XenIrvana/Project-Documentation-Collection) - A collection of templates for various forms of Project Documentation, in multiple formats. Some I wrote up myself, others are random, assorted templates sourced from across the web, mostly GitHub. All Docs templates in this repository come in both Markdown and Plaintext varieties, in addition to some more 'formal', and in depth Docs Templates written in Microsoft Word, and thusly coming in *.doc/*.docx formats, as well as *.rtf. Includes README Templates, CHANGELOG Templates, CONTRIBUTING Templates, Code of Conduct Templates, various niche Documentation Types, and a collection of the most commonly used Licenses in Plaintext, Rich Formatted Text, and Markdown formats also.
+- [SIl3N7c4R709R4PH3R/PoSh-PSD1-Configuration](https://github.com/SIl3N7c4R709R4PH3R/PoSh-PSD1-Configuration) - A simple example of how to create a very basic 'Configuration file' for PowerShell Scripts usiing *.psd1 files (usually used only as Module Manifests). Works so long as any Configuration you're needing to do can be accomplished with Variables.
+- [SIl3N7c4R709R4PH3R/PowerShell-ISE-PlusPlus](https://github.com/SIl3N7c4R709R4PH3R/PowerShell-ISE-PlusPlus) - An updated, modern recreation of Microsoft's Windows PowerShell ISE with support for PowerShell Core and Cross-Platform compatibility, along with additional features based about popular VS Code PowerShell Extensions, and SAPIEN PowerShell Studio.
+- [SIl3N7c4R709R4PH3R/Project-Documentation-Collection](https://github.com/SIl3N7c4R709R4PH3R/Project-Documentation-Collection) - A collection of templates for various forms of Project Documentation, in multiple formats. Some I wrote up myself, others are random, assorted templates sourced from across the web, mostly GitHub. All Docs templates in this repository come in both Markdown and Plaintext varieties, in addition to some more 'formal', and in depth Docs Templates written in Microsoft Word, and thusly coming in *.doc/*.docx formats, as well as *.rtf. Includes README Templates, CHANGELOG Templates, CONTRIBUTING Templates, Code of Conduct Templates, various niche Documentation Types, and a collection of the most commonly used Licenses in Plaintext, Rich Formatted Text, and Markdown formats also.
 - [jimbrig/dj-events-frontend](https://github.com/jimbrig/dj-events-frontend) - Next.js website to list DJ and other musical events
 - [AndyFul/ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) - Utility for configuring Windows 10 built-in Defender antivirus settings.
 - [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Win10XPE is a Complete Project Based on Win10 Recovery Environment With Many Windows Features Added...
@@ -2682,7 +2683,7 @@
 - [Neolyon0101/MyFilesXProject](https://github.com/Neolyon0101/MyFilesXProject) - A new File Explorer with a new design based on Fluent Design and UWP, with most of the features of the Windows Native File Explorer!
 - [stemmlerjs/software-design-and-architecture-roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - 🧱 The software design and architecture roadmap for any developer
 - [Dmitriy-Shulha/obsidian-css-snippets](https://github.com/Dmitriy-Shulha/obsidian-css-snippets) - Most common appearance solutions for Obsidian now in a single place. Initially collected by Klaas: https://forum.obsidian.md/t/how-to-achieve-css-code-snippets/8474
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
 - [kidonng/sushi](https://github.com/kidonng/sushi) - 🍣 A tasty and inclusive Scoop bucket
 - [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 - [nickforr/rsetup](https://github.com/nickforr/rsetup) - Manage a list of R packages I find useful
@@ -3476,7 +3477,7 @@
 - [jimbrig/WindowsSetup](https://github.com/jimbrig/WindowsSetup) - 
 - [hackf5/powershell-profile-alias](https://github.com/hackf5/powershell-profile-alias) - Bash style aliases in PowerShell
 - [Jaykul/PowerLine](https://github.com/Jaykul/PowerLine) - A more PowerShell prompt
-- [XenIrvana/My-PowerShell-Configuration](https://github.com/XenIrvana/My-PowerShell-Configuration) - Repository for my personal PowerShell Profile(s), modules (ones I havent made in 'Third-Party Modules' Directory), and various other config files
+- [SIl3N7c4R709R4PH3R/My-PowerShell-Configuration](https://github.com/SIl3N7c4R709R4PH3R/My-PowerShell-Configuration) - Repository for my personal PowerShell Profile(s), modules (ones I havent made in 'Third-Party Modules' Directory), and various other config files
 - [techthoughts2/Learn-PowerShell-Code-Examples](https://github.com/techthoughts2/Learn-PowerShell-Code-Examples) - Contains code examples used in the Learn PowerShell Video & Blog series
 - [nickrod518/Migrate-WindowsUserProfile](https://github.com/nickrod518/Migrate-WindowsUserProfile) - Migrate Windows user profile to a new machine using Microsoft USMT with a PowerShell GUI.
 - [greyhamwoohoo/new-vm-from-iso](https://github.com/greyhamwoohoo/new-vm-from-iso) - Provision a Hyper-V VM with Windows automatically installed from an ISO using PowerShell; on first boot, the Unattend.Xml (OOBE) will automatically configure the installation and Windows will boot as far as the Login Screen. Windows Updates will then be automatically installed.
@@ -3690,7 +3691,6 @@
 - [changhuixu/ScriptsArchive](https://github.com/changhuixu/ScriptsArchive) - Useful scripts
 - [ReneNyffenegger/about-powershell](https://github.com/ReneNyffenegger/about-powershell) - Small powershell scriptlets and/or examples.
 - [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests) - Please submit your package requests as issues here
-- [xct/xc](https://github.com/xct/xc) - A small reverse shell for Linux & Windows
 - [nsilvestri/solarized-dark-for-wsl](https://github.com/nsilvestri/solarized-dark-for-wsl) - Changes the color theme of the WSL terminal to Solarized Dark.
 - [EtienneDeneuve/kubernetes_hyperv](https://github.com/EtienneDeneuve/kubernetes_hyperv) - Quick setup of a K8S Cluster in Hyper V server
 - [treffynnon/Windows-Boxstarter-with-WSL-Ubuntu](https://github.com/treffynnon/Windows-Boxstarter-with-WSL-Ubuntu) - My Windows Boxstarter with WSL (Ubuntu)
