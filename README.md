@@ -582,6 +582,7 @@
 
 ## CSS 
 
+- [scaryrawr/windotfiles](https://github.com/scaryrawr/windotfiles) - Windows dotfiles
 - [aaronpowell/gatsby-static-web-app](https://github.com/aaronpowell/gatsby-static-web-app) - 
 - [iamshaunjp/sass-playlist](https://github.com/iamshaunjp/sass-playlist) - Course files for The Net Ninja SASS tutorial playlist on YouTube
 - [iamshaunjp/next-contentful](https://github.com/iamshaunjp/next-contentful) - All course files for the Next.js & Contentful tutorial series on the Net Ninja YouTube channel.
@@ -1752,7 +1753,7 @@
 - [hibiken/react-places-autocomplete](https://github.com/hibiken/react-places-autocomplete) - React component for Google Maps Places Autocomplete
 - [fullstackreact/google-maps-react](https://github.com/fullstackreact/google-maps-react) - Companion code to the "How to Write a Google Maps React Component" Tutorial
 - [pa7/heatmap.js](https://github.com/pa7/heatmap.js) - 🔥 JavaScript Library for HTML5 canvas based heatmaps
-- [johnlindquist/kit](https://github.com/johnlindquist/kit) - Automate Anything.
+- [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
 - [bukinoshita/git-labels-cli](https://github.com/bukinoshita/git-labels-cli) - Creating Github issue labels
 - [abhi0402/foodHub-frontend-client](https://github.com/abhi0402/foodHub-frontend-client) - Front-end for food delivery application created using reactjs along with redux and Material-UI, walkthrough -
 - [abhi0402/foodHub-backend-server](https://github.com/abhi0402/foodHub-backend-server) - Restful APIs for Food Delivery application developed using Nodejs & Express, walkthrough -
@@ -3454,6 +3455,7 @@
 
 ## PowerShell 
 
+- [builders-club/devtoolbox](https://github.com/builders-club/devtoolbox) - A PowerShell module that enables software developers to speed up their CLI workflow.
 - [MattiasC85/Scripts](https://github.com/MattiasC85/Scripts) - A mix of scripts/tools I've made, put together or simply found online
 - [volllly/Dotted](https://github.com/volllly/Dotted) - Cross platform dotfile managing and dev environment bootstrapping tool
 - [ur0n2/dotfiles-for-windows](https://github.com/ur0n2/dotfiles-for-windows) - dotfiles for windows
@@ -3794,6 +3796,7 @@
 
 ## Python 
 
+- [joelermantraut/windows_dotfiles](https://github.com/joelermantraut/windows_dotfiles) - My own Windows OS dotfiles, and a post-installation guide.
 - [johnfraney/blog-examples](https://github.com/johnfraney/blog-examples) - Example repositories for my blog posts
 - [iWoz/file_sync](https://github.com/iWoz/file_sync) - Detect file modification in background and push it to git automatically.
 - [tzwel/WSD](https://github.com/tzwel/WSD) - Quickly disable unnecessary services on Windows
@@ -6115,7 +6118,7 @@
 - [malcolmbarrett/tidymeta](https://github.com/malcolmbarrett/tidymeta) - :evergreen_tree::evergreen_tree::evergreen_tree: Tidy and plot meta-analyses in R
 - [mdsumner/wmts](https://github.com/mdsumner/wmts) - 
 - [burchill/catchr](https://github.com/burchill/catchr) - catchr: Flexible, useful tools for dealing with conditions in R, for new users and veterans
-- [tdhock/animint2](https://github.com/tdhock/animint2) - 
+- [tdhock/animint2](https://github.com/tdhock/animint2) - Animated interactive grammar of graphics
 - [r-dbi/bigrquery](https://github.com/r-dbi/bigrquery) - An interface to Google's BigQuery from R.
 - [exploratory-io/exploratory_func](https://github.com/exploratory-io/exploratory_func) - R functions for Exploratory
 - [krupanss/Interactive-Exploratory-Data-Analysis](https://github.com/krupanss/Interactive-Exploratory-Data-Analysis) - An Interactive Shiny Application for exploratory data analysis thru visualization
@@ -6202,7 +6205,7 @@
 - [gelfondjal/adapr](https://github.com/gelfondjal/adapr) - next gen ADAP
 - [fsiola/modularShinyDashboard](https://github.com/fsiola/modularShinyDashboard) - A modular shinydashboard based mostly on naming conventions
 - [rsquaredacademy/rfm](https://github.com/rsquaredacademy/rfm) - Recency, Frequency & Monetary Value Analysis
-- [dreamRs/esquisse](https://github.com/dreamRs/esquisse) - RStudio add-in to make plots with ggplot2
+- [dreamRs/esquisse](https://github.com/dreamRs/esquisse) - RStudio add-in to make plots interactively with ggplot2
 - [RLesur/crrri](https://github.com/RLesur/crrri) - A Chrome Remote Interface written in R
 - [earowang/sugrrants](https://github.com/earowang/sugrrants) - SUpporting GRaphics with R for ANalysing Time Series
 - [ropensci/bowerbird](https://github.com/ropensci/bowerbird) - Keep a collection of sparkly data resources
@@ -6703,7 +6706,7 @@
 - [rstudio/shinygadgets](https://github.com/rstudio/shinygadgets) - 
 - [grabear/awesome-rshiny](https://github.com/grabear/awesome-rshiny) - An awesome R-shiny list!
 - [dreamRs/shinyapps](https://github.com/dreamRs/shinyapps) - Some Shiny applications
-- [dreamRs/prefixer](https://github.com/dreamRs/prefixer) - Prefix function with their namespace
+- [dreamRs/prefixer](https://github.com/dreamRs/prefixer) - Prefix function with their namespace & other development tools
 - [FrissAnalytics/dashboard_showcase](https://github.com/FrissAnalytics/dashboard_showcase) - showcase putting all concepts of tutorial series together
 - [christophergandrud/DataCombine](https://github.com/christophergandrud/DataCombine) - R tools for combining data sets.
 - [lockedata/starters](https://github.com/lockedata/starters) - R Package 📦 for initializing projects for various R activities :nut_and_bolt:
@@ -6722,7 +6725,7 @@
 - [AnalytixWare/ShinySky](https://github.com/AnalytixWare/ShinySky) - Various UI widgets/components not part of Shiny e.g. alerts, styled buttons
 - [daattali/shinyjs](https://github.com/daattali/shinyjs) - 💡 Easily improve the user experience of your Shiny apps in seconds
 - [zzawadz/dragulaR](https://github.com/zzawadz/dragulaR) - 
-- [dreamRs/addinit](https://github.com/dreamRs/addinit) - Initialize an 'RStudio' Project
+- [dreamRs/addinit](https://github.com/dreamRs/addinit) - Initialize & structure an 'RStudio' Project
 - [Tychobra/tychobratools](https://github.com/Tychobra/tychobratools) - some of our frequently used customizations for R projects
 - [Tychobra/shiny-insurance-examples](https://github.com/Tychobra/shiny-insurance-examples) - Examples of Shiny applications for insurance
 
