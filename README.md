@@ -69,6 +69,7 @@
   - [RMarkdown](#rmarkdown)
   - [ReScript](#rescript)
   - [Reason](#reason)
+  - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SAS](#sas)
@@ -131,6 +132,7 @@
 
 ## Batchfile 
 
+- [fenpaws/Windows10-Firstrun](https://github.com/fenpaws/Windows10-Firstrun) - Provision your Windows 10 quickly!
 - [jahwi/BATCH](https://github.com/jahwi/BATCH) - All the old batch files I could find
 - [jahwi/scripts](https://github.com/jahwi/scripts) - Set of miscellaneous scripts for personal use.
 - [jahwi/bget-list](https://github.com/jahwi/bget-list) - 
@@ -301,6 +303,7 @@
 
 ## C# # 
 
+- [lrakai/azure-windows-containers](https://github.com/lrakai/azure-windows-containers) - ARM template to start a VM and provision it with artifacts to containerize
 - [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - Windows右键菜单管理程序
 - [jimradford/superputty](https://github.com/jimradford/superputty) - The SuperPuTTY Window Manager for putty sessions
 - [baynezy/Html2Markdown](https://github.com/baynezy/Html2Markdown) - A library for converting HTML to markdown syntax in C#
@@ -352,6 +355,7 @@
 - [amay077/Xamarin.Forms.GoogleMaps](https://github.com/amay077/Xamarin.Forms.GoogleMaps) - Map library for Xamarin.Forms using Google maps API
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 - [awaescher/PathEd](https://github.com/awaescher/PathEd) - 📌 A deployable tool to add or remove values from the Windows PATH variable.
+- [microsoft/CDM](https://github.com/microsoft/CDM) - The Common Data Model (CDM) is a standard and extensible collection of schemas (entities, attributes, relationships) that represents business concepts and activities with well-defined semantics, to facilitate data interoperability. Examples of entities include: Account, Contact, Lead, Opportunity, Product, etc.
 - [laurentkempe/BlogOps](https://github.com/laurentkempe/BlogOps) - Tool to operate my blog.
 - [weberjonathan/CandyShop](https://github.com/weberjonathan/CandyShop) - Lightweight Chocolatey UI to manage installed applications
 - [loic-sharma/BaGet](https://github.com/loic-sharma/BaGet) - A lightweight NuGet and symbol server
@@ -821,6 +825,7 @@
 
 ## Emacs Lisp 
 
+- [c0state/dotfiles](https://github.com/c0state/dotfiles) - My personal dotfiles setup
 - [Atemu/dotfiles](https://github.com/Atemu/dotfiles) - Mirror of https://gitlab.com/atemu/dotfiles
 - [gf3/dotfiles](https://github.com/gf3/dotfiles) - Configurations for the tools I use every day
 - [cole-brokamp/dotfiles](https://github.com/cole-brokamp/dotfiles) - dotfiles
@@ -1198,7 +1203,6 @@
 - [schemaspy/schemaspy](https://github.com/schemaspy/schemaspy) - SchemaSpy code home
 - [GordCaswell/rapideeportable](https://github.com/GordCaswell/rapideeportable) - PortableApps package of Rapid Environment Editor
 - [dicook/explore-data](https://github.com/dicook/explore-data) - A book about exploratory data analysis in the 21st century
-- [jimbrig/property_allocation_demo](https://github.com/jimbrig/property_allocation_demo) - property allocation shiny app
 - [maelle/reprex_demo](https://github.com/maelle/reprex_demo) - Experiments around sharing reprexes on Gist and Twitter
 - [o2r-project/ctv-computational-environments](https://github.com/o2r-project/ctv-computational-environments) - A CRAN task view for computational environments and reproducibility
 - [ahmetb/cloud-run-hello](https://github.com/ahmetb/cloud-run-hello) - Sample Cloud Run application
@@ -1332,7 +1336,7 @@
 - [karthik/distill](https://github.com/karthik/distill) - 
 - [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
-- [svmiller/svm-r-markdown-templates](https://github.com/svmiller/svm-r-markdown-templates) - I have a suite of R Markdown templates for academic manuscripts, beamer presentations, and syllabi. I share them here.
+- [svmiller/svm-r-markdown-templates](https://github.com/svmiller/svm-r-markdown-templates) - This is my (deprecated) suite of R Markdown templates for academic manuscripts, beamer presentations, and syllabi. DOWNLOAD {stevetemplates} INSTEAD.
 - [ropensci-org/pkgreviewr](https://github.com/ropensci-org/pkgreviewr) - R package to facilitate rOpenSci package reviews.
 - [daattali/daattali.github.io](https://github.com/daattali/daattali.github.io) - Dean Attali's website - R/Shiny Consultant
 - [epwalsh/docker-shiny](https://github.com/epwalsh/docker-shiny) - :whale: A Docker image for an R Shiny server with username + password authentication :closed_lock_with_key:
@@ -1388,7 +1392,6 @@
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
 - [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
 - [dwyl/process-handbook](https://github.com/dwyl/process-handbook) - :green_book: Contains our processes, questions and journey to creating ateam
-- [jimbrig/propalloc](https://github.com/jimbrig/propalloc) - Dynamic Risk Allocation Model - bringing simplicity to the complex realm of Property Insurance
 - [data-edu/data-science-in-education](https://github.com/data-edu/data-science-in-education) - Repository for 'Data Science in Education Using R' by Emily A. Bovee, Ryan A. Estrellado, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez to be published by Routledge in 2020
 - [s-fleck/lgr](https://github.com/s-fleck/lgr) - A fully featured logging framework for R
 - [rfordatascience/tidytuesday](https://github.com/rfordatascience/tidytuesday) - Official repo for the #tidytuesday project
@@ -1542,7 +1545,6 @@
 - [jrvansuita/MaterialAbout](https://github.com/jrvansuita/MaterialAbout) - It's a material-design about screen to use on your Android apps. A developer profile and application information easy to integrate. 🔖
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [apolloconfig/apollo](https://github.com/apolloconfig/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
-- [microsoft/CDM](https://github.com/microsoft/CDM) - The Common Data Model (CDM) is a standard and extensible collection of schemas (entities, attributes, relationships) that represents business concepts and activities with well-defined semantics, to facilitate data interoperability. Examples of entities include: Account, Contact, Lead, Opportunity, Product, etc.
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
 - [GoogleCloudPlatform/spring-cloud-gcp](https://github.com/GoogleCloudPlatform/spring-cloud-gcp) - New home for Spring Cloud GCP development starting with version 2.0.
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
@@ -2557,6 +2559,11 @@
 
 ## Others 
 
+- [jonashackt/ansible-windows-springboot](https://github.com/jonashackt/ansible-windows-springboot) - Example project showing how to provision, deploy and run a Spring Boot app as a Windows Service using Ansible, chocolatey & nssm
+- [nukexls/Softexe.net](https://github.com/nukexls/Softexe.net) - 
+- [Gorstak1979/Xml](https://github.com/Gorstak1979/Xml) - Random files
+- [NerdMove/clean-experience](https://github.com/NerdMove/clean-experience) - A non-destructive registry preset to improve the default user-experience with windows 10.
+- [RobertoBiundo/Windows10Lite](https://github.com/RobertoBiundo/Windows10Lite) - A guide to create a Windows 10 Install ISO with no bloatware
 - [jahwi/Articles](https://github.com/jahwi/Articles) - A collection of articles written by me.
 - [Gorstak1979/Registry](https://github.com/Gorstak1979/Registry) - Registry tweaks
 - [Twigonometry/Cybersecurity-Notes](https://github.com/Twigonometry/Cybersecurity-Notes) - My Markdown notes for all things cybersecurity
@@ -3408,7 +3415,7 @@
 - [jeremykenedy/laravel-auth](https://github.com/jeremykenedy/laravel-auth) - Laravel 8 with user authentication, registration with email confirmation, social media authentication, password recovery, and captcha protection. Uses offical [Bootstrap 4](http://getbootstrap.com). This also makes full use of Controllers for the routes, templates for the views, and makes use of middleware for routing. The project can be stood up in minutes.
 - [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP
-- [Kamoates/wfh-productivity-system](https://github.com/Kamoates/wfh-productivity-system) - 
+- [silvaej/wfh-productivity-system](https://github.com/silvaej/wfh-productivity-system) - 
 - [laurent22/wslpath](https://github.com/laurent22/wslpath) - wslpath - Converts Unix and Windows format paths in WSL
 - [ssx/skrub](https://github.com/ssx/skrub) - A package to remove junk from Composer installations and trim build sizes.
 - [chriha/project-cli](https://github.com/chriha/project-cli) - Project and environment management in your terminal
@@ -3445,6 +3452,7 @@
 
 ## Perl 
 
+- [midenok/stuff-windows](https://github.com/midenok/stuff-windows) - Windows-related setup and utilities stuff: scripts, instructions, etc.
 - [RichiH/myrepos](https://github.com/RichiH/myrepos) - 
 - [jfcoz/postgresqltuner](https://github.com/jfcoz/postgresqltuner) - Simple script to analyse your PostgreSQL database configuration, and give tuning advice
 - [cbbrowne/autodoc](https://github.com/cbbrowne/autodoc) - PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms
@@ -3455,6 +3463,12 @@
 
 ## PowerShell 
 
+- [sharepointoscar/Windows-Ansible](https://github.com/sharepointoscar/Windows-Ansible) - An example of using Ansible as a Provisioner within a Vagrant file and using ServerSpec for tests.
+- [arcadesdude/BRU](https://github.com/arcadesdude/BRU) - Bloatware Removal Utility, for automating removal of pre-installed, factory bloatware from devices running Windows 7-10 and newer. Silently removes items selected if possible. Preselects common bloatware. Can remove Win10 UWP/Metro/Modern/Windows Store apps and provisioned apps.
+- [TomTucka/Windows-Setup](https://github.com/TomTucka/Windows-Setup) - Setup scripts for Windows
+- [poshsecurity/Pipeline-My-Dev-Machine](https://github.com/poshsecurity/Pipeline-My-Dev-Machine) - Using Azure Pipelines to manage your own PC
+- [torbenmoeller/setup-scripts](https://github.com/torbenmoeller/setup-scripts) - 
+- [mackilinen/mackilinen](https://github.com/mackilinen/mackilinen) - 
 - [builders-club/devtoolbox](https://github.com/builders-club/devtoolbox) - A PowerShell module that enables software developers to speed up their CLI workflow.
 - [MattiasC85/Scripts](https://github.com/MattiasC85/Scripts) - A mix of scripts/tools I've made, put together or simply found online
 - [volllly/Dotted](https://github.com/volllly/Dotted) - Cross platform dotfile managing and dev environment bootstrapping tool
@@ -5828,7 +5842,6 @@
 - [jimbrig/shinyapp-template](https://github.com/jimbrig/shinyapp-template) - Personalized Cookie-cutter Template for Building Shiny Apps
 - [njtierney/brolgar](https://github.com/njtierney/brolgar) - BRowse Over Longitudinal Data Graphically and Analytically in R
 - [vegawidget/vegawidget](https://github.com/vegawidget/vegawidget) - Htmlwidget renderer for Vega and Vega-Lite
-- [markbravington/debug](https://github.com/markbravington/debug) - debugger for R functions, better than built-in; more up-to-date than CRAN.
 - [beanumber/etl](https://github.com/beanumber/etl) - R package to facilitate ETL operations
 - [flow-r/flowr](https://github.com/flow-r/flowr) - Robust and efficient workflows using a simple language agnostic approach
 - [vegawidget/vlbuildr](https://github.com/vegawidget/vlbuildr) - Build vega-lite specs in R
@@ -6342,7 +6355,6 @@
 - [rstudio/RStartHere](https://github.com/rstudio/RStartHere) - A guide to some of the most useful R Packages that we know about
 - [unDocUMeantIt/roxyPackage](https://github.com/unDocUMeantIt/roxyPackage) - Utilities to automate R package builds
 - [r-lib/R6](https://github.com/r-lib/R6) - Encapsulated object-oriented programming for R
-- [markbravington/mvbutils](https://github.com/markbravington/mvbutils) - mvbutils package for R; more up-to-date than CRAN version
 - [duncantl/CodeDepends](https://github.com/duncantl/CodeDepends) - Analysis of R code for reproducible research and code view
 - [casact/imaginator](https://github.com/casact/imaginator) - Randomly simulate inception and settlement of general insurance losses
 - [slopp/rstudiointernal](https://github.com/slopp/rstudiointernal) - Sample "Internal Corporate" R package
@@ -6743,6 +6755,10 @@
 - [davesnx/query-json](https://github.com/davesnx/query-json) - Faster, simpler and more portable implementation of `jq` in Reason
 - [revery-ui/revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason!
 
+## Roff 
+
+- [Stormcatisabitch/Oneshotwindows](https://github.com/Stormcatisabitch/Oneshotwindows) - OneShot themed Windows 10 mod
+
 ## Ruby 
 
 - [fluffgfx/dit](https://github.com/fluffgfx/dit) - :file_folder: dotfile management that thinks it's git
@@ -6919,6 +6935,10 @@
 
 ## Shell 
 
+- [ahstn/ansible-dev-setup](https://github.com/ahstn/ansible-dev-setup) - Development Workstation Provisioning Ansible Playbook and Roles
+- [homercles/Utilities](https://github.com/homercles/Utilities) - Command line Helpers
+- [tiangolo/ansible-babun-bootstrap](https://github.com/tiangolo/ansible-babun-bootstrap) - Simple shell script to setup Ansible within Babun
+- [renatosilva/pidgin-windev](https://github.com/renatosilva/pidgin-windev) - Pidgin Windows Development Setup.
 - [AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE) - Manager Script
 - [iridakos/stup](https://github.com/iridakos/stup) - Daily notes in the terminal :penguin:
 - [dallinski/dev-setup](https://github.com/dallinski/dev-setup) - My personal configurations for setting up dev environment
