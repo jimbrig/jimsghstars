@@ -132,6 +132,7 @@
 
 ## Batchfile 
 
+- [Ahsan40/Win10-Ultimate-System-Tweaks](https://github.com/Ahsan40/Win10-Ultimate-System-Tweaks) - Ultimate System Tweaks Collection, endgame tweaks for your Windows 10
 - [fenpaws/Windows10-Firstrun](https://github.com/fenpaws/Windows10-Firstrun) - Provision your Windows 10 quickly!
 - [jahwi/BATCH](https://github.com/jahwi/BATCH) - All the old batch files I could find
 - [jahwi/scripts](https://github.com/jahwi/scripts) - Set of miscellaneous scripts for personal use.
@@ -153,6 +154,7 @@
 - [skrizzles/Device-Provisioning](https://github.com/skrizzles/Device-Provisioning) - Provisioning scripts and tools for devices I use (Windows, Mac, Android & iOS)
 - [Sporesirius/YAMS](https://github.com/Sporesirius/YAMS) - YAMS (Yet Another Multiboot System)
 - [joeldidier/Bootable-Windows-ISO-Creator](https://github.com/joeldidier/Bootable-Windows-ISO-Creator) - Create a bootable ISO (BIOS/UEFI) from Windows source installation files.
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - An open and transparent modification of the Windows 10 operating system, designed to optimize performance and latency.
 - [mhgschmidt/w10install](https://github.com/mhgschmidt/w10install) - Automated Windows installation and Telemetry removal.
 - [ITCMD/DISM-Manager](https://github.com/ITCMD/DISM-Manager) - Manage Dism and WinPE with this program!
 - [kuzi-moto/WinPEHelper](https://github.com/kuzi-moto/WinPEHelper) - Powershell modules that run without being in the Deployment and Imaging Tools environment
@@ -438,7 +440,7 @@
 - [ElPumpo/Win10Clean](https://github.com/ElPumpo/Win10Clean) - Cleanup your Windows 10 environment
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - Make Windows faster and more secure
 - [adrianmteo/Luna](https://github.com/adrianmteo/Luna) - Automatic dark mode for Windows 10
-- [Armin2208/Windows-Auto-Night-Mode](https://github.com/Armin2208/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10
+- [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10
 - [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building UWP and .NET apps for Windows 10. The toolkit is part of the .NET Foundation.
 - [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
 - [mscrivo/OotD](https://github.com/mscrivo/OotD) - Outlook on the Desktop (OotD)
@@ -1579,6 +1581,7 @@
 
 ## JavaScript 
 
+- [rzander/Reg2CI](https://github.com/rzander/Reg2CI) - Create System Center Configuration manager ConfigItem (CI's) from a .reg (Registry) or a .pol (Policy) file.
 - [jmalarcon/markdowntables](https://github.com/jmalarcon/markdowntables) - markdownTables - Turn HTML table syntax into Markdown
 - [bennyxguo/hexo-theme-obsidian](https://github.com/bennyxguo/hexo-theme-obsidian) - 🎨 A dark Hexo theme, it's responsive, simple but elegant.
 - [metruzanca/dev-journal](https://github.com/metruzanca/dev-journal) - An Obsidian.md Vault Template for a Productive Agile Journal
@@ -2264,7 +2267,7 @@
 - [patrickhulce/nukecss](https://github.com/patrickhulce/nukecss) - Eliminates unused CSS rules. Built for single-page apps.
 - [purifycss/purifycss](https://github.com/purifycss/purifycss) - Remove unused CSS. Also works with single-page apps.
 - [earowang/unlayout](https://github.com/earowang/unlayout) - Unlayout the layout of HTML widgets
-- [acorg/Racmacs](https://github.com/acorg/Racmacs) - Racmacs R package for performing antigenic cartography (https://acorg.github.io/Racmacs)
+- [acorg/Racmacs](https://github.com/acorg/Racmacs) - Racmacs R package for performing antigenic cartography https://acorg.github.io/Racmacs
 - [battmanux/cv2r](https://github.com/battmanux/cv2r) - Use OpenCV in RStudio
 - [uechoco/todoist_keyboard_nav](https://github.com/uechoco/todoist_keyboard_nav) - This is the Google Chrome extension: keyboard navigation for Todoist web
 - [schmich/marinara](https://github.com/schmich/marinara) - Pomodoro® time management assistant for Chrome
@@ -2462,6 +2465,7 @@
 
 ## Lua 
 
+- [volllly/.dotfiles](https://github.com/volllly/.dotfiles) - Collection of my dotfiles.
 - [jefftriplett/dotfiles](https://github.com/jefftriplett/dotfiles) - :hammer: My dotfiles for setting up my Macs with Ansible
 - [hexylena/dotfiles](https://github.com/hexylena/dotfiles) - My rubbish dotfiles repo
 - [Eggbertx/awesome-config](https://github.com/Eggbertx/awesome-config) - My awesome (window manager) configuration setup
@@ -2559,6 +2563,7 @@
 
 ## Others 
 
+- [iidanL/Fido](https://github.com/iidanL/Fido) - A PowerShell script to download Windows retail ISOs
 - [jonashackt/ansible-windows-springboot](https://github.com/jonashackt/ansible-windows-springboot) - Example project showing how to provision, deploy and run a Spring Boot app as a Windows Service using Ansible, chocolatey & nssm
 - [nukexls/Softexe.net](https://github.com/nukexls/Softexe.net) - 
 - [Gorstak1979/Xml](https://github.com/Gorstak1979/Xml) - Random files
@@ -2647,7 +2652,6 @@
 - [iamshaunjp/flutter-beginners-tutorial](https://github.com/iamshaunjp/flutter-beginners-tutorial) - All course files for the Flutter Beginners playlist on The Net Ninja YouTube channel.
 - [iamshaunjp/nextjs-tutorial](https://github.com/iamshaunjp/nextjs-tutorial) - All course files for the Next.js tutorial series on the Net Ninja YouTube channel.
 - [Zer0CoolX/proxmox-windows-slipstream-virtio-drivers](https://github.com/Zer0CoolX/proxmox-windows-slipstream-virtio-drivers) - Step-by-step guide to slipstream VirtIO drivers into Windows ISO's for use in Proxmox VE
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - An open and transparent modification of the Windows 10 operating system, designed to optimize performance and latency.
 - [RogueScholar/woeusb-legacy](https://github.com/RogueScholar/woeusb-legacy) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 - [SchmidtPaul/RMarkdownMSWordTemplate](https://github.com/SchmidtPaul/RMarkdownMSWordTemplate) - 
 - [e-sence/keyboard-shortcuts](https://github.com/e-sence/keyboard-shortcuts) - Popular applications keyboard combinations
@@ -2691,7 +2695,7 @@
 - [Neolyon0101/MyFilesXProject](https://github.com/Neolyon0101/MyFilesXProject) - A new File Explorer with a new design based on Fluent Design and UWP, with most of the features of the Windows Native File Explorer!
 - [stemmlerjs/software-design-and-architecture-roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - 🧱 The software design and architecture roadmap for any developer
 - [Dmitriy-Shulha/obsidian-css-snippets](https://github.com/Dmitriy-Shulha/obsidian-css-snippets) - Most common appearance solutions for Obsidian now in a single place. Initially collected by Klaas: https://forum.obsidian.md/t/how-to-achieve-css-code-snippets/8474
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - 📕 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG.
 - [kidonng/sushi](https://github.com/kidonng/sushi) - 🍣 A tasty and inclusive Scoop bucket
 - [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 - [nickforr/rsetup](https://github.com/nickforr/rsetup) - Manage a list of R packages I find useful
@@ -3302,6 +3306,7 @@
 - [aranibatta/personal-sites](https://github.com/aranibatta/personal-sites) - List of Hackathon Hackers' personal sites.
 - [danburzo/toolbox](https://github.com/danburzo/toolbox) - Assorted tools, libraries, APIs and data sources for building things.
 - [yoshuawuyts/notes](https://github.com/yoshuawuyts/notes) - notes on things
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [learn-anything/websites](https://github.com/learn-anything/websites) - Awesome Websites
 - [learn-anything/curated-lists](https://github.com/learn-anything/curated-lists) - Curated lists on various topics
@@ -3463,6 +3468,12 @@
 
 ## PowerShell 
 
+- [jborean93/ansible-windows](https://github.com/jborean93/ansible-windows) - Scripts that are useful for using Ansible with Windows - not affiliated with Ansible in any way
+- [doctordns/ReskitBuildScripts](https://github.com/doctordns/ReskitBuildScripts) - A series of scripts to build reskit.org - a VM Farm for my book
+- [natri23/win10script](https://github.com/natri23/win10script) - 
+- [neutmute/nm-boxstarter](https://github.com/neutmute/nm-boxstarter) - Boxstarter, chocolatey scripts for seeding a fresh Windows install
+- [ejsiron/Posher-V](https://github.com/ejsiron/Posher-V) - PowerShell scripts for Hyper-V
+- [BenjaminArmstrong/Hyper-V-PowerShell](https://github.com/BenjaminArmstrong/Hyper-V-PowerShell) - Scripts that primarily use the Hyper-V PowerShell interfaces driving virtual machines
 - [sharepointoscar/Windows-Ansible](https://github.com/sharepointoscar/Windows-Ansible) - An example of using Ansible as a Provisioner within a Vagrant file and using ServerSpec for tests.
 - [arcadesdude/BRU](https://github.com/arcadesdude/BRU) - Bloatware Removal Utility, for automating removal of pre-installed, factory bloatware from devices running Windows 7-10 and newer. Silently removes items selected if possible. Preselects common bloatware. Can remove Win10 UWP/Metro/Modern/Windows Store apps and provisioned apps.
 - [TomTucka/Windows-Setup](https://github.com/TomTucka/Windows-Setup) - Setup scripts for Windows
@@ -7215,7 +7226,6 @@
 - [ElliotPenson/org](https://github.com/ElliotPenson/org) - My brain in plain text.
 - [blay/dotfiles](https://github.com/blay/dotfiles) - My dotfiles
 - [nikitavoloboev/dotfiles](https://github.com/nikitavoloboev/dotfiles) - Zsh, Karabiner, VS Code, Sublime, Neovim, Nix
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
 - [ropensci/actions](https://github.com/ropensci/actions) - Some public GitHub actions
 - [gohugoio/hugoThemes](https://github.com/gohugoio/hugoThemes) - A curated directory of Hugo themes
@@ -7684,7 +7694,7 @@
 
 ## Vim script 
 
-- [volllly/.dotfiles](https://github.com/volllly/.dotfiles) - Collection of my dotfiles.
+- [LearnLinuxTV/personal_ansible_desktop_configs](https://github.com/LearnLinuxTV/personal_ansible_desktop_configs) - 
 - [aperezdc/vim-template](https://github.com/aperezdc/vim-template) - Simple templates plugin for Vim
 - [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
 - [TylerLeonhardt/dotfiles](https://github.com/TylerLeonhardt/dotfiles) - dotfiles
