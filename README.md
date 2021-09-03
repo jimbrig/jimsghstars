@@ -305,6 +305,7 @@
 
 ## C# # 
 
+- [dotnet/runtime](https://github.com/dotnet/runtime) - .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
 - [lrakai/azure-windows-containers](https://github.com/lrakai/azure-windows-containers) - ARM template to start a VM and provision it with artifacts to containerize
 - [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - Windows右键菜单管理程序
 - [jimradford/superputty](https://github.com/jimradford/superputty) - The SuperPuTTY Window Manager for putty sessions
@@ -771,6 +772,7 @@
 
 ## Dockerfile 
 
+- [nodejs/docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
 - [koenverburg/article-source-code](https://github.com/koenverburg/article-source-code) - This repo will hold all of the code I mention in my articles
 - [Duffney/reclaim](https://github.com/Duffney/reclaim) - Take back your attention, Hit RESET on your digital life.
 - [devkitspaces/packer-on-github](https://github.com/devkitspaces/packer-on-github) - Experimenting with GitHub Actions for building machine images with Packer
@@ -1075,6 +1077,7 @@
 ## HCL 
 
 - [Duffney/terraform-in20hours](https://github.com/Duffney/terraform-in20hours) - Learning Terraform in 20 Hours
+- [meeuw/unattended-windows-10](https://github.com/meeuw/unattended-windows-10) - Packer templates to install Windows 10 Evaluation using the qemu/kvm builder.
 - [terraform-google-modules/terraform-google-bootstrap](https://github.com/terraform-google-modules/terraform-google-bootstrap) - A module for bootstrapping Terraform usage in a new GCP organization.
 - [dhoer/terraform_examples](https://github.com/dhoer/terraform_examples) - Terraform AWS Windows examples
 - [marcinbojko/hv-packer](https://github.com/marcinbojko/hv-packer) - Hyper-V Generation 2 Packer Templates for Windows 2016/2019, Windows Server and CentOS 7.x/AlmaLinux 8.x/RockyLinux 8.x
@@ -1096,6 +1099,7 @@
 
 ## HTML 
 
+- [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker's Documentation
 - [Markavian/html-table-to-markdown-converter](https://github.com/Markavian/html-table-to-markdown-converter) - Converts HTML tables to Markdown. Paste in, click Convert.
 - [rtpsug/Meetups](https://github.com/rtpsug/Meetups) - Content from our Online and In-Person Meetups
 - [Duffney/duffney.io](https://github.com/Duffney/duffney.io) - 
@@ -1581,6 +1585,7 @@
 
 ## JavaScript 
 
+- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
 - [rzander/Reg2CI](https://github.com/rzander/Reg2CI) - Create System Center Configuration manager ConfigItem (CI's) from a .reg (Registry) or a .pol (Policy) file.
 - [jmalarcon/markdowntables](https://github.com/jmalarcon/markdowntables) - markdownTables - Turn HTML table syntax into Markdown
 - [bennyxguo/hexo-theme-obsidian](https://github.com/bennyxguo/hexo-theme-obsidian) - 🎨 A dark Hexo theme, it's responsive, simple but elegant.
@@ -1804,6 +1809,7 @@
 - [visgl/react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
 - [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [zeroturnaround/sql-formatter](https://github.com/zeroturnaround/sql-formatter) - A whitespace formatter for different query languages
 - [toorshia/justgage](https://github.com/toorshia/justgage) - JustGage is a handy JavaScript plugin for generating and animating nice & clean dashboard gauges. It is based on Raphaël library for vector drawing.
 - [holistics/dbml](https://github.com/holistics/dbml) - Database Markup Language (DBML), designed to define and document database structures
@@ -2283,7 +2289,7 @@
 - [lukeed/uid](https://github.com/lukeed/uid) - A tiny (130B to 205B) and fast utility to generate random IDs of fixed length
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [JasonEtco/todo](https://github.com/JasonEtco/todo) - 🤖✅ GitHub App that creates new issues from actionable comments in your code.
-- [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - A markdown editor for developers on Mac, Windows and Linux.
+- [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [daranzolin/textych](https://github.com/daranzolin/textych) - Create interactive text parallels :page_with_curl: :page_with_curl: :page_with_curl:
 - [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 - [rstudio/shiny-server](https://github.com/rstudio/shiny-server) - Host Shiny applications over the web.
@@ -2498,7 +2504,6 @@
 - [jnovack/git-checkout](https://github.com/jnovack/git-checkout) - Basic git checkout builder or side container for workflows.
 - [eddiejaoude/book-open-source-tips](https://github.com/eddiejaoude/book-open-source-tips) - Open Source book on Open Source Tips
 - [hrbrmstr/RSwitch](https://github.com/hrbrmstr/RSwitch) - 🎛 A small menubar app that allows you to switch between R versions quickly (if you have multiple versions of R framework installed).
-- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [o2r-project/reference-implementation](https://github.com/o2r-project/reference-implementation) - A catch-all repository to run all o2r microservices and the user interface platform
 - [ComputationalProteomicsUnit/maker](https://github.com/ComputationalProteomicsUnit/maker) - Makefile for R packages
 - [hauselin/obsidian-alfred](https://github.com/hauselin/obsidian-alfred) - Alfred workflow for Obsidian note-taking app. Open vaults and files in Obsidian.
@@ -2563,6 +2568,7 @@
 
 ## Others 
 
+- [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [iidanL/Fido](https://github.com/iidanL/Fido) - A PowerShell script to download Windows retail ISOs
 - [jonashackt/ansible-windows-springboot](https://github.com/jonashackt/ansible-windows-springboot) - Example project showing how to provision, deploy and run a Spring Boot app as a Windows Service using Ansible, chocolatey & nssm
 - [nukexls/Softexe.net](https://github.com/nukexls/Softexe.net) - 
@@ -3468,6 +3474,9 @@
 
 ## PowerShell 
 
+- [r33int/Windows10-Postinstall](https://github.com/r33int/Windows10-Postinstall) - 🛠️ Scripts & programs I use to optimize and debloat my new Windows 10 installations
+- [mattgwagner/New-Machine](https://github.com/mattgwagner/New-Machine) - Utilizing Vagrant, Packer, Chocolatey, and Boxstarter to Configure my Dev Machines
+- [atiq-cs/pwsh-scripts](https://github.com/atiq-cs/pwsh-scripts) - My pwsh scripts
 - [jborean93/ansible-windows](https://github.com/jborean93/ansible-windows) - Scripts that are useful for using Ansible with Windows - not affiliated with Ansible in any way
 - [doctordns/ReskitBuildScripts](https://github.com/doctordns/ReskitBuildScripts) - A series of scripts to build reskit.org - a VM Farm for my book
 - [natri23/win10script](https://github.com/natri23/win10script) - 
@@ -3512,7 +3521,6 @@
 - [rohit-basra/Windows10_unattended](https://github.com/rohit-basra/Windows10_unattended) - 
 - [InfiniteLoopIO/WindowsImageCapture](https://github.com/InfiniteLoopIO/WindowsImageCapture) - Minimal unattend.xml templates to capture various Microsoft OSs
 - [Hivos/windows-kvm-unattend](https://github.com/Hivos/windows-kvm-unattend) - scripts and howto for unattended windows server installs on kvm platform
-- [meeuw/unattended-windows-10](https://github.com/meeuw/unattended-windows-10) - Packer templates to install Windows 10 Evaluation using the qemu/kvm builder.
 - [pldmgg/ProgramManagement](https://github.com/pldmgg/ProgramManagement) - This Module makes it easier to Install/Uninstall programs on Windows, regardless of the method of installation (PSGet, Chocolatey CmdLine, .msi, etc)
 - [damienvanrobaeys/Run-in-Sandbox](https://github.com/damienvanrobaeys/Run-in-Sandbox) - Run PS1, VBS, EXE, MSI in Windows Sandbox very quickly just from a right-click
 - [scriptman-de/windows-resetstick](https://github.com/scriptman-de/windows-resetstick) - Scripts to Add a Reset functionality to a Windows NativeBoot Environment
@@ -3821,6 +3829,8 @@
 
 ## Python 
 
+- [applejxd/windows-setup](https://github.com/applejxd/windows-setup) - Initialize Windows 10 by Chocolatey and Boxstarter
+- [achillesrasquinha/pipupgrade](https://github.com/achillesrasquinha/pipupgrade) - 🗽 Like yarn outdated/upgrade, but for pip. Upgrade all your pip packages and automate your Python Dependency Management.
 - [joelermantraut/windows_dotfiles](https://github.com/joelermantraut/windows_dotfiles) - My own Windows OS dotfiles, and a post-installation guide.
 - [johnfraney/blog-examples](https://github.com/johnfraney/blog-examples) - Example repositories for my blog posts
 - [iWoz/file_sync](https://github.com/iWoz/file_sync) - Detect file modification in background and push it to git automatically.
@@ -4045,6 +4055,7 @@
 - [nolte/gitlab-bulkcheckout](https://github.com/nolte/gitlab-bulkcheckout) - Gitlab Bulkcheckout
 - [apenwarr/redo](https://github.com/apenwarr/redo) - Smaller, easier, more powerful, and more reliable than make.  An implementation of djb's redo.
 - [Iristyle/ChocolateyPackages](https://github.com/Iristyle/ChocolateyPackages) - Chocolatey Install Packages
+- [bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - 🛡️ Make your web services secure by default !
 - [shadowmoose/RedditDownloader](https://github.com/shadowmoose/RedditDownloader) - Scrapes Reddit to download media of your choice.
 - [smart-data-models/incubated](https://github.com/smart-data-models/incubated) - A holding repository for immature data models still under development. Once completed, these data models are moved across to the appropriate domain repository
 - [GoogleCloudPlatform/functions-framework-python](https://github.com/GoogleCloudPlatform/functions-framework-python) - FaaS (Function as a service) framework for writing portable Python functions
@@ -4192,6 +4203,7 @@
 
 ## R 
 
+- [paleolimbot/arrowvctrs](https://github.com/paleolimbot/arrowvctrs) - An R interface to the 'Apache Arrow' C API
 - [rstudio/packrat](https://github.com/rstudio/packrat) - Packrat is a dependency management system for R
 - [SebKrantz/fastverse](https://github.com/SebKrantz/fastverse) - An Extensible Suite of High-Performance and Low-Dependency Packages for Statistical Computing and Data Manipulation in R
 - [analythium/heroku-shiny](https://github.com/analythium/heroku-shiny) - Deploy Shiny Apps to Heroku with CLI and CI/CD
@@ -6833,6 +6845,7 @@
 
 ## Rust 
 
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [extendr/libR-sys](https://github.com/extendr/libR-sys) - Low level R bindgen interface
@@ -6946,6 +6959,7 @@
 
 ## Shell 
 
+- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [ahstn/ansible-dev-setup](https://github.com/ahstn/ansible-dev-setup) - Development Workstation Provisioning Ansible Playbook and Roles
 - [homercles/Utilities](https://github.com/homercles/Utilities) - Command line Helpers
 - [tiangolo/ansible-babun-bootstrap](https://github.com/tiangolo/ansible-babun-bootstrap) - Simple shell script to setup Ansible within Babun
@@ -6978,7 +6992,6 @@
 - [Vonng/pigsty](https://github.com/Vonng/pigsty) - Pigsty - Open-Source PostgreSQL Distribution
 - [coreprocess/linux-unattended-installation](https://github.com/coreprocess/linux-unattended-installation) - This project provides all you need to create an unattended installation of a minimal setup of Linux.
 - [jimscratch/dotfiles](https://github.com/jimscratch/dotfiles) - 
-- [Karapatakis106/MakeMeBootable](https://github.com/Karapatakis106/MakeMeBootable) - Make bootable USB's by Linux Terminal. More info on README.md
 - [calledtoconstruct/devbuntu](https://github.com/calledtoconstruct/devbuntu) - Scripts for creating and using a custom Ubuntu Live Image for software development, kubernetes, service mesh, and beyond.
 - [Mexit/MultiOS-USB](https://github.com/Mexit/MultiOS-USB) - Boot operating systems directly from ISO files
 - [ValdikSS/windows2usb](https://github.com/ValdikSS/windows2usb) - Windows 7/8/8.1/10/11 ISO to Flash Drive burning utility for Linux (MBR/GPT, BIOS/UEFI, FAT32/NTFS)
@@ -7142,7 +7155,6 @@
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [pietvanzoen/git-get](https://github.com/pietvanzoen/git-get) - Like `go get` but `git`.
 - [jaspernbrouwer/git-flow-hooks](https://github.com/jaspernbrouwer/git-flow-hooks) - Some useful hooks for git-flow (AVH Edition)
-- [bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - 🛡️ Make your web services secure by default !
 - [trestletech/rdeps](https://github.com/trestletech/rdeps) - 
 - [kevinushey/etc](https://github.com/kevinushey/etc) - Scripts, dot files, and other things that make my programming life a happy one
 - [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
@@ -7273,6 +7285,7 @@
 
 ## Swift 
 
+- [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [WeTransfer/Mocker](https://github.com/WeTransfer/Mocker) - Mock Alamofire and URLSession requests without touching your code implementation
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
 - [krzysztofzablocki/Sourcery](https://github.com/krzysztofzablocki/Sourcery) - Meta-programming for Swift, stop writing boilerplate code.
@@ -7366,6 +7379,7 @@
 
 ## TypeScript 
 
+- [FlorianWoelki/obsidian-icon-folder](https://github.com/FlorianWoelki/obsidian-icon-folder) - 🗂 Simply add icons to your folders
 - [koenverburg/site](https://github.com/koenverburg/site) - My slice of the internet built with Nextjs, TypeScript, and a whole lot more
 - [lynchjames/obsidian-mind-map](https://github.com/lynchjames/obsidian-mind-map) - An Obsidian plugin for displaying markdown notes as mind maps using Markmap.
 - [one-aalam/next-starter-kit](https://github.com/one-aalam/next-starter-kit) - Next.js with brilliant bells and useful whistles
@@ -7694,6 +7708,8 @@
 
 ## Vim script 
 
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [LearnLinuxTV/personal_ansible_desktop_configs](https://github.com/LearnLinuxTV/personal_ansible_desktop_configs) - 
 - [aperezdc/vim-template](https://github.com/aperezdc/vim-template) - Simple templates plugin for Vim
 - [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
