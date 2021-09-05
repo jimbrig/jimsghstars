@@ -596,7 +596,7 @@
 - [iamshaunjp/next-contentful](https://github.com/iamshaunjp/next-contentful) - All course files for the Next.js & Contentful tutorial series on the Net Ninja YouTube channel.
 - [ahkscript/ahkbook](https://github.com/ahkscript/ahkbook) - a free online book about AutoHotkey!
 - [Psionica/dual-obsidian-client](https://github.com/Psionica/dual-obsidian-client) - A skilled virtual assistant for Obsidian.
-- [inbo/INBOmd](https://github.com/inbo/INBOmd) - An R package with a collection of RMarkdown styles and templates. Elaborate examples are available at https://github.com/inbo/inbomd_examples
+- [inbo/INBOmd](https://github.com/inbo/INBOmd) - An R package with a collection of RMarkdown styles and templates. Elaborate examples are available at https://github.com/inbo/INBOmd_examples
 - [FinancialMarkets/5MinuteFinance](https://github.com/FinancialMarkets/5MinuteFinance) - Interactive Presentations for Financial Education using R/Shiny.  See full list of presentations (with links) below.
 - [ramnathv/rChartsCalendar](https://github.com/ramnathv/rChartsCalendar) - rCharts binding for CalMap
 - [tomzorz/obsidian-toolkit](https://github.com/tomzorz/obsidian-toolkit) - Plugins, templates, css snippets and more for obsidian.md
@@ -3482,6 +3482,7 @@
 
 ## PowerShell 
 
+- [MarcelMeurer/PowerShellGallery-OneDrive](https://github.com/MarcelMeurer/PowerShellGallery-OneDrive) - Repository for https://www.powershellgallery.com/packages/OneDrive
 - [Appease/PowerShellClient](https://github.com/Appease/PowerShellClient) - The Appease client for PowerShell
 - [r33int/Windows10-Postinstall](https://github.com/r33int/Windows10-Postinstall) - 🛠️ Scripts & programs I use to optimize and debloat my new Windows 10 installations
 - [mattgwagner/New-Machine](https://github.com/mattgwagner/New-Machine) - Utilizing Vagrant, Packer, Chocolatey, and Boxstarter to Configure my Dev Machines
@@ -7705,7 +7706,7 @@
 
 ## VBScript 
 
-- [farag2/Office](https://github.com/farag2/Office) - Setup Office 2016/2019
+- [farag2/Office](https://github.com/farag2/Office) - Download and setup Office 2019/365
 - [rickstaa/todoist-global-shortcuts-WIN10](https://github.com/rickstaa/todoist-global-shortcuts-WIN10) - Since TODOIST its Windows 10 app doesn’t support global shortcuts at the moment. I made a little workaround for the "open TODOIST" global shortcut.
 - [ReneNyffenegger/about-VBScript](https://github.com/ReneNyffenegger/about-VBScript) - about VBScript
 
