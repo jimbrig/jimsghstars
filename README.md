@@ -200,6 +200,7 @@
 
 ## C 
 
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
 - [billziss-gh/sshfs-win](https://github.com/billziss-gh/sshfs-win) - SSHFS For Windows
 - [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
@@ -2256,6 +2257,7 @@
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
+- [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [zthxxx/hexo-theme-Wikitten](https://github.com/zthxxx/hexo-theme-Wikitten) - A theme of Hexo for personal wiki which seems like Wikitten style.
 - [nitishMehrotra/developers-brain](https://github.com/nitishMehrotra/developers-brain) - Building a 🧠 Developers' Brain around People, Tools and every developer's day-to-day workflows.
 - [mathieudutour/gatsby-digital-garden](https://github.com/mathieudutour/gatsby-digital-garden) - 🌷 🌻 🌺 Create a digital garden with Gatsby
@@ -2570,6 +2572,7 @@
 
 ## Others 
 
+- [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) - The Unofficial PowerShell Best Practices and Style Guide
 - [yeoman/yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
 - [crystalidea/uninstall-tool](https://github.com/crystalidea/uninstall-tool) - Binaries archive/releases of Uninstall Tool
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
@@ -3322,7 +3325,6 @@
 - [learn-anything/curated-lists](https://github.com/learn-anything/curated-lists) - Curated lists on various topics
 - [postlight/awesome-cms](https://github.com/postlight/awesome-cms) - 📚 A collection of open and closed source Content Management Systems (CMS) for your perusal.
 - [Zettelkasten-Method/The-Archive-Themes](https://github.com/Zettelkasten-Method/The-Archive-Themes) - The Archive userland for app themes
-- [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
 - [microsoft/Windows-Dev-Performance](https://github.com/microsoft/Windows-Dev-Performance) - A repo for developers on Windows to file issues that impede their productivity, efficiency, and efficacy
 - [josedv82/shinyAMS-resources](https://github.com/josedv82/shinyAMS-resources) - A compilation of resources for sport scientist building Athlete Management Tools in Shiny
@@ -3482,6 +3484,23 @@
 
 ## PowerShell 
 
+- [Cologler/ccoop](https://github.com/Cologler/ccoop) - A command-line installer for Windows.
+- [Cologler/ScoopBackup-pwsh](https://github.com/Cologler/ScoopBackup-pwsh) - scoop backup scripts
+- [EvotecIT/PSSharedGoods](https://github.com/EvotecIT/PSSharedGoods) - PSSharedGoods is little PowerShell Module that primary purpose is to be useful for multiple tasks, unrelated to each other. I've created this module as “a glue” between my other modules.
+- [tomachristian/AppxGet](https://github.com/tomachristian/AppxGet) - Powershell Package Management (OneGet) Provider for AppX packages
+- [ethanbergstrom/winget](https://github.com/ethanbergstrom/winget) - PackageManagement (OneGet) package provider for use with Windows Package Manager (winget)
+- [ethanbergstrom/Chocolatier](https://github.com/ethanbergstrom/Chocolatier) - Package Management (OneGet) provider that facilitates installing Chocolatey packages from any NuGet repository.
+- [OneGet/MicrosoftDockerProvider](https://github.com/OneGet/MicrosoftDockerProvider) - Provider to search, save and install Docker
+- [ralish/PSWinGlue](https://github.com/ralish/PSWinGlue) - An assortment of useful PowerShell scripts & functions
+- [PavelStsefanovich/DevEnv](https://github.com/PavelStsefanovich/DevEnv) - 
+- [PavelStsefanovich/lib_powershell](https://github.com/PavelStsefanovich/lib_powershell) - Code snippets and modules
+- [TheTaylorLee/AdminToolbox](https://github.com/TheTaylorLee/AdminToolbox) - Repository for the AdminToolbox Powershell Module
+- [ralish/PSWinVitals](https://github.com/ralish/PSWinVitals) - Consolidates common system health checks, maintenance tasks & inventory retrieval
+- [dell/OpenManage-PowerShell-Modules](https://github.com/dell/OpenManage-PowerShell-Modules) - 
+- [RamblingCookieMonster/PSStackExchange](https://github.com/RamblingCookieMonster/PSStackExchange) - PowerShell module to query Stack Exchange API
+- [jimbrig/PSWindowsSetup](https://github.com/jimbrig/PSWindowsSetup) - PowerShell Module Assisting with Provisioning and Automating setting up a Windows Installation.
+- [devblackops/Stucco](https://github.com/devblackops/Stucco) - An opinionated Plaster template for high-quality PowerShell modules
+- [sbergwall/RobocopyPS](https://github.com/sbergwall/RobocopyPS) - RobocopyPS
 - [MarcelMeurer/PowerShellGallery-OneDrive](https://github.com/MarcelMeurer/PowerShellGallery-OneDrive) - Repository for https://www.powershellgallery.com/packages/OneDrive
 - [Appease/PowerShellClient](https://github.com/Appease/PowerShellClient) - The Appease client for PowerShell
 - [r33int/Windows10-Postinstall](https://github.com/r33int/Windows10-Postinstall) - 🛠️ Scripts & programs I use to optimize and debloat my new Windows 10 installations
@@ -3576,7 +3595,7 @@
 - [nickrod518/Create-EXEFromPS1](https://github.com/nickrod518/Create-EXEFromPS1) - Takes one PowerShell script and any number of supplementary files or even a directory and creates an exe using Windows's built in iexpress program. The exe will run on any machine with PowerShell 2.0+.
 - [lazywinadmin/LazyTS](https://github.com/lazywinadmin/LazyTS) - PowerShell Script (GUI) to manage Terminal Sessions
 - [aaronparker/intune](https://github.com/aaronparker/intune) - Various scripts for use with Microsoft Intune and Windows 10 Modern Management
-- [Micke-K/IntuneManagement](https://github.com/Micke-K/IntuneManagement) - Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI
+- [Micke-K/IntuneManagement](https://github.com/Micke-K/IntuneManagement) - Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and edit PowerShell script.
 - [VikasSukhija/Downloads](https://github.com/VikasSukhija/Downloads) - AD Health Check, Send HTML Email,  Ping machines, Encrypt Password,Bulk Password,Microsoft Teams,Monitor Certificate expiry, Monitor cert expiry, AD attributes, IP to Hostname, Export AD group, CSV to SQL,Shutdown, Restart, Local Admin, Disk Space, Account expiry,Restore Permissions, Backup permissions, Delete Files Older Than X-Days, export DHCP options,Read Registry,Distribution group AD attributes,Monitor Windows Services,Export Reverse DNS,Task Monitor,Monitor and alert, Exchange Health check,Get Network Info, Export AD Attributes,AD group members, Office 365 Group member, SQL to CSV, Outlook save send attachments, Upload files to FTP,Exchange – Total Messages Sent Received, Set Teams Only Mode, Intune Duplicate Device,Intune Cleanup Not Evaluated, Ownership and Grant Permissions, Write Create Modify Registry , Organization Hierarchy from AD,Azure AD Privileged Identity Management,Intune – Export MAM Devices,Intune Marking devices as Corporate, Dynamic to Static Distribution Group,Monitor Alert Office 365 services,Group Member Count,Bulk Addition external users sharepoint, ADD to Exchange online License Group,All in One Office 365 Powershell,Bulk Addition of Secondary Email, Automate move mailboxes to o365, Addition Modification Termination Exchange users, Monitoring Unified Messaging port,Unified Messaging Extensions Report, Set Default Quota for SharePoint,Bulk Contact Creation and Forwarding, Uploading and Downloading files sftp, Monitoring Sftp file and download, Office 365 groups Write back, CSV parser, Email address update, Email address modify, MDM enrollment, Welcome Email, Intune Welcome Email, remove messages, remove email, SKOB to AD, SKOB to group, PowerApps report, Powerautomate Report, Flow report, Server QA, Server Check List, O365 IP range, IP range Monitor, o365 Admin Roles, memberof extraction, CSV to Excel,  Skype Policy, UPN Flip, Rooms Report, License Reconciliation,Intune Bulk Device Removal, Device Removal, Clear Activesync, Lync Account Termination,Lync Account Removal, Enable office 365 services, Enable o365 Services, Export PST, Site collection Report, Office 365 Group Sites, System Admin,ActiveSync Report,White Space,Active Directory attributes, outlook automation, Intune Detect App, Distribution list Fix, Legacy DN, start service, stop service, disable service, Message tracking, Distribution lists report,Distribution groups report,Quota Report, Auto reply, out of office, robocopy multi session, Home Folder, local admin, Database, UPN SIP Mismatch, Recoverable deleted, teams number, Number assignment, teams phone, AD Group Hierarchy, Hierarchy membership, Sync Groups
 - [scriptrunner/ActionPacks](https://github.com/scriptrunner/ActionPacks) - Public PowerShell script gallery for ScriptRunner.
 - [JulianChow94/Windows-screenFetch](https://github.com/JulianChow94/Windows-screenFetch) - Powershell port of bash/unix screenfetch.
@@ -7257,7 +7276,7 @@
 - [gohugoio/hugoThemes](https://github.com/gohugoio/hugoThemes) - A curated directory of Hugo themes
 - [cgrima/rsync_backup](https://github.com/cgrima/rsync_backup) - Rsync incremental and rotating backups
 - [aip-dev/google.aip.dev](https://github.com/aip-dev/google.aip.dev) - API Improvement Proposals. https://aip.dev/
-- [r-windows/rtools-packages](https://github.com/r-windows/rtools-packages) - Toolchains and Static Libraries for Rtools 4.0 (GCC 8+)
+- [r-windows/rtools-packages](https://github.com/r-windows/rtools-packages) - Toolchains and libraries for Rtools4
 - [r-windows/rtools-extra](https://github.com/r-windows/rtools-extra) - Extra msys2 packages for rtools40
 - [r-windows/r-base](https://github.com/r-windows/r-base) - Scripts for building R for Windows using rtools40
 - [spech66/hugo-best-practices](https://github.com/spech66/hugo-best-practices) - Best practices and ideas for Hugo the open-source static site generator.
