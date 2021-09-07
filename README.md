@@ -114,6 +114,7 @@
 
 ## AutoHotkey 
 
+- [7plus/7plus](https://github.com/7plus/7plus) - Improving Windows, one by one
 - [benwa/BgInfo-Helper](https://github.com/benwa/BgInfo-Helper) - Quality of life improvements for Sysinternal's BgInfo
 - [denolfe/AutoHotkeyBoilerplate](https://github.com/denolfe/AutoHotkeyBoilerplate) - An AutoHotkey boilerplate to help jumpstart a script for personal productivity
 - [emisjerry/admonitions](https://github.com/emisjerry/admonitions) - AutoHotkey GUI for Obsidian-Admonitions plugin
@@ -309,7 +310,7 @@
 
 - [dotnet/runtime](https://github.com/dotnet/runtime) - .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
 - [lrakai/azure-windows-containers](https://github.com/lrakai/azure-windows-containers) - ARM template to start a VM and provision it with artifacts to containerize
-- [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - Windows右键菜单管理程序
+- [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
 - [jimradford/superputty](https://github.com/jimradford/superputty) - The SuperPuTTY Window Manager for putty sessions
 - [baynezy/Html2Markdown](https://github.com/baynezy/Html2Markdown) - A library for converting HTML to markdown syntax in C#
 - [vbfox/win32iam](https://github.com/vbfox/win32iam) - Windows Installed Application Manager
@@ -3484,6 +3485,12 @@
 
 ## PowerShell 
 
+- [lipkau/PsIni](https://github.com/lipkau/PsIni) - Work with INI files in PowerShell using hashtables
+- [countzero/repair_ssh_permissions](https://github.com/countzero/repair_ssh_permissions) - A PowerShell script that automatically repairs the permissions of the .ssh directory and files.
+- [countzero/backup_github_repositories](https://github.com/countzero/backup_github_repositories) - A PowerShell script that automatically backups all remote GitHub repositories to a local directory.
+- [joshcorr/PSGalleryBackup](https://github.com/joshcorr/PSGalleryBackup) - Backup and Internalize PSGallery Modules
+- [discentem/glazier-starter-kit](https://github.com/discentem/glazier-starter-kit) - 
+- [Digressive/HyperV-Backup-Utility](https://github.com/Digressive/HyperV-Backup-Utility) - Flexible Hyper-V Backup Utility
 - [Cologler/ccoop](https://github.com/Cologler/ccoop) - A command-line installer for Windows.
 - [Cologler/ScoopBackup-pwsh](https://github.com/Cologler/ScoopBackup-pwsh) - scoop backup scripts
 - [EvotecIT/PSSharedGoods](https://github.com/EvotecIT/PSSharedGoods) - PSSharedGoods is little PowerShell Module that primary purpose is to be useful for multiple tasks, unrelated to each other. I've created this module as “a glue” between my other modules.
@@ -3858,6 +3865,7 @@
 
 ## Python 
 
+- [ewerybody/a2](https://github.com/ewerybody/a2) - Module managing and developing framework for Autohotkey scripts.
 - [openstack/cliff](https://github.com/openstack/cliff) - Command Line Interface Formulation Framework. Mirror of code maintained at opendev.org.
 - [applejxd/windows-setup](https://github.com/applejxd/windows-setup) - Initialize Windows 10 by Chocolatey and Boxstarter
 - [achillesrasquinha/pipupgrade](https://github.com/achillesrasquinha/pipupgrade) - 🗽 Like yarn outdated/upgrade, but for pip. Upgrade all your pip packages and automate your Python Dependency Management.
@@ -4004,7 +4012,7 @@
 - [lggruspe/slipbox](https://github.com/lggruspe/slipbox) - A static site generator for Zettelkasten notes
 - [djplaner/memex](https://github.com/djplaner/memex) - Nascent attempt at using Foam to curate and leverage a personal memex
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
-- [ctuning/ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize software projects as a database of reusable components, automation recipes and portable workflows with common APIs and extensible meta descriptions based on FAIR principles. See the real-world use cases to support reproducible MLSys R&D, enable portable MLOps and automate ML/SW/HW co-design:
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge framework (CK) helps to organize software projects as a database of reusable components, automation recipes and portable workflows with common APIs and extensible meta descriptions based on FAIR principles. See the real-world use cases to support reproducible MLSys R&D, enable portable MLOps and automate ML/SW/HW co-design:
 - [bhrigu123/classifier](https://github.com/bhrigu123/classifier) - Organize files in your directory instantly, by classifying them into different folders
 - [mcharleb/gittagstats](https://github.com/mcharleb/gittagstats) - 
 - [jctanner/ansible-tools](https://github.com/jctanner/ansible-tools) - 
