@@ -110,6 +110,7 @@
 
 ## Assembly 
 
+- [rprichard/pcboot](https://github.com/rprichard/pcboot) - BIOS-based boot menu and loader
 - [harrelfe/Hmisc](https://github.com/harrelfe/Hmisc) - Harrell Miscellaneous
 
 ## AutoHotkey 
@@ -134,6 +135,8 @@
 
 ## Batchfile 
 
+- [Ventto/winbroom](https://github.com/Ventto/winbroom) - Windows 7+ Customization experiences.
+- [YasserDRIF/Toggle-Tweaker](https://github.com/YasserDRIF/Toggle-Tweaker) - A script for windows 10 with purpose of tweaking your windows install by removing stuff like windows apps _ Cortana _ Edge, you can also tweak the personalization settings that are hidden and almost everything have a restore option
 - [Ahsan40/Win10-Ultimate-System-Tweaks](https://github.com/Ahsan40/Win10-Ultimate-System-Tweaks) - Ultimate System Tweaks Collection, endgame tweaks for your Windows 10
 - [fenpaws/Windows10-Firstrun](https://github.com/fenpaws/Windows10-Firstrun) - Provision your Windows 10 quickly!
 - [jahwi/BATCH](https://github.com/jahwi/BATCH) - All the old batch files I could find
@@ -201,7 +204,10 @@
 
 ## C 
 
+- [rprichard/altdrag](https://github.com/rprichard/altdrag) - :file_folder: Easily drag windows when pressing the alt key. (Windows)
+- [hkneptune/CopyHandler](https://github.com/hkneptune/CopyHandler) - A Copy of Copy Handler Source Code. This repository is just a mirror of the Copy Handler source code. Please do not send pull requests.
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+- [paleolimbot/arrowvctrs](https://github.com/paleolimbot/arrowvctrs) - An R interface to the 'Apache Arrow' C API
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
 - [billziss-gh/sshfs-win](https://github.com/billziss-gh/sshfs-win) - SSHFS For Windows
 - [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
@@ -308,6 +314,9 @@
 
 ## C# # 
 
+- [johanneszab/TumblThree](https://github.com/johanneszab/TumblThree) - A Tumblr Blog Backup Application
+- [sinanbozkus/BackupAssistant](https://github.com/sinanbozkus/BackupAssistant) - Backup Assistant helps you to backup your files (like database backups or log files) to FTP Server. It works on any platform. ( Windows, Linux and Mac.)
+- [hkneptune/KeePass2](https://github.com/hkneptune/KeePass2) - A Copy of KeePass 2.x Source Code. This repository is just a mirror of the KeePass 2.x source code. Please do not send pull requests. Submit issues to the official forum (https://sourceforge.net/p/keepass/discussion/).
 - [dotnet/runtime](https://github.com/dotnet/runtime) - .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
 - [lrakai/azure-windows-containers](https://github.com/lrakai/azure-windows-containers) - ARM template to start a VM and provision it with artifacts to containerize
 - [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
@@ -471,6 +480,11 @@
 
 ## C++ 
 
+- [rprichard/wslbridge](https://github.com/rprichard/wslbridge) - Bridge from Cygwin to WSL pty/pipe I/O
+- [stefankueng/CryptSync](https://github.com/stefankueng/CryptSync) - CryptSync is a small utility that synchronizes two folders while encrypting the contents in one folder. That means one of the two folders has all files unencrypted (the files you work with) and the other folder has all the files encrypted.
+- [hkneptune/KeePass](https://github.com/hkneptune/KeePass) - A Copy of KeePass 1.x Source Code. This repository is just a mirror of the KeePass 1.x source code. Please do not send pull requests. Submit issues to the official forum (https://sourceforge.net/p/keepass/discussion/).
+- [hkneptune/FreeFileSync](https://github.com/hkneptune/FreeFileSync) - A Copy of FreeFileSync Source Code. This repository is just a mirror of the FreeFileSync source code. Please do not send pull requests. Submit issues to the official forum (https://freefilesync.org/forum/).
+- [MehediH/windows-focus-assist](https://github.com/MehediH/windows-focus-assist) - A native node module to read the status of Focus Assist on Windows 10
 - [stla/gfilogisreg](https://github.com/stla/gfilogisreg) - Generalized fiducial inference for the logistic regression model.
 - [stla/jsonStrings](https://github.com/stla/jsonStrings) - Manipulate JSON strings in R.
 - [ThomasThelen/BrowserLib](https://github.com/ThomasThelen/BrowserLib) - A library which makes modification of browsers' behavior easy.
@@ -592,6 +606,7 @@
 
 ## CSS 
 
+- [mshafer1/AHK-generator](https://github.com/mshafer1/AHK-generator) - A single page website to provide a UI for the 3 most common uses for AHK and defining custom hotstrings and hotkeys to trigger them
 - [scaryrawr/windotfiles](https://github.com/scaryrawr/windotfiles) - Windows dotfiles
 - [aaronpowell/gatsby-static-web-app](https://github.com/aaronpowell/gatsby-static-web-app) - 
 - [iamshaunjp/sass-playlist](https://github.com/iamshaunjp/sass-playlist) - Course files for The Net Ninja SASS tutorial playlist on YouTube
@@ -1537,6 +1552,8 @@
 
 ## Java 
 
+- [mhisoft/FastCopy](https://github.com/mhisoft/FastCopy) - The fastest mass copy and sync, backup tool for Windows, Mac and Linux/Unix
+- [hgqapp/atlassian-agent](https://github.com/hgqapp/atlassian-agent) - Atlassian's productions crack.
 - [carlossg/jenkinsfile-runner-google-cloud-run](https://github.com/carlossg/jenkinsfile-runner-google-cloud-run) - Serverless Jenkins pipelines on Google Cloud Run
 - [stargate/stargate](https://github.com/stargate/stargate) - An open source data gateway
 - [swagger-api/swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
@@ -1587,6 +1604,12 @@
 
 ## JavaScript 
 
+- [MehediH/GitCleanup](https://github.com/MehediH/GitCleanup) - Clean up your GitHub profile by deleting abandoned or empty repositories with just a few clicks.
+- [MehediH/gitgat](https://github.com/MehediH/gitgat) - A simple command to automatically generate .gitignore files for your project.
+- [MehediH/Bulksplash](https://github.com/MehediH/Bulksplash) - A simple command line tool that lets you bulk download images from Unsplash
+- [MehediH/sandman](https://github.com/MehediH/sandman) - 
+- [MehediH/nextjs-playground](https://github.com/MehediH/nextjs-playground) - playing w nextjs learn
+- [MehediH/winstall](https://github.com/MehediH/winstall) - A web app for browsing and installing Windows Package Manager apps.
 - [octref/polacode](https://github.com/octref/polacode) - 📸 Polaroid for your code
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
@@ -2573,6 +2596,8 @@
 
 ## Others 
 
+- [hirsaeki/chocolateyPackages](https://github.com/hirsaeki/chocolateyPackages) - 
+- [hkneptune/FastCopy](https://github.com/hkneptune/FastCopy) - The fastest mass copy and sync, backup tool for Windows, Mac and Linux/Unix
 - [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) - The Unofficial PowerShell Best Practices and Style Guide
 - [yeoman/yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
 - [crystalidea/uninstall-tool](https://github.com/crystalidea/uninstall-tool) - Binaries archive/releases of Uninstall Tool
@@ -2593,9 +2618,8 @@
 - [melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates) - Boilerplates for mobile and web apps
 - [unreadablewxy/unreadablewxy](https://github.com/unreadablewxy/unreadablewxy) - 
 - [unreadablewxy/fs-curator](https://github.com/unreadablewxy/fs-curator) - Automation for the serious data hoarder that wants to have their data and use it
-- [BlueRidgeLimited/PoSh-PSD1-Configuration](https://github.com/BlueRidgeLimited/PoSh-PSD1-Configuration) - A simple example of how to create a very basic 'Configuration file' for PowerShell Scripts usiing *.psd1 files (usually used only as Module Manifests). Works so long as any Configuration you're needing to do can be accomplished with Variables.
-- [BlueRidgeLimited/PowerShell-ISE-PlusPlus](https://github.com/BlueRidgeLimited/PowerShell-ISE-PlusPlus) - An updated, modern recreation of Microsoft's Windows PowerShell ISE with support for PowerShell Core and Cross-Platform compatibility, along with additional features based about popular VS Code PowerShell Extensions, and SAPIEN PowerShell Studio.
-- [BlueRidgeLimited/Project-Documentation-Collection](https://github.com/BlueRidgeLimited/Project-Documentation-Collection) - A collection of templates for various forms of Project Documentation, in multiple formats. Some I wrote up myself, others are random, assorted templates sourced from across the web, mostly GitHub. All Docs templates in this repository come in both Markdown and Plaintext varieties, in addition to some more 'formal', and in depth Docs Templates written in Microsoft Word, and thusly coming in *.doc/*.docx formats, as well as *.rtf. Includes README Templates, CHANGELOG Templates, CONTRIBUTING Templates, Code of Conduct Templates, various niche Documentation Types, and a collection of the most commonly used Licenses in Plaintext, Rich Formatted Text, and Markdown formats also.
+- [Xenirvana-Ltd/PoSh-PSD1-Configuration](https://github.com/Xenirvana-Ltd/PoSh-PSD1-Configuration) - A simple example of how to create a very basic 'Configuration file' for PowerShell Scripts usiing *.psd1 files (usually used only as Module Manifests). Works so long as any Configuration you're needing to do can be accomplished with Variables.
+- [Xenirvana-Ltd/Project-Documentation-Collection](https://github.com/Xenirvana-Ltd/Project-Documentation-Collection) - A collection of templates for various forms of Project Documentation, in multiple formats. Some I wrote up myself, others are random, assorted templates sourced from across the web, mostly GitHub. All Docs templates in this repository come in both Markdown and Plaintext varieties, in addition to some more 'formal', and in depth Docs Templates written in Microsoft Word, and thusly coming in *.doc/*.docx formats, as well as *.rtf. Includes README Templates, CHANGELOG Templates, CONTRIBUTING Templates, Code of Conduct Templates, various niche Documentation Types, and a collection of the most commonly used Licenses in Plaintext, Rich Formatted Text, and Markdown formats also.
 - [jimbrig/dj-events-frontend](https://github.com/jimbrig/dj-events-frontend) - Next.js website to list DJ and other musical events
 - [AndyFul/ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) - Utility for configuring Windows 10 built-in Defender antivirus settings.
 - [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Win10XPE is a Complete Project Based on Win10 Recovery Environment With Many Windows Features Added...
@@ -3485,6 +3509,9 @@
 
 ## PowerShell 
 
+- [hirsaeki/scoop-sup](https://github.com/hirsaeki/scoop-sup) - scoop manifests personally nessesary
+- [LesFerch/WinSetView](https://github.com/LesFerch/WinSetView) - Globally Set Explorer Folder Views
+- [kodybrown/scoop-nirsoft](https://github.com/kodybrown/scoop-nirsoft) - A Scoop bucket of useful NirSoft utilities
 - [lipkau/PsIni](https://github.com/lipkau/PsIni) - Work with INI files in PowerShell using hashtables
 - [countzero/repair_ssh_permissions](https://github.com/countzero/repair_ssh_permissions) - A PowerShell script that automatically repairs the permissions of the .ssh directory and files.
 - [countzero/backup_github_repositories](https://github.com/countzero/backup_github_repositories) - A PowerShell script that automatically backups all remote GitHub repositories to a local directory.
@@ -3549,7 +3576,7 @@
 - [jimbrig/WindowsSetup](https://github.com/jimbrig/WindowsSetup) - 
 - [hackf5/powershell-profile-alias](https://github.com/hackf5/powershell-profile-alias) - Bash style aliases in PowerShell
 - [Jaykul/PowerLine](https://github.com/Jaykul/PowerLine) - A more PowerShell prompt
-- [BlueRidgeLimited/My-PowerShell-Configuration](https://github.com/BlueRidgeLimited/My-PowerShell-Configuration) - Repository for my personal PowerShell Profile(s), modules (ones I havent made in 'Third-Party Modules' Directory), and various other config files
+- [Xenirvana-Ltd/My-PowerShell-Configuration](https://github.com/Xenirvana-Ltd/My-PowerShell-Configuration) - Repository for my personal PowerShell Profile(s), modules (ones I havent made in 'Third-Party Modules' Directory), and various other config files
 - [techthoughts2/Learn-PowerShell-Code-Examples](https://github.com/techthoughts2/Learn-PowerShell-Code-Examples) - Contains code examples used in the Learn PowerShell Video & Blog series
 - [nickrod518/Migrate-WindowsUserProfile](https://github.com/nickrod518/Migrate-WindowsUserProfile) - Migrate Windows user profile to a new machine using Microsoft USMT with a PowerShell GUI.
 - [greyhamwoohoo/new-vm-from-iso](https://github.com/greyhamwoohoo/new-vm-from-iso) - Provision a Hyper-V VM with Windows automatically installed from an ISO using PowerShell; on first boot, the Unattend.Xml (OOBE) will automatically configure the installation and Windows will boot as far as the Login Screen. Windows Updates will then be automatically installed.
@@ -3767,7 +3794,7 @@
 - [treffynnon/Windows-Boxstarter-with-WSL-Ubuntu](https://github.com/treffynnon/Windows-Boxstarter-with-WSL-Ubuntu) - My Windows Boxstarter with WSL (Ubuntu)
 - [KNOXDEV/wsl](https://github.com/KNOXDEV/wsl) - A scoop bucket for Window Subsystem for Linux distros. No Windows Store necessary. mirror of: https://git.irs.sh/KNOXDEV/wsl
 - [ptylenda/kubernetes-for-windows](https://github.com/ptylenda/kubernetes-for-windows) - Ansible playbooks and Packer templates for creating hybrid Windows/Linux Kubernetes 1.10+ cluster with experimental Flannel pod network (host-gw backend)
-- [Digressive/Remove-Win10-Apps](https://github.com/Digressive/Remove-Win10-Apps) - Customisable Windows 10 app removal utility
+- [Digressive/Remove-MS-Store-Apps](https://github.com/Digressive/Remove-MS-Store-Apps) - Customisable Windows 10/11 Microsoft Store App removal utility, previously known as Remove-Win10-Apps.
 - [Carlmundo/W10-Cleanser](https://github.com/Carlmundo/W10-Cleanser) - Remove advertising, disable data collection, annoying notifications, default apps and more. Ideal for fresh installs of Windows 10 and those looking to purify their current installation.
 - [dariusz-wozniak/PowerShell-Docs](https://github.com/dariusz-wozniak/PowerShell-Docs) - The official PowerShell documentation sources
 - [dariusz-wozniak/Chocolatey-Packages](https://github.com/dariusz-wozniak/Chocolatey-Packages) - 🍫 Chocolatey packages
@@ -3865,6 +3892,8 @@
 
 ## Python 
 
+- [ikus060/rdiffweb](https://github.com/ikus060/rdiffweb) - A simplified backup management software for quick access to your archives through an efficient web interface.
+- [MCOfficer/scoop-nirsoft](https://github.com/MCOfficer/scoop-nirsoft) - My own shot at a nirsoft.net-bucket. Contains all 250+ programs.
 - [ewerybody/a2](https://github.com/ewerybody/a2) - Module managing and developing framework for Autohotkey scripts.
 - [openstack/cliff](https://github.com/openstack/cliff) - Command Line Interface Formulation Framework. Mirror of code maintained at opendev.org.
 - [applejxd/windows-setup](https://github.com/applejxd/windows-setup) - Initialize Windows 10 by Chocolatey and Boxstarter
@@ -3977,7 +4006,6 @@
 - [amitness/habitist](https://github.com/amitness/habitist) - GitHub action that integrates native habit tracking in todoist. Apply the "Don't Break the Chain" method for habit building.
 - [DongjunLee/quantified-self](https://github.com/DongjunLee/quantified-self) - Self-knowledge through numbers
 - [chris-lovejoy/YouTube-video-finder](https://github.com/chris-lovejoy/YouTube-video-finder) - A tool to intentionally discover valuable videos
-- [ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
 - [httpwg/http-extensions](https://github.com/httpwg/http-extensions) - HTTP Extensions in progress
 - [ardunn/dex](https://github.com/ardunn/dex) - an ultra-minimal productivity system
 - [ReneNyffenegger/about-sqlite](https://github.com/ReneNyffenegger/about-sqlite) - About sqlite
@@ -4241,7 +4269,6 @@
 
 ## R 
 
-- [paleolimbot/arrowvctrs](https://github.com/paleolimbot/arrowvctrs) - An R interface to the 'Apache Arrow' C API
 - [rstudio/packrat](https://github.com/rstudio/packrat) - Packrat is a dependency management system for R
 - [SebKrantz/fastverse](https://github.com/SebKrantz/fastverse) - An Extensible Suite of High-Performance and Low-Dependency Packages for Statistical Computing and Data Manipulation in R
 - [analythium/heroku-shiny](https://github.com/analythium/heroku-shiny) - Deploy Shiny Apps to Heroku with CLI and CI/CD
@@ -6997,6 +7024,10 @@
 
 ## Shell 
 
+- [transcode-open/apt-cyg](https://github.com/transcode-open/apt-cyg) - Apt-cyg, an apt-get like tool for Cygwin
+- [hirsaeki/apt-cyg](https://github.com/hirsaeki/apt-cyg) - Apt-cyg, an apt-get like tool for Cygwin
+- [paravz/windows-rsync-backup](https://github.com/paravz/windows-rsync-backup) - Rsync backup script for Windows
+- [mbrother2/butdr](https://github.com/mbrother2/butdr) - Backup to Cloud( Google Drive, Dropbox ... ) use rclone
 - [b4b4r07/enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with your interactive filter
 - [trolologuy/useful-tools](https://github.com/trolologuy/useful-tools) - A list of useful tools and programs for developers, DevOps and SysAdmins
 - [jogendra/dotfiles](https://github.com/jogendra/dotfiles) - Config files for zsh, bash, git, completions etc. to set up a system the way I like it. ~/.jogendra
@@ -7120,6 +7151,7 @@
 - [grove-mountain/vault_essential_patterns_blog](https://github.com/grove-mountain/vault_essential_patterns_blog) - Code examples used for the Essential Patterns of Vault -- Pt 2 blog post
 - [sethvargo/vault-demo](https://github.com/sethvargo/vault-demo) - Walkthroughs and scripts for my @HashiCorp Vault talks
 - [rstudio/connect-api-deploy-shiny](https://github.com/rstudio/connect-api-deploy-shiny) - RStudio Connect API-driven Shiny application deployment example.
+- [ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
 - [amussey/simplenote-to-git](https://github.com/amussey/simplenote-to-git) - Back up your Simplenote account to a git repo or gist!
 - [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
 - [lockedata/DOCKER-introR](https://github.com/lockedata/DOCKER-introR) - A Dockerfile for teaching introductory R
@@ -7209,7 +7241,7 @@
 - [julie-ng/windows-dev-setup](https://github.com/julie-ng/windows-dev-setup) - Dev environment on windows with Oh My ZSH, Hyper.js and more
 - [bushidocodes/dotfiles](https://github.com/bushidocodes/dotfiles) - Dotbot managed dotfiles for a polyglot dev using WSL. Includes PowerShell stuff for Windows Installation
 - [LumaKernel/dotfiles](https://github.com/LumaKernel/dotfiles) - ⭐ My own world.
-- [Alex-D/dotfiles](https://github.com/Alex-D/dotfiles) - Windows + WSL 2 Ubuntu + Windows Terminal + zsh + p10k + Docker + IntelliJ IDEA + GitBash with zsh
+- [Alex-D/dotfiles](https://github.com/Alex-D/dotfiles) - Windows + WSL 2 Ubuntu + Windows Terminal + zsh + systemd + p10k + Docker + IntelliJ IDEA + GitBash with zsh
 - [jakecobley/dotfiles](https://github.com/jakecobley/dotfiles) - Dotfiles - personal preferences for various applications, editors, linters, and packages on macOS and Windows 10 with Windows Subsystem for Linux 2 (WSL2).
 - [pawelbialaszczyk/dotfiles](https://github.com/pawelbialaszczyk/dotfiles) - Windows dotfiles managed using a bare git repository.
 - [ridhwaans/dotfiles](https://github.com/ridhwaans/dotfiles) - 💻Personal dotfiles for mac and wsl
@@ -7749,6 +7781,8 @@
 
 ## Vim script 
 
+- [hirsaeki/wsl_provision](https://github.com/hirsaeki/wsl_provision) - ansible playbook provision wsl
+- [hirsaeki/dotfiles](https://github.com/hirsaeki/dotfiles) - my dotfiles
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [LearnLinuxTV/personal_ansible_desktop_configs](https://github.com/LearnLinuxTV/personal_ansible_desktop_configs) - 
