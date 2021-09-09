@@ -19,6 +19,7 @@
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
   - [Common Lisp](#common-lisp)
+  - [Common Workflow Language](#common-workflow-language)
   - [D](#d)
   - [Dart](#dart)
   - [Dhall](#dhall)
@@ -70,6 +71,7 @@
   - [RMarkdown](#rmarkdown)
   - [ReScript](#rescript)
   - [Reason](#reason)
+  - [Rich Text Format](#rich-text-format)
   - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
@@ -115,6 +117,7 @@
 
 ## AutoHotkey 
 
+- [ferventcoder/chocolateyautomaticpackages](https://github.com/ferventcoder/chocolateyautomaticpackages) - Deprecated - use https://github.com/ferventcoder/chocolatey-packages now
 - [7plus/7plus](https://github.com/7plus/7plus) - Improving Windows, one by one
 - [benwa/BgInfo-Helper](https://github.com/benwa/BgInfo-Helper) - Quality of life improvements for Sysinternal's BgInfo
 - [denolfe/AutoHotkeyBoilerplate](https://github.com/denolfe/AutoHotkeyBoilerplate) - An AutoHotkey boilerplate to help jumpstart a script for personal productivity
@@ -135,6 +138,7 @@
 
 ## Batchfile 
 
+- [kmonsoor/winsetup](https://github.com/kmonsoor/winsetup) - setting up my Windows workstation using `Chocolatey` package manager
 - [Ventto/winbroom](https://github.com/Ventto/winbroom) - Windows 7+ Customization experiences.
 - [YasserDRIF/Toggle-Tweaker](https://github.com/YasserDRIF/Toggle-Tweaker) - A script for windows 10 with purpose of tweaking your windows install by removing stuff like windows apps _ Cortana _ Edge, you can also tweak the personalization settings that are hidden and almost everything have a restore option
 - [Ahsan40/Win10-Ultimate-System-Tweaks](https://github.com/Ahsan40/Win10-Ultimate-System-Tweaks) - Ultimate System Tweaks Collection, endgame tweaks for your Windows 10
@@ -314,6 +318,10 @@
 
 ## C# # 
 
+- [BahKoo/ChocolateStore](https://github.com/BahKoo/ChocolateStore) - Cache chocolatey packages to efficiently provision multiple machines or VMs on a LAN
+- [chocolatey/nuget-chocolatey](https://github.com/chocolatey/nuget-chocolatey) - NuGet Enhanced for Chocolatey
+- [chocolatey-community/chocolatey-oneget](https://github.com/chocolatey-community/chocolatey-oneget) - OneGet Provider for Chocolatey
+- [ferventcoder/this.Log](https://github.com/ferventcoder/this.Log) - Logging Extensions that make sense
 - [johanneszab/TumblThree](https://github.com/johanneszab/TumblThree) - A Tumblr Blog Backup Application
 - [sinanbozkus/BackupAssistant](https://github.com/sinanbozkus/BackupAssistant) - Backup Assistant helps you to backup your files (like database backups or log files) to FTP Server. It works on any platform. ( Windows, Linux and Mac.)
 - [hkneptune/KeePass2](https://github.com/hkneptune/KeePass2) - A Copy of KeePass 2.x Source Code. This repository is just a mirror of the KeePass 2.x source code. Please do not send pull requests. Submit issues to the official forum (https://sourceforge.net/p/keepass/discussion/).
@@ -606,6 +614,8 @@
 
 ## CSS 
 
+- [ilham25/dotfiles-aether](https://github.com/ilham25/dotfiles-aether) - Here is my Aether theme for i3-gaps
+- [schorpy/ZorinX](https://github.com/schorpy/ZorinX) - Zorin OS Theme
 - [mshafer1/AHK-generator](https://github.com/mshafer1/AHK-generator) - A single page website to provide a UI for the 3 most common uses for AHK and defining custom hotstrings and hotkeys to trigger them
 - [scaryrawr/windotfiles](https://github.com/scaryrawr/windotfiles) - Windows dotfiles
 - [aaronpowell/gatsby-static-web-app](https://github.com/aaronpowell/gatsby-static-web-app) - 
@@ -694,7 +704,7 @@
 - [rstudio/bookdown-demo](https://github.com/rstudio/bookdown-demo) - A minimal book example using bookdown
 - [forsigner/fexo](https://github.com/forsigner/fexo) - A minimalist design theme for hexo.
 - [assemble/assemble](https://github.com/assemble/assemble) - Get the rocks out of your socks! Assemble makes you fast at web development! Used by thousands of projects for rapid prototyping, themes, scaffolds, boilerplates, e-books, UI components, API documentation, blogs, building websites/static site generator, an alternative to Jekyll for gh-pages and more! Gulp- and grunt-friendly.
-- [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️A static blog writing client (一个静态博客写作客户端)
+- [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
 - [rstudio-education/glossRy](https://github.com/rstudio-education/glossRy) - A glossary of terms used in  and around data science.
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. &lt;personal.management.system.pms@gmail.com&gt;
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
@@ -769,6 +779,10 @@
 
 - [miclill/next](https://github.com/miclill/next) - Next Browser - Be Productive.
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the Internet on your terms.
+
+## Common Workflow Language 
+
+- [common-workflow-language/common-workflow-language](https://github.com/common-workflow-language/common-workflow-language) - Repository for the CWL standards. Use https://cwl.discourse.group/ for support 😊
 
 ## D 
 
@@ -875,6 +889,7 @@
 
 ## Go 
 
+- [vaughany/vcms](https://github.com/vaughany/vcms) - Vaughany's Computer Monitoring System.
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [dkaslovsky/textnote](https://github.com/dkaslovsky/textnote) - Simple tool for creating and organizing daily notes on the command line
 - [muesli/gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull & push changes
@@ -1094,6 +1109,7 @@
 
 ## HCL 
 
+- [chocolatey-community/chocolatey-workshop-open-source](https://github.com/chocolatey-community/chocolatey-workshop-open-source) - Community workshop content based on Chocolatey Open Source
 - [Duffney/terraform-in20hours](https://github.com/Duffney/terraform-in20hours) - Learning Terraform in 20 Hours
 - [meeuw/unattended-windows-10](https://github.com/meeuw/unattended-windows-10) - Packer templates to install Windows 10 Evaluation using the qemu/kvm builder.
 - [terraform-google-modules/terraform-google-bootstrap](https://github.com/terraform-google-modules/terraform-google-bootstrap) - A module for bootstrapping Terraform usage in a new GCP organization.
@@ -1255,7 +1271,7 @@
 - [skranz/CoursesWithR](https://github.com/skranz/CoursesWithR) - 
 - [jadjoubran/webdash](https://github.com/jadjoubran/webdash) - 🔥 Orchestrate your web project with Webdash the customizable web dashboard
 - [KasperZutterman/KasperZutterman.github.io](https://github.com/KasperZutterman/KasperZutterman.github.io) - Personal website:
-- [dnnsmnstrr/zettelkasten](https://github.com/dnnsmnstrr/zettelkasten) - 
+- [dnnsmnstrr/zettelkasten](https://github.com/dnnsmnstrr/zettelkasten) - My public slip box for notes on things I learned or personal thoughts and ideas 🗃️
 - [Thought-Tank/thought-tank](https://github.com/Thought-Tank/thought-tank) - Your second brain belongs to you.
 - [SinglePageBookProject/Single-Page-Book](https://github.com/SinglePageBookProject/Single-Page-Book) - Pragmatical way to create cheat-sheets, bookmarks, full-books in a single page. (Zettlekasten the web!)
 - [SinglePageBookProject/IT_notes](https://github.com/SinglePageBookProject/IT_notes) - A new way to document for the 21st century on top of the Single Page Book Project
@@ -2596,6 +2612,11 @@
 
 ## Others 
 
+- [DarwinJS/ChocoPackages](https://github.com/DarwinJS/ChocoPackages) - 
+- [ferventcoder/puppet-chocolatey-presentation](https://github.com/ferventcoder/puppet-chocolatey-presentation) - Chocolatey Presentation with the Puppets
+- [chocolatey-archive/chocolatey.web](https://github.com/chocolatey-archive/chocolatey.web) - The custom web for creating chocolatey packages online
+- [terminalforlife/DEB-Packages](https://github.com/terminalforlife/DEB-Packages) - DEB packages for various TFL programs.
+- [mikeroyal/Zorin-OS-Guide](https://github.com/mikeroyal/Zorin-OS-Guide) - 
 - [hirsaeki/chocolateyPackages](https://github.com/hirsaeki/chocolateyPackages) - 
 - [hkneptune/FastCopy](https://github.com/hkneptune/FastCopy) - The fastest mass copy and sync, backup tool for Windows, Mac and Linux/Unix
 - [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) - The Unofficial PowerShell Best Practices and Style Guide
@@ -2618,8 +2639,8 @@
 - [melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates) - Boilerplates for mobile and web apps
 - [unreadablewxy/unreadablewxy](https://github.com/unreadablewxy/unreadablewxy) - 
 - [unreadablewxy/fs-curator](https://github.com/unreadablewxy/fs-curator) - Automation for the serious data hoarder that wants to have their data and use it
-- [Xenirvana-Ltd/PoSh-PSD1-Configuration](https://github.com/Xenirvana-Ltd/PoSh-PSD1-Configuration) - A simple example of how to create a very basic 'Configuration file' for PowerShell Scripts usiing *.psd1 files (usually used only as Module Manifests). Works so long as any Configuration you're needing to do can be accomplished with Variables.
-- [Xenirvana-Ltd/Project-Documentation-Collection](https://github.com/Xenirvana-Ltd/Project-Documentation-Collection) - A collection of templates for various forms of Project Documentation, in multiple formats. Some I wrote up myself, others are random, assorted templates sourced from across the web, mostly GitHub. All Docs templates in this repository come in both Markdown and Plaintext varieties, in addition to some more 'formal', and in depth Docs Templates written in Microsoft Word, and thusly coming in *.doc/*.docx formats, as well as *.rtf. Includes README Templates, CHANGELOG Templates, CONTRIBUTING Templates, Code of Conduct Templates, various niche Documentation Types, and a collection of the most commonly used Licenses in Plaintext, Rich Formatted Text, and Markdown formats also.
+- [SupernautFX/PoSh-PSD1-Configuration](https://github.com/SupernautFX/PoSh-PSD1-Configuration) - A simple example of how to create a very basic 'Configuration file' for PowerShell Scripts usiing *.psd1 files (usually used only as Module Manifests). Works so long as any Configuration you're needing to do can be accomplished with Variables.
+- [SupernautFX/Project-Documentation-Collection](https://github.com/SupernautFX/Project-Documentation-Collection) - A collection of templates for various forms of Project Documentation, in multiple formats. Some I wrote up myself, others are random, assorted templates sourced from across the web, mostly GitHub. All Docs templates in this repository come in both Markdown and Plaintext varieties, in addition to some more 'formal', and in depth Docs Templates written in Microsoft Word, and thusly coming in *.doc/*.docx formats, as well as *.rtf. Includes README Templates, CHANGELOG Templates, CONTRIBUTING Templates, Code of Conduct Templates, various niche Documentation Types, and a collection of the most commonly used Licenses in Plaintext, Rich Formatted Text, and Markdown formats also.
 - [jimbrig/dj-events-frontend](https://github.com/jimbrig/dj-events-frontend) - Next.js website to list DJ and other musical events
 - [AndyFul/ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) - Utility for configuring Windows 10 built-in Defender antivirus settings.
 - [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Win10XPE is a Complete Project Based on Win10 Recovery Environment With Many Windows Features Added...
@@ -3509,6 +3530,30 @@
 
 ## PowerShell 
 
+- [turtlebasket/winsetup](https://github.com/turtlebasket/winsetup) - make windows comfy
+- [markbenvenuto/winsetup](https://github.com/markbenvenuto/winsetup) - Windows Machine Setup Scripts
+- [dewdad/winsetup](https://github.com/dewdad/winsetup) - BoxStarter scripts for setting up windows
+- [zacrollins/WinSetup](https://github.com/zacrollins/WinSetup) - Windows workstation setup automation using boxstarter and chocolatey
+- [aranym0/winsetup](https://github.com/aranym0/winsetup) - Script to set up Windows 10/11 for my personal usage.
+- [aronovgj/choco-auto](https://github.com/aronovgj/choco-auto) - auto packages
+- [mkevenaar/chocolatey-packages](https://github.com/mkevenaar/chocolatey-packages) - My chocolatey packages
+- [chocolatey-archive/chocolateytemplates](https://github.com/chocolatey-archive/chocolateytemplates) - The templates....
+- [pauby/ChocoPackages](https://github.com/pauby/ChocoPackages) - Chocolatey packages I maintain
+- [dtgm/chocolatey-packages](https://github.com/dtgm/chocolatey-packages) - chocolateynuget packages published on chocolatey.org
+- [jberezanski/ChocolateyPackages](https://github.com/jberezanski/ChocolateyPackages) - Chocolatey packages maintained by me
+- [chocolatey/puppet-chocolatey-handsonlab](https://github.com/chocolatey/puppet-chocolatey-handsonlab) - This is the hands on lab from PuppetConf 2013 using the chocolatey provider
+- [chocolatey/chocolatey-environments](https://github.com/chocolatey/chocolatey-environments) - Environments used to test and demonstrate Chocolatey features and benefits.
+- [chocolatey/chocolatey-workshop](https://github.com/chocolatey/chocolatey-workshop) - Chocolatey Workshop
+- [chocolatey/chocolatey-ansible](https://github.com/chocolatey/chocolatey-ansible) - The Chocolatey module collection for Ansible
+- [chocolatey-community/Chocolatey](https://github.com/chocolatey-community/Chocolatey) - PowerShell Module and DSC Resource for Chocolatey Software
+- [chocolatey-community/chocolatey-package-recipes](https://github.com/chocolatey-community/chocolatey-package-recipes) - Chocolatey Ganache - Chocolatey repository full of package recipes and patterns
+- [chocolatey-community/chocolatey-cookbook](https://github.com/chocolatey-community/chocolatey-cookbook) - Chef cookbook to install chocolatey and packages on Windows
+- [chocolatey-community/12DaysOfChocolatey](https://github.com/chocolatey-community/12DaysOfChocolatey) - 
+- [chocolatey-community/chocolatey-packages-template](https://github.com/chocolatey-community/chocolatey-packages-template) - A template to use when setting up to create packages both manual and automatic
+- [ferventcoder/chocolatey-packages](https://github.com/ferventcoder/chocolatey-packages) - The packages...all about the packages.
+- [chocolatey-community/chocolatey-test-environment](https://github.com/chocolatey-community/chocolatey-test-environment) - A testing setup related to how the Chocolatey Package Verifier runs testing. Used for manual testing or prior to submission
+- [jmgilman/ChocolateyPackageCreator](https://github.com/jmgilman/ChocolateyPackageCreator) - Powershell module for creating internal Chocolatey packages
+- [liamfoneill/ChocolateBootstraps](https://github.com/liamfoneill/ChocolateBootstraps) - A collection of scripts etc to setup new windows machine
 - [hirsaeki/scoop-sup](https://github.com/hirsaeki/scoop-sup) - scoop manifests personally nessesary
 - [LesFerch/WinSetView](https://github.com/LesFerch/WinSetView) - Globally Set Explorer Folder Views
 - [kodybrown/scoop-nirsoft](https://github.com/kodybrown/scoop-nirsoft) - A Scoop bucket of useful NirSoft utilities
@@ -3576,7 +3621,7 @@
 - [jimbrig/WindowsSetup](https://github.com/jimbrig/WindowsSetup) - 
 - [hackf5/powershell-profile-alias](https://github.com/hackf5/powershell-profile-alias) - Bash style aliases in PowerShell
 - [Jaykul/PowerLine](https://github.com/Jaykul/PowerLine) - A more PowerShell prompt
-- [Xenirvana-Ltd/My-PowerShell-Configuration](https://github.com/Xenirvana-Ltd/My-PowerShell-Configuration) - Repository for my personal PowerShell Profile(s), modules (ones I havent made in 'Third-Party Modules' Directory), and various other config files
+- [SupernautFX/My-PowerShell-Configuration](https://github.com/SupernautFX/My-PowerShell-Configuration) - Repository for my personal PowerShell Profile(s), modules (ones I havent made in 'Third-Party Modules' Directory), and various other config files
 - [techthoughts2/Learn-PowerShell-Code-Examples](https://github.com/techthoughts2/Learn-PowerShell-Code-Examples) - Contains code examples used in the Learn PowerShell Video & Blog series
 - [nickrod518/Migrate-WindowsUserProfile](https://github.com/nickrod518/Migrate-WindowsUserProfile) - Migrate Windows user profile to a new machine using Microsoft USMT with a PowerShell GUI.
 - [greyhamwoohoo/new-vm-from-iso](https://github.com/greyhamwoohoo/new-vm-from-iso) - Provision a Hyper-V VM with Windows automatically installed from an ISO using PowerShell; on first boot, the Unattend.Xml (OOBE) will automatically configure the installation and Windows will boot as far as the Login Screen. Windows Updates will then be automatically installed.
@@ -3892,6 +3937,8 @@
 
 ## Python 
 
+- [mwrock/Chocolatey-Packages](https://github.com/mwrock/Chocolatey-Packages) - Some packages that can be installed via chocolatey.org
+- [henrydevopr/postinstall](https://github.com/henrydevopr/postinstall) - Simple post install script, primarily made for ubuntu and Zorin OS
 - [ikus060/rdiffweb](https://github.com/ikus060/rdiffweb) - A simplified backup management software for quick access to your archives through an efficient web interface.
 - [MCOfficer/scoop-nirsoft](https://github.com/MCOfficer/scoop-nirsoft) - My own shot at a nirsoft.net-bucket. Contains all 250+ programs.
 - [ewerybody/a2](https://github.com/ewerybody/a2) - Module managing and developing framework for Autohotkey scripts.
@@ -4253,7 +4300,6 @@
 - [cmu-lib/printprob-db](https://github.com/cmu-lib/printprob-db) - Database and interface for Print and Probability project
 - [KevinMusgrave/easy-module-attribute-getter](https://github.com/KevinMusgrave/easy-module-attribute-getter) - Fetch and initialize objects in one line, without any if-statements or dictionaries. Merge and override complex config options at the command line.
 - [ctjacobs/git-rdm](https://github.com/ctjacobs/git-rdm) - A research data management plugin for the Git version control system.
-- [common-workflow-language/common-workflow-language](https://github.com/common-workflow-language/common-workflow-language) - Repository for the CWL standards. Use https://cwl.discourse.group/ for support 😊
 - [airbnb/knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions.
 - [drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -6843,12 +6889,20 @@
 - [davesnx/query-json](https://github.com/davesnx/query-json) - Faster, simpler and more portable implementation of `jq` in Reason
 - [revery-ui/revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason!
 
+## Rich Text Format 
+
+- [AnthonyMastrean/chocolateypackages](https://github.com/AnthonyMastrean/chocolateypackages) - Application packages for Windows
+
 ## Roff 
 
 - [Stormcatisabitch/Oneshotwindows](https://github.com/Stormcatisabitch/Oneshotwindows) - OneShot themed Windows 10 mod
 
 ## Ruby 
 
+- [chocolatey-community/puppet-chocolatey_server](https://github.com/chocolatey-community/puppet-chocolatey_server) - Chocolatey Simple Server Puppet Module
+- [chocolatey-archive/puppet-chocolatey](https://github.com/chocolatey-archive/puppet-chocolatey) - Chocolatey package provider
+- [ferventcoder/puppetlabs-powershell](https://github.com/ferventcoder/puppetlabs-powershell) - 
+- [ferventcoder/chef-chocolatey-presentation](https://github.com/ferventcoder/chef-chocolatey-presentation) - Workshop for Chef from Chocolatey Kickstarter
 - [fluffgfx/dit](https://github.com/fluffgfx/dit) - :file_folder: dotfile management that thinks it's git
 - [kbroman/minimal_make](https://github.com/kbroman/minimal_make) - Minimal make: A minimal tutorial on the most important tool for reproducible research
 - [kbroman/dataorg](https://github.com/kbroman/dataorg) - Tutorial on organizing data in spreadsheets.
@@ -7024,6 +7078,13 @@
 
 ## Shell 
 
+- [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
+- [ericjaychi/sample-dotfiles](https://github.com/ericjaychi/sample-dotfiles) - A sample repo to store dotfiles
+- [Slesa/DotFiles](https://github.com/Slesa/DotFiles) - 
+- [usbkey9/uktools](https://github.com/usbkey9/uktools) - Upgrade latest Linux kernel automatically for Ubuntu and derivatives 🐧
+- [clauseggers/dotfiles](https://github.com/clauseggers/dotfiles) - My .dotfiles
+- [matijaderk/setup](https://github.com/matijaderk/setup) - Various setup scripts, settings and files for my gear.
+- [wlw-benjaminbraendli/Zorin-preseed](https://github.com/wlw-benjaminbraendli/Zorin-preseed) - Every file needed to make a preseeded intallation of Zorin 15
 - [transcode-open/apt-cyg](https://github.com/transcode-open/apt-cyg) - Apt-cyg, an apt-get like tool for Cygwin
 - [hirsaeki/apt-cyg](https://github.com/hirsaeki/apt-cyg) - Apt-cyg, an apt-get like tool for Cygwin
 - [paravz/windows-rsync-backup](https://github.com/paravz/windows-rsync-backup) - Rsync backup script for Windows
@@ -7353,6 +7414,7 @@
 ## Svelte 
 
 - [cristianpb/analytics-google](https://github.com/cristianpb/analytics-google) - Google analytics from cristianpb.github.io
+- [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [spences10/cheat-sheets](https://github.com/spences10/cheat-sheets) - Cheat Sheets 🐭🤖👀
 
 ## Swift 
@@ -7590,7 +7652,6 @@
 - [phibr0/obsidian-charts](https://github.com/phibr0/obsidian-charts) - Charts - Obsidian Plugin | Create editable, interactive and animated Charts in Obsidian via Chart.js
 - [PicGo/PicGo-Core](https://github.com/PicGo/PicGo-Core) - :zap:A tool for pictures uploading. Both CLI & API supports.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
-- [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [Thinkmill/manypkg](https://github.com/Thinkmill/manypkg) - ☔️ An umbrella for your monorepo
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A collection of GitHub Actions for interfacing with Google Cloud Platform.
@@ -7833,6 +7894,7 @@
 
 ## Vue 
 
+- [Zorin95670/project-template-web](https://github.com/Zorin95670/project-template-web) - Template project to create a web application. Make with VueJs.
 - [iamshaunjp/vuejs-playlist](https://github.com/iamshaunjp/vuejs-playlist) - Course files for the Vue.js 2 playlist on The Net Ninja YouTube channel
 - [Lt0/sysmon](https://github.com/Lt0/sysmon) - A B/S mode system monitor for linux (demo http://199.247.1.240:2048)
 - [FrissAnalytics/shiny-vue-r](https://github.com/FrissAnalytics/shiny-vue-r) - shiny vue hybrid app
