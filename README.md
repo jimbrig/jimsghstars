@@ -117,6 +117,7 @@
 
 ## AutoHotkey 
 
+- [matarum/TuoGui](https://github.com/matarum/TuoGui) - graphic user interface for Tyrant Unleashed Optimizer
 - [ferventcoder/chocolateyautomaticpackages](https://github.com/ferventcoder/chocolateyautomaticpackages) - Deprecated - use https://github.com/ferventcoder/chocolatey-packages now
 - [7plus/7plus](https://github.com/7plus/7plus) - Improving Windows, one by one
 - [benwa/BgInfo-Helper](https://github.com/benwa/BgInfo-Helper) - Quality of life improvements for Sysinternal's BgInfo
@@ -336,6 +337,7 @@
 - [AlexAsplund/PowershellStarter](https://github.com/AlexAsplund/PowershellStarter) - Starts Powershell scripts as service in windows
 - [belowaverage-org/SuperBGInfo](https://github.com/belowaverage-org/SuperBGInfo) - A re-creation of SysInternals BGInfo that doesn't touch the desktop wallpaper.
 - [hellzerg/cloning](https://github.com/hellzerg/cloning) - Backup and restore your programs settings
+- [jimscratch/ThisIsWin11](https://github.com/jimscratch/ThisIsWin11) - The real PowerToys for Windows 11
 - [builtbybel/ReadySunValley](https://github.com/builtbybel/ReadySunValley) - Replacement for Microsoft  PC Health Check app
 - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11
 - [EdiWang/Tracing-UWP](https://github.com/EdiWang/Tracing-UWP) - Tracing (描图) App for Windows 10
@@ -804,6 +806,7 @@
 
 ## Dockerfile 
 
+- [orhun/git-cliff-action](https://github.com/orhun/git-cliff-action) - GitHub action to generate a changelog based on the Git history
 - [nodejs/docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
 - [koenverburg/article-source-code](https://github.com/koenverburg/article-source-code) - This repo will hold all of the code I mention in my articles
 - [Duffney/reclaim](https://github.com/Duffney/reclaim) - Take back your attention, Hit RESET on your digital life.
@@ -2303,6 +2306,7 @@
 - [mathieudutour/gatsby-digital-garden](https://github.com/mathieudutour/gatsby-digital-garden) - 🌷 🌻 🌺 Create a digital garden with Gatsby
 - [davidruvolo51/shinytutorials](https://github.com/davidruvolo51/shinytutorials) - static site for shinyAppTutorials :building_construction:
 - [huyingjie/Awesome-shiny-apps-for-statistics](https://github.com/huyingjie/Awesome-shiny-apps-for-statistics) - 🌟 A curated list of Awesome Shiny Apps for Statistics (ASAS)🌟
+- [rstudio/shinyvalidate](https://github.com/rstudio/shinyvalidate) - Input validation package for the Shiny web framework
 - [AntoineGuillot2/D3partitionR](https://github.com/AntoineGuillot2/D3partitionR) - R package to visualise interactively hierarchical data.
 - [davidruvolo51/shiny-parcel-template](https://github.com/davidruvolo51/shiny-parcel-template) - An example setup for Shiny applications that use Parcel
 - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
@@ -2612,6 +2616,7 @@
 
 ## Others 
 
+- [ThePoShWolf/DemoRepo](https://github.com/ThePoShWolf/DemoRepo) - A repository to demonstrate module building
 - [DarwinJS/ChocoPackages](https://github.com/DarwinJS/ChocoPackages) - 
 - [ferventcoder/puppet-chocolatey-presentation](https://github.com/ferventcoder/puppet-chocolatey-presentation) - Chocolatey Presentation with the Puppets
 - [chocolatey-archive/chocolatey.web](https://github.com/chocolatey-archive/chocolatey.web) - The custom web for creating chocolatey packages online
@@ -2673,7 +2678,6 @@
 - [pratyakshm/ISOBuild](https://github.com/pratyakshm/ISOBuild) - 
 - [Hack-with-Github/Windows](https://github.com/Hack-with-Github/Windows) - Awesome tools to exploit Windows !
 - [niklasrast/Windows-10-Configuration-Files](https://github.com/niklasrast/Windows-10-Configuration-Files) - 
-- [jimscratch/ThisIsWin11](https://github.com/jimscratch/ThisIsWin11) - The real PowerToys for Windows 11
 - [statnmap/crrry](https://github.com/statnmap/crrry) - 'crrri' recipes for 'shiny'
 - [statnmap/gmailr](https://github.com/statnmap/gmailr) - Access the Gmail RESTful API from R.
 - [statnmap/repo.rtask](https://github.com/statnmap/repo.rtask) - Example for a blog post on rtask.thinkr.fr
@@ -3389,8 +3393,6 @@
 - [USCbiostats/software-dev-site](https://github.com/USCbiostats/software-dev-site) - 
 - [rstudio-education/data-wrangling-with-the-tidyverse](https://github.com/rstudio-education/data-wrangling-with-the-tidyverse) - A gentle introduction to data wrangling in R with the Tidyverse.
 - [rstudio-education/welcome-to-the-tidyverse](https://github.com/rstudio-education/welcome-to-the-tidyverse) - A gentle introduction to R and its Tidyverse that focuses on Exploratory Data Analysis (EDA).
-- [hadley/sigminer](https://github.com/hadley/sigminer) - 🌲 An easy-to-use and scalable toolkit for genomic alteration (mutational) signature analysis and visualization in R
-- [hadley/sjlabelled](https://github.com/hadley/sjlabelled) - Working with Labelled Data in R
 - [ThinkR-open/prepare-for-cran](https://github.com/ThinkR-open/prepare-for-cran) - A Collaborative list of things to know before submitting to CRAN
 - [mkearney/fastai](https://github.com/mkearney/fastai) - The fastai deep learning library, plus lessons and tutorials
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
@@ -3530,6 +3532,14 @@
 
 ## PowerShell 
 
+- [ThePoShWolf/TechSnips_Demos](https://github.com/ThePoShWolf/TechSnips_Demos) - 
+- [ThePoShWolf/Sessions](https://github.com/ThePoShWolf/Sessions) - A collection of the PowerShell sessions I've either given or am working on
+- [sagarv26/PowerShell-Tutorial](https://github.com/sagarv26/PowerShell-Tutorial) - PowerShell Tutorial
+- [PowerShellOrg/Plaster](https://github.com/PowerShellOrg/Plaster) - Plaster is a template-based file and project generator written in PowerShell.
+- [mducharm/powershell_utilities](https://github.com/mducharm/powershell_utilities) - Contains my profile.ps1 and custom modules. Clone $HOME\Documents\WindowsPowerShell when getting started on a new machine.
+- [JosephConrad/powershellprofile](https://github.com/JosephConrad/powershellprofile) - My Microsoft.PowerShell_profile.ps1 on Windows
+- [ps1samplescripts/ps1-profile](https://github.com/ps1samplescripts/ps1-profile) - A PowerShell configuration profile
+- [BretFisher/PowerShell-Profile](https://github.com/BretFisher/PowerShell-Profile) - Microsoft.PowerShell_profile.ps1
 - [turtlebasket/winsetup](https://github.com/turtlebasket/winsetup) - make windows comfy
 - [markbenvenuto/winsetup](https://github.com/markbenvenuto/winsetup) - Windows Machine Setup Scripts
 - [dewdad/winsetup](https://github.com/dewdad/winsetup) - BoxStarter scripts for setting up windows
@@ -4315,6 +4325,7 @@
 
 ## R 
 
+- [rstudio/reticulate](https://github.com/rstudio/reticulate) - R Interface to Python
 - [rstudio/packrat](https://github.com/rstudio/packrat) - Packrat is a dependency management system for R
 - [SebKrantz/fastverse](https://github.com/SebKrantz/fastverse) - An Extensible Suite of High-Performance and Low-Dependency Packages for Statistical Computing and Data Manipulation in R
 - [analythium/heroku-shiny](https://github.com/analythium/heroku-shiny) - Deploy Shiny Apps to Heroku with CLI and CI/CD
@@ -5669,7 +5680,6 @@
 - [billster45/tidycorels](https://github.com/billster45/tidycorels) - 
 - [bupaverse/bupaR](https://github.com/bupaverse/bupaR) - Core R package for business process analysis
 - [bupaverse/edeaR](https://github.com/bupaverse/edeaR) - Exploratory and descriptive analysis of event based data.
-- [rstudio/shinyvalidate](https://github.com/rstudio/shinyvalidate) - Input validation package for the Shiny web framework
 - [ropensci/dittodb](https://github.com/ropensci/dittodb) - dittodb: A Test Environment for DB Queries in R
 - [matt-dray/r2eng](https://github.com/matt-dray/r2eng) - :speaking_head::speaker: R package: translate R to English
 - [matloff/fasteR](https://github.com/matloff/fasteR) - Fast Lane to Learning R!
@@ -5999,7 +6009,6 @@
 - [coolbutuseless/minicss](https://github.com/coolbutuseless/minicss) - Build CSS selectors, styles and stylesheets within R
 - [krlmlr-archive/R-pkg-template](https://github.com/krlmlr-archive/R-pkg-template) - 
 - [MangoTheCat/functionMap](https://github.com/MangoTheCat/functionMap) - Draw the functions map for a R package
-- [hadley/proto](https://github.com/hadley/proto) - Automatically exported from code.google.com/p/r-proto
 - [WLOGSolutions/r-logging](https://github.com/WLOGSolutions/r-logging) - R port of the popular log4j logging module
 - [zatonovo/futile.logger](https://github.com/zatonovo/futile.logger) - A logging package in R similar to log4j
 - [amplab-extras/SparkR-pkg](https://github.com/amplab-extras/SparkR-pkg) - R frontend for Spark
@@ -6758,10 +6767,7 @@
 - [rpodcast/shinylego](https://github.com/rpodcast/shinylego) - Shiny application to create LEGO mosaics directly from R
 - [cmdcolin/shinytemplate](https://github.com/cmdcolin/shinytemplate) - A basic template for developing a shiny app as an R package, with some proposed "best practices"
 - [hadley/reshape](https://github.com/hadley/reshape) - An R package to flexible rearrange, reshape and aggregate data
-- [hadley/pool](https://github.com/hadley/pool) - Object Pooling in R
 - [jacintoArias/exreport](https://github.com/jacintoArias/exreport) - An R package for reproducible research. Analyze your experimental data and generate HTML and PDF reports.
-- [hadley/dev_guide](https://github.com/hadley/dev_guide) - rOpenSci Packages: Development, Maintenance, and Peer Review
-- [hadley/whattheyforgot](https://github.com/hadley/whattheyforgot) - What They Forgot To Teach You About R, homepage for "how to's" and workshops
 - [tidyverse/multidplyr](https://github.com/tidyverse/multidplyr) - A dplyr backend that partitions a data frame over multiple processes
 - [hadley/assertthat](https://github.com/hadley/assertthat) - User friendly assertions for R
 - [hadley/r4ds](https://github.com/hadley/r4ds) - R for data science: a book
@@ -6964,6 +6970,10 @@
 
 ## Rust 
 
+- [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
+- [saschagrunert/git-journal](https://github.com/saschagrunert/git-journal) - The Git Commit Message and Changelog Generation Framework :book:
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
+- [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
@@ -7029,6 +7039,7 @@
 
 ## SCSS 
 
+- [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [AnilSeervi/DevFolio](https://github.com/AnilSeervi/DevFolio) - A Minimal Portfolio Template for Developers with easy setup process documented(with hosting).
 - [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
 - [hbctraining/Intro-to-R](https://github.com/hbctraining/Intro-to-R) - 
@@ -7078,6 +7089,7 @@
 
 ## Shell 
 
+- [popurax/dotfiles](https://github.com/popurax/dotfiles) - dotfiles tank → |basnhrc profile.ps1|
 - [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
 - [ericjaychi/sample-dotfiles](https://github.com/ericjaychi/sample-dotfiles) - A sample repo to store dotfiles
 - [Slesa/DotFiles](https://github.com/Slesa/DotFiles) - 
