@@ -139,6 +139,7 @@
 
 ## Batchfile 
 
+- [Paranoid-Dev/Paranoid-Backupper](https://github.com/Paranoid-Dev/Paranoid-Backupper) - Windows System Backupper, Compressor, Encrypter, and Cloud Uploader
 - [kmonsoor/winsetup](https://github.com/kmonsoor/winsetup) - setting up my Windows workstation using `Chocolatey` package manager
 - [Ventto/winbroom](https://github.com/Ventto/winbroom) - Windows 7+ Customization experiences.
 - [YasserDRIF/Toggle-Tweaker](https://github.com/YasserDRIF/Toggle-Tweaker) - A script for windows 10 with purpose of tweaking your windows install by removing stuff like windows apps _ Cortana _ Edge, you can also tweak the personalization settings that are hidden and almost everything have a restore option
@@ -865,7 +866,7 @@
 ## Emacs Lisp 
 
 - [c0state/dotfiles](https://github.com/c0state/dotfiles) - My personal dotfiles setup
-- [Atemu/dotfiles](https://github.com/Atemu/dotfiles) - Mirror of https://gitlab.com/atemu/dotfiles
+- [Atemu/dotfiles](https://github.com/Atemu/dotfiles) - My dotfiles
 - [gf3/dotfiles](https://github.com/gf3/dotfiles) - Configurations for the tools I use every day
 - [cole-brokamp/dotfiles](https://github.com/cole-brokamp/dotfiles) - dotfiles
 - [yihui/configuration](https://github.com/yihui/configuration) - My configuration files
@@ -2644,8 +2645,8 @@
 - [melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates) - Boilerplates for mobile and web apps
 - [unreadablewxy/unreadablewxy](https://github.com/unreadablewxy/unreadablewxy) - 
 - [unreadablewxy/fs-curator](https://github.com/unreadablewxy/fs-curator) - Automation for the serious data hoarder that wants to have their data and use it
-- [SupernautFX/PoSh-PSD1-Configuration](https://github.com/SupernautFX/PoSh-PSD1-Configuration) - A simple example of how to create a very basic 'Configuration file' for PowerShell Scripts usiing *.psd1 files (usually used only as Module Manifests). Works so long as any Configuration you're needing to do can be accomplished with Variables.
-- [SupernautFX/Project-Documentation-Collection](https://github.com/SupernautFX/Project-Documentation-Collection) - A collection of templates for various forms of Project Documentation, in multiple formats. Some I wrote up myself, others are random, assorted templates sourced from across the web, mostly GitHub. All Docs templates in this repository come in both Markdown and Plaintext varieties, in addition to some more 'formal', and in depth Docs Templates written in Microsoft Word, and thusly coming in *.doc/*.docx formats, as well as *.rtf. Includes README Templates, CHANGELOG Templates, CONTRIBUTING Templates, Code of Conduct Templates, various niche Documentation Types, and a collection of the most commonly used Licenses in Plaintext, Rich Formatted Text, and Markdown formats also.
+- [SupernautSFX/PoSh-PSD1-Configuration](https://github.com/SupernautSFX/PoSh-PSD1-Configuration) - A simple example of how to create a very basic 'Configuration file' for PowerShell Scripts usiing *.psd1 files (usually used only as Module Manifests). Works so long as any Configuration you're needing to do can be accomplished with Variables.
+- [SupernautSFX/Project-Documentation-Collection](https://github.com/SupernautSFX/Project-Documentation-Collection) - A collection of templates for various forms of Project Documentation, in multiple formats. Some I wrote up myself, others are random, assorted templates sourced from across the web, mostly GitHub. All Docs templates in this repository come in both Markdown and Plaintext varieties, in addition to some more 'formal', and in depth Docs Templates written in Microsoft Word, and thusly coming in *.doc/*.docx formats, as well as *.rtf. Includes README Templates, CHANGELOG Templates, CONTRIBUTING Templates, Code of Conduct Templates, various niche Documentation Types, and a collection of the most commonly used Licenses in Plaintext, Rich Formatted Text, and Markdown formats also.
 - [jimbrig/dj-events-frontend](https://github.com/jimbrig/dj-events-frontend) - Next.js website to list DJ and other musical events
 - [AndyFul/ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) - Utility for configuring Windows 10 built-in Defender antivirus settings.
 - [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Win10XPE is a Complete Project Based on Win10 Recovery Environment With Many Windows Features Added...
@@ -3532,6 +3533,9 @@
 
 ## PowerShell 
 
+- [devopssolver/ansible-molecule-vagrant](https://github.com/devopssolver/ansible-molecule-vagrant) - This is to test ansible roles/playbooks with molecule and vagrant
+- [rogerpence/powershell-robocopy-windows-backup](https://github.com/rogerpence/powershell-robocopy-windows-backup) - A backup system for Windows powered by PowerShell and RoboCopy
+- [dforge/backup_ps1](https://github.com/dforge/backup_ps1) - Powershell backup script for windows systems
 - [ThePoShWolf/TechSnips_Demos](https://github.com/ThePoShWolf/TechSnips_Demos) - 
 - [ThePoShWolf/Sessions](https://github.com/ThePoShWolf/Sessions) - A collection of the PowerShell sessions I've either given or am working on
 - [sagarv26/PowerShell-Tutorial](https://github.com/sagarv26/PowerShell-Tutorial) - PowerShell Tutorial
@@ -3631,7 +3635,7 @@
 - [jimbrig/WindowsSetup](https://github.com/jimbrig/WindowsSetup) - 
 - [hackf5/powershell-profile-alias](https://github.com/hackf5/powershell-profile-alias) - Bash style aliases in PowerShell
 - [Jaykul/PowerLine](https://github.com/Jaykul/PowerLine) - A more PowerShell prompt
-- [SupernautFX/My-PowerShell-Configuration](https://github.com/SupernautFX/My-PowerShell-Configuration) - Repository for my personal PowerShell Profile(s), modules (ones I havent made in 'Third-Party Modules' Directory), and various other config files
+- [SupernautSFX/My-PowerShell-Configuration](https://github.com/SupernautSFX/My-PowerShell-Configuration) - Repository for my personal PowerShell Profile(s), modules (ones I havent made in 'Third-Party Modules' Directory), and various other config files
 - [techthoughts2/Learn-PowerShell-Code-Examples](https://github.com/techthoughts2/Learn-PowerShell-Code-Examples) - Contains code examples used in the Learn PowerShell Video & Blog series
 - [nickrod518/Migrate-WindowsUserProfile](https://github.com/nickrod518/Migrate-WindowsUserProfile) - Migrate Windows user profile to a new machine using Microsoft USMT with a PowerShell GUI.
 - [greyhamwoohoo/new-vm-from-iso](https://github.com/greyhamwoohoo/new-vm-from-iso) - Provision a Hyper-V VM with Windows automatically installed from an ISO using PowerShell; on first boot, the Unattend.Xml (OOBE) will automatically configure the installation and Windows will boot as far as the Login Screen. Windows Updates will then be automatically installed.
@@ -6051,7 +6055,6 @@
 - [Rapporter/rapportools](https://github.com/Rapporter/rapportools) - Miscellaneous stats helper functions with sane defaults for reporting
 - [dcomtois/pathToClip](https://github.com/dcomtois/pathToClip) - RStudio Addin -- Copy File Path to Clipboard
 - [easystats/parameters](https://github.com/easystats/parameters) - :bar_chart: Computation and processing of models' parameters
-- [stan-dev/posteriordb](https://github.com/stan-dev/posteriordb) - Database with posteriors of interest for Bayesian inference
 - [rstudio/shinycoreci](https://github.com/rstudio/shinycoreci) - Application-level automated tests for Shiny
 - [Ractuary/devtri](https://github.com/Ractuary/devtri) - Easily work with actuarial development triangles
 - [bradleyboehmke/unit-testing-r](https://github.com/bradleyboehmke/unit-testing-r) - Contains simple examples and discussion around unit testing in R
@@ -7052,7 +7055,7 @@
 - [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [cobidev/simplefolio](https://github.com/cobidev/simplefolio) - ⚡️ A minimal portfolio template for Developers
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
-- [DivadNojnarg/outstanding-shiny-ui-code](https://github.com/DivadNojnarg/outstanding-shiny-ui-code) - Standalone code for the "Outstanding Shiny UI" Book
+- [DivadNojnarg/OSUICode](https://github.com/DivadNojnarg/OSUICode) - Standalone code for the "Outstanding Shiny UI" Book
 - [f-prime/Blunt](https://github.com/f-prime/Blunt) - A CSS framework that helps with layouts and leaves your styling alone.
 - [gadenbuie/rsthemes](https://github.com/gadenbuie/rsthemes) - 🔮 Full RStudio IDE and Syntax Themes
 - [saeedalipoor/icono](https://github.com/saeedalipoor/icono) - One tag One icon, no font or svg, Pure CSS
@@ -7418,6 +7421,7 @@
 ## Stan 
 
 - [ResearchActuary/ef_yield_curve_generators](https://github.com/ResearchActuary/ef_yield_curve_generators) - 
+- [stan-dev/posteriordb](https://github.com/stan-dev/posteriordb) - Database with posteriors of interest for Bayesian inference
 
 ## Starlark 
 
@@ -7426,7 +7430,6 @@
 ## Svelte 
 
 - [cristianpb/analytics-google](https://github.com/cristianpb/analytics-google) - Google analytics from cristianpb.github.io
-- [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [spences10/cheat-sheets](https://github.com/spences10/cheat-sheets) - Cheat Sheets 🐭🤖👀
 
 ## Swift 
@@ -7664,6 +7667,7 @@
 - [phibr0/obsidian-charts](https://github.com/phibr0/obsidian-charts) - Charts - Obsidian Plugin | Create editable, interactive and animated Charts in Obsidian via Chart.js
 - [PicGo/PicGo-Core](https://github.com/PicGo/PicGo-Core) - :zap:A tool for pictures uploading. Both CLI & API supports.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+- [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [Thinkmill/manypkg](https://github.com/Thinkmill/manypkg) - ☔️ An umbrella for your monorepo
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A collection of GitHub Actions for interfacing with Google Cloud Platform.
@@ -7897,6 +7901,7 @@
 
 ## Visual Basic .NET 
 
+- [xBidoof/FileWatcher](https://github.com/xBidoof/FileWatcher) - FileWatcher application for Windows only
 - [faffolao/Windows10_postinstall](https://github.com/faffolao/Windows10_postinstall) - Graphic tool for configure Windows 10 after a fresh installation. Based on the original "Win10-initial-setup-script" by Disassembler.
 - [Vitosh/VBA_personal](https://github.com/Vitosh/VBA_personal) - Library with VBA, used in multiple projects.
 - [SQL-Server-projects/Reporting-Services-examples](https://github.com/SQL-Server-projects/Reporting-Services-examples) - :closed_book: Various example reports I use for SQL Server Reporting Services (SSRS) as well as documents for unit testing, requirements and a style guide template.
