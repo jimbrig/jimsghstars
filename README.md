@@ -320,6 +320,7 @@
 
 ## C# # 
 
+- [svenmauch/WinSlap](https://github.com/svenmauch/WinSlap) - Swiftly configure a fresh Windows 10 installation with useful tweaks and antispy settings.
 - [BahKoo/ChocolateStore](https://github.com/BahKoo/ChocolateStore) - Cache chocolatey packages to efficiently provision multiple machines or VMs on a LAN
 - [chocolatey/nuget-chocolatey](https://github.com/chocolatey/nuget-chocolatey) - NuGet Enhanced for Chocolatey
 - [chocolatey-community/chocolatey-oneget](https://github.com/chocolatey-community/chocolatey-oneget) - OneGet Provider for Chocolatey
@@ -347,7 +348,7 @@
 - [EdiWang/Azure-Samples](https://github.com/EdiWang/Azure-Samples) - Code samples for blog posts on Azure
 - [monchack/WinIsoBurn](https://github.com/monchack/WinIsoBurn) - Simple ISO writing application for Windows
 - [nkdAgility/azure-devops-migration-tools](https://github.com/nkdAgility/azure-devops-migration-tools) - Azure DevOps Migration Tools allow you to migrate Teams, Backlogs, Tasks, Test Cases, and Plans & Suits from one Project to another in Azure DevOps / TFS both within the same Organisation, and between Organisations.
-- [geluk/pass-winmenu](https://github.com/geluk/pass-winmenu) - An easy-to-use Windows interface for pass
+- [geluk/pass-winmenu](https://github.com/geluk/pass-winmenu) - An easy-to-use password manager for Windows, compatible with pass.
 - [ArkaneDev/WinPass11](https://github.com/ArkaneDev/WinPass11) - 🔑 WinPass11 is a tool for installing Windows 11 on unsupported hardware.
 - [brunopaiva15/Redows](https://github.com/brunopaiva15/Redows) - Redows is a free and Open source utility for Windows.
 - [brunopaiva15/WinPE-Creation-Tool](https://github.com/brunopaiva15/WinPE-Creation-Tool) - WinPE Creation Tool is a free and Open source utility that allows you to create a complete WinPE environment, including a directory, an ISO and a bootable USB key.
@@ -1624,6 +1625,10 @@
 
 ## JavaScript 
 
+- [sindresorhus/cli-spinners](https://github.com/sindresorhus/cli-spinners) - Spinners for use in the terminal
+- [SamVerschueren/listr](https://github.com/SamVerschueren/listr) - Terminal task list
+- [eykrehbein/bang](https://github.com/eykrehbein/bang) - Custom (Google) "bangs" for Chrome and Firefox
+- [realdennis/shortcuts-mono](https://github.com/realdennis/shortcuts-mono) - iOS shortcuts monorepo, includes some development tools and useful shortcuts, using yarn workspace shortcuts-js.
 - [MehediH/GitCleanup](https://github.com/MehediH/GitCleanup) - Clean up your GitHub profile by deleting abandoned or empty repositories with just a few clicks.
 - [MehediH/gitgat](https://github.com/MehediH/gitgat) - A simple command to automatically generate .gitignore files for your project.
 - [MehediH/Bulksplash](https://github.com/MehediH/Bulksplash) - A simple command line tool that lets you bulk download images from Unsplash
@@ -2457,6 +2462,7 @@
 
 ## Jinja 
 
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [mdn/ansible-jenkins](https://github.com/mdn/ansible-jenkins) - Jenkins ansible playbook
 - [juju4/ansible-harden-windows](https://github.com/juju4/ansible-harden-windows) - Ansible role to harden windows system
 - [40net-cloud/fortinet-gcp-solutions](https://github.com/40net-cloud/fortinet-gcp-solutions) - GCP Deployment Manager templates for easy and automated deployments of various Fortigate architectures in Google Compute.
@@ -2617,6 +2623,11 @@
 
 ## Others 
 
+- [heliomass/iOSShortcuts](https://github.com/heliomass/iOSShortcuts) - A collection of shortcuts for the Shortcuts app.
+- [joshhighet/sirishortcuts](https://github.com/joshhighet/sirishortcuts) -  shortcuts 🎤 🏃🏽‍♂️
+- [sebj/iOS-Shortcuts-Reference](https://github.com/sebj/iOS-Shortcuts-Reference) - Reference documentation for the iOS Shortcuts app file structure
+- [jordanmerrick/shortcuts](https://github.com/jordanmerrick/shortcuts) - Shortcuts I've created.
+- [jordanmerrick/shortcutsdirectory](https://github.com/jordanmerrick/shortcutsdirectory) - A collection of user-submitted shortcuts for Shortcuts for iOS.
 - [ThePoShWolf/DemoRepo](https://github.com/ThePoShWolf/DemoRepo) - A repository to demonstrate module building
 - [DarwinJS/ChocoPackages](https://github.com/DarwinJS/ChocoPackages) - 
 - [ferventcoder/puppet-chocolatey-presentation](https://github.com/ferventcoder/puppet-chocolatey-presentation) - Chocolatey Presentation with the Puppets
@@ -2636,7 +2647,6 @@
 - [NerdMove/clean-experience](https://github.com/NerdMove/clean-experience) - A non-destructive registry preset to improve the default user-experience with windows 10.
 - [RobertoBiundo/Windows10Lite](https://github.com/RobertoBiundo/Windows10Lite) - A guide to create a Windows 10 Install ISO with no bloatware
 - [jahwi/Articles](https://github.com/jahwi/Articles) - A collection of articles written by me.
-- [Gorstak1979/Registry](https://github.com/Gorstak1979/Registry) - Registry tweaks
 - [Twigonometry/Cybersecurity-Notes](https://github.com/Twigonometry/Cybersecurity-Notes) - My Markdown notes for all things cybersecurity
 - [SysAdminDocs/gpg-docs](https://github.com/SysAdminDocs/gpg-docs) - GPG Documentation
 - [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE) - ⚡ Open GitHub repositories in online web IDE
@@ -7528,6 +7538,8 @@
 
 ## TypeScript 
 
+- [eykrehbein/cook](https://github.com/eykrehbein/cook) - 👨‍🍳 CLI Tool to create universal boilerplates
+- [joshfarrant/shortcuts-js](https://github.com/joshfarrant/shortcuts-js) - A JavaScript iOS 12 Shortcuts creator
 - [FlorianWoelki/obsidian-icon-folder](https://github.com/FlorianWoelki/obsidian-icon-folder) - 🗂 Simply add icons to your folders in Obsidian.
 - [koenverburg/site](https://github.com/koenverburg/site) - My slice of the internet built with Nextjs, TypeScript, and a whole lot more
 - [lynchjames/obsidian-mind-map](https://github.com/lynchjames/obsidian-mind-map) - An Obsidian plugin for displaying markdown notes as mind maps using Markmap.
