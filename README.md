@@ -320,6 +320,7 @@
 
 ## C# # 
 
+- [Windows-XAML/Template10](https://github.com/Windows-XAML/Template10) - Making Windows 10 apps great again
 - [svenmauch/WinSlap](https://github.com/svenmauch/WinSlap) - Swiftly configure a fresh Windows 10 installation with useful tweaks and antispy settings.
 - [BahKoo/ChocolateStore](https://github.com/BahKoo/ChocolateStore) - Cache chocolatey packages to efficiently provision multiple machines or VMs on a LAN
 - [chocolatey/nuget-chocolatey](https://github.com/chocolatey/nuget-chocolatey) - NuGet Enhanced for Chocolatey
@@ -334,7 +335,7 @@
 - [jimradford/superputty](https://github.com/jimradford/superputty) - The SuperPuTTY Window Manager for putty sessions
 - [baynezy/Html2Markdown](https://github.com/baynezy/Html2Markdown) - A library for converting HTML to markdown syntax in C#
 - [vbfox/win32iam](https://github.com/vbfox/win32iam) - Windows Installed Application Manager
-- [feel-the-dz3n/RegistryFileManager](https://github.com/feel-the-dz3n/RegistryFileManager) - Allows to add/move/remove real files to/from Windows Registry
+- [feel-the-dz3n/WindowsRegistryFileManager](https://github.com/feel-the-dz3n/WindowsRegistryFileManager) - Allows to add/move/remove real files to/from Windows Registry
 - [JannisKirschner/General-IT-Stuff](https://github.com/JannisKirschner/General-IT-Stuff) - This repository is meant to document my knowledge I've earned at work and in my spare time. Mostly System Engineering stuff :)
 - [AlexAsplund/PowershellStarter](https://github.com/AlexAsplund/PowershellStarter) - Starts Powershell scripts as service in windows
 - [belowaverage-org/SuperBGInfo](https://github.com/belowaverage-org/SuperBGInfo) - A re-creation of SysInternals BGInfo that doesn't touch the desktop wallpaper.
@@ -894,6 +895,7 @@
 
 ## Go 
 
+- [simeji/jid](https://github.com/simeji/jid) - json incremental digger
 - [vaughany/vcms](https://github.com/vaughany/vcms) - Vaughany's Computer Monitoring System.
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [dkaslovsky/textnote](https://github.com/dkaslovsky/textnote) - Simple tool for creating and organizing daily notes on the command line
@@ -1625,6 +1627,9 @@
 
 ## JavaScript 
 
+- [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
+- [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
+- [klaussinani/taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [sindresorhus/cli-spinners](https://github.com/sindresorhus/cli-spinners) - Spinners for use in the terminal
 - [SamVerschueren/listr](https://github.com/SamVerschueren/listr) - Terminal task list
 - [eykrehbein/bang](https://github.com/eykrehbein/bang) - Custom (Google) "bangs" for Chrome and Firefox
@@ -2623,6 +2628,7 @@
 
 ## Others 
 
+- [OliverMartini/dotfiles](https://github.com/OliverMartini/dotfiles) - dotfiles for Windows and WSL
 - [heliomass/iOSShortcuts](https://github.com/heliomass/iOSShortcuts) - A collection of shortcuts for the Shortcuts app.
 - [joshhighet/sirishortcuts](https://github.com/joshhighet/sirishortcuts) -  shortcuts 🎤 🏃🏽‍♂️
 - [sebj/iOS-Shortcuts-Reference](https://github.com/sebj/iOS-Shortcuts-Reference) - Reference documentation for the iOS Shortcuts app file structure
@@ -3543,6 +3549,7 @@
 
 ## PowerShell 
 
+- [syntaqx/dotfiles](https://github.com/syntaqx/dotfiles) - Personal dotfiles, period.
 - [devopssolver/ansible-molecule-vagrant](https://github.com/devopssolver/ansible-molecule-vagrant) - This is to test ansible roles/playbooks with molecule and vagrant
 - [rogerpence/powershell-robocopy-windows-backup](https://github.com/rogerpence/powershell-robocopy-windows-backup) - A backup system for Windows powered by PowerShell and RoboCopy
 - [dforge/backup_ps1](https://github.com/dforge/backup_ps1) - Powershell backup script for windows systems
@@ -3961,6 +3968,9 @@
 
 ## Python 
 
+- [Master-Hash/dotfiles](https://github.com/Master-Hash/dotfiles) - 最常用的列表和配置文件
+- [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+- [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [mwrock/Chocolatey-Packages](https://github.com/mwrock/Chocolatey-Packages) - Some packages that can be installed via chocolatey.org
 - [henrydevopr/postinstall](https://github.com/henrydevopr/postinstall) - Simple post install script, primarily made for ubuntu and Zorin OS
 - [ikus060/rdiffweb](https://github.com/ikus060/rdiffweb) - A simplified backup management software for quick access to your archives through an efficient web interface.
@@ -4339,6 +4349,8 @@
 
 ## R 
 
+- [tidymodels/parsnip](https://github.com/tidymodels/parsnip) - A tidy unified interface to models
+- [ropensci-review-tools/pkgcheck](https://github.com/ropensci-review-tools/pkgcheck) - Check whether a package is ready for submission to rOpenSci's peer-review system
 - [rstudio/reticulate](https://github.com/rstudio/reticulate) - R Interface to Python
 - [rstudio/packrat](https://github.com/rstudio/packrat) - Packrat is a dependency management system for R
 - [SebKrantz/fastverse](https://github.com/SebKrantz/fastverse) - An Extensible Suite of High-Performance and Low-Dependency Packages for Statistical Computing and Data Manipulation in R
@@ -6144,7 +6156,7 @@
 - [gadenbuie/js4shiny](https://github.com/gadenbuie/js4shiny) - Companion Package for JavaScript for Shiny Users
 - [yihui/Rd2roxygen](https://github.com/yihui/Rd2roxygen) - Convert Rd to roxygen documentation
 - [gadenbuie/metathis](https://github.com/gadenbuie/metathis) - :information_source: &lt;meta&gt; tags and social media cards for R-made web things
-- [clevr-dev/Shiny-GEM](https://github.com/clevr-dev/Shiny-GEM) - A data analysis web-app written in R Shiny.
+- [fresh2dev/Shiny-GEM](https://github.com/fresh2dev/Shiny-GEM) - A data analysis web-app written in R Shiny.
 - [rstudio/miniUI](https://github.com/rstudio/miniUI) - 
 - [mkearney/shinyapps_links](https://github.com/mkearney/shinyapps_links) - A collection of Shiny applications (links shared on Twitter)
 - [ThinkR-open/fcuk](https://github.com/ThinkR-open/fcuk) - A R package designed to help people with clumsy fingers.
@@ -6918,6 +6930,7 @@
 
 ## Ruby 
 
+- [Homebrew/linuxbrew-core](https://github.com/Homebrew/linuxbrew-core) - 🍻🐧 Core formulae for the Homebrew package manager on Linux
 - [chocolatey-community/puppet-chocolatey_server](https://github.com/chocolatey-community/puppet-chocolatey_server) - Chocolatey Simple Server Puppet Module
 - [chocolatey-archive/puppet-chocolatey](https://github.com/chocolatey-archive/puppet-chocolatey) - Chocolatey package provider
 - [ferventcoder/puppetlabs-powershell](https://github.com/ferventcoder/puppetlabs-powershell) - 
@@ -7102,6 +7115,10 @@
 
 ## Shell 
 
+- [basvandriel/dotfiles](https://github.com/basvandriel/dotfiles) - 
+- [santiMartDev/dotfiles](https://github.com/santiMartDev/dotfiles) - This is my dotfiles repo, please feel free to share and contribute!
+- [LeoColomb/.files](https://github.com/LeoColomb/.files) - 🔧 .files OS agnostic
+- [exTerEX/dotfiles](https://github.com/exTerEX/dotfiles) - My personal collection of .dotfiles tailed for Debian based distributions running WSL. It installs oh-my-bash for aliases, terminal themes, etc. and automatically connect .ssh, .gpg and .gitconfig configurations from Windows with Linux if running under WSL.
 - [popurax/dotfiles](https://github.com/popurax/dotfiles) - dotfiles tank → |basnhrc profile.ps1|
 - [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
 - [ericjaychi/sample-dotfiles](https://github.com/ericjaychi/sample-dotfiles) - A sample repo to store dotfiles
@@ -7419,7 +7436,7 @@
 - [strboul/dotfiles](https://github.com/strboul/dotfiles) - My workbench :toolbox:
 - [jcheng5/rhub-linux-builders](https://github.com/jcheng5/rhub-linux-builders) - Docker configuration for the Linux builders
 - [luong-komorebi/professional-programming](https://github.com/luong-komorebi/professional-programming) - A collection of full-stack resources for programmers.
-- [clevr-dev/ShinyStudio](https://github.com/clevr-dev/ShinyStudio) - A fully Dockerized, self-hosted development environment for teams. Develop where you serve.
+- [fresh2dev/ShinyStudio](https://github.com/fresh2dev/ShinyStudio) - A fully Dockerized, self-hosted development environment for teams. Develop where you serve.
 
 ## Smarty 
 
@@ -7538,6 +7555,8 @@
 
 ## TypeScript 
 
+- [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
+- [nrwl/nx](https://github.com/nrwl/nx) - Smart, Extensible Build Framework
 - [eykrehbein/cook](https://github.com/eykrehbein/cook) - 👨‍🍳 CLI Tool to create universal boilerplates
 - [joshfarrant/shortcuts-js](https://github.com/joshfarrant/shortcuts-js) - A JavaScript iOS 12 Shortcuts creator
 - [FlorianWoelki/obsidian-icon-folder](https://github.com/FlorianWoelki/obsidian-icon-folder) - 🗂 Simply add icons to your folders in Obsidian.
