@@ -139,6 +139,7 @@
 
 ## Batchfile 
 
+- [Ahsan40/MagicX-Toolbox](https://github.com/Ahsan40/MagicX-Toolbox) - Ultimate Tool to Control Your Windows 10.
 - [Paranoid-Dev/Paranoid-Backupper](https://github.com/Paranoid-Dev/Paranoid-Backupper) - Windows System Backupper, Compressor, Encrypter, and Cloud Uploader
 - [kmonsoor/winsetup](https://github.com/kmonsoor/winsetup) - setting up my Windows workstation using `Chocolatey` package manager
 - [Ventto/winbroom](https://github.com/Ventto/winbroom) - Windows 7+ Customization experiences.
@@ -633,6 +634,7 @@
 - [ramnathv/rChartsCalendar](https://github.com/ramnathv/rChartsCalendar) - rCharts binding for CalMap
 - [tomzorz/obsidian-toolkit](https://github.com/tomzorz/obsidian-toolkit) - Plugins, templates, css snippets and more for obsidian.md
 - [jimbrig/obsidian_vault](https://github.com/jimbrig/obsidian_vault) - Personal Obsidian Vault
+- [issaafalkattan/React-Landing-Page-Template](https://github.com/issaafalkattan/React-Landing-Page-Template) - A simple react one page landing page templates for startups/companies
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [djnavarro/pkgdowngirl](https://github.com/djnavarro/pkgdowngirl) - A Minimal Pkgdown Template
 - [jh3y/whirl](https://github.com/jh3y/whirl) - CSS loading animations with minimal effort!
@@ -765,6 +767,7 @@
 
 ## Clojure 
 
+- [leandrotk/functional-programming-learning-path](https://github.com/leandrotk/functional-programming-learning-path) - A Learning Path for Functional Programming
 - [krisajenkins/yesql](https://github.com/krisajenkins/yesql) - A Clojure library for using SQL.
 - [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://app.gitbook.com/@athensresearch/s/handbook/
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
@@ -1165,7 +1168,6 @@
 - [cheny0y0/windows-iso-source](https://github.com/cheny0y0/windows-iso-source) - Provide Windows Setup ISO file. (Notice: I don't provide the product keys)
 - [zabore/intro-to-r-rstudio](https://github.com/zabore/intro-to-r-rstudio) - 
 - [IndrajeetPatil/codeswitchR](https://github.com/IndrajeetPatil/codeswitchR) - A list of helpful R packages to learn other programming languages or workflows
-- [tallguyjenks/DevLog](https://github.com/tallguyjenks/DevLog) - My DevLog detailing my learnings in Tech
 - [RichardLitt/knowledge](https://github.com/RichardLitt/knowledge) - 💡 document everything
 - [razi-rais/microservices](https://github.com/razi-rais/microservices) - Education & lessons learned from the field. Mainly focusing on AKS and Containers.
 - [rladies/meetup-presentations_nairobi](https://github.com/rladies/meetup-presentations_nairobi) - 
@@ -1627,6 +1629,9 @@
 
 ## JavaScript 
 
+- [whygareth/wzrand](https://github.com/whygareth/wzrand) - 
+- [knrt10/cloudinary-cli](https://github.com/knrt10/cloudinary-cli) - Manage files of cloudinary.com using your command line.
+- [edent/TweeView](https://github.com/edent/TweeView) - A Tree View For Tweets
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [klaussinani/taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
@@ -1694,6 +1699,7 @@
 - [raindropio/desktop](https://github.com/raindropio/desktop) - Official Raindrop.io Desktop App
 - [jimbrig/.obsidian](https://github.com/jimbrig/.obsidian) - Default Obsidian Vault Configurations
 - [cmartinezone/MDTCustom](https://github.com/cmartinezone/MDTCustom) - Customizing Windows images, scripts and deployments with MDT (Microsoft Deployment Toolkit)
+- [tallguyjenks/DevLog](https://github.com/tallguyjenks/DevLog) - My DevLog detailing my learnings in Tech
 - [xg-wang/.obsidian](https://github.com/xg-wang/.obsidian) - Obsidian configs
 - [jawil/blog](https://github.com/jawil/blog) - Too young, too simple. Sometimes, naive & stupid 🐌
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
@@ -1753,7 +1759,6 @@
 - [learnwithjason/lets-learn-obsidian](https://github.com/learnwithjason/lets-learn-obsidian) - 
 - [Flutterwave/rave-react-native](https://github.com/Flutterwave/rave-react-native) - Rave react native SDK
 - [QBisConsult/psql-api](https://github.com/QBisConsult/psql-api) - RAPID RESTful API for PostgreSQL
-- [issaafalkattan/React-Landing-Page-Template](https://github.com/issaafalkattan/React-Landing-Page-Template) - A simple react one page landing page templates for startups/companies
 - [vikrantnegi/react-native-location-tracking](https://github.com/vikrantnegi/react-native-location-tracking) - Track User location and draws the path you have taken
 - [paaatrick/playball](https://github.com/paaatrick/playball) - Watch MLB games from the comfort of your own terminal
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
@@ -2628,6 +2633,12 @@
 
 ## Others 
 
+- [Syampuuh/CoDMW19](https://github.com/Syampuuh/CoDMW19) - Call of Duty: Modern Warfare 2019 client tracking
+- [microsoft/kubernetes-learning-path](https://github.com/microsoft/kubernetes-learning-path) - https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/
+- [gopinav/Learning-Path-Resources](https://github.com/gopinav/Learning-Path-Resources) - PDFs related to the Learning Path videos from YouTube
+- [TechPrimers/learning-path-spring-boot-microservices](https://github.com/TechPrimers/learning-path-spring-boot-microservices) - Curated path for learning Spring Boot & Microservices based on published videos in TechPrimers
+- [shovanch/fullstack-web-developer-path](https://github.com/shovanch/fullstack-web-developer-path) - 📚 A learning path for Full-stack web development
+- [hrbrmstr/2021-09-13-cdatao-data-driven-security-resources](https://github.com/hrbrmstr/2021-09-13-cdatao-data-driven-security-resources) - Resources for CMU CDataO Data-Driven Security (2021-09-13)
 - [OliverMartini/dotfiles](https://github.com/OliverMartini/dotfiles) - dotfiles for Windows and WSL
 - [heliomass/iOSShortcuts](https://github.com/heliomass/iOSShortcuts) - A collection of shortcuts for the Shortcuts app.
 - [joshhighet/sirishortcuts](https://github.com/joshhighet/sirishortcuts) -  shortcuts 🎤 🏃🏽‍♂️
@@ -2649,7 +2660,6 @@
 - [iidanL/Fido](https://github.com/iidanL/Fido) - A PowerShell script to download Windows retail ISOs
 - [jonashackt/ansible-windows-springboot](https://github.com/jonashackt/ansible-windows-springboot) - Example project showing how to provision, deploy and run a Spring Boot app as a Windows Service using Ansible, chocolatey & nssm
 - [nukexls/Softexe.net](https://github.com/nukexls/Softexe.net) - 
-- [Gorstak1979/Xml](https://github.com/Gorstak1979/Xml) - Random files
 - [NerdMove/clean-experience](https://github.com/NerdMove/clean-experience) - A non-destructive registry preset to improve the default user-experience with windows 10.
 - [RobertoBiundo/Windows10Lite](https://github.com/RobertoBiundo/Windows10Lite) - A guide to create a Windows 10 Install ISO with no bloatware
 - [jahwi/Articles](https://github.com/jahwi/Articles) - A collection of articles written by me.
@@ -3852,7 +3862,7 @@
 - [Ash258/Scoop-Sysinternals](https://github.com/Ash258/Scoop-Sysinternals) - All Sysinternals tools separately.
 - [Ash258/Scoop-JetBrains](https://github.com/Ash258/Scoop-JetBrains) - All JetBrains Utilities and IDEs
 - [Ash258/GithubActionsBucketForTesting](https://github.com/Ash258/GithubActionsBucketForTesting) - Test repo for https://github.com/shovel-org/GithubActions
-- [Ash258/Scoop-Ash258](https://github.com/Ash258/Scoop-Ash258) - Personal bucket with wide variety of applications of all kind.
+- [Ash258/Shovel-Ash258](https://github.com/Ash258/Shovel-Ash258) - Personal Shovel bucket with a wide variety of applications of all kinds.
 - [ScoopInstaller/Install](https://github.com/ScoopInstaller/Install) - 📥 WIP: Next-generation Scoop (un)installer
 - [Ash258/Scoop-Core](https://github.com/Ash258/Scoop-Core) - Shovel. Alternative, more advanced, and user-friendly implementation of windows command-line installer scoop.
 - [darkoperator/Posh-VirusTotal](https://github.com/darkoperator/Posh-VirusTotal) - PowerShell Module to interact with VirusTotal
@@ -3968,6 +3978,8 @@
 
 ## Python 
 
+- [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
+- [cloudinary/cloudinary-cli](https://github.com/cloudinary/cloudinary-cli) - A command line interface for Cloudinary's APIs
 - [Master-Hash/dotfiles](https://github.com/Master-Hash/dotfiles) - 最常用的列表和配置文件
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
@@ -4334,6 +4346,7 @@
 - [cmu-lib/printprob-db](https://github.com/cmu-lib/printprob-db) - Database and interface for Print and Probability project
 - [KevinMusgrave/easy-module-attribute-getter](https://github.com/KevinMusgrave/easy-module-attribute-getter) - Fetch and initialize objects in one line, without any if-statements or dictionaries. Merge and override complex config options at the command line.
 - [ctjacobs/git-rdm](https://github.com/ctjacobs/git-rdm) - A research data management plugin for the Git version control system.
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [airbnb/knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions.
 - [drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -4349,6 +4362,13 @@
 
 ## R 
 
+- [churchill-lab/ensimplR](https://github.com/churchill-lab/ensimplR) - Simple R API into ensimpl data
+- [HenrikBengtsson/R.devices](https://github.com/HenrikBengtsson/R.devices) - 🎨 R package: Unified Handling of Graphics Devices
+- [rivasiker/ggHoriPlot](https://github.com/rivasiker/ggHoriPlot) - 
+- [PhanstielLab/plotgardener](https://github.com/PhanstielLab/plotgardener) - 
+- [verasls/impactr](https://github.com/verasls/impactr) - {impactr} Mechanical loading prediction based on accelerometer data
+- [stephenbalogun/tidyndr](https://github.com/stephenbalogun/tidyndr) - Analysis of the Nigeria National Data Repository (NDR)
+- [rickhelmus/patRoon](https://github.com/rickhelmus/patRoon) - Workflow solutions for mass-spectrometry based non-target analysis.
 - [tidymodels/parsnip](https://github.com/tidymodels/parsnip) - A tidy unified interface to models
 - [ropensci-review-tools/pkgcheck](https://github.com/ropensci-review-tools/pkgcheck) - Check whether a package is ready for submission to rOpenSci's peer-review system
 - [rstudio/reticulate](https://github.com/rstudio/reticulate) - R Interface to Python
@@ -5406,7 +5426,6 @@
 - [cole-brokamp/shiny_docker](https://github.com/cole-brokamp/shiny_docker) - A robust method to automatically dockerize your R Shiny Application
 - [deanmarchiori/dockerised-shiny](https://github.com/deanmarchiori/dockerised-shiny) - Basic example of running shiny in docker
 - [stephstammel/excelTransition](https://github.com/stephstammel/excelTransition) - 
-- [dfalbel/flowery](https://github.com/dfalbel/flowery) - Make R a more flowery language with generators and transducers
 - [decryptr/decryptr](https://github.com/decryptr/decryptr) - An extensible API for breaking captchas
 - [SEEG-Oxford/movement](https://github.com/SEEG-Oxford/movement) - R package containing useful functions for the analysis of movement data in disease modelling and mapping
 - [moodymudskipper/ggframe](https://github.com/moodymudskipper/ggframe) - data frames that print as ggplots
@@ -7065,6 +7084,7 @@
 
 ## SCSS 
 
+- [benbrignell/principles.design](https://github.com/benbrignell/principles.design) - An open source collection of design principles and methods.
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [AnilSeervi/DevFolio](https://github.com/AnilSeervi/DevFolio) - A Minimal Portfolio Template for Developers with easy setup process documented(with hosting).
 - [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
@@ -7555,6 +7575,7 @@
 
 ## TypeScript 
 
+- [4lch4/Lib-HN](https://github.com/4lch4/Lib-HN) - A library for interacting with the HackerNews API.
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Extensible Build Framework
 - [eykrehbein/cook](https://github.com/eykrehbein/cook) - 👨‍🍳 CLI Tool to create universal boilerplates
@@ -7850,7 +7871,6 @@
 - [y-lohse/inkjs](https://github.com/y-lohse/inkjs) - A javascript port of inkle's ink scripting language.
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [zendeskgarden/react-containers](https://github.com/zendeskgarden/react-containers) - :seedling: garden React (no-UI) containers
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube.js — Open-Source Analytical API Platform
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
