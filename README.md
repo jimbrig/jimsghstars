@@ -117,6 +117,7 @@
 
 ## AutoHotkey 
 
+- [eladkarako/AutoHotKey](https://github.com/eladkarako/AutoHotKey) - my scripts include compiled stuff
 - [matarum/TuoGui](https://github.com/matarum/TuoGui) - graphic user interface for Tyrant Unleashed Optimizer
 - [ferventcoder/chocolateyautomaticpackages](https://github.com/ferventcoder/chocolateyautomaticpackages) - Deprecated - use https://github.com/ferventcoder/chocolatey-packages now
 - [7plus/7plus](https://github.com/7plus/7plus) - Improving Windows, one by one
@@ -139,6 +140,10 @@
 
 ## Batchfile 
 
+- [ChrisTitusTech/win10RegistryBackup](https://github.com/ChrisTitusTech/win10RegistryBackup) - 
+- [ChrisTitusTech/win10-fixtimers](https://github.com/ChrisTitusTech/win10-fixtimers) - 
+- [ChrisTitusTech/windows10-checkup](https://github.com/ChrisTitusTech/windows10-checkup) - 
+- [ChrisTitusTech/windows-lite-1903](https://github.com/ChrisTitusTech/windows-lite-1903) - Cleanup Scripts for a bare 1903 - AME style
 - [Ahsan40/MagicX-Toolbox](https://github.com/Ahsan40/MagicX-Toolbox) - Ultimate Tool to Control Your Windows 10.
 - [Paranoid-Dev/Paranoid-Backupper](https://github.com/Paranoid-Dev/Paranoid-Backupper) - Windows System Backupper, Compressor, Encrypter, and Cloud Uploader
 - [kmonsoor/winsetup](https://github.com/kmonsoor/winsetup) - setting up my Windows workstation using `Chocolatey` package manager
@@ -211,6 +216,7 @@
 
 ## C 
 
+- [gearsix/bfme2-installer](https://github.com/gearsix/bfme2-installer) - An ISO install wrapper for (specifically for Lord of the Rings: Battle for Middle-Earth 2). It mounts .iso files, runs the installer (on disc) and applies the no cd crack so that you don't need to re-mount the .iso files everytime you run the game.
 - [rprichard/altdrag](https://github.com/rprichard/altdrag) - :file_folder: Easily drag windows when pressing the alt key. (Windows)
 - [hkneptune/CopyHandler](https://github.com/hkneptune/CopyHandler) - A Copy of Copy Handler Source Code. This repository is just a mirror of the Copy Handler source code. Please do not send pull requests.
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
@@ -321,6 +327,7 @@
 
 ## C# # 
 
+- [eladkarako/Windows-ISO-Downloader-source](https://github.com/eladkarako/Windows-ISO-Downloader-source) - [C#] Windows-ISO-Downloader source-code, reverse-engineered for education purposes. Unmodified.
 - [Windows-XAML/Template10](https://github.com/Windows-XAML/Template10) - Making Windows 10 apps great again
 - [svenmauch/WinSlap](https://github.com/svenmauch/WinSlap) - Swiftly configure a fresh Windows 10 installation with useful tweaks and antispy settings.
 - [BahKoo/ChocolateStore](https://github.com/BahKoo/ChocolateStore) - Cache chocolatey packages to efficiently provision multiple machines or VMs on a LAN
@@ -1143,6 +1150,9 @@
 
 ## HTML 
 
+- [maple3142/GDIndex](https://github.com/maple3142/GDIndex) - A Google Drive Index built with Vue Running on CloudFlare Workers
+- [TheBobPony/BPDownloadsGUI](https://github.com/TheBobPony/BPDownloadsGUI) - A easy to use Downloader UI
+- [ChrisTitusTech/website](https://github.com/ChrisTitusTech/website) - 
 - [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker's Documentation
 - [Markavian/html-table-to-markdown-converter](https://github.com/Markavian/html-table-to-markdown-converter) - Converts HTML tables to Markdown. Paste in, click Convert.
 - [rtpsug/Meetups](https://github.com/rtpsug/Meetups) - Content from our Online and In-Person Meetups
@@ -1202,7 +1212,6 @@
 - [dgrtwo/dgrtwo.github.com](https://github.com/dgrtwo/dgrtwo.github.com) - My website
 - [vfarcic/vfarcic.github.io](https://github.com/vfarcic/vfarcic.github.io) - 
 - [jimbrig/jimsdocs](https://github.com/jimbrig/jimsdocs) - R Blog written with Distill.
-- [daattali/shinywc](https://github.com/daattali/shinywc) - 
 - [datasketch/dspins](https://github.com/datasketch/dspins) - 
 - [skgrange/skgrange.github.io](https://github.com/skgrange/skgrange.github.io) - Personal website repository which is hosted at http://skgrange.github.io/
 - [pbiecek/BioColl2021](https://github.com/pbiecek/BioColl2021) - Notes for the tutorial "Introduction to Machine Learning with R" given at "Biometrisches Kolloquium 2021"
@@ -1629,6 +1638,10 @@
 
 ## JavaScript 
 
+- [luzeadev/techbench-dump-web](https://github.com/luzeadev/techbench-dump-web) - An easy to use website to generate links for Microsoft products.
+- [luzeadev/google-drive-index-worker](https://github.com/luzeadev/google-drive-index-worker) - Modified version of maple3142/GDIndex.
+- [Lierrmm/Node-CallOfDuty](https://github.com/Lierrmm/Node-CallOfDuty) - Node Wrapper for the "private" Call Of Duty API.
+- [silas/node-papi](https://github.com/silas/node-papi) - Library for building HTTP API clients
 - [whygareth/wzrand](https://github.com/whygareth/wzrand) - 
 - [knrt10/cloudinary-cli](https://github.com/knrt10/cloudinary-cli) - Manage files of cloudinary.com using your command line.
 - [edent/TweeView](https://github.com/edent/TweeView) - A Tree View For Tweets
@@ -1781,7 +1794,6 @@
 - [ardaogulcan/react-native-keyboard-accessory](https://github.com/ardaogulcan/react-native-keyboard-accessory) - A React Native Keyboard Accessory (View, Navigation) Component. Sticky views on keyboard.
 - [CodingGarden/travel-log](https://github.com/CodingGarden/travel-log) - A full stack application to store / list places you have traveled.
 - [magus/next-magic-auth](https://github.com/magus/next-magic-auth) - magic authentication with just your email, no third parties required
-- [powwater/reactnative_map_app](https://github.com/powwater/reactnative_map_app) - Example React Native App using Google Map's Search Autocomplete and Geolocation APIs
 - [tunnelWithAC/react-native-todo](https://github.com/tunnelWithAC/react-native-todo) - Created with CodeSandbox
 - [klmr/klmr.github.io](https://github.com/klmr/klmr.github.io) - My website
 - [necolas/react-native-web](https://github.com/necolas/react-native-web) - React Native Components and APIs for the Web
@@ -2633,6 +2645,14 @@
 
 ## Others 
 
+- [hannesknutsson/BultiMoot](https://github.com/hannesknutsson/BultiMoot) - A collection of scripts and configurations for setting up a storage device for live booting and installing multiple different operating systems from ISO-files.
+- [luzeadev/luzeadev](https://github.com/luzeadev/luzeadev) - 
+- [luzeadev/microsoft-download-link-archive](https://github.com/luzeadev/microsoft-download-link-archive) - Archive of various Microsoft Download Links.
+- [ivansandrk/multi-apps](https://github.com/ivansandrk/multi-apps) - Repository hosting the feature explainer
+- [philloooo/pwa-unique-id](https://github.com/philloooo/pwa-unique-id) - 
+- [shahedbd/awesome-project-management](https://github.com/shahedbd/awesome-project-management) - Awesome lists about Project Management interesting and useful topics.
+- [ChrisTitusTech/Windows-10-UTC](https://github.com/ChrisTitusTech/Windows-10-UTC) - 
+- [ChrisTitusTech/Fix-Network-Dives-Win10](https://github.com/ChrisTitusTech/Fix-Network-Dives-Win10) - 
 - [Syampuuh/CoDMW19](https://github.com/Syampuuh/CoDMW19) - Call of Duty: Modern Warfare 2019 client tracking
 - [microsoft/kubernetes-learning-path](https://github.com/microsoft/kubernetes-learning-path) - https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/
 - [gopinav/Learning-Path-Resources](https://github.com/gopinav/Learning-Path-Resources) - PDFs related to the Learning Path videos from YouTube
@@ -3402,7 +3422,6 @@
 - [learn-anything/curated-lists](https://github.com/learn-anything/curated-lists) - Curated lists on various topics
 - [postlight/awesome-cms](https://github.com/postlight/awesome-cms) - 📚 A collection of open and closed source Content Management Systems (CMS) for your perusal.
 - [Zettelkasten-Method/The-Archive-Themes](https://github.com/Zettelkasten-Method/The-Archive-Themes) - The Archive userland for app themes
-- [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
 - [microsoft/Windows-Dev-Performance](https://github.com/microsoft/Windows-Dev-Performance) - A repo for developers on Windows to file issues that impede their productivity, efficiency, and efficacy
 - [josedv82/shinyAMS-resources](https://github.com/josedv82/shinyAMS-resources) - A compilation of resources for sport scientist building Athlete Management Tools in Shiny
 - [github/renaming](https://github.com/github/renaming) - Guidance for changing the default branch name for GitHub repositories
@@ -3559,6 +3578,10 @@
 
 ## PowerShell 
 
+- [ryanmaclean/Windows-10-Annoyance-Free-Automated-Install](https://github.com/ryanmaclean/Windows-10-Annoyance-Free-Automated-Install) - A guide to creating a Windows 10 install without all of the "extras" - disabled One Drive, Soda Crush, etc
+- [Samdotr/onedrive-per-machine-install](https://github.com/Samdotr/onedrive-per-machine-install) - Installs the Microsoft OneDrive sync app per machine (not per user!)
+- [aaronparker/image-customise](https://github.com/aaronparker/image-customise) - Customise a Windows 10 / Windows Server image at deployment time
+- [haavarstein/Automation-Framework-Community-Edition](https://github.com/haavarstein/Automation-Framework-Community-Edition) - 
 - [syntaqx/dotfiles](https://github.com/syntaqx/dotfiles) - Personal dotfiles, period.
 - [devopssolver/ansible-molecule-vagrant](https://github.com/devopssolver/ansible-molecule-vagrant) - This is to test ansible roles/playbooks with molecule and vagrant
 - [rogerpence/powershell-robocopy-windows-backup](https://github.com/rogerpence/powershell-robocopy-windows-backup) - A backup system for Windows powered by PowerShell and RoboCopy
@@ -3978,6 +4001,10 @@
 
 ## Python 
 
+- [mgedmin/bootable-iso](https://github.com/mgedmin/bootable-iso) - Bootable USB disk that lets you choose an ISO image
+- [chefe/windown](https://github.com/chefe/windown) - A script to download the latest windows iso from the official microsoft servers.
+- [luzeadev/techbench-json-dump](https://github.com/luzeadev/techbench-json-dump) - Dump Tech Bench metadata to a JSON file.
+- [luzeadev/uupy](https://github.com/luzeadev/uupy) - Unofficial Unified Update Platform Client
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [cloudinary/cloudinary-cli](https://github.com/cloudinary/cloudinary-cli) - A command line interface for Cloudinary's APIs
 - [Master-Hash/dotfiles](https://github.com/Master-Hash/dotfiles) - 最常用的列表和配置文件
@@ -4653,8 +4680,8 @@
 - [dgrtwo/drlib](https://github.com/dgrtwo/drlib) - Personal R package
 - [chriscardillo/giftwrap](https://github.com/chriscardillo/giftwrap) - Take shell commands and turn them into R functions
 - [dgrtwo/cranview](https://github.com/dgrtwo/cranview) - A Shiny app to visualize downloads from RStudio's CRAN mirror
-- [powwater/pow_vendor](https://github.com/powwater/pow_vendor) - Vendor Dashboard Shiny Web Application
 - [jimbrig/jimstemplates](https://github.com/jimbrig/jimstemplates) - Personal Templates
+- [daattali/shinywc](https://github.com/daattali/shinywc) - 
 - [datasketch/parmesan](https://github.com/datasketch/parmesan) - 
 - [Pascal-Schmidt/A-Data-Driven-Approach-to-Evaluating-the-Vancouver-Housing-Market](https://github.com/Pascal-Schmidt/A-Data-Driven-Approach-to-Evaluating-the-Vancouver-Housing-Market) - 
 - [Pascal-Schmidt/shiny-stocks](https://github.com/Pascal-Schmidt/shiny-stocks) - 
@@ -7135,6 +7162,16 @@
 
 ## Shell 
 
+- [Broly1/Windusb](https://github.com/Broly1/Windusb) - Bash script to create Windows usb installers on macOS and Linux.
+- [aguslr/multibootusb](https://github.com/aguslr/multibootusb) - A collection of GRUB files and scripts that will allow you to create a pendrive capable of booting different ISO files
+- [andresgongora/bash-tools](https://github.com/andresgongora/bash-tools) - A collection of bash utility scripts
+- [andresgongora/synth-shell](https://github.com/andresgongora/synth-shell) - Boost your terminal, script by script
+- [ChrisTitusTech/scripts](https://github.com/ChrisTitusTech/scripts) - My personal collection of bash scripts. Some are even useful ;)
+- [ChrisTitusTech/Ubuntu18-setup](https://github.com/ChrisTitusTech/Ubuntu18-setup) - First time setup script for Ubuntu 18
+- [ChrisTitusTech/web-tools](https://github.com/ChrisTitusTech/web-tools) - 
+- [ChrisTitusTech/git-setup](https://github.com/ChrisTitusTech/git-setup) - Basic setup for git on new install
+- [ChrisTitusTech/rocky-install](https://github.com/ChrisTitusTech/rocky-install) - 
+- [ChrisTitusTech/zsh](https://github.com/ChrisTitusTech/zsh) - My ZSH Config
 - [basvandriel/dotfiles](https://github.com/basvandriel/dotfiles) - 
 - [santiMartDev/dotfiles](https://github.com/santiMartDev/dotfiles) - This is my dotfiles repo, please feel free to share and contribute!
 - [LeoColomb/.files](https://github.com/LeoColomb/.files) - 🔧 .files OS agnostic
@@ -7909,6 +7946,8 @@
 
 ## Vim script 
 
+- [grawity/dotfiles](https://github.com/grawity/dotfiles) - 
+- [ChrisTitusTech/myvim](https://github.com/ChrisTitusTech/myvim) - 
 - [hirsaeki/wsl_provision](https://github.com/hirsaeki/wsl_provision) - ansible playbook provision wsl
 - [hirsaeki/dotfiles](https://github.com/hirsaeki/dotfiles) - my dotfiles
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration
