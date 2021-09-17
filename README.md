@@ -227,6 +227,8 @@
 
 ## C 
 
+- [MidnightCommander/mc](https://github.com/MidnightCommander/mc) - Midnight Commander's repository
+- [cmus/cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems.
 - [SenegalLang/Senegal](https://github.com/SenegalLang/Senegal) - Senegal programming language
 - [ring-lang/ring](https://github.com/ring-lang/ring) - Simple and flexible programming language for applications development
 - [IoLanguage/io](https://github.com/IoLanguage/io) - Io programming language. Inspired by Self, Smalltalk and LISP.
@@ -345,6 +347,9 @@
 
 ## C# # 
 
+- [stnkl/EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - Everything integration for the Windows taskbar.
+- [Inedo/upack](https://github.com/Inedo/upack) - upack.exe is a command-line tool used to create and install universal packages; you can also see which packages are installed on a machine.
+- [Inedo/iconmaker](https://github.com/Inedo/iconmaker) - Simple tool for creating .ico format images
 - [dotnet/csharplang](https://github.com/dotnet/csharplang) - The official repo for the design of the C# programming language
 - [dotnet/roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
@@ -520,6 +525,11 @@
 
 ## C++ 
 
+- [trexinc/evil-programmers](https://github.com/trexinc/evil-programmers) - Misc. Far plugins and tools by evil programmers
+- [Maximus5/FarPlugins](https://github.com/Maximus5/FarPlugins) - Some plugins for Far Manager
+- [FarGroup/FarManager](https://github.com/FarGroup/FarManager) - File and Archive Manager
+- [clangen/musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++
+- [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 - [beefytech/Beef](https://github.com/beefytech/Beef) - Beef Programming Language
 - [livecode/livecode](https://github.com/livecode/livecode) - LiveCode cross-platform development environment (engine)
@@ -888,7 +898,6 @@
 - [robertdj/r-dockerfiles](https://github.com/robertdj/r-dockerfiles) - Dockerfiles for R
 - [ericsgagnon/rlang-shiny-oci-docker](https://github.com/ericsgagnon/rlang-shiny-oci-docker) - Multi-stage docker build to extend rocker/shiny-verse with oracle oci
 - [vasudevgupta7/ds-toolkit](https://github.com/vasudevgupta7/ds-toolkit) - Some useful stuff for a software/ML engineer
-- [mcanouil/coeos](https://github.com/mcanouil/coeos) - My own Docker image
 - [G-Thomson/EfficientR_Docker](https://github.com/G-Thomson/EfficientR_Docker) - Unofficial Docker image for Efficient R programming by Colin Gillespie and  Robin Lovelace
 - [darkbitio/mkit](https://github.com/darkbitio/mkit) - MKIT is a Managed Kubernetes Inspection Tool that validates several common security-related configuration settings of managed Kubernetes cluster objects and the workloads/resources running inside the cluster.
 - [maddox/actions](https://github.com/maddox/actions) - A collection of useful GitHub Actions
@@ -1777,7 +1786,6 @@
 - [Rohithv07/Docker](https://github.com/Rohithv07/Docker) - My Workplay on Docker and Kubernetes. Ref : https://github.com/Rohithv07/DockerCasts
 - [mdn/data](https://github.com/mdn/data) - This repository contains general data for Web technologies
 - [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
-- [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [fastify/fastify-nextjs](https://github.com/fastify/fastify-nextjs) - React server side rendering support for Fastify with Next
 - [styxlab/gatsby-starter-try-ghost](https://github.com/styxlab/gatsby-starter-try-ghost) - Publish flaring fast blogs with Gatsby and Ghost
 - [acorcutt/next-multi-host](https://github.com/acorcutt/next-multi-host) - Multiple domains hosting on next.js
@@ -2164,7 +2172,7 @@
 - [rstudio/reactlog](https://github.com/rstudio/reactlog) - Shiny Reactivity Visualizer
 - [chrisfitkin/gatsby-query-string-demo](https://github.com/chrisfitkin/gatsby-query-string-demo) - Demonstrates dynamic content based on query string values in Gatsby
 - [sinedied/publish-devto](https://github.com/sinedied/publish-devto) - :postbox: GitHub Action to publish markdown files on dev.to platform, with assets hosted on GitHub.
-- [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - 🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
+- [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [ottomatica/docable-notebooks](https://github.com/ottomatica/docable-notebooks) - :ledger: Next-Generation Interactive Notebooks
 - [vanila-io/wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
 - [wakatime/chrome-wakatime](https://github.com/wakatime/chrome-wakatime) - Chrome extension for automatic time tracking and metrics generated from your browsing activity.
@@ -2751,6 +2759,8 @@
 
 ## Others 
 
+- [Deyda/Evergreen-1](https://github.com/Deyda/Evergreen-1) - Create evergeen Windows image build scripts with the latest version and download links for applications
+- [Daiz/manga-naming-scheme](https://github.com/Daiz/manga-naming-scheme) - Manga Filename Scheme
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
 - [limetext/lime](https://github.com/limetext/lime) - Open source API-compatible alternative to the text editor Sublime Text
 - [hannesknutsson/BultiMoot](https://github.com/hannesknutsson/BultiMoot) - A collection of scripts and configurations for setting up a storage device for live booting and installing multiple different operating systems from ISO-files.
@@ -2891,7 +2901,7 @@
 - [BiltuDas1/RepackInstalledWindows](https://github.com/BiltuDas1/RepackInstalledWindows) - This Package Will Help you to Repack your Current Operating System into an install.wim file
 - [builtbybel/sharpapp](https://github.com/builtbybel/sharpapp) - 💩⭐️🚀A #app with cutting edge technology to #minimize windows-10 telemetry and #maximize privacy plus many more
 - [builtbybel/CloneApp](https://github.com/builtbybel/CloneApp) - 📦Easily Backup & Restore Windows Programs Settings
-- [MajorGeek/MajorGeeks-Windows-Tweaks](https://github.com/MajorGeek/MajorGeeks-Windows-Tweaks) - MajorGeeks Windows Tweaks contains approximately 218 registry, PowerShell, Visual Basic, and batch files to enable tweaks and hidden features in Windows 10, 8, and 7 for any skill level.
+- [MajorGeek/MajorGeeks-Windows-Tweaks](https://github.com/MajorGeek/MajorGeeks-Windows-Tweaks) - MajorGeeks Windows Tweaks contains well over 200  registry, PowerShell, Visual Basic, and batch files to enable tweaks and hidden features in Windows 10, 8, and 7 for any skill level.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [fanfan54/dotfiles-windows](https://github.com/fanfan54/dotfiles-windows) - :gear: The dotfiles (configuration files) and Chocolatey packages I use on Windows environments, forked from the dotfiles of https://github.com/jayharris/dotfiles-windows. Built in PowerShell.
 - [scottdorman/microsoft-terminal-settings](https://github.com/scottdorman/microsoft-terminal-settings) - A collection of profiles, color schemes and other settings for Windows Terminal
@@ -3686,6 +3696,12 @@
 
 ## PowerShell 
 
+- [jacqinthebox/packer-templates](https://github.com/jacqinthebox/packer-templates) - Building a development environment with Vagrant, Packer, Windows 10 and Server 2016
+- [Deyda/Snippets](https://github.com/Deyda/Snippets) - 
+- [Deyda/BIS-F](https://github.com/Deyda/BIS-F) - Base Image Script Framework (BIS-F)
+- [Deyda/Microsoft](https://github.com/Deyda/Microsoft) - 
+- [Deyda/Documentation](https://github.com/Deyda/Documentation) - 
+- [Deyda/Evergreen-Script](https://github.com/Deyda/Evergreen-Script) - 
 - [michaeltlombardi/Puppet.Dsc](https://github.com/michaeltlombardi/Puppet.Dsc) - 
 - [michaeltlombardi/chocomatic-packages](https://github.com/michaeltlombardi/chocomatic-packages) - Chocolatey packages, automatically updated.
 - [MicrosoftDocs/windows-insider](https://github.com/MicrosoftDocs/windows-insider) - Technical documentation for the Windows Insider Program
@@ -4124,6 +4140,7 @@
 
 ## Python 
 
+- [cfangmeier/tuijam](https://github.com/cfangmeier/tuijam) - A fancy TUI client for Google Play Music
 - [sagesharp/foss-heartbeat](https://github.com/sagesharp/foss-heartbeat) - (Unmaintained) FOSS Heartbeat analyses the health of a community of contributors. :heartbeat:
 - [DennisMitchell/jellylanguage](https://github.com/DennisMitchell/jellylanguage) - Jelly is a recreational programming language inspired by J.
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
@@ -4519,7 +4536,7 @@
 
 - [churchill-lab/ensimplR](https://github.com/churchill-lab/ensimplR) - Simple R API into ensimpl data
 - [HenrikBengtsson/R.devices](https://github.com/HenrikBengtsson/R.devices) - 🎨 R package: Unified Handling of Graphics Devices
-- [rivasiker/ggHoriPlot](https://github.com/rivasiker/ggHoriPlot) - 
+- [rivasiker/ggHoriPlot](https://github.com/rivasiker/ggHoriPlot) - A user-friendly, highly customizable R package for building horizon plots in ggplot2
 - [PhanstielLab/plotgardener](https://github.com/PhanstielLab/plotgardener) - 
 - [verasls/impactr](https://github.com/verasls/impactr) - {impactr} Mechanical loading prediction based on accelerometer data
 - [stephenbalogun/tidyndr](https://github.com/stephenbalogun/tidyndr) - Analysis of the Nigeria National Data Repository (NDR)
@@ -4569,7 +4586,6 @@
 - [mdevans21/xgboost-virtual-data-science-seminar](https://github.com/mdevans21/xgboost-virtual-data-science-seminar) - XGBoost Insurance Pricing code comparing results with GLM and GAM for Actuarial Virtual Data Science Seminar
 - [benmarwick/wordcountaddin](https://github.com/benmarwick/wordcountaddin) - Word counts and readability statistics in R markdown documents
 - [dming1024/ProjectManage](https://github.com/dming1024/ProjectManage) - 
-- [ResearchActuary/claim_sim](https://github.com/ResearchActuary/claim_sim) - 
 - [ITSLeeds/slopes](https://github.com/ITSLeeds/slopes) - Package to calculate slopes of roads, rivers and trajectories
 - [sewardlee337/finreportr](https://github.com/sewardlee337/finreportr) - R package - Financial Data from U.S. Securities and Exchange Commission
 - [sicarul/xray](https://github.com/sicarul/xray) - xray: The R Package to have X Ray vision on your datasets
@@ -5569,7 +5585,7 @@
 - [Jinksi/cloudrun-helloworld-r](https://github.com/Jinksi/cloudrun-helloworld-r) - An example of creating serverless functions using R, plumber and Docker
 - [JohnCoene/ambiorix](https://github.com/JohnCoene/ambiorix) - 🖥️ Web framework for R
 - [chainsawriot/oolong](https://github.com/chainsawriot/oolong) - oolong 🍵 : create and administrate validation tests for typical automated content analysis tools.
-- [moodymudskipper/typed](https://github.com/moodymudskipper/typed) - Static Typing for R
+- [moodymudskipper/typed](https://github.com/moodymudskipper/typed) - Support Types for Variables, Arguments, and Return Values
 - [daattali/shinyscreenshot](https://github.com/daattali/shinyscreenshot) - 📷 Capture screenshots of entire pages or parts of pages in Shiny apps
 - [noamross/nyhackr-docker-talk](https://github.com/noamross/nyhackr-docker-talk) - Slides, Code, and Links to Resources from "Docker for the User," delivered at nyhackr 2018-07-11
 - [FredHutch/r-shiny-base](https://github.com/FredHutch/r-shiny-base) - Base Docker container for R Shiny apps
@@ -7785,6 +7801,7 @@
 - [meshcloud/collie-cli](https://github.com/meshcloud/collie-cli) - Collie CLI allows you to manage your AWS, Azure & GCP cloud landscape through a single view.
 - [auth0/nextjs-auth0](https://github.com/auth0/nextjs-auth0) - Next.js SDK for signing in with Auth0
 - [mattwaler/next-ssr-starter](https://github.com/mattwaler/next-ssr-starter) - A starter project for Next with session-based auth ready to go.
+- [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [derwish-pro/obsidian-unique-attachments](https://github.com/derwish-pro/obsidian-unique-attachments) - Obsidian plugin. Renames attachments, making their names unique.
 - [styxlab/next-cms-ghost](https://github.com/styxlab/next-cms-ghost) - Publish flaring fast blogs with Next.js and Ghost CMS
 - [mehulmpt/ghost-cms-nextjs](https://github.com/mehulmpt/ghost-cms-nextjs) - 
