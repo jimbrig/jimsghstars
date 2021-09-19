@@ -1725,6 +1725,7 @@
 
 ## JavaScript 
 
+- [felixrieseberg/electron-windows-store](https://github.com/felixrieseberg/electron-windows-store) - :package: Turn Electron Apps into Windows AppX Packages
 - [jrgarciadev/dev-cover](https://github.com/jrgarciadev/dev-cover) - 🌐 Get and publish your developer portfolio with just your username
 - [markshust/Build-Release-and-Run-Containers-with-Docker-Compose](https://github.com/markshust/Build-Release-and-Run-Containers-with-Docker-Compose) - 
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
@@ -2811,7 +2812,7 @@
 - [melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates) - Boilerplates for mobile and web apps
 - [unreadablewxy/unreadablewxy](https://github.com/unreadablewxy/unreadablewxy) - 
 - [unreadablewxy/fs-curator](https://github.com/unreadablewxy/fs-curator) - Automation for the serious data hoarder that wants to have their data and use it
-- [SupernautSFX/Project-Documentation-Collection](https://github.com/SupernautSFX/Project-Documentation-Collection) - A collection of templates for various forms of Project Documentation, in multiple formats. Some I wrote up myself, others are random, assorted templates sourced from across the web, mostly GitHub. All Docs templates in this repository come in both Markdown and Plaintext varieties, in addition to some more 'formal', and in depth Docs Templates written in Microsoft Word, and thusly coming in *.doc/*.docx formats, as well as *.rtf. Includes README Templates, CHANGELOG Templates, CONTRIBUTING Templates, Code of Conduct Templates, various niche Documentation Types, and a collection of the most commonly used Licenses in Plaintext, Rich Formatted Text, and Markdown formats also.
+- [Miracle-Of-Yahweh/Project-Documentation-Collection](https://github.com/Miracle-Of-Yahweh/Project-Documentation-Collection) - A collection of templates for various forms of Project Documentation, in multiple formats. Some I wrote up myself, others are random, assorted templates sourced from across the web, mostly GitHub. All Docs templates in this repository come in both Markdown and Plaintext varieties, in addition to some more 'formal', and in depth Docs Templates written in Microsoft Word, and thusly coming in *.doc/*.docx formats, as well as *.rtf. Includes README Templates, CHANGELOG Templates, CONTRIBUTING Templates, Code of Conduct Templates, various niche Documentation Types, and a collection of the most commonly used Licenses in Plaintext, Rich Formatted Text, and Markdown formats also.
 - [jimbrig/dj-events-frontend](https://github.com/jimbrig/dj-events-frontend) - Next.js website to list DJ and other musical events
 - [AndyFul/ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) - Utility for configuring Windows 10 built-in Defender antivirus settings.
 - [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Win10XPE is a Complete Project Based on Win10 Recovery Environment With Many Windows Features Added...
@@ -3824,8 +3825,8 @@
 - [jimbrig/WindowsSetup](https://github.com/jimbrig/WindowsSetup) - 
 - [hackf5/powershell-profile-alias](https://github.com/hackf5/powershell-profile-alias) - Bash style aliases in PowerShell
 - [Jaykul/PowerLine](https://github.com/Jaykul/PowerLine) - A more PowerShell prompt
-- [SupernautSFX/PS.Config](https://github.com/SupernautSFX/PS.Config) - A simple example of how to create a very basic 'Configuration file' for PowerShell Scripts usiing *.psd1 files (usually used only as Module Manifests). Works so long as any Configuration you're needing to do can be accomplished with Variables.
-- [SupernautSFX/My-PowerShell-Configuration](https://github.com/SupernautSFX/My-PowerShell-Configuration) - Repository for my personal PowerShell Profile(s), modules (ones I havent made in 'Third-Party Modules' Directory), and various other config files
+- [Miracle-Of-Yahweh/PS.Config](https://github.com/Miracle-Of-Yahweh/PS.Config) - A simple example of how to create a very basic 'Configuration file' for PowerShell Scripts usiing *.psd1 files (usually used only as Module Manifests). Works so long as any Configuration you're needing to do can be accomplished with Variables.
+- [Miracle-Of-Yahweh/My-PowerShell-Configuration](https://github.com/Miracle-Of-Yahweh/My-PowerShell-Configuration) - Repository for my personal PowerShell Profile(s), modules (ones I havent made in 'Third-Party Modules' Directory), and various other config files
 - [techthoughts2/Learn-PowerShell-Code-Examples](https://github.com/techthoughts2/Learn-PowerShell-Code-Examples) - Contains code examples used in the Learn PowerShell Video & Blog series
 - [nickrod518/Migrate-WindowsUserProfile](https://github.com/nickrod518/Migrate-WindowsUserProfile) - Migrate Windows user profile to a new machine using Microsoft USMT with a PowerShell GUI.
 - [greyhamwoohoo/new-vm-from-iso](https://github.com/greyhamwoohoo/new-vm-from-iso) - Provision a Hyper-V VM with Windows automatically installed from an ISO using PowerShell; on first boot, the Unattend.Xml (OOBE) will automatically configure the installation and Windows will boot as far as the Login Screen. Windows Updates will then be automatically installed.
@@ -4053,7 +4054,7 @@
 - [pratyakshm/WinRice](https://github.com/pratyakshm/WinRice) - Automates Windows settings
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [Daksh777/windows10-debloat](https://github.com/Daksh777/windows10-debloat) - Collection of various scripts and apps to debloat Windows 10 for better privacy, performance and optimization.
-- [gordonbay/Windows-On-Reins](https://github.com/gordonbay/Windows-On-Reins) - Windows 10 Ameliorated, Debloat, Optimize, Privacy fix
+- [gordonbay/Windows-On-Reins](https://github.com/gordonbay/Windows-On-Reins) - Wor is a Powershell script to harden, debloat, optimize, enhance privacy, avoid fingerprinting and improve performance of Windows 10 and 11.
 - [VincentXE/Longhorn](https://github.com/VincentXE/Longhorn) - Windows 10 Debloater
 - [Raphire/Win10Debloat](https://github.com/Raphire/Win10Debloat) - A simple powershell script to remove bloatware apps from windows 10, disable bing in windows search aswell as perform various other changes to declutter the windows 10 experience.
 - [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Fully Optimize, Harden, and Debloat Windows 10 and Windows 11 Deployments to Windows Best Practices and DoD STIG/SRG Requirements. The ultimate Windows 10 & 11 security and privacy script!
