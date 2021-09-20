@@ -1518,6 +1518,7 @@
 - [martignoni/hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) - A Hugo theme component to cloak email adresses
 - [ropensci-org/cranchecksdocs](https://github.com/ropensci-org/cranchecksdocs) - 
 - [hypertidy/textures](https://github.com/hypertidy/textures) - simple texture plot
+- [mul118/shinyMCE](https://github.com/mul118/shinyMCE) - tinyMCE editor for Shiny apps
 - [tidymodels/tidymodels.org](https://github.com/tidymodels/tidymodels.org) - Source of tidymodels.org
 - [bansal-io/pattern.css](https://github.com/bansal-io/pattern.css) - CSS only library to fill empty background with beautiful patterns.
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
@@ -2844,7 +2845,7 @@
 - [pratyakshm/CleanWin_Releases](https://github.com/pratyakshm/CleanWin_Releases) - 
 - [pratyakshm/ISOBuild](https://github.com/pratyakshm/ISOBuild) - 
 - [Hack-with-Github/Windows](https://github.com/Hack-with-Github/Windows) - Awesome tools to exploit Windows !
-- [niklasrast/Windows-10-Configuration-Files](https://github.com/niklasrast/Windows-10-Configuration-Files) - 
+- [niklasrast/Windows-Configuration-Files](https://github.com/niklasrast/Windows-Configuration-Files) - 
 - [statnmap/crrry](https://github.com/statnmap/crrry) - 'crrri' recipes for 'shiny'
 - [statnmap/gmailr](https://github.com/statnmap/gmailr) - Access the Gmail RESTful API from R.
 - [statnmap/repo.rtask](https://github.com/statnmap/repo.rtask) - Example for a blog post on rtask.thinkr.fr
@@ -3887,14 +3888,14 @@
 - [r00t-3xp10it/meterpeter](https://github.com/r00t-3xp10it/meterpeter) - C2 Powershell Command & Control Framework with BuiltIn Commands
 - [MSEndpointMgr/IntuneWin32AppPackager](https://github.com/MSEndpointMgr/IntuneWin32AppPackager) - This project aims at making it easier to package, create and at the same time document Win32 applications for Microsoft Intune
 - [wimmatthyssen/Hyper-V-VM-Template](https://github.com/wimmatthyssen/Hyper-V-VM-Template) - 
-- [niklasrast/Windows-10-BGInfo-Configurator](https://github.com/niklasrast/Windows-10-BGInfo-Configurator) - PowerShell script to install BGInfo with a default configuration on Windows 10
-- [niklasrast/Windows-10-OEM-BIOS-Productkey-Activator](https://github.com/niklasrast/Windows-10-OEM-BIOS-Productkey-Activator) - Activate Windows 10 with the OEM-BIOS Product key
-- [niklasrast/Windows-10-OptionalFeature-Configurator](https://github.com/niklasrast/Windows-10-OptionalFeature-Configurator) - 
-- [niklasrast/Windows-10-PortableApp-Deployment](https://github.com/niklasrast/Windows-10-PortableApp-Deployment) - 
-- [niklasrast/Windows-10-Update-Cleanup](https://github.com/niklasrast/Windows-10-Update-Cleanup) - 
-- [niklasrast/Windows-10-ToastNotification-Wrapper](https://github.com/niklasrast/Windows-10-ToastNotification-Wrapper) - This repo contains an powershell scripts to send Windows 10 toast notifications to any windows 10 client.
-- [niklasrast/Windows-10-PowerShell-ExecutionPolicy-Configurator](https://github.com/niklasrast/Windows-10-PowerShell-ExecutionPolicy-Configurator) - This repo contains an powershell scripts to configure the execution policy for powershell on any windows 10 client.
-- [niklasrast/Windows-10-LocalAdministrators](https://github.com/niklasrast/Windows-10-LocalAdministrators) - Create local administrator accounts with or without a predefined password on Windows 10 clients
+- [niklasrast/Windows-BGInfo-Configurator](https://github.com/niklasrast/Windows-BGInfo-Configurator) - PowerShell script to install BGInfo with a default configuration on Windows 10
+- [niklasrast/Windows-OEM-BIOS-Productkey-Activator](https://github.com/niklasrast/Windows-OEM-BIOS-Productkey-Activator) - Activate Windows 10 with the OEM-BIOS Product key
+- [niklasrast/Windows-OptionalFeature-Configurator](https://github.com/niklasrast/Windows-OptionalFeature-Configurator) - 
+- [niklasrast/Windows-PortableApp-Deployment](https://github.com/niklasrast/Windows-PortableApp-Deployment) - 
+- [niklasrast/Windows-Update-Cleanup](https://github.com/niklasrast/Windows-Update-Cleanup) - 
+- [niklasrast/Windows-ToastNotification-Wrapper](https://github.com/niklasrast/Windows-ToastNotification-Wrapper) - This repo contains an powershell scripts to send Windows 10 toast notifications to any windows 10 client.
+- [niklasrast/Windows-PowerShell-ExecutionPolicy-Configurator](https://github.com/niklasrast/Windows-PowerShell-ExecutionPolicy-Configurator) - This repo contains an powershell scripts to configure the execution policy for powershell on any windows 10 client.
+- [niklasrast/Windows-LocalAdministrators](https://github.com/niklasrast/Windows-LocalAdministrators) - Create local administrator accounts with or without a predefined password on Windows 10 clients
 - [niklasrast/Windows-11-Compatibility-Check](https://github.com/niklasrast/Windows-11-Compatibility-Check) - This repo contains an powershell script to test the compatibility from an windows 10 client to be able to install the upcoming windows 11. The result will be sent to an Microsoft Teams Channel.
 - [parkitwonka/Migrate-User-Data](https://github.com/parkitwonka/Migrate-User-Data) - 
 - [madbomb122/BlackViperScript](https://github.com/madbomb122/BlackViperScript) - Sets Win 10 Services based on Black Viper's Service Configurations
@@ -3904,7 +3905,7 @@
 - [a4099181/vagrant-provvin](https://github.com/a4099181/vagrant-provvin) - Provvin - Provision Windows Powershell module (extracted from a4099181/vagrant-officeVM). In ecosystem with: packer-officeVM and vagrant-officeVM.
 - [devkitspaces/boxstarter-workspace](https://github.com/devkitspaces/boxstarter-workspace) - A set of chocolatey packages for setting up a Windows PC.
 - [fmmendo/win-provision](https://github.com/fmmendo/win-provision) - Setting up after a fresh install
-- [niklasrast/Windows-10-Bloatware-Removal-Tool](https://github.com/niklasrast/Windows-10-Bloatware-Removal-Tool) - This repo contains an powershell scripts to remove bloatware applications from any windows 10 installation.
+- [niklasrast/Windows-Bloatware-Removal-Tool](https://github.com/niklasrast/Windows-Bloatware-Removal-Tool) - This repo contains an powershell scripts to remove bloatware applications from any windows 10 installation.
 - [aikawame/provision-windows](https://github.com/aikawame/provision-windows) - Private Windows provisioning settings.
 - [SubPointSolutions/uplift-contrib](https://github.com/SubPointSolutions/uplift-contrib) - Vagrant configs for the uplift project: Windows 2016 domain controllers, SQL 2016, SharePoint 2016 and CRM.
 - [Badgerati/Picassio2](https://github.com/Badgerati/Picassio2) - Picassio2 is a Code-over-Config version of Picassio, and far more flexible for automation using PowerShell
@@ -4054,7 +4055,7 @@
 - [pratyakshm/WinRice](https://github.com/pratyakshm/WinRice) - Automates Windows settings
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [Daksh777/windows10-debloat](https://github.com/Daksh777/windows10-debloat) - Collection of various scripts and apps to debloat Windows 10 for better privacy, performance and optimization.
-- [gordonbay/Windows-On-Reins](https://github.com/gordonbay/Windows-On-Reins) - Wor is a Powershell script to harden, debloat, optimize, enhance privacy, avoid fingerprinting and improve performance of Windows 10 and 11.
+- [gordonbay/Windows-On-Reins](https://github.com/gordonbay/Windows-On-Reins) - Wor is a Powershell script to harden, debloat, optimize, enhance privacy, avoid fingerprinting and improve performance on Windows 10 and 11.
 - [VincentXE/Longhorn](https://github.com/VincentXE/Longhorn) - Windows 10 Debloater
 - [Raphire/Win10Debloat](https://github.com/Raphire/Win10Debloat) - A simple powershell script to remove bloatware apps from windows 10, disable bing in windows search aswell as perform various other changes to declutter the windows 10 experience.
 - [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Fully Optimize, Harden, and Debloat Windows 10 and Windows 11 Deployments to Windows Best Practices and DoD STIG/SRG Requirements. The ultimate Windows 10 & 11 security and privacy script!
@@ -6036,7 +6037,6 @@
 - [Appsilon/shiny.info](https://github.com/Appsilon/shiny.info) - Display simple diagnostic info of your Shiny app
 - [mllg/checkmate](https://github.com/mllg/checkmate) - Fast and versatile argument checks
 - [abresler/fundManageR](https://github.com/abresler/fundManageR) - An Investment Management toolkit for R.  Because Excel is a threat to the global financial system.
-- [mul118/shinyMCE](https://github.com/mul118/shinyMCE) - tinyMCE editor for Shiny apps
 - [ColinFay/crrry](https://github.com/ColinFay/crrry) - 'crrri' recipes for 'shiny'
 - [rstudio/shinymeta](https://github.com/rstudio/shinymeta) - Record and expose Shiny app logic using metaprogramming
 - [fmmattioni/downloadthis](https://github.com/fmmattioni/downloadthis) - Implement Download Buttons in rmarkdown 💾
