@@ -227,6 +227,8 @@
 
 ## C 
 
+- [FarGroup/Far-NetBox](https://github.com/FarGroup/Far-NetBox) - SFTP/SCP/FTP/FTPS/WebDAV client for Far Manager (http://farmanager.com/)
+- [michaellukashov/Far-NetBox](https://github.com/michaellukashov/Far-NetBox) - SFTP/SCP/FTP/FTPS/WebDAV client for Far Manager (http://farmanager.com/)
 - [MidnightCommander/mc](https://github.com/MidnightCommander/mc) - Midnight Commander's repository
 - [cmus/cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems.
 - [SenegalLang/Senegal](https://github.com/SenegalLang/Senegal) - Senegal programming language
@@ -347,6 +349,7 @@
 
 ## C# # 
 
+- [microsoft/Windows-appsample-customers-orders-database](https://github.com/microsoft/Windows-appsample-customers-orders-database) - This code demonstrates a working customer order database hosted on Azure, implemented in C# and XAML, and ready to form the basis of your Windows Store enterprise app.
 - [stnkl/EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [Inedo/upack](https://github.com/Inedo/upack) - upack.exe is a command-line tool used to create and install universal packages; you can also see which packages are installed on a machine.
 - [Inedo/iconmaker](https://github.com/Inedo/iconmaker) - Simple tool for creating .ico format images
@@ -666,7 +669,6 @@
 - [ilham25/dotfiles-aether](https://github.com/ilham25/dotfiles-aether) - Here is my Aether theme for i3-gaps
 - [schorpy/ZorinX](https://github.com/schorpy/ZorinX) - Zorin OS Theme
 - [mshafer1/AHK-generator](https://github.com/mshafer1/AHK-generator) - A single page website to provide a UI for the 3 most common uses for AHK and defining custom hotstrings and hotkeys to trigger them
-- [scaryrawr/windotfiles](https://github.com/scaryrawr/windotfiles) - Windows dotfiles
 - [aaronpowell/gatsby-static-web-app](https://github.com/aaronpowell/gatsby-static-web-app) - 
 - [iamshaunjp/sass-playlist](https://github.com/iamshaunjp/sass-playlist) - Course files for The Net Ninja SASS tutorial playlist on YouTube
 - [iamshaunjp/next-contentful](https://github.com/iamshaunjp/next-contentful) - All course files for the Next.js & Contentful tutorial series on the Net Ninja YouTube channel.
@@ -712,7 +714,7 @@
 - [jimbrig/browsr](https://github.com/jimbrig/browsr) - Query advanced searches from your R console!
 - [bennyxguo/Obsidian-Obsidianite](https://github.com/bennyxguo/Obsidian-Obsidianite) - 🎨 Obsidian.md custom theme, it's dark and simple but yet still stays sparkles!
 - [ishgunacar/gitsidian](https://github.com/ishgunacar/gitsidian) - An obsidian theme inspired by GitHub markdown styles
-- [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - Minimal theme for Obsidian
+- [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - Meticulously designed to make Obsidian feel native on desktop, mobile and tablet. You can customize colors, fonts and more with the companion plugin Minimal Theme Settings.
 - [timelyportfolio/tooltipsterR](https://github.com/timelyportfolio/tooltipsterR) - R htmlwidget for tooltipster
 - [jbryer/Rgitbook](https://github.com/jbryer/Rgitbook) - Gitbook for R Markdown
 - [alandipert/wondr-blog](https://github.com/alandipert/wondr-blog) - Source code for my R blog
@@ -851,6 +853,7 @@
 
 ## Dart 
 
+- [gskinnerTeam/flokk](https://github.com/gskinnerTeam/flokk) - A fresh and modern Google Contacts manager that integrates with GitHub and Twitter.
 - [dart-lang/sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, dart2js, core libraries, and more.
 - [pbissonho/fast.cli](https://github.com/pbissonho/fast.cli) - An incredible command line interface for Flutter.
 - [stablekernel/aqueduct](https://github.com/stablekernel/aqueduct) - Dart HTTP server framework for building REST APIs. Includes PostgreSQL ORM and OAuth2 provider.
@@ -1220,6 +1223,7 @@
 
 ## HTML 
 
+- [earfanfan/yf](https://github.com/earfanfan/yf) - myblog
 - [uikit/uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
 - [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [MicrosoftDocs/edge-developer](https://github.com/MicrosoftDocs/edge-developer) - Developer documentation for Edge.
@@ -1669,6 +1673,7 @@
 
 ## Java 
 
+- [Suleiman19/People-API-App](https://github.com/Suleiman19/People-API-App) - Demo app for Google Sign-in and People API
 - [neoedmund/neoeedit](https://github.com/neoedmund/neoeedit) - neoeedit - a smart, light, powerful text editor.
 - [cqfn/eo](https://github.com/cqfn/eo) - EOLANG, an Experimental Object-Oriented Programming Language Based on 𝜑-Calculus
 - [lucee/Lucee](https://github.com/lucee/Lucee) - Lucee Server is a dynamic, Java based (JSR-223), tag and scripting language used for rapid web application development.  Lucee simplifies technologies like webservices (REST, SOAP, HTTP), ORM (Hibernate), searching (Lucene), datasources (MSSQL, Oracle, MySQL and others), caching (infinispan, ehcache, and memcached) and many more.  Lucee provides a compatibility layer for Adobe ColdFusion © CFML using less resources and delivering better performance.
@@ -1726,6 +1731,9 @@
 
 ## JavaScript 
 
+- [philipszdavido/contact-manager](https://github.com/philipszdavido/contact-manager) - A command-line Node.js app powered by TypeScript, Google Cloud Functions and Firebase for managing contacts
+- [SanctumLabs/contact-manager-cli](https://github.com/SanctumLabs/contact-manager-cli) - Manage your contacts from your command line
+- [djhmateer/osr4rights-tools](https://github.com/djhmateer/osr4rights-tools) - 
 - [felixrieseberg/electron-windows-store](https://github.com/felixrieseberg/electron-windows-store) - :package: Turn Electron Apps into Windows AppX Packages
 - [jrgarciadev/dev-cover](https://github.com/jrgarciadev/dev-cover) - 🌐 Get and publish your developer portfolio with just your username
 - [markshust/Build-Release-and-Run-Containers-with-Docker-Compose](https://github.com/markshust/Build-Release-and-Run-Containers-with-Docker-Compose) - 
@@ -2763,6 +2771,10 @@
 
 ## Others 
 
+- [dwyl/learn-api-design](https://github.com/dwyl/learn-api-design) - :innocent: Essential learning for people building APIs
+- [staticwebdev/awesome-azure-static-web-apps](https://github.com/staticwebdev/awesome-azure-static-web-apps) - Curated list of resources for Azure Static Web Apps
+- [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
+- [crispgm/awesome-engineering-blogs](https://github.com/crispgm/awesome-engineering-blogs) - A curated list of awesome engineering blogs.
 - [Deyda/Evergreen-1](https://github.com/Deyda/Evergreen-1) - Create evergeen Windows image build scripts with the latest version and download links for applications
 - [Daiz/manga-naming-scheme](https://github.com/Daiz/manga-naming-scheme) - Manga Filename Scheme
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
@@ -3700,6 +3712,7 @@
 
 ## PowerShell 
 
+- [MicrosoftDocs/power-automate-docs](https://github.com/MicrosoftDocs/power-automate-docs) - 
 - [jacqinthebox/packer-templates](https://github.com/jacqinthebox/packer-templates) - Building a development environment with Vagrant, Packer, Windows 10 and Server 2016
 - [Deyda/Snippets](https://github.com/Deyda/Snippets) - 
 - [Deyda/BIS-F](https://github.com/Deyda/BIS-F) - Base Image Script Framework (BIS-F)
@@ -4143,6 +4156,9 @@
 
 ## Python 
 
+- [mrmattwilkins/google-contacts-sync](https://github.com/mrmattwilkins/google-contacts-sync) - Sync google contacts between accounts using People API
+- [tgray/muttqt](https://github.com/tgray/muttqt) - mutt query tool
+- [scheibler/khard](https://github.com/scheibler/khard) - Console carddav client
 - [cfangmeier/tuijam](https://github.com/cfangmeier/tuijam) - A fancy TUI client for Google Play Music
 - [sagesharp/foss-heartbeat](https://github.com/sagesharp/foss-heartbeat) - (Unmaintained) FOSS Heartbeat analyses the health of a community of contributors. :heartbeat:
 - [DennisMitchell/jellylanguage](https://github.com/DennisMitchell/jellylanguage) - Jelly is a recreational programming language inspired by J.
@@ -4537,6 +4553,12 @@
 
 ## R 
 
+- [kasaai/cellar](https://github.com/kasaai/cellar) - Data with terroir.
+- [ArnaudBu/ReservingLad](https://github.com/ArnaudBu/ReservingLad) - R package for reserving in non life insurance
+- [issactoast/SOAmort](https://github.com/issactoast/SOAmort) - R package for the book; R for actuaries
+- [javaidiqbal11/Different-R-tasks-in-actuary-direction](https://github.com/javaidiqbal11/Different-R-tasks-in-actuary-direction) - The repo is presented for estimation of the price bonds using vasicek algorithm using R.
+- [lauken13/mrpkit](https://github.com/lauken13/mrpkit) - Tools and tutorials for multi-level regression and post-stratification of survey data
+- [andrie/mailmerge](https://github.com/andrie/mailmerge) - Mail Merge Using R Markdown Documents and 'gmailr'
 - [churchill-lab/ensimplR](https://github.com/churchill-lab/ensimplR) - Simple R API into ensimpl data
 - [HenrikBengtsson/R.devices](https://github.com/HenrikBengtsson/R.devices) - 🎨 R package: Unified Handling of Graphics Devices
 - [rivasiker/ggHoriPlot](https://github.com/rivasiker/ggHoriPlot) - A user-friendly, highly customizable R package for building horizon plots in ggplot2
@@ -6089,7 +6111,7 @@
 - [JohnCoene/firebase](https://github.com/JohnCoene/firebase) - Authenticate Shiny Users with Firebase
 - [gluc/data.tree](https://github.com/gluc/data.tree) - General Purpose Hierarchical Data Structure for R
 - [jsta/nhdR](https://github.com/jsta/nhdR) - R interface to the National Hydrography Dataset :droplet:
-- [avucoh/DIVE](https://github.com/avucoh/DIVE) - R package
+- [anngvu/DIVE](https://github.com/anngvu/DIVE) - R package
 - [reconhub/nomad](https://github.com/reconhub/nomad) - :package::point_right::school_satchel: Pack up R to take away
 - [Hackout3/cleanr](https://github.com/Hackout3/cleanr) - 
 - [reconhub/linelist](https://github.com/reconhub/linelist) - An R package to import, clean, and store case data
@@ -7197,6 +7219,8 @@
 
 ## Rust 
 
+- [stepchowfun/docuum](https://github.com/stepchowfun/docuum) - Docuum performs least recently used (LRU) eviction of Docker images. 🗑️
+- [stepchowfun/toast](https://github.com/stepchowfun/toast) - Containerize your development and continuous integration environments. 🥂
 - [gleich/profile_stack](https://github.com/gleich/profile_stack) - 🚀 Display your tech stack on your GitHub profile's README
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
@@ -7785,7 +7809,10 @@
 
 ## TypeScript 
 
-- [jimbrig/devfolio](https://github.com/jimbrig/devfolio) - Developer Portfolio
+- [blogody/api-client](https://github.com/blogody/api-client) - Blogody API Client for your JavaScript/TypeScript projects
+- [blogody/export](https://github.com/blogody/export) - Easily export all your Blogody data
+- [alexobenauer/Cross-reference-Navigation-for-Obsidian](https://github.com/alexobenauer/Cross-reference-Navigation-for-Obsidian) - Cross-reference navigation through your Obsidian tags and notes
+- [jimbrig/dev-portfolio](https://github.com/jimbrig/dev-portfolio) - Developer Portfolio
 - [nothingislost/obsidian-workspaces-plus](https://github.com/nothingislost/obsidian-workspaces-plus) - Quickly switch and manage Obsidian workspaces
 - [snowpackjs/astro](https://github.com/snowpackjs/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts!
 - [umijs/umi](https://github.com/umijs/umi) - 🌋 Pluggable enterprise-level react application framework.
