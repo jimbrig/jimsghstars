@@ -8,6 +8,7 @@ library(fs)
 
 mystars <- gh::gh("/users/:username/starred", username = "jimbrig", .limit = Inf)
 
+
 repo_names <- purrr::map_depth(mystars, 1, purrr::pluck, "full_name") %>% purrr::flatten_chr()
 repo_urls <- purrr::map_depth(mystars, 1, purrr::pluck, "url") %>% purrr::flatten_chr()
 creation_dates <- purrr::map_depth(mystars, 1, purrr::pluck, "created_at") %>% purrr::flatten_chr() %>% stringr::str_sub(1, 10) %>% lubridate::ymd()

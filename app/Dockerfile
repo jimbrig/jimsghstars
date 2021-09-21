@@ -1,4 +1,4 @@
-FROM rocker:rver
+FROM rocker:r-ver
 RUN installr.r automagic remotes pak gh purrr stringr dplyr qs
 COPY generate_stars.R /home/shinyusr/
 WORKDIR /home/shinyusr
