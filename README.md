@@ -514,7 +514,6 @@
 - [phw198/OutlookGoogleCalendarSync](https://github.com/phw198/OutlookGoogleCalendarSync) - Sync your Outlook and Google calendars
 - [ktheod/OneDriveBully](https://github.com/ktheod/OneDriveBully) - Bully your OneDrive to sync Symbolic Link Folders
 - [andrewiankidd/rcloneExplorer](https://github.com/andrewiankidd/rcloneExplorer) - rclone GUI for Windows
-- [rdotnet/rdotnet](https://github.com/rdotnet/rdotnet) - .NET interop library to call the R statistical language in the same process
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [chkiefer/ShinyViewerTemplate](https://github.com/chkiefer/ShinyViewerTemplate) - A tool to create a standalone Windows program for Shiny Apps
@@ -4924,6 +4923,7 @@
 - [ipeaGIT/gtfstools](https://github.com/ipeaGIT/gtfstools) - General Transit Feed Specification (GTFS) Editing and Analysing Tools
 - [randy3k/shiny-appengine-demo](https://github.com/randy3k/shiny-appengine-demo) - Running Shiny app on Google App Engine
 - [ramhiser/retry](https://github.com/ramhiser/retry) - R Package to Retry Any Function
+- [ramhiser/retry](https://github.com/ramhiser/retry) - R Package to Retry Any Function
 - [RMHogervorst/badgecreatr](https://github.com/RMHogervorst/badgecreatr) - Quickly place relevant badges at the top of your readme, stop copy pasting, start on your project
 - [RMHogervorst/testshiny](https://github.com/RMHogervorst/testshiny) - 
 - [sebastiz/EndoMineR](https://github.com/sebastiz/EndoMineR) - Endoscopic and Pathological data extraction for various endo-pathological data extraction
@@ -5065,6 +5065,7 @@
 - [zevross-spatial/rpackage-sensorDataImport](https://github.com/zevross-spatial/rpackage-sensorDataImport) - 
 - [jsugarelli/pointr](https://github.com/jsugarelli/pointr) - Working comfortably with pointers and shortcuts to R objects
 - [Kohze/fireData](https://github.com/Kohze/fireData) - Firebase + R
+- [OliverHennhoefer/R_Shiny_DataTable_DeleteRowSelection](https://github.com/OliverHennhoefer/R_Shiny_DataTable_DeleteRowSelection) - Example of interactively adding rows / deleting rows by selecting directly in a data.table (DT) in Shiny
 - [OliverHennhoefer/R_Shiny_DataTable_DeleteRowSelection](https://github.com/OliverHennhoefer/R_Shiny_DataTable_DeleteRowSelection) - Example of interactively adding rows / deleting rows by selecting directly in a data.table (DT) in Shiny
 - [cgwhitehead/golfstats](https://github.com/cgwhitehead/golfstats) - gather and clean pga stats for fantasy golf
 - [GegznaV/conspect.helper](https://github.com/GegznaV/conspect.helper) - :warning: :zap: Convenience functions for personal use (R package)
@@ -6057,6 +6058,7 @@
 - [rstudio/bookdown.org](https://github.com/rstudio/bookdown.org) - Source documents to generate the bookdown.org website
 - [Appsilon/shiny.info](https://github.com/Appsilon/shiny.info) - Display simple diagnostic info of your Shiny app
 - [mllg/checkmate](https://github.com/mllg/checkmate) - Fast and versatile argument checks
+- [abresler/fundManageR](https://github.com/abresler/fundManageR) - An Investment Management toolkit for R.  Because Excel is a threat to the global financial system.
 - [abresler/fundManageR](https://github.com/abresler/fundManageR) - An Investment Management toolkit for R.  Because Excel is a threat to the global financial system.
 - [ColinFay/crrry](https://github.com/ColinFay/crrry) - 'crrri' recipes for 'shiny'
 - [rstudio/shinymeta](https://github.com/rstudio/shinymeta) - Record and expose Shiny app logic using metaprogramming
@@ -7940,6 +7942,7 @@
 - [microsoft/fluentui-react-native](https://github.com/microsoft/fluentui-react-native) - A react-native component library that implements the Fluent Design System.
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [witheve/Eve](https://github.com/witheve/Eve) - Better tools for thought
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A realtime Database for JavaScript Applications
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A realtime Database for JavaScript Applications
 - [googlemaps/google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
