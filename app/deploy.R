@@ -1,9 +1,8 @@
 
 library(rsconnect)
-library(automagic)
-
-automagic::make_deps_file(directory = ".")
-automagic::install_deps_file('deps.yaml')
+# library(automagic)
+# automagic::make_deps_file(directory = ".")
+# automagic::install_deps_file('deps.yaml')
 
 error_on_missing_name <- function(name){
     var <- Sys.getenv(name, unset=NA)
