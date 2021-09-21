@@ -22,6 +22,6 @@ setAccountInfo(
 # Deploy the application.
 deployApp(
     appFiles = c("app.R"),
-    appName = error_on_missing_name("MASTERNAME"),
-    appTitle = "JimsGitHubStars"
+    appName = error_on_missing_name("MASTER_NAME"),
+    appTitle = "jimsghstars"
 )
