@@ -1565,7 +1565,6 @@
 - [archerimpact/SanctionsExplorer](https://github.com/archerimpact/SanctionsExplorer) - A modernized, improved version of the OFAC SDN website.
 - [vkoul/Econ-Data-Science](https://github.com/vkoul/Econ-Data-Science) - Articles/ Journals and Videos related to Economics:chart_with_upwards_trend: and Data Science :bar_chart:
 - [gadenbuie/js4shiny-frappeCharts](https://github.com/gadenbuie/js4shiny-frappeCharts) - Building an HTML Widget, a demonstration
-- [karthik/ddd](https://github.com/karthik/ddd) - data, data, data paper
 - [tidyverts/tidyverts](https://github.com/tidyverts/tidyverts) - Home site
 - [rstudio-conf-2020/slide-templates](https://github.com/rstudio-conf-2020/slide-templates) - A repository to share rstudio::conf sample slide templates for Keynote, PowerPoint, R Markdown (xaringan)
 - [szilard/aboutme](https://github.com/szilard/aboutme) - 
@@ -7789,6 +7788,7 @@
 - [dfalster/baad](https://github.com/dfalster/baad) - BAAD: a Biomass And Allometry Database for woody plants
 - [hebrewseniorlife/memor](https://github.com/hebrewseniorlife/memor) - rmarkdown template that supports customizable logo, company info, etc.
 - [renozao/pkgmaker](https://github.com/renozao/pkgmaker) - R Package development utilities
+- [karthik/ddd](https://github.com/karthik/ddd) - data, data, data paper
 - [orchid00/actions_sandbox](https://github.com/orchid00/actions_sandbox) - 
 - [wch/latexsheet](https://github.com/wch/latexsheet) - LaTeX cheat sheet
 - [robjhyndman/Rcademy](https://github.com/robjhyndman/Rcademy) - 
