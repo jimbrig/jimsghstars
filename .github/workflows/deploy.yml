@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Build image
-        run: docker build -t main .
+        run: cd app && docker build -t main .
       - name: push
         run: >
           echo {{secrets.GITHUB_TOKEN }} | docker login ghcr.io -u jimbrig --password-stdin && \
