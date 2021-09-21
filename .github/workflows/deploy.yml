@@ -1,6 +1,6 @@
 on:
+  workflow_dispatch:
   push:
-    workflow_dispatch:
     branches: [ main, master ]
     
 jobs:
@@ -9,7 +9,12 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Build image
-        run: docker build -t main .   
+        run: docker build -t main .
+      - name: push
+        run: >
+          echo {{secrets.GITHUB_TOKEN }} | docker login ghcr.io -u jimbrig --password-stdin && \
+          docker tag main ghcr.io/jimbrig/jimsghstars:latest && \
+          docker push ghcr.io/jimbrig/jimsghstars:latest
       - name: execute
         run: >
           docker run 
