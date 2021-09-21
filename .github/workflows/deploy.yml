@@ -13,9 +13,8 @@ jobs:
         run: cd app && docker build -t main .
       - name: push
         run: >
-          echo {{secrets.GITHUB_TOKEN }} | docker login ghcr.io -u jimbrig --password-stdin && \
-          docker tag main ghcr.io/jimbrig/jimsghstars:latest && \
-          docker push ghcr.io/jimbrig/jimsghstars:latest
+          # echo {{ secrets.GITHUB_TOKEN }} | docker login ghcr.io -u jimbrig --password-stdin && \
+          docker login ghcr.io && docker tag main ghcr.io/jimbrig/jimsghstars:latest && docker push ghcr.io/jimbrig/jimsghstars:latest
       - name: execute
         run: >
           docker run 
