@@ -227,6 +227,8 @@
 
 ## C 
 
+- [ventoy/vtoydump](https://github.com/ventoy/vtoydump) - This is a tool used with "Ventoy Compatible".
+- [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [FarGroup/Far-NetBox](https://github.com/FarGroup/Far-NetBox) - SFTP/SCP/FTP/FTPS/WebDAV client for Far Manager (http://farmanager.com/)
 - [michaellukashov/Far-NetBox](https://github.com/michaellukashov/Far-NetBox) - SFTP/SCP/FTP/FTPS/WebDAV client for Far Manager (http://farmanager.com/)
 - [MidnightCommander/mc](https://github.com/MidnightCommander/mc) - Midnight Commander's repository
@@ -427,7 +429,7 @@
 - [appget/appget](https://github.com/appget/appget) - Free and open package manager for Windows.
 - [MRCollective/TortoiseGitToolbar](https://github.com/MRCollective/TortoiseGitToolbar) - Lightweight toolbar for launching commonly used TortoiseGit functionality from within Visual Studio.
 - [dail8859/TurtleHub](https://github.com/dail8859/TurtleHub) - TortoiseGit issue tracker plugin for projects hosted on GitHub
-- [Azure/azure-functions-sql-extension](https://github.com/Azure/azure-functions-sql-extension) - Azure Functions trigger and bindings for SQL
+- [Azure/azure-functions-sql-extension](https://github.com/Azure/azure-functions-sql-extension) - Azure Functions bindings for SQL
 - [tjackenpacken/taskbar-groups](https://github.com/tjackenpacken/taskbar-groups) - Lightweight utility for organizing the taskbar through groups
 - [ReneNyffenegger/show-command-line-arguments](https://github.com/ReneNyffenegger/show-command-line-arguments) - Programs that show the command line arguments that they received.
 - [microsoft/Git-Credential-Manager-Core](https://github.com/microsoft/Git-Credential-Manager-Core) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
@@ -514,6 +516,7 @@
 - [phw198/OutlookGoogleCalendarSync](https://github.com/phw198/OutlookGoogleCalendarSync) - Sync your Outlook and Google calendars
 - [ktheod/OneDriveBully](https://github.com/ktheod/OneDriveBully) - Bully your OneDrive to sync Symbolic Link Folders
 - [andrewiankidd/rcloneExplorer](https://github.com/andrewiankidd/rcloneExplorer) - rclone GUI for Windows
+- [rdotnet/rdotnet](https://github.com/rdotnet/rdotnet) - .NET interop library to call the R statistical language in the same process
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [chkiefer/ShinyViewerTemplate](https://github.com/chkiefer/ShinyViewerTemplate) - A tool to create a standalone Windows program for Shiny Apps
@@ -527,6 +530,7 @@
 
 ## C++ 
 
+- [muellan/clipp](https://github.com/muellan/clipp) - easy to use, powerful & expressive command line argument parsing for modern C++ / single header / usage & doc generation
 - [trexinc/evil-programmers](https://github.com/trexinc/evil-programmers) - Misc. Far plugins and tools by evil programmers
 - [Maximus5/FarPlugins](https://github.com/Maximus5/FarPlugins) - Some plugins for Far Manager
 - [FarGroup/FarManager](https://github.com/FarGroup/FarManager) - File and Archive Manager
@@ -605,7 +609,7 @@
 - [gagolews/stringi](https://github.com/gagolews/stringi) - THE String Processing Package for R (with ICU)
 - [rstudio/sass](https://github.com/rstudio/sass) - Sass compiler package for R
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
-- [r-lib/cpp11](https://github.com/r-lib/cpp11) - cpp11 is a header-only R package that helps R package developers handle R objects with C++ code.
+- [r-lib/cpp11](https://github.com/r-lib/cpp11) - cpp11 helps you to interact with R objects using C++ code.
 - [vspinu/timechange](https://github.com/vspinu/timechange) - Efficient Updating of Date-Times
 - [rprichard/winpty](https://github.com/rprichard/winpty) - A Windows software package providing an interface similar to a Unix pty-master for communicating with Windows console programs.
 - [r-lib/fastmap](https://github.com/r-lib/fastmap) - Fast map implementation for R
@@ -672,7 +676,7 @@
 - [iamshaunjp/sass-playlist](https://github.com/iamshaunjp/sass-playlist) - Course files for The Net Ninja SASS tutorial playlist on YouTube
 - [iamshaunjp/next-contentful](https://github.com/iamshaunjp/next-contentful) - All course files for the Next.js & Contentful tutorial series on the Net Ninja YouTube channel.
 - [ahkscript/ahkbook](https://github.com/ahkscript/ahkbook) - a free online book about AutoHotkey!
-- [Psionica/dual-obsidian-client](https://github.com/Psionica/dual-obsidian-client) - A skilled virtual assistant for Obsidian.
+- [paulbricman/dual-obsidian-client](https://github.com/paulbricman/dual-obsidian-client) - A skilled virtual assistant for Obsidian.
 - [inbo/INBOmd](https://github.com/inbo/INBOmd) - An R package with a collection of RMarkdown styles and templates. Elaborate examples are available at https://github.com/inbo/INBOmd_examples
 - [FinancialMarkets/5MinuteFinance](https://github.com/FinancialMarkets/5MinuteFinance) - Interactive Presentations for Financial Education using R/Shiny.  See full list of presentations (with links) below.
 - [ramnathv/rChartsCalendar](https://github.com/ramnathv/rChartsCalendar) - rCharts binding for CalMap
@@ -967,6 +971,10 @@
 
 ## Go 
 
+- [dominikbraun/timetrace](https://github.com/dominikbraun/timetrace) - Simple time tracking CLI
+- [irevenko/tsukae](https://github.com/irevenko/tsukae) - 🐚📊 Show off your most used shell commands
+- [isacikgoz/gitin](https://github.com/isacikgoz/gitin) - commit/branch/workdir explorer for git
+- [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [bitrise-io/bitrise](https://github.com/bitrise-io/bitrise) - Bitrise runner CLI - run your automations on your Mac or Linux machine -
 - [goby-lang/goby](https://github.com/goby-lang/goby) - Goby - Yet another programming language written in Go
 - [golang/go](https://github.com/golang/go) - The Go programming language
@@ -1222,6 +1230,7 @@
 
 ## HTML 
 
+- [sqlcollaborative/DataSaturdays](https://github.com/sqlcollaborative/DataSaturdays) - A repository for open sourcing a solution for Data Saturdays
 - [earfanfan/yf](https://github.com/earfanfan/yf) - myblog
 - [uikit/uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
 - [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
@@ -1729,6 +1738,7 @@
 
 ## JavaScript 
 
+- [majidsajadi/paperboard](https://github.com/majidsajadi/paperboard) - Paperboard, is a cli application for managing a reading list of bookmarks from the Internet.
 - [philipszdavido/contact-manager](https://github.com/philipszdavido/contact-manager) - A command-line Node.js app powered by TypeScript, Google Cloud Functions and Firebase for managing contacts
 - [SanctumLabs/contact-manager-cli](https://github.com/SanctumLabs/contact-manager-cli) - Manage your contacts from your command line
 - [djhmateer/osr4rights-tools](https://github.com/djhmateer/osr4rights-tools) - 
@@ -1968,7 +1978,6 @@
 - [bencodezen/bens-obsidian-boilerplate](https://github.com/bencodezen/bens-obsidian-boilerplate) - An opinionated kit to provide people some inspiration and ideas for their own workflows.
 - [Monorepo-Actions/setup-gh-cli](https://github.com/Monorepo-Actions/setup-gh-cli) - 
 - [jh3y/kody](https://github.com/jh3y/kody) - .files and environment configuration manager created with node
-- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [tradestatistics/landing](https://github.com/tradestatistics/landing) - Open Trade Statistics landing
 - [softwaretechnik-berlin/dbml-renderer](https://github.com/softwaretechnik-berlin/dbml-renderer) - 
 - [stepanic/dbml](https://github.com/stepanic/dbml) - Database Markup Language (DBML), designed to define and document database structures
@@ -2077,6 +2086,7 @@
 - [deathau/cm-editor-syntax-highlight-obsidian](https://github.com/deathau/cm-editor-syntax-highlight-obsidian) - A plugin for [Obsidian](https://obsidian.md) which allows syntax highlighting for code blocks in the editor.
 - [TehShrike/sync-diigo-to-folder](https://github.com/TehShrike/sync-diigo-to-folder) - Sync all your Diigo bookmarks to a directory as Markdown files.  Intended for use with Obsidian
 - [GetmeUK/ContentTools](https://github.com/GetmeUK/ContentTools) - A JS library for building WYSIWYG editors for HTML content.
+- [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [DenverCoder1/Advent-of-Code-2020---Javascript](https://github.com/DenverCoder1/Advent-of-Code-2020---Javascript) - Advent of Code 2020 Solutions in JavaScript
 - [kdpsingh/rjs](https://github.com/kdpsingh/rjs) - R in JavaScript
@@ -2644,6 +2654,7 @@
 
 ## Kotlin 
 
+- [AmrDeveloper/LinkHub](https://github.com/AmrDeveloper/LinkHub) - LinkHub is a simple and effective link management application that can help you to easily manage your app with no ads!
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [AdevintaSpain/Leku](https://github.com/AdevintaSpain/Leku) - :earth_africa: Map location picker component for Android. Based on Google Maps. An alternative to Google Place Picker.
 - [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
@@ -2769,6 +2780,12 @@
 
 ## Others 
 
+- [theritiktiwari/dev-resources](https://github.com/theritiktiwari/dev-resources) - Here you can find the resources regarding your tech. You can also help someone by uploading some resources.
+- [ventoy/vtoytoolchain](https://github.com/ventoy/vtoytoolchain) - Toolchain package for ventoy
+- [ventoy/backend](https://github.com/ventoy/backend) - This is persistence backend image files for Ventoy
+- [ventoy/statictool](https://github.com/ventoy/statictool) - static build tools
+- [you-dont-need/You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - Stop relying on GUI; CLI **ROCKS**
+- [yabellini/Intro_to_Git_with_Rstudio](https://github.com/yabellini/Intro_to_Git_with_Rstudio) - Repo para el taller de uso de Git con RStudio
 - [dwyl/learn-api-design](https://github.com/dwyl/learn-api-design) - :innocent: Essential learning for people building APIs
 - [staticwebdev/awesome-azure-static-web-apps](https://github.com/staticwebdev/awesome-azure-static-web-apps) - Curated list of resources for Azure Static Web Apps
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
@@ -3699,6 +3716,7 @@
 
 ## Perl 
 
+- [trapd00r/ls--](https://github.com/trapd00r/ls--) - ls on steroids
 - [midenok/stuff-windows](https://github.com/midenok/stuff-windows) - Windows-related setup and utilities stuff: scripts, instructions, etc.
 - [RichiH/myrepos](https://github.com/RichiH/myrepos) - 
 - [jfcoz/postgresqltuner](https://github.com/jfcoz/postgresqltuner) - Simple script to analyse your PostgreSQL database configuration, and give tuning advice
@@ -3710,6 +3728,8 @@
 
 ## PowerShell 
 
+- [kiedtl/winfetch](https://github.com/kiedtl/winfetch) - 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
+- [niklasrast/Windows-GetCurrentLoggedOnUser](https://github.com/niklasrast/Windows-GetCurrentLoggedOnUser) - This repo contains an script to get the currently logged on user from an windows session and you can get a notification on the client and logged on user in teams.
 - [MicrosoftDocs/power-automate-docs](https://github.com/MicrosoftDocs/power-automate-docs) - 
 - [jacqinthebox/packer-templates](https://github.com/jacqinthebox/packer-templates) - Building a development environment with Vagrant, Packer, Windows 10 and Server 2016
 - [Deyda/Snippets](https://github.com/Deyda/Snippets) - 
@@ -3794,7 +3814,7 @@
 - [ralish/PSWinVitals](https://github.com/ralish/PSWinVitals) - Consolidates common system health checks, maintenance tasks & inventory retrieval
 - [dell/OpenManage-PowerShell-Modules](https://github.com/dell/OpenManage-PowerShell-Modules) - 
 - [RamblingCookieMonster/PSStackExchange](https://github.com/RamblingCookieMonster/PSStackExchange) - PowerShell module to query Stack Exchange API
-- [jimbrig/PSWindowsSetup](https://github.com/jimbrig/PSWindowsSetup) - PowerShell Module Assisting with Provisioning and Automating setting up a Windows Installation.
+- [jimbrig/PSWindowsSetup-Old](https://github.com/jimbrig/PSWindowsSetup-Old) - PowerShell Module Assisting with Provisioning and Automating setting up a Windows Installation.
 - [devblackops/Stucco](https://github.com/devblackops/Stucco) - An opinionated Plaster template for high-quality PowerShell modules
 - [sbergwall/RobocopyPS](https://github.com/sbergwall/RobocopyPS) - RobocopyPS
 - [MarcelMeurer/PowerShellGallery-OneDrive](https://github.com/MarcelMeurer/PowerShellGallery-OneDrive) - Repository for https://www.powershellgallery.com/packages/OneDrive
@@ -3829,7 +3849,6 @@
 - [Duffney/archive](https://github.com/Duffney/archive) - Repository of repositories, storing all abandoned but useful code.
 - [Duffney/PowerShell](https://github.com/Duffney/PowerShell) - A PowerShell Repository for all the miscellaneous scripts I'm working on. Enjoy!
 - [Duffney/becomeansible](https://github.com/Duffney/becomeansible) - Start as a beginner, leave production ready. Begin with running ad-hoc Ansible commands and end deploying Ansible with GitHub Actions.
-- [kiedtl/winfetch](https://github.com/kiedtl/winfetch) - 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
 - [DBHeise/VM_Setup](https://github.com/DBHeise/VM_Setup) - A collection of scripts to initialize a windows VM to run all the malwares!
 - [EvotecIT/PSWriteColor](https://github.com/EvotecIT/PSWriteColor) - Write-Color is a wrapper around Write-Host allowing you to create nice looking scripts, with colorized output.
 - [JeffBrownTech/powershell-prompts](https://github.com/JeffBrownTech/powershell-prompts) - Examples of how to create user prompts in PowerShell
@@ -4154,6 +4173,11 @@
 
 ## Python 
 
+- [aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE](https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE) - Do you want to LEARN NEW STUFF for FREE? Don't worry, with the power of web-scraping and automation, this script will find the necessary Udemy coupons & enroll you for PAID UDEMY COURSES, ABSOLUTELY FREE!
+- [pshah123/console-logging](https://github.com/pshah123/console-logging) - Better, prettier commandline logging for Python--with colors! :ghost:
+- [nirvik/iWant](https://github.com/nirvik/iWant) - Commandline tool for searching and downloading files in LAN network, without any central server
+- [gautamkrishnar/socli](https://github.com/gautamkrishnar/socli) - Stack overflow command line client. Search and browse stack overflow without leaving the terminal :computer:
+- [sdushantha/wifi-password](https://github.com/sdushantha/wifi-password) - Quickly fetch your WiFi password and if needed, generate a QR code of your WiFi to allow phones to easily connect
 - [mrmattwilkins/google-contacts-sync](https://github.com/mrmattwilkins/google-contacts-sync) - Sync google contacts between accounts using People API
 - [tgray/muttqt](https://github.com/tgray/muttqt) - mutt query tool
 - [scheibler/khard](https://github.com/scheibler/khard) - Console carddav client
@@ -4195,6 +4219,7 @@
 - [scholer/actionista-todoist](https://github.com/scholer/actionista-todoist) - CLI tool to manage your Todoist tasks from the command line, using powerful filters to select, print, reschedule, and complete tasks in a batch-wise fashion.
 - [anicolaides/todoist-gcal-sync](https://github.com/anicolaides/todoist-gcal-sync) - 📅 ✔️ Bi-directional syncing between Todoist and Google Calendar (deprecated).
 - [Garee/pytodoist](https://github.com/Garee/pytodoist) - Use Todoist with Python ✅
+- [aws-samples/aws-fargate-with-rstudio-open-source](https://github.com/aws-samples/aws-fargate-with-rstudio-open-source) - This project delivers AWS CDK Python code to provision serverless infrastructure in AWS Cloud to run Open Source RStudio Server and Shiny.
 - [martapanc/Raindrop.io-digest](https://github.com/martapanc/Raindrop.io-digest) - 
 - [btnhd/BTNHD](https://github.com/btnhd/BTNHD) - All files (notes, scripts, and reference links) used within YouTube videos are placed here.
 - [jonathan-s/pelican-obsidian](https://github.com/jonathan-s/pelican-obsidian) - Makes it possible to bridge work in obsidian to pelican seamlessly
@@ -4261,6 +4286,7 @@
 - [datasnakes/renv](https://github.com/datasnakes/renv) - Creating virtual environments for R.
 - [bearloga/gsc-utils](https://github.com/bearloga/gsc-utils) - Utility to facilitate fetching data from Google Search Console API
 - [carlosdg/PythonPostgresDockerTemplate](https://github.com/carlosdg/PythonPostgresDockerTemplate) - Simple template for a project using Python and PostgreSQL with Docker. Using the `psycopg2-binary` package for connecting to the database
+- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [oohlaf/dotsecrets](https://github.com/oohlaf/dotsecrets) - DotSecrets is a tool to facilitate keeping your dotfiles in Git, including those with private information. The private information is filtered before committing to the repository. DotSecrets is able to symlink your dotfiles into your home directory similar to Stow.
 - [postgres/pgadmin4](https://github.com/postgres/pgadmin4) - Mirror of the pgAdmin 4 GIT repo. DO NOT submit pull requests here! Use the pgadmin-hackers@lists.postgresql.org mailing list. Issues should be logged at https://redmine.postgresql.org/projects/pgadmin4.
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.
@@ -4313,7 +4339,7 @@
 - [crdoconnor/strictyaml](https://github.com/crdoconnor/strictyaml) - Type-safe YAML parser and validator.
 - [Teraskull/PyDebloatX](https://github.com/Teraskull/PyDebloatX) - Python GUI for uninstalling the default Windows 10 apps.
 - [Kharacternyk/dotcommon](https://github.com/Kharacternyk/dotcommon) - What do people have in their dotfiles?
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build and manage real-life data science projects with ease.
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build and manage real-life data science projects with ease :rocket:
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [plotly/dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
 - [balaji-dutt/zettel-hugo-postmaker](https://github.com/balaji-dutt/zettel-hugo-postmaker) - A set of Python scripts that converts wikilinks in Markdown files into standard Hugo links.
@@ -4551,6 +4577,8 @@
 
 ## R 
 
+- [cotsapaslab/jlim](https://github.com/cotsapaslab/jlim) - 
+- [social-connectedness-index/example-scripts](https://github.com/social-connectedness-index/example-scripts) - A repository of academic resources to help make use of the Facebook Social Connectedness Index data.
 - [kasaai/cellar](https://github.com/kasaai/cellar) - Data with terroir.
 - [ArnaudBu/ReservingLad](https://github.com/ArnaudBu/ReservingLad) - R package for reserving in non life insurance
 - [issactoast/SOAmort](https://github.com/issactoast/SOAmort) - R package for the book; R for actuaries
@@ -4744,7 +4772,6 @@
 - [etiennebacher/circletyper](https://github.com/etiennebacher/circletyper) - Curve Text Elements in R Shiny Using 'CircleType.js'
 - [etiennebacher/ebmisc](https://github.com/etiennebacher/ebmisc) - Personal list of functions
 - [etiennebacher/r-js-adaptation](https://github.com/etiennebacher/r-js-adaptation) - A list of Javascript and CSS libraries that have been adapted in R.
-- [etiennebacher/package_status](https://github.com/etiennebacher/package_status) - Summarise status of my packages
 - [etiennebacher/prompter](https://github.com/etiennebacher/prompter) - Add Tooltips in 'Shiny' Apps With 'Hint.css'
 - [OHDSI/ROhdsiWebApi](https://github.com/OHDSI/ROhdsiWebApi) - An R package for interfacing with a WebAPI instance
 - [paciorek/future-kubernetes-docker](https://github.com/paciorek/future-kubernetes-docker) - A Docker container for use in a Kubernetes cluster with the R future package.
@@ -4923,7 +4950,6 @@
 - [ipeaGIT/gtfstools](https://github.com/ipeaGIT/gtfstools) - General Transit Feed Specification (GTFS) Editing and Analysing Tools
 - [randy3k/shiny-appengine-demo](https://github.com/randy3k/shiny-appengine-demo) - Running Shiny app on Google App Engine
 - [ramhiser/retry](https://github.com/ramhiser/retry) - R Package to Retry Any Function
-- [ramhiser/retry](https://github.com/ramhiser/retry) - R Package to Retry Any Function
 - [RMHogervorst/badgecreatr](https://github.com/RMHogervorst/badgecreatr) - Quickly place relevant badges at the top of your readme, stop copy pasting, start on your project
 - [RMHogervorst/testshiny](https://github.com/RMHogervorst/testshiny) - 
 - [sebastiz/EndoMineR](https://github.com/sebastiz/EndoMineR) - Endoscopic and Pathological data extraction for various endo-pathological data extraction
@@ -5065,7 +5091,6 @@
 - [zevross-spatial/rpackage-sensorDataImport](https://github.com/zevross-spatial/rpackage-sensorDataImport) - 
 - [jsugarelli/pointr](https://github.com/jsugarelli/pointr) - Working comfortably with pointers and shortcuts to R objects
 - [Kohze/fireData](https://github.com/Kohze/fireData) - Firebase + R
-- [OliverHennhoefer/R_Shiny_DataTable_DeleteRowSelection](https://github.com/OliverHennhoefer/R_Shiny_DataTable_DeleteRowSelection) - Example of interactively adding rows / deleting rows by selecting directly in a data.table (DT) in Shiny
 - [OliverHennhoefer/R_Shiny_DataTable_DeleteRowSelection](https://github.com/OliverHennhoefer/R_Shiny_DataTable_DeleteRowSelection) - Example of interactively adding rows / deleting rows by selecting directly in a data.table (DT) in Shiny
 - [cgwhitehead/golfstats](https://github.com/cgwhitehead/golfstats) - gather and clean pga stats for fantasy golf
 - [GegznaV/conspect.helper](https://github.com/GegznaV/conspect.helper) - :warning: :zap: Convenience functions for personal use (R package)
@@ -6058,7 +6083,6 @@
 - [rstudio/bookdown.org](https://github.com/rstudio/bookdown.org) - Source documents to generate the bookdown.org website
 - [Appsilon/shiny.info](https://github.com/Appsilon/shiny.info) - Display simple diagnostic info of your Shiny app
 - [mllg/checkmate](https://github.com/mllg/checkmate) - Fast and versatile argument checks
-- [abresler/fundManageR](https://github.com/abresler/fundManageR) - An Investment Management toolkit for R.  Because Excel is a threat to the global financial system.
 - [abresler/fundManageR](https://github.com/abresler/fundManageR) - An Investment Management toolkit for R.  Because Excel is a threat to the global financial system.
 - [ColinFay/crrry](https://github.com/ColinFay/crrry) - 'crrri' recipes for 'shiny'
 - [rstudio/shinymeta](https://github.com/rstudio/shinymeta) - Record and expose Shiny app logic using metaprogramming
@@ -7152,6 +7176,7 @@
 
 ## Ruby 
 
+- [copiousfreetime/launchy](https://github.com/copiousfreetime/launchy) - A helper for launching cross-platform applications in a fire and forget manner.
 - [michaeltlombardi/puppetlabs-powershell](https://github.com/michaeltlombardi/puppetlabs-powershell) - powershell provider for the Puppet exec resource type
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language [mirror]
 - [Homebrew/linuxbrew-core](https://github.com/Homebrew/linuxbrew-core) - 🍻🐧 Core formulae for the Homebrew package manager on Linux
@@ -7347,6 +7372,13 @@
 
 ## Shell 
 
+- [git-time-metric/gtm-terminal-plugin](https://github.com/git-time-metric/gtm-terminal-plugin) - Plugin for Bash or ZSH to be used with the Git Time Metric platform
+- [ventoy/wimiso](https://github.com/ventoy/wimiso) - This is an iso template for Ventoy to boot WIM file.
+- [pabloariasal/zfm](https://github.com/pabloariasal/zfm) - Zsh Fuzzy Marks
+- [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [s-p-k/foxy](https://github.com/s-p-k/foxy) - A simple script that handles bookmarks stored in a txt file.
+- [tj/bm](https://github.com/tj/bm) - CLI bookmarks -- dropbox persisted bookmarks in your terminal - view screenshots in your browser
 - [J-Swift/cod-stats](https://github.com/J-Swift/cod-stats) - All-inclusive ETL pipeline to pull Modern Warfare statistics and generate statistical reporting for a playgroup
 - [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 - [MicrosoftDocs/azure-devops-docs](https://github.com/MicrosoftDocs/azure-devops-docs) - This repo is the home of the official Azure DevOps documentation for Microsoft. GitHub Issues filed in this repository should be for problems with the documentation.
@@ -7422,7 +7454,6 @@
 - [Mexit/MultiOS-USB](https://github.com/Mexit/MultiOS-USB) - Boot operating systems directly from ISO files
 - [ValdikSS/windows2usb](https://github.com/ValdikSS/windows2usb) - Windows 7/8/8.1/10/11 ISO to Flash Drive burning utility for Linux (MBR/GPT, BIOS/UEFI, FAT32/NTFS)
 - [uup-dump/converter](https://github.com/uup-dump/converter) - Multiplatform UUP converter
-- [aws-samples/aws-fargate-with-rstudio-open-source](https://github.com/aws-samples/aws-fargate-with-rstudio-open-source) - This project delivers AWS CDK Python code to provision serverless infrastructure in AWS Cloud to run Open Source RStudio Server and Shiny.
 - [jimscratch/obsidian-test-sync-vault](https://github.com/jimscratch/obsidian-test-sync-vault) - 
 - [logseq/git-auto](https://github.com/logseq/git-auto) - A Simple Shell Script To Do Git Commit And Push Automatically
 - [udacity/create-your-own-adventure](https://github.com/udacity/create-your-own-adventure) - This is example repo illustrates the concept of a "Pull Request", created as part of the course How to Use Git and GitHub
@@ -7550,7 +7581,7 @@
 - [mrhwick/journal](https://github.com/mrhwick/journal) - easily installed and used CLI journal using obsidian
 - [donnaken15/Autocommit](https://github.com/donnaken15/Autocommit) - using rather than committing every week holding back specific data, to look like any other user making daily contributions
 - [leongrdic/wsl-alias](https://github.com/leongrdic/wsl-alias) - Create aliases for Linux commands in Windows command line (for WSL)
-- [INWTlab/r-config](https://github.com/INWTlab/r-config) - R installation and configuration
+- [INWTlab/r-config](https://github.com/INWTlab/r-config) - R installation and configuration. We have moved this configuration into ansible. This repo is no longer maintained.
 - [nelsonmestevao/spells](https://github.com/nelsonmestevao/spells) - :crystal_ball: Handcrafted spells
 - [topojson/us-atlas](https://github.com/topojson/us-atlas) - Pre-built TopoJSON from the U.S. Census Bureau.
 - [topojson/world-atlas](https://github.com/topojson/world-atlas) - Pre-built TopoJSON from Natural Earth.
@@ -7811,6 +7842,7 @@
 
 ## TypeScript 
 
+- [nexus-uw/vscode-gtm](https://github.com/nexus-uw/vscode-gtm) - 
 - [blogody/api-client](https://github.com/blogody/api-client) - Blogody API Client for your JavaScript/TypeScript projects
 - [blogody/export](https://github.com/blogody/export) - Easily export all your Blogody data
 - [alexobenauer/Cross-reference-Navigation-for-Obsidian](https://github.com/alexobenauer/Cross-reference-Navigation-for-Obsidian) - Cross-reference navigation through your Obsidian tags and notes
@@ -7943,7 +7975,6 @@
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [witheve/Eve](https://github.com/witheve/Eve) - Better tools for thought
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A realtime Database for JavaScript Applications
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A realtime Database for JavaScript Applications
 - [googlemaps/google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [teambit/bit](https://github.com/teambit/bit) - A tool for component-driven application development.
@@ -7968,7 +7999,7 @@
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [Thinkmill/manypkg](https://github.com/Thinkmill/manypkg) - ☔️ An umbrella for your monorepo
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
-- [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A collection of GitHub Actions for interfacing with Google Cloud Platform.
+- [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A GitHub Action for configuring the Google Cloud SDK. The Google Cloud SDK includes both the gcloud and gsutil binaries.
 - [cardinalby/google-api-fetch-token-action](https://github.com/cardinalby/google-api-fetch-token-action) - Call Google Auth API to prevent you refresh token being expired
 - [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry
 - [snyk/release-notes-preview](https://github.com/snyk/release-notes-preview) - GitHub Action for providing release notes preview for semantic releases
@@ -7983,7 +8014,6 @@
 - [rbrcsk/note-tools](https://github.com/rbrcsk/note-tools) - A collection of my tools related to notetaking
 - [lukeleppan/better-word-count](https://github.com/lukeleppan/better-word-count) - Counts the words of selected text in the editor.
 - [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
-- [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
 - [kentaro-m/auto-assign-action](https://github.com/kentaro-m/auto-assign-action) - An action which adds reviewers to the pull request when the pull request is opened.
 - [rainx/assets](https://github.com/rainx/assets) - Javascript/Typescript assets management toolset
