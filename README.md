@@ -55,6 +55,7 @@
   - [Kotlin](#kotlin)
   - [Less](#less)
   - [LiveScript](#livescript)
+  - [Logos](#logos)
   - [Lua](#lua)
   - [M4](#m4)
   - [Makefile](#makefile)
@@ -129,6 +130,7 @@
 
 ## AutoHotkey 
 
+- [Ae3NerdGod/Windows11.Context.Menu.Hack](https://github.com/Ae3NerdGod/Windows11.Context.Menu.Hack) - Automatically opens the "show more" context menu in windows 11
 - [matarum/TuoGui](https://github.com/matarum/TuoGui) - graphic user interface for Tyrant Unleashed Optimizer
 - [ferventcoder/chocolateyautomaticpackages](https://github.com/ferventcoder/chocolateyautomaticpackages) - Deprecated - use https://github.com/ferventcoder/chocolatey-packages now
 - [7plus/7plus](https://github.com/7plus/7plus) - Improving Windows, one by one
@@ -151,6 +153,12 @@
 
 ## Batchfile 
 
+- [Digressive/MDT-Files](https://github.com/Digressive/MDT-Files) - Files for Microsoft Deployment Toolkit
+- [balsamleti/speedup-windows10](https://github.com/balsamleti/speedup-windows10) - The following batch files are included in the archive 1) Advanced Explorer Settings — This changes more than a dozen File Explorer related settings on Windows 10 that turn of animations, enable menus, or turn off things like Toasts. 2) Disable Automatic App Updates — Turns off automatic updates for Windows Store applications. 3) Disable Automatic Windows Updates — Turns off automatic updates for the Windows 10 operating system itself. 4) Disable Cortana Completely — Rename the cortana process searchUI.exe to searchUI.bak. This will kill the process permanetly and save your ressources. 5) Disable Forced Reboot after Update — Blocks Windows from enforcing a reboot after updates that require one. 6) Disable Lockscreen — Turns off the Windows 10 lockscreen. 7) Disable Telemetry — Turns off Windows 10 Telemetry. 8) Disable Unnecessary Services — This disables the MapsBroker, DoSvc and Wsearch services 9) Enable Defender Malware Protection —   Enables Windows malware Protection. 10)Enable Secure Microsoft Edge Settings — Tweaks Microsoft Edge for security. Changes include turning of Flash and Cortana, enabling continuous browsing, and more. 11)Get Back Old Vertical Desktop Icon Distance —  Changes the vertical icon spacing on the desktop. 12)Hide Cortana — Disables Cortana, and with it web searches and other search related parameters. The Microsoft way of disabling Cortana. 13)Hide OneDrive — Hides OneDrive and disables several related settings. 14)Re-enable Cortana Completely — This preferences turns Cortana on again. 15)Uninstall Unnecessary Apps — Removes ten apps that Windows 10 ships with including 3D Builder, Skype App, Getting Started, or Voice Recorder. 16)Enable Administrator Account — This preference enables the hidden administrator account in Windows. 17)Enable Standby instead of Hibernate — Switch powerstate from hibernation (slow) to standby . 18)Get apps access for Administrator Account — Enable access to applications for the administrator account.
+- [und6ne/win11Patcher](https://github.com/und6ne/win11Patcher) - FOSS Patcher in Batchfile for Windows Users to bypass Windows 11 Restrictions - Unfinished
+- [uranaaracci/windows11](https://github.com/uranaaracci/windows11) - 
+- [TheWorldOfPC/Windows11-Debloat-Privacy-Guide](https://github.com/TheWorldOfPC/Windows11-Debloat-Privacy-Guide) - 
+- [kyaulabs/win11tweak](https://github.com/kyaulabs/win11tweak) - An automated way to setup/configure Windows 11 based heavily on post-installation tweaks.
 - [ChrisTitusTech/win10RegistryBackup](https://github.com/ChrisTitusTech/win10RegistryBackup) - 
 - [ChrisTitusTech/win10-fixtimers](https://github.com/ChrisTitusTech/win10-fixtimers) - 
 - [ChrisTitusTech/windows10-checkup](https://github.com/ChrisTitusTech/windows10-checkup) - 
@@ -226,6 +234,9 @@
 
 ## C 
 
+- [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
+- [RandomStuffyeah/Windows11](https://github.com/RandomStuffyeah/Windows11) - Leaked sourcecode
+- [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This application aims to bring back a productive working environment on Windows 11, by restoring dormant functionalities from Windows 10 in the newest OS builds.
 - [ventoy/vtoydump](https://github.com/ventoy/vtoydump) - This is a tool used with "Ventoy Compatible".
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [FarGroup/Far-NetBox](https://github.com/FarGroup/Far-NetBox) - SFTP/SCP/FTP/FTPS/WebDAV client for Far Manager (http://farmanager.com/)
@@ -350,6 +361,15 @@
 
 ## C# # 
 
+- [zumoshi/BrowserSelect](https://github.com/zumoshi/BrowserSelect) - Browser Select is a utility to dynamically select the browser you want instead of just having one default for all links.
+- [MathewSachin/Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that pushes the boundaries of the platform.
+- [Jonno12345/TileIconifier](https://github.com/Jonno12345/TileIconifier) - Creates tiles for most Windows 8.1 and 10 start menu icons
+- [jonaskohl/FIcon](https://github.com/jonaskohl/FIcon) - FIcon is a utility that adds a Tag sub-menu to the context menu of a folder in Windows Explorer. It allows you to change the colour of a folder icon with ease, which helps you to stay organised.
+- [davotronic5000/PowerShell_Credential_Manager](https://github.com/davotronic5000/PowerShell_Credential_Manager) - PowerShell Module to Read and Write Credentials from the Windows Credential Manager
+- [luandersonn/MyFTP](https://github.com/luandersonn/MyFTP) - A modern FTP client for Windows 11
+- [dongle-the-gadget/W11ISOPatcher](https://github.com/dongle-the-gadget/W11ISOPatcher) - Windows 11 ISO patcher
+- [hahagu/WindowsThumbnailGenerator](https://github.com/hahagu/WindowsThumbnailGenerator) - 
 - [microsoft/Windows-appsample-customers-orders-database](https://github.com/microsoft/Windows-appsample-customers-orders-database) - This code demonstrates a working customer order database hosted on Azure, implemented in C# and XAML, and ready to form the basis of your Windows Store enterprise app.
 - [stnkl/EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [Inedo/upack](https://github.com/Inedo/upack) - upack.exe is a command-line tool used to create and install universal packages; you can also see which packages are installed on a machine.
@@ -529,6 +549,7 @@
 
 ## C++ 
 
+- [ikas-mc/ContextMenuForWindows11](https://github.com/ikas-mc/ContextMenuForWindows11) - 
 - [clementine-player/Clementine](https://github.com/clementine-player/Clementine) - :tangerine: Clementine Music Player
 - [KDE/amarok](https://github.com/KDE/amarok) - Powerful music player that lets you rediscover your music
 - [epoupon/lms](https://github.com/epoupon/lms) - Lightweight Music Server. Access your self-hosted music using a web interface.
@@ -665,6 +686,7 @@
 
 ## CMake 
 
+- [friendlyanon/cmake-init](https://github.com/friendlyanon/cmake-init) - The missing CMake project initializer
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 
 ## CSS 
@@ -771,7 +793,6 @@
 - [zthxxx/wiki-site](https://github.com/zthxxx/wiki-site) - My personal knowledge management site.
 - [gadenbuie/tweet-conf-dash](https://github.com/gadenbuie/tweet-conf-dash) - A shiny twitter conference dashboard
 - [5t3ph/stylestage](https://github.com/5t3ph/stylestage) - A modern CSS showcase styled by community contributions. Add your stylesheet!
-- [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 - [rstudio4edu/rmd4edu](https://github.com/rstudio4edu/rmd4edu) - A fresh batch of R Markdown templates
 - [cjteeter/ShinyTeeter](https://github.com/cjteeter/ShinyTeeter) - 
 - [djnavarro/hugo-llum](https://github.com/djnavarro/hugo-llum) - 
@@ -973,6 +994,8 @@
 
 ## Go 
 
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
+- [microsoft/vscode-winsta11er](https://github.com/microsoft/vscode-winsta11er) - Windows Store Installer for VS Code
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [dominikbraun/timetrace](https://github.com/dominikbraun/timetrace) - Simple time tracking CLI
 - [irevenko/tsukae](https://github.com/irevenko/tsukae) - 🐚📊 Show off your most used shell commands
@@ -1234,6 +1257,10 @@
 
 ## HTML 
 
+- [jthomasmock/pkg-building](https://github.com/jthomasmock/pkg-building) - 
+- [JPTGamesAndApps/ShresthaFiles](https://github.com/JPTGamesAndApps/ShresthaFiles) - A Modern File Manager for Windows 10 and Windows 11 Devices!
+- [raushanranjan103/Windows11.github.io](https://github.com/raushanranjan103/Windows11.github.io) - 
+- [Rajaniraiyn/windows11](https://github.com/Rajaniraiyn/windows11) - Want to experience Windows 11 now within your browser?
 - [sqlcollaborative/DataSaturdays](https://github.com/sqlcollaborative/DataSaturdays) - A repository for open sourcing a solution for Data Saturdays
 - [earfanfan/yf](https://github.com/earfanfan/yf) - myblog
 - [uikit/uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
@@ -1743,6 +1770,10 @@
 
 ## JavaScript 
 
+- [chruxin/merge-md](https://github.com/chruxin/merge-md) - Merge files in a directory. https://www.npmjs.com/package/merge-md
+- [FaisalUmair/udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses
+- [sahin/serverless-youtube-dl](https://github.com/sahin/serverless-youtube-dl) - Amazon Lambda - Serverless youtube-dl
+- [sanity-io/sanity-template-nextjs-blog-comments](https://github.com/sanity-io/sanity-template-nextjs-blog-comments) - 
 - [elestio/cloudgate](https://github.com/elestio/cloudgate) - Cloudgate is a fast web application server for Node.js
 - [kirillseva/r4ds](https://github.com/kirillseva/r4ds) - R for data science
 - [kirillseva/react-boilerplate](https://github.com/kirillseva/react-boilerplate) - Quick setup for performance orientated, offline-first React.js applications featuring Redux, hot-reloading, PostCSS, react-router, ServiceWorker, AppCache, FontFaceObserver and Mocha.
@@ -1990,7 +2021,6 @@
 - [bencodezen/bens-obsidian-boilerplate](https://github.com/bencodezen/bens-obsidian-boilerplate) - An opinionated kit to provide people some inspiration and ideas for their own workflows.
 - [Monorepo-Actions/setup-gh-cli](https://github.com/Monorepo-Actions/setup-gh-cli) - 
 - [jh3y/kody](https://github.com/jh3y/kody) - .files and environment configuration manager created with node
-- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [tradestatistics/landing](https://github.com/tradestatistics/landing) - Open Trade Statistics landing
 - [softwaretechnik-berlin/dbml-renderer](https://github.com/softwaretechnik-berlin/dbml-renderer) - 
 - [stepanic/dbml](https://github.com/stepanic/dbml) - Database Markup Language (DBML), designed to define and document database structures
@@ -2688,6 +2718,10 @@
 
 - [gkz/LiveScript](https://github.com/gkz/LiveScript) - LiveScript is a language which compiles to JavaScript. It has a straightforward mapping to JavaScript and allows you to write expressive code devoid of repetitive boilerplate. While LiveScript adds many features to assist in functional style programming, it also has many improvements for object oriented and imperative programming.
 
+## Logos 
+
+- [schneelittchen/Diary](https://github.com/schneelittchen/Diary) - Windows 10/11 lock screen replica
+
 ## Lua 
 
 - [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
@@ -2793,6 +2827,19 @@
 
 ## Others 
 
+- [simple-works/dll-icons](https://github.com/simple-works/dll-icons) - 🔣 Icons compiled into Windows DLL resource files.
+- [moxwel/custom-folder-icons](https://github.com/moxwel/custom-folder-icons) - Multipurpose folder icons for a variety of programs and games
+- [blackcatprog/folder-icons](https://github.com/blackcatprog/folder-icons) - Украсьте свою систему!
+- [jimbrig/Dotfiles-for-Windows-11](https://github.com/jimbrig/Dotfiles-for-Windows-11) - Dotfiles script to setup a development environment in Microsoft Windows 11.
+- [iXyles/UtilityBox](https://github.com/iXyles/UtilityBox) - UtilityBox - Tool to ease the process of a newly installed Windows 10 & 11 computer.
+- [Mr4Mike4/7-Zip-Filetype-Theme](https://github.com/Mr4Mike4/7-Zip-Filetype-Theme) - 7-Zip Filetype Theme Windows 10 and Windows 11
+- [windows11-indonesia/taskbar-windows11](https://github.com/windows11-indonesia/taskbar-windows11) - 
+- [kanetjuh/windows11](https://github.com/kanetjuh/windows11) - The unofficial documentation of how to install Windows 11
+- [Pasta-amongus/Windows-11](https://github.com/Pasta-amongus/Windows-11) - download win11 now!
+- [marcel-kraatz/windows11-mods](https://github.com/marcel-kraatz/windows11-mods) - Make Windows 11 a bit more homey
+- [daviiid99/Windows-11-Builds](https://github.com/daviiid99/Windows-11-Builds) - Patched ISO images of Microsoft Windows 11
+- [AllCoinCrypto/Windows-11-VPS](https://github.com/AllCoinCrypto/Windows-11-VPS) - 😎😘 Free Windows 11 VPS for 1 Hours ! Easy Method!
+- [kasim1011/odoo-11.0-windows-installation](https://github.com/kasim1011/odoo-11.0-windows-installation) - Install odoo-11.0 from source on Windows
 - [kirillseva/avant-r-python](https://github.com/kirillseva/avant-r-python) - R and python xgboost in one image
 - [kirillseva/R-buildpack](https://github.com/kirillseva/R-buildpack) - 
 - [learn-anything/command-line-tools](https://github.com/learn-anything/command-line-tools) - Awesome Command Line Utilities
@@ -3243,7 +3290,6 @@
 - [oholovko/git-crypt-windows](https://github.com/oholovko/git-crypt-windows) - Auto build AGWA/git-crypt for Windows.
 - [cderv/pins-board](https://github.com/cderv/pins-board) - To share data using the pins package
 - [tidyverse/tidy-dev-day](https://github.com/tidyverse/tidy-dev-day) - Tidyverse developer day
-- [tidyverse/.github](https://github.com/tidyverse/.github) - Community health files for the tidyverse organization.
 - [kevinushey/docs](https://github.com/kevinushey/docs) - Some documentation for rtools40 and R for Windows
 - [kevinushey/texPreview](https://github.com/kevinushey/texPreview) - Efficiently iterate, refine and share snippets of LaTeX in R with ease
 - [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
@@ -3729,6 +3775,7 @@
 
 ## Pascal 
 
+- [miracle2k/ntfslink](https://github.com/miracle2k/ntfslink) - A set of Windows Shell Extensions, providing extended functionality for creating and using hard links and junction points on NTFS file systems.
 - [jrsoftware/issrc](https://github.com/jrsoftware/issrc) - Inno Setup is a free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.
 
 ## Perl 
@@ -3745,6 +3792,29 @@
 
 ## PowerShell 
 
+- [muhamedkarajic/windows-config](https://github.com/muhamedkarajic/windows-config) - Includes some Scripts, Icons, and Resitory files for changing default or annoying behavior of Windows 10. Such as the pop up when entering the E-mail or the part when removing the Explorer Ribbon and QTTabBar settings.
+- [KriNiTo/MarkFolderGitRepo](https://github.com/KriNiTo/MarkFolderGitRepo) - Mark Folders in Windows Explorer with a Git-Icon to visualize that a Git-Repo exists
+- [DanysysTeam/PS-SFTA](https://github.com/DanysysTeam/PS-SFTA) - PowerShell Set File Type Association
+- [Digressive/Email-HTML-Logs](https://github.com/Digressive/Email-HTML-Logs) - Send HTML logs as e-mail
+- [Digressive/Windows-Server-Status-Monitor](https://github.com/Digressive/Windows-Server-Status-Monitor) - PowerShell based Windows Server monitor
+- [Digressive/Office-Update](https://github.com/Digressive/Office-Update) - Office Update Manager
+- [Digressive/Network-Device-Status-Monitor](https://github.com/Digressive/Network-Device-Status-Monitor) - PowerShell based network attached device monitor
+- [Digressive/Logon-Audit](https://github.com/Digressive/Logon-Audit) - Record log on and log off events with this PowerShell script.
+- [Digressive/Log-Manager](https://github.com/Digressive/Log-Manager) - Flexible clean up and backup of log files.
+- [Digressive/Internet-Access-Control](https://github.com/Digressive/Internet-Access-Control) - Control internet access with Windows Firewall
+- [Digressive/Bash-Bunny-Payloads](https://github.com/Digressive/Bash-Bunny-Payloads) - Payloads for the Bash Bunny
+- [Digressive/Automate-Office-365-Licensing](https://github.com/Digressive/Automate-Office-365-Licensing) - PowerShell script to assign Office 365 license to users in an Active Directory OU structure.
+- [Digressive/Handy-Dandy-Scripts](https://github.com/Digressive/Handy-Dandy-Scripts) - ^^
+- [Digressive/On-Prem-AD-User-Creator-Utility](https://github.com/Digressive/On-Prem-AD-User-Creator-Utility) - Configurable Script For Creating Active Directory User Accounts
+- [Digressive/Image-Factory](https://github.com/Digressive/Image-Factory) - Automate Creation of WIM Files
+- [BlueGuyYT/Windows-11-Debloater](https://github.com/BlueGuyYT/Windows-11-Debloater) - Simple Windows 11 Debloater
+- [ixi-your-face/Useful-Windows-11-Scripts](https://github.com/ixi-your-face/Useful-Windows-11-Scripts) - Repo to store some useful Windows 11 scripts and documentation
+- [WinTweakers/WindowsToolbox](https://github.com/WinTweakers/WindowsToolbox) - A powerful but simple, easy to use toolbox for Windows 10 / 11.
+- [JosephM101/Force-Windows-11-Install](https://github.com/JosephM101/Force-Windows-11-Install) - Creates a hybrid ISO image that houses the Windows 11 install files in a Windows 10 installer image to bypass the TPM and Secure Boot install-time requirements.
+- [Damokless/Windows10-Optimization](https://github.com/Damokless/Windows10-Optimization) - Community repository, to improve security and performance of Windows 10/11 with tweaks, commands, scripts, registry keys, configuration, tutorials and more
+- [JMOrbegoso/Dotfiles-for-Windows-11](https://github.com/JMOrbegoso/Dotfiles-for-Windows-11) - Dotfiles script to setup a development environment in Microsoft Windows 11.
+- [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) - For those who seek to minimize their Windows 10 installs.
+- [simeononsecurity/Automate-Sysmon](https://github.com/simeononsecurity/Automate-Sysmon) - Automate Sysmon Deployment and Configuration
 - [kiedtl/winfetch](https://github.com/kiedtl/winfetch) - 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
 - [niklasrast/Windows-GetCurrentLoggedOnUser](https://github.com/niklasrast/Windows-GetCurrentLoggedOnUser) - This repo contains an script to get the currently logged on user from an windows session and you can get a notification on the client and logged on user in teams.
 - [MicrosoftDocs/power-automate-docs](https://github.com/MicrosoftDocs/power-automate-docs) - 
@@ -4190,6 +4260,14 @@
 
 ## Python 
 
+- [ag2307/Useful-Scripts-Links](https://github.com/ag2307/Useful-Scripts-Links) - Links to various courses and help material
+- [cpbotha/xdg-open-wsl](https://github.com/cpbotha/xdg-open-wsl) - xdg-open replacement for WSL that opens files and links using Windows apps.
+- [ueffel/Keypirinha-WindowsApps](https://github.com/ueffel/Keypirinha-WindowsApps) - Lists Universal Windows Apps (formerly Metro Apps) and direct links to several windows 10 settings pages in Keypirinha for launching
+- [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python
+- [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
+- [CAVIND46016/Folder_Customization-Icons](https://github.com/CAVIND46016/Folder_Customization-Icons) - Automating applying icons to folders in Windows OS.
+- [Zebradil/Gimme-iPhotos](https://github.com/Zebradil/Gimme-iPhotos) - Download media files from iCloud.
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [darknessomi/musicbox](https://github.com/darknessomi/musicbox) - 网易云音乐命令行版本
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE](https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE) - Do you want to LEARN NEW STUFF for FREE? Don't worry, with the power of web-scraping and automation, this script will find the necessary Udemy coupons & enroll you for PAID UDEMY COURSES, ABSOLUTELY FREE!
@@ -4305,6 +4383,7 @@
 - [datasnakes/renv](https://github.com/datasnakes/renv) - Creating virtual environments for R.
 - [bearloga/gsc-utils](https://github.com/bearloga/gsc-utils) - Utility to facilitate fetching data from Google Search Console API
 - [carlosdg/PythonPostgresDockerTemplate](https://github.com/carlosdg/PythonPostgresDockerTemplate) - Simple template for a project using Python and PostgreSQL with Docker. Using the `psycopg2-binary` package for connecting to the database
+- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [oohlaf/dotsecrets](https://github.com/oohlaf/dotsecrets) - DotSecrets is a tool to facilitate keeping your dotfiles in Git, including those with private information. The private information is filtered before committing to the repository. DotSecrets is able to symlink your dotfiles into your home directory similar to Stow.
 - [postgres/pgadmin4](https://github.com/postgres/pgadmin4) - Mirror of the pgAdmin 4 GIT repo. DO NOT submit pull requests here! Use the pgadmin-hackers@lists.postgresql.org mailing list. Issues should be logged at https://redmine.postgresql.org/projects/pgadmin4.
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.
@@ -4366,7 +4445,7 @@
 - [lggruspe/slipbox](https://github.com/lggruspe/slipbox) - A static site generator for Zettelkasten notes
 - [djplaner/memex](https://github.com/djplaner/memex) - Nascent attempt at using Foam to curate and leverage a personal memex
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge framework (CK) helps to organize software projects as a database of reusable components, automation recipes and portable workflows with common APIs and extensible meta descriptions based on FAIR principles. See the real-world use cases to support reproducible MLSys R&D, enable portable MLOps and automate ML/SW/HW co-design:
+- [mlcommons/ck](https://github.com/mlcommons/ck) - The Collective Knowledge project (CK) aims at making it easier to design, benchmark, optimize and deploy Machine Learning Systems in the real world across continuously evolving software, hardware and data sets with the help of the community. See MLPerf inference benchmark automation use case powered by CK:
 - [bhrigu123/classifier](https://github.com/bhrigu123/classifier) - Organize files in your directory instantly, by classifying them into different folders
 - [mcharleb/gittagstats](https://github.com/mcharleb/gittagstats) - 
 - [jctanner/ansible-tools](https://github.com/jctanner/ansible-tools) - 
@@ -4595,6 +4674,11 @@
 
 ## R 
 
+- [richelbilderbeek/plinkr](https://github.com/richelbilderbeek/plinkr) - Work with PLINK from R
+- [r-lib/httr2](https://github.com/r-lib/httr2) - Make HTTP requests and process their responses. A modern reimagining of httr.
+- [expersso/BIS](https://github.com/expersso/BIS) - Programmatic access to BIS data
+- [jacobkap/asciiSetupReader](https://github.com/jacobkap/asciiSetupReader) - R package to read fixed-width ASCII files using SPSS or SAS setup files
+- [thebioengineer/tidytuesdayR](https://github.com/thebioengineer/tidytuesdayR) - Extract weekly TidyTuesday Data/Readme
 - [tidymodels/dials](https://github.com/tidymodels/dials) - Tools for creating tuning parameter values
 - [GuangchuangYu/hexSticker](https://github.com/GuangchuangYu/hexSticker) - :sparkles: Hexagon sticker in R
 - [nedwardsthro/Thesis_Work](https://github.com/nedwardsthro/Thesis_Work) - Wake Forest University Senior Year Thesis Work
@@ -7281,6 +7365,8 @@
 
 ## Rust 
 
+- [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for the Windows SDK
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [stepchowfun/docuum](https://github.com/stepchowfun/docuum) - Docuum performs least recently used (LRU) eviction of Docker images. 🗑️
 - [stepchowfun/toast](https://github.com/stepchowfun/toast) - Containerize your development and continuous integration environments. 🥂
 - [gleich/profile_stack](https://github.com/gleich/profile_stack) - 🚀 Display your tech stack on your GitHub profile's README
@@ -7334,7 +7420,7 @@
 - [andy-5/wslgit](https://github.com/andy-5/wslgit) - Use Git installed in Bash on Windows/Windows Subsystem for Linux (WSL) from Windows and Visual Studio Code (VSCode)
 - [deislabs/akri](https://github.com/deislabs/akri) - A Kubernetes Resource Interface for the Edge
 - [federico-terzi/espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
-- [dandavison/delta](https://github.com/dandavison/delta) - A viewer for git and diff output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git
 - [tversteeg/emplace](https://github.com/tversteeg/emplace) - 👩‍❤️‍💋‍👩 Synchronize installed packages on multiple machines
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [clog-tool/clog-cli](https://github.com/clog-tool/clog-cli) - Generate beautiful changelogs from your Git commit history
@@ -7369,6 +7455,7 @@
 - [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [cobidev/simplefolio](https://github.com/cobidev/simplefolio) - ⚡️ A minimal portfolio template for Developers
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
+- [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 - [DivadNojnarg/OSUICode](https://github.com/DivadNojnarg/OSUICode) - Standalone code for the "Outstanding Shiny UI" Book
 - [f-prime/Blunt](https://github.com/f-prime/Blunt) - A CSS framework that helps with layouts and leaves your styling alone.
 - [gadenbuie/rsthemes](https://github.com/gadenbuie/rsthemes) - 🔮 Full RStudio IDE and Syntax Themes
@@ -7408,6 +7495,9 @@
 
 ## Shell 
 
+- [shumbert/geeky-wiki](https://github.com/shumbert/geeky-wiki) - 
+- [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB) - A Microsoft Windows® USB installation media preparer for GNU+Linux
+- [jsamr/bootiso](https://github.com/jsamr/bootiso) - A bash program to securely create a bootable USB device from one image file.
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
 - [arubislander/subsonic-snap](https://github.com/arubislander/subsonic-snap) - A Snap for the Subsonic server
 - [git-time-metric/gtm-terminal-plugin](https://github.com/git-time-metric/gtm-terminal-plugin) - Plugin for Bash or ZSH to be used with the Git Time Metric platform
@@ -7785,6 +7875,7 @@
 
 ## Swift 
 
+- [Jinxiansen/Windows11](https://github.com/Jinxiansen/Windows11) - 💻 Windows 11 in SwiftUI.
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [WeTransfer/Mocker](https://github.com/WeTransfer/Mocker) - Mock Alamofire and URLSession requests without touching your code implementation
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
@@ -8225,6 +8316,7 @@
 
 ## Vim script 
 
+- [preservim/tagbar](https://github.com/preservim/tagbar) - Vim plugin that displays tags in a window, ordered by scope
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [grawity/dotfiles](https://github.com/grawity/dotfiles) - 
@@ -8272,6 +8364,7 @@
 
 ## Visual Basic .NET 
 
+- [euzzeud/GetWindows11Utility](https://github.com/euzzeud/GetWindows11Utility) - A utility that allows you to download the ISO of the Windows 11!
 - [xBidoof/FileWatcher](https://github.com/xBidoof/FileWatcher) - FileWatcher application for Windows only
 - [faffolao/Windows10_postinstall](https://github.com/faffolao/Windows10_postinstall) - Graphic tool for configure Windows 10 after a fresh installation. Based on the original "Win10-initial-setup-script" by Disassembler.
 - [Vitosh/VBA_personal](https://github.com/Vitosh/VBA_personal) - Library with VBA, used in multiple projects.
