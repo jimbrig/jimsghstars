@@ -130,6 +130,7 @@
 
 ## AutoHotkey 
 
+- [N1x0/Winconfig](https://github.com/N1x0/Winconfig) - Personal configuration for windows 10 (1903/1909)
 - [Ae3NerdGod/Windows11.Context.Menu.Hack](https://github.com/Ae3NerdGod/Windows11.Context.Menu.Hack) - Automatically opens the "show more" context menu in windows 11
 - [matarum/TuoGui](https://github.com/matarum/TuoGui) - graphic user interface for Tyrant Unleashed Optimizer
 - [ferventcoder/chocolateyautomaticpackages](https://github.com/ferventcoder/chocolateyautomaticpackages) - Deprecated - use https://github.com/ferventcoder/chocolatey-packages now
@@ -153,6 +154,7 @@
 
 ## Batchfile 
 
+- [tschutter/MyAppData](https://github.com/tschutter/MyAppData) - Windows dotfiles
 - [Digressive/MDT-Files](https://github.com/Digressive/MDT-Files) - Files for Microsoft Deployment Toolkit
 - [balsamleti/speedup-windows10](https://github.com/balsamleti/speedup-windows10) - The following batch files are included in the archive 1) Advanced Explorer Settings — This changes more than a dozen File Explorer related settings on Windows 10 that turn of animations, enable menus, or turn off things like Toasts. 2) Disable Automatic App Updates — Turns off automatic updates for Windows Store applications. 3) Disable Automatic Windows Updates — Turns off automatic updates for the Windows 10 operating system itself. 4) Disable Cortana Completely — Rename the cortana process searchUI.exe to searchUI.bak. This will kill the process permanetly and save your ressources. 5) Disable Forced Reboot after Update — Blocks Windows from enforcing a reboot after updates that require one. 6) Disable Lockscreen — Turns off the Windows 10 lockscreen. 7) Disable Telemetry — Turns off Windows 10 Telemetry. 8) Disable Unnecessary Services — This disables the MapsBroker, DoSvc and Wsearch services 9) Enable Defender Malware Protection —   Enables Windows malware Protection. 10)Enable Secure Microsoft Edge Settings — Tweaks Microsoft Edge for security. Changes include turning of Flash and Cortana, enabling continuous browsing, and more. 11)Get Back Old Vertical Desktop Icon Distance —  Changes the vertical icon spacing on the desktop. 12)Hide Cortana — Disables Cortana, and with it web searches and other search related parameters. The Microsoft way of disabling Cortana. 13)Hide OneDrive — Hides OneDrive and disables several related settings. 14)Re-enable Cortana Completely — This preferences turns Cortana on again. 15)Uninstall Unnecessary Apps — Removes ten apps that Windows 10 ships with including 3D Builder, Skype App, Getting Started, or Voice Recorder. 16)Enable Administrator Account — This preference enables the hidden administrator account in Windows. 17)Enable Standby instead of Hibernate — Switch powerstate from hibernation (slow) to standby . 18)Get apps access for Administrator Account — Enable access to applications for the administrator account.
 - [und6ne/win11Patcher](https://github.com/und6ne/win11Patcher) - FOSS Patcher in Batchfile for Windows Users to bypass Windows 11 Restrictions - Unfinished
@@ -549,6 +551,7 @@
 
 ## C++ 
 
+- [marche147/sandbox](https://github.com/marche147/sandbox) - Improvised json-based configurable Windows sandbox
 - [ikas-mc/ContextMenuForWindows11](https://github.com/ikas-mc/ContextMenuForWindows11) - 
 - [clementine-player/Clementine](https://github.com/clementine-player/Clementine) - :tangerine: Clementine Music Player
 - [KDE/amarok](https://github.com/KDE/amarok) - Powerful music player that lets you rediscover your music
@@ -691,6 +694,7 @@
 
 ## CSS 
 
+- [mil/markdown-tree](https://github.com/mil/markdown-tree) - A Sinatra script to serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown.
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [89z/hearth](https://github.com/89z/hearth) - Personal config and docs
 - [ilham25/dotfiles-aether](https://github.com/ilham25/dotfiles-aether) - Here is my Aether theme for i3-gaps
@@ -870,6 +874,7 @@
 
 ## Crystal 
 
+- [DFabric/dppm](https://github.com/DFabric/dppm) - An easy way to install and manage server applications
 - [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
 
 ## D 
@@ -994,6 +999,14 @@
 
 ## Go 
 
+- [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
+- [pldubouilh/gossa](https://github.com/pldubouilh/gossa) - 🎶 a fast and simple multimedia fileserver
+- [metrue/fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
+- [marcofranssen/whisky-tango](https://github.com/marcofranssen/whisky-tango) - Universal application installer and system configurator using a config file
+- [cagedtornado/centralconfig](https://github.com/cagedtornado/centralconfig) - Simplified application configuration :wrench:
+- [kha7iq/subvars](https://github.com/kha7iq/subvars) - Substitute  environment variables from command line for template driven configuration files.
+- [cortesi/modd](https://github.com/cortesi/modd) - A flexible developer tool that runs processes and responds to filesystem changes
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [microsoft/vscode-winsta11er](https://github.com/microsoft/vscode-winsta11er) - Windows Store Installer for VS Code
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
@@ -1257,6 +1270,7 @@
 
 ## HTML 
 
+- [guillaumebriday/traefik-docker-ansible](https://github.com/guillaumebriday/traefik-docker-ansible) - 🐳 🐹  This is an Ansible playbook to install multiple Web applications on a single Ubuntu server with Docker and Traefik.
 - [jthomasmock/pkg-building](https://github.com/jthomasmock/pkg-building) - 
 - [JPTGamesAndApps/ShresthaFiles](https://github.com/JPTGamesAndApps/ShresthaFiles) - A Modern File Manager for Windows 10 and Windows 11 Devices!
 - [raushanranjan103/Windows11.github.io](https://github.com/raushanranjan103/Windows11.github.io) - 
@@ -1455,7 +1469,6 @@
 - [rocker-org/shiny](https://github.com/rocker-org/shiny) - 
 - [clauswilke/dataviz](https://github.com/clauswilke/dataviz) - A book covering the fundamentals of data visualization
 - [MilesMcBain/milesmcbain.com](https://github.com/MilesMcBain/milesmcbain.com) - Seeing if I can make my website look any good with distill...
-- [tallguyjenks/tallguyjenks.github.io](https://github.com/tallguyjenks/tallguyjenks.github.io) - My personal Website
 - [bdavis19/Basic-data-manipulation](https://github.com/bdavis19/Basic-data-manipulation) - Springboard - Data Wrangling Exercise 1
 - [yujunkuo/Business-Analytics-with-R](https://github.com/yujunkuo/Business-Analytics-with-R) - This is my homework in the course of Business Analytics with R, 2019@NCCU
 - [JHM9191/Smart_Inventory_Manager](https://github.com/JHM9191/Smart_Inventory_Manager) - This is a IoT project repository. The topic is about Smart Inventory Management using Load Cell Sensor that detects current weight of the IoT Container that we made
@@ -1770,6 +1783,15 @@
 
 ## JavaScript 
 
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
+- [inoda/ontrack](https://github.com/inoda/ontrack) - :money_with_wings: A simple self-hosted budgeting app
+- [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - An open-source, self-hosted, low-code framework to build internal tools, web apps, admin panels, BI dashboards, workflows, and CRUD apps with YAML or JSON.
+- [exoframejs/exoframe-server](https://github.com/exoframejs/exoframe-server) - Exoframe is a self-hosted tool that allows simple one-command deployments using Docker
+- [exoframejs/exoframe](https://github.com/exoframejs/exoframe) - Exoframe is a self-hosted tool that allows simple one-command deployments using Docker
+- [kanishka-linux/reminiscence](https://github.com/kanishka-linux/reminiscence) - Self-Hosted Bookmark And Archive Manager
+- [abskmj/hukum](https://github.com/abskmj/hukum) - An NPM module that displays Github Action progress in the terminal and aims to improve your development experience by printing status in realtime.
+- [envkey/envkey-app](https://github.com/envkey/envkey-app) - Secure, human-friendly, cross-platform secrets and config.
+- [team-inbox/inbox-reborn](https://github.com/team-inbox/inbox-reborn) - Web Extension which brings back the style and features of Google Inbox to Gmail™
 - [chruxin/merge-md](https://github.com/chruxin/merge-md) - Merge files in a directory. https://www.npmjs.com/package/merge-md
 - [FaisalUmair/udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses
 - [sahin/serverless-youtube-dl](https://github.com/sahin/serverless-youtube-dl) - Amazon Lambda - Serverless youtube-dl
@@ -1876,7 +1898,6 @@
 - [raindropio/desktop](https://github.com/raindropio/desktop) - Official Raindrop.io Desktop App
 - [jimbrig/.obsidian](https://github.com/jimbrig/.obsidian) - Default Obsidian Vault Configurations
 - [cmartinezone/MDTCustom](https://github.com/cmartinezone/MDTCustom) - Customizing Windows images, scripts and deployments with MDT (Microsoft Deployment Toolkit)
-- [tallguyjenks/DevLog](https://github.com/tallguyjenks/DevLog) - My DevLog detailing my learnings in Tech
 - [xg-wang/.obsidian](https://github.com/xg-wang/.obsidian) - Obsidian configs
 - [jawil/blog](https://github.com/jawil/blog) - Too young, too simple. Sometimes, naive & stupid 🐌
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
@@ -2129,7 +2150,6 @@
 - [deathau/cm-editor-syntax-highlight-obsidian](https://github.com/deathau/cm-editor-syntax-highlight-obsidian) - A plugin for [Obsidian](https://obsidian.md) which allows syntax highlighting for code blocks in the editor.
 - [TehShrike/sync-diigo-to-folder](https://github.com/TehShrike/sync-diigo-to-folder) - Sync all your Diigo bookmarks to a directory as Markdown files.  Intended for use with Obsidian
 - [GetmeUK/ContentTools](https://github.com/GetmeUK/ContentTools) - A JS library for building WYSIWYG editors for HTML content.
-- [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [DenverCoder1/Advent-of-Code-2020---Javascript](https://github.com/DenverCoder1/Advent-of-Code-2020---Javascript) - Advent of Code 2020 Solutions in JavaScript
 - [kdpsingh/rjs](https://github.com/kdpsingh/rjs) - R in JavaScript
@@ -2428,7 +2448,6 @@
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-- [fpcorso/github-changelog](https://github.com/fpcorso/github-changelog) - Generates a markdown or HTML list of all issues attached to a milestone
 - [richarddmorey/stat-distributions-js](https://github.com/richarddmorey/stat-distributions-js) - Javascript library for the visualization of statistical distributions
 - [sourcerer-io/awesome-libraries](https://github.com/sourcerer-io/awesome-libraries) - :sunglasses: Libraries that are being shown in Sourcerer profiles.
 - [ingalless/foam-template-gatsby-search](https://github.com/ingalless/foam-template-gatsby-search) - Foam template, built with Gatsby, plus search
@@ -2625,7 +2644,7 @@
 - [jcheng5/shinymeta-user2019-talk](https://github.com/jcheng5/shinymeta-user2019-talk) - 
 - [rstudio/shiny-examples](https://github.com/rstudio/shiny-examples) - 
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [plotly/dashR](https://github.com/plotly/dashR) - Dash for R - An R interface to the Dash ecosystem for creating analytic web applications
+- [plotly/dashR](https://github.com/plotly/dashR) - Create data science and AI web apps in R
 - [johnjones4/InBrief](https://github.com/johnjones4/InBrief) - InBrief is a personal briefing app and dashboard powered by Electron and React
 - [zappingseb/customshinyinput](https://github.com/zappingseb/customshinyinput) - An example app describing how to build custom shiny inputs
 - [htmlwidgets/sparkline](https://github.com/htmlwidgets/sparkline) - jQuery Sparkline HTML Widget for R
@@ -2665,6 +2684,7 @@
 
 ## Jupyter Notebook 
 
+- [hooram/ownphotos](https://github.com/hooram/ownphotos) - Self hosted alternative to Google Photos
 - [markwk/qs_ledger](https://github.com/markwk/qs_ledger) - Quantified Self Personal Data Aggregator and Data Analysis
 - [anaidpm/data_science_workshop](https://github.com/anaidpm/data_science_workshop) - 
 - [tunnelWithAC/fantasy_premier_league](https://github.com/tunnelWithAC/fantasy_premier_league) - 
@@ -2726,7 +2746,6 @@
 
 - [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 - [volllly/.dotfiles](https://github.com/volllly/.dotfiles) - Collection of my dotfiles.
-- [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts
 - [jefftriplett/dotfiles](https://github.com/jefftriplett/dotfiles) - :hammer: My dotfiles for setting up my Macs with Ansible
 - [hexylena/dotfiles](https://github.com/hexylena/dotfiles) - My rubbish dotfiles repo
 - [Eggbertx/awesome-config](https://github.com/Eggbertx/awesome-config) - My awesome (window manager) configuration setup
@@ -2827,6 +2846,11 @@
 
 ## Others 
 
+- [tborychowski/self-hosted-cookbook](https://github.com/tborychowski/self-hosted-cookbook) - A cookbook, for docker-compose based recipes, for self-hosted applications and services.
+- [zeroday0619/WindowsTerminal-Configuration](https://github.com/zeroday0619/WindowsTerminal-Configuration) - Windows Terminal Configuration
+- [apsolut/dotwindows](https://github.com/apsolut/dotwindows) - windows configuration files - my list for fast transfer to new windows machine
+- [davidxia/gpg-conf](https://github.com/davidxia/gpg-conf) - ~/.gnupg/gpg.conf best practices
+- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [simple-works/dll-icons](https://github.com/simple-works/dll-icons) - 🔣 Icons compiled into Windows DLL resource files.
 - [moxwel/custom-folder-icons](https://github.com/moxwel/custom-folder-icons) - Multipurpose folder icons for a variety of programs and games
 - [blackcatprog/folder-icons](https://github.com/blackcatprog/folder-icons) - Украсьте свою систему!
@@ -3296,8 +3320,6 @@
 - [rubymorillo/pocket-tech-writing-list](https://github.com/rubymorillo/pocket-tech-writing-list) - A small but formidable list of technical writing resources for developers
 - [bennyxguo/theme-obsidian-doc](https://github.com/bennyxguo/theme-obsidian-doc) - Documentation for theme `Obisidian`
 - [tallguyjenks/template](https://github.com/tallguyjenks/template) - My Template Repo
-- [tallguyjenks/LEARNING](https://github.com/tallguyjenks/LEARNING) - Using issues and project boards to track all my questions to learn new languages
-- [tallguyjenks/Obsidian-Workflow](https://github.com/tallguyjenks/Obsidian-Workflow) - An Alfred workflow for Obsidian
 - [tallguyjenks/RWorkflow](https://github.com/tallguyjenks/RWorkflow) - :bookmark_tabs: My approach to an analysis or product produced with R
 - [BryanJenksCommunity/RPackageReviews](https://github.com/BryanJenksCommunity/RPackageReviews) - My List of my most commonly used R packages, what they're used for and my review video on them
 - [gmgyan/Personal-Activity-Predictor](https://github.com/gmgyan/Personal-Activity-Predictor) - The goal of this project is to use data from accelerometers on the belt, forearm, arm, and dumbbell of 6 participants to predict the manner in which they did the exercise
@@ -3520,7 +3542,6 @@
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
-- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - ▶️ An awesome list of awesome YouTubers that teach about technology.
 - [kognise/dev.to](https://github.com/kognise/dev.to) - Where programmers share ideas and help each other grow
 - [kognise/oogle](https://github.com/kognise/oogle) - An open-source clone of the Google search engine and crawler infrastructure
@@ -3723,6 +3744,9 @@
 
 ## PHP 
 
+- [matt-schwartz/personal-inventory](https://github.com/matt-schwartz/personal-inventory) - A personal inventory management web app
+- [Sonerezh/sonerezh](https://github.com/Sonerezh/sonerezh) - A self-hosted, web-based application to stream your music, everywhere.
+- [ampache/ampache](https://github.com/ampache/ampache) - A web based audio/video streaming application and file manager allowing you to access your music & videos from anywhere, using almost any internet enabled device.
 - [zabbix/zabbix](https://github.com/zabbix/zabbix) - Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
 - [dereckson/ObsidianWorkspaces](https://github.com/dereckson/ObsidianWorkspaces) - Obsidian Workspaces
 - [FOGProject/fogproject](https://github.com/FOGProject/fogproject) - An open source computer cloning & management system
@@ -3792,6 +3816,9 @@
 
 ## PowerShell 
 
+- [lukesampson/cowsay-psh](https://github.com/lukesampson/cowsay-psh) - Cowsay/think in Powershell
+- [markovejnovic/WinConf](https://github.com/markovejnovic/WinConf) - ⛔️ [DEPRECATED] A small set of scripts for post-install Windows
+- [MediaButler/CLI-Windows](https://github.com/MediaButler/CLI-Windows) - Powershell based command line client for MediaButler
 - [muhamedkarajic/windows-config](https://github.com/muhamedkarajic/windows-config) - Includes some Scripts, Icons, and Resitory files for changing default or annoying behavior of Windows 10. Such as the pop up when entering the E-mail or the part when removing the Explorer Ribbon and QTTabBar settings.
 - [KriNiTo/MarkFolderGitRepo](https://github.com/KriNiTo/MarkFolderGitRepo) - Mark Folders in Windows Explorer with a Git-Icon to visualize that a Git-Repo exists
 - [DanysysTeam/PS-SFTA](https://github.com/DanysysTeam/PS-SFTA) - PowerShell Set File Type Association
@@ -3932,6 +3959,7 @@
 - [aaronpowell/ps-nvm](https://github.com/aaronpowell/ps-nvm) - PowerShell module for managing multiple Node.js versions
 - [matthewjdegarmo/AdminToolkit](https://github.com/matthewjdegarmo/AdminToolkit) - Miscellaneous functions and utilities for System Administrators.
 - [rtpsug/PowerShell-Saturday](https://github.com/rtpsug/PowerShell-Saturday) - This repository is a place to store Speaker content for the Raleigh PowerShell Saturday events.
+- [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts
 - [Duffney/chocolatey](https://github.com/Duffney/chocolatey) - Ansible role for installing Chocolatey
 - [Duffney/archive](https://github.com/Duffney/archive) - Repository of repositories, storing all abandoned but useful code.
 - [Duffney/PowerShell](https://github.com/Duffney/PowerShell) - A PowerShell Repository for all the miscellaneous scripts I'm working on. Enjoy!
@@ -4260,6 +4288,11 @@
 
 ## Python 
 
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark service
+- [WYVERN2742/Regger](https://github.com/WYVERN2742/Regger) - Windows explorer filetype fixer
+- [nihlaeth/user_config](https://github.com/nihlaeth/user_config) - manage user configuration for python projects
+- [sloria/environs](https://github.com/sloria/environs) - simplified environment variable parsing
+- [djrobstep/migra](https://github.com/djrobstep/migra) - Like diff but for PostgreSQL schemas
 - [ag2307/Useful-Scripts-Links](https://github.com/ag2307/Useful-Scripts-Links) - Links to various courses and help material
 - [cpbotha/xdg-open-wsl](https://github.com/cpbotha/xdg-open-wsl) - xdg-open replacement for WSL that opens files and links using Windows apps.
 - [ueffel/Keypirinha-WindowsApps](https://github.com/ueffel/Keypirinha-WindowsApps) - Lists Universal Windows Apps (formerly Metro Apps) and direct links to several windows 10 settings pages in Keypirinha for launching
@@ -4445,7 +4478,7 @@
 - [lggruspe/slipbox](https://github.com/lggruspe/slipbox) - A static site generator for Zettelkasten notes
 - [djplaner/memex](https://github.com/djplaner/memex) - Nascent attempt at using Foam to curate and leverage a personal memex
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
-- [mlcommons/ck](https://github.com/mlcommons/ck) - The Collective Knowledge project (CK) aims at making it easier to design, benchmark, optimize and deploy Machine Learning Systems in the real world across continuously evolving software, hardware and data sets with the help of the community. See MLPerf inference benchmark automation use case powered by CK:
+- [mlcommons/ck](https://github.com/mlcommons/ck) - The Collective Knowledge framework (CK) aims at making it easier to design, benchmark, optimize and deploy Machine Learning Systems in the real world across continuously evolving software, hardware and data sets with the help of the community. See MLPerf inference benchmark automation use case powered by CK:
 - [bhrigu123/classifier](https://github.com/bhrigu123/classifier) - Organize files in your directory instantly, by classifying them into different folders
 - [mcharleb/gittagstats](https://github.com/mcharleb/gittagstats) - 
 - [jctanner/ansible-tools](https://github.com/jctanner/ansible-tools) - 
@@ -4674,6 +4707,7 @@
 
 ## R 
 
+- [moodymudskipper/myverse](https://github.com/moodymudskipper/myverse) - Easily Load a Set of Packages
 - [richelbilderbeek/plinkr](https://github.com/richelbilderbeek/plinkr) - Work with PLINK from R
 - [r-lib/httr2](https://github.com/r-lib/httr2) - Make HTTP requests and process their responses. A modern reimagining of httr.
 - [expersso/BIS](https://github.com/expersso/BIS) - Programmatic access to BIS data
@@ -5413,7 +5447,7 @@
 - [thomasp85/patchwork](https://github.com/thomasp85/patchwork) - The Composer of ggplots
 - [tidyverts/fable](https://github.com/tidyverts/fable) - Tidy time series forecasting
 - [brian-bot/githubr](https://github.com/brian-bot/githubr) - Making it easy to talk to GitHub from R
-- [jonathanbratt/wordpiece](https://github.com/jonathanbratt/wordpiece) - 
+- [macmillancontentscience/wordpiece](https://github.com/macmillancontentscience/wordpiece) - 
 - [talgalili/heatmaply](https://github.com/talgalili/heatmaply) - Interactive Heat Maps for R Using plotly
 - [kevinushey/rstudio.testthat.tests](https://github.com/kevinushey/rstudio.testthat.tests) - A small R package with a couple failing tests. Primarily for driving testing of the RStudio Build pane with tests.
 - [feddelegrand7/savonliquide](https://github.com/feddelegrand7/savonliquide) - 🧼🧼🧼 Provides a toolbox that allows the user to implement accessibility-related concepts.
@@ -7296,6 +7330,8 @@
 
 ## Ruby 
 
+- [codervault/codervault](https://github.com/codervault/codervault) - An Open Source, Self-Hosted, Snippet Manager
+- [thoughtbot/parity](https://github.com/thoughtbot/parity) - Shell commands for development, staging, and production parity for Heroku apps
 - [copiousfreetime/launchy](https://github.com/copiousfreetime/launchy) - A helper for launching cross-platform applications in a fire and forget manner.
 - [michaeltlombardi/puppetlabs-powershell](https://github.com/michaeltlombardi/puppetlabs-powershell) - powershell provider for the Puppet exec resource type
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language [mirror]
@@ -7365,6 +7401,7 @@
 
 ## Rust 
 
+- [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for the Windows SDK
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [stepchowfun/docuum](https://github.com/stepchowfun/docuum) - Docuum performs least recently used (LRU) eviction of Docker images. 🗑️
@@ -7403,6 +7440,7 @@
 - [partycorgi/discord-slash-commands](https://github.com/partycorgi/discord-slash-commands) - slash commands!
 - [zoni/obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
 - [anyshortcut/anyshortcut-cli](https://github.com/anyshortcut/anyshortcut-cli) - CLI (Commnad line interface) version of Anyshortcut
+- [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [shrirambalaji/cli-hex-rgb](https://github.com/shrirambalaji/cli-hex-rgb) - A Rust CLI Program to convert hexadecimal color-code to RGB
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
@@ -7441,6 +7479,7 @@
 
 ## SCSS 
 
+- [play-with-docker/play-with-docker.github.io](https://github.com/play-with-docker/play-with-docker.github.io) - Play with docker class-room repo
 - [benbrignell/principles.design](https://github.com/benbrignell/principles.design) - An open source collection of design principles and methods.
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [AnilSeervi/DevFolio](https://github.com/AnilSeervi/DevFolio) - A Minimal Portfolio Template for Developers with easy setup process documented(with hosting).
@@ -7495,6 +7534,14 @@
 
 ## Shell 
 
+- [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
+- [xuxiaodong/selfhosted-server](https://github.com/xuxiaodong/selfhosted-server) - Selfhosted server with Ansible.
+- [MilanAryal/config](https://github.com/MilanAryal/config) - Personal checklist for setting up a new Ubuntu's dev environment on Windows.
+- [purag/.files](https://github.com/purag/.files) - :wrench: my dotfiles and other system setup
+- [snovvcrash/dotfiles-linux](https://github.com/snovvcrash/dotfiles-linux) - Dotfiles for Linux boxes
+- [duxco/gpg-config-and-scripts](https://github.com/duxco/gpg-config-and-scripts) - my gnupg configuration and some helper scripts
+- [bfrg/gpg-guide](https://github.com/bfrg/gpg-guide) - Quick-start guide to GPG
+- [adtac/climate](https://github.com/adtac/climate) - The swiss-army knife of utility tools for Linux.
 - [shumbert/geeky-wiki](https://github.com/shumbert/geeky-wiki) - 
 - [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB) - A Microsoft Windows® USB installation media preparer for GNU+Linux
 - [jsamr/bootiso](https://github.com/jsamr/bootiso) - A bash program to securely create a bootable USB device from one image file.
@@ -7612,7 +7659,6 @@
 - [guessi/sysprep](https://github.com/guessi/sysprep) - My personal bootstrap scripts
 - [r-builder/cran2deb](https://github.com/r-builder/cran2deb) - Creating Debian Packages from CRAN Sources
 - [klmr/switch-r](https://github.com/klmr/switch-r) - R version switcher for macOS
-- [tallguyjenks/Obsidian-CLI](https://github.com/tallguyjenks/Obsidian-CLI) - Opening Obsidian files with the command line
 - [GoogleCloudPlatform/shell-samples](https://github.com/GoogleCloudPlatform/shell-samples) - 
 - [GoogleCloudPlatform/google-cloud-ops-agents-puppet](https://github.com/GoogleCloudPlatform/google-cloud-ops-agents-puppet) - Managed Google Stackdriver Logging Agent via Puppet
 - [mrzool/bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults
@@ -7922,8 +7968,6 @@
 - [OpenActTexts/LDARcode](https://github.com/OpenActTexts/LDARcode) - R Code to Support the Loss Data Analytics Book
 - [scholmd/scholmd](https://github.com/scholmd/scholmd) - Learn how to use scholarly markdown
 - [karthik/markdown_science](https://github.com/karthik/markdown_science) - Learn how to use markdown for science
-- [tallguyjenks/bib](https://github.com/tallguyjenks/bib) - my biber file for all relevant references i make
-- [tallguyjenks/templates](https://github.com/tallguyjenks/templates) - template documents for all my needs
 - [tallguyjenks/CV](https://github.com/tallguyjenks/CV) - :scroll: My Data Driven CV written with R, YAML, & LaTeX
 - [nuest/ten-simple-rules-dockerfiles](https://github.com/nuest/ten-simple-rules-dockerfiles) - Ten Simple Rules for Writing Dockerfiles for Reproducible Data Science
 - [nuest/rockerverse-paper](https://github.com/nuest/rockerverse-paper) - Scientific paper about everything related to containers and R
@@ -7971,6 +8015,9 @@
 
 ## TypeScript 
 
+- [mandarons/yadd](https://github.com/mandarons/yadd) - Yet Another Dashboard (Dockerized) - homepage for your services
+- [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
+- [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [eggheadio/egghead-next](https://github.com/eggheadio/egghead-next) - The frontend for egghead.io.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)
 - [nexus-uw/vscode-gtm](https://github.com/nexus-uw/vscode-gtm) - 
@@ -8316,6 +8363,7 @@
 
 ## Vim script 
 
+- [Optixal/neovim-init.vim](https://github.com/Optixal/neovim-init.vim) - :izakaya_lantern: A Neovim configuration for productive users who want to elevate their Vim experience with a functional, yet aesthetic experience :izakaya_lantern:
 - [preservim/tagbar](https://github.com/preservim/tagbar) - Vim plugin that displays tags in a window, ordered by scope
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
@@ -8375,6 +8423,8 @@
 
 ## Vue 
 
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A dashboard for your homelab
+- [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [Zorin95670/project-template-web](https://github.com/Zorin95670/project-template-web) - Template project to create a web application. Make with VueJs.
 - [iamshaunjp/vuejs-playlist](https://github.com/iamshaunjp/vuejs-playlist) - Course files for the Vue.js 2 playlist on The Net Ninja YouTube channel
 - [Lt0/sysmon](https://github.com/Lt0/sysmon) - A B/S mode system monitor for linux (demo http://199.247.1.240:2048)
