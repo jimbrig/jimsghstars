@@ -551,6 +551,7 @@
 
 ## C++ 
 
+- [canonical/ubuntu-cooker-ingredients](https://github.com/canonical/ubuntu-cooker-ingredients) - Additional Resources for Ubuntu Cooker
 - [marche147/sandbox](https://github.com/marche147/sandbox) - Improvised json-based configurable Windows sandbox
 - [ikas-mc/ContextMenuForWindows11](https://github.com/ikas-mc/ContextMenuForWindows11) - 
 - [clementine-player/Clementine](https://github.com/clementine-player/Clementine) - :tangerine: Clementine Music Player
@@ -646,7 +647,6 @@
 - [adgellida/winsys](https://github.com/adgellida/winsys) - STATUS: DEVELOPMENT PAUSED ⏸️ - Configure your Windows
 - [M2Team/NSudo](https://github.com/M2Team/NSudo) - Series of System Administration Tools
 - [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
-- [r-dbi/RPostgres](https://github.com/r-dbi/RPostgres) - A DBI-compliant interface to PostgreSQL
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [CherryPill/system_info](https://github.com/CherryPill/system_info) - Hardware information tool for Windows
 - [mandreyel/mio](https://github.com/mandreyel/mio) - Cross-platform C++11 header-only library for memory mapped file IO
@@ -2846,6 +2846,9 @@
 
 ## Others 
 
+- [canonical/WSL-DistroLauncher](https://github.com/canonical/WSL-DistroLauncher) - Sample/reference launcher app for WSL distro Microsoft Store packages.
+- [ddiebold91/dotfiles](https://github.com/ddiebold91/dotfiles) - dotfiles from vps on ssdnodes
+- [joelhans/ssdnodes-ansible-provision](https://github.com/joelhans/ssdnodes-ansible-provision) - A basic Ansible playbook to provision bare servers with SSH keys, iptables, and fail2ban. Built for SSD Nodes.
 - [tborychowski/self-hosted-cookbook](https://github.com/tborychowski/self-hosted-cookbook) - A cookbook, for docker-compose based recipes, for self-hosted applications and services.
 - [zeroday0619/WindowsTerminal-Configuration](https://github.com/zeroday0619/WindowsTerminal-Configuration) - Windows Terminal Configuration
 - [apsolut/dotwindows](https://github.com/apsolut/dotwindows) - windows configuration files - my list for fast transfer to new windows machine
@@ -4288,6 +4291,9 @@
 
 ## Python 
 
+- [canonical/ubuntu-wsl-oobe](https://github.com/canonical/ubuntu-wsl-oobe) - Ubuntu WSL Onboarding Experience
+- [canonical/cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
+- [canonical/ubuntu-wsl-integration](https://github.com/canonical/ubuntu-wsl-integration) - Ubuntu WSL Integrations
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark service
 - [WYVERN2742/Regger](https://github.com/WYVERN2742/Regger) - Windows explorer filetype fixer
 - [nihlaeth/user_config](https://github.com/nihlaeth/user_config) - manage user configuration for python projects
@@ -6069,6 +6075,7 @@
 - [mlr3learners/mlr3learners.drat](https://github.com/mlr3learners/mlr3learners.drat) - drat repository for mlr3learners
 - [rstudio/gradethis](https://github.com/rstudio/gradethis) - Tools for teachers to use with learnr
 - [sdesabbata/BivariateTMap](https://github.com/sdesabbata/BivariateTMap) - A simple function to create bivariate Choropleth maps in R tmap
+- [r-dbi/RPostgres](https://github.com/r-dbi/RPostgres) - A DBI-compliant interface to PostgreSQL
 - [MilesMcBain/capsule](https://github.com/MilesMcBain/capsule) - An inversion of renv for low effort reproducible R package libraries
 - [RoheLab/aPPR](https://github.com/RoheLab/aPPR) - Approximate Personalized Page Rank
 - [jienagu/forestry](https://github.com/jienagu/forestry) - R package
@@ -7534,6 +7541,7 @@
 
 ## Shell 
 
+- [seapagan/linux-comfy-chair](https://github.com/seapagan/linux-comfy-chair) - Auto provision a new linux install with scripting tools and other handy items
 - [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 - [xuxiaodong/selfhosted-server](https://github.com/xuxiaodong/selfhosted-server) - Selfhosted server with Ansible.
 - [MilanAryal/config](https://github.com/MilanAryal/config) - Personal checklist for setting up a new Ubuntu's dev environment on Windows.
