@@ -363,6 +363,7 @@
 
 ## C# # 
 
+- [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 - [zumoshi/BrowserSelect](https://github.com/zumoshi/BrowserSelect) - Browser Select is a utility to dynamically select the browser you want instead of just having one default for all links.
 - [MathewSachin/Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that pushes the boundaries of the platform.
@@ -551,6 +552,8 @@
 
 ## C++ 
 
+- [mbedward/packcircles](https://github.com/mbedward/packcircles) - R package for circle packing
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [canonical/ubuntu-cooker-ingredients](https://github.com/canonical/ubuntu-cooker-ingredients) - Additional Resources for Ubuntu Cooker
 - [marche147/sandbox](https://github.com/marche147/sandbox) - Improvised json-based configurable Windows sandbox
 - [ikas-mc/ContextMenuForWindows11](https://github.com/ikas-mc/ContextMenuForWindows11) - 
@@ -999,6 +1002,7 @@
 
 ## Go 
 
+- [bitrise-steplib/steps-ios-auto-provision-appstoreconnect](https://github.com/bitrise-steplib/steps-ios-auto-provision-appstoreconnect) - 
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [pldubouilh/gossa](https://github.com/pldubouilh/gossa) - 🎶 a fast and simple multimedia fileserver
 - [metrue/fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
@@ -1783,6 +1787,7 @@
 
 ## JavaScript 
 
+- [npm/node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses)
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
 - [inoda/ontrack](https://github.com/inoda/ontrack) - :money_with_wings: A simple self-hosted budgeting app
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - An open-source, self-hosted, low-code framework to build internal tools, web apps, admin panels, BI dashboards, workflows, and CRUD apps with YAML or JSON.
@@ -2717,6 +2722,7 @@
 
 ## Kotlin 
 
+- [TheCodeMonks/NYTimes-App](https://github.com/TheCodeMonks/NYTimes-App) - 🗽 A Simple Demonstration of the New York Times App 📱 using Jsoup web crawler with MVVM Architecture 🔥
 - [AmrDeveloper/LinkHub](https://github.com/AmrDeveloper/LinkHub) - LinkHub is a simple and effective link management application that can help you to easily manage your app with no ads!
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [AdevintaSpain/Leku](https://github.com/AdevintaSpain/Leku) - :earth_africa: Map location picker component for Android. Based on Google Maps. An alternative to Google Place Picker.
@@ -2746,6 +2752,7 @@
 
 - [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 - [volllly/.dotfiles](https://github.com/volllly/.dotfiles) - Collection of my dotfiles.
+- [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts
 - [jefftriplett/dotfiles](https://github.com/jefftriplett/dotfiles) - :hammer: My dotfiles for setting up my Macs with Ansible
 - [hexylena/dotfiles](https://github.com/hexylena/dotfiles) - My rubbish dotfiles repo
 - [Eggbertx/awesome-config](https://github.com/Eggbertx/awesome-config) - My awesome (window manager) configuration setup
@@ -3962,7 +3969,6 @@
 - [aaronpowell/ps-nvm](https://github.com/aaronpowell/ps-nvm) - PowerShell module for managing multiple Node.js versions
 - [matthewjdegarmo/AdminToolkit](https://github.com/matthewjdegarmo/AdminToolkit) - Miscellaneous functions and utilities for System Administrators.
 - [rtpsug/PowerShell-Saturday](https://github.com/rtpsug/PowerShell-Saturday) - This repository is a place to store Speaker content for the Raleigh PowerShell Saturday events.
-- [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts
 - [Duffney/chocolatey](https://github.com/Duffney/chocolatey) - Ansible role for installing Chocolatey
 - [Duffney/archive](https://github.com/Duffney/archive) - Repository of repositories, storing all abandoned but useful code.
 - [Duffney/PowerShell](https://github.com/Duffney/PowerShell) - A PowerShell Repository for all the miscellaneous scripts I'm working on. Enjoy!
@@ -4291,6 +4297,7 @@
 
 ## Python 
 
+- [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - 
 - [canonical/ubuntu-wsl-oobe](https://github.com/canonical/ubuntu-wsl-oobe) - Ubuntu WSL Onboarding Experience
 - [canonical/cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
 - [canonical/ubuntu-wsl-integration](https://github.com/canonical/ubuntu-wsl-integration) - Ubuntu WSL Integrations
@@ -7408,6 +7415,7 @@
 
 ## Rust 
 
+- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud is a universal host runtime for actors built with WebAssembly and capability providers
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for the Windows SDK
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
@@ -7541,6 +7549,7 @@
 
 ## Shell 
 
+- [cmulk/wireguard-docker](https://github.com/cmulk/wireguard-docker) - Wireguard setup in Docker meant for a simple personal VPN
 - [seapagan/linux-comfy-chair](https://github.com/seapagan/linux-comfy-chair) - Auto provision a new linux install with scripting tools and other handy items
 - [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 - [xuxiaodong/selfhosted-server](https://github.com/xuxiaodong/selfhosted-server) - Selfhosted server with Ansible.
@@ -7929,6 +7938,7 @@
 
 ## Swift 
 
+- [chenyun122/StepIndicator](https://github.com/chenyun122/StepIndicator) - StepIndicator is an iOS library that indicates steps in an animated way.
 - [Jinxiansen/Windows11](https://github.com/Jinxiansen/Windows11) - 💻 Windows 11 in SwiftUI.
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [WeTransfer/Mocker](https://github.com/WeTransfer/Mocker) - Mock Alamofire and URLSession requests without touching your code implementation
@@ -8023,6 +8033,7 @@
 
 ## TypeScript 
 
+- [joeyuping/quick_latex_obsidian](https://github.com/joeyuping/quick_latex_obsidian) - 
 - [mandarons/yadd](https://github.com/mandarons/yadd) - Yet Another Dashboard (Dockerized) - homepage for your services
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
@@ -8109,7 +8120,7 @@
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 - [garrylachman/ElectroCRUD](https://github.com/garrylachman/ElectroCRUD) - Database CRUD Application Built on Electron | MySQL, Postgres, SQLite
 - [gajus/slonik](https://github.com/gajus/slonik) - A PostgreSQL client with strict types, detailed logging and assertions.
-- [kriasoft/graphql-starter](https://github.com/kriasoft/graphql-starter) - 💥  Yarn v2 based monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, Relay, and Material UI.
+- [kriasoft/relay-starter-kit](https://github.com/kriasoft/relay-starter-kit) - 💥  Yarn v2 based monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, Relay, and Material UI.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
 - [Purii/react-native-tableview-simple](https://github.com/Purii/react-native-tableview-simple) - Flexible and lightweight React Native component for UITableView made with pure CSS
@@ -8371,6 +8382,7 @@
 
 ## Vim script 
 
+- [wuelnerdotexe/vim-enfocado](https://github.com/wuelnerdotexe/vim-enfocado) - How the themes should be.
 - [Optixal/neovim-init.vim](https://github.com/Optixal/neovim-init.vim) - :izakaya_lantern: A Neovim configuration for productive users who want to elevate their Vim experience with a functional, yet aesthetic experience :izakaya_lantern:
 - [preservim/tagbar](https://github.com/preservim/tagbar) - Vim plugin that displays tags in a window, ordered by scope
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
