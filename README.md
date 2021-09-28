@@ -552,6 +552,7 @@
 
 ## C++ 
 
+- [turtiustrek/taskmanager](https://github.com/turtiustrek/taskmanager) - Draw bitmaps on a windows 10 task manager!
 - [mbedward/packcircles](https://github.com/mbedward/packcircles) - R package for circle packing
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [canonical/ubuntu-cooker-ingredients](https://github.com/canonical/ubuntu-cooker-ingredients) - Additional Resources for Ubuntu Cooker
@@ -1002,6 +1003,7 @@
 
 ## Go 
 
+- [opsgenie/kubernetes-event-exporter](https://github.com/opsgenie/kubernetes-event-exporter) - Export Kubernetes events to multiple destinations with routing and filtering
 - [bitrise-steplib/steps-ios-auto-provision-appstoreconnect](https://github.com/bitrise-steplib/steps-ios-auto-provision-appstoreconnect) - 
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [pldubouilh/gossa](https://github.com/pldubouilh/gossa) - 🎶 a fast and simple multimedia fileserver
@@ -1331,6 +1333,7 @@
 - [sol-eng/plumber-slack](https://github.com/sol-eng/plumber-slack) - Plumber and the Slack API integration.
 - [etiennebacher/distillery](https://github.com/etiennebacher/distillery) - A distill blog and showcase about building distill websites and blogs!
 - [etiennebacher/personal_website_distill](https://github.com/etiennebacher/personal_website_distill) - Personal website made with distill. Replacement of personal_website (made with blogdown)
+- [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go) - Go backend for LibreSpeed
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
 - [sharlagelfand/sharla.online](https://github.com/sharlagelfand/sharla.online) - 
 - [colinquirk/LivestreamCode](https://github.com/colinquirk/LivestreamCode) - A place to put code from my livestreams
@@ -1787,6 +1790,9 @@
 
 ## JavaScript 
 
+- [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
+- [rnystrom/issue-actions](https://github.com/rnystrom/issue-actions) - WIP actions to sync parent and child issues.
+- [rnystrom/create-child-issues](https://github.com/rnystrom/create-child-issues) - Action to generate child issues with labels.
 - [npm/node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses)
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
 - [inoda/ontrack](https://github.com/inoda/ontrack) - :money_with_wings: A simple self-hosted budgeting app
@@ -1977,7 +1983,6 @@
 - [safaricom/mpesa-node-library](https://github.com/safaricom/mpesa-node-library) - M-Pesa Library for Node.js using REST API
 - [googlemaps/v3-utility-library](https://github.com/googlemaps/v3-utility-library) - Utility libraries for Google Maps JavaScript API v3
 - [mfeniseycopes/trakr](https://github.com/mfeniseycopes/trakr) - trakr is a single-page, full-stack web application inspired by Strava and built with Ruby on Rails and PostgreSQL on the backend, React.js using flux framework for the frontend, and enhanced by the Google Maps API.
-- [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go) - Go backend for LibreSpeed
 - [glin/shiny-react-example](https://github.com/glin/shiny-react-example) - Example of a Shiny app with a React front-end
 - [majgis/npm-bundle](https://github.com/majgis/npm-bundle) - npm pack with dependencies included
 - [edgararuiz-zz/databases-w-r](https://github.com/edgararuiz-zz/databases-w-r) - Databases with R, the latest - rstudio::conf2019
@@ -2853,6 +2858,8 @@
 
 ## Others 
 
+- [rnystrom/leadership](https://github.com/rnystrom/leadership) - [WIP] My thoughts, principles, and resources on leadership.
+- [rnystrom/.github-template](https://github.com/rnystrom/.github-template) - 
 - [canonical/WSL-DistroLauncher](https://github.com/canonical/WSL-DistroLauncher) - Sample/reference launcher app for WSL distro Microsoft Store packages.
 - [ddiebold91/dotfiles](https://github.com/ddiebold91/dotfiles) - dotfiles from vps on ssdnodes
 - [joelhans/ssdnodes-ansible-provision](https://github.com/joelhans/ssdnodes-ansible-provision) - A basic Ansible playbook to provision bare servers with SSH keys, iptables, and fail2ban. Built for SSD Nodes.
@@ -3826,6 +3833,7 @@
 
 ## PowerShell 
 
+- [pBouillon/dotfiles](https://github.com/pBouillon/dotfiles) - 
 - [lukesampson/cowsay-psh](https://github.com/lukesampson/cowsay-psh) - Cowsay/think in Powershell
 - [markovejnovic/WinConf](https://github.com/markovejnovic/WinConf) - ⛔️ [DEPRECATED] A small set of scripts for post-install Windows
 - [MediaButler/CLI-Windows](https://github.com/MediaButler/CLI-Windows) - Powershell based command line client for MediaButler
@@ -4720,6 +4728,7 @@
 
 ## R 
 
+- [easystats/modelbased](https://github.com/easystats/modelbased) - :chart_with_upwards_trend: Estimate effects, contrasts and means based on statistical models
 - [moodymudskipper/myverse](https://github.com/moodymudskipper/myverse) - Easily Load a Set of Packages
 - [richelbilderbeek/plinkr](https://github.com/richelbilderbeek/plinkr) - Work with PLINK from R
 - [r-lib/httr2](https://github.com/r-lib/httr2) - Make HTTP requests and process their responses. A modern reimagining of httr.
@@ -4803,7 +4812,7 @@
 - [mdevans21/xgboost-virtual-data-science-seminar](https://github.com/mdevans21/xgboost-virtual-data-science-seminar) - XGBoost Insurance Pricing code comparing results with GLM and GAM for Actuarial Virtual Data Science Seminar
 - [benmarwick/wordcountaddin](https://github.com/benmarwick/wordcountaddin) - Word counts and readability statistics in R markdown documents
 - [dming1024/ProjectManage](https://github.com/dming1024/ProjectManage) - 
-- [ITSLeeds/slopes](https://github.com/ITSLeeds/slopes) - Package to calculate slopes of roads, rivers and trajectories
+- [ropensci/slopes](https://github.com/ropensci/slopes) - Package to calculate slopes of roads, rivers and trajectories
 - [sewardlee337/finreportr](https://github.com/sewardlee337/finreportr) - R package - Financial Data from U.S. Securities and Exchange Commission
 - [sicarul/xray](https://github.com/sicarul/xray) - xray: The R Package to have X Ray vision on your datasets
 - [rstudio/webdriver](https://github.com/rstudio/webdriver) - WebDriver client in R
@@ -5867,7 +5876,6 @@
 - [zchmielewska/actuaryr](https://github.com/zchmielewska/actuaryr) - 
 - [mayer79/actools](https://github.com/mayer79/actools) - Tools for actuary science
 - [RBigData/remoter](https://github.com/RBigData/remoter) - Control a remote R session from your local R session.
-- [ThinkR-open/tidyversedashboard](https://github.com/ThinkR-open/tidyversedashboard) - Tidyverse activity dashboard
 - [cloudyr/aws.alexa](https://github.com/cloudyr/aws.alexa) - Client Package for the Amazon Alexa Web Information Service
 - [hadley/emo](https://github.com/hadley/emo) - Easily insert emoji into R and RMarkdown
 - [r-lib/decor](https://github.com/r-lib/decor) - 
@@ -7938,6 +7946,7 @@
 
 ## Swift 
 
+- [GitHawkApp/GitHawk](https://github.com/GitHawkApp/GitHawk) - The (second) best iOS app for GitHub.
 - [chenyun122/StepIndicator](https://github.com/chenyun122/StepIndicator) - StepIndicator is an iOS library that indicates steps in an animated way.
 - [Jinxiansen/Windows11](https://github.com/Jinxiansen/Windows11) - 💻 Windows 11 in SwiftUI.
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
@@ -8033,6 +8042,7 @@
 
 ## TypeScript 
 
+- [rnystrom/status-checklists](https://github.com/rnystrom/status-checklists) - Action to that updates Issue state with checklists
 - [joeyuping/quick_latex_obsidian](https://github.com/joeyuping/quick_latex_obsidian) - 
 - [mandarons/yadd](https://github.com/mandarons/yadd) - Yet Another Dashboard (Dockerized) - homepage for your services
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
@@ -8382,6 +8392,8 @@
 
 ## Vim script 
 
+- [svermeulen/vim-subversive](https://github.com/svermeulen/vim-subversive) - Vim plugin providing operator motions to quickly replace text
+- [tweekmonster/startuptime.vim](https://github.com/tweekmonster/startuptime.vim) - Breakdown Vim's --startuptime output
 - [wuelnerdotexe/vim-enfocado](https://github.com/wuelnerdotexe/vim-enfocado) - How the themes should be.
 - [Optixal/neovim-init.vim](https://github.com/Optixal/neovim-init.vim) - :izakaya_lantern: A Neovim configuration for productive users who want to elevate their Vim experience with a functional, yet aesthetic experience :izakaya_lantern:
 - [preservim/tagbar](https://github.com/preservim/tagbar) - Vim plugin that displays tags in a window, ordered by scope
