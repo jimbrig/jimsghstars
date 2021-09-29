@@ -363,6 +363,7 @@
 
 ## C# # 
 
+- [fluentpos/fluentpos](https://github.com/fluentpos/fluentpos) - Open Source Point Of Sales and Inventory Management Solution built with ASP.NET Core 5.0 WebAPI and Angular 12 Material.
 - [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 - [zumoshi/BrowserSelect](https://github.com/zumoshi/BrowserSelect) - Browser Select is a utility to dynamically select the browser you want instead of just having one default for all links.
 - [MathewSachin/Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
@@ -698,6 +699,7 @@
 
 ## CSS 
 
+- [kinoute/typora-github-night-theme](https://github.com/kinoute/typora-github-night-theme) - Dark Typora themes that reproduce the new GitHub Dark Themes as much as possible.
 - [mil/markdown-tree](https://github.com/mil/markdown-tree) - A Sinatra script to serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown.
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [89z/hearth](https://github.com/89z/hearth) - Personal config and docs
@@ -2858,6 +2860,11 @@
 
 ## Others 
 
+- [kasaai/wcrater](https://github.com/kasaai/wcrater) - wc rating api
+- [justin-vanwinkle/workflow-test](https://github.com/justin-vanwinkle/workflow-test) - 
+- [microsoft/sql-server-samples](https://github.com/microsoft/sql-server-samples) - Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge
+- [jimbrig/loss_development_app](https://github.com/jimbrig/loss_development_app) - Boilerplate Actuarial Reserving Loss Development R Shiny Application
+- [r-lib/ghurl](https://github.com/r-lib/ghurl) - 
 - [rnystrom/leadership](https://github.com/rnystrom/leadership) - [WIP] My thoughts, principles, and resources on leadership.
 - [rnystrom/.github-template](https://github.com/rnystrom/.github-template) - 
 - [canonical/WSL-DistroLauncher](https://github.com/canonical/WSL-DistroLauncher) - Sample/reference launcher app for WSL distro Microsoft Store packages.
@@ -4305,6 +4312,7 @@
 
 ## Python 
 
+- [fladi/django-github-webhook](https://github.com/fladi/django-github-webhook) - Django view for GitHub webhook receivers
 - [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - 
 - [canonical/ubuntu-wsl-oobe](https://github.com/canonical/ubuntu-wsl-oobe) - Ubuntu WSL Onboarding Experience
 - [canonical/cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
@@ -4499,7 +4507,7 @@
 - [lggruspe/slipbox](https://github.com/lggruspe/slipbox) - A static site generator for Zettelkasten notes
 - [djplaner/memex](https://github.com/djplaner/memex) - Nascent attempt at using Foam to curate and leverage a personal memex
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
-- [mlcommons/ck](https://github.com/mlcommons/ck) - The Collective Knowledge framework (CK) aims at making it easier to design, benchmark, optimize and deploy Machine Learning Systems in the real world across continuously evolving software, hardware and data sets with the help of the community. See MLPerf inference benchmark automation use case powered by CK:
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge framework (CK) helps to organize software projects as a database of reusable automation recipes and portable workflows with common APIs and extensible meta descriptions based on FAIR principles. See the real-world use cases to support reproducible benchmarking, enable portable MLOps and automate ML/SW/HW co-design:
 - [bhrigu123/classifier](https://github.com/bhrigu123/classifier) - Organize files in your directory instantly, by classifying them into different folders
 - [mcharleb/gittagstats](https://github.com/mcharleb/gittagstats) - 
 - [jctanner/ansible-tools](https://github.com/jctanner/ansible-tools) - 
@@ -4728,6 +4736,11 @@
 
 ## R 
 
+- [caijun/ggcorrplot2](https://github.com/caijun/ggcorrplot2) - Implementation of corrplot using ggplot2
+- [lgnbhl/polyglot](https://github.com/lgnbhl/polyglot) - 🎓Learn Foreign Language Vocabulary in the R Console
+- [shikokuchuo/ichimoku](https://github.com/shikokuchuo/ichimoku) - ichimoku R package - Visualization and Tools for Ichimoku Kinko Hyo Strategies
+- [t-kalinowski/knitr.regression](https://github.com/t-kalinowski/knitr.regression) - 
+- [eco4cast/neon4cast](https://github.com/eco4cast/neon4cast) - A helper R package for the neon4cast challenge
 - [easystats/modelbased](https://github.com/easystats/modelbased) - :chart_with_upwards_trend: Estimate effects, contrasts and means based on statistical models
 - [moodymudskipper/myverse](https://github.com/moodymudskipper/myverse) - Easily Load a Set of Packages
 - [richelbilderbeek/plinkr](https://github.com/richelbilderbeek/plinkr) - Work with PLINK from R
@@ -6188,7 +6201,6 @@
 - [xoopR/set6](https://github.com/xoopR/set6) - R6 object-oriented interface for mathematical sets.
 - [allisonhorst/palmerpenguins](https://github.com/allisonhorst/palmerpenguins) - A great intro dataset for data exploration & visualization (alternative to iris).
 - [MilesMcBain/fnmate](https://github.com/MilesMcBain/fnmate) - A function definition generator.
-- [sboysel/fredr](https://github.com/sboysel/fredr) - An R client for the Federal Reserve Economic Data (FRED) API
 - [rexyai/RestRserve](https://github.com/rexyai/RestRserve) - R web API framework for building high-performance microservices and app backends
 - [jeroen/js](https://github.com/jeroen/js) - Tools for Working with JavaScript in R
 - [MichaelHogers/RXSpreadsheet](https://github.com/MichaelHogers/RXSpreadsheet) - RXSpreadsheet provides a wrapper for https://github.com/myliang/x-spreadsheet, a very nice      web-based JavaScript canvas spreadsheet. RXSpreadsheet is a minimalistic wrapper.
@@ -7301,7 +7313,7 @@
 - [christophergandrud/DataCombine](https://github.com/christophergandrud/DataCombine) - R tools for combining data sets.
 - [lockedata/starters](https://github.com/lockedata/starters) - R Package 📦 for initializing projects for various R activities :nut_and_bolt:
 - [RinteRface/shinydashboardPlus](https://github.com/RinteRface/shinydashboardPlus) - extensions for shinydashboard
-- [ropensci/plotly](https://github.com/ropensci/plotly) - An interactive graphing library for R
+- [plotly/plotly.R](https://github.com/plotly/plotly.R) - An interactive graphing library for R
 - [rich-iannone/DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Graph and network visualization using tabular data in R.
 - [lineupjs/lineup_htmlwidget](https://github.com/lineupjs/lineup_htmlwidget) - HTMLWidget wrapper of LineUp for Visual Analysis of Multi-Attribute Rankings
 - [smartinsightsfromdata/rpivotTable](https://github.com/smartinsightsfromdata/rpivotTable) - A R wrapper for the great library pivottable
@@ -7423,6 +7435,7 @@
 
 ## Rust 
 
+- [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud is a universal host runtime for actors built with WebAssembly and capability providers
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for the Windows SDK
@@ -7485,7 +7498,7 @@
 - [tversteeg/emplace](https://github.com/tversteeg/emplace) - 👩‍❤️‍💋‍👩 Synchronize installed packages on multiple machines
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [clog-tool/clog-cli](https://github.com/clog-tool/clog-cli) - Generate beautiful changelogs from your Git commit history
-- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
+- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
 - [rust-adventure/digital-garden](https://github.com/rust-adventure/digital-garden) - 
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [jez/as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths 🌳
@@ -7557,6 +7570,8 @@
 
 ## Shell 
 
+- [RConsortium/isc-proposal](https://github.com/RConsortium/isc-proposal) - Boilerplate proposal for R Consortium ISC Proposals
+- [rocker-org/ubuntu-lts](https://github.com/rocker-org/ubuntu-lts) - R Containers for Ubuntu LTS
 - [cmulk/wireguard-docker](https://github.com/cmulk/wireguard-docker) - Wireguard setup in Docker meant for a simple personal VPN
 - [seapagan/linux-comfy-chair](https://github.com/seapagan/linux-comfy-chair) - Auto provision a new linux install with scripting tools and other handy items
 - [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
@@ -7975,6 +7990,7 @@
 
 ## TeX 
 
+- [kasaai/deeptriangle](https://github.com/kasaai/deeptriangle) - DeepTriangle: A Deep Learning Approach to Loss Reserving
 - [MathiasHarrer/Doing-Meta-Analysis-in-R](https://github.com/MathiasHarrer/Doing-Meta-Analysis-in-R) - All R code and source files for the online guide "Doing Meta-Analysis with R: A Hands-On Guide"
 - [Robinlovelace/open-gat](https://github.com/Robinlovelace/open-gat) - Open source software for geographic transport data analysis and planning
 - [GDSL-UL/the_knowledge](https://github.com/GDSL-UL/the_knowledge) - A Repo of things GDSLers Should Know....
@@ -8042,6 +8058,7 @@
 
 ## TypeScript 
 
+- [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [rnystrom/status-checklists](https://github.com/rnystrom/status-checklists) - Action to that updates Issue state with checklists
 - [joeyuping/quick_latex_obsidian](https://github.com/joeyuping/quick_latex_obsidian) - 
 - [mandarons/yadd](https://github.com/mandarons/yadd) - Yet Another Dashboard (Dockerized) - homepage for your services
