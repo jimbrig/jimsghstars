@@ -1742,6 +1742,7 @@
 - [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language
 - [mhisoft/FastCopy](https://github.com/mhisoft/FastCopy) - The fastest mass copy and sync, backup tool for Windows, Mac and Linux/Unix
 - [hgqapp/atlassian-agent](https://github.com/hgqapp/atlassian-agent) - Atlassian's productions crack.
+- [hkneptune/FastCopy](https://github.com/hkneptune/FastCopy) - The fastest mass copy and sync, backup tool for Windows, Mac and Linux/Unix
 - [carlossg/jenkinsfile-runner-google-cloud-run](https://github.com/carlossg/jenkinsfile-runner-google-cloud-run) - Serverless Jenkins pipelines on Google Cloud Run
 - [stargate/stargate](https://github.com/stargate/stargate) - An open source data gateway
 - [swagger-api/swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
@@ -1792,7 +1793,7 @@
 
 ## JavaScript 
 
-- [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
+- [jimbrig/Slipbox](https://github.com/jimbrig/Slipbox) - 
 - [rnystrom/issue-actions](https://github.com/rnystrom/issue-actions) - WIP actions to sync parent and child issues.
 - [rnystrom/create-child-issues](https://github.com/rnystrom/create-child-issues) - Action to generate child issues with labels.
 - [npm/node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses)
@@ -2035,7 +2036,6 @@
 - [hibiken/react-places-autocomplete](https://github.com/hibiken/react-places-autocomplete) - React component for Google Maps Places Autocomplete
 - [fullstackreact/google-maps-react](https://github.com/fullstackreact/google-maps-react) - Companion code to the "How to Write a Google Maps React Component" Tutorial
 - [pa7/heatmap.js](https://github.com/pa7/heatmap.js) - 🔥 JavaScript Library for HTML5 canvas based heatmaps
-- [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
 - [bukinoshita/git-labels-cli](https://github.com/bukinoshita/git-labels-cli) - Creating Github issue labels
 - [abhi0402/foodHub-frontend-client](https://github.com/abhi0402/foodHub-frontend-client) - Front-end for food delivery application created using reactjs along with redux and Material-UI, walkthrough -
 - [abhi0402/foodHub-backend-server](https://github.com/abhi0402/foodHub-backend-server) - Restful APIs for Food Delivery application developed using Nodejs & Express, walkthrough -
@@ -2662,6 +2662,7 @@
 - [htmlwidgets/sparkline](https://github.com/htmlwidgets/sparkline) - jQuery Sparkline HTML Widget for R
 - [hrbrmstr/vegalite](https://github.com/hrbrmstr/vegalite) - R ggplot2 "bindings" for Vega-Lite
 - [timelyportfolio/sunburstR](https://github.com/timelyportfolio/sunburstR) - R htmlwidget for interactive sunburst plots
+- [JohnCoene/echarts4r](https://github.com/JohnCoene/echarts4r) - 🐳 ECharts 5 for R
 - [thomasp85/shinyFiles](https://github.com/thomasp85/shinyFiles) - A shiny extension for server side file access
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [nefe/You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
@@ -2863,7 +2864,6 @@
 - [kasaai/wcrater](https://github.com/kasaai/wcrater) - wc rating api
 - [justin-vanwinkle/workflow-test](https://github.com/justin-vanwinkle/workflow-test) - 
 - [microsoft/sql-server-samples](https://github.com/microsoft/sql-server-samples) - Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge
-- [jimbrig/loss_development_app](https://github.com/jimbrig/loss_development_app) - Boilerplate Actuarial Reserving Loss Development R Shiny Application
 - [r-lib/ghurl](https://github.com/r-lib/ghurl) - 
 - [rnystrom/leadership](https://github.com/rnystrom/leadership) - [WIP] My thoughts, principles, and resources on leadership.
 - [rnystrom/.github-template](https://github.com/rnystrom/.github-template) - 
@@ -2933,7 +2933,6 @@
 - [terminalforlife/DEB-Packages](https://github.com/terminalforlife/DEB-Packages) - DEB packages for various TFL programs.
 - [mikeroyal/Zorin-OS-Guide](https://github.com/mikeroyal/Zorin-OS-Guide) - 
 - [hirsaeki/chocolateyPackages](https://github.com/hirsaeki/chocolateyPackages) - 
-- [hkneptune/FastCopy](https://github.com/hkneptune/FastCopy) - The fastest mass copy and sync, backup tool for Windows, Mac and Linux/Unix
 - [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) - The Unofficial PowerShell Best Practices and Style Guide
 - [yeoman/yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
 - [crystalidea/uninstall-tool](https://github.com/crystalidea/uninstall-tool) - Binaries archive/releases of Uninstall Tool
@@ -3840,6 +3839,10 @@
 
 ## PowerShell 
 
+- [GruberMarkus/PowerShell-Choice](https://github.com/GruberMarkus/PowerShell-Choice) - Choice with timeout for PowerShell
+- [bdukes/PowerShellModules](https://github.com/bdukes/PowerShellModules) - A collection of PowerShell modules
+- [platinum4friends/PromptForChoice](https://github.com/platinum4friends/PromptForChoice) - A PowerShell module that prompts the user to select from a list of choices. It is a simple wrapper around the .NET function $Host.UI.PromptForChoice to simplify it's usage.
+- [Windos/BurntToast](https://github.com/Windos/BurntToast) - Module for creating and displaying Toast Notifications on Microsoft Windows 10.
 - [pBouillon/dotfiles](https://github.com/pBouillon/dotfiles) - 
 - [lukesampson/cowsay-psh](https://github.com/lukesampson/cowsay-psh) - Cowsay/think in Powershell
 - [markovejnovic/WinConf](https://github.com/markovejnovic/WinConf) - ⛔️ [DEPRECATED] A small set of scripts for post-install Windows
@@ -4507,7 +4510,7 @@
 - [lggruspe/slipbox](https://github.com/lggruspe/slipbox) - A static site generator for Zettelkasten notes
 - [djplaner/memex](https://github.com/djplaner/memex) - Nascent attempt at using Foam to curate and leverage a personal memex
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge framework (CK) helps to organize software projects as a database of reusable automation recipes and portable workflows with common APIs and extensible meta descriptions based on FAIR principles. See the real-world use cases to support reproducible benchmarking, enable portable MLOps and automate ML/SW/HW co-design:
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge framework (CK) aims at enabling collaborative, reproducible and unified benchmarking and optimization of ML Systems across continuously changing models, data sets, software and hardware:
 - [bhrigu123/classifier](https://github.com/bhrigu123/classifier) - Organize files in your directory instantly, by classifying them into different folders
 - [mcharleb/gittagstats](https://github.com/mcharleb/gittagstats) - 
 - [jctanner/ansible-tools](https://github.com/jctanner/ansible-tools) - 
@@ -4741,6 +4744,7 @@
 - [shikokuchuo/ichimoku](https://github.com/shikokuchuo/ichimoku) - ichimoku R package - Visualization and Tools for Ichimoku Kinko Hyo Strategies
 - [t-kalinowski/knitr.regression](https://github.com/t-kalinowski/knitr.regression) - 
 - [eco4cast/neon4cast](https://github.com/eco4cast/neon4cast) - A helper R package for the neon4cast challenge
+- [jimbrig/loss_development_app](https://github.com/jimbrig/loss_development_app) - Boilerplate Actuarial Reserving Loss Development R Shiny Application
 - [easystats/modelbased](https://github.com/easystats/modelbased) - :chart_with_upwards_trend: Estimate effects, contrasts and means based on statistical models
 - [moodymudskipper/myverse](https://github.com/moodymudskipper/myverse) - Easily Load a Set of Packages
 - [richelbilderbeek/plinkr](https://github.com/richelbilderbeek/plinkr) - Work with PLINK from R
@@ -7204,7 +7208,6 @@
 - [cwthom/shinyhelper](https://github.com/cwthom/shinyhelper) - Add markdown help files to 'shiny' apps
 - [JohnCoene/tippy](https://github.com/JohnCoene/tippy) - 💬 Tippy.js for Shiny
 - [carlganz/rintrojs](https://github.com/carlganz/rintrojs) - Wrapper for the Intro.js library
-- [JohnCoene/echarts4r](https://github.com/JohnCoene/echarts4r) - 🐳 ECharts 5 for R
 - [emitanaka/shinycustomloader](https://github.com/emitanaka/shinycustomloader) - Add a custom loader for R shiny
 - [burgerga/shinyTime](https://github.com/burgerga/shinyTime) - A timeInput widget for Shiny
 - [wleepang/shiny-directory-input](https://github.com/wleepang/shiny-directory-input) - An shiny input widget for selecting directories
@@ -8059,6 +8062,7 @@
 ## TypeScript 
 
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
+- [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [rnystrom/status-checklists](https://github.com/rnystrom/status-checklists) - Action to that updates Issue state with checklists
 - [joeyuping/quick_latex_obsidian](https://github.com/joeyuping/quick_latex_obsidian) - 
 - [mandarons/yadd](https://github.com/mandarons/yadd) - Yet Another Dashboard (Dockerized) - homepage for your services
@@ -8176,6 +8180,7 @@
 - [wellyshen/use-places-autocomplete](https://github.com/wellyshen/use-places-autocomplete) - 😎 📍 React hook for Google Maps Places Autocomplete.
 - [JustFly1984/react-google-maps-api](https://github.com/JustFly1984/react-google-maps-api) - React Google Maps API
 - [SebastianM/angular-google-maps](https://github.com/SebastianM/angular-google-maps) - Angular 2+ Google Maps Components
+- [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
 - [expo/react-native-action-sheet](https://github.com/expo/react-native-action-sheet) - A cross-platform ActionSheet for React Native
 - [microsoft/vscode-react-native](https://github.com/microsoft/vscode-react-native) - VSCode extension for React Native - supports debugging and editor integration
 - [Flutterwave/flutterwave-react-native](https://github.com/Flutterwave/flutterwave-react-native) - Easily plug Flutterwave into your react-native app for payments.
@@ -8463,7 +8468,6 @@
 
 - [euzzeud/GetWindows11Utility](https://github.com/euzzeud/GetWindows11Utility) - A utility that allows you to download the ISO of the Windows 11!
 - [xBidoof/FileWatcher](https://github.com/xBidoof/FileWatcher) - FileWatcher application for Windows only
-- [faffolao/Windows10_postinstall](https://github.com/faffolao/Windows10_postinstall) - Graphic tool for configure Windows 10 after a fresh installation. Based on the original "Win10-initial-setup-script" by Disassembler.
 - [Vitosh/VBA_personal](https://github.com/Vitosh/VBA_personal) - Library with VBA, used in multiple projects.
 - [SQL-Server-projects/Reporting-Services-examples](https://github.com/SQL-Server-projects/Reporting-Services-examples) - :closed_book: Various example reports I use for SQL Server Reporting Services (SSRS) as well as documents for unit testing, requirements and a style guide template.
 - [MoscaDotTo/Winapp2](https://github.com/MoscaDotTo/Winapp2) - A database of extended cleaning routines for popular Windows PC based maintenance software.
