@@ -207,7 +207,7 @@
 - [ManuelGil/Uninstall-Office-2016](https://github.com/ManuelGil/Uninstall-Office-2016) - This script allows you to uninstall or automatically delete Office 2016, 365 or earlier using the Microsoft Windows command line.
 - [Empyreal96/win-10-services-toolbox](https://github.com/Empyreal96/win-10-services-toolbox) - A Toolbox allowing users to modify various aspects of Windows 10 from one place.
 - [cmartinezone/WinPEBuilder](https://github.com/cmartinezone/WinPEBuilder) - WinPEBuilder v1.1 - create your WinPE bootable Images easily, including custom scripts and drivers.
-- [kingjuliando/dotbatch](https://github.com/kingjuliando/dotbatch) - 🖳 Windows based 'dotfiles' - CMD scripts and AHK
+- [0ffcat/dotbatch](https://github.com/0ffcat/dotbatch) - 
 - [Atavic/regtweaks](https://github.com/Atavic/regtweaks) - Over 600 Windows Registry Tweaks for Windows 7, 8, 8.1 and 10
 - [teddy-gustiaux/scripts](https://github.com/teddy-gustiaux/scripts) - Set of miscellaneous scripts for personal use.
 - [JoePlant/windows-scripts](https://github.com/JoePlant/windows-scripts) - A set of scripts that I use to manage my laptop
@@ -238,7 +238,7 @@
 
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [RandomStuffyeah/Windows11](https://github.com/RandomStuffyeah/Windows11) - Leaked sourcecode
-- [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This application aims to bring back a productive working environment on Windows 11, by restoring dormant functionalities from Windows 10 in the newest OS builds.
+- [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to bring back a productive working environment on Windows 11.
 - [ventoy/vtoydump](https://github.com/ventoy/vtoydump) - This is a tool used with "Ventoy Compatible".
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [FarGroup/Far-NetBox](https://github.com/FarGroup/Far-NetBox) - SFTP/SCP/FTP/FTPS/WebDAV client for Far Manager (http://farmanager.com/)
@@ -812,7 +812,6 @@
 - [dzangri/stmGUI](https://github.com/dzangri/stmGUI) - 
 - [rileytwo/darkstudio](https://github.com/rileytwo/darkstudio) - darkstudio. A dark grey alternative to RStudio's default dark theme.
 - [sjl/d](https://github.com/sjl/d) - Markdown files to documentation.  Nothing else.
-- [tidyverse/style](https://github.com/tidyverse/style) - The tidyverse style guide for R code
 - [RinteRface/argonDash](https://github.com/RinteRface/argonDash) - argon dashboard template
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
 - [no-types/RagGrid](https://github.com/no-types/RagGrid) - R interface to ag-grid.
@@ -897,7 +896,7 @@
 - [sass/migrator](https://github.com/sass/migrator) - Tool for migrating stylesheets to new Sass versions
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [Maddoxx88/next-joke](https://github.com/Maddoxx88/next-joke) - Random Two Part Joke App using Flutter.
-- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [atiqsamtia/hivedb_flutter_saved_list_sample](https://github.com/atiqsamtia/hivedb_flutter_saved_list_sample) - Sample for Getting list of saved items in a box.
 
 ## Dhall 
@@ -1609,6 +1608,7 @@
 - [thebioengineer/colortable](https://github.com/thebioengineer/colortable) - Add coloring and styling to data.frame and tibble records!
 - [rstudio/pro_admin_training_assets](https://github.com/rstudio/pro_admin_training_assets) - Public assets for the RStudio Professional Admin Training
 - [reconhub/guides](https://github.com/reconhub/guides) - Recon's guidelines for writing statistical analyses reports
+- [tidyverse/style](https://github.com/tidyverse/style) - The tidyverse style guide for R code
 - [rstudio-conf-2020/rmarkdown-dashboard](https://github.com/rstudio-conf-2020/rmarkdown-dashboard) - The R Markdown and Interactive Dashboards Workshp at rstudio::conf 2020
 - [rstudio-conf-2020/shiny-start-finish](https://github.com/rstudio-conf-2020/shiny-start-finish) - 
 - [r-for-educators/templar](https://github.com/r-for-educators/templar) - Template and autogeneration for common documents
@@ -3678,6 +3678,7 @@
 - [postlight/awesome-cms](https://github.com/postlight/awesome-cms) - 📚 A collection of open and closed source Content Management Systems (CMS) for your perusal.
 - [Zettelkasten-Method/The-Archive-Themes](https://github.com/Zettelkasten-Method/The-Archive-Themes) - The Archive userland for app themes
 - [microsoft/Windows-Dev-Performance](https://github.com/microsoft/Windows-Dev-Performance) - A repo for developers on Windows to file issues that impede their productivity, efficiency, and efficacy
+- [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
 - [josedv82/shinyAMS-resources](https://github.com/josedv82/shinyAMS-resources) - A compilation of resources for sport scientist building Athlete Management Tools in Shiny
 - [github/renaming](https://github.com/github/renaming) - Guidance for changing the default branch name for GitHub repositories
 - [UnseenWizzard/git_training](https://github.com/UnseenWizzard/git_training) - An interactive git training meant to teach you how git works, not just which commands to execute
@@ -4510,7 +4511,7 @@
 - [lggruspe/slipbox](https://github.com/lggruspe/slipbox) - A static site generator for Zettelkasten notes
 - [djplaner/memex](https://github.com/djplaner/memex) - Nascent attempt at using Foam to curate and leverage a personal memex
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge framework (CK) aims at enabling collaborative, reproducible and unified benchmarking and optimization of ML Systems across continuously changing models, data sets, software and hardware:
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge framework (CK) provides a common set of automation recipes, APIs and meta descriptions to enable collaborative, reproducible and unified benchmarking and optimization of ML Systems across continuously changing models, data sets, software and hardware:
 - [bhrigu123/classifier](https://github.com/bhrigu123/classifier) - Organize files in your directory instantly, by classifying them into different folders
 - [mcharleb/gittagstats](https://github.com/mcharleb/gittagstats) - 
 - [jctanner/ansible-tools](https://github.com/jctanner/ansible-tools) - 
@@ -7913,7 +7914,6 @@
 - [ElliotPenson/org](https://github.com/ElliotPenson/org) - My brain in plain text.
 - [blay/dotfiles](https://github.com/blay/dotfiles) - My dotfiles
 - [nikitavoloboev/dotfiles](https://github.com/nikitavoloboev/dotfiles) - Zsh, Karabiner, VS Code, Sublime, Neovim, Nix
-- [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
 - [ropensci/actions](https://github.com/ropensci/actions) - Some public GitHub actions
 - [gohugoio/hugoThemes](https://github.com/gohugoio/hugoThemes) - A curated directory of Hugo themes
 - [cgrima/rsync_backup](https://github.com/cgrima/rsync_backup) - Rsync incremental and rotating backups
@@ -8256,7 +8256,7 @@
 - [hasura/data-dictionary](https://github.com/hasura/data-dictionary) - 
 - [codeverland/codever](https://github.com/codeverland/codever) - Bookmarks and Snippets Manager for Developers & Co
 - [agathauy/wikilinks-to-mdlinks-obsidian](https://github.com/agathauy/wikilinks-to-mdlinks-obsidian) - An Obsidian md plugin which allows for the conversion of individually selected wikilinks to markdown links, and vice versa.
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Build custom CRUD apps that talk to any API or database. All without HTML or CSS.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Build completely custom admin panels and internal tools. Use 30+ react components to build pages without HTML/CSS.
 - [toddbluhm/env-cmd](https://github.com/toddbluhm/env-cmd) - Setting environment variables from a file
 - [linyows/github-issues-notice](https://github.com/linyows/github-issues-notice) - :octocat: Notify labeled issues to Slack
 - [peter-evans/create-issue-from-file](https://github.com/peter-evans/create-issue-from-file) - A GitHub action to create an issue using content from a file
