@@ -207,7 +207,7 @@
 - [ManuelGil/Uninstall-Office-2016](https://github.com/ManuelGil/Uninstall-Office-2016) - This script allows you to uninstall or automatically delete Office 2016, 365 or earlier using the Microsoft Windows command line.
 - [Empyreal96/win-10-services-toolbox](https://github.com/Empyreal96/win-10-services-toolbox) - A Toolbox allowing users to modify various aspects of Windows 10 from one place.
 - [cmartinezone/WinPEBuilder](https://github.com/cmartinezone/WinPEBuilder) - WinPEBuilder v1.1 - create your WinPE bootable Images easily, including custom scripts and drivers.
-- [0ffcat/dotbatch](https://github.com/0ffcat/dotbatch) - 
+- [0ffcat/dotbatch](https://github.com/0ffcat/dotbatch) - dotfiles but it's windows
 - [Atavic/regtweaks](https://github.com/Atavic/regtweaks) - Over 600 Windows Registry Tweaks for Windows 7, 8, 8.1 and 10
 - [teddy-gustiaux/scripts](https://github.com/teddy-gustiaux/scripts) - Set of miscellaneous scripts for personal use.
 - [JoePlant/windows-scripts](https://github.com/JoePlant/windows-scripts) - A set of scripts that I use to manage my laptop
@@ -363,6 +363,8 @@
 
 ## C# # 
 
+- [PowerShell/SecretManagement](https://github.com/PowerShell/SecretManagement) - PowerShell module to consistent usage of secrets through different extension vaults
+- [jb262/ActuarialMaths.NonLife](https://github.com/jb262/ActuarialMaths.NonLife) - Class library for actuarial claims reserving and tariff rating for non-life insurances
 - [fluentpos/fluentpos](https://github.com/fluentpos/fluentpos) - Open Source Point Of Sales and Inventory Management Solution built with ASP.NET Core 5.0 WebAPI and Angular 12 Material.
 - [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 - [zumoshi/BrowserSelect](https://github.com/zumoshi/BrowserSelect) - Browser Select is a utility to dynamically select the browser you want instead of just having one default for all links.
@@ -699,6 +701,7 @@
 
 ## CSS 
 
+- [codebushi/nextjs-starter-dimension](https://github.com/codebushi/nextjs-starter-dimension) - Next.js static site starter based on the Dimension template.
 - [kinoute/typora-github-night-theme](https://github.com/kinoute/typora-github-night-theme) - Dark Typora themes that reproduce the new GitHub Dark Themes as much as possible.
 - [mil/markdown-tree](https://github.com/mil/markdown-tree) - A Sinatra script to serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown.
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
@@ -905,6 +908,7 @@
 
 ## Dockerfile 
 
+- [Haoen-Cui/baker-bayesian-analysis-in-docker](https://github.com/Haoen-Cui/baker-bayesian-analysis-in-docker) - Baker Project: Dockerfile for Bayesian Analysis
 - [zsh-users/zsh-docker](https://github.com/zsh-users/zsh-docker) - Docker containers for all versions of Zsh.
 - [gbeal/docker-backblaze-b2](https://github.com/gbeal/docker-backblaze-b2) - A Docker image for Backblaze B2 on Alpine Linux
 - [orhun/git-cliff-action](https://github.com/orhun/git-cliff-action) - GitHub action to generate a changelog based on the Git history
@@ -1277,6 +1281,11 @@
 
 ## HTML 
 
+- [JennyLeeStat/CASwR](https://github.com/JennyLeeStat/CASwR) - Computational Actuarial Science with R
+- [alex21th/actuarial-finance](https://github.com/alex21th/actuarial-finance) - Notebooks y entregables de proyecto de las tareas de laboratorio realizadas en la asignatura Métodos Estadísticos para Finanzas y Seguros del Grado en Ciencia e Ingeniería de Datos. 📈
+- [JoeKnittel/joeknittel.github.io](https://github.com/JoeKnittel/joeknittel.github.io) - A Blog Documenting My Adventures in Actuarial Science (2021)
+- [katrienantonio/workshop-loss-reserv-fraud](https://github.com/katrienantonio/workshop-loss-reserv-fraud) - Course material for a workshop on loss modelling, reserving and insurance fraud analytics
+- [robbie-sp/robbie-sp.github.io](https://github.com/robbie-sp/robbie-sp.github.io) - Rob's blog
 - [guillaumebriday/traefik-docker-ansible](https://github.com/guillaumebriday/traefik-docker-ansible) - 🐳 🐹  This is an Ansible playbook to install multiple Web applications on a single Ubuntu server with Docker and Traefik.
 - [jthomasmock/pkg-building](https://github.com/jthomasmock/pkg-building) - 
 - [JPTGamesAndApps/ShresthaFiles](https://github.com/JPTGamesAndApps/ShresthaFiles) - A Modern File Manager for Windows 10 and Windows 11 Devices!
@@ -1705,6 +1714,7 @@
 
 ## Haskell 
 
+- [SUNJIANZHI/JINH](https://github.com/SUNJIANZHI/JINH) - Pure Functional Actuarial Language
 - [typelead/eta](https://github.com/typelead/eta) - The Eta Programming Language, a dialect of Haskell on the JVM
 - [idris-lang/Idris-dev](https://github.com/idris-lang/Idris-dev) - A Dependently Typed Functional Programming Language
 - [elm/compiler](https://github.com/elm/compiler) - Compiler for Elm, a functional language for reliable webapps.
@@ -1793,6 +1803,10 @@
 
 ## JavaScript 
 
+- [leerob/nextjs-gcp-storage](https://github.com/leerob/nextjs-gcp-storage) - Example Next.js app to upload photos to a GCP storage bucket.
+- [hashicorp/setup-terraform](https://github.com/hashicorp/setup-terraform) - Sets up Terraform CLI in your GitHub Actions workflow.
+- [vchagas69/vchagas69.github.io](https://github.com/vchagas69/vchagas69.github.io) - A Portuguese Actuary
+- [Ignorance999/Actuarial_Simulation_Model](https://github.com/Ignorance999/Actuarial_Simulation_Model) - 
 - [jimbrig/Slipbox](https://github.com/jimbrig/Slipbox) - 
 - [rnystrom/issue-actions](https://github.com/rnystrom/issue-actions) - WIP actions to sync parent and child issues.
 - [rnystrom/create-child-issues](https://github.com/rnystrom/create-child-issues) - Action to generate child issues with labels.
@@ -2691,12 +2705,18 @@
 
 ## Julia 
 
+- [JuliaActuary/Learn](https://github.com/JuliaActuary/Learn) - Examples and Tutorials using JuliaActuary packages.
+- [JuliaActuary/ActuaryUtilities.jl](https://github.com/JuliaActuary/ActuaryUtilities.jl) - Common functions in actuarial and financial routines
 - [tlienart/Franklin.jl](https://github.com/tlienart/Franklin.jl) - (yet another) static site generator. Simple, customisable, fast, maths with KaTeX, code evaluation, optional pre-rendering, in Julia.
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [svaksha/pythonidae](https://github.com/svaksha/pythonidae) - Curated decibans of scientific programming resources in Python.
 
 ## Jupyter Notebook 
 
+- [DeutscheAktuarvereinigung/Data_Science_Challenge_2020_Betrugserkennung](https://github.com/DeutscheAktuarvereinigung/Data_Science_Challenge_2020_Betrugserkennung) - In this notebook we take a look at a relevant project that is frequently encountered by insurers: Fraud Detection. For this purpose we use a car data set from a public source and will show the necessary steps to establish an automated fraud detection.
+- [DeutscheAktuarvereinigung/Mortality_Modeling](https://github.com/DeutscheAktuarvereinigung/Mortality_Modeling) - Multi-Population Mortality Modeling With Neural Networks
+- [BridgingBigData/ActuarialBridgeData](https://github.com/BridgingBigData/ActuarialBridgeData) - Jupyter notebook and data used to do actuarial science-based bridge health monitoring.
+- [validatehealth/desynpuf](https://github.com/validatehealth/desynpuf) - Automatically Download the Data Entrepreneurs Synthetic Public Use Files from Medicare
 - [hooram/ownphotos](https://github.com/hooram/ownphotos) - Self hosted alternative to Google Photos
 - [markwk/qs_ledger](https://github.com/markwk/qs_ledger) - Quantified Self Personal Data Aggregator and Data Analysis
 - [anaidpm/data_science_workshop](https://github.com/anaidpm/data_science_workshop) - 
@@ -2861,6 +2881,16 @@
 
 ## Others 
 
+- [DopplerUniversity/app-config-templates](https://github.com/DopplerUniversity/app-config-templates) - Set up applications in Doppler using app configuration templates
+- [puncsky/system-design-and-architecture](https://github.com/puncsky/system-design-and-architecture) - Learn how to design large-scale systems. Prep for the system design interview.
+- [alec42/AirBNB-Data-Visualizer](https://github.com/alec42/AirBNB-Data-Visualizer) - An interactive R Shiny app that allows full visualization of open AirBNB Data. The tool enables easy geographical, univariate and bivariate data exploration of the AirBNB data for every available city.
+- [kasaai/references](https://github.com/kasaai/references) - Papers, blogs, and other fun stuff.
+- [matthewfarant/bigquery-dti-ecommerce](https://github.com/matthewfarant/bigquery-dti-ecommerce) - Google BigQuery Data-to-Insights (E-Commerce) scripts
+- [agarbiak/agarbiak](https://github.com/agarbiak/agarbiak) - 
+- [open-actuarial/open-actuarial-site](https://github.com/open-actuarial/open-actuarial-site) - Website for Open Actuarial
+- [casact/e-forum](https://github.com/casact/e-forum) - Casualty actuarial society E-Forum
+- [mickeyshi-syd/actuarial-hackathon-2019](https://github.com/mickeyshi-syd/actuarial-hackathon-2019) - 2019 Actuarial Hackathon
+- [agi-lab/reserving-multivariate-evolutionary-glm](https://github.com/agi-lab/reserving-multivariate-evolutionary-glm) - A multivariate evolutionary generalised linear model framework with adaptive estimation for claims reserving
 - [kasaai/wcrater](https://github.com/kasaai/wcrater) - wc rating api
 - [justin-vanwinkle/workflow-test](https://github.com/justin-vanwinkle/workflow-test) - 
 - [microsoft/sql-server-samples](https://github.com/microsoft/sql-server-samples) - Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge
@@ -3315,7 +3345,6 @@
 - [casact/meta](https://github.com/casact/meta) - Information about the CAS organizational account
 - [robbie-sp/IndClaimDev](https://github.com/robbie-sp/IndClaimDev) - Individual Claim Development Model for General (P&C) Insurance Claims
 - [genedan/actuarial-foss](https://github.com/genedan/actuarial-foss) - A curated list of free and open source actuarial software
-- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your Profile and Projects.
 - [DenverCoder1/DenverCoder1](https://github.com/DenverCoder1/DenverCoder1) - Profile README for DenverCoder1
 - [jimbrig/jimbrig](https://github.com/jimbrig/jimbrig) - Github Homepage
 - [kissgyorgy/my-stars](https://github.com/kissgyorgy/my-stars) - My GitHub starred repositories
@@ -3550,7 +3579,6 @@
 - [andrew--r/frontend-case-studies](https://github.com/andrew--r/frontend-case-studies) - 💼 A curated list of technical talks and articles about real world enterprise frontend development
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [0xnr/awesome-bigdata](https://github.com/0xnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL & Relay
@@ -4316,6 +4344,16 @@
 
 ## Python 
 
+- [aacosta-milesius/financial-math](https://github.com/aacosta-milesius/financial-math) - Time value of money functions using actuarial methods
+- [Elsemary/Actuarial-calculator](https://github.com/Elsemary/Actuarial-calculator) - Functions for finding premium in several ways, calculating the reserve in an equivalence principle, and calculating the reserve in an Euler differential equation
+- [DeDeDeDer/Personal_Projects](https://github.com/DeDeDeDer/Personal_Projects) - This holds all my personal data-related project's (Automation, Modelling, Analysis)
+- [Elsemary/Actuarial-Reserve-Risk-Classification-with-Gaussian-Mixture](https://github.com/Elsemary/Actuarial-Reserve-Risk-Classification-with-Gaussian-Mixture) - Classification of reserve risk with chain-ladder
+- [casact/PCDM](https://github.com/casact/PCDM) - Property Casualty Data Model Specification
+- [aaweaver-actuary/pyact](https://github.com/aaweaver-actuary/pyact) - Actuarial functions, etc, for P&C (General Insurance) work
+- [anbarief/actuarydesk](https://github.com/anbarief/actuarydesk) - Python package for actuary to model and analyze simple products or for actuarial students to practice.
+- [trikit/trikit](https://github.com/trikit/trikit) - A Pythonic Approach to Actuarial Reserving
+- [casact/FASLR](https://github.com/casact/FASLR) - Free Actuarial System for Loss Reserving
+- [fumitoh/modelx](https://github.com/fumitoh/modelx) - Use Python like a spreadsheet!
 - [fladi/django-github-webhook](https://github.com/fladi/django-github-webhook) - Django view for GitHub webhook receivers
 - [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - 
 - [canonical/ubuntu-wsl-oobe](https://github.com/canonical/ubuntu-wsl-oobe) - Ubuntu WSL Onboarding Experience
@@ -4550,7 +4588,6 @@
 - [smahesh29/File-Sorter](https://github.com/smahesh29/File-Sorter) - This is a python program for sorting files.
 - [westurner/pgs](https://github.com/westurner/pgs) - Serve a directory or a git revision over HTTP with Bottle and WSGI; and try_files $1.html https://pypi.python.org/pypi/pgs
 - [Keeper-Security/Commander](https://github.com/Keeper-Security/Commander) - Keeper Commander
-- [casact/PCDM](https://github.com/casact/PCDM) - Property Casualty Data Model Specification
 - [genedan/MIES](https://github.com/genedan/MIES) - Miniature Insurance Economic Simulator
 - [yusuzech/tidyverse_notes](https://github.com/yusuzech/tidyverse_notes) - Avoid common mistake and write efficient codes in tidyverse.
 - [youyanggu/groupme_stats](https://github.com/youyanggu/groupme_stats) - Tool to download and optionally display interesting stats about GroupMe messages
@@ -4740,6 +4777,21 @@
 
 ## R 
 
+- [kkondo1981/aglm](https://github.com/kkondo1981/aglm) - A handy tool for actuarial modeling, which is designed to achieve both accuracy and accountability.
+- [JoeKnittel/Shiny-App](https://github.com/JoeKnittel/Shiny-App) - Visualizing Life Expectancy vs. GDP per Capita (2021)
+- [alec42/Distributacalcul_Package](https://github.com/alec42/Distributacalcul_Package) - Package of probability functions, originally created for the Distributacalcul webapp
+- [matthewfarant/ClaimsTriangle](https://github.com/matthewfarant/ClaimsTriangle) - A Shiny application for Loss Development Triangle Generator
+- [kasaai/conjuror](https://github.com/kasaai/conjuror) - Uniform interface for synthesizing insurance data
+- [MHaringa/spatialrisk](https://github.com/MHaringa/spatialrisk) - R-package for spatial risk calculations
+- [mpascariu/MortalityLaws](https://github.com/mpascariu/MortalityLaws) - Fit and compare the most popular human mortality laws - R package
+- [A1arcon/R_Actuarial](https://github.com/A1arcon/R_Actuarial) - El objetivo de este repositorio es brindar un apoyo a la comunidad interesada en mejorar sus técnicas en el lenguaje de programación R o emprenderlo desde un punto de vista muy aplicado.  Un repositorio con códigos de R para aplicaciones actuariales: probabilidad, estadística, riesgo y finanzas.
+- [validatehealth/cmshcc](https://github.com/validatehealth/cmshcc) - This R package calculates CMS-HCC risk scores as an alternative to using SAS
+- [casact/cascsim](https://github.com/casact/cascsim) - 
+- [casact/shiny_big_long](https://github.com/casact/shiny_big_long) - 
+- [casact/stan_stans](https://github.com/casact/stan_stans) - Examples for and from the Stan stans study group of the CAS
+- [agarbiak/tuRingMachine](https://github.com/agarbiak/tuRingMachine) - Turing machine examples in R
+- [Haoen-Cui/mischelperfuns](https://github.com/Haoen-Cui/mischelperfuns) - Miscellaneous Helper Functions
+- [Haoen-Cui/SOA-Exam-PA-R-Package-Documentation](https://github.com/Haoen-Cui/SOA-Exam-PA-R-Package-Documentation) - R Package Documentation for SOA Exam PA
 - [caijun/ggcorrplot2](https://github.com/caijun/ggcorrplot2) - Implementation of corrplot using ggplot2
 - [lgnbhl/polyglot](https://github.com/lgnbhl/polyglot) - 🎓Learn Foreign Language Vocabulary in the R Console
 - [shikokuchuo/ichimoku](https://github.com/shikokuchuo/ichimoku) - ichimoku R package - Visualization and Tools for Ichimoku Kinko Hyo Strategies
@@ -7359,6 +7411,7 @@
 
 ## Rich Text Format 
 
+- [UCL-RITS/mkdocs-rc-docs](https://github.com/UCL-RITS/mkdocs-rc-docs) - Experimental Research Computing documentation generation using mkdocs
 - [AnthonyMastrean/chocolateypackages](https://github.com/AnthonyMastrean/chocolateypackages) - Application packages for Windows
 
 ## Roff 
@@ -7368,6 +7421,7 @@
 
 ## Ruby 
 
+- [benbalter/jekyll-auth](https://github.com/benbalter/jekyll-auth) - A simple way to use GitHub OAuth to serve a protected Jekyll site to your GitHub organization
 - [codervault/codervault](https://github.com/codervault/codervault) - An Open Source, Self-Hosted, Snippet Manager
 - [thoughtbot/parity](https://github.com/thoughtbot/parity) - Shell commands for development, staging, and production parity for Heroku apps
 - [copiousfreetime/launchy](https://github.com/copiousfreetime/launchy) - A helper for launching cross-platform applications in a fire and forget manner.
@@ -7529,6 +7583,7 @@
 - [lvalnegri/workshops-setup_cloud_analytics_machine](https://github.com/lvalnegri/workshops-setup_cloud_analytics_machine) - Tips and Tricks to setup a cloud machine for Analytics and Data Science with R, RStudio and Shiny Servers, Python and JupyterLab
 - [nikvoronin/wtfcrt](https://github.com/nikvoronin/wtfcrt) - A personal wiki-like notebooks aka zettelkasten
 - [andybyers21/notes.ajb.app](https://github.com/andybyers21/notes.ajb.app) - This is the data for my Evergreen notes vault
+- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your Profile and Projects.
 - [jamiebrynes7/clair-de-lune-obsidian-theme](https://github.com/jamiebrynes7/clair-de-lune-obsidian-theme) - An obsidian.md theme inspired by the Moonlight family of themes
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
@@ -7574,6 +7629,9 @@
 
 ## Shell 
 
+- [hashicorp/terraform-github-actions](https://github.com/hashicorp/terraform-github-actions) - Terraform GitHub Actions
+- [Haoen-Cui/dotfiles](https://github.com/Haoen-Cui/dotfiles) - Config Files of Haoen's Style
+- [agarbiak/CS1](https://github.com/agarbiak/CS1) - R code examples for IFoA's CS1 - Actuarial Statistics
 - [RConsortium/isc-proposal](https://github.com/RConsortium/isc-proposal) - Boilerplate proposal for R Consortium ISC Proposals
 - [rocker-org/ubuntu-lts](https://github.com/rocker-org/ubuntu-lts) - R Containers for Ubuntu LTS
 - [cmulk/wireguard-docker](https://github.com/cmulk/wireguard-docker) - Wireguard setup in Docker meant for a simple personal VPN
@@ -7881,6 +7939,7 @@
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [ahmetb/cloud-run-faq](https://github.com/ahmetb/cloud-run-faq) - Unofficial FAQ and everything you've been wondering about Google Cloud Run.
 - [ahmetb/serverless-url-redirect](https://github.com/ahmetb/serverless-url-redirect) - Simple click-to-deploy serverless URL redirect service
@@ -7950,6 +8009,7 @@
 
 ## Stan 
 
+- [casact/ef-yield-curve-generators](https://github.com/casact/ef-yield-curve-generators) - 
 - [ResearchActuary/ef_yield_curve_generators](https://github.com/ResearchActuary/ef_yield_curve_generators) - 
 - [stan-dev/posteriordb](https://github.com/stan-dev/posteriordb) - Database with posteriors of interest for Bayesian inference
 
@@ -7983,6 +8043,7 @@
 
 ## TSQL 
 
+- [gompertzmakeham/hazardrates](https://github.com/gompertzmakeham/hazardrates) - Proactive methodological disclosure of a high resolution precision calibrated estimate of the Gompertz-Makeham Law of Mortality and general utilization hazard rates through lifespan interferometry against annual census data consolidated from the administrative data of all publicly funded healthcare provided in a single geopolitical jurisdiction.
 - [lob/pg_insights](https://github.com/lob/pg_insights) - A collection of convenient SQL for monitoring Postgres database health.
 - [datacharmer/test_db](https://github.com/datacharmer/test_db) - A sample MySQL database with an integrated test suite, used to test your applications and database servers
 - [ktaranov/sqlserver-kit](https://github.com/ktaranov/sqlserver-kit) - Useful links, scripts, tools and best practice for Microsoft SQL Server Database
@@ -7993,6 +8054,9 @@
 
 ## TeX 
 
+- [Sheing/SalesforceActuarial](https://github.com/Sheing/SalesforceActuarial) - Salesforce x Actuarial Mortality Table
+- [ewfrees/LossDataAnalyticsOverheads](https://github.com/ewfrees/LossDataAnalyticsOverheads) - This site provides overheads for the drafts of our Loss Data Analytics chapters.
+- [ewfrees/LifeCon](https://github.com/ewfrees/LifeCon) - This site contains lecture notes for Life Contingencies, also known as Actuarial Mathematics. It is part of the Open Actuarial Textbooks project.
 - [kasaai/deeptriangle](https://github.com/kasaai/deeptriangle) - DeepTriangle: A Deep Learning Approach to Loss Reserving
 - [MathiasHarrer/Doing-Meta-Analysis-in-R](https://github.com/MathiasHarrer/Doing-Meta-Analysis-in-R) - All R code and source files for the online guide "Doing Meta-Analysis with R: A Hands-On Guide"
 - [Robinlovelace/open-gat](https://github.com/Robinlovelace/open-gat) - Open source software for geographic transport data analysis and planning
@@ -8425,7 +8489,7 @@
 - [ChrisTitusTech/myvim](https://github.com/ChrisTitusTech/myvim) - 
 - [hirsaeki/wsl_provision](https://github.com/hirsaeki/wsl_provision) - ansible playbook provision wsl
 - [hirsaeki/dotfiles](https://github.com/hirsaeki/dotfiles) - my dotfiles
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [LearnLinuxTV/personal_ansible_desktop_configs](https://github.com/LearnLinuxTV/personal_ansible_desktop_configs) - 
 - [aperezdc/vim-template](https://github.com/aperezdc/vim-template) - Simple templates plugin for Vim
 - [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
