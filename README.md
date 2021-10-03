@@ -1598,7 +1598,7 @@
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
 - [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
 - [dwyl/process-handbook](https://github.com/dwyl/process-handbook) - :green_book: Contains our processes, questions and journey to creating ateam
-- [data-edu/data-science-in-education](https://github.com/data-edu/data-science-in-education) - Repository for 'Data Science in Education Using R' by Emily A. Bovee, Ryan A. Estrellado, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez to be published by Routledge in 2020
+- [data-edu/data-science-in-education](https://github.com/data-edu/data-science-in-education) - Repository for 'Data Science in Education Using R' by Emily A. Bovee, Ryan A. Estrellado, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez, Routledge 2020
 - [s-fleck/lgr](https://github.com/s-fleck/lgr) - A fully featured logging framework for R
 - [rfordatascience/tidytuesday](https://github.com/rfordatascience/tidytuesday) - Official repo for the #tidytuesday project
 - [jthomasmock/pdftools-guide](https://github.com/jthomasmock/pdftools-guide) - Vignette to using pdftools from ropensci
@@ -1803,6 +1803,7 @@
 
 ## JavaScript 
 
+- [jimbrig/devpholio](https://github.com/jimbrig/devpholio) - Developer Portfolio Website
 - [leerob/nextjs-gcp-storage](https://github.com/leerob/nextjs-gcp-storage) - Example Next.js app to upload photos to a GCP storage bucket.
 - [hashicorp/setup-terraform](https://github.com/hashicorp/setup-terraform) - Sets up Terraform CLI in your GitHub Actions workflow.
 - [vchagas69/vchagas69.github.io](https://github.com/vchagas69/vchagas69.github.io) - A Portuguese Actuary
@@ -2881,6 +2882,7 @@
 
 ## Others 
 
+- [jimbrig/developerfolio](https://github.com/jimbrig/developerfolio) - Devfolio
 - [DopplerUniversity/app-config-templates](https://github.com/DopplerUniversity/app-config-templates) - Set up applications in Doppler using app configuration templates
 - [puncsky/system-design-and-architecture](https://github.com/puncsky/system-design-and-architecture) - Learn how to design large-scale systems. Prep for the system design interview.
 - [alec42/AirBNB-Data-Visualizer](https://github.com/alec42/AirBNB-Data-Visualizer) - An interactive R Shiny app that allows full visualization of open AirBNB Data. The tool enables easy geographical, univariate and bivariate data exploration of the AirBNB data for every available city.
@@ -4540,7 +4542,7 @@
 - [crdoconnor/strictyaml](https://github.com/crdoconnor/strictyaml) - Type-safe YAML parser and validator.
 - [Teraskull/PyDebloatX](https://github.com/Teraskull/PyDebloatX) - Python GUI for uninstalling the default Windows 10 apps.
 - [Kharacternyk/dotcommon](https://github.com/Kharacternyk/dotcommon) - What do people have in their dotfiles?
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build and manage real-life data science projects with ease :rocket:
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [plotly/dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
 - [balaji-dutt/zettel-hugo-postmaker](https://github.com/balaji-dutt/zettel-hugo-postmaker) - A set of Python scripts that converts wikilinks in Markdown files into standard Hugo links.
@@ -6567,7 +6569,7 @@
 - [JohnCoene/shinyscroll](https://github.com/JohnCoene/shinyscroll) - Scroll to an element in Shiny
 - [easystats/correlation](https://github.com/easystats/correlation) - :link: Methods for Correlation Analysis
 - [tidymodels/themis](https://github.com/tidymodels/themis) - Extra recipes steps for dealing with unbalanced data
-- [munterfinger/hereR](https://github.com/munterfinger/hereR) - R package that provides an interface to the HERE REST APIs: Geocoder API, Routing API, Traffic API, Public Transit API and Destination Weather API. Locations and routes are returned as 'sf' objects.
+- [munterfi/hereR](https://github.com/munterfi/hereR) - R package that provides an interface to the HERE REST APIs: Geocoder API, Routing API, Traffic API, Public Transit API and Destination Weather API. Locations and routes are returned as 'sf' objects.
 - [tdhock/inlinedocs](https://github.com/tdhock/inlinedocs) - Convert inline comments and examples to Rd documentation files
 - [GeoBosh/Rdpack](https://github.com/GeoBosh/Rdpack) - R package Rdpack provides functions and macros facilitating writing and management of R documentation.
 - [ropensci/weathercan](https://github.com/ropensci/weathercan) - R package for downloading weather data from Environment and Climate Change Canada
@@ -8095,7 +8097,7 @@
 - [kaneplusplus/listdown](https://github.com/kaneplusplus/listdown) - https://kaneplusplus.github.io/listdown
 - [alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
 - [rstudio-education/tidyverse-cookbook](https://github.com/rstudio-education/tidyverse-cookbook) - Code recipes for doing data science with R's tidyverse
-- [DivadNojnarg/outstanding-shiny-ui](https://github.com/DivadNojnarg/outstanding-shiny-ui) - Develop custom Shiny UI
+- [DivadNojnarg/outstanding-shiny-ui](https://github.com/DivadNojnarg/outstanding-shiny-ui) - IMPORTANT: PLEASE STOP FORKING THE REPO UNTIl FURTHER NOTICE. I'LL REMOVE THIS MESSAGE WHEN IT IS OK TO FORK IT AGAIN.
 - [timelyportfolio/pandoclatextemplate](https://github.com/timelyportfolio/pandoclatextemplate) - Rmarkdown Template using pandoc-latex-template
 - [aaronpeikert/reproducible-research](https://github.com/aaronpeikert/reproducible-research) - A Reproducible Data Analysis Workflow with R Markdown, Git, Make, and Docker
 - [josephwright/beamer](https://github.com/josephwright/beamer) - A LaTeX class for producing presentations and slides
