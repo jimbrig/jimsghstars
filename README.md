@@ -2209,7 +2209,7 @@
 - [teles/awesome-seo](https://github.com/teles/awesome-seo) - :star2: A curated list of SEO (Search Engine Optimization) links.
 - [lamartire/sharec](https://github.com/lamartire/sharec) - 📦 Store your configs in one place and share between projects without any pain
 - [nikku/wuffle](https://github.com/nikku/wuffle) - A multi-repository task board for GitHub issues.
-- [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - an enhancer/customiser for the all-in-one productivity workspace notion.so
+- [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - an enhancer/customiser for the all-in-one productivity workspace notion.so as an app
 - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) - A GitHub action to create or update an issue or pull request comment
 - [kbravh/tweet-to-markdown](https://github.com/kbravh/tweet-to-markdown) - A command line tool to convert Tweets to Markdown.
 - [thomaskoppelaar/markdown-links](https://github.com/thomaskoppelaar/markdown-links) - Command that displays a graph of local links between markdown files
@@ -2620,7 +2620,7 @@
 - [ctlab/shiny-graph](https://github.com/ctlab/shiny-graph) - Graph module for R Shiny
 - [nstrayer/shinyswipr](https://github.com/nstrayer/shinyswipr) - An R Shiny module to put swiping interfaces in your app!
 - [fxi/shinyCluster](https://github.com/fxi/shinyCluster) - Node.js module to launch a R Shiny app in multiple workers
-- [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery required.
+- [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 - [mengxiong10/vue2-datepicker](https://github.com/mengxiong10/vue2-datepicker) - A datepicker / datetimepicker component for Vue2
 - [dreamRs/shinypop](https://github.com/dreamRs/shinypop) - Collection of notifications, confirm dialogs and alerts for 'Shiny' applications
@@ -2939,7 +2939,6 @@
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
 - [limetext/lime](https://github.com/limetext/lime) - Open source API-compatible alternative to the text editor Sublime Text
 - [hannesknutsson/BultiMoot](https://github.com/hannesknutsson/BultiMoot) - A collection of scripts and configurations for setting up a storage device for live booting and installing multiple different operating systems from ISO-files.
-- [luzeadev/luzeadev](https://github.com/luzeadev/luzeadev) - 
 - [luzeadev/microsoft-download-link-archive](https://github.com/luzeadev/microsoft-download-link-archive) - Archive of various Microsoft Download Links.
 - [ivansandrk/multi-apps](https://github.com/ivansandrk/multi-apps) - Repository hosting the feature explainer
 - [philloooo/pwa-unique-id](https://github.com/philloooo/pwa-unique-id) - 
@@ -3866,6 +3865,7 @@
 - [ReneNyffenegger/notes](https://github.com/ReneNyffenegger/notes) - 
 - [thoughtbot/rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management
 - [foswiki/distro](https://github.com/foswiki/distro) - START HERE!  This is the Foswiki project "Distribution".  It is a monolith repository with the core + default extensions.
+- [R-macos/recipes](https://github.com/R-macos/recipes) - System for building static dependent libraries for CRAN packages
 - [jimhester/analysis_framework](https://github.com/jimhester/analysis_framework) - A skeleton analysis framework for use with knitr and git.
 
 ## PowerShell 
@@ -6222,7 +6222,6 @@
 - [jsugarelli/debugr](https://github.com/jsugarelli/debugr) - Debug tool to watch objects/expressions while running an R script
 - [jsugarelli/packagefinder](https://github.com/jsugarelli/packagefinder) - Comfortable search for R packages on CRAN, either directly from the R console or with an R Studio add-in
 - [rstudio/hex-stickers](https://github.com/rstudio/hex-stickers) - RStudio hex stickers
-- [R-macos/recipes](https://github.com/R-macos/recipes) - System for building static dependent libraries for CRAN packages
 - [ACDIVOCATech/bulletchartr](https://github.com/ACDIVOCATech/bulletchartr) - This package builds bullet charts suitable for tracking KPIs, and used by ACDI/VOCA to track progress against indicators
 - [lydialucchesi/Vizumap](https://github.com/lydialucchesi/Vizumap) - R package for visualizing uncertainty in spatial data
 - [coolbutuseless/terse](https://github.com/coolbutuseless/terse) - Terse output for nested lists and data.frames
