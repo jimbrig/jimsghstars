@@ -207,7 +207,6 @@
 - [ManuelGil/Uninstall-Office-2016](https://github.com/ManuelGil/Uninstall-Office-2016) - This script allows you to uninstall or automatically delete Office 2016, 365 or earlier using the Microsoft Windows command line.
 - [Empyreal96/win-10-services-toolbox](https://github.com/Empyreal96/win-10-services-toolbox) - A Toolbox allowing users to modify various aspects of Windows 10 from one place.
 - [cmartinezone/WinPEBuilder](https://github.com/cmartinezone/WinPEBuilder) - WinPEBuilder v1.1 - create your WinPE bootable Images easily, including custom scripts and drivers.
-- [0ffcat/dotbatch](https://github.com/0ffcat/dotbatch) - dotfiles but it's windows
 - [Atavic/regtweaks](https://github.com/Atavic/regtweaks) - Over 600 Windows Registry Tweaks for Windows 7, 8, 8.1 and 10
 - [teddy-gustiaux/scripts](https://github.com/teddy-gustiaux/scripts) - Set of miscellaneous scripts for personal use.
 - [JoePlant/windows-scripts](https://github.com/JoePlant/windows-scripts) - A set of scripts that I use to manage my laptop
@@ -363,6 +362,7 @@
 
 ## C# # 
 
+- [Azure-Samples/openhack-devops-team](https://github.com/Azure-Samples/openhack-devops-team) - DevOps OpenHack Team environment APIs
 - [PowerShell/SecretManagement](https://github.com/PowerShell/SecretManagement) - PowerShell module to consistent usage of secrets through different extension vaults
 - [jb262/ActuarialMaths.NonLife](https://github.com/jb262/ActuarialMaths.NonLife) - Class library for actuarial claims reserving and tariff rating for non-life insurances
 - [fluentpos/fluentpos](https://github.com/fluentpos/fluentpos) - Open Source Point Of Sales and Inventory Management Solution built with ASP.NET Core 5.0 WebAPI and Angular 12 Material.
@@ -1803,6 +1803,8 @@
 
 ## JavaScript 
 
+- [ChristopherBiscardi/scripts](https://github.com/ChristopherBiscardi/scripts) - 
+- [ChristopherBiscardi/christopherbiscardi.github.com](https://github.com/ChristopherBiscardi/christopherbiscardi.github.com) - Content for christopherbiscardi.com
 - [jimbrig/devpholio](https://github.com/jimbrig/devpholio) - Developer Portfolio Website
 - [leerob/nextjs-gcp-storage](https://github.com/leerob/nextjs-gcp-storage) - Example Next.js app to upload photos to a GCP storage bucket.
 - [hashicorp/setup-terraform](https://github.com/hashicorp/setup-terraform) - Sets up Terraform CLI in your GitHub Actions workflow.
@@ -1835,7 +1837,7 @@
 - [majidsajadi/paperboard](https://github.com/majidsajadi/paperboard) - Paperboard, is a cli application for managing a reading list of bookmarks from the Internet.
 - [philipszdavido/contact-manager](https://github.com/philipszdavido/contact-manager) - A command-line Node.js app powered by TypeScript, Google Cloud Functions and Firebase for managing contacts
 - [SanctumLabs/contact-manager-cli](https://github.com/SanctumLabs/contact-manager-cli) - Manage your contacts from your command line
-- [djhmateer/osr4rights-tools](https://github.com/djhmateer/osr4rights-tools) - 
+- [djhmateer/osr4rights-tools](https://github.com/djhmateer/osr4rights-tools) - A set of open source tools for human rights investigators
 - [felixrieseberg/electron-windows-store](https://github.com/felixrieseberg/electron-windows-store) - :package: Turn Electron Apps into Windows AppX Packages
 - [jrgarciadev/dev-cover](https://github.com/jrgarciadev/dev-cover) - 🌐 Get and publish your developer portfolio with just your username
 - [markshust/Build-Release-and-Run-Containers-with-Docker-Compose](https://github.com/markshust/Build-Release-and-Run-Containers-with-Docker-Compose) - 
@@ -2742,7 +2744,7 @@
 - [mml-book/mml-book.github.io](https://github.com/mml-book/mml-book.github.io) - Companion webpage to the book "Mathematics For Machine Learning"
 - [ramnathv/template-live-webinar-sql](https://github.com/ramnathv/template-live-webinar-sql) - 
 - [Non-Contradiction/JuliaCall](https://github.com/Non-Contradiction/JuliaCall) - Embed Julia in R
-- [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify.
+- [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 Hugo Academic Theme 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify.
 - [jhrcook/academic-kickstart](https://github.com/jhrcook/academic-kickstart) - Personal website made user Academic & Hugo, hosted on Netlify
 - [DiscoveryDNA/team_neural_network](https://github.com/DiscoveryDNA/team_neural_network) - Neural Network of enhancer regions
 - [advboxes/AdvBox](https://github.com/advboxes/AdvBox) - Advbox is a toolbox to generate adversarial examples that fool neural networks in PaddlePaddle、PyTorch、Caffe2、MxNet、Keras、TensorFlow and Advbox can benchmark the robustness of machine learning models.  Advbox give a command line tool to generate adversarial examples with Zero-Coding.
@@ -2838,7 +2840,7 @@
 ## Mustache 
 
 - [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
-- [bitnami/charts](https://github.com/bitnami/charts) - Helm Charts
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 
 ## Nim 
 
@@ -2882,6 +2884,9 @@
 
 ## Others 
 
+- [caiomsouza/r-shiny-app-on-azure](https://github.com/caiomsouza/r-shiny-app-on-azure) - R Shiny App on Azure
+- [ChristopherBiscardi/dotfiles](https://github.com/ChristopherBiscardi/dotfiles) - dotfiles yo
+- [jimscratch/windows-dev-box-setup-scripts](https://github.com/jimscratch/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
 - [jimbrig/developerfolio](https://github.com/jimbrig/developerfolio) - Devfolio
 - [DopplerUniversity/app-config-templates](https://github.com/DopplerUniversity/app-config-templates) - Set up applications in Doppler using app configuration templates
 - [puncsky/system-design-and-architecture](https://github.com/puncsky/system-design-and-architecture) - Learn how to design large-scale systems. Prep for the system design interview.
@@ -2982,7 +2987,7 @@
 - [melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates) - Boilerplates for mobile and web apps
 - [unreadablewxy/unreadablewxy](https://github.com/unreadablewxy/unreadablewxy) - 
 - [unreadablewxy/fs-curator](https://github.com/unreadablewxy/fs-curator) - Automation for the serious data hoarder that wants to have their data and use it
-- [Miracle-Of-Yahweh/Project-Documentation-Collection](https://github.com/Miracle-Of-Yahweh/Project-Documentation-Collection) - A collection of templates for various forms of Project Documentation, in multiple formats. Some I wrote up myself, others are random, assorted templates sourced from across the web, mostly GitHub. All Docs templates in this repository come in both Markdown and Plaintext varieties, in addition to some more 'formal', and in depth Docs Templates written in Microsoft Word, and thusly coming in *.doc/*.docx formats, as well as *.rtf. Includes README Templates, CHANGELOG Templates, CONTRIBUTING Templates, Code of Conduct Templates, various niche Documentation Types, and a collection of the most commonly used Licenses in Plaintext, Rich Formatted Text, and Markdown formats also.
+- [Supernaut-SFX/Project-Documentation-Collection](https://github.com/Supernaut-SFX/Project-Documentation-Collection) - A collection of templates for various forms of Project Documentation, in multiple formats. Some I wrote up myself, others are random, assorted templates sourced from across the web, mostly GitHub. All Docs templates in this repository come in both Markdown and Plaintext varieties, in addition to some more 'formal', and in depth Docs Templates written in Microsoft Word, and thusly coming in *.doc/*.docx formats, as well as *.rtf. Includes README Templates, CHANGELOG Templates, CONTRIBUTING Templates, Code of Conduct Templates, various niche Documentation Types, and a collection of the most commonly used Licenses in Plaintext, Rich Formatted Text, and Markdown formats also.
 - [jimbrig/dj-events-frontend](https://github.com/jimbrig/dj-events-frontend) - Next.js website to list DJ and other musical events
 - [AndyFul/ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) - Utility for configuring Windows 10 built-in Defender antivirus settings.
 - [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Win10XPE is a Complete Project Based on Win10 Recovery Environment With Many Windows Features Added...
@@ -3594,7 +3599,7 @@
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
-- [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - ▶️ An awesome list of awesome YouTubers that teach about technology.
+- [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - ▶️ An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.
 - [kognise/dev.to](https://github.com/kognise/dev.to) - Where programmers share ideas and help each other grow
 - [kognise/oogle](https://github.com/kognise/oogle) - An open-source clone of the Google search engine and crawler infrastructure
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - 
@@ -3870,6 +3875,8 @@
 
 ## PowerShell 
 
+- [al-cheb/winget_install_script](https://github.com/al-cheb/winget_install_script) - 
+- [ALK222/Windows-Install-Script](https://github.com/ALK222/Windows-Install-Script) - Script using winget for easy windows setup
 - [GruberMarkus/PowerShell-Choice](https://github.com/GruberMarkus/PowerShell-Choice) - Choice with timeout for PowerShell
 - [bdukes/PowerShellModules](https://github.com/bdukes/PowerShellModules) - A collection of PowerShell modules
 - [platinum4friends/PromptForChoice](https://github.com/platinum4friends/PromptForChoice) - A PowerShell module that prompts the user to select from a list of choices. It is a simple wrapper around the .NET function $Host.UI.PromptForChoice to simplify it's usage.
@@ -4029,8 +4036,8 @@
 - [jimbrig/WindowsSetup](https://github.com/jimbrig/WindowsSetup) - 
 - [hackf5/powershell-profile-alias](https://github.com/hackf5/powershell-profile-alias) - Bash style aliases in PowerShell
 - [Jaykul/PowerLine](https://github.com/Jaykul/PowerLine) - A more PowerShell prompt
-- [Miracle-Of-Yahweh/PS.Config](https://github.com/Miracle-Of-Yahweh/PS.Config) - A simple example of how to create a very basic 'Configuration file' for PowerShell Scripts usiing *.psd1 files (usually used only as Module Manifests). Works so long as any Configuration you're needing to do can be accomplished with Variables.
-- [Miracle-Of-Yahweh/My-PowerShell-Configuration](https://github.com/Miracle-Of-Yahweh/My-PowerShell-Configuration) - Repository for my personal PowerShell Profile(s), modules (ones I havent made in 'Third-Party Modules' Directory), and various other config files
+- [Supernaut-SFX/PS.Config](https://github.com/Supernaut-SFX/PS.Config) - A simple example of how to create a very basic 'Configuration file' for PowerShell Scripts usiing *.psd1 files (usually used only as Module Manifests). Works so long as any Configuration you're needing to do can be accomplished with Variables.
+- [Supernaut-SFX/My-PowerShell-Configuration](https://github.com/Supernaut-SFX/My-PowerShell-Configuration) - Repository for my personal PowerShell Profile(s), modules (ones I havent made in 'Third-Party Modules' Directory), and various other config files
 - [techthoughts2/Learn-PowerShell-Code-Examples](https://github.com/techthoughts2/Learn-PowerShell-Code-Examples) - Contains code examples used in the Learn PowerShell Video & Blog series
 - [nickrod518/Migrate-WindowsUserProfile](https://github.com/nickrod518/Migrate-WindowsUserProfile) - Migrate Windows user profile to a new machine using Microsoft USMT with a PowerShell GUI.
 - [greyhamwoohoo/new-vm-from-iso](https://github.com/greyhamwoohoo/new-vm-from-iso) - Provision a Hyper-V VM with Windows automatically installed from an ISO using PowerShell; on first boot, the Unattend.Xml (OOBE) will automatically configure the installation and Windows will boot as far as the Login Screen. Windows Updates will then be automatically installed.
@@ -4753,7 +4760,7 @@
 - [trollefson/elizur](https://github.com/trollefson/elizur) - Elizur is a finance library for actuaries, finance professionals, and students
 - [fumitoh/lifelib](https://github.com/fumitoh/lifelib) - Actuarial models in Python
 - [nsacyber/WALKOFF](https://github.com/nsacyber/WALKOFF) - A flexible, easy to use, automation framework allowing users to integrate their capabilities and devices to cut through the repetitive, tedious tasks slowing them down. #nsacyber
-- [mandiant/flare-floss](https://github.com/mandiant/flare-floss) - FireEye Labs Obfuscated String Solver - Automatically extract obfuscated strings from malware.
+- [mandiant/flare-floss](https://github.com/mandiant/flare-floss) - FLARE Obfuscated String Solver - Automatically extract obfuscated strings from malware.
 - [notepad-plus-plus/nppPluginList](https://github.com/notepad-plus-plus/nppPluginList) - The official collection of Notepad++ plugins.
 - [ActiveState/appdirs](https://github.com/ActiveState/appdirs) - A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
 - [carpentries/docs.carpentries.org](https://github.com/carpentries/docs.carpentries.org) - Community Documentation for the Carpentries
@@ -4779,6 +4786,10 @@
 
 ## R 
 
+- [erossini/DeployShinyProxyAndApps](https://github.com/erossini/DeployShinyProxyAndApps) - Deploy ShinyApps with Azure and Docker
+- [DavidASmith/r-shiny-docker-renv](https://github.com/DavidASmith/r-shiny-docker-renv) - Example deployment of R Shiny App using Docker and renv
+- [Azure-Samples/Azure-MachineLearning-CustomModuleDefinition-App](https://github.com/Azure-Samples/Azure-MachineLearning-CustomModuleDefinition-App) - Shiny (R) web app for authoring custom modules in Azure ML.
+- [StatCan/R-dashboards](https://github.com/StatCan/R-dashboards) - Example R dashboards to run in R Shiny backed by Azure Files
 - [kkondo1981/aglm](https://github.com/kkondo1981/aglm) - A handy tool for actuarial modeling, which is designed to achieve both accuracy and accountability.
 - [JoeKnittel/Shiny-App](https://github.com/JoeKnittel/Shiny-App) - Visualizing Life Expectancy vs. GDP per Capita (2021)
 - [alec42/Distributacalcul_Package](https://github.com/alec42/Distributacalcul_Package) - Package of probability functions, originally created for the Distributacalcul webapp
@@ -7494,6 +7505,8 @@
 
 ## Rust 
 
+- [ChristopherBiscardi/windows-screen-capture](https://github.com/ChristopherBiscardi/windows-screen-capture) - 
+- [ChristopherBiscardi/yarn-get-dep](https://github.com/ChristopherBiscardi/yarn-get-dep) - 
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud is a universal host runtime for actors built with WebAssembly and capability providers
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
@@ -8441,7 +8454,7 @@
 - [y-lohse/inkjs](https://github.com/y-lohse/inkjs) - A javascript port of inkle's ink scripting language.
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [zendeskgarden/react-containers](https://github.com/zendeskgarden/react-containers) - :seedling: garden React (no-UI) containers
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube.js — Open-Source Analytical API Platform
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube.js — Open-Source Analytics API for Building Data Apps
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [microsoft/SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
