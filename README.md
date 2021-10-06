@@ -80,6 +80,7 @@
   - [Raku](#raku)
   - [ReScript](#rescript)
   - [Reason](#reason)
+  - [Rebol](#rebol)
   - [Red](#red)
   - [Rich Text Format](#rich-text-format)
   - [Roff](#roff)
@@ -114,6 +115,7 @@
   - [Vue](#vue)
   - [WebAssembly](#webassembly)
   - [XSLT](#xslt)
+  - [Xtend](#xtend)
   - [YAML](#yaml)
   - [YASnippet](#yasnippet)
   - [Zig](#zig)
@@ -312,7 +314,6 @@
 - [taviso/loadlibrary](https://github.com/taviso/loadlibrary) - Porting Windows Dynamic Link Libraries to Linux
 - [dokan-dev/dokany](https://github.com/dokan-dev/dokany) - User mode file system library for windows with FUSE Wrapper
 - [processhacker/processhacker](https://github.com/processhacker/processhacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
-- [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [r-lib/ps](https://github.com/r-lib/ps) - R package to query, list, manipulate system processes
@@ -1281,6 +1282,7 @@
 
 ## HTML 
 
+- [gtm19/renv-introduction](https://github.com/gtm19/renv-introduction) - A presentation introducing renv for R project environment management
 - [JennyLeeStat/CASwR](https://github.com/JennyLeeStat/CASwR) - Computational Actuarial Science with R
 - [alex21th/actuarial-finance](https://github.com/alex21th/actuarial-finance) - Notebooks y entregables de proyecto de las tareas de laboratorio realizadas en la asignatura Métodos Estadísticos para Finanzas y Seguros del Grado en Ciencia e Ingeniería de Datos. 📈
 - [JoeKnittel/joeknittel.github.io](https://github.com/JoeKnittel/joeknittel.github.io) - A Blog Documenting My Adventures in Actuarial Science (2021)
@@ -1803,6 +1805,8 @@
 
 ## JavaScript 
 
+- [meteoDaniel/insuranceData](https://github.com/meteoDaniel/insuranceData) - This project deals with data from weather service and calculates some insurance relevante data
+- [second-state/wasmedge-nodejs-starter](https://github.com/second-state/wasmedge-nodejs-starter) - A template project to run Rust functions in Node.js through the Second State WebAssembly engine.
 - [ChristopherBiscardi/scripts](https://github.com/ChristopherBiscardi/scripts) - 
 - [ChristopherBiscardi/christopherbiscardi.github.com](https://github.com/ChristopherBiscardi/christopherbiscardi.github.com) - Content for christopherbiscardi.com
 - [jimbrig/devpholio](https://github.com/jimbrig/devpholio) - Developer Portfolio Website
@@ -2716,6 +2720,7 @@
 
 ## Jupyter Notebook 
 
+- [sharmaroshan/Insurance-Claim-Prediction](https://github.com/sharmaroshan/Insurance-Claim-Prediction) - In this Data set we are Predicting the Insurance Claim by each user, Machine Learning algorithms for Regression analysis are used and Data Visualization are also performed to support Analysis.
 - [DeutscheAktuarvereinigung/Data_Science_Challenge_2020_Betrugserkennung](https://github.com/DeutscheAktuarvereinigung/Data_Science_Challenge_2020_Betrugserkennung) - In this notebook we take a look at a relevant project that is frequently encountered by insurers: Fraud Detection. For this purpose we use a car data set from a public source and will show the necessary steps to establish an automated fraud detection.
 - [DeutscheAktuarvereinigung/Mortality_Modeling](https://github.com/DeutscheAktuarvereinigung/Mortality_Modeling) - Multi-Population Mortality Modeling With Neural Networks
 - [BridgingBigData/ActuarialBridgeData](https://github.com/BridgingBigData/ActuarialBridgeData) - Jupyter notebook and data used to do actuarial science-based bridge health monitoring.
@@ -2884,6 +2889,10 @@
 
 ## Others 
 
+- [thycotic/sdk-documentation](https://github.com/thycotic/sdk-documentation) - 
+- [gtm19/skeleton](https://github.com/gtm19/skeleton) - A skeleton R package.
+- [ElianHugh/universe](https://github.com/ElianHugh/universe) - R universe config
+- [emilyriederer/data-validation-demo](https://github.com/emilyriederer/data-validation-demo) - Demo of pointblank / projmgr / GitHub Actions / Slack workflow for data quality monitoring
 - [caiomsouza/r-shiny-app-on-azure](https://github.com/caiomsouza/r-shiny-app-on-azure) - R Shiny App on Azure
 - [ChristopherBiscardi/dotfiles](https://github.com/ChristopherBiscardi/dotfiles) - dotfiles yo
 - [jimscratch/windows-dev-box-setup-scripts](https://github.com/jimscratch/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
@@ -3875,6 +3884,8 @@
 
 ## PowerShell 
 
+- [thycotic/privmanapi-docs](https://github.com/thycotic/privmanapi-docs) - PrivMan Api Docs
+- [thycotic/API](https://github.com/thycotic/API) - Repository for API calls, and use automation scripts for Thycotic's Secret Server
 - [al-cheb/winget_install_script](https://github.com/al-cheb/winget_install_script) - 
 - [ALK222/Windows-Install-Script](https://github.com/ALK222/Windows-Install-Script) - Script using winget for easy windows setup
 - [GruberMarkus/PowerShell-Choice](https://github.com/GruberMarkus/PowerShell-Choice) - Choice with timeout for PowerShell
@@ -3904,7 +3915,7 @@
 - [ixi-your-face/Useful-Windows-11-Scripts](https://github.com/ixi-your-face/Useful-Windows-11-Scripts) - Repo to store some useful Windows 11 scripts and documentation
 - [WinTweakers/WindowsToolbox](https://github.com/WinTweakers/WindowsToolbox) - A powerful but simple, easy to use toolbox for Windows 10 / 11.
 - [JosephM101/Force-Windows-11-Install](https://github.com/JosephM101/Force-Windows-11-Install) - Creates a hybrid ISO image that houses the Windows 11 install files in a Windows 10 installer image to bypass the TPM and Secure Boot install-time requirements.
-- [Damokless/Windows10-Optimization](https://github.com/Damokless/Windows10-Optimization) - Community repository, to improve security and performance of Windows 10/11 with tweaks, commands, scripts, registry keys, configuration, tutorials and more
+- [Damokless/Windows11-Optimization](https://github.com/Damokless/Windows11-Optimization) - Community repository, to improve security and performance of Windows 10/11 with tweaks, commands, scripts, registry keys, configuration, tutorials and more
 - [JMOrbegoso/Dotfiles-for-Windows-11](https://github.com/JMOrbegoso/Dotfiles-for-Windows-11) - Dotfiles script to setup a development environment in Microsoft Windows 11.
 - [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) - For those who seek to minimize their Windows 10 installs.
 - [simeononsecurity/Automate-Sysmon](https://github.com/simeononsecurity/Automate-Sysmon) - Automate Sysmon Deployment and Configuration
@@ -4786,6 +4797,29 @@
 
 ## R 
 
+- [matt-dray/r-analysis-template](https://github.com/matt-dray/r-analysis-template) - :file_folder::heavy_plus_sign: GitHub repo template: simple R analysis projects
+- [mattjcamp/projectr](https://github.com/mattjcamp/projectr) - Quick start project template for R data analysis
+- [virtualstaticvoid/heroku-docker-r-shiny-app](https://github.com/virtualstaticvoid/heroku-docker-r-shiny-app) - Example Shiny Application on Heroku using heroku-docker-r
+- [best-practice-and-impact/CARS_dashboard](https://github.com/best-practice-and-impact/CARS_dashboard) - Response rate dashboard for the Coding in Analysis and Research Survey (CARS) wave 3.
+- [erictleung/templates](https://github.com/erictleung/templates) - :clipboard: Miscellaneous templates of common documents and files I find myself reusing
+- [datalab-dev/template_workshop](https://github.com/datalab-dev/template_workshop) - 
+- [FASTGenomics/image-shiny-base](https://github.com/FASTGenomics/image-shiny-base) - Base Image for R Shiny analyses on FASTGenomics
+- [rahmanda/boilerrplate](https://github.com/rahmanda/boilerrplate) - An R Project boilerplate
+- [datascienceisrael/projectTemplate](https://github.com/datascienceisrael/projectTemplate) - cookicutter template for agile data science
+- [r-dbi/RKazam](https://github.com/r-dbi/RKazam) - A boilerplate for DBI drivers, fully DBI-compliant
+- [gtm19/subsub.renv](https://github.com/gtm19/subsub.renv) - A repo to show the issue with the renv R package and installing from sub subdirectories of repos
+- [gtm19/missing.data](https://github.com/gtm19/missing.data) - example package with data script but no data
+- [gtm19/renv-actions-test](https://github.com/gtm19/renv-actions-test) - A repo containing a GitHub Action for performing R CMD check on package subdirectories of a monorepo (with or without using `renv`)
+- [gtm19/ralph](https://github.com/gtm19/ralph) - Just like Ralph (I'm Helping), a selection of useful R functions for my own everyday use
+- [mlysy/TMBtools](https://github.com/mlysy/TMBtools) - Tools for Developing R Packages Interfacing with TMB
+- [ColinFay/cordes](https://github.com/ColinFay/cordes) - [WIP] Boilerplate for Wrapping Node Modules in R packages
+- [ElianHugh/tape](https://github.com/ElianHugh/tape) - A box module manager
+- [ElianHugh/templater](https://github.com/ElianHugh/templater) - use and create R templates in vscode-r
+- [r-lib/liteq](https://github.com/r-lib/liteq) - Serverless R message queue using SQLite
+- [tanho63/fivestars](https://github.com/tanho63/fivestars) - ⭐⭐⭐⭐⭐ Generates HTML/CSS star ratings
+- [data-cleaning/dcmodifydb](https://github.com/data-cleaning/dcmodifydb) - 
+- [rpodcast/streamer_data](https://github.com/rpodcast/streamer_data) - 
+- [rpodcast/shinycal](https://github.com/rpodcast/shinycal) - The Data Science StreamRs Calendar!
 - [erossini/DeployShinyProxyAndApps](https://github.com/erossini/DeployShinyProxyAndApps) - Deploy ShinyApps with Azure and Docker
 - [DavidASmith/r-shiny-docker-renv](https://github.com/DavidASmith/r-shiny-docker-renv) - Example deployment of R Shiny App using Docker and renv
 - [Azure-Samples/Azure-MachineLearning-CustomModuleDefinition-App](https://github.com/Azure-Samples/Azure-MachineLearning-CustomModuleDefinition-App) - Shiny (R) web app for authoring custom modules in Azure ML.
@@ -7415,7 +7449,12 @@
 ## Reason 
 
 - [davesnx/query-json](https://github.com/davesnx/query-json) - Faster, simpler and more portable implementation of `jq` in Reason
+- [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 - [revery-ui/revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason!
+
+## Rebol 
+
+- [cran/rbundler](https://github.com/cran/rbundler) - :exclamation: This is a read-only mirror of the CRAN R package repository.  rbundler — Rbundler manages an application's dependencies systematically and repeatedly.
 
 ## Red 
 
@@ -7643,6 +7682,11 @@
 
 ## Shell 
 
+- [gtm19/dotfiles](https://github.com/gtm19/dotfiles) - Default configuration for Le Wagon's students
+- [gtm19/r_docker](https://github.com/gtm19/r_docker) - A template for using R + Docker in VS Code
+- [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
+- [rpodcast/r_dev_projects](https://github.com/rpodcast/r_dev_projects) - Boilerplate and configs for my R development projects
 - [hashicorp/terraform-github-actions](https://github.com/hashicorp/terraform-github-actions) - Terraform GitHub Actions
 - [Haoen-Cui/dotfiles](https://github.com/Haoen-Cui/dotfiles) - Config Files of Haoen's Style
 - [agarbiak/CS1](https://github.com/agarbiak/CS1) - R code examples for IFoA's CS1 - Actuarial Statistics
@@ -7963,7 +8007,7 @@
 - [ow/ubuntu-windows-dotfiles](https://github.com/ow/ubuntu-windows-dotfiles) - Ubuntu on Windows dotfiles
 - [umutphp/github-action-dynamic-profile-page](https://github.com/umutphp/github-action-dynamic-profile-page) - GitHub Action to push updates to your special profile repository.
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [chendaniely/computational-project-cookie-cutter](https://github.com/chendaniely/computational-project-cookie-cutter) - A cookie cutter to set up a folder structure for a computational project
 - [isair/dotfiles](https://github.com/isair/dotfiles) - 🖥️ Backup your packages, apps, and configurations directly to git in the form of profiles. Set up any new (virtual) machine using a profile in one line. Share profiles between multiple machines. Configure auto update, clean-up, and back-up. Works for all linux flavors, Mac OS, and Windows.
 - [radum/dotfiles](https://github.com/radum/dotfiles) - 🛠 Global apps, modules, packages, .files, sensible hacker defaults for macOS and Windows
@@ -8139,6 +8183,9 @@
 
 ## TypeScript 
 
+- [TypeFox/npm-dependency-graph](https://github.com/TypeFox/npm-dependency-graph) - Visualization of npm package dependencies based on Sprotty
+- [3axap4eHko/file-templates-manager](https://github.com/3axap4eHko/file-templates-manager) - VSCode file templates manager extension
+- [cantonios/vscode-project-templates](https://github.com/cantonios/vscode-project-templates) - Project Templates extension for VSCode
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [rnystrom/status-checklists](https://github.com/rnystrom/status-checklists) - Action to that updates Issue state with checklists
@@ -8355,7 +8402,7 @@
 - [mrjackphil/obsidian-copy-markdown](https://github.com/mrjackphil/obsidian-copy-markdown) - It adds "Copy Markdown: copy" in Command Palette. It replaces wiki links to markdown links and copy result into clipboard.
 - [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater) - A template plugin for obsidian
 - [papb/zip](https://github.com/papb/zip) - Zipping & unzipping, simplified.
-- [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [actions-js/profile-readme](https://github.com/actions-js/profile-readme) - 🗣 Display profile activity and other cool widgets in your profile README.md
 - [saojs/sao](https://github.com/saojs/sao) - ⚔ Futuristic scaffolding tool
 - [jamieweavis/streaker](https://github.com/jamieweavis/streaker) - 🔥 GitHub contribution streak & stat tracking menu bar app
@@ -8586,6 +8633,10 @@
 ## XSLT 
 
 - [schacon/git-scribe](https://github.com/schacon/git-scribe) - basically the best way to write an ebook
+
+## Xtend 
+
+- [TypeFox/publishing](https://github.com/TypeFox/publishing) - Scripts for publishing open-source projects
 
 ## YAML 
 
