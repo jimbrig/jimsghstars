@@ -1282,6 +1282,7 @@
 
 ## HTML 
 
+- [jimdevops19/FlaskSeries](https://github.com/jimdevops19/FlaskSeries) - This is the Code from my Flask Series - JimShapedCoding. Each Folder is a checkpoint where we stopped at that particular episode number
 - [gtm19/renv-introduction](https://github.com/gtm19/renv-introduction) - A presentation introducing renv for R project environment management
 - [JennyLeeStat/CASwR](https://github.com/JennyLeeStat/CASwR) - Computational Actuarial Science with R
 - [alex21th/actuarial-finance](https://github.com/alex21th/actuarial-finance) - Notebooks y entregables de proyecto de las tareas de laboratorio realizadas en la asignatura Métodos Estadísticos para Finanzas y Seguros del Grado en Ciencia e Ingeniería de Datos. 📈
@@ -3596,7 +3597,7 @@
 - [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [0xnr/awesome-bigdata](https://github.com/0xnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL & Relay
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
@@ -4364,6 +4365,7 @@
 
 ## Python 
 
+- [jimdevops19/PythonCrashCourse](https://github.com/jimdevops19/PythonCrashCourse) - JimShapedCoding Python Crash Course 2021
 - [aacosta-milesius/financial-math](https://github.com/aacosta-milesius/financial-math) - Time value of money functions using actuarial methods
 - [Elsemary/Actuarial-calculator](https://github.com/Elsemary/Actuarial-calculator) - Functions for finding premium in several ways, calculating the reserve in an equivalence principle, and calculating the reserve in an Euler differential equation
 - [DeDeDeDer/Personal_Projects](https://github.com/DeDeDeDer/Personal_Projects) - This holds all my personal data-related project's (Automation, Modelling, Analysis)
@@ -4797,6 +4799,7 @@
 
 ## R 
 
+- [jimbrig/claimPM](https://github.com/jimbrig/claimPM) - Predictive Model
 - [matt-dray/r-analysis-template](https://github.com/matt-dray/r-analysis-template) - :file_folder::heavy_plus_sign: GitHub repo template: simple R analysis projects
 - [mattjcamp/projectr](https://github.com/mattjcamp/projectr) - Quick start project template for R data analysis
 - [virtualstaticvoid/heroku-docker-r-shiny-app](https://github.com/virtualstaticvoid/heroku-docker-r-shiny-app) - Example Shiny Application on Heroku using heroku-docker-r
