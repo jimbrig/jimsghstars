@@ -530,7 +530,7 @@
 - [ElPumpo/Win10Clean](https://github.com/ElPumpo/Win10Clean) - Cleanup your Windows 10 environment
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - Make Windows faster and more secure
 - [adrianmteo/Luna](https://github.com/adrianmteo/Luna) - Automatic dark mode for Windows 10
-- [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10
+- [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
 - [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building UWP and .NET apps for Windows 10. The toolkit is part of the .NET Foundation.
 - [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
 - [mscrivo/OotD](https://github.com/mscrivo/OotD) - Outlook on the Desktop (OotD)
@@ -909,6 +909,8 @@
 
 ## Dockerfile 
 
+- [fdrennan/renvironments](https://github.com/fdrennan/renvironments) - The Way I R
+- [PowerShell/PowerShell-Docker](https://github.com/PowerShell/PowerShell-Docker) - Repository for building PowerShell Docker images
 - [Haoen-Cui/baker-bayesian-analysis-in-docker](https://github.com/Haoen-Cui/baker-bayesian-analysis-in-docker) - Baker Project: Dockerfile for Bayesian Analysis
 - [zsh-users/zsh-docker](https://github.com/zsh-users/zsh-docker) - Docker containers for all versions of Zsh.
 - [gbeal/docker-backblaze-b2](https://github.com/gbeal/docker-backblaze-b2) - A Docker image for Backblaze B2 on Alpine Linux
@@ -1806,6 +1808,8 @@
 
 ## JavaScript 
 
+- [fdrennan/ndexr-site](https://github.com/fdrennan/ndexr-site) - 
+- [mikepfeiffer/node-docker-demo](https://github.com/mikepfeiffer/node-docker-demo) - This is a bare bones Node & Express app for Docker demos.
 - [meteoDaniel/insuranceData](https://github.com/meteoDaniel/insuranceData) - This project deals with data from weather service and calculates some insurance relevante data
 - [second-state/wasmedge-nodejs-starter](https://github.com/second-state/wasmedge-nodejs-starter) - A template project to run Rust functions in Node.js through the Second State WebAssembly engine.
 - [ChristopherBiscardi/scripts](https://github.com/ChristopherBiscardi/scripts) - 
@@ -2890,6 +2894,8 @@
 
 ## Others 
 
+- [fdrennan/aws.ec2](https://github.com/fdrennan/aws.ec2) - AWS EC2 Client Package
+- [slimdevops/slimdevops](https://github.com/slimdevops/slimdevops) - Config files for my GitHub profile.
 - [thycotic/sdk-documentation](https://github.com/thycotic/sdk-documentation) - 
 - [gtm19/skeleton](https://github.com/gtm19/skeleton) - A skeleton R package.
 - [ElianHugh/universe](https://github.com/ElianHugh/universe) - R universe config
@@ -3699,7 +3705,7 @@
 - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
 - [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
 - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
@@ -3885,6 +3891,8 @@
 
 ## PowerShell 
 
+- [tfenster/dockeraccesshelper](https://github.com/tfenster/dockeraccesshelper) - PS module that allows access to the Docker engine for any user
+- [mikepfeiffer/iis-webdeploy](https://github.com/mikepfeiffer/iis-webdeploy) - ARM Template for IIS+Web Deploy
 - [thycotic/privmanapi-docs](https://github.com/thycotic/privmanapi-docs) - PrivMan Api Docs
 - [thycotic/API](https://github.com/thycotic/API) - Repository for API calls, and use automation scripts for Thycotic's Secret Server
 - [al-cheb/winget_install_script](https://github.com/al-cheb/winget_install_script) - 
@@ -4365,6 +4373,7 @@
 
 ## Python 
 
+- [fdrennan/redditstack](https://github.com/fdrennan/redditstack) - 
 - [jimdevops19/PythonCrashCourse](https://github.com/jimdevops19/PythonCrashCourse) - JimShapedCoding Python Crash Course 2021
 - [aacosta-milesius/financial-math](https://github.com/aacosta-milesius/financial-math) - Time value of money functions using actuarial methods
 - [Elsemary/Actuarial-calculator](https://github.com/Elsemary/Actuarial-calculator) - Functions for finding premium in several ways, calculating the reserve in an equivalence principle, and calculating the reserve in an Euler differential equation
@@ -4799,6 +4808,10 @@
 
 ## R 
 
+- [fdrennan/biggr3](https://github.com/fdrennan/biggr3) - 
+- [fdrennan/productor](https://github.com/fdrennan/productor) - A stripped version of Redditor
+- [fdrennan/ndexie](https://github.com/fdrennan/ndexie) - R Application Based Code
+- [fdrennan/interface](https://github.com/fdrennan/interface) - The NDEXR Interface
 - [jimbrig/claimPM](https://github.com/jimbrig/claimPM) - Predictive Model
 - [matt-dray/r-analysis-template](https://github.com/matt-dray/r-analysis-template) - :file_folder::heavy_plus_sign: GitHub repo template: simple R analysis projects
 - [mattjcamp/projectr](https://github.com/mattjcamp/projectr) - Quick start project template for R data analysis
@@ -7685,6 +7698,8 @@
 
 ## Shell 
 
+- [rpodcast/shinylearning](https://github.com/rpodcast/shinylearning) - 
+- [slimdevops/slim-containers](https://github.com/slimdevops/slim-containers) - Slim.AI Container of the Week Series and Examples
 - [gtm19/dotfiles](https://github.com/gtm19/dotfiles) - Default configuration for Le Wagon's students
 - [gtm19/r_docker](https://github.com/gtm19/r_docker) - A template for using R + Docker in VS Code
 - [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
