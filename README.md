@@ -611,7 +611,7 @@
 - [tmyt/bashground](https://github.com/tmyt/bashground) - Keep WLS (Bash on Windows) instance in background.
 - [npyl/runnix](https://github.com/npyl/runnix) - Run linux executables or scripts from withing Windows without opening Bash
 - [neosmart/paste](https://github.com/neosmart/paste) - A Windows utility that simply dumps the clipboard data to stdout
-- [repelliuss/WSL-Context-Menu-Manager](https://github.com/repelliuss/WSL-Context-Menu-Manager) - Manages the context menu for your Linux tools in WSL/WSL2 using on Windows.
+- [repelliuss/WSL-Context-Menu-Manager](https://github.com/repelliuss/WSL-Context-Menu-Manager) - Manages the context menu for your Linux tools in WSL/WSL2 for Windows.
 - [mgbowen/windows-fido-bridge](https://github.com/mgbowen/windows-fido-bridge) - An OpenSSH SK middleware that allows you to use a FIDO/U2F security key (e.g. a YubiKey) to SSH into a remote server from WSL or Cygwin.
 - [0xbadfca11/miniwsl](https://github.com/0xbadfca11/miniwsl) - Mini Windows Subsystem for Linux Distribution
 - [neosmart/RunInBash](https://github.com/neosmart/RunInBash) - Run Linux commands under WSL without leaving your PowerShell or CMD!
@@ -2080,6 +2080,7 @@
 - [bencodezen/bens-obsidian-boilerplate](https://github.com/bencodezen/bens-obsidian-boilerplate) - An opinionated kit to provide people some inspiration and ideas for their own workflows.
 - [Monorepo-Actions/setup-gh-cli](https://github.com/Monorepo-Actions/setup-gh-cli) - 
 - [jh3y/kody](https://github.com/jh3y/kody) - .files and environment configuration manager created with node
+- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [tradestatistics/landing](https://github.com/tradestatistics/landing) - Open Trade Statistics landing
 - [softwaretechnik-berlin/dbml-renderer](https://github.com/softwaretechnik-berlin/dbml-renderer) - 
 - [stepanic/dbml](https://github.com/stepanic/dbml) - Database Markup Language (DBML), designed to define and document database structures
@@ -2248,7 +2249,7 @@
 - [RyanWarner/next-mdx-digital-garden-starter](https://github.com/RyanWarner/next-mdx-digital-garden-starter) - An opinionated starting point for Digital Garden content authoring.
 - [eliciaauduong/digital-garden](https://github.com/eliciaauduong/digital-garden) - An ongoing work in progress of all my thoughts and notes.
 - [johno/digital-garden](https://github.com/johno/digital-garden) - 🌻[WIP] Gatsby Theme to build your own digital garden 🌻🥀🌸
-- [deep5050/Mr.Dclutterer](https://github.com/deep5050/Mr.Dclutterer) - A Minimal Looking Cross-Platform Desktop Application Made With Electron That Handles Quick File Aggregation And Bulk Renaming
+- [deep5050/Mr.Dclutterer](https://github.com/deep5050/Mr.Dclutterer) - A minimal looking cross-platform desktop application made with Electron that handles quick file aggregation and bulk renaming.
 - [xprueg/folderize](https://github.com/xprueg/folderize) - Copy files from multiple sources into a single folder sorted by their modification date while preventing duplicate content.
 - [LanceTurri/dir-snap](https://github.com/LanceTurri/dir-snap) - A library for comparing snapshots of files and folders on your system.
 - [toan2406/local-share](https://github.com/toan2406/local-share) - Share your folders/files in local network
@@ -3296,7 +3297,7 @@
 - [kbariotis/templates](https://github.com/kbariotis/templates) - A set of standard document templates.
 - [shanselman/PrettyWindowsTerminalThings](https://github.com/shanselman/PrettyWindowsTerminalThings) - A place for how to make your Windows Terminal Pretty
 - [shanselman/shanselman](https://github.com/shanselman/shanselman) - 
-- [beerisgood/Windows10_Hardening](https://github.com/beerisgood/Windows10_Hardening) - My Windows 10 x64 security hardening guide
+- [beerisgood/Windows11_Hardening](https://github.com/beerisgood/Windows11_Hardening) - My Windows 11 x64 security hardening guide
 - [markvanderloo/maic](https://github.com/markvanderloo/maic) - Mark's Attempt to Imitate CRAN
 - [paeselhz/R-Tools-Google-Cloud-FollowUp](https://github.com/paeselhz/R-Tools-Google-Cloud-FollowUp) - This is a followup of the original document - RStudio and Shiny Server on GCP
 - [paeselhz/RStudio-Shiny-Server-on-GCP](https://github.com/paeselhz/RStudio-Shiny-Server-on-GCP) - The ultimate guide to deploy Rstudio Open Source and Shiny Server Open Source at Google Cloud Platform
@@ -4518,7 +4519,6 @@
 - [datasnakes/renv](https://github.com/datasnakes/renv) - Creating virtual environments for R.
 - [bearloga/gsc-utils](https://github.com/bearloga/gsc-utils) - Utility to facilitate fetching data from Google Search Console API
 - [carlosdg/PythonPostgresDockerTemplate](https://github.com/carlosdg/PythonPostgresDockerTemplate) - Simple template for a project using Python and PostgreSQL with Docker. Using the `psycopg2-binary` package for connecting to the database
-- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [oohlaf/dotsecrets](https://github.com/oohlaf/dotsecrets) - DotSecrets is a tool to facilitate keeping your dotfiles in Git, including those with private information. The private information is filtered before committing to the repository. DotSecrets is able to symlink your dotfiles into your home directory similar to Stow.
 - [postgres/pgadmin4](https://github.com/postgres/pgadmin4) - Mirror of the pgAdmin 4 GIT repo. DO NOT submit pull requests here! Use the pgadmin-hackers@lists.postgresql.org mailing list. Issues should be logged at https://redmine.postgresql.org/projects/pgadmin4.
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.
@@ -5080,7 +5080,7 @@
 - [etiennebacher/circletyper](https://github.com/etiennebacher/circletyper) - Curve Text Elements in R Shiny Using 'CircleType.js'
 - [etiennebacher/ebmisc](https://github.com/etiennebacher/ebmisc) - Personal list of functions
 - [etiennebacher/r-js-adaptation](https://github.com/etiennebacher/r-js-adaptation) - A list of Javascript and CSS libraries that have been adapted in R.
-- [etiennebacher/prompter](https://github.com/etiennebacher/prompter) - Add Tooltips in 'Shiny' Apps With 'Hint.css'
+- [etiennebacher/prompter](https://github.com/etiennebacher/prompter) - Add tooltips in Shiny apps with hint.css
 - [OHDSI/ROhdsiWebApi](https://github.com/OHDSI/ROhdsiWebApi) - An R package for interfacing with a WebAPI instance
 - [paciorek/future-kubernetes-docker](https://github.com/paciorek/future-kubernetes-docker) - A Docker container for use in a Kubernetes cluster with the R future package.
 - [terrytangyuan/maintainer-tools](https://github.com/terrytangyuan/maintainer-tools) - Collection of useful functions for project maintainers
@@ -5670,7 +5670,7 @@
 - [chriddyp/plotly-shiny](https://github.com/chriddyp/plotly-shiny) - Templates for embedding interactive plotly graphs in Shiny apps
 - [openanalytics/shinyproxy-template](https://github.com/openanalytics/shinyproxy-template) - Template for Deploying Shiny Apps on ShinyProxy
 - [Azure/Azure-TDSP-ProjectTemplate](https://github.com/Azure/Azure-TDSP-ProjectTemplate) - TDSP: Data science project template repository with standardized directory structure and document templates to support efficient project execution and collaboration.
-- [afrimapr/afrilearndata](https://github.com/afrimapr/afrilearndata) - small africa map datasets for learning
+- [afrimapr/afrilearndata](https://github.com/afrimapr/afrilearndata) - small african spatial datasets for learning & teaching mapping in R
 - [const-ae/ggsignif](https://github.com/const-ae/ggsignif) - Easily add significance brackets to your ggplots
 - [dill/emoGG](https://github.com/dill/emoGG) - :chart_with_upwards_trend::heart_eyes_cat: Emoji in ggplot2 :heart_eyes_cat::chart_with_upwards_trend:
 - [renozao/doRNG](https://github.com/renozao/doRNG) - R package - Generic Reproducible Parallel Backend for foreach
@@ -7381,7 +7381,7 @@
 - [dreamRs/shinylogs](https://github.com/dreamRs/shinylogs) - Logs for Shiny apps
 - [rstudio/pagedown](https://github.com/rstudio/pagedown) - Paginate the HTML Output of R Markdown with CSS for Print
 - [bergant/datamodelr](https://github.com/bergant/datamodelr) - Data model diagrams in R
-- [rich-iannone/pointblank](https://github.com/rich-iannone/pointblank) - Data validation and organization of metadata for data frames and database tables
+- [rich-iannone/pointblank](https://github.com/rich-iannone/pointblank) - Data quality assessment and metadata reporting for data frames and database tables
 - [rstudio/blastula](https://github.com/rstudio/blastula) - Easily send great-looking HTML email messages from R
 - [davidgohel/officer](https://github.com/davidgohel/officer) - :cop: officer: office documents from R
 - [ThinkR-open/golem](https://github.com/ThinkR-open/golem) - A Framework for Building Robust Shiny Apps
