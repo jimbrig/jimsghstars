@@ -1237,7 +1237,7 @@
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [wormi4ok/evernote2md](https://github.com/wormi4ok/evernote2md) - Convert Evernote .enex files to Markdown
-- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - world’s fastest immutable database
+- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - world’s fastest immutable database, built on a zero trust model
 - [google/exposure-notifications-server](https://github.com/google/exposure-notifications-server) - Exposure Notification Reference Server | Covid-19 Exposure Notifications
 - [helm/charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [OneOfOne/xxhash](https://github.com/OneOfOne/xxhash) - A native implementation of the excellent XXHash hashing algorithm.
@@ -1808,6 +1808,7 @@
 
 ## JavaScript 
 
+- [soufianesakhi/firefox-search-engines-helper](https://github.com/soufianesakhi/firefox-search-engines-helper) - Export, import and add custom firefox search engines
 - [fdrennan/ndexr-site](https://github.com/fdrennan/ndexr-site) - 
 - [mikepfeiffer/node-docker-demo](https://github.com/mikepfeiffer/node-docker-demo) - This is a bare bones Node & Express app for Docker demos.
 - [meteoDaniel/insuranceData](https://github.com/meteoDaniel/insuranceData) - This project deals with data from weather service and calculates some insurance relevante data
@@ -1991,6 +1992,7 @@
 - [thoughtbot/react-native-template](https://github.com/thoughtbot/react-native-template) - Template React Native project to be used with Cookiecutter
 - [dirsigler/mkdocs-obsidian-example](https://github.com/dirsigler/mkdocs-obsidian-example) - Showcase your versionized Obsidian vault with Mkdocs instance hosted on GitHub Pages!
 - [pjeby/note-folder-autorename](https://github.com/pjeby/note-folder-autorename) - Obsidian plugin to support folder-overview notes by keeping their folder in sync
+- [meld-cp/obsidian-encrypt](https://github.com/meld-cp/obsidian-encrypt) - Hide secrets in your Obsidian.md vault
 - [pjeby/pane-relief](https://github.com/pjeby/pane-relief) - Obsidian plugin for per-pane history, pane movement/navigation hotkeys, and more
 - [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business) - Using Obsidian.... For Business!
 - [pjeby/tag-wrangler](https://github.com/pjeby/tag-wrangler) - Rename, merge, toggle, and search tags from the Obsidian tag pane
@@ -2895,6 +2897,7 @@
 
 ## Others 
 
+- [microsoft/Windows-classic-samples](https://github.com/microsoft/Windows-classic-samples) - This repo contains samples that demonstrate the API used in Windows classic desktop applications.
 - [fdrennan/aws.ec2](https://github.com/fdrennan/aws.ec2) - AWS EC2 Client Package
 - [slimdevops/slimdevops](https://github.com/slimdevops/slimdevops) - Config files for my GitHub profile.
 - [thycotic/sdk-documentation](https://github.com/thycotic/sdk-documentation) - 
@@ -4147,7 +4150,7 @@
 - [pbatard/Fido](https://github.com/pbatard/Fido) - A PowerShell script to download Windows ISOs or the UEFI Shell
 - [AlexAsplund/PSTodoist](https://github.com/AlexAsplund/PSTodoist) - A powershell module for todoist
 - [jimbrig/WindowsPowerShell](https://github.com/jimbrig/WindowsPowerShell) - Windows PowerShell Profile Directory
-- [jimbrig/PowerShell](https://github.com/jimbrig/PowerShell) - PowerShell Core Profile Directory Backup
+- [jimbrig/PowerShell](https://github.com/jimbrig/PowerShell) - PowerShell Core Profile Directory
 - [byteben/Get-SoftwareUpdates](https://github.com/byteben/Get-SoftwareUpdates) - Connect to SCCM Collections and enumerate Required Software Updates with WMI
 - [byteben/Dell](https://github.com/byteben/Dell) - PowerShell Scripts primarily using the Dell Command PowerShell Provider Module
 - [byteben/Dev](https://github.com/byteben/Dev) - 
@@ -4808,6 +4811,7 @@
 
 ## R 
 
+- [jimbrig/rsetup](https://github.com/jimbrig/rsetup) - What the Package Does (One Line, Title Case)
 - [fdrennan/biggr3](https://github.com/fdrennan/biggr3) - 
 - [fdrennan/productor](https://github.com/fdrennan/productor) - A stripped version of Redditor
 - [fdrennan/ndexie](https://github.com/fdrennan/ndexie) - R Application Based Code
@@ -4914,7 +4918,7 @@
 - [jamovi/jmvtools](https://github.com/jamovi/jmvtools) - An R package which makes it easy to develop modules for jamovi
 - [tidymodels/shinymodels](https://github.com/tidymodels/shinymodels) - 
 - [statnmap/cartomisc](https://github.com/statnmap/cartomisc) - Miscellaneous tools for spatial data manipulation and analysis
-- [statnmap/blog_tips](https://github.com/statnmap/blog_tips) - Complete R script files shared on the blog
+- [statnmap/blog_tips](https://github.com/statnmap/blog_tips) - Comments and complete R script files shared on the blog
 - [statnmap/arpr](https://github.com/statnmap/arpr) - Advanced R Pipes
 - [stla/NestedMenu](https://github.com/stla/NestedMenu) - 
 - [stla/gfiUltra](https://github.com/stla/gfiUltra) - Generalized fiducial inference for ultrahigh-dimensional regression.
@@ -8272,7 +8276,6 @@
 - [joethei/obsidian-plantuml](https://github.com/joethei/obsidian-plantuml) - Generate PlantUML Diagrams inside Obsidian.md
 - [tgrosinger/recent-files-obsidian](https://github.com/tgrosinger/recent-files-obsidian) - Display a list of most recently opened files
 - [THeK3nger/obsidian-plugin-template](https://github.com/THeK3nger/obsidian-plugin-template) - Template for Obsidian.md Plugins
-- [meld-cp/obsidian-encrypt](https://github.com/meld-cp/obsidian-encrypt) - Hide secrets in your Obsidian.md vault
 - [HEmile/obsidian-search-on-internet](https://github.com/HEmile/obsidian-search-on-internet) - Add context menu items in Obsidian to search the internet.
 - [hadynz/obsidian-kindle-plugin](https://github.com/hadynz/obsidian-kindle-plugin) - Sync your Kindle notes and highlights directly into your Obsidian vault
 - [avirut/obsidian-query2table](https://github.com/avirut/obsidian-query2table) - Represent files returned by a query as a table of their YAML frontmatter (for obsidian.md)
