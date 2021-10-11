@@ -2006,7 +2006,7 @@
 - [sqorn/sqorn](https://github.com/sqorn/sqorn) - A Javascript library for building SQL queries
 - [sqlpad/sqlpad](https://github.com/sqlpad/sqlpad) - Web-based SQL editor run in your own private cloud. Supports MySQL, Postgres, SQL Server, Vertica, Crate, ClickHouse, Trino, Presto, SAP HANA, Cassandra, Snowflake, BigQuery, SQLite, and more with ODBC
 - [brianc/node-postgres](https://github.com/brianc/node-postgres) - PostgreSQL client for node.js.
-- [junem3ta/MpesaLNMApp-UITemplate](https://github.com/junem3ta/MpesaLNMApp-UITemplate) - Fullstack MpesaC2BIntegration | NodeJs & MongoDB | Frontend Boilerplate code
+- [mndaniel/MpesaLNMApp-UITemplate](https://github.com/mndaniel/MpesaLNMApp-UITemplate) - Fullstack MpesaC2BIntegration | NodeJs & MongoDB | Frontend Boilerplate code
 - [rosariopfernandes/mpesa-node-api](https://github.com/rosariopfernandes/mpesa-node-api) - NodeJS library for M-Pesa API (🇲🇿 Mozambique)
 - [kamikazechaser/mpesa-mwitu](https://github.com/kamikazechaser/mpesa-mwitu) - 📲 A simple personal M-Pesa API gateway accesible via REST (PoC)
 - [paymentsds/mpesa-js-sdk](https://github.com/paymentsds/mpesa-js-sdk) - A JavaScript library aiming to help developers integrating their products with M-Pesa Platform
@@ -4075,7 +4075,6 @@
 - [tikabu/TikabuPSModuleTemplate](https://github.com/tikabu/TikabuPSModuleTemplate) - Plaster template to scaffold PowerShell Modules
 - [MicrosoftDocs/Virtualization-Documentation](https://github.com/MicrosoftDocs/Virtualization-Documentation) - Place to store our documentation, code samples, etc for public consumption.
 - [tabs-not-spaces/Hyper-ConvertImage](https://github.com/tabs-not-spaces/Hyper-ConvertImage) - Microsoft hasn't published any approved PRs on their Convert-WindowsImage module in years. This is a more recent version.
-- [Zezypisa/Zezy-PC-Essentials](https://github.com/Zezypisa/Zezy-PC-Essentials) - A repository holding all of my Windows / Powershell scripts projects
 - [FlorianTim/autosetup_win](https://github.com/FlorianTim/autosetup_win) - Automated basic pc setup
 - [sbaerlocher/ansible.hello](https://github.com/sbaerlocher/ansible.hello) - Hello Ansible allows the devices for the client use of Ansible to advance.
 - [vijaygurunanee/gocdsetuponwindows](https://github.com/vijaygurunanee/gocdsetuponwindows) - This is a sample demonstration on how we can automate the Go-CD set-up on windows instances. This can help in keeping our environment as a code back-up mechanism.
@@ -7231,6 +7230,7 @@
 - [r-lib/progress](https://github.com/r-lib/progress) - Progress bar in your R terminal
 - [r-lib/covr](https://github.com/r-lib/covr) - Test coverage reports for R
 - [ropensci/assertr](https://github.com/ropensci/assertr) - Assertive programming for R analysis pipelines
+- [ropensci/assertr](https://github.com/ropensci/assertr) - Assertive programming for R analysis pipelines
 - [tidyverse/tibble](https://github.com/tidyverse/tibble) - A modern re-imagining of the data frame
 - [rweekly/rweekly.org](https://github.com/rweekly/rweekly.org) - R Weekly
 - [ropensci/magick](https://github.com/ropensci/magick) - Magic, madness, heaven, sin
@@ -8631,6 +8631,7 @@
 - [siegerts/plumber-vue](https://github.com/siegerts/plumber-vue) - Project structure showing the use of an R-based Plumber API with a Vue frontend, using Vue CLI.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [bencodezen/obsidian-publish-vue](https://github.com/bencodezen/obsidian-publish-vue) - 
+- [Leniolabs/layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
 - [Leniolabs/layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
