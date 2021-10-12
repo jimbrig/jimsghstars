@@ -54,6 +54,7 @@
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [Less](#less)
+  - [Liquid](#liquid)
   - [LiveScript](#livescript)
   - [Logos](#logos)
   - [Lua](#lua)
@@ -237,6 +238,8 @@
 
 ## C 
 
+- [jimhester/r-actions-test](https://github.com/jimhester/r-actions-test) - https://jimhester.github.io/r-actions-test/
+- [Enchufa2/r-flexiblas](https://github.com/Enchufa2/r-flexiblas) - FlexiBLAS API Interface for R
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [RandomStuffyeah/Windows11](https://github.com/RandomStuffyeah/Windows11) - Leaked sourcecode
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to bring back a productive working environment on Windows 11.
@@ -556,6 +559,7 @@
 
 ## C++ 
 
+- [Enchufa2/Rtins](https://github.com/Enchufa2/Rtins) - Tools for Reading and Parsing Network Packet Capture (PCAP) Files in R
 - [turtiustrek/taskmanager](https://github.com/turtiustrek/taskmanager) - Draw bitmaps on a windows 10 task manager!
 - [mbedward/packcircles](https://github.com/mbedward/packcircles) - R package for circle packing
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
@@ -1284,6 +1288,7 @@
 
 ## HTML 
 
+- [r-spatial/r-spatial.org](https://github.com/r-spatial/r-spatial.org) - r-spatial.org blog sources
 - [jimdevops19/FlaskSeries](https://github.com/jimdevops19/FlaskSeries) - This is the Code from my Flask Series - JimShapedCoding. Each Folder is a checkpoint where we stopped at that particular episode number
 - [gtm19/renv-introduction](https://github.com/gtm19/renv-introduction) - A presentation introducing renv for R project environment management
 - [JennyLeeStat/CASwR](https://github.com/JennyLeeStat/CASwR) - Computational Actuarial Science with R
@@ -1453,7 +1458,6 @@
 - [mcanouil/rpackages](https://github.com/mcanouil/rpackages) - A short introduction on building R-packages
 - [mcanouil/rstartup](https://github.com/mcanouil/rstartup) - Tips to start working with R
 - [nstrayer/cv](https://github.com/nstrayer/cv) - My CV built using RMarkdown and the pagedown package.
-- [allejo/jekyll-toc](https://github.com/allejo/jekyll-toc) - A GitHub Pages compatible Table of Contents generator without a plugin or JavaScript :octocat:
 - [GShotwell/easyMake](https://github.com/GShotwell/easyMake) - Automatically generate Makefiles for R projects
 - [ScottHands/ScottHands.github.io](https://github.com/ScottHands/ScottHands.github.io) - Portfolio
 - [arthrp/quick-skeleton-templates](https://github.com/arthrp/quick-skeleton-templates) - Templates for quick-skeleton scaffolding engine
@@ -2427,7 +2431,7 @@
 - [ColinFay/mdlinks](https://github.com/ColinFay/mdlinks) - A Google Chrome extension to create Markdown links for the current page
 - [whitwort/vectorInput](https://github.com/whitwort/vectorInput) - A shiny input widget that returns a (possibly named) vector of values.
 - [strongh/telemetry](https://github.com/strongh/telemetry) - R Shiny inputs for geolocation and sensor data
-- [jhnsnc/precision-inputs](https://github.com/jhnsnc/precision-inputs) - Vanilla JS input component for knobs/dials. Highly customizable, portable, and accessible.
+- [jhnsnc/precision-inputs](https://github.com/jhnsnc/precision-inputs) - A highly customizable, accessible set of framework-agnostic input components for precision controls (knobs, dials, sliders, etc).
 - [dselivanov/shinycamera](https://github.com/dselivanov/shinycamera) - Video stream input to shiny applications
 - [trafficonese/daterangepicker](https://github.com/trafficonese/daterangepicker) - Shiny Input for Date Ranges
 - [datasketch/shinyinvoer](https://github.com/datasketch/shinyinvoer) - Shiny inputs
@@ -2784,6 +2788,10 @@
 
 - [klaussilveira/gitlist](https://github.com/klaussilveira/gitlist) - An elegant and modern git repository viewer
 
+## Liquid 
+
+- [allejo/jekyll-toc](https://github.com/allejo/jekyll-toc) - A GitHub Pages compatible Table of Contents generator without a plugin or JavaScript :octocat:
+
 ## LiveScript 
 
 - [gkz/LiveScript](https://github.com/gkz/LiveScript) - LiveScript is a language which compiles to JavaScript. It has a straightforward mapping to JavaScript and allows you to write expressive code devoid of repetitive boilerplate. While LiveScript adds many features to assist in functional style programming, it also has many improvements for object oriented and imperative programming.
@@ -2897,6 +2905,9 @@
 
 ## Others 
 
+- [duckmayr/install-update-r-on-linux](https://github.com/duckmayr/install-update-r-on-linux) - Simple instructions for installing or updating R on Ubuntu Linux or Linux Mint
+- [developer-portal/content](https://github.com/developer-portal/content) - Content for the Fedora Developer Portal
+- [Enchufa2/specs](https://github.com/Enchufa2/specs) - Miscellaneous SPEC files
 - [microsoft/Windows-classic-samples](https://github.com/microsoft/Windows-classic-samples) - This repo contains samples that demonstrate the API used in Windows classic desktop applications.
 - [fdrennan/aws.ec2](https://github.com/fdrennan/aws.ec2) - AWS EC2 Client Package
 - [slimdevops/slimdevops](https://github.com/slimdevops/slimdevops) - Config files for my GitHub profile.
@@ -3895,6 +3906,7 @@
 
 ## PowerShell 
 
+- [jimbrig/PowerShell-Profiles-Work](https://github.com/jimbrig/PowerShell-Profiles-Work) - My PowerShell Profiles for Work
 - [tfenster/dockeraccesshelper](https://github.com/tfenster/dockeraccesshelper) - PS module that allows access to the Docker engine for any user
 - [mikepfeiffer/iis-webdeploy](https://github.com/mikepfeiffer/iis-webdeploy) - ARM Template for IIS+Web Deploy
 - [thycotic/privmanapi-docs](https://github.com/thycotic/privmanapi-docs) - PrivMan Api Docs
@@ -4376,6 +4388,8 @@
 
 ## Python 
 
+- [dome9/onboarding-scripts](https://github.com/dome9/onboarding-scripts) - A public repository with scripts and tools for mass / automated onboarding of cloud accounts (AWS,Azure,GCP)
+- [Enchufa2/docker-host-auth](https://github.com/Enchufa2/docker-host-auth) - Authenticating a docker container against host's Unix accounts
 - [fdrennan/redditstack](https://github.com/fdrennan/redditstack) - 
 - [jimdevops19/PythonCrashCourse](https://github.com/jimdevops19/PythonCrashCourse) - JimShapedCoding Python Crash Course 2021
 - [aacosta-milesius/financial-math](https://github.com/aacosta-milesius/financial-math) - Time value of money functions using actuarial methods
@@ -4810,6 +4824,10 @@
 
 ## R 
 
+- [Enchufa2/cran2copr](https://github.com/Enchufa2/cran2copr) - Creating Fedora packages in a Copr repo from CRAN sources
+- [Enchufa2/universe](https://github.com/Enchufa2/universe) - Personal R-universe
+- [Enchufa2/dispatchS3dots](https://github.com/Enchufa2/dispatchS3dots) - 
+- [Enchufa2/bspm](https://github.com/Enchufa2/bspm) - R Bridge to System Package Manager
 - [jimbrig/rsetup](https://github.com/jimbrig/rsetup) - What the Package Does (One Line, Title Case)
 - [fdrennan/biggr3](https://github.com/fdrennan/biggr3) - 
 - [fdrennan/productor](https://github.com/fdrennan/productor) - A stripped version of Redditor
@@ -4859,7 +4877,7 @@
 - [Haoen-Cui/mischelperfuns](https://github.com/Haoen-Cui/mischelperfuns) - Miscellaneous Helper Functions
 - [Haoen-Cui/SOA-Exam-PA-R-Package-Documentation](https://github.com/Haoen-Cui/SOA-Exam-PA-R-Package-Documentation) - R Package Documentation for SOA Exam PA
 - [caijun/ggcorrplot2](https://github.com/caijun/ggcorrplot2) - Implementation of corrplot using ggplot2
-- [lgnbhl/polyglot](https://github.com/lgnbhl/polyglot) - 🎓Learn Foreign Language Vocabulary in the R Console
+- [lgnbhl/polyglot](https://github.com/lgnbhl/polyglot) - 🎓Use the R Console as an interactive learning environment
 - [shikokuchuo/ichimoku](https://github.com/shikokuchuo/ichimoku) - ichimoku R package - Visualization and Tools for Ichimoku Kinko Hyo Strategies
 - [t-kalinowski/knitr.regression](https://github.com/t-kalinowski/knitr.regression) - 
 - [eco4cast/neon4cast](https://github.com/eco4cast/neon4cast) - A helper R package for the neon4cast challenge
@@ -7230,7 +7248,6 @@
 - [r-lib/progress](https://github.com/r-lib/progress) - Progress bar in your R terminal
 - [r-lib/covr](https://github.com/r-lib/covr) - Test coverage reports for R
 - [ropensci/assertr](https://github.com/ropensci/assertr) - Assertive programming for R analysis pipelines
-- [ropensci/assertr](https://github.com/ropensci/assertr) - Assertive programming for R analysis pipelines
 - [tidyverse/tibble](https://github.com/tidyverse/tibble) - A modern re-imagining of the data frame
 - [rweekly/rweekly.org](https://github.com/rweekly/rweekly.org) - R Weekly
 - [ropensci/magick](https://github.com/ropensci/magick) - Magic, madness, heaven, sin
@@ -7702,6 +7719,7 @@
 
 ## Shell 
 
+- [Enchufa2/test-devcontainers](https://github.com/Enchufa2/test-devcontainers) - 
 - [rpodcast/shinylearning](https://github.com/rpodcast/shinylearning) - 
 - [slimdevops/slim-containers](https://github.com/slimdevops/slim-containers) - Slim.AI Container of the Week Series and Examples
 - [gtm19/dotfiles](https://github.com/gtm19/dotfiles) - Default configuration for Le Wagon's students
@@ -8631,7 +8649,6 @@
 - [siegerts/plumber-vue](https://github.com/siegerts/plumber-vue) - Project structure showing the use of an R-based Plumber API with a Vue frontend, using Vue CLI.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [bencodezen/obsidian-publish-vue](https://github.com/bencodezen/obsidian-publish-vue) - 
-- [Leniolabs/layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
 - [Leniolabs/layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
