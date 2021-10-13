@@ -366,6 +366,7 @@
 
 ## C# # 
 
+- [microsoft/PartsUnlimited](https://github.com/microsoft/PartsUnlimited) - .Net Core + SQL Azure app for DevOps Scenarios
 - [Azure-Samples/openhack-devops-team](https://github.com/Azure-Samples/openhack-devops-team) - DevOps OpenHack Team environment APIs
 - [PowerShell/SecretManagement](https://github.com/PowerShell/SecretManagement) - PowerShell module to consistent usage of secrets through different extension vaults
 - [jb262/ActuarialMaths.NonLife](https://github.com/jb262/ActuarialMaths.NonLife) - Class library for actuarial claims reserving and tariff rating for non-life insurances
@@ -559,6 +560,7 @@
 
 ## C++ 
 
+- [nx10/httpgd](https://github.com/nx10/httpgd) - Asynchronous http server graphics device for R.
 - [Enchufa2/Rtins](https://github.com/Enchufa2/Rtins) - Tools for Reading and Parsing Network Packet Capture (PCAP) Files in R
 - [turtiustrek/taskmanager](https://github.com/turtiustrek/taskmanager) - Draw bitmaps on a windows 10 task manager!
 - [mbedward/packcircles](https://github.com/mbedward/packcircles) - R package for circle packing
@@ -913,6 +915,8 @@
 
 ## Dockerfile 
 
+- [rocker-org/rocker-versioned](https://github.com/rocker-org/rocker-versioned) - Run current & prior versions of R using docker
+- [mages/docker-reserving](https://github.com/mages/docker-reserving) - Dockerfiles with rstan, brms and ChainLadder
 - [fdrennan/renvironments](https://github.com/fdrennan/renvironments) - The Way I R
 - [PowerShell/PowerShell-Docker](https://github.com/PowerShell/PowerShell-Docker) - Repository for building PowerShell Docker images
 - [Haoen-Cui/baker-bayesian-analysis-in-docker](https://github.com/Haoen-Cui/baker-bayesian-analysis-in-docker) - Baker Project: Dockerfile for Bayesian Analysis
@@ -1085,7 +1089,7 @@
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [techschool/simplebank](https://github.com/techschool/simplebank) - 
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
-- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
+- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [vfarcic/gke-autopilot-demo](https://github.com/vfarcic/gke-autopilot-demo) - 
 - [egoist/doko](https://github.com/egoist/doko) - A docker-based development dependency manager.
@@ -1288,6 +1292,7 @@
 
 ## HTML 
 
+- [sdcastillo/PA-R-Study-Manual](https://github.com/sdcastillo/PA-R-Study-Manual) - An online study guide for the SOA's predictive analytics exam.
 - [r-spatial/r-spatial.org](https://github.com/r-spatial/r-spatial.org) - r-spatial.org blog sources
 - [jimdevops19/FlaskSeries](https://github.com/jimdevops19/FlaskSeries) - This is the Code from my Flask Series - JimShapedCoding. Each Folder is a checkpoint where we stopped at that particular episode number
 - [gtm19/renv-introduction](https://github.com/gtm19/renv-introduction) - A presentation introducing renv for R project environment management
@@ -1510,7 +1515,7 @@
 - [shinydevseries/shinydevseries_site](https://github.com/shinydevseries/shinydevseries_site) - Web site for Shiny Developer Series
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 - [alejandrogallo/papis](https://github.com/alejandrogallo/papis) - Powerful and highly extensible command-line based document and bibliography manager.
-- [postkevone/TiddlyResearch](https://github.com/postkevone/TiddlyResearch) - Local and Anki-compatible note-taking tool based on TiddlyWiki
+- [postkevone/tiddlyresearch](https://github.com/postkevone/tiddlyresearch) - Local and Anki-compatible note-taking tool based on TiddlyWiki
 - [WaylonWalker/waylonwalkerv2](https://github.com/WaylonWalker/waylonwalkerv2) - My personal website, mostly a blog, always a work in progress.
 - [awesome-br/awesome-br.github.io](https://github.com/awesome-br/awesome-br.github.io) - 
 - [MarcSkovMadsen/awesome-streamlit](https://github.com/MarcSkovMadsen/awesome-streamlit) - The purpose of this project is to share knowledge on how awesome Streamlit is and can be
@@ -1812,6 +1817,10 @@
 
 ## JavaScript 
 
+- [r-hub/actions](https://github.com/r-hub/actions) - GitHub Actions for R-hub
+- [mrmartineau/notes.zander.wtf](https://github.com/mrmartineau/notes.zander.wtf) - Notes on code. My memory bank.
+- [soufianesakhi/http-request-echo-server](https://github.com/soufianesakhi/http-request-echo-server) - Simple server that echoes the request as a response
+- [soufianesakhi/feedly-filtering-and-sorting](https://github.com/soufianesakhi/feedly-filtering-and-sorting) - Enhance the feedly website with advanced filtering and sorting capabilities
 - [soufianesakhi/firefox-search-engines-helper](https://github.com/soufianesakhi/firefox-search-engines-helper) - Export, import and add custom firefox search engines
 - [fdrennan/ndexr-site](https://github.com/fdrennan/ndexr-site) - 
 - [mikepfeiffer/node-docker-demo](https://github.com/mikepfeiffer/node-docker-demo) - This is a bare bones Node & Express app for Docker demos.
@@ -2225,7 +2234,7 @@
 - [ghostinthewires/Azure-Readiness-Checklist](https://github.com/ghostinthewires/Azure-Readiness-Checklist) - This checklist is your guide to the best practices for deploying secure, scalable, and highly available infrastructure in Azure. Before you go live, go through each item, and make sure you haven't missed anything important!
 - [lgraubner/sitemap-generator](https://github.com/lgraubner/sitemap-generator) - Easily create XML sitemaps for your website.
 - [teles/awesome-seo](https://github.com/teles/awesome-seo) - :star2: A curated list of SEO (Search Engine Optimization) links.
-- [lamartire/sharec](https://github.com/lamartire/sharec) - 📦 Store your configs in one place and share between projects without any pain
+- [lamartire/sharec](https://github.com/lamartire/sharec) - 📦 Store your configs in one place and manage across projects easily
 - [nikku/wuffle](https://github.com/nikku/wuffle) - A multi-repository task board for GitHub issues.
 - [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - an enhancer/customiser for the all-in-one productivity workspace notion.so as an app
 - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) - A GitHub action to create or update an issue or pull request comment
@@ -2905,6 +2914,8 @@
 
 ## Others 
 
+- [mrmartineau/awesome-web-dev-resources](https://github.com/mrmartineau/awesome-web-dev-resources) - 👌 My collection of go-to web development resources
+- [sdcastillo/Loss-Development-Triangles](https://github.com/sdcastillo/Loss-Development-Triangles) - Code and data files for the article "Painlessly Merge Data into Actuarial Loss Development Triangles with R"
 - [duckmayr/install-update-r-on-linux](https://github.com/duckmayr/install-update-r-on-linux) - Simple instructions for installing or updating R on Ubuntu Linux or Linux Mint
 - [developer-portal/content](https://github.com/developer-portal/content) - Content for the Fedora Developer Portal
 - [Enchufa2/specs](https://github.com/Enchufa2/specs) - Miscellaneous SPEC files
@@ -3018,7 +3029,7 @@
 - [melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates) - Boilerplates for mobile and web apps
 - [unreadablewxy/unreadablewxy](https://github.com/unreadablewxy/unreadablewxy) - 
 - [unreadablewxy/fs-curator](https://github.com/unreadablewxy/fs-curator) - Automation for the serious data hoarder that wants to have their data and use it
-- [Supernaut-SFX/Project-Documentation-Collection](https://github.com/Supernaut-SFX/Project-Documentation-Collection) - A collection of templates for various forms of Project Documentation, in multiple formats. Some I wrote up myself, others are random, assorted templates sourced from across the web, mostly GitHub. All Docs templates in this repository come in both Markdown and Plaintext varieties, in addition to some more 'formal', and in depth Docs Templates written in Microsoft Word, and thusly coming in *.doc/*.docx formats, as well as *.rtf. Includes README Templates, CHANGELOG Templates, CONTRIBUTING Templates, Code of Conduct Templates, various niche Documentation Types, and a collection of the most commonly used Licenses in Plaintext, Rich Formatted Text, and Markdown formats also.
+- [SupernautFX/Project-Documentation-Collection](https://github.com/SupernautFX/Project-Documentation-Collection) - A collection of templates for various forms of Project Documentation, in multiple formats. Some I wrote up myself, others are random, assorted templates sourced from across the web, mostly GitHub. All Docs templates in this repository come in both Markdown and Plaintext varieties, in addition to some more 'formal', and in depth Docs Templates written in Microsoft Word, and thusly coming in *.doc/*.docx formats, as well as *.rtf. Includes README Templates, CHANGELOG Templates, CONTRIBUTING Templates, Code of Conduct Templates, various niche Documentation Types, and a collection of the most commonly used Licenses in Plaintext, Rich Formatted Text, and Markdown formats also.
 - [jimbrig/dj-events-frontend](https://github.com/jimbrig/dj-events-frontend) - Next.js website to list DJ and other musical events
 - [AndyFul/ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) - Utility for configuring Windows 10 built-in Defender antivirus settings.
 - [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Win10XPE is a Complete Project Based on Win10 Recovery Environment With Many Windows Features Added...
@@ -3906,6 +3917,10 @@
 
 ## PowerShell 
 
+- [MicrosoftDocs/sql-docs](https://github.com/MicrosoftDocs/sql-docs) - Technical documentation for Microsoft SQL Server, tools such as SQL Server Management Studio (SSMS) ,  SQL Server Data Tools (SSDT) etc.
+- [MicrosoftDocs/cloud-adoption-framework](https://github.com/MicrosoftDocs/cloud-adoption-framework) - Cloud Adoption Framework
+- [joonro/Get-ChildItemColor](https://github.com/joonro/Get-ChildItemColor) - Add coloring to the output of Get-ChildItem Cmdlet of PowerShell.
+- [Wielding/WieldingLs](https://github.com/Wielding/WieldingLs) - Powershell Module to mimic *nix ls command with customizable colors and styles
 - [jimbrig/PowerShell-Profiles-Work](https://github.com/jimbrig/PowerShell-Profiles-Work) - My PowerShell Profiles for Work
 - [tfenster/dockeraccesshelper](https://github.com/tfenster/dockeraccesshelper) - PS module that allows access to the Docker engine for any user
 - [mikepfeiffer/iis-webdeploy](https://github.com/mikepfeiffer/iis-webdeploy) - ARM Template for IIS+Web Deploy
@@ -4072,8 +4087,8 @@
 - [jimbrig/WindowsSetup](https://github.com/jimbrig/WindowsSetup) - 
 - [hackf5/powershell-profile-alias](https://github.com/hackf5/powershell-profile-alias) - Bash style aliases in PowerShell
 - [Jaykul/PowerLine](https://github.com/Jaykul/PowerLine) - A more PowerShell prompt
-- [Supernaut-SFX/PS.Config](https://github.com/Supernaut-SFX/PS.Config) - A simple example of how to create a very basic 'Configuration file' for PowerShell Scripts usiing *.psd1 files (usually used only as Module Manifests). Works so long as any Configuration you're needing to do can be accomplished with Variables.
-- [Supernaut-SFX/My-PowerShell-Configuration](https://github.com/Supernaut-SFX/My-PowerShell-Configuration) - Repository for my personal PowerShell Profile(s), modules (ones I havent made in 'Third-Party Modules' Directory), and various other config files
+- [SupernautFX/PS.Config](https://github.com/SupernautFX/PS.Config) - A simple example of how to create a very basic 'Configuration file' for PowerShell Scripts usiing *.psd1 files (usually used only as Module Manifests). Works so long as any Configuration you're needing to do can be accomplished with Variables.
+- [SupernautFX/My-PowerShell-Configuration](https://github.com/SupernautFX/My-PowerShell-Configuration) - Repository for my personal PowerShell Profile(s), modules (ones I havent made in 'Third-Party Modules' Directory), and various other config files
 - [techthoughts2/Learn-PowerShell-Code-Examples](https://github.com/techthoughts2/Learn-PowerShell-Code-Examples) - Contains code examples used in the Learn PowerShell Video & Blog series
 - [nickrod518/Migrate-WindowsUserProfile](https://github.com/nickrod518/Migrate-WindowsUserProfile) - Migrate Windows user profile to a new machine using Microsoft USMT with a PowerShell GUI.
 - [greyhamwoohoo/new-vm-from-iso](https://github.com/greyhamwoohoo/new-vm-from-iso) - Provision a Hyper-V VM with Windows automatically installed from an ISO using PowerShell; on first boot, the Unattend.Xml (OOBE) will automatically configure the installation and Windows will boot as far as the Login Screen. Windows Updates will then be automatically installed.
@@ -4388,6 +4403,7 @@
 
 ## Python 
 
+- [mortada/fredapi](https://github.com/mortada/fredapi) - Python API for FRED (Federal Reserve Economic Data) and ALFRED (Archival FRED)
 - [dome9/onboarding-scripts](https://github.com/dome9/onboarding-scripts) - A public repository with scripts and tools for mass / automated onboarding of cloud accounts (AWS,Azure,GCP)
 - [Enchufa2/docker-host-auth](https://github.com/Enchufa2/docker-host-auth) - Authenticating a docker container against host's Unix accounts
 - [fdrennan/redditstack](https://github.com/fdrennan/redditstack) - 
@@ -4824,6 +4840,14 @@
 
 ## R 
 
+- [ropenscilabs/r2readthedocs](https://github.com/ropenscilabs/r2readthedocs) - Convert R package documentation to a 'readthedocs' website
+- [PHSKC-APDE/claims_data](https://github.com/PHSKC-APDE/claims_data) - Process and analyze WA State Medicaid, Medicare, and All-Payer Claims Database eligibility and claims data
+- [daranzolin/testdatapkg](https://github.com/daranzolin/testdatapkg) - Data for Environmental Data Science
+- [ir-sfsu/funcreporter](https://github.com/ir-sfsu/funcreporter) - Automate RMarkdown Reporting :sparkles: :fire: :dancer:
+- [daranzolin/hacksaw](https://github.com/daranzolin/hacksaw) - Extra tidyverse-like functionality
+- [vigou3/ime-2017-workshop-computational-actuarial-science-r](https://github.com/vigou3/ime-2017-workshop-computational-actuarial-science-r) - Computational actuarial science with R - IME 2017 Workshop
+- [bigomics/omicsplayground](https://github.com/bigomics/omicsplayground) - Visual self-service analytics platform for big omics data.
+- [tidymodels/workflows](https://github.com/tidymodels/workflows) - Modeling Workflows
 - [Enchufa2/cran2copr](https://github.com/Enchufa2/cran2copr) - Creating Fedora packages in a Copr repo from CRAN sources
 - [Enchufa2/universe](https://github.com/Enchufa2/universe) - Personal R-universe
 - [Enchufa2/dispatchS3dots](https://github.com/Enchufa2/dispatchS3dots) - 
@@ -8117,6 +8141,7 @@
 
 ## Svelte 
 
+- [soufianesakhi/youtube-playlist-helper](https://github.com/soufianesakhi/youtube-playlist-helper) - YouTube playlist editor and generator
 - [cristianpb/analytics-google](https://github.com/cristianpb/analytics-google) - Google analytics from cristianpb.github.io
 - [spences10/cheat-sheets](https://github.com/spences10/cheat-sheets) - Cheat Sheets 🐭🤖👀
 
@@ -8223,6 +8248,8 @@
 
 ## TypeScript 
 
+- [mrmartineau/design-system-utils](https://github.com/mrmartineau/design-system-utils) - 👩‍🎨 Access your design tokens with ease
+- [mrmartineau/react-design-system-boilerplate](https://github.com/mrmartineau/react-design-system-boilerplate) - At the moment this project is out-of-date and unmaintained. I hope to revisit it soon though... This is a boilerplate for you to create your own design system in React. It has everything setup to allow you to focus on what it is you care about: creating awesome, reusable components.
 - [TypeFox/npm-dependency-graph](https://github.com/TypeFox/npm-dependency-graph) - Visualization of npm package dependencies based on Sprotty
 - [3axap4eHko/file-templates-manager](https://github.com/3axap4eHko/file-templates-manager) - VSCode file templates manager extension
 - [cantonios/vscode-project-templates](https://github.com/cantonios/vscode-project-templates) - Project Templates extension for VSCode
