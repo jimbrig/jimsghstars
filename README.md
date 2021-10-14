@@ -242,7 +242,7 @@
 - [Enchufa2/r-flexiblas](https://github.com/Enchufa2/r-flexiblas) - FlexiBLAS API Interface for R
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [RandomStuffyeah/Windows11](https://github.com/RandomStuffyeah/Windows11) - Leaked sourcecode
-- [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to bring back a productive working environment on Windows 11.
+- [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to bring back a productive working environment on Windows 11
 - [ventoy/vtoydump](https://github.com/ventoy/vtoydump) - This is a tool used with "Ventoy Compatible".
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [FarGroup/Far-NetBox](https://github.com/FarGroup/Far-NetBox) - SFTP/SCP/FTP/FTPS/WebDAV client for Far Manager (http://farmanager.com/)
@@ -807,7 +807,6 @@
 - [rstudio-education/glossRy](https://github.com/rstudio-education/glossRy) - A glossary of terms used in  and around data science.
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. &lt;personal.management.system.pms@gmail.com&gt;
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
-- [busterbenson/obsidian](https://github.com/busterbenson/obsidian) - Obsidian Letterpress Notes
 - [capnfabs/paperesque](https://github.com/capnfabs/paperesque) - A lightweight theme for Hugo (gohugo.io)
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [zthxxx/wiki-site](https://github.com/zthxxx/wiki-site) - My personal knowledge management site.
@@ -1019,6 +1018,8 @@
 
 ## Go 
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager
+- [wayanjimmy/searchmymind](https://github.com/wayanjimmy/searchmymind) - Search my mind
 - [opsgenie/kubernetes-event-exporter](https://github.com/opsgenie/kubernetes-event-exporter) - Export Kubernetes events to multiple destinations with routing and filtering
 - [bitrise-steplib/steps-ios-auto-provision-appstoreconnect](https://github.com/bitrise-steplib/steps-ios-auto-provision-appstoreconnect) - 
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
@@ -1267,6 +1268,7 @@
 
 ## HCL 
 
+- [jimbrig/terraform-azure](https://github.com/jimbrig/terraform-azure) - Personal experimentation using Terraform to setup infrastructure on Azure
 - [BretFisher/dogvscat](https://github.com/BretFisher/dogvscat) - Sample Docker Swarm cluster stack of tools
 - [chocolatey-community/chocolatey-workshop-open-source](https://github.com/chocolatey-community/chocolatey-workshop-open-source) - Community workshop content based on Chocolatey Open Source
 - [Duffney/terraform-in20hours](https://github.com/Duffney/terraform-in20hours) - Learning Terraform in 20 Hours
@@ -1400,7 +1402,6 @@
 - [darekkay/config-files](https://github.com/darekkay/config-files) - My collection of .dotfiles, settings and snippets.
 - [smach/R4JournalismBook](https://github.com/smach/R4JournalismBook) - Companion site for my book Practical R for Mass Communication & Journalism, part of the CRC Press R Series
 - [Appsilon/data.validator](https://github.com/Appsilon/data.validator) - validate your data and create nice reports straight from R
-- [jimbrig/github-issue-table](https://github.com/jimbrig/github-issue-table) - Personal Github Issues Flexdashboard
 - [ColoradoDemography/shiny-landing-page](https://github.com/ColoradoDemography/shiny-landing-page) - 
 - [akashgiricse/templates-using-bootstrap4](https://github.com/akashgiricse/templates-using-bootstrap4) - 🌆 Here I've aggregated some of the most commonly used web-page templates made using Bootstrap4 🛒
 - [openschemas/extractors](https://github.com/openschemas/extractors) - generic extraction recipes to get you started extracting schema.org entities for your software, data, and all things
@@ -1817,6 +1818,7 @@
 
 ## JavaScript 
 
+- [igorlogius/copyTabAsLink](https://github.com/igorlogius/copyTabAsLink) - 
 - [r-hub/actions](https://github.com/r-hub/actions) - GitHub Actions for R-hub
 - [mrmartineau/notes.zander.wtf](https://github.com/mrmartineau/notes.zander.wtf) - Notes on code. My memory bank.
 - [soufianesakhi/http-request-echo-server](https://github.com/soufianesakhi/http-request-echo-server) - Simple server that echoes the request as a response
@@ -2741,6 +2743,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all
 - [sharmaroshan/Insurance-Claim-Prediction](https://github.com/sharmaroshan/Insurance-Claim-Prediction) - In this Data set we are Predicting the Insurance Claim by each user, Machine Learning algorithms for Regression analysis are used and Data Visualization are also performed to support Analysis.
 - [DeutscheAktuarvereinigung/Data_Science_Challenge_2020_Betrugserkennung](https://github.com/DeutscheAktuarvereinigung/Data_Science_Challenge_2020_Betrugserkennung) - In this notebook we take a look at a relevant project that is frequently encountered by insurers: Fraud Detection. For this purpose we use a car data set from a public source and will show the necessary steps to establish an automated fraud detection.
 - [DeutscheAktuarvereinigung/Mortality_Modeling](https://github.com/DeutscheAktuarvereinigung/Mortality_Modeling) - Multi-Population Mortality Modeling With Neural Networks
@@ -2914,6 +2917,11 @@
 
 ## Others 
 
+- [dslp/dslp](https://github.com/dslp/dslp) - The Data Science Lifecycle Process is a process for taking data science teams from Idea to Value repeatedly and sustainably. The process is documented in this repo.
+- [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
+- [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer Road Map. Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you'd like to add.
+- [davidski/database_connections](https://github.com/davidski/database_connections) - ⚙️Demonstration code to connect R on MacOS to various database flavors.
+- [jimsforks/rsvr](https://github.com/jimsforks/rsvr) - "reserver"
 - [mrmartineau/awesome-web-dev-resources](https://github.com/mrmartineau/awesome-web-dev-resources) - 👌 My collection of go-to web development resources
 - [sdcastillo/Loss-Development-Triangles](https://github.com/sdcastillo/Loss-Development-Triangles) - Code and data files for the article "Painlessly Merge Data into Actuarial Loss Development Triangles with R"
 - [duckmayr/install-update-r-on-linux](https://github.com/duckmayr/install-update-r-on-linux) - Simple instructions for installing or updating R on Ubuntu Linux or Linux Mint
@@ -3072,7 +3080,6 @@
 - [statnmap/namer](https://github.com/statnmap/namer) - R package :package: for labelling chunks of RMarkdown files! :boom:
 - [EdiWang/linux-cheatsheet-for-windows-users](https://github.com/EdiWang/linux-cheatsheet-for-windows-users) - For Windows folks like me who struggle to remember Linux commands
 - [samuelramox/awesome-javascript](https://github.com/samuelramox/awesome-javascript) - 
-- [samuelramox/react-payment-inputs](https://github.com/samuelramox/react-payment-inputs) - A React Hook & Container to help with payment card input fields.
 - [samuelramox/dev-log](https://github.com/samuelramox/dev-log) - My logfile.
 - [Azure/AzureDatabricksBestPractices](https://github.com/Azure/AzureDatabricksBestPractices) - Version 1 of Technical Best Practices of Azure Databricks based on real world Customer and Technical SME inputs
 - [iamshaunjp/CSS-Tips-and-Tricks](https://github.com/iamshaunjp/CSS-Tips-and-Tricks) - A repo for the 'CSS Tips & Tricks' playlist on The Net Ninja YouTube channel.
@@ -3246,6 +3253,7 @@
 - [gigwork/mapping](https://github.com/gigwork/mapping) - Mapping gig work
 - [yaml/yaml](https://github.com/yaml/yaml) - YAML language and community information
 - [daroczig/CEU-R-prod](https://github.com/daroczig/CEU-R-prod) - R materials for the "Data Infrastructure in Production" class at CEU
+- [jimbrig/github-issue-table](https://github.com/jimbrig/github-issue-table) - Personal Github Issues Flexdashboard
 - [ministryofjustice/analytics-platform](https://github.com/ministryofjustice/analytics-platform) - Parent repository for the MOJ Analytics Platform
 - [GoogleCloudPlatform/edu-resources](https://github.com/GoogleCloudPlatform/edu-resources) - Curated List of GCP educational resources http://goo.gle/google-cloud-edu
 - [leeper/data-versioning](https://github.com/leeper/data-versioning) - Collecting thoughts about data versioning
@@ -3917,6 +3925,7 @@
 
 ## PowerShell 
 
+- [kristofferandreasen/awesome-azure](https://github.com/kristofferandreasen/awesome-azure) - A Curated List of Azure Resources. The list provides you with enough resources to get a full overview of the services in Azure and get started with cloud computing.
 - [MicrosoftDocs/sql-docs](https://github.com/MicrosoftDocs/sql-docs) - Technical documentation for Microsoft SQL Server, tools such as SQL Server Management Studio (SSMS) ,  SQL Server Data Tools (SSDT) etc.
 - [MicrosoftDocs/cloud-adoption-framework](https://github.com/MicrosoftDocs/cloud-adoption-framework) - Cloud Adoption Framework
 - [joonro/Get-ChildItemColor](https://github.com/joonro/Get-ChildItemColor) - Add coloring to the output of Get-ChildItem Cmdlet of PowerShell.
@@ -4403,6 +4412,13 @@
 
 ## Python 
 
+- [dslp/dslp-repo-template](https://github.com/dslp/dslp-repo-template) - Template repository for data science lifecycle project
+- [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
+- [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
+- [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
+- [complexdb/zincbase](https://github.com/complexdb/zincbase) - A state of the art knowledge base
+- [graphbrain/graphbrain](https://github.com/graphbrain/graphbrain) - Language, Knowledge, Cognition
+- [davidski/infrastructure-lambdas](https://github.com/davidski/infrastructure-lambdas) - λ AWS Lambda infrastructure functions
 - [mortada/fredapi](https://github.com/mortada/fredapi) - Python API for FRED (Federal Reserve Economic Data) and ALFRED (Archival FRED)
 - [dome9/onboarding-scripts](https://github.com/dome9/onboarding-scripts) - A public repository with scripts and tools for mass / automated onboarding of cloud accounts (AWS,Azure,GCP)
 - [Enchufa2/docker-host-auth](https://github.com/Enchufa2/docker-host-auth) - Authenticating a docker container against host's Unix accounts
@@ -4840,6 +4856,9 @@
 
 ## R 
 
+- [JSchelldorfer/DeepLearningWithActuarialApplications](https://github.com/JSchelldorfer/DeepLearningWithActuarialApplications) - Material for the 2-day block course "Deep Learning with Actuarial Applications in R"
+- [davidski/msgraphr](https://github.com/davidski/msgraphr) - 📇Read Office 365 data via the MS Graph API and R
+- [davidski/collector](https://github.com/davidski/collector) - ⚖Open Source Toolkit for Conducting Quantitative Risk Assessment Interviews
 - [ropenscilabs/r2readthedocs](https://github.com/ropenscilabs/r2readthedocs) - Convert R package documentation to a 'readthedocs' website
 - [PHSKC-APDE/claims_data](https://github.com/PHSKC-APDE/claims_data) - Process and analyze WA State Medicaid, Medicare, and All-Payer Claims Database eligibility and claims data
 - [daranzolin/testdatapkg](https://github.com/daranzolin/testdatapkg) - Data for Environmental Data Science
@@ -7155,7 +7174,7 @@
 - [HenrikBengtsson/progressr](https://github.com/HenrikBengtsson/progressr) - 三 R package: An Inclusive, Unifying API for Progress Updates
 - [hrbrmstr/speedtest](https://github.com/hrbrmstr/speedtest) - :triangular_ruler: Measure upload/download speed/bandwidth for your network with R
 - [ropensci-archive/notary](https://github.com/ropensci-archive/notary) - :no_entry: ARCHIVED :no_entry: :lock_with_ink_pen::package: Signing & verification of R packages
-- [dlab-berkeley/R-Fundamentals](https://github.com/dlab-berkeley/R-Fundamentals) - 12-hour intro to data science in R, no prior knowledge assumed
+- [dlab-berkeley/R-Fundamentals](https://github.com/dlab-berkeley/R-Fundamentals) - D-Lab's 12 hour introduction to R Fundamentals. Learn how to create variables and functions, manipulate data frames, make visualizations, use control flow structures, and more, using R in RStudio.
 - [alexsanjoseph/compareDF](https://github.com/alexsanjoseph/compareDF) - R Tool to compare two data.frames
 - [pmaji/financial-asset-comparison-tool](https://github.com/pmaji/financial-asset-comparison-tool) - R Shiny app to compare the relative performance of cryptos and equities.
 - [globeandmail/startr](https://github.com/globeandmail/startr) - A template for data journalism in R
@@ -7687,6 +7706,7 @@
 
 ## SCSS 
 
+- [p-kostic/p-kostic.github.io](https://github.com/p-kostic/p-kostic.github.io) - Personal blog and knowledge base where I share stuff I couldn't find elsewhere. Live: https://blog.kostic.dev
 - [play-with-docker/play-with-docker.github.io](https://github.com/play-with-docker/play-with-docker.github.io) - Play with docker class-room repo
 - [benbrignell/principles.design](https://github.com/benbrignell/principles.design) - An open source collection of design principles and methods.
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
@@ -7743,6 +7763,9 @@
 
 ## Shell 
 
+- [mkell43/a-hoarders-notes](https://github.com/mkell43/a-hoarders-notes) - My stash of information.
+- [elsenm/digital-garden](https://github.com/elsenm/digital-garden) - 🌱 My personal homegrown digital garden
+- [thomvaill/Makedockfile](https://github.com/thomvaill/Makedockfile) - A simple Makefile to build your Docker images 👌
 - [Enchufa2/test-devcontainers](https://github.com/Enchufa2/test-devcontainers) - 
 - [rpodcast/shinylearning](https://github.com/rpodcast/shinylearning) - 
 - [slimdevops/slim-containers](https://github.com/slimdevops/slim-containers) - Slim.AI Container of the Week Series and Examples
@@ -8248,6 +8271,8 @@
 
 ## TypeScript 
 
+- [churichard/notabase](https://github.com/churichard/notabase) - A personal knowledge base for networked thinking.
+- [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
 - [mrmartineau/design-system-utils](https://github.com/mrmartineau/design-system-utils) - 👩‍🎨 Access your design tokens with ease
 - [mrmartineau/react-design-system-boilerplate](https://github.com/mrmartineau/react-design-system-boilerplate) - At the moment this project is out-of-date and unmaintained. I hope to revisit it soon though... This is a boilerplate for you to create your own design system in React. It has everything setup to allow you to focus on what it is you care about: creating awesome, reusable components.
 - [TypeFox/npm-dependency-graph](https://github.com/TypeFox/npm-dependency-graph) - Visualization of npm package dependencies based on Sprotty
@@ -8589,7 +8614,7 @@
 
 ## VBScript 
 
-- [farag2/Office](https://github.com/farag2/Office) - Download and setup Office 2019/365
+- [farag2/Office](https://github.com/farag2/Office) - Download and setup Office 2019/2021/365
 - [rickstaa/todoist-global-shortcuts-WIN10](https://github.com/rickstaa/todoist-global-shortcuts-WIN10) - Since TODOIST its Windows 10 app doesn’t support global shortcuts at the moment. I made a little workaround for the "open TODOIST" global shortcut.
 - [ReneNyffenegger/about-VBScript](https://github.com/ReneNyffenegger/about-VBScript) - about VBScript
 
