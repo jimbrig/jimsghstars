@@ -184,7 +184,6 @@
 - [gaze9999/Windows10_AutoUnattend](https://github.com/gaze9999/Windows10_AutoUnattend) - For my Windows 10 USB installer automation
 - [stayboogy/Windows_Stuff](https://github.com/stayboogy/Windows_Stuff) - Windows Stuff I use from time to time, for archiving purposes
 - [stayboogy/WindowsProfileSync](https://github.com/stayboogy/WindowsProfileSync) - backup script for Windows' Users' files
-- [ivayloivanov8/path-reset](https://github.com/ivayloivanov8/path-reset) - Batch files that resets default path of main folder in windows like downloads, videos, pictures, desktop, etc.
 - [ChrisTitusTech/windows-lite-2004](https://github.com/ChrisTitusTech/windows-lite-2004) - AME scripts
 - [jpedrodsp/windows-quick-tools](https://github.com/jpedrodsp/windows-quick-tools) - A collection of Windows batches to setup a system, install tools and quickstart a development environment.
 - [ArtanisInc/Post-Tweaks](https://github.com/ArtanisInc/Post-Tweaks) - A post-installation batch script for Windows
@@ -366,6 +365,7 @@
 
 ## C# # 
 
+- [aws/aws-tools-for-powershell](https://github.com/aws/aws-tools-for-powershell) - The AWS Tools for PowerShell lets developers and administrators manage their AWS services from the PowerShell scripting environment.
 - [microsoft/PartsUnlimited](https://github.com/microsoft/PartsUnlimited) - .Net Core + SQL Azure app for DevOps Scenarios
 - [Azure-Samples/openhack-devops-team](https://github.com/Azure-Samples/openhack-devops-team) - DevOps OpenHack Team environment APIs
 - [PowerShell/SecretManagement](https://github.com/PowerShell/SecretManagement) - PowerShell module to consistent usage of secrets through different extension vaults
@@ -914,6 +914,8 @@
 
 ## Dockerfile 
 
+- [analythium/shinyproxy-demo](https://github.com/analythium/shinyproxy-demo) - ShinyProxy Demo Image
+- [devopsjourney1/devops-project2021](https://github.com/devopsjourney1/devops-project2021) - Learn Vagrant, ANsible, Docker, DockerSwarm
 - [rocker-org/rocker-versioned](https://github.com/rocker-org/rocker-versioned) - Run current & prior versions of R using docker
 - [mages/docker-reserving](https://github.com/mages/docker-reserving) - Dockerfiles with rstan, brms and ChainLadder
 - [fdrennan/renvironments](https://github.com/fdrennan/renvironments) - The Way I R
@@ -1018,6 +1020,10 @@
 
 ## Go 
 
+- [christian-korneck/docker-pushrm](https://github.com/christian-korneck/docker-pushrm) - "Docker Push Readme" - a Docker CLI plugin to update container repo docs
+- [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe is a CLI tool which provides the ability to send messages or alerts to multiple messaging platforms & email.
+- [msoap/shell2http](https://github.com/msoap/shell2http) - Executing shell commands via HTTP server
+- [snwfdhmp/simplehttp](https://github.com/snwfdhmp/simplehttp) - Pretty simple and lightweight http server for serving local files.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager
 - [wayanjimmy/searchmymind](https://github.com/wayanjimmy/searchmymind) - Search my mind
 - [opsgenie/kubernetes-event-exporter](https://github.com/opsgenie/kubernetes-event-exporter) - Export Kubernetes events to multiple destinations with routing and filtering
@@ -1818,6 +1824,14 @@
 
 ## JavaScript 
 
+- [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
+- [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
+- [TejasQ/add-gitignore](https://github.com/TejasQ/add-gitignore) - An interactive CLI tool that adds a .gitignore to your projects.
+- [alexfernandez/loadtest](https://github.com/alexfernandez/loadtest) - Runs a load test on the selected URL. Easy to extend minimally for your own ends.
+- [sindresorhus/pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots
+- [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
+- [lirantal/npq](https://github.com/lirantal/npq) - 🎖safely* install packages with npm or yarn by auditing them as part of your install process
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 - [igorlogius/copyTabAsLink](https://github.com/igorlogius/copyTabAsLink) - 
 - [r-hub/actions](https://github.com/r-hub/actions) - GitHub Actions for R-hub
 - [mrmartineau/notes.zander.wtf](https://github.com/mrmartineau/notes.zander.wtf) - Notes on code. My memory bank.
@@ -1862,7 +1876,7 @@
 - [majidsajadi/paperboard](https://github.com/majidsajadi/paperboard) - Paperboard, is a cli application for managing a reading list of bookmarks from the Internet.
 - [philipszdavido/contact-manager](https://github.com/philipszdavido/contact-manager) - A command-line Node.js app powered by TypeScript, Google Cloud Functions and Firebase for managing contacts
 - [SanctumLabs/contact-manager-cli](https://github.com/SanctumLabs/contact-manager-cli) - Manage your contacts from your command line
-- [djhmateer/osr4rights-tools](https://github.com/djhmateer/osr4rights-tools) - A set of open source tools for human rights investigators
+- [osr4rightstools/osr4rights-tools](https://github.com/osr4rightstools/osr4rights-tools) - A set of open source tools for human rights investigators
 - [felixrieseberg/electron-windows-store](https://github.com/felixrieseberg/electron-windows-store) - :package: Turn Electron Apps into Windows AppX Packages
 - [jrgarciadev/dev-cover](https://github.com/jrgarciadev/dev-cover) - 🌐 Get and publish your developer portfolio with just your username
 - [markshust/Build-Release-and-Run-Containers-with-Docker-Compose](https://github.com/markshust/Build-Release-and-Run-Containers-with-Docker-Compose) - 
@@ -2917,6 +2931,8 @@
 
 ## Others 
 
+- [Ljupch0/yfinance_showcase](https://github.com/Ljupch0/yfinance_showcase) - Some examples of using yfinance for tidy financial analysis.
+- [amio/awesome-micro](https://github.com/amio/awesome-micro) - A collection of awesome things regarding zeit's micro.
 - [dslp/dslp](https://github.com/dslp/dslp) - The Data Science Lifecycle Process is a process for taking data science teams from Idea to Value repeatedly and sustainably. The process is documented in this repo.
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer Road Map. Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you'd like to add.
@@ -2994,7 +3010,7 @@
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
 - [limetext/lime](https://github.com/limetext/lime) - Open source API-compatible alternative to the text editor Sublime Text
 - [hannesknutsson/BultiMoot](https://github.com/hannesknutsson/BultiMoot) - A collection of scripts and configurations for setting up a storage device for live booting and installing multiple different operating systems from ISO-files.
-- [luzeadev/microsoft-download-link-archive](https://github.com/luzeadev/microsoft-download-link-archive) - Archive of various Microsoft Download Links.
+- [luzea-archive/microsoft-download-link-archive](https://github.com/luzea-archive/microsoft-download-link-archive) - Archive of various Microsoft Download Links.
 - [ivansandrk/multi-apps](https://github.com/ivansandrk/multi-apps) - Repository hosting the feature explainer
 - [philloooo/pwa-unique-id](https://github.com/philloooo/pwa-unique-id) - 
 - [shahedbd/awesome-project-management](https://github.com/shahedbd/awesome-project-management) - Awesome lists about Project Management interesting and useful topics.
@@ -3619,7 +3635,7 @@
 - [herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
 - [neiesc/awesome-minimalist](https://github.com/neiesc/awesome-minimalist) - A curated list of awesome minimalist frameworks (simple and lightweight).
 - [sindresorhus/promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
-- [juliandavidmr/awesome-nestjs](https://github.com/juliandavidmr/awesome-nestjs) - 😏 Curated list of NestJS
+- [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs) - 😏 Curated list of NestJS
 - [onqtam/awesome-cmake](https://github.com/onqtam/awesome-cmake) - A curated list of awesome CMake resources, scripts, modules and examples.
 - [secfigo/Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) - A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis.
 - [nuxt-community/awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) - A curated list of awesome things related to Nuxt.js
@@ -3925,6 +3941,8 @@
 
 ## PowerShell 
 
+- [devopsjourney1/iperf-speedtest](https://github.com/devopsjourney1/iperf-speedtest) - easy to use iperf test
+- [devopsjourney1/packer-windows](https://github.com/devopsjourney1/packer-windows) - This repository contains Windows templates that can be used to create boxes for Vagrant using Packer.
 - [kristofferandreasen/awesome-azure](https://github.com/kristofferandreasen/awesome-azure) - A Curated List of Azure Resources. The list provides you with enough resources to get a full overview of the services in Azure and get started with cloud computing.
 - [MicrosoftDocs/sql-docs](https://github.com/MicrosoftDocs/sql-docs) - Technical documentation for Microsoft SQL Server, tools such as SQL Server Management Studio (SSMS) ,  SQL Server Data Tools (SSDT) etc.
 - [MicrosoftDocs/cloud-adoption-framework](https://github.com/MicrosoftDocs/cloud-adoption-framework) - Cloud Adoption Framework
@@ -4072,7 +4090,7 @@
 - [arcadesdude/BRU](https://github.com/arcadesdude/BRU) - Bloatware Removal Utility, for automating removal of pre-installed, factory bloatware from devices running Windows 7-10 and newer. Silently removes items selected if possible. Preselects common bloatware. Can remove Win10 UWP/Metro/Modern/Windows Store apps and provisioned apps.
 - [TomTucka/Windows-Setup](https://github.com/TomTucka/Windows-Setup) - Setup scripts for Windows
 - [poshsecurity/Pipeline-My-Dev-Machine](https://github.com/poshsecurity/Pipeline-My-Dev-Machine) - Using Azure Pipelines to manage your own PC
-- [torbenmoeller/setup-scripts](https://github.com/torbenmoeller/setup-scripts) - 
+- [torbenmoeller/setup-scripts](https://github.com/torbenmoeller/setup-scripts) - Jump start your windows setup or: Install Chrome without using the Internet Explorer
 - [mackilinen/mackilinen](https://github.com/mackilinen/mackilinen) - 
 - [builders-club/devtoolbox](https://github.com/builders-club/devtoolbox) - A PowerShell module that enables software developers to speed up their CLI workflow.
 - [MattiasC85/Scripts](https://github.com/MattiasC85/Scripts) - A mix of scripts/tools I've made, put together or simply found online
@@ -4412,6 +4430,11 @@
 
 ## Python 
 
+- [googlecolab/colabtools](https://github.com/googlecolab/colabtools) - Python libraries for Google Colaboratory
+- [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
+- [axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
+- [shekhargulati/python-flask-docker-hello-world](https://github.com/shekhargulati/python-flask-docker-hello-world) - Hello world Python Flask application Dockerized
+- [aws-samples/aws-secrets-manager-rotation-lambdas](https://github.com/aws-samples/aws-secrets-manager-rotation-lambdas) - Contains Lambda functions to be used for automatic rotation of secrets stored in AWS Secrets Manager
 - [dslp/dslp-repo-template](https://github.com/dslp/dslp-repo-template) - Template repository for data science lifecycle project
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
@@ -4435,7 +4458,7 @@
 - [casact/FASLR](https://github.com/casact/FASLR) - Free Actuarial System for Loss Reserving
 - [fumitoh/modelx](https://github.com/fumitoh/modelx) - Use Python like a spreadsheet!
 - [fladi/django-github-webhook](https://github.com/fladi/django-github-webhook) - Django view for GitHub webhook receivers
-- [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - 
+- [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
 - [canonical/ubuntu-wsl-oobe](https://github.com/canonical/ubuntu-wsl-oobe) - Ubuntu WSL Onboarding Experience
 - [canonical/cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
 - [canonical/ubuntu-wsl-integration](https://github.com/canonical/ubuntu-wsl-integration) - Ubuntu WSL Integrations
@@ -4856,6 +4879,19 @@
 
 ## R 
 
+- [RichardHooijmaijers/nlmixr.docker](https://github.com/RichardHooijmaijers/nlmixr.docker) - docker for nlmixr
+- [analythium/app-platform-shiny](https://github.com/analythium/app-platform-shiny) - DigitalOcean App Platform Example for Shiny
+- [analythium/app-platform-gh-actions](https://github.com/analythium/app-platform-gh-actions) - Integrate DigitalOcean App Platform with GitHub Actions in a tru CICD fashion
+- [analythium/shiny-correlation](https://github.com/analythium/shiny-correlation) - Containerized Shiny app with multiple versions
+- [xmc811/ShinyProxy-template](https://github.com/xmc811/ShinyProxy-template) - Examples for R Shiny app + docker + ShinyProxy deployment
+- [nolis-llc/r-api-tutorial](https://github.com/nolis-llc/r-api-tutorial) - An example of using plumber and docker to create an API around a model
+- [AEADataEditor/docker-r-starter](https://github.com/AEADataEditor/docker-r-starter) - This repo provides instructions on how to build an R docker image that can serve as the basis for interactive or automated reproducible processing
+- [jonathanbratt/lifecalendar](https://github.com/jonathanbratt/lifecalendar) - Create a customized life calendar
+- [jonathanbratt/RBERTviz](https://github.com/jonathanbratt/RBERTviz) - Visualization tools to use with RBERT
+- [Ljupch0/yfinance](https://github.com/Ljupch0/yfinance) - Tidy Financial Statement Data in R. Via the Yahoo Finance API.
+- [Ljupch0/IncomeStat](https://github.com/Ljupch0/IncomeStat) - A shiny app that generates Income Statements for any stock, using an Excel template.
+- [anastasia-lucas/rladies_shinydashboards](https://github.com/anastasia-lucas/rladies_shinydashboards) - Shiny Dashboards Workshop for R-Ladies Philly
+- [datasketch/rladies-stl-personalized-shiny-apps](https://github.com/datasketch/rladies-stl-personalized-shiny-apps) - 2020-01-19 RLadies STL workshop by jpmarindiaz
 - [JSchelldorfer/DeepLearningWithActuarialApplications](https://github.com/JSchelldorfer/DeepLearningWithActuarialApplications) - Material for the 2-day block course "Deep Learning with Actuarial Applications in R"
 - [davidski/msgraphr](https://github.com/davidski/msgraphr) - 📇Read Office 365 data via the MS Graph API and R
 - [davidski/collector](https://github.com/davidski/collector) - ⚖Open Source Toolkit for Conducting Quantitative Risk Assessment Interviews
@@ -7624,12 +7660,13 @@
 
 ## Rust 
 
+- [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [ChristopherBiscardi/windows-screen-capture](https://github.com/ChristopherBiscardi/windows-screen-capture) - 
 - [ChristopherBiscardi/yarn-get-dep](https://github.com/ChristopherBiscardi/yarn-get-dep) - 
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud is a universal host runtime for actors built with WebAssembly and capability providers
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
-- [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for the Windows SDK
+- [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Windows SDK for Rust
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [stepchowfun/docuum](https://github.com/stepchowfun/docuum) - Docuum performs least recently used (LRU) eviction of Docker images. 🗑️
 - [stepchowfun/toast](https://github.com/stepchowfun/toast) - Containerize your development and continuous integration environments. 🥂
@@ -7763,6 +7800,7 @@
 
 ## Shell 
 
+- [analythium/shinyproxy-1-click](https://github.com/analythium/shinyproxy-1-click) - ShinyProxy 1-Click App
 - [mkell43/a-hoarders-notes](https://github.com/mkell43/a-hoarders-notes) - My stash of information.
 - [elsenm/digital-garden](https://github.com/elsenm/digital-garden) - 🌱 My personal homegrown digital garden
 - [thomvaill/Makedockfile](https://github.com/thomvaill/Makedockfile) - A simple Makefile to build your Docker images 👌
@@ -8209,7 +8247,6 @@
 - [GDSL-UL/the_knowledge](https://github.com/GDSL-UL/the_knowledge) - A Repo of things GDSLers Should Know....
 - [jeroen/RAppArmor](https://github.com/jeroen/RAppArmor) - R interfaces to Linux and AppArmor security methods
 - [ismayc/thesisdown](https://github.com/ismayc/thesisdown) - An updated R Markdown thesis template using the bookdown package
-- [rr-mrc-bsu/reproducible-research](https://github.com/rr-mrc-bsu/reproducible-research) - The most recent build from master is available at:
 - [cderv/knitr-examples](https://github.com/cderv/knitr-examples) - a collection of knitr examples
 - [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
 - [cole-brokamp/colebrokamp.com](https://github.com/cole-brokamp/colebrokamp.com) - 
@@ -8271,6 +8308,7 @@
 
 ## TypeScript 
 
+- [preconstruct/preconstruct](https://github.com/preconstruct/preconstruct) - 🎁 Dev and build your code painlessly in monorepos
 - [churichard/notabase](https://github.com/churichard/notabase) - A personal knowledge base for networked thinking.
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
 - [mrmartineau/design-system-utils](https://github.com/mrmartineau/design-system-utils) - 👩‍🎨 Access your design tokens with ease
