@@ -161,7 +161,6 @@
 - [Digressive/MDT-Files](https://github.com/Digressive/MDT-Files) - Files for Microsoft Deployment Toolkit
 - [balsamleti/speedup-windows10](https://github.com/balsamleti/speedup-windows10) - The following batch files are included in the archive 1) Advanced Explorer Settings — This changes more than a dozen File Explorer related settings on Windows 10 that turn of animations, enable menus, or turn off things like Toasts. 2) Disable Automatic App Updates — Turns off automatic updates for Windows Store applications. 3) Disable Automatic Windows Updates — Turns off automatic updates for the Windows 10 operating system itself. 4) Disable Cortana Completely — Rename the cortana process searchUI.exe to searchUI.bak. This will kill the process permanetly and save your ressources. 5) Disable Forced Reboot after Update — Blocks Windows from enforcing a reboot after updates that require one. 6) Disable Lockscreen — Turns off the Windows 10 lockscreen. 7) Disable Telemetry — Turns off Windows 10 Telemetry. 8) Disable Unnecessary Services — This disables the MapsBroker, DoSvc and Wsearch services 9) Enable Defender Malware Protection —   Enables Windows malware Protection. 10)Enable Secure Microsoft Edge Settings — Tweaks Microsoft Edge for security. Changes include turning of Flash and Cortana, enabling continuous browsing, and more. 11)Get Back Old Vertical Desktop Icon Distance —  Changes the vertical icon spacing on the desktop. 12)Hide Cortana — Disables Cortana, and with it web searches and other search related parameters. The Microsoft way of disabling Cortana. 13)Hide OneDrive — Hides OneDrive and disables several related settings. 14)Re-enable Cortana Completely — This preferences turns Cortana on again. 15)Uninstall Unnecessary Apps — Removes ten apps that Windows 10 ships with including 3D Builder, Skype App, Getting Started, or Voice Recorder. 16)Enable Administrator Account — This preference enables the hidden administrator account in Windows. 17)Enable Standby instead of Hibernate — Switch powerstate from hibernation (slow) to standby . 18)Get apps access for Administrator Account — Enable access to applications for the administrator account.
 - [und6ne/win11Patcher](https://github.com/und6ne/win11Patcher) - FOSS Patcher in Batchfile for Windows Users to bypass Windows 11 Restrictions - Unfinished
-- [uranaaracci/windows11](https://github.com/uranaaracci/windows11) - 
 - [TheWorldOfPC/Windows11-Debloat-Privacy-Guide](https://github.com/TheWorldOfPC/Windows11-Debloat-Privacy-Guide) - 
 - [kyaulabs/win11tweak](https://github.com/kyaulabs/win11tweak) - An automated way to setup/configure Windows 11 based heavily on post-installation tweaks.
 - [ChrisTitusTech/win10RegistryBackup](https://github.com/ChrisTitusTech/win10RegistryBackup) - 
@@ -1162,7 +1161,7 @@
 - [github-release/github-release](https://github.com/github-release/github-release) - Commandline app to create and edit releases on Github (and upload artifacts)
 - [tj/triage](https://github.com/tj/triage) - Interactive command-line GitHub issue & notification triaging tool.
 - [windler/ws](https://github.com/windler/ws) - cli app to list your workspaces, git branch info and custom information
-- [depscloud/depscloud](https://github.com/depscloud/depscloud) - Track, monitor, and connect project dependencies
+- [depscloud/depscloud](https://github.com/depscloud/depscloud) - Index and query dependencies
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [adelowo/onecache](https://github.com/adelowo/onecache) - One caching API, Multiple backends
 - [e-dard/netbug](https://github.com/e-dard/netbug) - Package netbug provides a handler for registering profilers on your own ServeMux.
@@ -1300,6 +1299,7 @@
 
 ## HTML 
 
+- [imzjy/MyDiffTool](https://github.com/imzjy/MyDiffTool) - The missing comparing text tool for Mac, Windows and Linux.
 - [sdcastillo/PA-R-Study-Manual](https://github.com/sdcastillo/PA-R-Study-Manual) - An online study guide for the SOA's predictive analytics exam.
 - [r-spatial/r-spatial.org](https://github.com/r-spatial/r-spatial.org) - r-spatial.org blog sources
 - [jimdevops19/FlaskSeries](https://github.com/jimdevops19/FlaskSeries) - This is the Code from my Flask Series - JimShapedCoding. Each Folder is a checkpoint where we stopped at that particular episode number
@@ -1804,7 +1804,7 @@
 - [fwcd/timetable](https://github.com/fwcd/timetable) - Calendar and task management application
 - [thfreud/actuarialcalculator](https://github.com/thfreud/actuarialcalculator) - A simple mathematical software application for life insurance and annuities.
 - [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development
-- [warmuuh/milkman](https://github.com/warmuuh/milkman) - 
+- [warmuuh/milkman](https://github.com/warmuuh/milkman) - An Extensible Request/Response Workbench
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [brianspinos777/Programming_cheat_sheets](https://github.com/brianspinos777/Programming_cheat_sheets) - notes and tutorials
 - [Vedenin/useful-java-links](https://github.com/Vedenin/useful-java-links) - A list of useful Java frameworks, libraries, software and hello worlds examples
@@ -1824,6 +1824,7 @@
 
 ## JavaScript 
 
+- [trembacz/diff-checker](https://github.com/trembacz/diff-checker) - Desktop application to compare text differences between two files (Windows, Mac, Linux)
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
 - [TejasQ/add-gitignore](https://github.com/TejasQ/add-gitignore) - An interactive CLI tool that adds a .gitignore to your projects.
@@ -2205,7 +2206,7 @@
 - [abhisheknaiidu/todoist-readme](https://github.com/abhisheknaiidu/todoist-readme) - 🚧 Updates README with Todoist Stats of a user
 - [pegaltier/awesome-utils-dev](https://github.com/pegaltier/awesome-utils-dev) - 📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...
 - [agnitas-org/openemm](https://github.com/agnitas-org/openemm) - Web-based software for email automation and marketing (newsletters, mutli-stage mail campaigns, transaction mails, autoresponder, etc.)
-- [awslabs/serverless-image-handler](https://github.com/awslabs/serverless-image-handler) - A solution to dynamically handle images on the fly, utilizing SharpJS
+- [aws-solutions/serverless-image-handler](https://github.com/aws-solutions/serverless-image-handler) - A solution to dynamically handle images on the fly, utilizing SharpJS
 - [wouterverweirder/electron-website-downloader](https://github.com/wouterverweirder/electron-website-downloader) - Desktop application to download a website with all of it's internal links and assets to your local machine.
 - [up209d/ResourcesSaverExt](https://github.com/up209d/ResourcesSaverExt) - Chrome Extension for one click downloading all resources files and keeping folder structures.
 - [jbkunst/highcharts-themes-collection](https://github.com/jbkunst/highcharts-themes-collection) - Highcharts themes collection
@@ -3042,7 +3043,7 @@
 - [iidanL/Fido](https://github.com/iidanL/Fido) - A PowerShell script to download Windows retail ISOs
 - [jonashackt/ansible-windows-springboot](https://github.com/jonashackt/ansible-windows-springboot) - Example project showing how to provision, deploy and run a Spring Boot app as a Windows Service using Ansible, chocolatey & nssm
 - [nukexls/Softexe.net](https://github.com/nukexls/Softexe.net) - 
-- [NerdMove/clean-experience](https://github.com/NerdMove/clean-experience) - A non-destructive registry preset to improve the default user-experience with windows 10.
+- [NerdMove/Windows11-betterUX](https://github.com/NerdMove/Windows11-betterUX) - A non-destructive registry preset to improve the default user-experience with windows 10.
 - [RobertoBiundo/Windows10Lite](https://github.com/RobertoBiundo/Windows10Lite) - A guide to create a Windows 10 Install ISO with no bloatware
 - [jahwi/Articles](https://github.com/jahwi/Articles) - A collection of articles written by me.
 - [Twigonometry/Cybersecurity-Notes](https://github.com/Twigonometry/Cybersecurity-Notes) - My Markdown notes for all things cybersecurity
@@ -3923,6 +3924,7 @@
 
 ## Pascal 
 
+- [delphidabbler/bdiff](https://github.com/delphidabbler/bdiff) - Binary diff and patch programs for the Windows command line
 - [miracle2k/ntfslink](https://github.com/miracle2k/ntfslink) - A set of Windows Shell Extensions, providing extended functionality for creating and using hard links and junction points on NTFS file systems.
 - [jrsoftware/issrc](https://github.com/jrsoftware/issrc) - Inno Setup is a free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.
 
@@ -3941,6 +3943,7 @@
 
 ## PowerShell 
 
+- [MScholtes/PS2EXE](https://github.com/MScholtes/PS2EXE) - Module to compile powershell scripts to executables
 - [devopsjourney1/iperf-speedtest](https://github.com/devopsjourney1/iperf-speedtest) - easy to use iperf test
 - [devopsjourney1/packer-windows](https://github.com/devopsjourney1/packer-windows) - This repository contains Windows templates that can be used to create boxes for Vagrant using Packer.
 - [kristofferandreasen/awesome-azure](https://github.com/kristofferandreasen/awesome-azure) - A Curated List of Azure Resources. The list provides you with enough resources to get a full overview of the services in Azure and get started with cloud computing.
@@ -3981,7 +3984,7 @@
 - [BlueGuyYT/Windows-11-Debloater](https://github.com/BlueGuyYT/Windows-11-Debloater) - Simple Windows 11 Debloater
 - [ixi-your-face/Useful-Windows-11-Scripts](https://github.com/ixi-your-face/Useful-Windows-11-Scripts) - Repo to store some useful Windows 11 scripts and documentation
 - [WinTweakers/WindowsToolbox](https://github.com/WinTweakers/WindowsToolbox) - A powerful but simple, easy to use toolbox for Windows 10 / 11.
-- [JosephM101/Force-Windows-11-Install](https://github.com/JosephM101/Force-Windows-11-Install) - Creates a hybrid ISO image that houses the Windows 11 install files in a Windows 10 installer image to bypass the TPM and Secure Boot install-time requirements.
+- [JosephM101/Force-Windows-11-Install](https://github.com/JosephM101/Force-Windows-11-Install) - Modifies Windows 11 installation ISO to bypass compatibility checks both pre and post installation
 - [Damokless/Windows11-Optimization](https://github.com/Damokless/Windows11-Optimization) - Community repository, to improve security and performance of Windows 10/11 with tweaks, commands, scripts, registry keys, configuration, tutorials and more
 - [JMOrbegoso/Dotfiles-for-Windows-11](https://github.com/JMOrbegoso/Dotfiles-for-Windows-11) - Dotfiles script to setup a development environment in Microsoft Windows 11.
 - [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) - For those who seek to minimize their Windows 10 installs.
@@ -4879,6 +4882,7 @@
 
 ## R 
 
+- [anudeep-reddy/Problem1](https://github.com/anudeep-reddy/Problem1) - Problem 1: Building a Shiny App around the UDPipe NLP workflow
 - [RichardHooijmaijers/nlmixr.docker](https://github.com/RichardHooijmaijers/nlmixr.docker) - docker for nlmixr
 - [analythium/app-platform-shiny](https://github.com/analythium/app-platform-shiny) - DigitalOcean App Platform Example for Shiny
 - [analythium/app-platform-gh-actions](https://github.com/analythium/app-platform-gh-actions) - Integrate DigitalOcean App Platform with GitHub Actions in a tru CICD fashion
