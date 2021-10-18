@@ -364,6 +364,10 @@
 
 ## C# # 
 
+- [GitTools/build-images](https://github.com/GitTools/build-images) - Docker build images for GitVersion
+- [microsoft/solution-accelerator-containerized-store](https://github.com/microsoft/solution-accelerator-containerized-store) - This accelerator was built to provide developers with all of the resources needed to quickly build a vending kiosk prototype with Azure Custom Vision. Use this accelerator to jump start your development efforts with your own data or as a learning tool to better understand how Custom Vision AI can be transformative for frictionless inventory.
+- [Azure-Samples/cdm-azure-data-services-integration](https://github.com/Azure-Samples/cdm-azure-data-services-integration) - Tutorials and sample code for integrating CDM folders with Azure Data Services
+- [Azure-Samples/active-directory-dotnetcore-devicecodeflow-v2](https://github.com/Azure-Samples/active-directory-dotnetcore-devicecodeflow-v2) - .NET Core console application letting a user acquire a token for the Microsoft Graph by signing in through another device having a Web browser, with the Azure AD v2.0 endpoint
 - [microsoft/PTVS](https://github.com/microsoft/PTVS) - Python Tools for Visual Studio
 - [aws/aws-tools-for-powershell](https://github.com/aws/aws-tools-for-powershell) - The AWS Tools for PowerShell lets developers and administrators manage their AWS services from the PowerShell scripting environment.
 - [microsoft/PartsUnlimited](https://github.com/microsoft/PartsUnlimited) - .Net Core + SQL Azure app for DevOps Scenarios
@@ -1825,6 +1829,8 @@
 
 ## JavaScript 
 
+- [sienori/Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager) - WebExtensions for restoring and saving window / tab states
+- [Azure-Samples/active-directory-dotnet-admin-restricted-scopes-v2](https://github.com/Azure-Samples/active-directory-dotnet-admin-restricted-scopes-v2) - An ASP.NET MVC application that shows how to use the Azure AD v2.0 endpoint to collect consent for permissions that require administrative consent.
 - [trembacz/diff-checker](https://github.com/trembacz/diff-checker) - Desktop application to compare text differences between two files (Windows, Mac, Linux)
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
@@ -2638,7 +2644,7 @@
 - [nstrayer/js4shiny_r2d3](https://github.com/nstrayer/js4shiny_r2d3) - Repo for R2D3 section at the javascript for shiny users workshop at RStudio::Conf 2020
 - [6pac/SlickGrid](https://github.com/6pac/SlickGrid) - A lightning fast JavaScript grid/spreadsheet
 - [mleibman/SlickGrid](https://github.com/mleibman/SlickGrid) - A lightning fast JavaScript grid/spreadsheet
-- [dipterix/dipsaus](https://github.com/dipterix/dipsaus) - Dev repo for R package dipsaus
+- [dipterix/dipsaus](https://github.com/dipterix/dipsaus) - My personal toolbox, R package dipsaus, feel free to copy them
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [g2inR/g2r](https://github.com/g2inR/g2r) - experiments with R and g2
 - [JohnCoene/shinytitle](https://github.com/JohnCoene/shinytitle) - Dynamically update shiny page title
@@ -2826,7 +2832,7 @@
 
 ## Logos 
 
-- [schneelittchen/Diary](https://github.com/schneelittchen/Diary) - Windows 10/11 lock screen replica
+- [auriliasleep/Diary](https://github.com/auriliasleep/Diary) - Windows 10/11 lock screen replica
 
 ## Lua 
 
@@ -2933,6 +2939,10 @@
 
 ## Others 
 
+- [jimbrig/tools](https://github.com/jimbrig/tools) - ~/tools 🔨
+- [davotronic5000/CustomScripts](https://github.com/davotronic5000/CustomScripts) - 
+- [jimsforks/azure-docs-powershell-samples](https://github.com/jimsforks/azure-docs-powershell-samples) - Azure Powershell code samples, often used in docs.microsoft.com/Azure developer documentation
+- [microsoft/MicrosoftDefenderForEndpoint-API-PowerShell](https://github.com/microsoft/MicrosoftDefenderForEndpoint-API-PowerShell) - This project contains samples how to use MDATP API for integration with other systems and products
 - [jimbrig/dotfiles-work](https://github.com/jimbrig/dotfiles-work) - Work Laptop Dotfiles and Configurations
 - [federico-terzi/espanso-package-example](https://github.com/federico-terzi/espanso-package-example) - An example on how to create an espanso package
 - [Ljupch0/yfinance_showcase](https://github.com/Ljupch0/yfinance_showcase) - Some examples of using yfinance for tidy financial analysis.
@@ -3421,7 +3431,7 @@
 - [casact/meta](https://github.com/casact/meta) - Information about the CAS organizational account
 - [robbie-sp/IndClaimDev](https://github.com/robbie-sp/IndClaimDev) - Individual Claim Development Model for General (P&C) Insurance Claims
 - [genedan/actuarial-foss](https://github.com/genedan/actuarial-foss) - A curated list of free and open source actuarial software
-- [DenverCoder1/DenverCoder1](https://github.com/DenverCoder1/DenverCoder1) - Profile README for DenverCoder1
+- [DenverCoder1/DenverCoder1](https://github.com/DenverCoder1/DenverCoder1) - Jonah Lawrence's Profile README
 - [jimbrig/jimbrig](https://github.com/jimbrig/jimbrig) - Github Homepage
 - [kissgyorgy/my-stars](https://github.com/kissgyorgy/my-stars) - My GitHub starred repositories
 - [chinanf-boy/awesome-stars](https://github.com/chinanf-boy/awesome-stars) - A curated list of my GitHub stars!
@@ -3946,6 +3956,18 @@
 
 ## PowerShell 
 
+- [nightroman/Invoke-Build](https://github.com/nightroman/Invoke-Build) - Build Automation in PowerShell
+- [davotronic5000/PoSh_Reddit](https://github.com/davotronic5000/PoSh_Reddit) - A Reddit Module for PowerShell
+- [TobiasPSP/Modules.DeviceManagement](https://github.com/TobiasPSP/Modules.DeviceManagement) - PowerShell module to manage devices and drivers
+- [Azure/azure-docs-powershell-samples](https://github.com/Azure/azure-docs-powershell-samples) - Azure Powershell code samples, often used in docs.microsoft.com/Azure developer documentation
+- [Azure-Samples/serverless-data-processing](https://github.com/Azure-Samples/serverless-data-processing) - Use the different Serverless Services on Azure to process data from a streaming source
+- [Azure-Samples/ms-identity-python-desktop](https://github.com/Azure-Samples/ms-identity-python-desktop) - A Python desktop application calling Microsoft Graph API
+- [Azure-Samples/azure-search-powershell-samples](https://github.com/Azure-Samples/azure-search-powershell-samples) - Azure Search Powershell sample code
+- [OfficeDev/Project-REST-Basic-Operations](https://github.com/OfficeDev/Project-REST-Basic-Operations) - This Project Online sample code demonstrates how to create and update a project using REST
+- [Azure-Samples/Hybrid-PowerShell-Samples](https://github.com/Azure-Samples/Hybrid-PowerShell-Samples) - Getting started with compute- manage virtual machines using nodejs
+- [Azure-Samples/DSRegTool](https://github.com/Azure-Samples/DSRegTool) - 
+- [OfficeDev/O365-ActivityFeed-AzureFunction](https://github.com/OfficeDev/O365-ActivityFeed-AzureFunction) - Azure function that processes incoming notifications from the O365 Activity API
+- [kubernetes-sigs/sig-windows-tools](https://github.com/kubernetes-sigs/sig-windows-tools) - Repository for tools and artifacts related to the sig-windows charter in Kubernetes. Scripts to assist kubeadm and wincat and flannel will be hosted here.
 - [MScholtes/PS2EXE](https://github.com/MScholtes/PS2EXE) - Module to compile powershell scripts to executables
 - [devopsjourney1/iperf-speedtest](https://github.com/devopsjourney1/iperf-speedtest) - easy to use iperf test
 - [devopsjourney1/packer-windows](https://github.com/devopsjourney1/packer-windows) - This repository contains Windows templates that can be used to create boxes for Vagrant using Packer.
@@ -7667,6 +7689,7 @@
 
 ## Rust 
 
+- [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [ChristopherBiscardi/windows-screen-capture](https://github.com/ChristopherBiscardi/windows-screen-capture) - 
 - [ChristopherBiscardi/yarn-get-dep](https://github.com/ChristopherBiscardi/yarn-get-dep) - 
@@ -7807,6 +7830,10 @@
 
 ## Shell 
 
+- [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, sway, kitty, kakoune, zsh and more + scripted installation guide
+- [zainfathoni/dotfiles](https://github.com/zainfathoni/dotfiles) - My personal dotfiles • powered by yadm & zinit
+- [avinal/github-pages-deploy-action](https://github.com/avinal/github-pages-deploy-action) - Github Pages Deploy Action for Documentation and Static Site Generators
+- [Azure-Samples/compute-automation-configurations](https://github.com/Azure-Samples/compute-automation-configurations) - Supporting configuration examples for docs.microsoft.com articles that show how to automate Azure VM and VMSS deployments
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [analythium/shinyproxy-1-click](https://github.com/analythium/shinyproxy-1-click) - ShinyProxy 1-Click App
 - [mkell43/a-hoarders-notes](https://github.com/mkell43/a-hoarders-notes) - My stash of information.
@@ -8316,6 +8343,8 @@
 
 ## TypeScript 
 
+- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - :octocat: GitHub Action to easily import a GPG key
+- [GitTools/actions](https://github.com/GitTools/actions) - GitHub Action that installs and uses the GitVersion and GitReleaseManager tools
 - [preconstruct/preconstruct](https://github.com/preconstruct/preconstruct) - 🎁 Dev and build your code painlessly in monorepos
 - [churichard/notabase](https://github.com/churichard/notabase) - A personal knowledge base for networked thinking.
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
@@ -8676,6 +8705,7 @@
 
 ## Vim script 
 
+- [naggie/dotfiles](https://github.com/naggie/dotfiles) - Workstation configuration, provisioning and tools
 - [svermeulen/vim-subversive](https://github.com/svermeulen/vim-subversive) - Vim plugin providing operator motions to quickly replace text
 - [tweekmonster/startuptime.vim](https://github.com/tweekmonster/startuptime.vim) - Breakdown Vim's --startuptime output
 - [wuelnerdotexe/vim-enfocado](https://github.com/wuelnerdotexe/vim-enfocado) - How the themes should be.
