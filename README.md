@@ -1304,6 +1304,7 @@
 
 ## HTML 
 
+- [corpsgeek/flask-form-handling](https://github.com/corpsgeek/flask-form-handling) - 
 - [imzjy/MyDiffTool](https://github.com/imzjy/MyDiffTool) - The missing comparing text tool for Mac, Windows and Linux.
 - [sdcastillo/PA-R-Study-Manual](https://github.com/sdcastillo/PA-R-Study-Manual) - An online study guide for the SOA's predictive analytics exam.
 - [r-spatial/r-spatial.org](https://github.com/r-spatial/r-spatial.org) - r-spatial.org blog sources
@@ -1829,6 +1830,7 @@
 
 ## JavaScript 
 
+- [rosickey/flask-datatables](https://github.com/rosickey/flask-datatables) - datatables demo in flask
 - [sienori/Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager) - WebExtensions for restoring and saving window / tab states
 - [Azure-Samples/active-directory-dotnet-admin-restricted-scopes-v2](https://github.com/Azure-Samples/active-directory-dotnet-admin-restricted-scopes-v2) - An ASP.NET MVC application that shows how to use the Azure AD v2.0 endpoint to collect consent for permissions that require administrative consent.
 - [trembacz/diff-checker](https://github.com/trembacz/diff-checker) - Desktop application to compare text differences between two files (Windows, Mac, Linux)
@@ -1970,6 +1972,7 @@
 - [stla/shinyToastify](https://github.com/stla/shinyToastify) - A wrapper of the 'React-Toastify' library, for usage in Shiny.
 - [stla/shinyChakraUI](https://github.com/stla/shinyChakraUI) - A wrapper of the React library 'Chakra UI' for usage in Shiny.
 - [clindet/rctl](https://github.com/clindet/rctl) - A set of command line tools based on R and JavaScript.
+- [jimbrig/Engineered-Knowledge](https://github.com/jimbrig/Engineered-Knowledge) - Obsidian Vault
 - [pjeby/hotkey-helper](https://github.com/pjeby/hotkey-helper) - Easily see and access any Obsidian plugin's options pane or hotkey assignments (including conflicts) from the Community Plugins tab
 - [pavel-john/markdown-file-tree](https://github.com/pavel-john/markdown-file-tree) - Generate file-tree in markdown (`_Sidebar.md`) for Github wiki, including links to files.
 - [raindropio/extensions](https://github.com/raindropio/extensions) - Source code of Raindrop.io browser extension (Chrome, Firefox, Opera)
@@ -2765,7 +2768,7 @@
 
 ## Jupyter Notebook 
 
-- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all
+- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [sharmaroshan/Insurance-Claim-Prediction](https://github.com/sharmaroshan/Insurance-Claim-Prediction) - In this Data set we are Predicting the Insurance Claim by each user, Machine Learning algorithms for Regression analysis are used and Data Visualization are also performed to support Analysis.
 - [DeutscheAktuarvereinigung/Data_Science_Challenge_2020_Betrugserkennung](https://github.com/DeutscheAktuarvereinigung/Data_Science_Challenge_2020_Betrugserkennung) - In this notebook we take a look at a relevant project that is frequently encountered by insurers: Fraud Detection. For this purpose we use a car data set from a public source and will show the necessary steps to establish an automated fraud detection.
 - [DeutscheAktuarvereinigung/Mortality_Modeling](https://github.com/DeutscheAktuarvereinigung/Mortality_Modeling) - Multi-Population Mortality Modeling With Neural Networks
@@ -2789,6 +2792,7 @@
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [jananiarunachalam/Data-Science-Portfolio](https://github.com/jananiarunachalam/Data-Science-Portfolio) - Data Science Projects Repository
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
+- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
 - [ankur715/Python_R_BusinessAnalytics](https://github.com/ankur715/Python_R_BusinessAnalytics) - python 101, excel business analytics salesrep, R interface python
 - [marcotcr/checklist](https://github.com/marcotcr/checklist) - Beyond Accuracy: Behavioral Testing of NLP models with CheckList
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
@@ -2943,7 +2947,6 @@
 - [davotronic5000/CustomScripts](https://github.com/davotronic5000/CustomScripts) - 
 - [jimsforks/azure-docs-powershell-samples](https://github.com/jimsforks/azure-docs-powershell-samples) - Azure Powershell code samples, often used in docs.microsoft.com/Azure developer documentation
 - [microsoft/MicrosoftDefenderForEndpoint-API-PowerShell](https://github.com/microsoft/MicrosoftDefenderForEndpoint-API-PowerShell) - This project contains samples how to use MDATP API for integration with other systems and products
-- [jimbrig/dotfiles-work](https://github.com/jimbrig/dotfiles-work) - Work Laptop Dotfiles and Configurations
 - [federico-terzi/espanso-package-example](https://github.com/federico-terzi/espanso-package-example) - An example on how to create an espanso package
 - [Ljupch0/yfinance_showcase](https://github.com/Ljupch0/yfinance_showcase) - Some examples of using yfinance for tidy financial analysis.
 - [amio/awesome-micro](https://github.com/amio/awesome-micro) - A collection of awesome things regarding zeit's micro.
@@ -3649,7 +3652,7 @@
 - [herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
 - [neiesc/awesome-minimalist](https://github.com/neiesc/awesome-minimalist) - A curated list of awesome minimalist frameworks (simple and lightweight).
 - [sindresorhus/promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
-- [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs) - 😏 Curated list of NestJS
+- [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs) - A curated list of awesome things related to NestJS 😎
 - [onqtam/awesome-cmake](https://github.com/onqtam/awesome-cmake) - A curated list of awesome CMake resources, scripts, modules and examples.
 - [secfigo/Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) - A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis.
 - [nuxt-community/awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) - A curated list of awesome things related to Nuxt.js
@@ -3968,6 +3971,7 @@
 - [Azure-Samples/DSRegTool](https://github.com/Azure-Samples/DSRegTool) - 
 - [OfficeDev/O365-ActivityFeed-AzureFunction](https://github.com/OfficeDev/O365-ActivityFeed-AzureFunction) - Azure function that processes incoming notifications from the O365 Activity API
 - [kubernetes-sigs/sig-windows-tools](https://github.com/kubernetes-sigs/sig-windows-tools) - Repository for tools and artifacts related to the sig-windows charter in Kubernetes. Scripts to assist kubeadm and wincat and flannel will be hosted here.
+- [jimbrig/dotfiles-work](https://github.com/jimbrig/dotfiles-work) - Work Laptop Dotfiles and Configurations
 - [MScholtes/PS2EXE](https://github.com/MScholtes/PS2EXE) - Module to compile powershell scripts to executables
 - [devopsjourney1/iperf-speedtest](https://github.com/devopsjourney1/iperf-speedtest) - easy to use iperf test
 - [devopsjourney1/packer-windows](https://github.com/devopsjourney1/packer-windows) - This repository contains Windows templates that can be used to create boxes for Vagrant using Packer.
@@ -4458,6 +4462,13 @@
 
 ## Python 
 
+- [bajcmartinez/flask-api-starter-kit](https://github.com/bajcmartinez/flask-api-starter-kit) - Flask API Starter Kit
+- [talkpython/data-driven-web-apps-with-flask](https://github.com/talkpython/data-driven-web-apps-with-flask) - Course demo code and other hand-out materials for our data-driven web apps in Flask course
+- [dpgaspar/Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome) - http://flaskappbuilder.pythonanywhere.com/
+- [joshfriend/flask-restful-demo](https://github.com/joshfriend/flask-restful-demo) - A simple Flask-RESTful demo application
+- [imooc-course/docker-cloud-flask-demo](https://github.com/imooc-course/docker-cloud-flask-demo) - 
+- [mkleehammer/pyodbc](https://github.com/mkleehammer/pyodbc) - Python ODBC bridge
+- [pallets/flask-sqlalchemy](https://github.com/pallets/flask-sqlalchemy) - Adds SQLAlchemy support to Flask
 - [googlecolab/colabtools](https://github.com/googlecolab/colabtools) - Python libraries for Google Colaboratory
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
@@ -4812,7 +4823,6 @@
 - [phodal/awesome-iot](https://github.com/phodal/awesome-iot) - Awesome IoT. A collaborative list of great resources about IoT Framework, Library,  OS, Platform
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
-- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
 - [kognise/sherlock](https://github.com/kognise/sherlock) - Fast and efficient multi-threaded, cross-platform file searching.
 - [argenos/fmlib](https://github.com/argenos/fmlib) - 
@@ -6310,7 +6320,6 @@
 - [amrrs/sample_revenue_dashboard_shiny](https://github.com/amrrs/sample_revenue_dashboard_shiny) - Code and Plots used in the article of Revenue Dashboard
 - [irworkshop/campfin](https://github.com/irworkshop/campfin) - R package to help wrangle campaign finance data 💸
 - [jdblischak/workflowr](https://github.com/jdblischak/workflowr) - Organize your project into a research website
-- [r-hub/r-builder](https://github.com/r-hub/r-builder) - Tools to build R
 - [snystrom/cmdfun](https://github.com/snystrom/cmdfun) - Framework for building R interfaces to shell commands
 - [r-prof/procmaps](https://github.com/r-prof/procmaps) - Portable Address Space Mapping in R
 - [geoffwlamb/checklist](https://github.com/geoffwlamb/checklist) - Create Checklists in RStudio
@@ -7859,7 +7868,7 @@
 - [MilanAryal/config](https://github.com/MilanAryal/config) - Personal checklist for setting up a new Ubuntu's dev environment on Windows.
 - [purag/.files](https://github.com/purag/.files) - :wrench: my dotfiles and other system setup
 - [snovvcrash/dotfiles-linux](https://github.com/snovvcrash/dotfiles-linux) - Dotfiles for Linux boxes
-- [duxco/gpg-config-and-scripts](https://github.com/duxco/gpg-config-and-scripts) - my gnupg configuration and some helper scripts
+- [duxsco/gpg-config-and-scripts](https://github.com/duxsco/gpg-config-and-scripts) - my gnupg configuration and some helper scripts
 - [bfrg/gpg-guide](https://github.com/bfrg/gpg-guide) - Quick-start guide to GPG
 - [adtac/climate](https://github.com/adtac/climate) - The swiss-army knife of utility tools for Linux.
 - [shumbert/geeky-wiki](https://github.com/shumbert/geeky-wiki) - 
@@ -8183,6 +8192,7 @@
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [csgillespie/dotfiles](https://github.com/csgillespie/dotfiles) - My dotfiles
 - [rocker-org/rocker](https://github.com/rocker-org/rocker) - R configurations for Docker
+- [r-hub/r-builder](https://github.com/r-hub/r-builder) - Tools to build R
 - [iridakos/goto](https://github.com/iridakos/goto) - Alias and navigate to directories with tab completion in Linux
 - [2KAbhishek/ghpm](https://github.com/2KAbhishek/ghpm) - The GitHub Project Manager 👩‍💻⚙
 - [benwinding/dotfiles](https://github.com/benwinding/dotfiles) - ben's dotfiles
