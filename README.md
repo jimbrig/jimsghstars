@@ -712,6 +712,7 @@
 
 ## CSS 
 
+- [cloudyr/cloudyr.github.io](https://github.com/cloudyr/cloudyr.github.io) - the cloudyr project website
 - [codebushi/nextjs-starter-dimension](https://github.com/codebushi/nextjs-starter-dimension) - Next.js static site starter based on the Dimension template.
 - [kinoute/typora-github-night-theme](https://github.com/kinoute/typora-github-night-theme) - Dark Typora themes that reproduce the new GitHub Dark Themes as much as possible.
 - [mil/markdown-tree](https://github.com/mil/markdown-tree) - A Sinatra script to serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown.
@@ -962,7 +963,6 @@
 - [maddox/actions](https://github.com/maddox/actions) - A collection of useful GitHub Actions
 - [dirmeier/dockerfiles](https://github.com/dirmeier/dockerfiles) - A collection of docker files.
 - [rstudio/rstudio-docker-products](https://github.com/rstudio/rstudio-docker-products) - Docker images for RStudio Professional Products
-- [rocker-org/rocker-versioned2](https://github.com/rocker-org/rocker-versioned2) - 
 - [codecheckers/register](https://github.com/codecheckers/register) - Register of CODECHECK certificates
 - [steren/awesome-cloudrun](https://github.com/steren/awesome-cloudrun) - 👓 ⏩ A curated list of resources about all things Cloud Run
 - [rstudio/r-docker](https://github.com/rstudio/r-docker) - Docker images for R
@@ -1024,6 +1024,7 @@
 
 ## Go 
 
+- [Azure-Samples/functions-custom-handlers](https://github.com/Azure-Samples/functions-custom-handlers) - Sample code for Azure Functions custom handlers
 - [christian-korneck/docker-pushrm](https://github.com/christian-korneck/docker-pushrm) - "Docker Push Readme" - a Docker CLI plugin to update container repo docs
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe is a CLI tool which provides the ability to send messages or alerts to multiple messaging platforms & email.
 - [msoap/shell2http](https://github.com/msoap/shell2http) - Executing shell commands via HTTP server
@@ -1304,6 +1305,7 @@
 
 ## HTML 
 
+- [ropensci-org/rotemplate](https://github.com/ropensci-org/rotemplate) - pkgdown template for rOpenSci packages :nail_care: :sparkles:
 - [corpsgeek/flask-form-handling](https://github.com/corpsgeek/flask-form-handling) - 
 - [imzjy/MyDiffTool](https://github.com/imzjy/MyDiffTool) - The missing comparing text tool for Mac, Windows and Linux.
 - [sdcastillo/PA-R-Study-Manual](https://github.com/sdcastillo/PA-R-Study-Manual) - An online study guide for the SOA's predictive analytics exam.
@@ -2768,6 +2770,7 @@
 
 ## Jupyter Notebook 
 
+- [Azure/azureml-examples](https://github.com/Azure/azureml-examples) - Official community-driven Azure Machine Learning examples, tested with GitHub Actions.
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [sharmaroshan/Insurance-Claim-Prediction](https://github.com/sharmaroshan/Insurance-Claim-Prediction) - In this Data set we are Predicting the Insurance Claim by each user, Machine Learning algorithms for Regression analysis are used and Data Visualization are also performed to support Analysis.
 - [DeutscheAktuarvereinigung/Data_Science_Challenge_2020_Betrugserkennung](https://github.com/DeutscheAktuarvereinigung/Data_Science_Challenge_2020_Betrugserkennung) - In this notebook we take a look at a relevant project that is frequently encountered by insurers: Fraud Detection. For this purpose we use a car data set from a public source and will show the necessary steps to establish an automated fraud detection.
@@ -2943,6 +2946,13 @@
 
 ## Others 
 
+- [revodavid/r-remote-container](https://github.com/revodavid/r-remote-container) - R container for use with VS Code Remote Containers
+- [Azure/AzureR](https://github.com/Azure/AzureR) - Family of packages for interacting with Azure from R
+- [microsoft/awesome-js-tools](https://github.com/microsoft/awesome-js-tools) - An awesome list for JS tools
+- [revodavid/aml-run](https://github.com/revodavid/aml-run) - GitHub Action that allows you to submit a run to your Azure Machine Learning Workspace.
+- [revodavid/20-years-of-R](https://github.com/revodavid/20-years-of-R) - Twenty Years of R (Presentation)
+- [revodavid/mlops-r](https://github.com/revodavid/mlops-r) - Resources for Machine Learning Operations with R
+- [yueguoguo/r-on-azure](https://github.com/yueguoguo/r-on-azure) - Compilation of R packages and tools for doing data science and AI on Azure cloud
 - [jimbrig/tools](https://github.com/jimbrig/tools) - ~/tools 🔨
 - [davotronic5000/CustomScripts](https://github.com/davotronic5000/CustomScripts) - 
 - [jimsforks/azure-docs-powershell-samples](https://github.com/jimsforks/azure-docs-powershell-samples) - Azure Powershell code samples, often used in docs.microsoft.com/Azure developer documentation
@@ -3959,6 +3969,7 @@
 
 ## PowerShell 
 
+- [MicrosoftDocs/cloud-developer-advocates](https://github.com/MicrosoftDocs/cloud-developer-advocates) - Site content for the site listing the Cloud Advocacy team within Developer Relations at Microsoft.
 - [nightroman/Invoke-Build](https://github.com/nightroman/Invoke-Build) - Build Automation in PowerShell
 - [davotronic5000/PoSh_Reddit](https://github.com/davotronic5000/PoSh_Reddit) - A Reddit Module for PowerShell
 - [TobiasPSP/Modules.DeviceManagement](https://github.com/TobiasPSP/Modules.DeviceManagement) - PowerShell module to manage devices and drivers
@@ -4267,7 +4278,7 @@
 - [MattHodge/PackerTemplates](https://github.com/MattHodge/PackerTemplates) - Packer Templates for building Windows Operating Systems
 - [CakeRepository/windows_updates](https://github.com/CakeRepository/windows_updates) - Powershell scripts to run windows updates
 - [CakeRepository/PPKG-Export-to-ISO](https://github.com/CakeRepository/PPKG-Export-to-ISO) - Export PPKG File to ISO
-- [CakeRepository/WindowsUpgrade](https://github.com/CakeRepository/WindowsUpgrade) - Runs Windows 10 ISO from online path and upgrades Windows 10 using setup.exe commands
+- [CakeRepository/Install-Windows11](https://github.com/CakeRepository/Install-Windows11) - Runs Windows 10 ISO from online path and upgrades Windows 10 using setup.exe commands
 - [jianyunt/ChocolateyGet](https://github.com/jianyunt/ChocolateyGet) - ChocolateyGet provider allows to download packages from Chocolatey.org repository via OneGet
 - [gabrielmccoll/PackerTemplates](https://github.com/gabrielmccoll/PackerTemplates) - most of all the windows stuff has come from https://github.com/StefanScherer/packer-windows
 - [pBouillon/personal-tooling](https://github.com/pBouillon/personal-tooling) - My configuration files and other scripts I use to automate some tasks
@@ -4462,6 +4473,11 @@
 
 ## Python 
 
+- [Sanjeev-Thiyagarajan/fastapi-course](https://github.com/Sanjeev-Thiyagarajan/fastapi-course) - 
+- [microsoft/forecasting](https://github.com/microsoft/forecasting) - Time Series Forecasting Best Practices & Examples
+- [cloudscaleml/seer](https://github.com/cloudscaleml/seer) - 
+- [Azure/aml-run](https://github.com/Azure/aml-run) - GitHub Action that allows you to submit a run to your Azure Machine Learning Workspace.
+- [revodavid/ml-template-azure](https://github.com/revodavid/ml-template-azure) - 
 - [bajcmartinez/flask-api-starter-kit](https://github.com/bajcmartinez/flask-api-starter-kit) - Flask API Starter Kit
 - [talkpython/data-driven-web-apps-with-flask](https://github.com/talkpython/data-driven-web-apps-with-flask) - Course demo code and other hand-out materials for our data-driven web apps in Flask course
 - [dpgaspar/Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome) - http://flaskappbuilder.pythonanywhere.com/
@@ -4917,6 +4933,15 @@
 
 ## R 
 
+- [revodavid/r-tools-model](https://github.com/revodavid/r-tools-model) - Transfer learning with R to identify tools
+- [revodavid/mlops-r-gha](https://github.com/revodavid/mlops-r-gha) - 
+- [revodavid/nothotdog](https://github.com/revodavid/nothotdog) - Not Hotdog vision recognition using R and Custom Vision API
+- [revodavid/RMLops](https://github.com/revodavid/RMLops) - MLOps with R and Azure Pipelines
+- [cloudyr/AzureContainers](https://github.com/cloudyr/AzureContainers) - Containers in Azure: AKS, ACR, ACI. Submit issues and PRs at https://github.com/Azure/AzureContainers.
+- [cloudyr/AzureVMmetadata](https://github.com/cloudyr/AzureVMmetadata) - R interface to VM instance metadata. Submit issues and PRs at https://github.com/Azure/AzureVMmetadata.
+- [cloudyr/AzureVM](https://github.com/cloudyr/AzureVM) - Manage virtual machines in Azure. Submit issues and PRs at https://github.com/Azure/AzureVM
+- [cloudyr/aws.lambda](https://github.com/cloudyr/aws.lambda) - AWS Lambda Client Package
+- [ropensci/rgbif](https://github.com/ropensci/rgbif) - Interface to the Global Biodiversity Information Facility API
 - [anudeep-reddy/Problem1](https://github.com/anudeep-reddy/Problem1) - Problem 1: Building a Shiny App around the UDPipe NLP workflow
 - [RichardHooijmaijers/nlmixr.docker](https://github.com/RichardHooijmaijers/nlmixr.docker) - docker for nlmixr
 - [analythium/app-platform-shiny](https://github.com/analythium/app-platform-shiny) - DigitalOcean App Platform Example for Shiny
@@ -5682,7 +5707,6 @@
 - [Tychobra/polishedpayments](https://github.com/Tychobra/polishedpayments) - 
 - [veeps/shiny_workshop](https://github.com/veeps/shiny_workshop) - This is a one day intro to Shiny workshop for the R Conference 2020.
 - [bcgov/CANSIM-retail-trade-shiny](https://github.com/bcgov/CANSIM-retail-trade-shiny) - R code for visualization app for retail trade data from Statistics Canada
-- [cloudyr/AzureContainers](https://github.com/cloudyr/AzureContainers) - Containers in Azure: AKS, ACR, ACI. Submit issues and PRs at https://github.com/Azure/AzureContainers.
 - [smouksassi/coveffectsplot](https://github.com/smouksassi/coveffectsplot) - A Shiny App that Produce Forest Plots to Visualize Covariate Effects
 - [petermeissner/wayback](https://github.com/petermeissner/wayback) - #rstats package to handle package installations on legacy #rstats systems
 - [riatelab/potential](https://github.com/riatelab/potential) - An R package to compute the potential model as defined by Stewart (1941).
@@ -7621,6 +7645,7 @@
 
 ## Roff 
 
+- [revodavid/PracticalAI](https://github.com/revodavid/PracticalAI) - AIF01 Practical AI for the Working Software Engineer
 - [yask123/Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) - 🎷  Downloads Music From The Web
 - [Stormcatisabitch/Oneshotwindows](https://github.com/Stormcatisabitch/Oneshotwindows) - OneShot themed Windows 10 mod
 
@@ -7904,7 +7929,7 @@
 - [ChrisTitusTech/zsh](https://github.com/ChrisTitusTech/zsh) - My ZSH Config
 - [basvandriel/dotfiles](https://github.com/basvandriel/dotfiles) - 
 - [santiMartDev/dotfiles](https://github.com/santiMartDev/dotfiles) - This is my dotfiles repo, please feel free to share and contribute!
-- [LeoColomb/.files](https://github.com/LeoColomb/.files) - 🔧 .files OS agnostic
+- [LeoColomb/dotfiles](https://github.com/LeoColomb/dotfiles) - 🔧 .files OS agnostic
 - [exTerEX/dotfiles](https://github.com/exTerEX/dotfiles) - My personal collection of .dotfiles tailed for Debian based distributions running WSL. It installs oh-my-bash for aliases, terminal themes, etc. and automatically connect .ssh, .gpg and .gitconfig configurations from Windows with Linux if running under WSL.
 - [popurax/dotfiles](https://github.com/popurax/dotfiles) - dotfiles tank → |basnhrc profile.ps1|
 - [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
@@ -8118,6 +8143,7 @@
 - [jaspernbrouwer/git-flow-hooks](https://github.com/jaspernbrouwer/git-flow-hooks) - Some useful hooks for git-flow (AVH Edition)
 - [trestletech/rdeps](https://github.com/trestletech/rdeps) - 
 - [kevinushey/etc](https://github.com/kevinushey/etc) - Scripts, dot files, and other things that make my programming life a happy one
+- [rocker-org/rocker-versioned2](https://github.com/rocker-org/rocker-versioned2) - 
 - [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 - [tallguyjenks/BusinessCard](https://github.com/tallguyjenks/BusinessCard) - 💳 My curl-able business card
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
@@ -8176,7 +8202,7 @@
 - [ow/ubuntu-windows-dotfiles](https://github.com/ow/ubuntu-windows-dotfiles) - Ubuntu on Windows dotfiles
 - [umutphp/github-action-dynamic-profile-page](https://github.com/umutphp/github-action-dynamic-profile-page) - GitHub Action to push updates to your special profile repository.
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [chendaniely/computational-project-cookie-cutter](https://github.com/chendaniely/computational-project-cookie-cutter) - A cookie cutter to set up a folder structure for a computational project
 - [isair/dotfiles](https://github.com/isair/dotfiles) - 🖥️ Backup your packages, apps, and configurations directly to git in the form of profiles. Set up any new (virtual) machine using a profile in one line. Share profiles between multiple machines. Configure auto update, clean-up, and back-up. Works for all linux flavors, Mac OS, and Windows.
 - [radum/dotfiles](https://github.com/radum/dotfiles) - 🛠 Global apps, modules, packages, .files, sensible hacker defaults for macOS and Windows
@@ -8353,6 +8379,7 @@
 
 ## TypeScript 
 
+- [lazerwalker/machine-learning-rps](https://github.com/lazerwalker/machine-learning-rps) - 
 - [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - :octocat: GitHub Action to easily import a GPG key
 - [GitTools/actions](https://github.com/GitTools/actions) - GitHub Action that installs and uses the GitVersion and GitReleaseManager tools
 - [preconstruct/preconstruct](https://github.com/preconstruct/preconstruct) - 🎁 Dev and build your code painlessly in monorepos
