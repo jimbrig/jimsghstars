@@ -270,7 +270,7 @@
 - [rsa9000/regfanalysistools](https://github.com/rsa9000/regfanalysistools) - Low-level MS Windows registry files analysis tools
 - [janbodnar/Windows-API-examples](https://github.com/janbodnar/Windows-API-examples) - Sources from the ZetCode's Windows API tutorial
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
-- [EnterpriseDB/repmgr](https://github.com/EnterpriseDB/repmgr) - A lightweight replication manager for PostgreSQL (Postgres) - latest version 5.2.1 (2020-12-07)
+- [EnterpriseDB/repmgr](https://github.com/EnterpriseDB/repmgr) - A lightweight replication manager for PostgreSQL (Postgres) - latest version 5.3.0 (2021-10-12)
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [ankane/pgvector](https://github.com/ankane/pgvector) - Open-source vector similarity search for Postgres
@@ -502,7 +502,7 @@
 - [FulanoD3Tal/UltimateFileManager](https://github.com/FulanoD3Tal/UltimateFileManager) - C# library to manipulate files and folders in Windows enviroment
 - [b3coded/file-organizer](https://github.com/b3coded/file-organizer) - :rocket: Organize your files faster with a few clicks.
 - [saulojoab/Quick-File-Organizer](https://github.com/saulojoab/Quick-File-Organizer) - :rocket: Quickly organize files in a folder with a few clicks.
-- [webprofusion/certify](https://github.com/webprofusion/certify) - SSL Certificate Manager UI for Windows, powered by Let's Encrypt and compatible with all ACME v2 CAs. Download from certifytheweb.com
+- [webprofusion/certify](https://github.com/webprofusion/certify) - Professional TLS/SSL Certificate Manager UI for Windows, powered by Let's Encrypt and compatible with all ACME v2 CAs. Download from certifytheweb.com
 - [LazoCoder/Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - Creative and unusual things that can be done with the Windows API.
 - [lucasg/Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
 - [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
@@ -1553,6 +1553,7 @@
 - [jpmarindiaz/country-neighbors](https://github.com/jpmarindiaz/country-neighbors) - List of all the neighbors for all the countries in the world
 - [jpmarindiaz/dmaps](https://github.com/jpmarindiaz/dmaps) - 
 - [jpmarindiaz/isotope](https://github.com/jpmarindiaz/isotope) - 
+- [bdpiccolo/ACNC-DAME](https://github.com/bdpiccolo/ACNC-DAME) - Dynamic Assessment of Microbial Ecology
 - [EmekaOrji/dropdown](https://github.com/EmekaOrji/dropdown) - A Demo of Dropdown Menus
 - [GerkeLab/betterposter](https://github.com/GerkeLab/betterposter) - 👩‍🔬👨‍🔬 Another R Markdown Better Scientific Poster
 - [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
@@ -1773,6 +1774,7 @@
 
 ## Java 
 
+- [aws/aws-secretsmanager-jdbc](https://github.com/aws/aws-secretsmanager-jdbc) - The AWS Secrets Manager JDBC Library enables Java developers to easily connect to SQL databases using secrets stored in AWS Secrets Manager.
 - [Suleiman19/People-API-App](https://github.com/Suleiman19/People-API-App) - Demo app for Google Sign-in and People API
 - [neoedmund/neoeedit](https://github.com/neoedmund/neoeedit) - neoeedit - a smart, light, powerful text editor.
 - [cqfn/eo](https://github.com/cqfn/eo) - EOLANG, an Experimental Object-Oriented Programming Language Based on 𝜑-Calculus
@@ -1832,6 +1834,9 @@
 
 ## JavaScript 
 
+- [AlexzanderFlores/Worn-Off-Keys-Lambda-Tutorials](https://github.com/AlexzanderFlores/Worn-Off-Keys-Lambda-Tutorials) - The source code for the AWS Lambda tutorials on the Worn Off Keys YouTube channel.
+- [jeshan/lambda-checklist](https://github.com/jeshan/lambda-checklist) - The checklist for meticulous serverless engineers
+- [jeshan/cloudformation-checklist](https://github.com/jeshan/cloudformation-checklist) - The checklist for meticulous AWS DevOps engineers
 - [rosickey/flask-datatables](https://github.com/rosickey/flask-datatables) - datatables demo in flask
 - [sienori/Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager) - WebExtensions for restoring and saving window / tab states
 - [Azure-Samples/active-directory-dotnet-admin-restricted-scopes-v2](https://github.com/Azure-Samples/active-directory-dotnet-admin-restricted-scopes-v2) - An ASP.NET MVC application that shows how to use the Azure AD v2.0 endpoint to collect consent for permissions that require administrative consent.
@@ -2946,6 +2951,8 @@
 
 ## Others 
 
+- [ddbeck/readme-checklist](https://github.com/ddbeck/readme-checklist) - A checklist for writing READMEs
+- [nickoki/node_app_checklist](https://github.com/nickoki/node_app_checklist) - A tl;dr checklist to guide your workflow for your new Node App
 - [revodavid/r-remote-container](https://github.com/revodavid/r-remote-container) - R container for use with VS Code Remote Containers
 - [Azure/AzureR](https://github.com/Azure/AzureR) - Family of packages for interacting with Azure from R
 - [microsoft/awesome-js-tools](https://github.com/microsoft/awesome-js-tools) - An awesome list for JS tools
@@ -4473,6 +4480,8 @@
 
 ## Python 
 
+- [0xSeb/aws_secrets_manager_psql_rotation_lambda](https://github.com/0xSeb/aws_secrets_manager_psql_rotation_lambda) - A lambda function to rotate PostgreSQL database user's passwords stored in AWS Secrets Manager.
+- [panpanpandas/ultrafinance](https://github.com/panpanpandas/ultrafinance) - Python project for real-time financial data collection, analyzing && backtesting trading strategies
 - [Sanjeev-Thiyagarajan/fastapi-course](https://github.com/Sanjeev-Thiyagarajan/fastapi-course) - 
 - [microsoft/forecasting](https://github.com/microsoft/forecasting) - Time Series Forecasting Best Practices & Examples
 - [cloudscaleml/seer](https://github.com/cloudscaleml/seer) - 
@@ -4549,7 +4558,6 @@
 - [mgedmin/bootable-iso](https://github.com/mgedmin/bootable-iso) - Bootable USB disk that lets you choose an ISO image
 - [chefe/windown](https://github.com/chefe/windown) - A script to download the latest windows iso from the official microsoft servers.
 - [luzeadev/techbench-json-dump](https://github.com/luzeadev/techbench-json-dump) - Dump Tech Bench metadata to a JSON file.
-- [luzeadev/uupy](https://github.com/luzeadev/uupy) - Unofficial Unified Update Platform Client
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [cloudinary/cloudinary-cli](https://github.com/cloudinary/cloudinary-cli) - A command line interface for Cloudinary's APIs
 - [Master-Hash/dotfiles](https://github.com/Master-Hash/dotfiles) - 最常用的列表和配置文件
@@ -4933,6 +4941,8 @@
 
 ## R 
 
+- [microsoft/sqlmlutils](https://github.com/microsoft/sqlmlutils) - Utility functions for easier usage of sql server
+- [andrie/SqlRtools](https://github.com/andrie/SqlRtools) - Helper functions to work with Microsoft SQL Server R Services
 - [revodavid/r-tools-model](https://github.com/revodavid/r-tools-model) - Transfer learning with R to identify tools
 - [revodavid/mlops-r-gha](https://github.com/revodavid/mlops-r-gha) - 
 - [revodavid/nothotdog](https://github.com/revodavid/nothotdog) - Not Hotdog vision recognition using R and Custom Vision API
@@ -6277,7 +6287,6 @@
 - [PankoAliaksandr/R](https://github.com/PankoAliaksandr/R) - General R notes (not projects)
 - [adamjohndbenitez/navify](https://github.com/adamjohndbenitez/navify) - Navify: A Web Application for Route Recommendation System using Artificial Neural Network (Multi-layer Perceptrons & SOM) in R.
 - [lucidif/HiCeekR](https://github.com/lucidif/HiCeekR) - R package that allows easily performing a complete Hi-C data analysis through a Graphical User Interface
-- [bdpiccolo/ACNC-DAME](https://github.com/bdpiccolo/ACNC-DAME) - Dynamic Assessment of Microbial Ecology
 - [sewardlee337/industry-cluster-explorer](https://github.com/sewardlee337/industry-cluster-explorer) - Shiny dashboard for industry cluster analysis
 - [OceaneCsn/DIANE](https://github.com/OceaneCsn/DIANE) - Dashboard for the Inference and Analysis of Networks from Expression data
 - [MalditoBarbudo/nfiApp](https://github.com/MalditoBarbudo/nfiApp) - 
@@ -7864,6 +7873,7 @@
 
 ## Shell 
 
+- [paunin/images-builder](https://github.com/paunin/images-builder) - 
 - [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, sway, kitty, kakoune, zsh and more + scripted installation guide
 - [zainfathoni/dotfiles](https://github.com/zainfathoni/dotfiles) - My personal dotfiles • powered by yadm & zinit
 - [avinal/github-pages-deploy-action](https://github.com/avinal/github-pages-deploy-action) - Github Pages Deploy Action for Documentation and Static Site Generators
@@ -8279,6 +8289,7 @@
 
 ## Swift 
 
+- [abeldemoz/Checklist](https://github.com/abeldemoz/Checklist) - 
 - [GitHawkApp/GitHawk](https://github.com/GitHawkApp/GitHawk) - The (second) best iOS app for GitHub.
 - [chenyun122/StepIndicator](https://github.com/chenyun122/StepIndicator) - StepIndicator is an iOS library that indicates steps in an animated way.
 - [Jinxiansen/Windows11](https://github.com/Jinxiansen/Windows11) - 💻 Windows 11 in SwiftUI.
