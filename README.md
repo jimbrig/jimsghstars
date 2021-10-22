@@ -46,6 +46,7 @@
   - [Haskell](#haskell)
   - [Haxe](#haxe)
   - [Inno Setup](#inno-setup)
+  - [JSON](#json)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jinja](#jinja)
@@ -985,6 +986,7 @@
 
 ## Emacs Lisp 
 
+- [Vidianos-Giannitsis/Dotfiles](https://github.com/Vidianos-Giannitsis/Dotfiles) - Just a repository for my dotfiles
 - [emacs-mirror/emacs](https://github.com/emacs-mirror/emacs) - Mirror of GNU Emacs
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 - [c0state/dotfiles](https://github.com/c0state/dotfiles) - My personal dotfiles setup
@@ -1308,6 +1310,7 @@
 - [ropensci-org/rotemplate](https://github.com/ropensci-org/rotemplate) - pkgdown template for rOpenSci packages :nail_care: :sparkles:
 - [corpsgeek/flask-form-handling](https://github.com/corpsgeek/flask-form-handling) - 
 - [imzjy/MyDiffTool](https://github.com/imzjy/MyDiffTool) - The missing comparing text tool for Mac, Windows and Linux.
+- [JSchelldorfer/DeepLearningWithActuarialApplications](https://github.com/JSchelldorfer/DeepLearningWithActuarialApplications) - Material for the 2-day block course "Deep Learning with Actuarial Applications in R"
 - [sdcastillo/PA-R-Study-Manual](https://github.com/sdcastillo/PA-R-Study-Manual) - An online study guide for the SOA's predictive analytics exam.
 - [r-spatial/r-spatial.org](https://github.com/r-spatial/r-spatial.org) - r-spatial.org blog sources
 - [jimdevops19/FlaskSeries](https://github.com/jimdevops19/FlaskSeries) - This is the Code from my Flask Series - JimShapedCoding. Each Folder is a checkpoint where we stopped at that particular episode number
@@ -1771,6 +1774,10 @@
 
 - [tildehacker/apache-kafka-windows-installer](https://github.com/tildehacker/apache-kafka-windows-installer) - 🤖 Automatically download and install Apache Kafka on Windows.
 - [hardwario/bch-toolchain-windows](https://github.com/hardwario/bch-toolchain-windows) - HARDWARIO Toolchain for Windows
+
+## JSON 
+
+- [microsoft/Application-Insights-Workbooks](https://github.com/microsoft/Application-Insights-Workbooks) - Templates for Azure Monitor Workbooks
 
 ## Java 
 
@@ -2775,6 +2782,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/Azure-Analytics-and-AI-Engagement](https://github.com/microsoft/Azure-Analytics-and-AI-Engagement) - Azure Analytics and AI Engagement
 - [Azure/azureml-examples](https://github.com/Azure/azureml-examples) - Official community-driven Azure Machine Learning examples, tested with GitHub Actions.
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [sharmaroshan/Insurance-Claim-Prediction](https://github.com/sharmaroshan/Insurance-Claim-Prediction) - In this Data set we are Predicting the Insurance Claim by each user, Machine Learning algorithms for Regression analysis are used and Data Visualization are also performed to support Analysis.
@@ -2848,6 +2856,7 @@
 
 ## Lua 
 
+- [alexpearce/dotfiles](https://github.com/alexpearce/dotfiles) - My dotfiles.
 - [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 - [volllly/.dotfiles](https://github.com/volllly/.dotfiles) - Collection of my dotfiles.
 - [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts
@@ -2951,6 +2960,10 @@
 
 ## Others 
 
+- [jimbrig/espanso](https://github.com/jimbrig/espanso) - Espanso configs
+- [jimbrig/MLOps](https://github.com/jimbrig/MLOps) - 
+- [wuelnerdotexe/vscode-enfocado](https://github.com/wuelnerdotexe/vscode-enfocado) - How the themes should be.
+- [microsoft/AzureStorageExplorer](https://github.com/microsoft/AzureStorageExplorer) - Easily manage the contents of your storage account with Azure Storage Explorer. Upload, download, and manage blobs, files, queues, tables, and Cosmos DB entities. Gain easy access to manage your virtual machine disks. Work with either Azure Resource Manager or classic storage accounts, plus manage and configure cross-origin resource sharing (CORS) rules.
 - [ddbeck/readme-checklist](https://github.com/ddbeck/readme-checklist) - A checklist for writing READMEs
 - [nickoki/node_app_checklist](https://github.com/nickoki/node_app_checklist) - A tl;dr checklist to guide your workflow for your new Node App
 - [revodavid/r-remote-container](https://github.com/revodavid/r-remote-container) - R container for use with VS Code Remote Containers
@@ -3976,6 +3989,7 @@
 
 ## PowerShell 
 
+- [microsoft/PSRule.Rules.CAF](https://github.com/microsoft/PSRule.Rules.CAF) - A suite of rules to validate Azure resources against the Cloud Adoption Framework (CAF) using PSRule.
 - [MicrosoftDocs/cloud-developer-advocates](https://github.com/MicrosoftDocs/cloud-developer-advocates) - Site content for the site listing the Cloud Advocacy team within Developer Relations at Microsoft.
 - [nightroman/Invoke-Build](https://github.com/nightroman/Invoke-Build) - Build Automation in PowerShell
 - [davotronic5000/PoSh_Reddit](https://github.com/davotronic5000/PoSh_Reddit) - A Reddit Module for PowerShell
@@ -4480,6 +4494,11 @@
 
 ## Python 
 
+- [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
+- [rememberYou/old-dotfiles](https://github.com/rememberYou/old-dotfiles) - Old personal dotfiles configuration
+- [microsoft/recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
+- [microsoft/hi-ml](https://github.com/microsoft/hi-ml) - Microsoft Health Intelligence Azure Machine Learning Toolbox
+- [microsoft/dstoolkit-mlops-base](https://github.com/microsoft/dstoolkit-mlops-base) - this repository helps ML teams to accelerate their model deployment to production leveraging Azure
 - [0xSeb/aws_secrets_manager_psql_rotation_lambda](https://github.com/0xSeb/aws_secrets_manager_psql_rotation_lambda) - A lambda function to rotate PostgreSQL database user's passwords stored in AWS Secrets Manager.
 - [panpanpandas/ultrafinance](https://github.com/panpanpandas/ultrafinance) - Python project for real-time financial data collection, analyzing && backtesting trading strategies
 - [Sanjeev-Thiyagarajan/fastapi-course](https://github.com/Sanjeev-Thiyagarajan/fastapi-course) - 
@@ -4670,7 +4689,7 @@
 - [cchoban/chob](https://github.com/cchoban/chob) - Choban is a software automation tool that helps you to install your favorite application from command line just with couple of commands.
 - [ctuning/ck-env](https://github.com/ctuning/ck-env) - CK repository with components and automation actions to enable portable workflows across diverse platforms including Linux, Windows, MacOS and Android. It includes software detection plugins and meta packages (code, data sets, models, scripts, etc) with the possibility of multiple versions to co-exist in a user or system environment:
 - [dungwinux/Maid](https://github.com/dungwinux/Maid) - A package manager, written in Python 3.7, for Windows.
-- [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 📦 CLI providing unifying interface to all package managers
+- [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 📦 one CLI for all package managers
 - [electric-package-manager/electric](https://github.com/electric-package-manager/electric) - A fast, futuristic package manager for Windows.
 - [rasa/scoop-directory](https://github.com/rasa/scoop-directory) - A directory of buckets for the scoop package manager for Windows
 - [lepisma/pipwin](https://github.com/lepisma/pipwin) - Install compiled python libraries for windows provided by Christoph Gohlke
@@ -4941,6 +4960,12 @@
 
 ## R 
 
+- [jimbrig/actdev](https://github.com/jimbrig/actdev) - What the Package Does (One Line, Title Case)
+- [jimbrig/reserver](https://github.com/jimbrig/reserver) - Actuarial Claims Reserving
+- [mdneuzerling/aphhansard](https://github.com/mdneuzerling/aphhansard) - 
+- [mdneuzerling/neuzr](https://github.com/mdneuzerling/neuzr) - Personal Package of Miscellaneous R Functions
+- [dpastoor/blueprint](https://github.com/dpastoor/blueprint) - 
+- [mdneuzerling/lambdr](https://github.com/mdneuzerling/lambdr) - Run R containers on AWS Lambda
 - [microsoft/sqlmlutils](https://github.com/microsoft/sqlmlutils) - Utility functions for easier usage of sql server
 - [andrie/SqlRtools](https://github.com/andrie/SqlRtools) - Helper functions to work with Microsoft SQL Server R Services
 - [revodavid/r-tools-model](https://github.com/revodavid/r-tools-model) - Transfer learning with R to identify tools
@@ -4966,7 +4991,6 @@
 - [Ljupch0/IncomeStat](https://github.com/Ljupch0/IncomeStat) - A shiny app that generates Income Statements for any stock, using an Excel template.
 - [anastasia-lucas/rladies_shinydashboards](https://github.com/anastasia-lucas/rladies_shinydashboards) - Shiny Dashboards Workshop for R-Ladies Philly
 - [datasketch/rladies-stl-personalized-shiny-apps](https://github.com/datasketch/rladies-stl-personalized-shiny-apps) - 2020-01-19 RLadies STL workshop by jpmarindiaz
-- [JSchelldorfer/DeepLearningWithActuarialApplications](https://github.com/JSchelldorfer/DeepLearningWithActuarialApplications) - Material for the 2-day block course "Deep Learning with Actuarial Applications in R"
 - [davidski/msgraphr](https://github.com/davidski/msgraphr) - 📇Read Office 365 data via the MS Graph API and R
 - [davidski/collector](https://github.com/davidski/collector) - ⚖Open Source Toolkit for Conducting Quantitative Risk Assessment Interviews
 - [ropenscilabs/r2readthedocs](https://github.com/ropenscilabs/r2readthedocs) - Convert R package documentation to a 'readthedocs' website
@@ -5448,7 +5472,7 @@
 - [kcuilla/reactablefmtr](https://github.com/kcuilla/reactablefmtr) - Easily Customize Interactive Tables Made With Reactable
 - [zonebuilders/zonebuilder](https://github.com/zonebuilders/zonebuilder) - Divide geographic space into discrete chunks
 - [jeroen/maketools](https://github.com/jeroen/maketools) - Exploring and Testing your Toolchain Configuration and System Packages
-- [SchmidtPaul/CitaviR](https://github.com/SchmidtPaul/CitaviR) - A set of tools for dealing with Citavi data
+- [SchmidtPaul/CitaviR](https://github.com/SchmidtPaul/CitaviR) - A set of tools for dealing with Citavi data in R
 - [fdrennan/biggr2](https://github.com/fdrennan/biggr2) - The bigger better biggr
 - [r-assist/assignr](https://github.com/r-assist/assignr) - Tools for Educators Writing Assignments in RMarkdown
 - [sol-eng/plumber-logging](https://github.com/sol-eng/plumber-logging) - An opinionated example for implementing logging in Plumber APIs
@@ -7666,7 +7690,7 @@
 - [copiousfreetime/launchy](https://github.com/copiousfreetime/launchy) - A helper for launching cross-platform applications in a fire and forget manner.
 - [michaeltlombardi/puppetlabs-powershell](https://github.com/michaeltlombardi/puppetlabs-powershell) - powershell provider for the Puppet exec resource type
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language [mirror]
-- [Homebrew/linuxbrew-core](https://github.com/Homebrew/linuxbrew-core) - 🍻🐧 Core formulae for the Homebrew package manager on Linux
+- [Homebrew/linuxbrew-core](https://github.com/Homebrew/linuxbrew-core) - 💀Formerly the core formulae for the Homebrew package manager on Linux
 - [chocolatey-community/puppet-chocolatey_server](https://github.com/chocolatey-community/puppet-chocolatey_server) - Chocolatey Simple Server Puppet Module
 - [chocolatey-archive/puppet-chocolatey](https://github.com/chocolatey-archive/puppet-chocolatey) - Chocolatey package provider
 - [ferventcoder/puppetlabs-powershell](https://github.com/ferventcoder/puppetlabs-powershell) - 
@@ -7873,6 +7897,11 @@
 
 ## Shell 
 
+- [jimbrig/ohmyzsh](https://github.com/jimbrig/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [jimbrig/dotfiles-wsl](https://github.com/jimbrig/dotfiles-wsl) - 
+- [ChrisTitusTech/ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) - Automated Arch Linux Install
+- [rememberYou/dotfiles](https://github.com/rememberYou/dotfiles) - 🏡 Personal dotfiles configuration
+- [Build5Nines/az-kung-fu](https://github.com/Build5Nines/az-kung-fu) - Repo for the Azure CLI Kung Fu series on Build5Nines.com
 - [paunin/images-builder](https://github.com/paunin/images-builder) - 
 - [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, sway, kitty, kakoune, zsh and more + scripted installation guide
 - [zainfathoni/dotfiles](https://github.com/zainfathoni/dotfiles) - My personal dotfiles • powered by yadm & zinit
@@ -8320,6 +8349,7 @@
 
 ## TeX 
 
+- [Vidianos-Giannitsis/Zettelkasten](https://github.com/Vidianos-Giannitsis/Zettelkasten) - This repo serves as my Zettelkasten, and is essentially the hub of all my notes for the ability to back up and share them.
 - [Sheing/SalesforceActuarial](https://github.com/Sheing/SalesforceActuarial) - Salesforce x Actuarial Mortality Table
 - [ewfrees/LossDataAnalyticsOverheads](https://github.com/ewfrees/LossDataAnalyticsOverheads) - This site provides overheads for the drafts of our Loss Data Analytics chapters.
 - [ewfrees/LifeCon](https://github.com/ewfrees/LifeCon) - This site contains lecture notes for Life Contingencies, also known as Actuarial Mathematics. It is part of the Open Actuarial Textbooks project.
@@ -8390,6 +8420,7 @@
 
 ## TypeScript 
 
+- [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) - Tasks for Azure Pipelines
 - [lazerwalker/machine-learning-rps](https://github.com/lazerwalker/machine-learning-rps) - 
 - [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - :octocat: GitHub Action to easily import a GPG key
 - [GitTools/actions](https://github.com/GitTools/actions) - GitHub Action that installs and uses the GitVersion and GitReleaseManager tools
@@ -8595,7 +8626,7 @@
 - [hasura/data-dictionary](https://github.com/hasura/data-dictionary) - 
 - [codeverland/codever](https://github.com/codeverland/codever) - Bookmarks and Snippets Manager for Developers & Co
 - [agathauy/wikilinks-to-mdlinks-obsidian](https://github.com/agathauy/wikilinks-to-mdlinks-obsidian) - An Obsidian md plugin which allows for the conversion of individually selected wikilinks to markdown links, and vice versa.
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Build completely custom admin panels and internal tools. Use 30+ react components to build pages without HTML/CSS.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Quickly build any custom business software like admin panels, internal tools, dashboards and more with pre-built UI widgets that connect to any database, GraphQL or REST API, controlling everything with Javascript.
 - [toddbluhm/env-cmd](https://github.com/toddbluhm/env-cmd) - Setting environment variables from a file
 - [linyows/github-issues-notice](https://github.com/linyows/github-issues-notice) - :octocat: Notify labeled issues to Slack
 - [peter-evans/create-issue-from-file](https://github.com/peter-evans/create-issue-from-file) - A GitHub action to create an issue using content from a file
@@ -8816,6 +8847,7 @@
 
 ## Vue 
 
+- [microsoft/AzureTipsAndTricks](https://github.com/microsoft/AzureTipsAndTricks) - Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Star the repo now to shave hours off your coding tasks tomorrow.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A dashboard for your homelab
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [Zorin95670/project-template-web](https://github.com/Zorin95670/project-template-web) - Template project to create a web application. Make with VueJs.
