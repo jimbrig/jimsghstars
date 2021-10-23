@@ -964,6 +964,7 @@
 - [maddox/actions](https://github.com/maddox/actions) - A collection of useful GitHub Actions
 - [dirmeier/dockerfiles](https://github.com/dirmeier/dockerfiles) - A collection of docker files.
 - [rstudio/rstudio-docker-products](https://github.com/rstudio/rstudio-docker-products) - Docker images for RStudio Professional Products
+- [rocker-org/rocker-versioned2](https://github.com/rocker-org/rocker-versioned2) - 
 - [codecheckers/register](https://github.com/codecheckers/register) - Register of CODECHECK certificates
 - [steren/awesome-cloudrun](https://github.com/steren/awesome-cloudrun) - 👓 ⏩ A curated list of resources about all things Cloud Run
 - [rstudio/r-docker](https://github.com/rstudio/r-docker) - Docker images for R
@@ -1169,7 +1170,7 @@
 - [github-release/github-release](https://github.com/github-release/github-release) - Commandline app to create and edit releases on Github (and upload artifacts)
 - [tj/triage](https://github.com/tj/triage) - Interactive command-line GitHub issue & notification triaging tool.
 - [windler/ws](https://github.com/windler/ws) - cli app to list your workspaces, git branch info and custom information
-- [depscloud/depscloud](https://github.com/depscloud/depscloud) - Index and query dependencies
+- [depscloud/depscloud](https://github.com/depscloud/depscloud) - Index and query dependencies across your company's private repositories.
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [adelowo/onecache](https://github.com/adelowo/onecache) - One caching API, Multiple backends
 - [e-dard/netbug](https://github.com/e-dard/netbug) - Package netbug provides a handler for registering profilers on your own ServeMux.
@@ -1495,7 +1496,7 @@
 - [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
 - [alex/nyt-2020-election-scraper](https://github.com/alex/nyt-2020-election-scraper) - 
 - [Maxence-L/notenote.link](https://github.com/Maxence-L/notenote.link) - A Jekyll digital garden template, optimized for integration with Obsidian. It aims to enhance discoverability and help you build a personal knowledge base that can scale with time.
-- [xxxzeus/goffer](https://github.com/xxxzeus/goffer) - Beautiful and basic file manager written on electron.js
+- [zeus2198/goffer](https://github.com/zeus2198/goffer) - Beautiful and basic file manager written on electron.js
 - [victoriadrake/hugo-theme-introduction](https://github.com/victoriadrake/hugo-theme-introduction) - Minimal, single page, smooth-scrolling theme for Hugo static site generator.
 - [thebioengineer/validation](https://github.com/thebioengineer/validation) - Repository for Validation of R Packages
 - [JohnCoene/javascript-for-r](https://github.com/JohnCoene/javascript-for-r) - 📚 JavaScript for R CRC Book
@@ -1841,6 +1842,7 @@
 
 ## JavaScript 
 
+- [robertlacok/datasciencenotebooks](https://github.com/robertlacok/datasciencenotebooks) - 
 - [AlexzanderFlores/Worn-Off-Keys-Lambda-Tutorials](https://github.com/AlexzanderFlores/Worn-Off-Keys-Lambda-Tutorials) - The source code for the AWS Lambda tutorials on the Worn Off Keys YouTube channel.
 - [jeshan/lambda-checklist](https://github.com/jeshan/lambda-checklist) - The checklist for meticulous serverless engineers
 - [jeshan/cloudformation-checklist](https://github.com/jeshan/cloudformation-checklist) - The checklist for meticulous AWS DevOps engineers
@@ -2782,6 +2784,8 @@
 
 ## Jupyter Notebook 
 
+- [binder-examples/requirements](https://github.com/binder-examples/requirements) - Simple requirements.txt based example
+- [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [microsoft/Azure-Analytics-and-AI-Engagement](https://github.com/microsoft/Azure-Analytics-and-AI-Engagement) - Azure Analytics and AI Engagement
 - [Azure/azureml-examples](https://github.com/Azure/azureml-examples) - Official community-driven Azure Machine Learning examples, tested with GitHub Actions.
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
@@ -2960,6 +2964,8 @@
 
 ## Others 
 
+- [jimbrig/datasciencenotebooks](https://github.com/jimbrig/datasciencenotebooks) - 
+- [innovationOUtside/ioc-infrastructure-review](https://github.com/innovationOUtside/ioc-infrastructure-review) - Public repo reviewing infrastructure approaches used to deliver coding courses
 - [jimbrig/espanso](https://github.com/jimbrig/espanso) - Espanso configs
 - [jimbrig/MLOps](https://github.com/jimbrig/MLOps) - 
 - [wuelnerdotexe/vscode-enfocado](https://github.com/wuelnerdotexe/vscode-enfocado) - How the themes should be.
@@ -4494,11 +4500,12 @@
 
 ## Python 
 
+- [jupyterhub/jupyterhub-deploy-docker](https://github.com/jupyterhub/jupyterhub-deploy-docker) - Reference deployment of JupyterHub with docker
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
 - [rememberYou/old-dotfiles](https://github.com/rememberYou/old-dotfiles) - Old personal dotfiles configuration
 - [microsoft/recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
 - [microsoft/hi-ml](https://github.com/microsoft/hi-ml) - Microsoft Health Intelligence Azure Machine Learning Toolbox
-- [microsoft/dstoolkit-mlops-base](https://github.com/microsoft/dstoolkit-mlops-base) - this repository helps ML teams to accelerate their model deployment to production leveraging Azure
+- [microsoft/dstoolkit-mlops-base](https://github.com/microsoft/dstoolkit-mlops-base) - Help ML teams to accelerate their model deployment to production leveraging Azure
 - [0xSeb/aws_secrets_manager_psql_rotation_lambda](https://github.com/0xSeb/aws_secrets_manager_psql_rotation_lambda) - A lambda function to rotate PostgreSQL database user's passwords stored in AWS Secrets Manager.
 - [panpanpandas/ultrafinance](https://github.com/panpanpandas/ultrafinance) - Python project for real-time financial data collection, analyzing && backtesting trading strategies
 - [Sanjeev-Thiyagarajan/fastapi-course](https://github.com/Sanjeev-Thiyagarajan/fastapi-course) - 
@@ -7832,6 +7839,7 @@
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 - [denoland/deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube.js — Open-Source Analytics API for Building Data Apps
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 
 ## SAS 
@@ -7897,6 +7905,7 @@
 
 ## Shell 
 
+- [alan-turing-institute/binderhub-deploy](https://github.com/alan-turing-institute/binderhub-deploy) - Deploy a BinderHub from scratch on Microsoft Azure
 - [jimbrig/ohmyzsh](https://github.com/jimbrig/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [jimbrig/dotfiles-wsl](https://github.com/jimbrig/dotfiles-wsl) - 
 - [ChrisTitusTech/ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) - Automated Arch Linux Install
@@ -8182,7 +8191,6 @@
 - [jaspernbrouwer/git-flow-hooks](https://github.com/jaspernbrouwer/git-flow-hooks) - Some useful hooks for git-flow (AVH Edition)
 - [trestletech/rdeps](https://github.com/trestletech/rdeps) - 
 - [kevinushey/etc](https://github.com/kevinushey/etc) - Scripts, dot files, and other things that make my programming life a happy one
-- [rocker-org/rocker-versioned2](https://github.com/rocker-org/rocker-versioned2) - 
 - [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 - [tallguyjenks/BusinessCard](https://github.com/tallguyjenks/BusinessCard) - 💳 My curl-able business card
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
@@ -8420,6 +8428,7 @@
 
 ## TypeScript 
 
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) - Tasks for Azure Pipelines
 - [lazerwalker/machine-learning-rps](https://github.com/lazerwalker/machine-learning-rps) - 
 - [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - :octocat: GitHub Action to easily import a GPG key
@@ -8746,7 +8755,6 @@
 - [y-lohse/inkjs](https://github.com/y-lohse/inkjs) - A javascript port of inkle's ink scripting language.
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [zendeskgarden/react-containers](https://github.com/zendeskgarden/react-containers) - :seedling: garden React (no-UI) containers
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube.js — Open-Source Analytics API for Building Data Apps
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [microsoft/SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
