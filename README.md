@@ -1027,6 +1027,7 @@
 
 ## Go 
 
+- [erizocosmico/dotman](https://github.com/erizocosmico/dotman) - Super simple dotfiles manager
 - [Azure-Samples/functions-custom-handlers](https://github.com/Azure-Samples/functions-custom-handlers) - Sample code for Azure Functions custom handlers
 - [christian-korneck/docker-pushrm](https://github.com/christian-korneck/docker-pushrm) - "Docker Push Readme" - a Docker CLI plugin to update container repo docs
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe is a CLI tool which provides the ability to send messages or alerts to multiple messaging platforms & email.
@@ -1335,6 +1336,7 @@
 - [maple3142/GDIndex](https://github.com/maple3142/GDIndex) - A Google Drive Index built with Vue Running on CloudFlare Workers
 - [TheBobPony/BPDownloadsGUI](https://github.com/TheBobPony/BPDownloadsGUI) - A easy to use Downloader UI
 - [ChrisTitusTech/website](https://github.com/ChrisTitusTech/website) - 
+- [LesFerch/WinSetView](https://github.com/LesFerch/WinSetView) - Globally Set Explorer Folder Views
 - [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker's Documentation
 - [Markavian/html-table-to-markdown-converter](https://github.com/Markavian/html-table-to-markdown-converter) - Converts HTML tables to Markdown. Paste in, click Convert.
 - [rtpsug/Meetups](https://github.com/rtpsug/Meetups) - Content from our Online and In-Person Meetups
@@ -1842,6 +1844,8 @@
 
 ## JavaScript 
 
+- [phishnet/api-v5](https://github.com/phishnet/api-v5) - 
+- [johnbfox/phish-api](https://github.com/johnbfox/phish-api) - API to serve Phish concert data
 - [robertlacok/datasciencenotebooks](https://github.com/robertlacok/datasciencenotebooks) - 
 - [AlexzanderFlores/Worn-Off-Keys-Lambda-Tutorials](https://github.com/AlexzanderFlores/Worn-Off-Keys-Lambda-Tutorials) - The source code for the AWS Lambda tutorials on the Worn Off Keys YouTube channel.
 - [jeshan/lambda-checklist](https://github.com/jeshan/lambda-checklist) - The checklist for meticulous serverless engineers
@@ -4120,7 +4124,6 @@
 - [jmgilman/ChocolateyPackageCreator](https://github.com/jmgilman/ChocolateyPackageCreator) - Powershell module for creating internal Chocolatey packages
 - [liamfoneill/ChocolateBootstraps](https://github.com/liamfoneill/ChocolateBootstraps) - A collection of scripts etc to setup new windows machine
 - [hirsaeki/scoop-sup](https://github.com/hirsaeki/scoop-sup) - scoop manifests personally nessesary
-- [LesFerch/WinSetView](https://github.com/LesFerch/WinSetView) - Globally Set Explorer Folder Views
 - [kodybrown/scoop-nirsoft](https://github.com/kodybrown/scoop-nirsoft) - A Scoop bucket of useful NirSoft utilities
 - [lipkau/PsIni](https://github.com/lipkau/PsIni) - Work with INI files in PowerShell using hashtables
 - [countzero/repair_ssh_permissions](https://github.com/countzero/repair_ssh_permissions) - A PowerShell script that automatically repairs the permissions of the .ssh directory and files.
@@ -5652,7 +5655,7 @@
 - [aephidayatuloh/shiny-loadbalancer](https://github.com/aephidayatuloh/shiny-loadbalancer) - Shiny App for Load Balancing
 - [randy3k/retry](https://github.com/randy3k/retry) - Repeated Evaluation
 - [jpainter/dataDictionary](https://github.com/jpainter/dataDictionary) - interface with DHIS2 to get listing of malaria-relevant data elements
-- [ankane/rollbar](https://github.com/ankane/rollbar) - Error tracking for R
+- [ankane/rollbar-r](https://github.com/ankane/rollbar-r) - Error tracking for R
 - [ankane/dbx](https://github.com/ankane/dbx) - A fast, easy-to-use database library for R
 - [ankane/jetpack](https://github.com/ankane/jetpack) - A friendly package manager for R
 - [Persedes/shinyChecklist](https://github.com/Persedes/shinyChecklist) - A very simple Checklist for RStudio to learn about the new miniUI features.
@@ -8792,6 +8795,7 @@
 
 ## Vim script 
 
+- [pmarsceill/dotfiles](https://github.com/pmarsceill/dotfiles) - My dotfiles
 - [naggie/dotfiles](https://github.com/naggie/dotfiles) - Workstation configuration, provisioning and tools
 - [svermeulen/vim-subversive](https://github.com/svermeulen/vim-subversive) - Vim plugin providing operator motions to quickly replace text
 - [tweekmonster/startuptime.vim](https://github.com/tweekmonster/startuptime.vim) - Breakdown Vim's --startuptime output
