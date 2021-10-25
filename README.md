@@ -365,6 +365,7 @@
 
 ## C# # 
 
+- [jelastic-jps/git-push-deploy](https://github.com/jelastic-jps/git-push-deploy) - Simple Automated CI/CD Pipeline for GitHub and GitLab Projects
 - [GitTools/build-images](https://github.com/GitTools/build-images) - Docker build images for GitVersion
 - [microsoft/solution-accelerator-containerized-store](https://github.com/microsoft/solution-accelerator-containerized-store) - This accelerator was built to provide developers with all of the resources needed to quickly build a vending kiosk prototype with Azure Custom Vision. Use this accelerator to jump start your development efforts with your own data or as a learning tool to better understand how Custom Vision AI can be transformative for frictionless inventory.
 - [Azure-Samples/cdm-azure-data-services-integration](https://github.com/Azure-Samples/cdm-azure-data-services-integration) - Tutorials and sample code for integrating CDM folders with Azure Data Services
@@ -713,6 +714,7 @@
 
 ## CSS 
 
+- [virtualstaticvoid/virtualstaticvoid.github.io](https://github.com/virtualstaticvoid/virtualstaticvoid.github.io) - My Github Pages
 - [cloudyr/cloudyr.github.io](https://github.com/cloudyr/cloudyr.github.io) - the cloudyr project website
 - [codebushi/nextjs-starter-dimension](https://github.com/codebushi/nextjs-starter-dimension) - Next.js static site starter based on the Dimension template.
 - [kinoute/typora-github-night-theme](https://github.com/kinoute/typora-github-night-theme) - Dark Typora themes that reproduce the new GitHub Dark Themes as much as possible.
@@ -1027,6 +1029,7 @@
 
 ## Go 
 
+- [gesquive/git-user](https://github.com/gesquive/git-user) - Git plugin that allows you to save multiple user profiles and set them as project defaults
 - [erizocosmico/dotman](https://github.com/erizocosmico/dotman) - Super simple dotfiles manager
 - [Azure-Samples/functions-custom-handlers](https://github.com/Azure-Samples/functions-custom-handlers) - Sample code for Azure Functions custom handlers
 - [christian-korneck/docker-pushrm](https://github.com/christian-korneck/docker-pushrm) - "Docker Push Readme" - a Docker CLI plugin to update container repo docs
@@ -1844,6 +1847,7 @@
 
 ## JavaScript 
 
+- [semantic-release/git](https://github.com/semantic-release/git) - :twisted_rightwards_arrows: semantic-release plugin to commit release assets to the project's git repository
 - [phishnet/api-v5](https://github.com/phishnet/api-v5) - 
 - [johnbfox/phish-api](https://github.com/johnbfox/phish-api) - API to serve Phish concert data
 - [robertlacok/datasciencenotebooks](https://github.com/robertlacok/datasciencenotebooks) - 
@@ -4970,6 +4974,11 @@
 
 ## R 
 
+- [virtualstaticvoid/heroku-docker-r-shiny-server-app](https://github.com/virtualstaticvoid/heroku-docker-r-shiny-server-app) - Example project showing how to run multiple Shiny applications using Shiny Server on Heroku.
+- [virtualstaticvoid/heroku-docker-r-shinymanager-app](https://github.com/virtualstaticvoid/heroku-docker-r-shinymanager-app) - Example project for using shinymanager on Heroku.
+- [virtualstaticvoid/heroku-buildpack-r-build2](https://github.com/virtualstaticvoid/heroku-buildpack-r-build2) - Heroku buildpack for R (http://www.r-project.org) Build Automation
+- [virtualstaticvoid/heroku-buildpack-r-examples](https://github.com/virtualstaticvoid/heroku-buildpack-r-examples) - Example applications using the Heroku Buildpack for R
+- [virtualstaticvoid/heroku-shinymanager-app](https://github.com/virtualstaticvoid/heroku-shinymanager-app) - Example project for using shinymanager on Heroku.
 - [jimbrig/actdev](https://github.com/jimbrig/actdev) - What the Package Does (One Line, Title Case)
 - [jimbrig/reserver](https://github.com/jimbrig/reserver) - Actuarial Claims Reserving
 - [mdneuzerling/aphhansard](https://github.com/mdneuzerling/aphhansard) - 
@@ -5236,6 +5245,7 @@
 - [Azure/azureml-sdk-for-r](https://github.com/Azure/azureml-sdk-for-r) - Azure Machine Learning SDK for R
 - [giswqs/whiteboxR](https://github.com/giswqs/whiteboxR) - WhiteboxTools R Frontend
 - [jonathanbratt/RBERT](https://github.com/jonathanbratt/RBERT) - Implementation of BERT in R
+- [MathiasHarrer/Doing-Meta-Analysis-in-R](https://github.com/MathiasHarrer/Doing-Meta-Analysis-in-R) - All R code and source files for the online guide "Doing Meta-Analysis with R: A Hands-On Guide"
 - [RLesur/Rcade](https://github.com/RLesur/Rcade) - Games to procrastinate with RStudio
 - [amcrisan/Adjutant](https://github.com/amcrisan/Adjutant) - Runs a pubmed query, returns results and allows user to explore high-level structure of returned documents
 - [EllaKaye/distilltools](https://github.com/EllaKaye/distilltools) - A collection of tools to support the creation and styling of content on {distill} websites
@@ -7694,6 +7704,8 @@
 
 ## Ruby 
 
+- [m1foley/fit-commit](https://github.com/m1foley/fit-commit) - A Git hook to validate your commit messages based on community standards.
+- [virtualstaticvoid/taskinator](https://github.com/virtualstaticvoid/taskinator) - A simple orchestration library for running complex processes or workflows in Ruby
 - [benbalter/jekyll-auth](https://github.com/benbalter/jekyll-auth) - A simple way to use GitHub OAuth to serve a protected Jekyll site to your GitHub organization
 - [codervault/codervault](https://github.com/codervault/codervault) - An Open Source, Self-Hosted, Snippet Manager
 - [thoughtbot/parity](https://github.com/thoughtbot/parity) - Shell commands for development, staging, and production parity for Heroku apps
@@ -7766,6 +7778,7 @@
 
 ## Rust 
 
+- [peap/git-global](https://github.com/peap/git-global) - Keep track of all your git repositories.
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [ChristopherBiscardi/windows-screen-capture](https://github.com/ChristopherBiscardi/windows-screen-capture) - 
@@ -7908,6 +7921,18 @@
 
 ## Shell 
 
+- [riezebosch/gitviz](https://github.com/riezebosch/gitviz) - Visualize the directed acyclic graph that is your repository!
+- [ajmalsiddiqui/dotfiles](https://github.com/ajmalsiddiqui/dotfiles) - My Book of Arcane Magic. :')
+- [LucasLarson/gunstage](https://github.com/LucasLarson/gunstage) - 🔫  `git unstage` as a service: a Git plugin for the shell that automagically remembers all the different commands there are to remove files from staging and when to use each
+- [ricardobeat/git-commands](https://github.com/ricardobeat/git-commands) - Custom power-user git commands.
+- [johnkeeping/git-integration](https://github.com/johnkeeping/git-integration) - Easily manage integration branches in Git
+- [KimDarren/git-faker](https://github.com/KimDarren/git-faker) - :ghost: You can be the best GIT-COMMITTER in the planet.
+- [kaunteya/git-checkout-interactive](https://github.com/kaunteya/git-checkout-interactive) - git addon to quickly checkout a branch
+- [madx/git-identity](https://github.com/madx/git-identity) - Manage your identity in Git
+- [pimterry/git-confirm](https://github.com/pimterry/git-confirm) - :question: Git hook to catch placeholders and temporary changes (TODO / @ignore) before you commit them.
+- [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
+- [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
+- [virtualstaticvoid/asdf-docker-compose](https://github.com/virtualstaticvoid/asdf-docker-compose) - docker-compose plugin for asdf version manager
 - [alan-turing-institute/binderhub-deploy](https://github.com/alan-turing-institute/binderhub-deploy) - Deploy a BinderHub from scratch on Microsoft Azure
 - [jimbrig/ohmyzsh](https://github.com/jimbrig/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [jimbrig/dotfiles-wsl](https://github.com/jimbrig/dotfiles-wsl) - 
@@ -8365,7 +8390,6 @@
 - [ewfrees/LossDataAnalyticsOverheads](https://github.com/ewfrees/LossDataAnalyticsOverheads) - This site provides overheads for the drafts of our Loss Data Analytics chapters.
 - [ewfrees/LifeCon](https://github.com/ewfrees/LifeCon) - This site contains lecture notes for Life Contingencies, also known as Actuarial Mathematics. It is part of the Open Actuarial Textbooks project.
 - [kasaai/deeptriangle](https://github.com/kasaai/deeptriangle) - DeepTriangle: A Deep Learning Approach to Loss Reserving
-- [MathiasHarrer/Doing-Meta-Analysis-in-R](https://github.com/MathiasHarrer/Doing-Meta-Analysis-in-R) - All R code and source files for the online guide "Doing Meta-Analysis with R: A Hands-On Guide"
 - [Robinlovelace/open-gat](https://github.com/Robinlovelace/open-gat) - Open source software for geographic transport data analysis and planning
 - [GDSL-UL/the_knowledge](https://github.com/GDSL-UL/the_knowledge) - A Repo of things GDSLers Should Know....
 - [jeroen/RAppArmor](https://github.com/jeroen/RAppArmor) - R interfaces to Linux and AppArmor security methods
