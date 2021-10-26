@@ -365,6 +365,7 @@
 
 ## C# # 
 
+- [kburtram/azuredatastudio-snippets](https://github.com/kburtram/azuredatastudio-snippets) - azuredatastudio extensibility snippets
 - [jelastic-jps/git-push-deploy](https://github.com/jelastic-jps/git-push-deploy) - Simple Automated CI/CD Pipeline for GitHub and GitLab Projects
 - [GitTools/build-images](https://github.com/GitTools/build-images) - Docker build images for GitVersion
 - [microsoft/solution-accelerator-containerized-store](https://github.com/microsoft/solution-accelerator-containerized-store) - This accelerator was built to provide developers with all of the resources needed to quickly build a vending kiosk prototype with Azure Custom Vision. Use this accelerator to jump start your development efforts with your own data or as a learning tool to better understand how Custom Vision AI can be transformative for frictionless inventory.
@@ -1847,6 +1848,7 @@
 
 ## JavaScript 
 
+- [microsoft/generator-azuredatastudio](https://github.com/microsoft/generator-azuredatastudio) - Yeoman generator for Azure Data Studio
 - [semantic-release/git](https://github.com/semantic-release/git) - :twisted_rightwards_arrows: semantic-release plugin to commit release assets to the project's git repository
 - [phishnet/api-v5](https://github.com/phishnet/api-v5) - 
 - [johnbfox/phish-api](https://github.com/johnbfox/phish-api) - API to serve Phish concert data
@@ -2792,6 +2794,15 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/MLOps](https://github.com/microsoft/MLOps) - MLOps examples
+- [Azure/MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft
+- [Azure/DataScienceVM](https://github.com/Azure/DataScienceVM) - Tools and Docs on the Azure Data Science Virtual Machine (http://aka.ms/dsvm)
+- [zachrenwick/AzureDataStudioSQLNotebook](https://github.com/zachrenwick/AzureDataStudioSQLNotebook) - Showing how you can create and use Azure Data Studio SQL notebooks
+- [VasuBhog/AzureDataStudio-Notebooks](https://github.com/VasuBhog/AzureDataStudio-Notebooks) - Helpful Notebooks for Testing, Troubleshooting and Cool features
+- [Jim-BITracks/GitHub-Sample](https://github.com/Jim-BITracks/GitHub-Sample) - 
+- [Jim-BITracks/Webinar-01](https://github.com/Jim-BITracks/Webinar-01) - 
+- [Jim-BITracks/ADS-Notebook-Template](https://github.com/Jim-BITracks/ADS-Notebook-Template) - 
+- [Jim-BITracks/Hands-on-Azure-Data-Studio](https://github.com/Jim-BITracks/Hands-on-Azure-Data-Studio) - Official Site for book series "Hands-On Azure Data Studio"
 - [binder-examples/requirements](https://github.com/binder-examples/requirements) - Simple requirements.txt based example
 - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [microsoft/Azure-Analytics-and-AI-Engagement](https://github.com/microsoft/Azure-Analytics-and-AI-Engagement) - Azure Analytics and AI Engagement
@@ -2972,6 +2983,9 @@
 
 ## Others 
 
+- [Azure/Microsoft-TDSP](https://github.com/Azure/Microsoft-TDSP) - Repository for Microsoft Team Data Science Process containing documents and scripts
+- [BenLangmead/ads1-notebooks](https://github.com/BenLangmead/ads1-notebooks) - Copies of notebooks used in the practical sessions for Algorithms for DNA Sequencing
+- [nvie/nvie](https://github.com/nvie/nvie) - 
 - [jimbrig/datasciencenotebooks](https://github.com/jimbrig/datasciencenotebooks) - 
 - [innovationOUtside/ioc-infrastructure-review](https://github.com/innovationOUtside/ioc-infrastructure-review) - Public repo reviewing infrastructure approaches used to deliver coding courses
 - [jimbrig/espanso](https://github.com/jimbrig/espanso) - Espanso configs
@@ -4003,6 +4017,12 @@
 
 ## PowerShell 
 
+- [cviorel/cviorel.com](https://github.com/cviorel/cviorel.com) - 
+- [cviorel/powerclicore-docker](https://github.com/cviorel/powerclicore-docker) - 
+- [cviorel/Deploy-Lab](https://github.com/cviorel/Deploy-Lab) - Deploy a SQL Server Availability Group
+- [cviorel/home-medialab](https://github.com/cviorel/home-medialab) - 
+- [cviorel/PowerShell](https://github.com/cviorel/PowerShell) - Various scripts
+- [cviorel/dotfiles](https://github.com/cviorel/dotfiles) - Various dotfiles I use
 - [microsoft/PSRule.Rules.CAF](https://github.com/microsoft/PSRule.Rules.CAF) - A suite of rules to validate Azure resources against the Cloud Adoption Framework (CAF) using PSRule.
 - [MicrosoftDocs/cloud-developer-advocates](https://github.com/MicrosoftDocs/cloud-developer-advocates) - Site content for the site listing the Cloud Advocacy team within Developer Relations at Microsoft.
 - [nightroman/Invoke-Build](https://github.com/nightroman/Invoke-Build) - Build Automation in PowerShell
@@ -4154,7 +4174,7 @@
 - [sbergwall/RobocopyPS](https://github.com/sbergwall/RobocopyPS) - RobocopyPS
 - [MarcelMeurer/PowerShellGallery-OneDrive](https://github.com/MarcelMeurer/PowerShellGallery-OneDrive) - Repository for https://www.powershellgallery.com/packages/OneDrive
 - [Appease/PowerShellClient](https://github.com/Appease/PowerShellClient) - The Appease client for PowerShell
-- [r33int/Windows10-Postinstall](https://github.com/r33int/Windows10-Postinstall) - 🛠️ Scripts & programs I use to optimize and debloat my new Windows 10 installations
+- [r33int/Windows10-Postinstall](https://github.com/r33int/Windows10-Postinstall) - 🛠️ Scripts & programs I use to optimize and debloat my new Windows 10 and Windows 11 installations
 - [mattgwagner/New-Machine](https://github.com/mattgwagner/New-Machine) - Utilizing Vagrant, Packer, Chocolatey, and Boxstarter to Configure my Dev Machines
 - [atiq-cs/pwsh-scripts](https://github.com/atiq-cs/pwsh-scripts) - My pwsh scripts
 - [jborean93/ansible-windows](https://github.com/jborean93/ansible-windows) - Scripts that are useful for using Ansible with Windows - not affiliated with Ansible in any way
@@ -4362,7 +4382,7 @@
 - [TheCjw/scoop-retools](https://github.com/TheCjw/scoop-retools) - Scoop bucket for reverse engineering tools
 - [TheRandomLabs/scoop-nonportable](https://github.com/TheRandomLabs/scoop-nonportable) - A Scoop bucket for nonportable applications.
 - [matthewjberger/scoop-nerd-fonts](https://github.com/matthewjberger/scoop-nerd-fonts) - A scoop bucket for installing nerd fonts
-- [lukesampson/scoop-extras](https://github.com/lukesampson/scoop-extras) - "Extras" bucket for Scoop
+- [ScoopInstaller/scoop-extras](https://github.com/ScoopInstaller/scoop-extras) - "Extras" bucket for Scoop
 - [SegoCode/Reg-importer](https://github.com/SegoCode/Reg-importer) - Easy import registry configurations for new windows install - Json values to registry
 - [Metaljisawa/OptimizationWindowsV1](https://github.com/Metaljisawa/OptimizationWindowsV1) - Short script ps1 for remove the unnecessary part on Windows 10
 - [LeDragoX/Win10SmartDebloat](https://github.com/LeDragoX/Win10SmartDebloat) - This is an adapted version from https://github.com/W4RH4WK/Debloat-Windows-10. These scripts will Customize, Debloat and Improve Security/Performance on Windows 10/+.
@@ -4489,7 +4509,7 @@
 - [CHEF-KOCH/Windows-10-hardening](https://github.com/CHEF-KOCH/Windows-10-hardening) - Windows 10 hardening guide without gimmicks
 - [equk/windows](https://github.com/equk/windows) - 💎 tweaks & fixes for windows 10 - mostly powershell
 - [madbomb122/Win10Script](https://github.com/madbomb122/Win10Script) - Win 10 Powershell Script to tweak and change windows settings
-- [lukesampson/scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
+- [ScoopInstaller/scoop](https://github.com/ScoopInstaller/scoop) - A command-line installer for Windows.
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for Windows 10 & Windows 11 fine-tuning and tweaking
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 - [ironmansoftware/universal-dashboard](https://github.com/ironmansoftware/universal-dashboard) - Build beautiful websites with PowerShell.
@@ -4507,6 +4527,8 @@
 
 ## Python 
 
+- [AzureAD/azure-activedirectory-library-for-python](https://github.com/AzureAD/azure-activedirectory-library-for-python) - ADAL for Python
+- [andycasey/ads](https://github.com/andycasey/ads) - Python tool for ADS
 - [jupyterhub/jupyterhub-deploy-docker](https://github.com/jupyterhub/jupyterhub-deploy-docker) - Reference deployment of JupyterHub with docker
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
 - [rememberYou/old-dotfiles](https://github.com/rememberYou/old-dotfiles) - Old personal dotfiles configuration
@@ -4974,6 +4996,8 @@
 
 ## R 
 
+- [RobinHankin/onion](https://github.com/RobinHankin/onion) - R functionality to deal with quaternions and octonions
+- [prioritizr/prioritizr](https://github.com/prioritizr/prioritizr) - Systematic conservation prioritization in R
 - [virtualstaticvoid/heroku-docker-r-shiny-server-app](https://github.com/virtualstaticvoid/heroku-docker-r-shiny-server-app) - Example project showing how to run multiple Shiny applications using Shiny Server on Heroku.
 - [virtualstaticvoid/heroku-docker-r-shinymanager-app](https://github.com/virtualstaticvoid/heroku-docker-r-shinymanager-app) - Example project for using shinymanager on Heroku.
 - [virtualstaticvoid/heroku-buildpack-r-build2](https://github.com/virtualstaticvoid/heroku-buildpack-r-build2) - Heroku buildpack for R (http://www.r-project.org) Build Automation
@@ -5673,7 +5697,7 @@
 - [grantmcdermott/containerit-demo](https://github.com/grantmcdermott/containerit-demo) - Simple demo that builds a Docker image from a repo's contents using the containerit package
 - [gadenbuie/gistfo](https://github.com/gadenbuie/gistfo) - Turn your RStudio untitled tabs into gists. You monsters.
 - [gadenbuie/git2rdata](https://github.com/gadenbuie/git2rdata) - An R package for storing and retrieving data.frames in git repositories.
-- [gadenbuie/crantrack](https://github.com/gadenbuie/crantrack) - 
+- [gadenbuie/crantrack](https://github.com/gadenbuie/crantrack) - Hourly snapshots of CRAN's incoming packages folder
 - [eddelbuettel/crp](https://github.com/eddelbuettel/crp) - Archived copies of the CRAN Repo Policy
 - [frankkramer-lab/mully](https://github.com/frankkramer-lab/mully) - R package to create, modify and visualize graphs with multiple layers.
 - [feddelegrand7/ralger](https://github.com/feddelegrand7/ralger) - ralger makes it easy to scrape a website. Built on the shoulders of titans: rvest, xml2.
@@ -7704,6 +7728,7 @@
 
 ## Ruby 
 
+- [nvie/homebrew-tap](https://github.com/nvie/homebrew-tap) - Personal taps for Homebrew
 - [m1foley/fit-commit](https://github.com/m1foley/fit-commit) - A Git hook to validate your commit messages based on community standards.
 - [virtualstaticvoid/taskinator](https://github.com/virtualstaticvoid/taskinator) - A simple orchestration library for running complex processes or workflows in Ruby
 - [benbalter/jekyll-auth](https://github.com/benbalter/jekyll-auth) - A simple way to use GitHub OAuth to serve a protected Jekyll site to your GitHub organization
@@ -7778,6 +7803,7 @@
 
 ## Rust 
 
+- [mdzk-rs/mdzk](https://github.com/mdzk-rs/mdzk) - Plain text Zettelkasten based on mdBook
 - [peap/git-global](https://github.com/peap/git-global) - Keep track of all your git repositories.
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
@@ -7921,6 +7947,9 @@
 
 ## Shell 
 
+- [wimpysworld/quickemu](https://github.com/wimpysworld/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
+- [mikeroyal/azuredatastudio-snap](https://github.com/mikeroyal/azuredatastudio-snap) - A snap for azuredatastudio, Azure Data Studio is a data management tool that works with SQL Server, Azure SQL DB and SQL DW.
+- [nvie/dotfiles](https://github.com/nvie/dotfiles) - 
 - [riezebosch/gitviz](https://github.com/riezebosch/gitviz) - Visualize the directed acyclic graph that is your repository!
 - [ajmalsiddiqui/dotfiles](https://github.com/ajmalsiddiqui/dotfiles) - My Book of Arcane Magic. :')
 - [LucasLarson/gunstage](https://github.com/LucasLarson/gunstage) - 🔫  `git unstage` as a service: a Git plugin for the shell that automagically remembers all the different commands there are to remove files from staging and when to use each
@@ -8374,6 +8403,8 @@
 
 ## TSQL 
 
+- [vladimir-aleyev/t-sql](https://github.com/vladimir-aleyev/t-sql) - useful t-sql scripts
+- [JocaPC/AzureDataStudio-Managed-Instance](https://github.com/JocaPC/AzureDataStudio-Managed-Instance) - Managed Instance extension for Azure Data Studio
 - [gompertzmakeham/hazardrates](https://github.com/gompertzmakeham/hazardrates) - Proactive methodological disclosure of a high resolution precision calibrated estimate of the Gompertz-Makeham Law of Mortality and general utilization hazard rates through lifespan interferometry against annual census data consolidated from the administrative data of all publicly funded healthcare provided in a single geopolitical jurisdiction.
 - [lob/pg_insights](https://github.com/lob/pg_insights) - A collection of convenient SQL for monitoring Postgres database health.
 - [datacharmer/test_db](https://github.com/datacharmer/test_db) - A sample MySQL database with an integrated test suite, used to test your applications and database servers
@@ -8455,6 +8486,9 @@
 
 ## TypeScript 
 
+- [BateleurIO/azuredatastudio-combine-scripts](https://github.com/BateleurIO/azuredatastudio-combine-scripts) - Combine several script files.
+- [microsoft/azuredatastudio-postgresql](https://github.com/microsoft/azuredatastudio-postgresql) - azuredatastudio-postgresql is an extension for Azure Data Studio that enables you to work with PostgreSQL databases
+- [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio) - Azure Data Studio is a data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) - Tasks for Azure Pipelines
 - [lazerwalker/machine-learning-rps](https://github.com/lazerwalker/machine-learning-rps) - 
@@ -8819,6 +8853,8 @@
 
 ## Vim script 
 
+- [nvie/vim-flake8](https://github.com/nvie/vim-flake8) - Flake8 plugin for Vim
+- [nvie/vimrc](https://github.com/nvie/vimrc) - My personal Neovim configuration, with a lot of love put into it.
 - [pmarsceill/dotfiles](https://github.com/pmarsceill/dotfiles) - My dotfiles
 - [naggie/dotfiles](https://github.com/naggie/dotfiles) - Workstation configuration, provisioning and tools
 - [svermeulen/vim-subversive](https://github.com/svermeulen/vim-subversive) - Vim plugin providing operator motions to quickly replace text
