@@ -1314,6 +1314,7 @@
 
 ## HTML 
 
+- [berlotto/flask-app-template](https://github.com/berlotto/flask-app-template) - An complete Flask application template, with useful plugins.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
 - [ropensci-org/rotemplate](https://github.com/ropensci-org/rotemplate) - pkgdown template for rOpenSci packages :nail_care: :sparkles:
 - [corpsgeek/flask-form-handling](https://github.com/corpsgeek/flask-form-handling) - 
@@ -1850,6 +1851,7 @@
 
 ## JavaScript 
 
+- [jimbrig/KaaS](https://github.com/jimbrig/KaaS) - KaaS - Knowledge as a Service
 - [alexjv89/echoalex_com](https://github.com/alexjv89/echoalex_com) - Source code for echoalex.com
 - [switchless-io/docs](https://github.com/switchless-io/docs) - 
 - [alexjv89/markdown-it-obsidian](https://github.com/alexjv89/markdown-it-obsidian) - Convert obsidian wiki links to markdown links
@@ -3138,7 +3140,7 @@
 - [Xenirvana/Project-Documentation-Collection](https://github.com/Xenirvana/Project-Documentation-Collection) - A collection of templates for various forms of Project Documentation, in multiple formats. Some I wrote up myself, others are random, assorted templates sourced from across the web, mostly GitHub. All Docs templates in this repository come in both Markdown and Plaintext varieties, in addition to some more 'formal', and in depth Docs Templates written in Microsoft Word, and thusly coming in *.doc/*.docx formats, as well as *.rtf. Includes README Templates, CHANGELOG Templates, CONTRIBUTING Templates, Code of Conduct Templates, various niche Documentation Types, and a collection of the most commonly used Licenses in Plaintext, Rich Formatted Text, and Markdown formats also.
 - [jimbrig/dj-events-frontend](https://github.com/jimbrig/dj-events-frontend) - Next.js website to list DJ and other musical events
 - [AndyFul/ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) - Utility for configuring Windows 10 built-in Defender antivirus settings.
-- [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Win10XPE is a Complete Project Based on Win10 Recovery Environment With Many Windows Features Added...
+- [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Win10XPE is a Complete Project Based on Win10, Win11 Recovery Environment With Many Windows Features Added...
 - [lihbr/doc-win10-reset](https://github.com/lihbr/doc-win10-reset) - A personal reminder of many crappy stuff to do when formating to Windows 10
 - [dwyl/dev-setup](https://github.com/dwyl/dev-setup) - :airplane: A quick-start guide for new developers on how to set up their environments
 - [andrewchaa/developer-machine-setup](https://github.com/andrewchaa/developer-machine-setup) - Mixed Development Environment on Mac with Windows on Parallels Desktop
@@ -4515,7 +4517,7 @@
 - [CHEF-KOCH/Windows-10-hardening](https://github.com/CHEF-KOCH/Windows-10-hardening) - Windows 10 hardening guide without gimmicks
 - [equk/windows](https://github.com/equk/windows) - 💎 tweaks & fixes for windows 10 - mostly powershell
 - [madbomb122/Win10Script](https://github.com/madbomb122/Win10Script) - Win 10 Powershell Script to tweak and change windows settings
-- [ScoopInstaller/scoop](https://github.com/ScoopInstaller/scoop) - A command-line installer for Windows.
+- [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for Windows 10 & Windows 11 fine-tuning and tweaking
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 - [ironmansoftware/universal-dashboard](https://github.com/ironmansoftware/universal-dashboard) - Build beautiful websites with PowerShell.
@@ -4533,6 +4535,14 @@
 
 ## Python 
 
+- [alectrocute/flaskSaaS](https://github.com/alectrocute/flaskSaaS) - A great starting point to build your SaaS in Flask & Python, with Stripe subscription billing 🚀
+- [xen/flask-project-template](https://github.com/xen/flask-project-template) - Ready to ship big flask project template
+- [jamescurtin/demo-cookiecutter-flask](https://github.com/jamescurtin/demo-cookiecutter-flask) - Example project auto-generated from the most recent commit to https://github.com/cookiecutter-flask/cookiecutter-flask
+- [cookiecutter-flask/cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask) - A flask template with Bootstrap 4, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.
+- [soumilshah1995/FlaskRestful-Swagger-UI-Docker-Compose-Unit-Test-How-to-organize-Python-Code-for-REST-API](https://github.com/soumilshah1995/FlaskRestful-Swagger-UI-Docker-Compose-Unit-Test-How-to-organize-Python-Code-for-REST-API) - FlaskRestful + Swagger UI + Docker Compose + Unit Test | How to organize Python Code for REST API
+- [soumilshah1995/Python-Flask-Redis-Celery-Docker](https://github.com/soumilshah1995/Python-Flask-Redis-Celery-Docker) - Learn how to use Python with Flask Redis and Celery and pack everything into Docker Container
+- [nickjj/flask-db](https://github.com/nickjj/flask-db) - A Flask CLI extension to help migrate and manage your SQL database.
+- [lsiden/flask-api-autodoc](https://github.com/lsiden/flask-api-autodoc) - 
 - [trustedsec/unicorn](https://github.com/trustedsec/unicorn) - Unicorn is a simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory. Based on Matthew Graeber's powershell attacks and the powershell bypass technique presented by David Kennedy (TrustedSec) and Josh Kelly at Defcon 18.
 - [AzureAD/azure-activedirectory-library-for-python](https://github.com/AzureAD/azure-activedirectory-library-for-python) - ADAL for Python
 - [andycasey/ads](https://github.com/andycasey/ads) - Python tool for ADS
@@ -8495,6 +8505,7 @@
 
 ## TypeScript 
 
+- [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell) - Provides PowerShell language and debugging support for Visual Studio Code
 - [lynchjames/obsidian-day-planner](https://github.com/lynchjames/obsidian-day-planner) - An Obsidian plugin for day planning and managing pomodoro timers from a task list in a Markdown note.
 - [BateleurIO/azuredatastudio-combine-scripts](https://github.com/BateleurIO/azuredatastudio-combine-scripts) - Combine several script files.
 - [microsoft/azuredatastudio-postgresql](https://github.com/microsoft/azuredatastudio-postgresql) - azuredatastudio-postgresql is an extension for Azure Data Studio that enables you to work with PostgreSQL databases
