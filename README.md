@@ -387,7 +387,7 @@
 - [davotronic5000/PowerShell_Credential_Manager](https://github.com/davotronic5000/PowerShell_Credential_Manager) - PowerShell Module to Read and Write Credentials from the Windows Credential Manager
 - [luandersonn/MyFTP](https://github.com/luandersonn/MyFTP) - A modern FTP client for Windows 11
 - [dongle-the-gadget/W11ISOPatcher](https://github.com/dongle-the-gadget/W11ISOPatcher) - Windows 11 ISO patcher
-- [ikas-mc/ContextMenuForWindows11](https://github.com/ikas-mc/ContextMenuForWindows11) - 
+- [ikas-mc/ContextMenuForWindows11](https://github.com/ikas-mc/ContextMenuForWindows11) - Add Context Menu For Windows11
 - [hahagu/WindowsThumbnailGenerator](https://github.com/hahagu/WindowsThumbnailGenerator) - 
 - [microsoft/Windows-appsample-customers-orders-database](https://github.com/microsoft/Windows-appsample-customers-orders-database) - This code demonstrates a working customer order database hosted on Azure, implemented in C# and XAML, and ready to form the basis of your Windows Store enterprise app.
 - [stnkl/EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - Everything integration for the Windows taskbar.
@@ -715,6 +715,7 @@
 
 ## CSS 
 
+- [Mara-Li/Obsidian-Snippet-collection](https://github.com/Mara-Li/Obsidian-Snippet-collection) - A collection of snippet to customize obsidian
 - [virtualstaticvoid/virtualstaticvoid.github.io](https://github.com/virtualstaticvoid/virtualstaticvoid.github.io) - My Github Pages
 - [cloudyr/cloudyr.github.io](https://github.com/cloudyr/cloudyr.github.io) - the cloudyr project website
 - [codebushi/nextjs-starter-dimension](https://github.com/codebushi/nextjs-starter-dimension) - Next.js static site starter based on the Dimension template.
@@ -1314,6 +1315,8 @@
 
 ## HTML 
 
+- [sfirke/packagemetrics](https://github.com/sfirke/packagemetrics) - A Package for Helping You Choose Which Package to Use
+- [IndrajeetPatil/awesome-r-pkgtools](https://github.com/IndrajeetPatil/awesome-r-pkgtools) - A curated list of awesome resources for R package development
 - [berlotto/flask-app-template](https://github.com/berlotto/flask-app-template) - An complete Flask application template, with useful plugins.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
 - [ropensci-org/rotemplate](https://github.com/ropensci-org/rotemplate) - pkgdown template for rOpenSci packages :nail_care: :sparkles:
@@ -1851,7 +1854,7 @@
 
 ## JavaScript 
 
-- [jimbrig/KaaS](https://github.com/jimbrig/KaaS) - KaaS - Knowledge as a Service
+- [IndrajeetPatil/actions](https://github.com/IndrajeetPatil/actions) - GitHub Actions for the R community
 - [alexjv89/echoalex_com](https://github.com/alexjv89/echoalex_com) - Source code for echoalex.com
 - [switchless-io/docs](https://github.com/switchless-io/docs) - 
 - [alexjv89/markdown-it-obsidian](https://github.com/alexjv89/markdown-it-obsidian) - Convert obsidian wiki links to markdown links
@@ -2999,7 +3002,7 @@
 - [innovationOUtside/ioc-infrastructure-review](https://github.com/innovationOUtside/ioc-infrastructure-review) - Public repo reviewing infrastructure approaches used to deliver coding courses
 - [jimbrig/espanso](https://github.com/jimbrig/espanso) - Espanso configs
 - [jimbrig/MLOps](https://github.com/jimbrig/MLOps) - 
-- [wuelnerdotexe/vscode-enfocado](https://github.com/wuelnerdotexe/vscode-enfocado) - How the themes should be.
+- [wuelnerdotexe/vscode-enfocado](https://github.com/wuelnerdotexe/vscode-enfocado) - How themes should be.
 - [microsoft/AzureStorageExplorer](https://github.com/microsoft/AzureStorageExplorer) - Easily manage the contents of your storage account with Azure Storage Explorer. Upload, download, and manage blobs, files, queues, tables, and Cosmos DB entities. Gain easy access to manage your virtual machine disks. Work with either Azure Resource Manager or classic storage accounts, plus manage and configure cross-origin resource sharing (CORS) rules.
 - [ddbeck/readme-checklist](https://github.com/ddbeck/readme-checklist) - A checklist for writing READMEs
 - [nickoki/node_app_checklist](https://github.com/nickoki/node_app_checklist) - A tl;dr checklist to guide your workflow for your new Node App
@@ -4025,6 +4028,7 @@
 
 ## PowerShell 
 
+- [Gnopps/ObsidianTodo](https://github.com/Gnopps/ObsidianTodo) - Script to automatically transfer todos (or anything) from your Obsidian-files (or any file) to your task system (or any email)
 - [cviorel/cviorel.com](https://github.com/cviorel/cviorel.com) - 
 - [cviorel/powerclicore-docker](https://github.com/cviorel/powerclicore-docker) - 
 - [cviorel/Deploy-Lab](https://github.com/cviorel/Deploy-Lab) - Deploy a SQL Server Availability Group
@@ -4535,6 +4539,7 @@
 
 ## Python 
 
+- [tecladocode/python-refresher](https://github.com/tecladocode/python-refresher) - A Python refresher section for all our courses
 - [alectrocute/flaskSaaS](https://github.com/alectrocute/flaskSaaS) - A great starting point to build your SaaS in Flask & Python, with Stripe subscription billing 🚀
 - [xen/flask-project-template](https://github.com/xen/flask-project-template) - Ready to ship big flask project template
 - [jamescurtin/demo-cookiecutter-flask](https://github.com/jamescurtin/demo-cookiecutter-flask) - Example project auto-generated from the most recent commit to https://github.com/cookiecutter-flask/cookiecutter-flask
@@ -4698,7 +4703,6 @@
 - [tonycpsu/streamglob](https://github.com/tonycpsu/streamglob) - A console media browser designed to facilitate live and time-shifted viewing of online content.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [wal-e/wal-e](https://github.com/wal-e/wal-e) - Continuous Archiving for Postgres
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self host.
 - [kennethreitz/records](https://github.com/kennethreitz/records) - SQL for Humans™
 - [PostgREST/postgrest-docs](https://github.com/PostgREST/postgrest-docs) - Documentation for PostgREST
 - [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
@@ -5013,6 +5017,18 @@
 
 ## R 
 
+- [tidylab/usethat](https://github.com/tidylab/usethat) - usethat is a workflow project: it automates repetitive tasks that arise during analytic project setup and development.
+- [yonicd/foreman](https://github.com/yonicd/foreman) - Unpacking, Interrogating and Subsetting R packages
+- [RDocTaskForce/pkgcond](https://github.com/RDocTaskForce/pkgcond) - Classed Error and Warning Conditions
+- [DominikRafacz/auprc](https://github.com/DominikRafacz/auprc) - Package for calculating AUPRC (Area Under Precision-Recall Curve) in R
+- [DominikRafacz/AMLPRO2](https://github.com/DominikRafacz/AMLPRO2) - Repository for 2 project for Advanced Machnie Learning course
+- [DominikRafacz/deepdep](https://github.com/DominikRafacz/deepdep) - Visualise and Explore Deep Dependencies of R packages
+- [coolbutuseless/rd2list](https://github.com/coolbutuseless/rd2list) - Convert Rd documentation to a structured, human-readable list
+- [zhuxr11/roclang](https://github.com/zhuxr11/roclang) - A package that helps to diffuse 'roxygen' documentations.
+- [stevecondylios/collidr](https://github.com/stevecondylios/collidr) - Check for namespace collisions across a half a million packages and functions on CRAN 💥
+- [collidrpackage/collidr](https://github.com/collidrpackage/collidr) - Avoiding Namespace Collisions in R
+- [IndrajeetPatil/ipmisc](https://github.com/IndrajeetPatil/ipmisc) - Miscellaneous helper functions for data cleaning and data analysis
+- [anhoej/r4spc](https://github.com/anhoej/r4spc) - Statistical process control charts with R
 - [jimbrig/lossdevt](https://github.com/jimbrig/lossdevt) - An R package and Shiny App for Actuarial Loss Development and Reserving
 - [RobinHankin/onion](https://github.com/RobinHankin/onion) - R functionality to deal with quaternions and octonions
 - [prioritizr/prioritizr](https://github.com/prioritizr/prioritizr) - Systematic conservation prioritization in R
@@ -6138,7 +6154,6 @@
 - [dr2pedro/baseR-multiarch-Docker-image](https://github.com/dr2pedro/baseR-multiarch-Docker-image) - Just a Dockerfile to build multi-arch docker image of R for development.
 - [m-jahn/R-tools](https://github.com/m-jahn/R-tools) - often used R scripts for bio-informatics work and plotting
 - [Nazaniiin/EDA_QualityofRedWine](https://github.com/Nazaniiin/EDA_QualityofRedWine) - :wine_glass: :chart_with_upwards_trend: (EDA) R - Vizualization / Performed exploratory analysis and visualization on Red Wine Quality dataset; Mainly answering which chemical properties influence the quality of red wines.
-- [stevecondylios/collidr](https://github.com/stevecondylios/collidr) - Check for namespace collisions across a half a million packages and functions on CRAN 💥
 - [mkearney/callmethod](https://github.com/mkearney/callmethod) - 🤙 Call Method for Developing Packages
 - [nunesma/Health-analytics](https://github.com/nunesma/Health-analytics) - Data analysis focusing on health problems
 - [tkanngiesser/R-for-Everyone-Code-Samples](https://github.com/tkanngiesser/R-for-Everyone-Code-Samples) - Code Examples used in https://www.amazon.com/Everyone-Advanced-Analytics-Graphics-Addison-Wesley/dp/013454692X
@@ -7821,6 +7836,7 @@
 
 ## Rust 
 
+- [r-darwish/topgrade-clone](https://github.com/r-darwish/topgrade-clone) - 
 - [mdzk-rs/mdzk](https://github.com/mdzk-rs/mdzk) - Plain text Zettelkasten based on mdBook
 - [peap/git-global](https://github.com/peap/git-global) - Keep track of all your git repositories.
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
@@ -7965,6 +7981,7 @@
 
 ## Shell 
 
+- [jimbrig/KaaS](https://github.com/jimbrig/KaaS) - KaaS - Knowledge as a Service
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [wimpysworld/quickemu](https://github.com/wimpysworld/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [mikeroyal/azuredatastudio-snap](https://github.com/mikeroyal/azuredatastudio-snap) - A snap for azuredatastudio, Azure Data Studio is a data management tool that works with SQL Server, Azure SQL DB and SQL DW.
@@ -8505,6 +8522,7 @@
 
 ## TypeScript 
 
+- [mcndt/obsidian-toggl-integration](https://github.com/mcndt/obsidian-toggl-integration) - A Toggl integration plugin for the popular knowledge base application Obsidian.
 - [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell) - Provides PowerShell language and debugging support for Visual Studio Code
 - [lynchjames/obsidian-day-planner](https://github.com/lynchjames/obsidian-day-planner) - An Obsidian plugin for day planning and managing pomodoro timers from a task list in a Markdown note.
 - [BateleurIO/azuredatastudio-combine-scripts](https://github.com/BateleurIO/azuredatastudio-combine-scripts) - Combine several script files.
@@ -8613,6 +8631,7 @@
 - [garrylachman/ElectroCRUD](https://github.com/garrylachman/ElectroCRUD) - Database CRUD Application Built on Electron | MySQL, Postgres, SQLite
 - [gajus/slonik](https://github.com/gajus/slonik) - A PostgreSQL client with strict types, detailed logging and assertions.
 - [kriasoft/relay-starter-kit](https://github.com/kriasoft/relay-starter-kit) - 💥  Yarn v2 based monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, Relay, and Material UI.
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self host.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
 - [Purii/react-native-tableview-simple](https://github.com/Purii/react-native-tableview-simple) - Flexible and lightweight React Native component for UITableView made with pure CSS
@@ -8652,7 +8671,7 @@
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.
 - [jevakallio/git-notify](https://github.com/jevakallio/git-notify) - 🙉 📣 Communicate important updates to your team via git commit messages
 - [JasonEtco/create-an-issue](https://github.com/JasonEtco/create-an-issue) - A GitHub Action for creating a new issue from a template file.
-- [booster-labs/rocket-booster](https://github.com/booster-labs/rocket-booster) - 🚀 Lightweight and scalable reverse proxy and load balancing library built for Cloudflare Workers.
+- [xiaoyang-sde/rocket-booster](https://github.com/xiaoyang-sde/rocket-booster) - 🚀 Lightweight and scalable reverse proxy and load balancing library built for Cloudflare Workers.
 - [obsidian-userland/publish](https://github.com/obsidian-userland/publish) - Open source Obsidian Publish alternative
 - [skalnik/obsidian-readwise-sync](https://github.com/skalnik/obsidian-readwise-sync) - Sync Readwise Highlights to Obsidian
 - [jplattel/obsidian-query-language](https://github.com/jplattel/obsidian-query-language) - An Obsidian plugin allowing you to query your notes
@@ -8881,7 +8900,7 @@
 - [naggie/dotfiles](https://github.com/naggie/dotfiles) - Workstation configuration, provisioning and tools
 - [svermeulen/vim-subversive](https://github.com/svermeulen/vim-subversive) - Vim plugin providing operator motions to quickly replace text
 - [tweekmonster/startuptime.vim](https://github.com/tweekmonster/startuptime.vim) - Breakdown Vim's --startuptime output
-- [wuelnerdotexe/vim-enfocado](https://github.com/wuelnerdotexe/vim-enfocado) - How the themes should be.
+- [wuelnerdotexe/vim-enfocado](https://github.com/wuelnerdotexe/vim-enfocado) - How themes should be.
 - [Optixal/neovim-init.vim](https://github.com/Optixal/neovim-init.vim) - :izakaya_lantern: A Neovim configuration for productive users who want to elevate their Vim experience with a functional, yet aesthetic experience :izakaya_lantern:
 - [preservim/tagbar](https://github.com/preservim/tagbar) - Vim plugin that displays tags in a window, ordered by scope
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
