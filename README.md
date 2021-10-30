@@ -1031,6 +1031,7 @@
 
 ## Go 
 
+- [Yash-Handa/logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
 - [jackyzha0/hugo-obsidian](https://github.com/jackyzha0/hugo-obsidian) - simple GitHub action to parse Markdown Links into a .yaml file for Hugo
 - [gesquive/git-user](https://github.com/gesquive/git-user) - Git plugin that allows you to save multiple user profiles and set them as project defaults
 - [erizocosmico/dotman](https://github.com/erizocosmico/dotman) - Super simple dotfiles manager
@@ -1985,6 +1986,7 @@
 - [dominique-mueller/exec-bin](https://github.com/dominique-mueller/exec-bin) - Run any binary files / executables within your npm scripts.
 - [Rohithv07/Docker](https://github.com/Rohithv07/Docker) - My Workplay on Docker and Kubernetes. Ref : https://github.com/Rohithv07/DockerCasts
 - [mdn/data](https://github.com/mdn/data) - This repository contains general data for Web technologies
+- [mattwaler/next-ssr-starter](https://github.com/mattwaler/next-ssr-starter) - A starter project for Next with session-based auth ready to go.
 - [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [fastify/fastify-nextjs](https://github.com/fastify/fastify-nextjs) - React server side rendering support for Fastify with Next
 - [styxlab/gatsby-starter-try-ghost](https://github.com/styxlab/gatsby-starter-try-ghost) - Publish flaring fast blogs with Gatsby and Ghost
@@ -2945,6 +2947,7 @@
 
 ## Markdown 
 
+- [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Mustache 
@@ -4394,7 +4397,7 @@
 - [TheCjw/scoop-retools](https://github.com/TheCjw/scoop-retools) - Scoop bucket for reverse engineering tools
 - [TheRandomLabs/scoop-nonportable](https://github.com/TheRandomLabs/scoop-nonportable) - A Scoop bucket for nonportable applications.
 - [matthewjberger/scoop-nerd-fonts](https://github.com/matthewjberger/scoop-nerd-fonts) - A scoop bucket for installing nerd fonts
-- [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) - "Extras" bucket for Scoop
+- [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) - The Extras bucket for Scoop.
 - [SegoCode/Reg-importer](https://github.com/SegoCode/Reg-importer) - Easy import registry configurations for new windows install - Json values to registry
 - [Metaljisawa/OptimizationWindowsV1](https://github.com/Metaljisawa/OptimizationWindowsV1) - Short script ps1 for remove the unnecessary part on Windows 10
 - [LeDragoX/Win10SmartDebloat](https://github.com/LeDragoX/Win10SmartDebloat) - This is an adapted version from https://github.com/W4RH4WK/Debloat-Windows-10. These scripts will Customize, Debloat and Improve Security/Performance on Windows 10/+.
@@ -4473,7 +4476,7 @@
 - [Laoujin/dotfiles](https://github.com/Laoujin/dotfiles) - Sync Windows configuration, program settings, dotfiles and PowerShell profiles
 - [jivkok/Chocolatey-Packages](https://github.com/jivkok/Chocolatey-Packages) - Repo for hosting Chocolatey packages
 - [yihui/tinytex-releases](https://github.com/yihui/tinytex-releases) - Windows/macOS/Linux binaries and installation methods of TinyTeX
-- [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) - 📦 The next-generation default bucket for Scoop.
+- [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) - The default bucket for Scoop.
 - [raeffs/dotfiles](https://github.com/raeffs/dotfiles) - Your dotfiles are how you personalize your system. These are mine for Windows.
 - [jonathanbell/.dotfiles-windows](https://github.com/jonathanbell/.dotfiles-windows) - Configuration files and new computer setup instructions for Windows
 - [hashhar/windows-dotfiles](https://github.com/hashhar/windows-dotfiles) - My dotfiles on Windows.
@@ -4539,6 +4542,7 @@
 
 ## Python 
 
+- [EskelinenAntti/cdir](https://github.com/EskelinenAntti/cdir) - A faster way to navigate folders and browse files in Windows and Linux shells.
 - [tecladocode/python-refresher](https://github.com/tecladocode/python-refresher) - A Python refresher section for all our courses
 - [alectrocute/flaskSaaS](https://github.com/alectrocute/flaskSaaS) - A great starting point to build your SaaS in Flask & Python, with Stripe subscription billing 🚀
 - [xen/flask-project-template](https://github.com/xen/flask-project-template) - Ready to ship big flask project template
@@ -5355,7 +5359,7 @@
 - [etiennebacher/ambiance](https://github.com/etiennebacher/ambiance) - Easily Change RStudio Theme
 - [etiennebacher/circletyper](https://github.com/etiennebacher/circletyper) - Curve Text Elements in R Shiny Using 'CircleType.js'
 - [etiennebacher/ebmisc](https://github.com/etiennebacher/ebmisc) - Personal list of functions
-- [etiennebacher/r-js-adaptation](https://github.com/etiennebacher/r-js-adaptation) - A list of Javascript and CSS libraries that have been adapted in R.
+- [etiennebacher/awesome-R-JS-adaptation](https://github.com/etiennebacher/awesome-R-JS-adaptation) - A list of Javascript and CSS libraries that have been adapted in R.
 - [etiennebacher/prompter](https://github.com/etiennebacher/prompter) - Add tooltips in Shiny apps with hint.css
 - [OHDSI/ROhdsiWebApi](https://github.com/OHDSI/ROhdsiWebApi) - An R package for interfacing with a WebAPI instance
 - [paciorek/future-kubernetes-docker](https://github.com/paciorek/future-kubernetes-docker) - A Docker container for use in a Kubernetes cluster with the R future package.
@@ -7761,6 +7765,7 @@
 
 ## Ruby 
 
+- [athityakumar/colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
 - [nvie/homebrew-tap](https://github.com/nvie/homebrew-tap) - Personal taps for Homebrew
 - [m1foley/fit-commit](https://github.com/m1foley/fit-commit) - A Git hook to validate your commit messages based on community standards.
 - [virtualstaticvoid/taskinator](https://github.com/virtualstaticvoid/taskinator) - A simple orchestration library for running complex processes or workflows in Ruby
@@ -7981,6 +7986,7 @@
 
 ## Shell 
 
+- [supercrabtree/k](https://github.com/supercrabtree/k) - k is the new l, yo
 - [jimbrig/KaaS](https://github.com/jimbrig/KaaS) - KaaS - Knowledge as a Service
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [wimpysworld/quickemu](https://github.com/wimpysworld/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
@@ -8574,7 +8580,6 @@
 - [mrmartineau/gatsby-theme-code-notes](https://github.com/mrmartineau/gatsby-theme-code-notes) - A Gatsby theme for publishing code-related notes to your website
 - [meshcloud/collie-cli](https://github.com/meshcloud/collie-cli) - Collie CLI allows you to manage your AWS, Azure & GCP cloud landscape through a single view.
 - [auth0/nextjs-auth0](https://github.com/auth0/nextjs-auth0) - Next.js SDK for signing in with Auth0
-- [mattwaler/next-ssr-starter](https://github.com/mattwaler/next-ssr-starter) - A starter project for Next with session-based auth ready to go.
 - [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [derwish-pro/obsidian-unique-attachments](https://github.com/derwish-pro/obsidian-unique-attachments) - Obsidian plugin. Renames attachments, making their names unique.
 - [styxlab/next-cms-ghost](https://github.com/styxlab/next-cms-ghost) - Publish flaring fast blogs with Next.js and Ghost CMS
