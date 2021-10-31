@@ -160,7 +160,7 @@
 
 - [tschutter/MyAppData](https://github.com/tschutter/MyAppData) - Windows dotfiles
 - [balsamleti/speedup-windows10](https://github.com/balsamleti/speedup-windows10) - The following batch files are included in the archive 1) Advanced Explorer Settings — This changes more than a dozen File Explorer related settings on Windows 10 that turn of animations, enable menus, or turn off things like Toasts. 2) Disable Automatic App Updates — Turns off automatic updates for Windows Store applications. 3) Disable Automatic Windows Updates — Turns off automatic updates for the Windows 10 operating system itself. 4) Disable Cortana Completely — Rename the cortana process searchUI.exe to searchUI.bak. This will kill the process permanetly and save your ressources. 5) Disable Forced Reboot after Update — Blocks Windows from enforcing a reboot after updates that require one. 6) Disable Lockscreen — Turns off the Windows 10 lockscreen. 7) Disable Telemetry — Turns off Windows 10 Telemetry. 8) Disable Unnecessary Services — This disables the MapsBroker, DoSvc and Wsearch services 9) Enable Defender Malware Protection —   Enables Windows malware Protection. 10)Enable Secure Microsoft Edge Settings — Tweaks Microsoft Edge for security. Changes include turning of Flash and Cortana, enabling continuous browsing, and more. 11)Get Back Old Vertical Desktop Icon Distance —  Changes the vertical icon spacing on the desktop. 12)Hide Cortana — Disables Cortana, and with it web searches and other search related parameters. The Microsoft way of disabling Cortana. 13)Hide OneDrive — Hides OneDrive and disables several related settings. 14)Re-enable Cortana Completely — This preferences turns Cortana on again. 15)Uninstall Unnecessary Apps — Removes ten apps that Windows 10 ships with including 3D Builder, Skype App, Getting Started, or Voice Recorder. 16)Enable Administrator Account — This preference enables the hidden administrator account in Windows. 17)Enable Standby instead of Hibernate — Switch powerstate from hibernation (slow) to standby . 18)Get apps access for Administrator Account — Enable access to applications for the administrator account.
-- [und6ne/win11Patcher](https://github.com/und6ne/win11Patcher) - FOSS Patcher in Batchfile for Windows Users to bypass Windows 11 Restrictions - Unfinished
+- [alsopaypal/win11Patcher](https://github.com/alsopaypal/win11Patcher) - FOSS Patcher in Batchfile for Windows Users to bypass Windows 11 Restrictions - Unfinished
 - [TheWorldOfPC/Windows11-Debloat-Privacy-Guide](https://github.com/TheWorldOfPC/Windows11-Debloat-Privacy-Guide) - 
 - [kyaulabs/win11tweak](https://github.com/kyaulabs/win11tweak) - An automated way to setup/configure Windows 11 based heavily on post-installation tweaks.
 - [ChrisTitusTech/win10RegistryBackup](https://github.com/ChrisTitusTech/win10RegistryBackup) - 
@@ -2997,6 +2997,7 @@
 
 ## Others 
 
+- [awslabs/awscli-aliases](https://github.com/awslabs/awscli-aliases) - Repository for AWS CLI aliases.
 - [trustedsec/Obsidian-Vault-Structure](https://github.com/trustedsec/Obsidian-Vault-Structure) - 
 - [Azure/Microsoft-TDSP](https://github.com/Azure/Microsoft-TDSP) - Repository for Microsoft Team Data Science Process containing documents and scripts
 - [BenLangmead/ads1-notebooks](https://github.com/BenLangmead/ads1-notebooks) - Copies of notebooks used in the practical sessions for Algorithms for DNA Sequencing
@@ -4542,6 +4543,9 @@
 
 ## Python 
 
+- [jmespath/jp](https://github.com/jmespath/jp) - Command line interface to JMESPath - http://jmespath.org
+- [dvershinin/lastversion](https://github.com/dvershinin/lastversion) - Find the latest release version of an arbitrary project
+- [KuSi833/espanso-obsidian-in-colour](https://github.com/KuSi833/espanso-obsidian-in-colour) - An example on how to create an espanso package
 - [EskelinenAntti/cdir](https://github.com/EskelinenAntti/cdir) - A faster way to navigate folders and browse files in Windows and Linux shells.
 - [tecladocode/python-refresher](https://github.com/tecladocode/python-refresher) - A Python refresher section for all our courses
 - [alectrocute/flaskSaaS](https://github.com/alectrocute/flaskSaaS) - A great starting point to build your SaaS in Flask & Python, with Stripe subscription billing 🚀
@@ -4771,7 +4775,7 @@
 - [cascadium/wsl-windows-toolbar-launcher](https://github.com/cascadium/wsl-windows-toolbar-launcher) - Adds linux GUI application menu to a windows toolbar
 - [mortensteenrasmussen/docker-registry-manifest-cleanup](https://github.com/mortensteenrasmussen/docker-registry-manifest-cleanup) - Cleans up docker registry by removing untagged manifests from the registry
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 As easy as /aitch-tee-tee-pie/. Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [jorisroovers/gitlint](https://github.com/jorisroovers/gitlint) - Linting for your git commit messages
 - [jbernard/dotfiles](https://github.com/jbernard/dotfiles) - Dotfile management made easy
 - [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Material Based Cursors 🚀
@@ -7051,7 +7055,6 @@
 - [onlyphantom/darkershiny](https://github.com/onlyphantom/darkershiny) - A Shiny web app template using a dark theme with support for custom CSS
 - [taylorperkins/Shiny-Dashboard-Template](https://github.com/taylorperkins/Shiny-Dashboard-Template) - Shiny Dashboard Template With Appropriate File Structure
 - [karoliskoncevicius/basetheme](https://github.com/karoliskoncevicius/basetheme) - Themes for base plotting system in R
-- [r-hub/r-minimal](https://github.com/r-hub/r-minimal) - Minimal Docker images for R
 - [ropensci/babette](https://github.com/ropensci/babette) - babette is an R package to work with BEAST2
 - [ayalaallon/prepdat](https://github.com/ayalaallon/prepdat) - Preparing Experimental Data for Statistical Analysis
 - [nacnudus/smungs](https://github.com/nacnudus/smungs) - Example spreadsheets for the online book Spreadsheet Munging Strategies https://nacnudus.github.io/spreadsheet-munging-strategies/
@@ -7986,6 +7989,7 @@
 
 ## Shell 
 
+- [jimbrig/dotfiles](https://github.com/jimbrig/dotfiles) - 
 - [supercrabtree/k](https://github.com/supercrabtree/k) - k is the new l, yo
 - [jimbrig/KaaS](https://github.com/jimbrig/KaaS) - KaaS - Knowledge as a Service
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
@@ -8388,6 +8392,7 @@
 - [vincentcox/bypass-firewalls-by-DNS-history](https://github.com/vincentcox/bypass-firewalls-by-DNS-history) - Firewall bypass script based on DNS history records. This script will search for DNS A history records and check if the server replies for that domain. Handy for bugbounty hunters.
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [dmedri/roaster](https://github.com/dmedri/roaster) - R - Fetch, build and deploy.
+- [r-hub/r-minimal](https://github.com/r-hub/r-minimal) - Minimal Docker images for R
 - [grssnbchr/rddj-template](https://github.com/grssnbchr/rddj-template) - A template for bootstrapping reproducible RMarkdown documents for data journalistic purposes.
 - [petervanderdoes/gitflow-avh](https://github.com/petervanderdoes/gitflow-avh) - AVH Edition of the git extensions to provide high-level repository operations for Vincent Driessen's branching model
 - [r-hub/sysreqsdb](https://github.com/r-hub/sysreqsdb) - SystemRequirements mappings for R packages
