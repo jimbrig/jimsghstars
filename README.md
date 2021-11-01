@@ -158,6 +158,7 @@
 
 ## Batchfile 
 
+- [z2k-gwp/obsidian-z2k-utils](https://github.com/z2k-gwp/obsidian-z2k-utils) - Z2K Utilities Library for code shared across all Z2K plugins
 - [tschutter/MyAppData](https://github.com/tschutter/MyAppData) - Windows dotfiles
 - [balsamleti/speedup-windows10](https://github.com/balsamleti/speedup-windows10) - The following batch files are included in the archive 1) Advanced Explorer Settings — This changes more than a dozen File Explorer related settings on Windows 10 that turn of animations, enable menus, or turn off things like Toasts. 2) Disable Automatic App Updates — Turns off automatic updates for Windows Store applications. 3) Disable Automatic Windows Updates — Turns off automatic updates for the Windows 10 operating system itself. 4) Disable Cortana Completely — Rename the cortana process searchUI.exe to searchUI.bak. This will kill the process permanetly and save your ressources. 5) Disable Forced Reboot after Update — Blocks Windows from enforcing a reboot after updates that require one. 6) Disable Lockscreen — Turns off the Windows 10 lockscreen. 7) Disable Telemetry — Turns off Windows 10 Telemetry. 8) Disable Unnecessary Services — This disables the MapsBroker, DoSvc and Wsearch services 9) Enable Defender Malware Protection —   Enables Windows malware Protection. 10)Enable Secure Microsoft Edge Settings — Tweaks Microsoft Edge for security. Changes include turning of Flash and Cortana, enabling continuous browsing, and more. 11)Get Back Old Vertical Desktop Icon Distance —  Changes the vertical icon spacing on the desktop. 12)Hide Cortana — Disables Cortana, and with it web searches and other search related parameters. The Microsoft way of disabling Cortana. 13)Hide OneDrive — Hides OneDrive and disables several related settings. 14)Re-enable Cortana Completely — This preferences turns Cortana on again. 15)Uninstall Unnecessary Apps — Removes ten apps that Windows 10 ships with including 3D Builder, Skype App, Getting Started, or Voice Recorder. 16)Enable Administrator Account — This preference enables the hidden administrator account in Windows. 17)Enable Standby instead of Hibernate — Switch powerstate from hibernation (slow) to standby . 18)Get apps access for Administrator Account — Enable access to applications for the administrator account.
 - [alsopaypal/win11Patcher](https://github.com/alsopaypal/win11Patcher) - FOSS Patcher in Batchfile for Windows Users to bypass Windows 11 Restrictions - Unfinished
@@ -364,6 +365,8 @@
 
 ## C# # 
 
+- [SeeminglyScience/PSStringTemplate](https://github.com/SeeminglyScience/PSStringTemplate) - Create and render templates using the StringTemplate template engine.
+- [PowerShell/platyPS](https://github.com/PowerShell/platyPS) - Write PowerShell External Help in Markdown
 - [Keeper-Security/keeper-sdk-dotnet](https://github.com/Keeper-Security/keeper-sdk-dotnet) - .Net and PowerShell library for Keeper Password Manager
 - [kburtram/azuredatastudio-snippets](https://github.com/kburtram/azuredatastudio-snippets) - azuredatastudio extensibility snippets
 - [jelastic-jps/git-push-deploy](https://github.com/jelastic-jps/git-push-deploy) - Simple Automated CI/CD Pipeline for GitHub and GitLab Projects
@@ -2997,6 +3000,7 @@
 
 ## Others 
 
+- [Gunnerdata/VSCodeConfig](https://github.com/Gunnerdata/VSCodeConfig) - 
 - [awslabs/awscli-aliases](https://github.com/awslabs/awscli-aliases) - Repository for AWS CLI aliases.
 - [trustedsec/Obsidian-Vault-Structure](https://github.com/trustedsec/Obsidian-Vault-Structure) - 
 - [Azure/Microsoft-TDSP](https://github.com/Azure/Microsoft-TDSP) - Repository for Microsoft Team Data Science Process containing documents and scripts
@@ -4032,6 +4036,34 @@
 
 ## PowerShell 
 
+- [dbroeglin/PoshWix](https://github.com/dbroeglin/PoshWix) - PoshWix is an opinionated and trivially simple tool to produce MSI packages from PowerShell modules
+- [mefellows/windows-machine-factory-tutorial](https://github.com/mefellows/windows-machine-factory-tutorial) - Example Machine Factory setup for Windows Server 2012r2
+- [apetitjean/EZLog](https://github.com/apetitjean/EZLog) - A very easy and pragmatic log module for admins in a hurry.
+- [PowerShell/PowerShellGetv2](https://github.com/PowerShell/PowerShellGetv2) - PowerShellGet is the Package Manager for PowerShell
+- [dbroeglin/Forge.Generator](https://github.com/dbroeglin/Forge.Generator) - Powershell Forge generator generator module
+- [dbroeglin/windows-lab](https://github.com/dbroeglin/windows-lab) - Windows Automated Lab with Vagrant
+- [dbroeglin/Forge.Module](https://github.com/dbroeglin/Forge.Module) - Forge generator for PowerShell modules
+- [dbroeglin/Forge](https://github.com/dbroeglin/Forge) - PowerShell code generation (aka scaffolding) module
+- [MarkRobertJohnson/ModuleCreator](https://github.com/MarkRobertJohnson/ModuleCreator) - PowerShell module that helps to create new modules
+- [steviecoaster/PSSysadminToolkit](https://github.com/steviecoaster/PSSysadminToolkit) - A collection of Powershell scripts to make life as a sysadmin just a tiny bit more bearable
+- [pldmgg/GitEnv](https://github.com/pldmgg/GitEnv) - unctions to enhance git experience on Windows.
+- [pldmgg/Sudo](https://github.com/pldmgg/Sudo) - Create an Elevated PowerShell Session as any user that you have credentials for
+- [pldmgg/MiniLab](https://github.com/pldmgg/MiniLab) - Setup a very basic Windows Lab Environment from scratch, or add specific infrastructure components to your existing Domain. Leverages Vagrant Boxes to make deployment faster/easier.
+- [pldmgg/AutoWebCreds](https://github.com/pldmgg/AutoWebCreds) - Functions for SharePoint Online and OnPrem Management
+- [pldmgg/misc-powershell](https://github.com/pldmgg/misc-powershell) - Miscellaneous PowerShell Scripts
+- [pldmgg/VaultServer](https://github.com/pldmgg/VaultServer) - Create, configure, and interact with Hashicorp's Vault Server to help manage secrets in your infrastructure.
+- [pldmgg/BootstrapPowerShellCore](https://github.com/pldmgg/BootstrapPowerShellCore) - Functions to install PowerShell Core on a Remote Host. Opitionally configure pwsh PSRemoting on the Remote Host. All you need is ssh.
+- [RamblingCookieMonster/PSDepend](https://github.com/RamblingCookieMonster/PSDepend) - PowerShell Dependency Handler
+- [psake/PowerShellBuild](https://github.com/psake/PowerShellBuild) - Common build tasks for psake and Invoke-Build that build and test PowerShell modules
+- [contrarianchris/powershell-module-template](https://github.com/contrarianchris/powershell-module-template) - My PowerShell module project template for use with Plaster.
+- [Continuous-Data/PlasterTemplate](https://github.com/Continuous-Data/PlasterTemplate) - A bootstrap and Best practice including build tools for Powershell modules
+- [ChaseFlorell/psDoc](https://github.com/ChaseFlorell/psDoc) - Powershell Help Document Generator
+- [Gunnerdata/psDoc](https://github.com/Gunnerdata/psDoc) - Copy from https://github.com/ChaseFlorell/psDoc
+- [Gunnerdata/Template-PowerShellModule](https://github.com/Gunnerdata/Template-PowerShellModule) - 
+- [tonypags/PsModuleTemplate](https://github.com/tonypags/PsModuleTemplate) - Scaffolding for PowerShell Modules.
+- [MSAdministrator/TemplatePowerShellModule](https://github.com/MSAdministrator/TemplatePowerShellModule) - A Template PowerShell Module
+- [jimbrig/PSWinSetup](https://github.com/jimbrig/PSWinSetup) - PowerShell Module for setting up and provisioning Windows machines.
+- [SCUR0/PowerShell-Scripts](https://github.com/SCUR0/PowerShell-Scripts) - Personal collection of powershell scripts used at home
 - [Gnopps/ObsidianTodo](https://github.com/Gnopps/ObsidianTodo) - Script to automatically transfer todos (or anything) from your Obsidian-files (or any file) to your task system (or any email)
 - [cviorel/cviorel.com](https://github.com/cviorel/cviorel.com) - 
 - [cviorel/powerclicore-docker](https://github.com/cviorel/powerclicore-docker) - 
@@ -4543,9 +4575,12 @@
 
 ## Python 
 
+- [facebook/prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
+- [fredrikaverpil/sqlalchemy-orm](https://github.com/fredrikaverpil/sqlalchemy-orm) - 
+- [fredrikaverpil/dotfiles](https://github.com/fredrikaverpil/dotfiles) - My dotfiles
 - [jmespath/jp](https://github.com/jmespath/jp) - Command line interface to JMESPath - http://jmespath.org
 - [dvershinin/lastversion](https://github.com/dvershinin/lastversion) - Find the latest release version of an arbitrary project
-- [KuSi833/espanso-obsidian-in-colour](https://github.com/KuSi833/espanso-obsidian-in-colour) - An example on how to create an espanso package
+- [KuSi833/espanso-obsidian-in-colour](https://github.com/KuSi833/espanso-obsidian-in-colour) - Espanso package for bring color into Obsidian note-taking.
 - [EskelinenAntti/cdir](https://github.com/EskelinenAntti/cdir) - A faster way to navigate folders and browse files in Windows and Linux shells.
 - [tecladocode/python-refresher](https://github.com/tecladocode/python-refresher) - A Python refresher section for all our courses
 - [alectrocute/flaskSaaS](https://github.com/alectrocute/flaskSaaS) - A great starting point to build your SaaS in Flask & Python, with Stripe subscription billing 🚀
@@ -5025,6 +5060,7 @@
 
 ## R 
 
+- [Dasonk/findPackage](https://github.com/Dasonk/findPackage) - This package helps you find the sos package
 - [tidylab/usethat](https://github.com/tidylab/usethat) - usethat is a workflow project: it automates repetitive tasks that arise during analytic project setup and development.
 - [yonicd/foreman](https://github.com/yonicd/foreman) - Unpacking, Interrogating and Subsetting R packages
 - [RDocTaskForce/pkgcond](https://github.com/RDocTaskForce/pkgcond) - Classed Error and Warning Conditions
@@ -7844,6 +7880,7 @@
 
 ## Rust 
 
+- [federico-terzi/modulo](https://github.com/federico-terzi/modulo) - Basic Cross-platform GUI Toolkit for Any Language
 - [r-darwish/topgrade-clone](https://github.com/r-darwish/topgrade-clone) - 
 - [mdzk-rs/mdzk](https://github.com/mdzk-rs/mdzk) - Plain text Zettelkasten based on mdBook
 - [peap/git-global](https://github.com/peap/git-global) - Keep track of all your git repositories.
@@ -7989,6 +8026,7 @@
 
 ## Shell 
 
+- [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc) - Easy TOC creation for GitHub README.md
 - [jimbrig/dotfiles](https://github.com/jimbrig/dotfiles) - 
 - [supercrabtree/k](https://github.com/supercrabtree/k) - k is the new l, yo
 - [jimbrig/KaaS](https://github.com/jimbrig/KaaS) - KaaS - Knowledge as a Service
