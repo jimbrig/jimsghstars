@@ -942,6 +942,7 @@
 - [Duffney/reclaim](https://github.com/Duffney/reclaim) - Take back your attention, Hit RESET on your digital life.
 - [devkitspaces/packer-on-github](https://github.com/devkitspaces/packer-on-github) - Experimenting with GitHub Actions for building machine images with Packer
 - [saiyam1814/awesome-cloudrun](https://github.com/saiyam1814/awesome-cloudrun) - 👓 ⏩ A curated list of resources about all things Cloud Run
+- [ScoopInstaller/Excavator](https://github.com/ScoopInstaller/Excavator) - 🕳️ This container runs the updating services for all scoop manifest repos
 - [rajarshig/MyReference](https://github.com/rajarshig/MyReference) - Documentation for various software development related topic, using Mkdocs package
 - [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) - :octocat: GitHub Action for Chocolatey, the package manager for Windows
 - [nuest/rocker-win](https://github.com/nuest/rocker-win) - Proof-of-concept for R in Windows containers
@@ -3000,6 +3001,7 @@
 
 ## Others 
 
+- [ozntel/ozanshare-publish-plugin](https://github.com/ozntel/ozanshare-publish-plugin) - This plugin allows you to publish your markdown notes with a single click directly from your Obsidian vault.
 - [Gunnerdata/VSCodeConfig](https://github.com/Gunnerdata/VSCodeConfig) - 
 - [awslabs/awscli-aliases](https://github.com/awslabs/awscli-aliases) - Repository for AWS CLI aliases.
 - [trustedsec/Obsidian-Vault-Structure](https://github.com/trustedsec/Obsidian-Vault-Structure) - 
@@ -4430,7 +4432,7 @@
 - [TheCjw/scoop-retools](https://github.com/TheCjw/scoop-retools) - Scoop bucket for reverse engineering tools
 - [TheRandomLabs/scoop-nonportable](https://github.com/TheRandomLabs/scoop-nonportable) - A Scoop bucket for nonportable applications.
 - [matthewjberger/scoop-nerd-fonts](https://github.com/matthewjberger/scoop-nerd-fonts) - A scoop bucket for installing nerd fonts
-- [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) - The Extras bucket for Scoop.
+- [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) - 📦 The Extras bucket for Scoop.
 - [SegoCode/Reg-importer](https://github.com/SegoCode/Reg-importer) - Easy import registry configurations for new windows install - Json values to registry
 - [Metaljisawa/OptimizationWindowsV1](https://github.com/Metaljisawa/OptimizationWindowsV1) - Short script ps1 for remove the unnecessary part on Windows 10
 - [LeDragoX/Win10SmartDebloat](https://github.com/LeDragoX/Win10SmartDebloat) - This is an adapted version from https://github.com/W4RH4WK/Debloat-Windows-10. These scripts will Customize, Debloat and Improve Security/Performance on Windows 10/+.
@@ -4509,7 +4511,7 @@
 - [Laoujin/dotfiles](https://github.com/Laoujin/dotfiles) - Sync Windows configuration, program settings, dotfiles and PowerShell profiles
 - [jivkok/Chocolatey-Packages](https://github.com/jivkok/Chocolatey-Packages) - Repo for hosting Chocolatey packages
 - [yihui/tinytex-releases](https://github.com/yihui/tinytex-releases) - Windows/macOS/Linux binaries and installation methods of TinyTeX
-- [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) - The default bucket for Scoop.
+- [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) - 📦 The default bucket for Scoop.
 - [raeffs/dotfiles](https://github.com/raeffs/dotfiles) - Your dotfiles are how you personalize your system. These are mine for Windows.
 - [jonathanbell/.dotfiles-windows](https://github.com/jonathanbell/.dotfiles-windows) - Configuration files and new computer setup instructions for Windows
 - [hashhar/windows-dotfiles](https://github.com/hashhar/windows-dotfiles) - My dotfiles on Windows.
@@ -4575,6 +4577,8 @@
 
 ## Python 
 
+- [wslutilities/wslpy](https://github.com/wslutilities/wslpy) - A python3 Library for WSL specific tasks
+- [seanharr11/etlalchemy](https://github.com/seanharr11/etlalchemy) - Extract, Transform, Load: Any SQL Database in 4 lines of Code.
 - [facebook/prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 - [fredrikaverpil/sqlalchemy-orm](https://github.com/fredrikaverpil/sqlalchemy-orm) - 
 - [fredrikaverpil/dotfiles](https://github.com/fredrikaverpil/dotfiles) - My dotfiles
@@ -8048,7 +8052,6 @@
 - [virtualstaticvoid/asdf-docker-compose](https://github.com/virtualstaticvoid/asdf-docker-compose) - docker-compose plugin for asdf version manager
 - [alan-turing-institute/binderhub-deploy](https://github.com/alan-turing-institute/binderhub-deploy) - Deploy a BinderHub from scratch on Microsoft Azure
 - [jimbrig/ohmyzsh](https://github.com/jimbrig/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-- [jimbrig/dotfiles-wsl](https://github.com/jimbrig/dotfiles-wsl) - 
 - [ChrisTitusTech/ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) - Automated Arch Linux Install
 - [rememberYou/dotfiles](https://github.com/rememberYou/dotfiles) - 🏡 Personal dotfiles configuration
 - [Build5Nines/az-kung-fu](https://github.com/Build5Nines/az-kung-fu) - Repo for the Azure CLI Kung Fu series on Build5Nines.com
@@ -8175,7 +8178,6 @@
 - [jimscratch/obsidian-test-sync-vault](https://github.com/jimscratch/obsidian-test-sync-vault) - 
 - [logseq/git-auto](https://github.com/logseq/git-auto) - A Simple Shell Script To Do Git Commit And Push Automatically
 - [udacity/create-your-own-adventure](https://github.com/udacity/create-your-own-adventure) - This is example repo illustrates the concept of a "Pull Request", created as part of the course How to Use Git and GitHub
-- [ScoopInstaller/Excavator](https://github.com/ScoopInstaller/Excavator) - 🕳️ This container runs the updating services for all scoop manifest repos
 - [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [selfire1/goodsidian](https://github.com/selfire1/goodsidian) - A Goodreads to Obsidian script
@@ -8571,6 +8573,7 @@
 
 ## TypeScript 
 
+- [datacamp/rdocumentation-2.0](https://github.com/datacamp/rdocumentation-2.0) - 📚 RDocumentation provides an easy way to search the documentation for every version of every R package on CRAN and Bioconductor.
 - [mcndt/obsidian-toggl-integration](https://github.com/mcndt/obsidian-toggl-integration) - A Toggl integration plugin for the popular knowledge base application Obsidian.
 - [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell) - Provides PowerShell language and debugging support for Visual Studio Code
 - [lynchjames/obsidian-day-planner](https://github.com/lynchjames/obsidian-day-planner) - An Obsidian plugin for day planning and managing pomodoro timers from a task list in a Markdown note.
