@@ -718,6 +718,9 @@
 
 ## CSS 
 
+- [ericgregorich/Obsidian-Publish-CSS](https://github.com/ericgregorich/Obsidian-Publish-CSS) - My custom CSS for Obsidian Publish
+- [chad-bennett/obsidian-publish-css](https://github.com/chad-bennett/obsidian-publish-css) - the publish.css file for my personal website
+- [selfire1/obsidian-publish-css](https://github.com/selfire1/obsidian-publish-css) - The CSS for my Obsdian publish site.
 - [Mara-Li/Obsidian-Snippet-collection](https://github.com/Mara-Li/Obsidian-Snippet-collection) - A collection of snippet to customize obsidian
 - [virtualstaticvoid/virtualstaticvoid.github.io](https://github.com/virtualstaticvoid/virtualstaticvoid.github.io) - My Github Pages
 - [cloudyr/cloudyr.github.io](https://github.com/cloudyr/cloudyr.github.io) - the cloudyr project website
@@ -816,7 +819,6 @@
 - [rstudio/bookdown-demo](https://github.com/rstudio/bookdown-demo) - A minimal book example using bookdown
 - [forsigner/fexo](https://github.com/forsigner/fexo) - A minimalist design theme for hexo.
 - [assemble/assemble](https://github.com/assemble/assemble) - Get the rocks out of your socks! Assemble makes you fast at web development! Used by thousands of projects for rapid prototyping, themes, scaffolds, boilerplates, e-books, UI components, API documentation, blogs, building websites/static site generator, an alternative to Jekyll for gh-pages and more! Gulp- and grunt-friendly.
-- [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
 - [rstudio-education/glossRy](https://github.com/rstudio-education/glossRy) - A glossary of terms used in  and around data science.
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. &lt;personal.management.system.pms@gmail.com&gt;
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
@@ -927,6 +929,7 @@
 
 ## Dockerfile 
 
+- [mpuhacz/building_docker_images_using_dev_ops_pipelines_with_private_dev_ops_artifactory_py_pi_feed](https://github.com/mpuhacz/building_docker_images_using_dev_ops_pipelines_with_private_dev_ops_artifactory_py_pi_feed) - 
 - [analythium/shinyproxy-demo](https://github.com/analythium/shinyproxy-demo) - ShinyProxy Demo Image
 - [devopsjourney1/devops-project2021](https://github.com/devopsjourney1/devops-project2021) - Learn Vagrant, ANsible, Docker, DockerSwarm
 - [rocker-org/rocker-versioned](https://github.com/rocker-org/rocker-versioned) - Run current & prior versions of R using docker
@@ -1859,6 +1862,8 @@
 
 ## JavaScript 
 
+- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
+- [SkepticMystic/breadcrumbs](https://github.com/SkepticMystic/breadcrumbs) - Visualise a custom hierarchy in your Obsidian vault
 - [IndrajeetPatil/actions](https://github.com/IndrajeetPatil/actions) - GitHub Actions for the R community
 - [alexjv89/echoalex_com](https://github.com/alexjv89/echoalex_com) - Source code for echoalex.com
 - [switchless-io/docs](https://github.com/switchless-io/docs) - 
@@ -2881,6 +2886,7 @@
 ## Less 
 
 - [klaussilveira/gitlist](https://github.com/klaussilveira/gitlist) - An elegant and modern git repository viewer
+- [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
 
 ## Liquid 
 
@@ -3964,6 +3970,7 @@
 
 ## PHP 
 
+- [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
 - [matt-schwartz/personal-inventory](https://github.com/matt-schwartz/personal-inventory) - A personal inventory management web app
 - [Sonerezh/sonerezh](https://github.com/Sonerezh/sonerezh) - A self-hosted, web-based application to stream your music, everywhere.
 - [ampache/ampache](https://github.com/ampache/ampache) - A web based audio/video streaming application and file manager allowing you to access your music & videos from anywhere, using almost any internet enabled device.
@@ -4577,6 +4584,7 @@
 
 ## Python 
 
+- [obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub) - Resource hub for Obsidian resources.
 - [wslutilities/wslpy](https://github.com/wslutilities/wslpy) - A python3 Library for WSL specific tasks
 - [seanharr11/etlalchemy](https://github.com/seanharr11/etlalchemy) - Extract, Transform, Load: Any SQL Database in 4 lines of Code.
 - [facebook/prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
@@ -4814,7 +4822,7 @@
 - [cascadium/wsl-windows-toolbar-launcher](https://github.com/cascadium/wsl-windows-toolbar-launcher) - Adds linux GUI application menu to a windows toolbar
 - [mortensteenrasmussen/docker-registry-manifest-cleanup](https://github.com/mortensteenrasmussen/docker-registry-manifest-cleanup) - Cleans up docker registry by removing untagged manifests from the registry
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 As easy as /aitch-tee-tee-pie/. Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [jorisroovers/gitlint](https://github.com/jorisroovers/gitlint) - Linting for your git commit messages
 - [jbernard/dotfiles](https://github.com/jbernard/dotfiles) - Dotfile management made easy
 - [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Material Based Cursors 🚀
@@ -8573,6 +8581,14 @@
 
 ## TypeScript 
 
+- [elias-sundqvist/obsidian-static-file-server](https://github.com/elias-sundqvist/obsidian-static-file-server) - Serve obsidian vault subfolders with a static web server
+- [lifegems/obsidian-related-notes-finder](https://github.com/lifegems/obsidian-related-notes-finder) - An Obsidian extension that adds extra features for note links, statistics, and randomizers
+- [Darakah/obsidian-spotlight](https://github.com/Darakah/obsidian-spotlight) - Show random block of notes from vault / in a specified project or with a certain combination of tags.
+- [bwydoogh/obsidian-force-view-mode-of-note](https://github.com/bwydoogh/obsidian-force-view-mode-of-note) - 
+- [ozntel/file-explorer-note-count](https://github.com/ozntel/file-explorer-note-count) - Obsidian Plugin for viewing the number of elements under each folder within the file explorer
+- [mrjackphil/obsidian-jump-to-link](https://github.com/mrjackphil/obsidian-jump-to-link) - Quick jump between links using hotkeys
+- [selfire1/goodsidian-plugin](https://github.com/selfire1/goodsidian-plugin) - A Goodreads implementation for Obsidian.
+- [feinoujc/gh-search-cli](https://github.com/feinoujc/gh-search-cli) - searches github via command line. Supports repo, issues, code and commit searches and listing notifications
 - [datacamp/rdocumentation-2.0](https://github.com/datacamp/rdocumentation-2.0) - 📚 RDocumentation provides an easy way to search the documentation for every version of every R package on CRAN and Bioconductor.
 - [mcndt/obsidian-toggl-integration](https://github.com/mcndt/obsidian-toggl-integration) - A Toggl integration plugin for the popular knowledge base application Obsidian.
 - [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell) - Provides PowerShell language and debugging support for Visual Studio Code
