@@ -153,7 +153,7 @@
 
 ## AutoIt 
 
-- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11  Release Ready
+- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready
 - [rizonesoft/Resolute](https://github.com/rizonesoft/Resolute) - 
 
 ## Batchfile 
@@ -979,6 +979,7 @@
 - [codecheckers/register](https://github.com/codecheckers/register) - Register of CODECHECK certificates
 - [steren/awesome-cloudrun](https://github.com/steren/awesome-cloudrun) - 👓 ⏩ A curated list of resources about all things Cloud Run
 - [rstudio/r-docker](https://github.com/rstudio/r-docker) - Docker images for R
+- [rstudio/r-system-requirements](https://github.com/rstudio/r-system-requirements) - System requirements for R packages
 - [maxheld83/shinyapps](https://github.com/maxheld83/shinyapps) - GitHub Action for deploying to shinyapps.io
 - [r-hub/api.app](https://github.com/r-hub/api.app) - The R-hub API (work in progress)
 - [wch/r-debug](https://github.com/wch/r-debug) - Dockerfile with several builds of R for memory/thread debugging
@@ -1862,6 +1863,7 @@
 
 ## JavaScript 
 
+- [shovel-org/GithubActions](https://github.com/shovel-org/GithubActions) - GitHub actions for Shovel bucket automation.
 - [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
 - [SkepticMystic/breadcrumbs](https://github.com/SkepticMystic/breadcrumbs) - Visualise a custom hierarchy in your Obsidian vault
 - [IndrajeetPatil/actions](https://github.com/IndrajeetPatil/actions) - GitHub Actions for the R community
@@ -3007,6 +3009,10 @@
 
 ## Others 
 
+- [ayoisaiah/scoop-bucket](https://github.com/ayoisaiah/scoop-bucket) - 
+- [khezen/compose-postgres](https://github.com/khezen/compose-postgres) - Postgresql & pgadmin4 powered by compose
+- [rstudio-education/deep-teaching](https://github.com/rstudio-education/deep-teaching) - This one day workshop introduces education best practices to programmers and data scientists.
+- [rstudio-education/teach-the-tidyverse](https://github.com/rstudio-education/teach-the-tidyverse) - Class materials for Teach the Tidyverse, a Train-the-trainer workshop.
 - [ozntel/ozanshare-publish-plugin](https://github.com/ozntel/ozanshare-publish-plugin) - This plugin allows you to publish your markdown notes with a single click directly from your Obsidian vault.
 - [Gunnerdata/VSCodeConfig](https://github.com/Gunnerdata/VSCodeConfig) - 
 - [awslabs/awscli-aliases](https://github.com/awslabs/awscli-aliases) - Repository for AWS CLI aliases.
@@ -4045,6 +4051,7 @@
 
 ## PowerShell 
 
+- [shovel-org/GenericBucket](https://github.com/shovel-org/GenericBucket) - Generic Shovel bucket template.
 - [dbroeglin/PoshWix](https://github.com/dbroeglin/PoshWix) - PoshWix is an opinionated and trivially simple tool to produce MSI packages from PowerShell modules
 - [mefellows/windows-machine-factory-tutorial](https://github.com/mefellows/windows-machine-factory-tutorial) - Example Machine Factory setup for Windows Server 2012r2
 - [apetitjean/EZLog](https://github.com/apetitjean/EZLog) - A very easy and pragmatic log module for admins in a hurry.
@@ -4309,7 +4316,7 @@
 - [Apoc70/Get-ExchangeEnvironmentReport](https://github.com/Apoc70/Get-ExchangeEnvironmentReport) - This script creates an HTML report showing the following information about an Exchange 2019, 2016, 2013, 2010, and, to a lesser extent, 2007 and 2003 environment.
 - [SConstantinou/SysInfo](https://github.com/SConstantinou/SysInfo) - PowerShell Module to get local and remote system information
 - [Digressive/WSUS-Maintenance](https://github.com/Digressive/WSUS-Maintenance) - Clean up your WSUS.
-- [SteveUnderScoreN/WindowsFirewall](https://github.com/SteveUnderScoreN/WindowsFirewall) - PowerShell scripts/GUI tools for the enterprise to harden Windows Defender Firewall via group policy (GPO). These can be used together with privileged access workstations (PAW) to enforce network level application whitelisting and strengthen the security posture of devices.
+- [SteveUnderScoreN/WindowsFirewall](https://github.com/SteveUnderScoreN/WindowsFirewall) - PowerShell scripts/GUI tools for the enterprise to harden Windows Defender Firewall via group policy (GPO). These can be used to enforce network level application whitelisting and strengthen the security posture of devices to defend against attacks such as software supply chain and can be used with privileged access workstations (PAW).
 - [scipag/PowerShellUtilities](https://github.com/scipag/PowerShellUtilities) - PowerShellUtilities provides various utility commandlets.
 - [ModuleBuild/ModuleBuild](https://github.com/ModuleBuild/ModuleBuild) - A scaffolding framework which can be used to kickstart a generic PowerShell module project.
 - [codingo/Retrieve-Windows-Wifi-Passwords](https://github.com/codingo/Retrieve-Windows-Wifi-Passwords) - Retreives the SSID names and passwords in cleartext for each Wifi network stored on the computer running this powershell script and output to JSON.
@@ -4493,7 +4500,7 @@
 - [vors/ZLocation](https://github.com/vors/ZLocation) - ZLocation is the new Jump-Location
 - [jimbrig/winsetup](https://github.com/jimbrig/winsetup) - Windows 10 Setup
 - [asears/WindowsSetup](https://github.com/asears/WindowsSetup) - Apps for Windows
-- [pratyakshm/WinRice](https://github.com/pratyakshm/WinRice) - Automates Windows settings
+- [pratyakshm/WinRice](https://github.com/pratyakshm/WinRice) - WinRice is a tool that uses automation to setup your Windows devices.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [Daksh777/windows10-debloat](https://github.com/Daksh777/windows10-debloat) - Collection of various scripts and apps to debloat Windows 10 for better privacy, performance and optimization.
 - [gordonbay/Windows-On-Reins](https://github.com/gordonbay/Windows-On-Reins) - Wor is a Powershell script to harden, debloat, optimize, enhance privacy, avoid fingerprinting and improve performance on Windows 10 and 11.
@@ -5072,6 +5079,30 @@
 
 ## R 
 
+- [tidylab/ddd](https://github.com/tidylab/ddd) - Domain-driven Design (DDD) in R. Put domain experts and developers on a level playing field, which produces software that makes perfect sense to the business, not just the coders.
+- [NIVA-Denmark/ekostat_app](https://github.com/NIVA-Denmark/ekostat_app) - ekostat app showing static results
+- [datacamp/tidymetrics](https://github.com/datacamp/tidymetrics) - Dimensional modeling done the tidy way!
+- [mmjulkowska/MVApp](https://github.com/mmjulkowska/MVApp) - Glittery data analysis and multi-variate analysis for all kinds of beautiful, big and small data sets. But remember - rubbish in = rubbish out!
+- [bzbradford/wibee](https://github.com/bzbradford/wibee) - Data visualization app for WiBee pollinator surveys.
+- [DARIAEngineering/daria-analytics-shiny](https://github.com/DARIAEngineering/daria-analytics-shiny) - DARIA analytics, but shiny
+- [terraref/traitvis-webapp](https://github.com/terraref/traitvis-webapp) - Shiny application for visualizing trait data
+- [pramitghosh/openEO.R.UDF](https://github.com/pramitghosh/openEO.R.UDF) - PoC implementation for running User-defined functions (UDFs) in R on EO data in cloud back-ends
+- [Open-EO/openeo-r-udf](https://github.com/Open-EO/openeo-r-udf) - PoC implementation for running User-defined functions (UDFs) in R on EO data in cloud back-ends
+- [tyluRp/r-stack](https://github.com/tyluRp/r-stack) - :boom: RStudio, Shiny, NGINX
+- [bryaneadams/rstudio-postgres](https://github.com/bryaneadams/rstudio-postgres) - This is a simple docker-compose.yaml for deploying RStudio with a postgres DB. The intent is to provide an easy way for users to learn how to interact with a DB.
+- [Lakshya3190/docker-SQL-MongoDB-RestfulAPIs](https://github.com/Lakshya3190/docker-SQL-MongoDB-RestfulAPIs) - This repository contains an operational and deployable set of MySQL, MongoDB and a sample RESTful API containers. The containers can be deployed with a docker-compose file also included in this repository.
+- [vigenere23/R-docker-template](https://github.com/vigenere23/R-docker-template) - A minimal template for using R with renv inside a Docker image.
+- [saifalam/memcached-experiment](https://github.com/saifalam/memcached-experiment) - Measure the Performance of distributed memory object caching system
+- [jaehyeon-kim/k8s-job-queue](https://github.com/jaehyeon-kim/k8s-job-queue) - Distributed Task Queue with Python and R
+- [geoboom/covid-dashboard-docker](https://github.com/geoboom/covid-dashboard-docker) - Old parent repository for docker-compose and nginx config
+- [mRcSchwering/shiny_nginx_boilerplate](https://github.com/mRcSchwering/shiny_nginx_boilerplate) - Setting up R shiny with a webserver using docker-compose.
+- [sechilds/r_compose](https://github.com/sechilds/r_compose) - Simple test of using Docker compose, R and Postgres
+- [LeonGraveland/shiny-auth0](https://github.com/LeonGraveland/shiny-auth0) - Deploying and authenticating (Auth0) a shiny dashboard by a microservice architecture using docker-compose
+- [richardbored/shinyproxy-docker-compose-ngninx-template](https://github.com/richardbored/shinyproxy-docker-compose-ngninx-template) - A template to use R Shiny with Shiny Proxy, Docker Compose, and Nginx
+- [normalsalt/docker-compose-plumber](https://github.com/normalsalt/docker-compose-plumber) - Plumber API
+- [Arbagen/docker-compose-sync](https://github.com/Arbagen/docker-compose-sync) - 
+- [khezen/compose-R](https://github.com/khezen/compose-R) - R enviornment powered by Docker & Compose
+- [rstudio-education/advanced-shiny-az](https://github.com/rstudio-education/advanced-shiny-az) - Materials for the "Advanced Shiny" course for Astra Zeneca
 - [Dasonk/findPackage](https://github.com/Dasonk/findPackage) - This package helps you find the sos package
 - [tidylab/usethat](https://github.com/tidylab/usethat) - usethat is a workflow project: it automates repetitive tasks that arise during analytic project setup and development.
 - [yonicd/foreman](https://github.com/yonicd/foreman) - Unpacking, Interrogating and Subsetting R packages
@@ -7972,7 +8003,7 @@
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube.js — Open-Source Analytics API for Building Data Apps
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Open-Source Analytics API for Building Data Apps
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 
 ## SAS 
@@ -8038,6 +8069,7 @@
 
 ## Shell 
 
+- [alexandregz/search-completion](https://github.com/alexandregz/search-completion) - bash completion to search (command s from  https://github.com/zquestz/s)
 - [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc) - Easy TOC creation for GitHub README.md
 - [jimbrig/dotfiles](https://github.com/jimbrig/dotfiles) - 
 - [supercrabtree/k](https://github.com/supercrabtree/k) - k is the new l, yo
@@ -8060,6 +8092,7 @@
 - [virtualstaticvoid/asdf-docker-compose](https://github.com/virtualstaticvoid/asdf-docker-compose) - docker-compose plugin for asdf version manager
 - [alan-turing-institute/binderhub-deploy](https://github.com/alan-turing-institute/binderhub-deploy) - Deploy a BinderHub from scratch on Microsoft Azure
 - [jimbrig/ohmyzsh](https://github.com/jimbrig/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [jimbrig/dotfiles-wsl](https://github.com/jimbrig/dotfiles-wsl) - WSL Ubuntu `~/.dotfiles`
 - [ChrisTitusTech/ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) - Automated Arch Linux Install
 - [rememberYou/dotfiles](https://github.com/rememberYou/dotfiles) - 🏡 Personal dotfiles configuration
 - [Build5Nines/az-kung-fu](https://github.com/Build5Nines/az-kung-fu) - Repo for the Azure CLI Kung Fu series on Build5Nines.com
@@ -8420,7 +8453,6 @@
 - [iridakos/goto](https://github.com/iridakos/goto) - Alias and navigate to directories with tab completion in Linux
 - [2KAbhishek/ghpm](https://github.com/2KAbhishek/ghpm) - The GitHub Project Manager 👩‍💻⚙
 - [benwinding/dotfiles](https://github.com/benwinding/dotfiles) - ben's dotfiles
-- [rstudio/r-system-requirements](https://github.com/rstudio/r-system-requirements) - System requirements for R packages
 - [jgillman/dotfiles](https://github.com/jgillman/dotfiles) - jgillman's special collection of configs
 - [ElliotPenson/org](https://github.com/ElliotPenson/org) - My brain in plain text.
 - [blay/dotfiles](https://github.com/blay/dotfiles) - My dotfiles
@@ -8581,6 +8613,7 @@
 
 ## TypeScript 
 
+- [mong/qmongjs](https://github.com/mong/qmongjs) - The code behind www.skde.no/kvalitetsregistre
 - [elias-sundqvist/obsidian-static-file-server](https://github.com/elias-sundqvist/obsidian-static-file-server) - Serve obsidian vault subfolders with a static web server
 - [lifegems/obsidian-related-notes-finder](https://github.com/lifegems/obsidian-related-notes-finder) - An Obsidian extension that adds extra features for note links, statistics, and randomizers
 - [Darakah/obsidian-spotlight](https://github.com/Darakah/obsidian-spotlight) - Show random block of notes from vault / in a specified project or with a certain combination of tags.
@@ -8968,7 +9001,7 @@
 - [svermeulen/vim-subversive](https://github.com/svermeulen/vim-subversive) - Vim plugin providing operator motions to quickly replace text
 - [tweekmonster/startuptime.vim](https://github.com/tweekmonster/startuptime.vim) - Breakdown Vim's --startuptime output
 - [wuelnerdotexe/vim-enfocado](https://github.com/wuelnerdotexe/vim-enfocado) - How themes should be.
-- [Optixal/neovim-init.vim](https://github.com/Optixal/neovim-init.vim) - :izakaya_lantern: A Neovim configuration for productive users who want to elevate their Vim experience with a functional, yet aesthetic experience :izakaya_lantern:
+- [Optixal/neovim-init.vim](https://github.com/Optixal/neovim-init.vim) - :izakaya_lantern: A Neovim configuration for productive developers who want a functional yet aesthetic Vim experience :izakaya_lantern:
 - [preservim/tagbar](https://github.com/preservim/tagbar) - Vim plugin that displays tags in a window, ordered by scope
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
