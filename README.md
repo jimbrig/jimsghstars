@@ -190,7 +190,6 @@
 - [NIKHIL0VERMA/Hacks_and_Tricks_for_Windows](https://github.com/NIKHIL0VERMA/Hacks_and_Tricks_for_Windows) - Hello there, This repo contains small scripts or something like that which will definitely help full for windows users. Just follow the instruction of respective Scripts to use them, they are completely free to use. Report bug if appears in any script
 - [SethuSenthil/WindowsHacks](https://github.com/SethuSenthil/WindowsHacks) - A collection of all Windows Hacks 💀!
 - [farag2/ADB-Debloating](https://github.com/farag2/ADB-Debloating) - Debloat MIUI 12 and One UI 3.1 via ADB
-- [niklasrast/Windows-PE-Builder](https://github.com/niklasrast/Windows-PE-Builder) - Code Snippets for WinPE building
 - [skrizzles/Device-Provisioning](https://github.com/skrizzles/Device-Provisioning) - Provisioning scripts and tools for devices I use (Windows, Mac, Android & iOS)
 - [Sporesirius/YAMS](https://github.com/Sporesirius/YAMS) - YAMS (Yet Another Multiboot System)
 - [joeldidier/Bootable-Windows-ISO-Creator](https://github.com/joeldidier/Bootable-Windows-ISO-Creator) - Create a bootable ISO (BIOS/UEFI) from Windows source installation files.
@@ -1039,6 +1038,7 @@
 
 ## Go 
 
+- [doron-cohen/antidot](https://github.com/doron-cohen/antidot) - Cleans up your $HOME from those pesky dotfiles
 - [Yash-Handa/logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
 - [jackyzha0/hugo-obsidian](https://github.com/jackyzha0/hugo-obsidian) - simple GitHub action to parse Markdown Links into a .yaml file for Hugo
 - [gesquive/git-user](https://github.com/gesquive/git-user) - Git plugin that allows you to save multiple user profiles and set them as project defaults
@@ -1803,6 +1803,7 @@
 
 ## Java 
 
+- [in28minutes/devops-master-class](https://github.com/in28minutes/devops-master-class) - Devops Tutorial for Beginners - Learn Docker, Kubernetes, Terraform, Ansible, Jenkins and Azure Devops
 - [aws/aws-secretsmanager-jdbc](https://github.com/aws/aws-secretsmanager-jdbc) - The AWS Secrets Manager JDBC Library enables Java developers to easily connect to SQL databases using secrets stored in AWS Secrets Manager.
 - [Suleiman19/People-API-App](https://github.com/Suleiman19/People-API-App) - Demo app for Google Sign-in and People API
 - [neoedmund/neoeedit](https://github.com/neoedmund/neoeedit) - neoeedit - a smart, light, powerful text editor.
@@ -1863,6 +1864,8 @@
 
 ## JavaScript 
 
+- [julien-c/epub](https://github.com/julien-c/epub) - node.js epub reader
+- [seladb/StarTrack-js](https://github.com/seladb/StarTrack-js) - GitHub star history and stats - based on JavaScript only!
 - [shovel-org/GithubActions](https://github.com/shovel-org/GithubActions) - GitHub actions for Shovel bucket automation.
 - [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
 - [SkepticMystic/breadcrumbs](https://github.com/SkepticMystic/breadcrumbs) - Visualise a custom hierarchy in your Obsidian vault
@@ -2097,7 +2100,7 @@
 - [sqlpad/sqlpad](https://github.com/sqlpad/sqlpad) - Web-based SQL editor run in your own private cloud. Supports MySQL, Postgres, SQL Server, Vertica, Crate, ClickHouse, Trino, Presto, SAP HANA, Cassandra, Snowflake, BigQuery, SQLite, and more with ODBC
 - [brianc/node-postgres](https://github.com/brianc/node-postgres) - PostgreSQL client for node.js.
 - [mndaniel/MpesaLNMApp-UITemplate](https://github.com/mndaniel/MpesaLNMApp-UITemplate) - Fullstack MpesaC2BIntegration | NodeJs & MongoDB | Frontend Boilerplate code
-- [rosariopfernandes/mpesa-node-api](https://github.com/rosariopfernandes/mpesa-node-api) - NodeJS library for M-Pesa API (🇲🇿 Mozambique)
+- [thatfiredev/mpesa-node-api](https://github.com/thatfiredev/mpesa-node-api) - NodeJS library for M-Pesa API (🇲🇿 Mozambique)
 - [kamikazechaser/mpesa-mwitu](https://github.com/kamikazechaser/mpesa-mwitu) - 📲 A simple personal M-Pesa API gateway accesible via REST (PoC)
 - [paymentsds/mpesa-js-sdk](https://github.com/paymentsds/mpesa-js-sdk) - A JavaScript library aiming to help developers integrating their products with M-Pesa Platform
 - [kn9ts/project-mulla](https://github.com/kn9ts/project-mulla) - Talk to MPESA API via a REST API. Bringing the MPESA G2 API to the 21st century. --
@@ -2454,7 +2457,6 @@
 - [astefanutti/decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations
 - [IonicaBizau/idea](https://github.com/IonicaBizau/idea) - :bulb: A lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
 - [sahin/g3l](https://github.com/sahin/g3l) - Git is easy, github cli is easy but g3l easiest git cli in the w0rld!
-- [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [sindresorhus/npm-user-cli](https://github.com/sindresorhus/npm-user-cli) - Get user info of an npm user
 - [sindresorhus/npm-name-cli](https://github.com/sindresorhus/npm-name-cli) - Check whether a package or organization name is available on npm
 - [vercel/release](https://github.com/vercel/release) - Generate changelogs with a single command
@@ -3009,6 +3011,7 @@
 
 ## Others 
 
+- [cloudskew/cloudskew](https://github.com/cloudskew/cloudskew) - Create free cloud architecture diagrams
 - [ayoisaiah/scoop-bucket](https://github.com/ayoisaiah/scoop-bucket) - 
 - [khezen/compose-postgres](https://github.com/khezen/compose-postgres) - Postgresql & pgadmin4 powered by compose
 - [rstudio-education/deep-teaching](https://github.com/rstudio-education/deep-teaching) - This one day workshop introduces education best practices to programmers and data scientists.
@@ -3194,7 +3197,6 @@
 - [pratyakshm/CleanWin_Releases](https://github.com/pratyakshm/CleanWin_Releases) - 
 - [pratyakshm/ISOBuild](https://github.com/pratyakshm/ISOBuild) - 
 - [Hack-with-Github/Windows](https://github.com/Hack-with-Github/Windows) - Awesome tools to exploit Windows !
-- [niklasrast/Windows-Configuration-Files](https://github.com/niklasrast/Windows-Configuration-Files) - 
 - [statnmap/crrry](https://github.com/statnmap/crrry) - 'crrri' recipes for 'shiny'
 - [statnmap/gmailr](https://github.com/statnmap/gmailr) - Access the Gmail RESTful API from R.
 - [statnmap/repo.rtask](https://github.com/statnmap/repo.rtask) - Example for a blog post on rtask.thinkr.fr
@@ -3976,6 +3978,7 @@
 
 ## PHP 
 
+- [Rudloff/alltube](https://github.com/Rudloff/alltube) - Web GUI for youtube-dl
 - [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
 - [matt-schwartz/personal-inventory](https://github.com/matt-schwartz/personal-inventory) - A personal inventory management web app
 - [Sonerezh/sonerezh](https://github.com/Sonerezh/sonerezh) - A self-hosted, web-based application to stream your music, everywhere.
@@ -4149,7 +4152,6 @@
 - [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) - For those who seek to minimize their Windows 10 installs.
 - [simeononsecurity/Automate-Sysmon](https://github.com/simeononsecurity/Automate-Sysmon) - Automate Sysmon Deployment and Configuration
 - [kiedtl/winfetch](https://github.com/kiedtl/winfetch) - 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
-- [niklasrast/Windows-GetCurrentLoggedOnUser](https://github.com/niklasrast/Windows-GetCurrentLoggedOnUser) - This repo contains an script to get the currently logged on user from an windows session and you can get a notification on the client and logged on user in teams.
 - [MicrosoftDocs/power-automate-docs](https://github.com/MicrosoftDocs/power-automate-docs) - 
 - [jacqinthebox/packer-templates](https://github.com/jacqinthebox/packer-templates) - Building a development environment with Vagrant, Packer, Windows 10 and Server 2016
 - [Deyda/Snippets](https://github.com/Deyda/Snippets) - 
@@ -4591,6 +4593,7 @@
 
 ## Python 
 
+- [rmountjoy92/DashMachine](https://github.com/rmountjoy92/DashMachine) - Another web application bookmark dashboard, with fun features.
 - [obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub) - Resource hub for Obsidian resources.
 - [wslutilities/wslpy](https://github.com/wslutilities/wslpy) - A python3 Library for WSL specific tasks
 - [seanharr11/etlalchemy](https://github.com/seanharr11/etlalchemy) - Extract, Transform, Load: Any SQL Database in 4 lines of Code.
@@ -5079,6 +5082,7 @@
 
 ## R 
 
+- [insightsengineering/thevalidatoR](https://github.com/insightsengineering/thevalidatoR) - Github Action that generates R Package Validation documentation 🏁
 - [tidylab/ddd](https://github.com/tidylab/ddd) - Domain-driven Design (DDD) in R. Put domain experts and developers on a level playing field, which produces software that makes perfect sense to the business, not just the coders.
 - [NIVA-Denmark/ekostat_app](https://github.com/NIVA-Denmark/ekostat_app) - ekostat app showing static results
 - [datacamp/tidymetrics](https://github.com/datacamp/tidymetrics) - Dimensional modeling done the tidy way!
@@ -8613,6 +8617,7 @@
 
 ## TypeScript 
 
+- [phntxx/dashboard](https://github.com/phntxx/dashboard) - :bar_chart: a nice and simple dashboard / landing page.
 - [mong/qmongjs](https://github.com/mong/qmongjs) - The code behind www.skde.no/kvalitetsregistre
 - [elias-sundqvist/obsidian-static-file-server](https://github.com/elias-sundqvist/obsidian-static-file-server) - Serve obsidian vault subfolders with a static web server
 - [lifegems/obsidian-related-notes-finder](https://github.com/lifegems/obsidian-related-notes-finder) - An Obsidian extension that adds extra features for note links, statistics, and randomizers
@@ -8730,7 +8735,7 @@
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 - [garrylachman/ElectroCRUD](https://github.com/garrylachman/ElectroCRUD) - Database CRUD Application Built on Electron | MySQL, Postgres, SQLite
 - [gajus/slonik](https://github.com/gajus/slonik) - A PostgreSQL client with strict types, detailed logging and assertions.
-- [kriasoft/relay-starter-kit](https://github.com/kriasoft/relay-starter-kit) - 💥  Yarn v2 based monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, Relay, and Material UI.
+- [kriasoft/relay-starter-kit](https://github.com/kriasoft/relay-starter-kit) - 💥  Yarn based monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, Relay, and Material UI.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self host.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
@@ -8888,6 +8893,7 @@
 - [abhijithvijayan/import-github-labels-cli](https://github.com/abhijithvijayan/import-github-labels-cli) - CLI to sync labels between repositories on GitHub
 - [getmoro/moro](https://github.com/getmoro/moro) - Simple CLI tool for tracking work hours. Note: Heavy changes are happening in this repository. Docs might not be up to date, and things might be broken. Only the released NPM version is stable.
 - [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static) - Scaffolding utility for vanilla-js
+- [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [freeCodeCamp/chapter](https://github.com/freeCodeCamp/chapter) - A self-hosted event management tool for nonprofits
 - [hyperupcall/tails](https://github.com/hyperupcall/tails) - tails enables you to view, edit, and organize all your programming projects in one place
 - [deathau/sliding-panes-obsidian](https://github.com/deathau/sliding-panes-obsidian) - Andy Matuschak Mode as a plugin
@@ -9061,7 +9067,7 @@
 ## Vue 
 
 - [microsoft/AzureTipsAndTricks](https://github.com/microsoft/AzureTipsAndTricks) - Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Star the repo now to shave hours off your coding tasks tomorrow.
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A dashboard for your homelab
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A is self-hosted startpage for your server. Easy to use visual editor, status checking, themes and more!
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [Zorin95670/project-template-web](https://github.com/Zorin95670/project-template-web) - Template project to create a web application. Make with VueJs.
 - [iamshaunjp/vuejs-playlist](https://github.com/iamshaunjp/vuejs-playlist) - Course files for the Vue.js 2 playlist on The Net Ninja YouTube channel
