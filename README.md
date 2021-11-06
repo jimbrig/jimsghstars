@@ -161,7 +161,7 @@
 - [z2k-gwp/obsidian-z2k-utils](https://github.com/z2k-gwp/obsidian-z2k-utils) - Z2K Utilities Library for code shared across all Z2K plugins
 - [tschutter/MyAppData](https://github.com/tschutter/MyAppData) - Windows dotfiles
 - [balsamleti/speedup-windows10](https://github.com/balsamleti/speedup-windows10) - The following batch files are included in the archive 1) Advanced Explorer Settings — This changes more than a dozen File Explorer related settings on Windows 10 that turn of animations, enable menus, or turn off things like Toasts. 2) Disable Automatic App Updates — Turns off automatic updates for Windows Store applications. 3) Disable Automatic Windows Updates — Turns off automatic updates for the Windows 10 operating system itself. 4) Disable Cortana Completely — Rename the cortana process searchUI.exe to searchUI.bak. This will kill the process permanetly and save your ressources. 5) Disable Forced Reboot after Update — Blocks Windows from enforcing a reboot after updates that require one. 6) Disable Lockscreen — Turns off the Windows 10 lockscreen. 7) Disable Telemetry — Turns off Windows 10 Telemetry. 8) Disable Unnecessary Services — This disables the MapsBroker, DoSvc and Wsearch services 9) Enable Defender Malware Protection —   Enables Windows malware Protection. 10)Enable Secure Microsoft Edge Settings — Tweaks Microsoft Edge for security. Changes include turning of Flash and Cortana, enabling continuous browsing, and more. 11)Get Back Old Vertical Desktop Icon Distance —  Changes the vertical icon spacing on the desktop. 12)Hide Cortana — Disables Cortana, and with it web searches and other search related parameters. The Microsoft way of disabling Cortana. 13)Hide OneDrive — Hides OneDrive and disables several related settings. 14)Re-enable Cortana Completely — This preferences turns Cortana on again. 15)Uninstall Unnecessary Apps — Removes ten apps that Windows 10 ships with including 3D Builder, Skype App, Getting Started, or Voice Recorder. 16)Enable Administrator Account — This preference enables the hidden administrator account in Windows. 17)Enable Standby instead of Hibernate — Switch powerstate from hibernation (slow) to standby . 18)Get apps access for Administrator Account — Enable access to applications for the administrator account.
-- [alsopaypal/win11Patcher](https://github.com/alsopaypal/win11Patcher) - FOSS Patcher in Batchfile for Windows Users to bypass Windows 11 Restrictions - Unfinished
+- [jayretic/win11Patcher](https://github.com/jayretic/win11Patcher) - FOSS Patcher in Batchfile for Windows Users to bypass Windows 11 Restrictions - Unfinished
 - [TheWorldOfPC/Windows11-Debloat-Privacy-Guide](https://github.com/TheWorldOfPC/Windows11-Debloat-Privacy-Guide) - 
 - [kyaulabs/win11tweak](https://github.com/kyaulabs/win11tweak) - An automated way to setup/configure Windows 11 based heavily on post-installation tweaks.
 - [ChrisTitusTech/win10RegistryBackup](https://github.com/ChrisTitusTech/win10RegistryBackup) - 
@@ -236,6 +236,7 @@
 
 ## C 
 
+- [z-shell/zinit](https://github.com/z-shell/zinit) - :white_check_mark:  -- Flexible and fast Z-shell plugin manager that will allow installing everything from GitHub and other sites.
 - [jimhester/r-actions-test](https://github.com/jimhester/r-actions-test) - https://jimhester.github.io/r-actions-test/
 - [Enchufa2/r-flexiblas](https://github.com/Enchufa2/r-flexiblas) - FlexiBLAS API Interface for R
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
@@ -364,6 +365,7 @@
 
 ## C# # 
 
+- [Hofknecht/SystemTrayMenu](https://github.com/Hofknecht/SystemTrayMenu) - SystemTrayMenu - Browse and open your files easily
 - [SeeminglyScience/PSStringTemplate](https://github.com/SeeminglyScience/PSStringTemplate) - Create and render templates using the StringTemplate template engine.
 - [PowerShell/platyPS](https://github.com/PowerShell/platyPS) - Write PowerShell External Help in Markdown
 - [Keeper-Security/keeper-sdk-dotnet](https://github.com/Keeper-Security/keeper-sdk-dotnet) - .Net and PowerShell library for Keeper Password Manager
@@ -570,6 +572,7 @@
 
 ## C++ 
 
+- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
 - [nx10/httpgd](https://github.com/nx10/httpgd) - Asynchronous http server graphics device for R.
 - [Enchufa2/Rtins](https://github.com/Enchufa2/Rtins) - Tools for Reading and Parsing Network Packet Capture (PCAP) Files in R
 - [turtiustrek/taskmanager](https://github.com/turtiustrek/taskmanager) - Draw bitmaps on a windows 10 task manager!
@@ -717,6 +720,7 @@
 
 ## CSS 
 
+- [microsoft/MCW-Cloud-native-applications](https://github.com/microsoft/MCW-Cloud-native-applications) - MCW Cloud-native applications
 - [ericgregorich/Obsidian-Publish-CSS](https://github.com/ericgregorich/Obsidian-Publish-CSS) - My custom CSS for Obsidian Publish
 - [chad-bennett/obsidian-publish-css](https://github.com/chad-bennett/obsidian-publish-css) - the publish.css file for my personal website
 - [selfire1/obsidian-publish-css](https://github.com/selfire1/obsidian-publish-css) - The CSS for my Obsdian publish site.
@@ -912,6 +916,7 @@
 
 ## Dart 
 
+- [alesimula/wsa_pacman](https://github.com/alesimula/wsa_pacman) - A GUI package manager and package installer for Windows Subsystem for Android (WSA)
 - [gskinnerTeam/flokk](https://github.com/gskinnerTeam/flokk) - A fresh and modern Google Contacts manager that integrates with GitHub and Twitter.
 - [dart-lang/sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, dart2js, core libraries, and more.
 - [pbissonho/fast.cli](https://github.com/pbissonho/fast.cli) - An incredible command line interface for Flutter.
@@ -1038,6 +1043,8 @@
 
 ## Go 
 
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
+- [GoogleCloudPlatform/buildpacks](https://github.com/GoogleCloudPlatform/buildpacks) - Builders and buildpacks designed to run on Google Cloud's container platforms
 - [doron-cohen/antidot](https://github.com/doron-cohen/antidot) - Cleans up your $HOME from those pesky dotfiles
 - [Yash-Handa/logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
 - [jackyzha0/hugo-obsidian](https://github.com/jackyzha0/hugo-obsidian) - simple GitHub action to parse Markdown Links into a .yaml file for Hugo
@@ -1324,6 +1331,7 @@
 
 ## HTML 
 
+- [hackersandslackers/flask-jinja-tutorial](https://github.com/hackersandslackers/flask-jinja-tutorial) - :shinto_shrine: Serve dynamic web pages in Flask by mastering Flask's built-in templating engine.
 - [sfirke/packagemetrics](https://github.com/sfirke/packagemetrics) - A Package for Helping You Choose Which Package to Use
 - [IndrajeetPatil/awesome-r-pkgtools](https://github.com/IndrajeetPatil/awesome-r-pkgtools) - A curated list of awesome resources for R package development
 - [berlotto/flask-app-template](https://github.com/berlotto/flask-app-template) - An complete Flask application template, with useful plugins.
@@ -1864,6 +1872,8 @@
 
 ## JavaScript 
 
+- [victorcouste/google-cloudfunctions-dataprep](https://github.com/victorcouste/google-cloudfunctions-dataprep) - Google Cloud Functions examples for Google Cloud Dataprep
+- [formio/formio](https://github.com/formio/formio) - A Form and Data Management Platform for Progressive Web Applications.
 - [julien-c/epub](https://github.com/julien-c/epub) - node.js epub reader
 - [seladb/StarTrack-js](https://github.com/seladb/StarTrack-js) - GitHub star history and stats - based on JavaScript only!
 - [shovel-org/GithubActions](https://github.com/shovel-org/GithubActions) - GitHub actions for Shovel bucket automation.
@@ -2801,6 +2811,7 @@
 
 ## Jinja 
 
+- [hackersandslackers/flask-blueprint-tutorial](https://github.com/hackersandslackers/flask-blueprint-tutorial) - :blue_book: :package: Structure your Flask apps in a scalable and intelligent way using Blueprints.
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [mdn/ansible-jenkins](https://github.com/mdn/ansible-jenkins) - Jenkins ansible playbook
 - [juju4/ansible-harden-windows](https://github.com/juju4/ansible-harden-windows) - Ansible role to harden windows system
@@ -3011,6 +3022,7 @@
 
 ## Others 
 
+- [hackjutsu/vim-cheatsheet](https://github.com/hackjutsu/vim-cheatsheet) - 📟 My personal vim cheatsheet
 - [cloudskew/cloudskew](https://github.com/cloudskew/cloudskew) - Create free cloud architecture diagrams
 - [ayoisaiah/scoop-bucket](https://github.com/ayoisaiah/scoop-bucket) - 
 - [khezen/compose-postgres](https://github.com/khezen/compose-postgres) - Postgresql & pgadmin4 powered by compose
@@ -4341,12 +4353,9 @@
 - [niklasrast/Windows-BGInfo-Configurator](https://github.com/niklasrast/Windows-BGInfo-Configurator) - PowerShell script to install BGInfo with a default configuration on Windows 10
 - [niklasrast/Windows-OEM-BIOS-Productkey-Activator](https://github.com/niklasrast/Windows-OEM-BIOS-Productkey-Activator) - Activate Windows 10 with the OEM-BIOS Product key
 - [niklasrast/Windows-OptionalFeature-Configurator](https://github.com/niklasrast/Windows-OptionalFeature-Configurator) - 
-- [niklasrast/Windows-PortableApp-Deployment](https://github.com/niklasrast/Windows-PortableApp-Deployment) - 
 - [niklasrast/Windows-Update-Cleanup](https://github.com/niklasrast/Windows-Update-Cleanup) - 
-- [niklasrast/Windows-ToastNotification-Wrapper](https://github.com/niklasrast/Windows-ToastNotification-Wrapper) - This repo contains an powershell scripts to send Windows 10 toast notifications to any windows 10 client.
 - [niklasrast/Windows-PowerShell-ExecutionPolicy-Configurator](https://github.com/niklasrast/Windows-PowerShell-ExecutionPolicy-Configurator) - This repo contains an powershell scripts to configure the execution policy for powershell on any windows 10 client.
 - [niklasrast/Windows-LocalAdministrators](https://github.com/niklasrast/Windows-LocalAdministrators) - Create local administrator accounts with or without a predefined password on Windows 10 clients
-- [niklasrast/Windows-11-Compatibility-Check](https://github.com/niklasrast/Windows-11-Compatibility-Check) - This repo contains an powershell script to test the compatibility from an windows 10 client to be able to install the upcoming windows 11. The result will be sent to an Microsoft Teams Channel.
 - [parkitwonka/Migrate-User-Data](https://github.com/parkitwonka/Migrate-User-Data) - 
 - [madbomb122/BlackViperScript](https://github.com/madbomb122/BlackViperScript) - Sets Win 10 Services based on Black Viper's Service Configurations
 - [joefitzgerald/packer-windows](https://github.com/joefitzgerald/packer-windows) - Windows Packer Templates
@@ -4593,6 +4602,7 @@
 
 ## Python 
 
+- [hackersandslackers/flask-session-tutorial](https://github.com/hackersandslackers/flask-session-tutorial) - :floppy_disk: :bow: Example Flask project for implementing Flask-Session with Redis.
 - [rmountjoy92/DashMachine](https://github.com/rmountjoy92/DashMachine) - Another web application bookmark dashboard, with fun features.
 - [obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub) - Resource hub for Obsidian resources.
 - [wslutilities/wslpy](https://github.com/wslutilities/wslpy) - A python3 Library for WSL specific tasks
@@ -5082,6 +5092,7 @@
 
 ## R 
 
+- [jennybc/regexcite](https://github.com/jennybc/regexcite) - Make Regular Expressions More Exciting
 - [insightsengineering/thevalidatoR](https://github.com/insightsengineering/thevalidatoR) - Github Action that generates R Package Validation documentation 🏁
 - [tidylab/ddd](https://github.com/tidylab/ddd) - Domain-driven Design (DDD) in R. Put domain experts and developers on a level playing field, which produces software that makes perfect sense to the business, not just the coders.
 - [NIVA-Denmark/ekostat_app](https://github.com/NIVA-Denmark/ekostat_app) - ekostat app showing static results
@@ -7938,7 +7949,7 @@
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud is a universal host runtime for actors built with WebAssembly and capability providers
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
-- [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Windows SDK for Rust
+- [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [stepchowfun/docuum](https://github.com/stepchowfun/docuum) - Docuum performs least recently used (LRU) eviction of Docker images. 🗑️
 - [stepchowfun/toast](https://github.com/stepchowfun/toast) - Containerize your development and continuous integration environments. 🥂
@@ -8617,6 +8628,9 @@
 
 ## TypeScript 
 
+- [actions-ecosystem/action-lint-commits](https://github.com/actions-ecosystem/action-lint-commits) - 🔍 GitHub Action to lint commits on a pull request
+- [reaviz/reaviz](https://github.com/reaviz/reaviz) - 📊 Data visualization library for React
+- [formio/formio-sql](https://github.com/formio/formio-sql) - Easily convert your SQL database into a REST API, using the SQLConnector action from Form.io
 - [phntxx/dashboard](https://github.com/phntxx/dashboard) - :bar_chart: a nice and simple dashboard / landing page.
 - [mong/qmongjs](https://github.com/mong/qmongjs) - The code behind www.skde.no/kvalitetsregistre
 - [elias-sundqvist/obsidian-static-file-server](https://github.com/elias-sundqvist/obsidian-static-file-server) - Serve obsidian vault subfolders with a static web server
