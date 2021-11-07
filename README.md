@@ -161,7 +161,7 @@
 - [z2k-gwp/obsidian-z2k-utils](https://github.com/z2k-gwp/obsidian-z2k-utils) - Z2K Utilities Library for code shared across all Z2K plugins
 - [tschutter/MyAppData](https://github.com/tschutter/MyAppData) - Windows dotfiles
 - [balsamleti/speedup-windows10](https://github.com/balsamleti/speedup-windows10) - The following batch files are included in the archive 1) Advanced Explorer Settings — This changes more than a dozen File Explorer related settings on Windows 10 that turn of animations, enable menus, or turn off things like Toasts. 2) Disable Automatic App Updates — Turns off automatic updates for Windows Store applications. 3) Disable Automatic Windows Updates — Turns off automatic updates for the Windows 10 operating system itself. 4) Disable Cortana Completely — Rename the cortana process searchUI.exe to searchUI.bak. This will kill the process permanetly and save your ressources. 5) Disable Forced Reboot after Update — Blocks Windows from enforcing a reboot after updates that require one. 6) Disable Lockscreen — Turns off the Windows 10 lockscreen. 7) Disable Telemetry — Turns off Windows 10 Telemetry. 8) Disable Unnecessary Services — This disables the MapsBroker, DoSvc and Wsearch services 9) Enable Defender Malware Protection —   Enables Windows malware Protection. 10)Enable Secure Microsoft Edge Settings — Tweaks Microsoft Edge for security. Changes include turning of Flash and Cortana, enabling continuous browsing, and more. 11)Get Back Old Vertical Desktop Icon Distance —  Changes the vertical icon spacing on the desktop. 12)Hide Cortana — Disables Cortana, and with it web searches and other search related parameters. The Microsoft way of disabling Cortana. 13)Hide OneDrive — Hides OneDrive and disables several related settings. 14)Re-enable Cortana Completely — This preferences turns Cortana on again. 15)Uninstall Unnecessary Apps — Removes ten apps that Windows 10 ships with including 3D Builder, Skype App, Getting Started, or Voice Recorder. 16)Enable Administrator Account — This preference enables the hidden administrator account in Windows. 17)Enable Standby instead of Hibernate — Switch powerstate from hibernation (slow) to standby . 18)Get apps access for Administrator Account — Enable access to applications for the administrator account.
-- [jayretic/win11Patcher](https://github.com/jayretic/win11Patcher) - FOSS Patcher in Batchfile for Windows Users to bypass Windows 11 Restrictions - Unfinished
+- [arceseus/win11Patcher](https://github.com/arceseus/win11Patcher) - FOSS Patcher in Batchfile for Windows Users to bypass Windows 11 Restrictions - Unfinished
 - [TheWorldOfPC/Windows11-Debloat-Privacy-Guide](https://github.com/TheWorldOfPC/Windows11-Debloat-Privacy-Guide) - 
 - [kyaulabs/win11tweak](https://github.com/kyaulabs/win11tweak) - An automated way to setup/configure Windows 11 based heavily on post-installation tweaks.
 - [ChrisTitusTech/win10RegistryBackup](https://github.com/ChrisTitusTech/win10RegistryBackup) - 
@@ -350,7 +350,6 @@
 - [r-lib/fs](https://github.com/r-lib/fs) - Provide cross platform file operations based on libuv.
 - [hrbrmstr/tdigest](https://github.com/hrbrmstr/tdigest) - Wicked Fast, Accurate Quantiles Using 't-Digests'
 - [wrathematics/meanr](https://github.com/wrathematics/meanr) - A sentiment analysis package for R.
-- [randy3k/collections](https://github.com/randy3k/collections) - High-performance container datatypes for R
 - [gaborcsardi/parsedate](https://github.com/gaborcsardi/parsedate) - R package to parse dates given in arbitrary formats
 - [vigou3/actuar](https://github.com/vigou3/actuar) - Actuarial functions and heavy tailed distributions for R
 - [eddelbuettel/digest](https://github.com/eddelbuettel/digest) - R package to create compact hash digests of R objects
@@ -365,6 +364,7 @@
 
 ## C# # 
 
+- [microsoft/PSRule](https://github.com/microsoft/PSRule) - Validate infrastructure as code (IaC) and objects using PowerShell rules.
 - [Hofknecht/SystemTrayMenu](https://github.com/Hofknecht/SystemTrayMenu) - SystemTrayMenu - Browse and open your files easily
 - [SeeminglyScience/PSStringTemplate](https://github.com/SeeminglyScience/PSStringTemplate) - Create and render templates using the StringTemplate template engine.
 - [PowerShell/platyPS](https://github.com/PowerShell/platyPS) - Write PowerShell External Help in Markdown
@@ -720,6 +720,8 @@
 
 ## CSS 
 
+- [moj-analytical-services/shinyGovstyle](https://github.com/moj-analytical-services/shinyGovstyle) - Now up to GDS frontend version v3.13.0
+- [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
 - [microsoft/MCW-Cloud-native-applications](https://github.com/microsoft/MCW-Cloud-native-applications) - MCW Cloud-native applications
 - [ericgregorich/Obsidian-Publish-CSS](https://github.com/ericgregorich/Obsidian-Publish-CSS) - My custom CSS for Obsidian Publish
 - [chad-bennett/obsidian-publish-css](https://github.com/chad-bennett/obsidian-publish-css) - the publish.css file for my personal website
@@ -1043,6 +1045,10 @@
 
 ## Go 
 
+- [driusan/de](https://github.com/driusan/de) - A Programmer's Text Editor
+- [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
+- [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
+- [MartinHeinz/blog-backend](https://github.com/MartinHeinz/blog-backend) - Personal Blog
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [GoogleCloudPlatform/buildpacks](https://github.com/GoogleCloudPlatform/buildpacks) - Builders and buildpacks designed to run on Google Cloud's container platforms
 - [doron-cohen/antidot](https://github.com/doron-cohen/antidot) - Cleans up your $HOME from those pesky dotfiles
@@ -1331,6 +1337,11 @@
 
 ## HTML 
 
+- [nteetor/zeppelin](https://github.com/nteetor/zeppelin) - A copy of nteetor/hyderogen tailored for yonder
+- [mammykins/App-cherry_picker](https://github.com/mammykins/App-cherry_picker) - A Shiny app for mapping School specific variables by Local Education Authority with Leaflet in R
+- [open-science-promoters/contibutor_manager](https://github.com/open-science-promoters/contibutor_manager) - Using a software to manage scientific publications author list, the same way reference managers work.
+- [moj-analytical-services/our-coding-standards](https://github.com/moj-analytical-services/our-coding-standards) - DASD's coding principles for analytical projects
+- [jbambrough/engineering](https://github.com/jbambrough/engineering) - All things software engineering. Coding practice, data structures, algorithms, various resources
 - [hackersandslackers/flask-jinja-tutorial](https://github.com/hackersandslackers/flask-jinja-tutorial) - :shinto_shrine: Serve dynamic web pages in Flask by mastering Flask's built-in templating engine.
 - [sfirke/packagemetrics](https://github.com/sfirke/packagemetrics) - A Package for Helping You Choose Which Package to Use
 - [IndrajeetPatil/awesome-r-pkgtools](https://github.com/IndrajeetPatil/awesome-r-pkgtools) - A curated list of awesome resources for R package development
@@ -1633,7 +1644,6 @@
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [anthilemoon/tw-digital-garden](https://github.com/anthilemoon/tw-digital-garden) - Create a digital garden with TiddlyWiki.
 - [tidyverse/tidyverse.org](https://github.com/tidyverse/tidyverse.org) - Source of tidyverse.org
-- [open-science-promoters/contibutor_manager](https://github.com/open-science-promoters/contibutor_manager) - Using a software to manage scientific publications author list, the same way reference managers work.
 - [wesslen/iviz-rstudio-workshop](https://github.com/wesslen/iviz-rstudio-workshop) - Interactive Visualizations with RStudio Workshop for UNCC DSI
 - [scotthmurray/d3-book](https://github.com/scotthmurray/d3-book) - Code examples for “Interactive Data Visualization for the Web”
 - [jimbrig/therdispatch-blogdown](https://github.com/jimbrig/therdispatch-blogdown) - The R Dispatch - An R Related Blog and Knowledge Base
@@ -1669,6 +1679,7 @@
 - [januz/drakepkg](https://github.com/januz/drakepkg) - Reproducible Research with a Packaged `drake` Workflow
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [jgm/pandoc-templates](https://github.com/jgm/pandoc-templates) - Templates for pandoc, tagged to release
+- [JohnCoene/firebase](https://github.com/JohnCoene/firebase) - Google FIrebase for shiny
 - [heggesethlab/ClusterLongCat-mirror](https://github.com/heggesethlab/ClusterLongCat-mirror) - 
 - [SurgicalInformatics/encryptr](https://github.com/SurgicalInformatics/encryptr) - Encrypt and decrypt data frame or tibble columns using the strong RSA public/private keys
 - [ProQuestionAsker/websiteSource](https://github.com/ProQuestionAsker/websiteSource) - The source files for my github/blogdown website
@@ -1872,6 +1883,11 @@
 
 ## JavaScript 
 
+- [nteetor/chabudai](https://github.com/nteetor/chabudai) - A table plugin for Bootstrap 4
+- [nteetor/yonder-examples](https://github.com/nteetor/yonder-examples) - Translations of https://github.com/rstudio/shiny-examples
+- [samuelramox/node-rest](https://github.com/samuelramox/node-rest) - REST API made with Node.js
+- [mfcallahan/nextjs-blog-app](https://github.com/mfcallahan/nextjs-blog-app) - NextJS Tutorial blog app
+- [SkepticMystic/graph-analysis](https://github.com/SkepticMystic/graph-analysis) - Analyse the structure of your Obsidian graph using various analysis techniques
 - [victorcouste/google-cloudfunctions-dataprep](https://github.com/victorcouste/google-cloudfunctions-dataprep) - Google Cloud Functions examples for Google Cloud Dataprep
 - [formio/formio](https://github.com/formio/formio) - A Form and Data Management Platform for Progressive Web Applications.
 - [julien-c/epub](https://github.com/julien-c/epub) - node.js epub reader
@@ -2010,7 +2026,6 @@
 - [dominique-mueller/exec-bin](https://github.com/dominique-mueller/exec-bin) - Run any binary files / executables within your npm scripts.
 - [Rohithv07/Docker](https://github.com/Rohithv07/Docker) - My Workplay on Docker and Kubernetes. Ref : https://github.com/Rohithv07/DockerCasts
 - [mdn/data](https://github.com/mdn/data) - This repository contains general data for Web technologies
-- [mattwaler/next-ssr-starter](https://github.com/mattwaler/next-ssr-starter) - A starter project for Next with session-based auth ready to go.
 - [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [fastify/fastify-nextjs](https://github.com/fastify/fastify-nextjs) - React server side rendering support for Fastify with Next
 - [styxlab/gatsby-starter-try-ghost](https://github.com/styxlab/gatsby-starter-try-ghost) - Publish flaring fast blogs with Gatsby and Ghost
@@ -2326,7 +2341,7 @@
 - [teles/awesome-seo](https://github.com/teles/awesome-seo) - :star2: A curated list of SEO (Search Engine Optimization) links.
 - [lamartire/sharec](https://github.com/lamartire/sharec) - 📦 Store your configs in one place and manage across projects easily
 - [nikku/wuffle](https://github.com/nikku/wuffle) - A multi-repository task board for GitHub issues.
-- [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - an enhancer/customiser for the all-in-one productivity workspace notion.so as an app
+- [notion-enhancer/desktop](https://github.com/notion-enhancer/desktop) - an enhancer/customiser for the all-in-one productivity workspace notion.so (app)
 - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) - A GitHub action to create or update an issue or pull request comment
 - [kbravh/tweet-to-markdown](https://github.com/kbravh/tweet-to-markdown) - A command line tool to convert Tweets to Markdown.
 - [thomaskoppelaar/markdown-links](https://github.com/thomaskoppelaar/markdown-links) - Command that displays a graph of local links between markdown files
@@ -2811,6 +2826,7 @@
 
 ## Jinja 
 
+- [hackersandslackers/flask-wtform-tutorial](https://github.com/hackersandslackers/flask-wtform-tutorial) - 📝😎Tutorial to implement forms in your Flask app.
 - [hackersandslackers/flask-blueprint-tutorial](https://github.com/hackersandslackers/flask-blueprint-tutorial) - :blue_book: :package: Structure your Flask apps in a scalable and intelligent way using Blueprints.
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [mdn/ansible-jenkins](https://github.com/mdn/ansible-jenkins) - Jenkins ansible playbook
@@ -2831,6 +2847,7 @@
 
 ## Jupyter Notebook 
 
+- [dataprofessor/code](https://github.com/dataprofessor/code) - Compilation of R and Python programming codes on the Data Professor YouTube channel.
 - [microsoft/MLOps](https://github.com/microsoft/MLOps) - MLOps examples
 - [Azure/MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft
 - [Azure/DataScienceVM](https://github.com/Azure/DataScienceVM) - Tools and Docs on the Azure Data Science Virtual Machine (http://aka.ms/dsvm)
@@ -2905,6 +2922,7 @@
 
 ## Liquid 
 
+- [anstosa/grosinger.dev](https://github.com/anstosa/grosinger.dev) - 
 - [allejo/jekyll-toc](https://github.com/allejo/jekyll-toc) - A GitHub Pages compatible Table of Contents generator without a plugin or JavaScript :octocat:
 
 ## LiveScript 
@@ -2942,6 +2960,7 @@
 
 ## Makefile 
 
+- [MartinHeinz/python-project-blueprint](https://github.com/MartinHeinz/python-project-blueprint) - Blueprint/Boilerplate For Python Projects
 - [desyncr/zsh-docker](https://github.com/desyncr/zsh-docker) - Integration between DockerHub and TravisCI to build docker images for multiple zsh versions
 - [enspirit/makefile-for-monorepos](https://github.com/enspirit/makefile-for-monorepos) - A flexible and extensible makefile for monorepos with  docker/docker-compose.
 - [koaning/makefile-demo](https://github.com/koaning/makefile-demo) - just a demo of a makefile in action
@@ -3022,6 +3041,10 @@
 
 ## Others 
 
+- [nteetor/dazzle](https://github.com/nteetor/dazzle) - Server up shiny applications
+- [nteetor/malt](https://github.com/nteetor/malt) - 
+- [NearAndDistant/data_science_with_r](https://github.com/NearAndDistant/data_science_with_r) - Tidy Tuesday Projects (R)
+- [tanho63/pc-setup](https://github.com/tanho63/pc-setup) - Documenting computer builds and setups
 - [hackjutsu/vim-cheatsheet](https://github.com/hackjutsu/vim-cheatsheet) - 📟 My personal vim cheatsheet
 - [cloudskew/cloudskew](https://github.com/cloudskew/cloudskew) - Create free cloud architecture diagrams
 - [ayoisaiah/scoop-bucket](https://github.com/ayoisaiah/scoop-bucket) - 
@@ -4037,6 +4060,7 @@
 
 ## PLpgSQL 
 
+- [anthonydb/practical-sql](https://github.com/anthonydb/practical-sql) - Code and Data for the First Edition of "Practical SQL" by Anthony DeBarros, published by No Starch Press (2018).
 - [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it's 2021
 - [digoal/blog](https://github.com/digoal/blog) - Everything about database,business.(Most for PostgreSQL).
 - [Active-Travel-Academy/ata-traffic-recorder](https://github.com/Active-Travel-Academy/ata-traffic-recorder) - 
@@ -4319,7 +4343,7 @@
 - [kelleyma49/PSFzf](https://github.com/kelleyma49/PSFzf) - A PowerShell wrapper around the fuzzy finder fzf
 - [AlexAsplund/Nozbe-Powershell-Module](https://github.com/AlexAsplund/Nozbe-Powershell-Module) - Powershell module for Nozbe
 - [AlexAsplund/MyPowershellRepository](https://github.com/AlexAsplund/MyPowershellRepository) - Here I'll add my public powershell modules, scripts and such
-- [zeiss-digital-innovation/install-hashicorp-binaries](https://github.com/zeiss-digital-innovation/install-hashicorp-binaries) - 
+- [ZEISS/install-hashicorp-binaries](https://github.com/ZEISS/install-hashicorp-binaries) - 
 - [farag2/Nvidia-Intel](https://github.com/farag2/Nvidia-Intel) - Setup Nvidia & Intel services
 - [farag2/Delete-old-drivers](https://github.com/farag2/Delete-old-drivers) - Delete old drivers using Get-WindowsDriver
 - [farag2/Hyper-V](https://github.com/farag2/Hyper-V) - Install OS in a Virtual Machine using Hyper-V easily than ever
@@ -4343,7 +4367,7 @@
 - [lazywinadmin/LazyTS](https://github.com/lazywinadmin/LazyTS) - PowerShell Script (GUI) to manage Terminal Sessions
 - [aaronparker/intune](https://github.com/aaronparker/intune) - Various scripts for use with Microsoft Intune and Windows 10 Modern Management
 - [Micke-K/IntuneManagement](https://github.com/Micke-K/IntuneManagement) - Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and edit PowerShell script.
-- [VikasSukhija/Downloads](https://github.com/VikasSukhija/Downloads) - AD Health Check, Send HTML Email,  Ping machines, Encrypt Password,Bulk Password,Microsoft Teams,Monitor Certificate expiry, Monitor cert expiry, AD attributes, IP to Hostname, Export AD group, CSV to SQL,Shutdown, Restart, Local Admin, Disk Space, Account expiry,Restore Permissions, Backup permissions, Delete Files Older Than X-Days, export DHCP options,Read Registry,Distribution group AD attributes,Monitor Windows Services,Export Reverse DNS,Task Monitor,Monitor and alert, Exchange Health check,Get Network Info, Export AD Attributes,AD group members, Office 365 Group member, SQL to CSV, Outlook save send attachments, Upload files to FTP,Exchange – Total Messages Sent Received, Set Teams Only Mode, Intune Duplicate Device,Intune Cleanup Not Evaluated, Ownership and Grant Permissions, Write Create Modify Registry , Organization Hierarchy from AD,Azure AD Privileged Identity Management,Intune – Export MAM Devices,Intune Marking devices as Corporate, Dynamic to Static Distribution Group,Monitor Alert Office 365 services,Group Member Count,Bulk Addition external users sharepoint, ADD to Exchange online License Group,All in One Office 365 Powershell,Bulk Addition of Secondary Email, Automate move mailboxes to o365, Addition Modification Termination Exchange users, Monitoring Unified Messaging port,Unified Messaging Extensions Report, Set Default Quota for SharePoint,Bulk Contact Creation and Forwarding, Uploading and Downloading files sftp, Monitoring Sftp file and download, Office 365 groups Write back, CSV parser, Email address update, Email address modify, MDM enrollment, Welcome Email, Intune Welcome Email, remove messages, remove email, SKOB to AD, SKOB to group, PowerApps report, Powerautomate Report, Flow report, Server QA, Server Check List, O365 IP range, IP range Monitor, o365 Admin Roles, memberof extraction, CSV to Excel,  Skype Policy, UPN Flip, Rooms Report, License Reconciliation,Intune Bulk Device Removal, Device Removal, Clear Activesync, Lync Account Termination,Lync Account Removal, Enable office 365 services, Enable o365 Services, Export PST, Site collection Report, Office 365 Group Sites, System Admin,ActiveSync Report,White Space,Active Directory attributes, outlook automation, Intune Detect App, Distribution list Fix, Legacy DN, start service, stop service, disable service, Message tracking, Distribution lists report,Distribution groups report,Quota Report, Auto reply, out of office, robocopy multi session, Home Folder, local admin, Database, UPN SIP Mismatch, Recoverable deleted, teams number, Number assignment, teams phone, AD Group Hierarchy, Hierarchy membership, Sync Groups
+- [VikasSukhija/Downloads](https://github.com/VikasSukhija/Downloads) - AD Health Check, Send HTML Email,  Ping machines, Encrypt Password,Bulk Password,Microsoft Teams,Monitor Certificate expiry, Monitor cert expiry, AD attributes, IP to Hostname, Export AD group, CSV to SQL,Shutdown, Restart, Local Admin, Disk Space, Account expiry,Restore Permissions, Backup permissions, Delete Files Older Than X-Days, export DHCP options,Read Registry,Distribution group AD attributes,Monitor Windows Services,Export Reverse DNS,Task Monitor,Monitor and alert, Exchange Health check,Get Network Info, Export AD Attributes,AD group members, Office 365 Group member, SQL to CSV, Outlook save send attachments, Upload files to FTP,Exchange – Total Messages Sent Received, Set Teams Only Mode, Intune Duplicate Device,Intune Cleanup Not Evaluated, Ownership and Grant Permissions, Write Create Modify Registry , Organization Hierarchy from AD,Azure AD Privileged Identity Management,Intune – Export MAM Devices,Intune Marking devices as Corporate, Dynamic to Static Distribution Group,Monitor Alert Office 365 services,Group Member Count,Bulk Addition external users sharepoint, ADD to Exchange online License Group,All in One Office 365 Powershell,Bulk Addition of Secondary Email, Automate move mailboxes to o365, Addition Modification Termination Exchange users, Monitoring Unified Messaging port,Unified Messaging Extensions Report, Set Default Quota for SharePoint,Bulk Contact Creation and Forwarding, Uploading and Downloading files sftp, Monitoring Sftp file and download, Office 365 groups Write back, CSV parser, Email address update, Email address modify, MDM enrollment, Welcome Email, Intune Welcome Email, remove messages, remove email, SKOB to AD, SKOB to group, PowerApps report, Powerautomate Report, Flow report, Server QA, Server Check List, O365 IP range, IP range Monitor, o365 Admin Roles, memberof extraction, CSV to Excel,  Skype Policy, UPN Flip, Rooms Report, License Reconciliation,Intune Bulk Device Removal, Device Removal, Clear Activesync, Lync Account Termination,Lync Account Removal, Enable office 365 services, Enable o365 Services, Export PST, Site collection Report, Office 365 Group Sites, System Admin,ActiveSync Report,White Space,Active Directory attributes, outlook automation, Intune Detect App, Distribution list Fix, Legacy DN, start service, stop service, disable service, Message tracking, Distribution lists report,Distribution groups report,Quota Report, Auto reply, out of office, robocopy multi session, Home Folder, local admin, Database, UPN SIP Mismatch, Recoverable deleted, teams number, Number assignment, teams phone, AD Group Hierarchy, Hierarchy membership, Sync Groups, Powerapps, Powerapps DLP, AzureAD application, Azure AD Secret, AzureAD Certificate, AzureAD Cert
 - [scriptrunner/ActionPacks](https://github.com/scriptrunner/ActionPacks) - Public PowerShell script gallery for ScriptRunner.
 - [JulianChow94/Windows-screenFetch](https://github.com/JulianChow94/Windows-screenFetch) - Powershell port of bash/unix screenfetch.
 - [BornToBeRoot/PowerShell_IPv4NetworkScanner](https://github.com/BornToBeRoot/PowerShell_IPv4NetworkScanner) - Powerful asynchronus IPv4 network scanner for PowerShell
@@ -4602,6 +4626,10 @@
 
 ## Python 
 
+- [moj-analytical-services/pydbtools](https://github.com/moj-analytical-services/pydbtools) - Python version of dbtools
+- [jupyter/nbviewer](https://github.com/jupyter/nbviewer) - nbconvert as a web service: Render Jupyter Notebooks as static web pages
+- [bdcaf/cookiecutter_dotfile](https://github.com/bdcaf/cookiecutter_dotfile) - template for stowable dotfile dir
+- [hackersandslackers/bigquery-sqlalchemy-tutorial](https://github.com/hackersandslackers/bigquery-sqlalchemy-tutorial) - :bar_chart: :arrow_right: :floppy_disk: ETL script to migrate data from BigQuery to SQL.
 - [hackersandslackers/flask-session-tutorial](https://github.com/hackersandslackers/flask-session-tutorial) - :floppy_disk: :bow: Example Flask project for implementing Flask-Session with Redis.
 - [rmountjoy92/DashMachine](https://github.com/rmountjoy92/DashMachine) - Another web application bookmark dashboard, with fun features.
 - [obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub) - Resource hub for Obsidian resources.
@@ -4823,7 +4851,7 @@
 - [dungwinux/Maid](https://github.com/dungwinux/Maid) - A package manager, written in Python 3.7, for Windows.
 - [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 📦 one CLI for all package managers
 - [electric-package-manager/electric](https://github.com/electric-package-manager/electric) - A fast, futuristic package manager for Windows.
-- [rasa/scoop-directory](https://github.com/rasa/scoop-directory) - A directory of buckets for the scoop package manager for Windows
+- [rasa/scoop-directory](https://github.com/rasa/scoop-directory) - A searchable directory of buckets for the scoop package manager for Windows
 - [lepisma/pipwin](https://github.com/lepisma/pipwin) - Install compiled python libraries for windows provided by Christoph Gohlke
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
@@ -5006,7 +5034,6 @@
 - [Spec04/obs_alias_generator](https://github.com/Spec04/obs_alias_generator) - Generate Alias file for Obsidian vault
 - [sloretz/off-your-rocker](https://github.com/sloretz/off-your-rocker) - Extensions for osrf/rocker
 - [PythonNut/resilio-sync-cli](https://github.com/PythonNut/resilio-sync-cli) - Reversed engineered API wrapper and CLI for Resilio Sync
-- [kmaasrud/oboe](https://github.com/kmaasrud/oboe) - :file_cabinet: A simple tool to convert an Obsidian vault into a static directory of HTML files.
 - [lilydjwg/pssh](https://github.com/lilydjwg/pssh) - Parallel SSH Tools
 - [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
@@ -5092,6 +5119,39 @@
 
 ## R 
 
+- [nteetor/shinystate](https://github.com/nteetor/shinystate) - 
+- [nteetor/hyderogen](https://github.com/nteetor/hyderogen) - Build jekyll sites from roxygen
+- [nteetor/eventure](https://github.com/nteetor/eventure) - Describe and handle events
+- [nteetor/blaze](https://github.com/nteetor/blaze) - Navigate URL paths with shiny
+- [nteetor/cascadess](https://github.com/nteetor/cascadess) - A style pronoun for {htmltools} tags
+- [kgjerde/corporaexplorer](https://github.com/kgjerde/corporaexplorer) - An R package for dynamic exploration of text collections
+- [JohnCoene/sever](https://github.com/JohnCoene/sever) - 🔪Good-looking problems: customise your Shiny disconnected screen and error messages
+- [davesteps/machLearn](https://github.com/davesteps/machLearn) - Machine learning dashboard created with R/shiny
+- [curso-r/auth0](https://github.com/curso-r/auth0) - Authentication in shinyapps using Auth0 service
+- [yash-2115/shiny-app-data-visualization](https://github.com/yash-2115/shiny-app-data-visualization) - 
+- [tailineju/SHINY-tutorial](https://github.com/tailineju/SHINY-tutorial) - Repositório de tutoriais, aplicações e exemplos da utilização do pacote shiny em R. Arquivos desenvolvidos como objetos de avaliação para disciplina Computação Estatística 2.
+- [bgstieber/budget_shiny_app](https://github.com/bgstieber/budget_shiny_app) - A shiny app that automates most of the budget data analysis I do
+- [AdamSpannbauer/snakeLoadR](https://github.com/AdamSpannbauer/snakeLoadR) - small R package to add the snake game as a loader in a shiny app
+- [dominikjung42/BusinessAnalytics](https://github.com/dominikjung42/BusinessAnalytics) - Course Material: Business Analytics and Decision Support with R
+- [singha53/omicsBioAnalytics](https://github.com/singha53/omicsBioAnalytics) - Omics BioAnalytics - RShiny web app for bioinformatics analyses
+- [onlyphantom/coronavirus](https://github.com/onlyphantom/coronavirus) - A Shiny Web App tutorial inspecting the COVID-19 (2019-nCoV) epidemic, data from https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
+- [davidruvolo51/r-plumber-app](https://github.com/davidruvolo51/r-plumber-app) - R web app template using plumber
+- [RobinL/costmodelr](https://github.com/RobinL/costmodelr) - Framework for cost modelling in R
+- [moj-analytical-services/rshiny-test](https://github.com/moj-analytical-services/rshiny-test) - 
+- [moj-analytical-services/predictr](https://github.com/moj-analytical-services/predictr) - 
+- [moj-analytical-services/kerins-shiny-app](https://github.com/moj-analytical-services/kerins-shiny-app) - 
+- [moj-analytical-services/xltabr](https://github.com/moj-analytical-services/xltabr) - xltabr: An R package for writing formatted cross tabulations (contingency tables) to Excel using openxlsx
+- [moj-analytical-services/rshiny-xoen-kaniko-test](https://github.com/moj-analytical-services/rshiny-xoen-kaniko-test) - Testing kaniko to build Docker images
+- [moj-analytical-services/rmarkdown-vegawidget-template](https://github.com/moj-analytical-services/rmarkdown-vegawidget-template) - A template for a deployed app that renders a markdown report
+- [moj-analytical-services/shiny-headers-demo](https://github.com/moj-analytical-services/shiny-headers-demo) - 
+- [moj-analytical-services/occupeye_shiny_app](https://github.com/moj-analytical-services/occupeye_shiny_app) - 
+- [moj-analytical-services/IntroRTraining](https://github.com/moj-analytical-services/IntroRTraining) - Introductory R training
+- [moj-analytical-services/pq-tool](https://github.com/moj-analytical-services/pq-tool) - Tool to analyse past parliamentary questions with visualisation in RShiny
+- [moj-analytical-services/dbtools](https://github.com/moj-analytical-services/dbtools) - Basic wrapper functions to query data using boto3 and Athena
+- [moj-analytical-services/s3tools](https://github.com/moj-analytical-services/s3tools) - Interact with files in s3 on the Analytical Platform
+- [sgaure/lfe](https://github.com/sgaure/lfe) - Source code repository for the R package lfe on CRAN.
+- [tanho63/office_hours](https://github.com/tanho63/office_hours) - 
+- [RafaelEduardoDiaz/plumber_logs](https://github.com/RafaelEduardoDiaz/plumber_logs) - Proyecto que muestra como guardar los logs en una API de plumber.
 - [jennybc/regexcite](https://github.com/jennybc/regexcite) - Make Regular Expressions More Exciting
 - [insightsengineering/thevalidatoR](https://github.com/insightsengineering/thevalidatoR) - Github Action that generates R Package Validation documentation 🏁
 - [tidylab/ddd](https://github.com/tidylab/ddd) - Domain-driven Design (DDD) in R. Put domain experts and developers on a level playing field, which produces software that makes perfect sense to the business, not just the coders.
@@ -6698,7 +6758,6 @@
 - [jeroen/js](https://github.com/jeroen/js) - Tools for Working with JavaScript in R
 - [MichaelHogers/RXSpreadsheet](https://github.com/MichaelHogers/RXSpreadsheet) - RXSpreadsheet provides a wrapper for https://github.com/myliang/x-spreadsheet, a very nice      web-based JavaScript canvas spreadsheet. RXSpreadsheet is a minimalistic wrapper.
 - [ThinkR-open/shinipsum](https://github.com/ThinkR-open/shinipsum) - Lorem-Ipsum-like Helpers for fast Shiny Prototyping
-- [nteetor/blaze](https://github.com/nteetor/blaze) - Navigate URL paths with shiny
 - [moodymudskipper/elephant](https://github.com/moodymudskipper/elephant) - make variables remember their history
 - [statdivlab/misc](https://github.com/statdivlab/misc) - Miscellaneous data analyses, scripts, notes
 - [AntoineGuillot2/ButtonsInDataTable](https://github.com/AntoineGuillot2/ButtonsInDataTable) - Code for the tutorial on adding actionnable button in datatable in Shiny
@@ -6813,7 +6872,6 @@
 - [r-lib/roxygen2](https://github.com/r-lib/roxygen2) - Generate R package documentation from inline R comments
 - [satijalab/seurat-wrappers](https://github.com/satijalab/seurat-wrappers) - Community-provided extensions to Seurat
 - [Bioconductor/BiocStyle](https://github.com/Bioconductor/BiocStyle) - Issues and pull requests for BiocStyle should go here.
-- [JohnCoene/firebase](https://github.com/JohnCoene/firebase) - Authenticate Shiny Users with Firebase
 - [gluc/data.tree](https://github.com/gluc/data.tree) - General Purpose Hierarchical Data Structure for R
 - [jsta/nhdR](https://github.com/jsta/nhdR) - R interface to the National Hydrography Dataset :droplet:
 - [anngvu/DIVE](https://github.com/anngvu/DIVE) - R package
@@ -7339,6 +7397,7 @@
 - [openbiox/UCSCXenaShiny](https://github.com/openbiox/UCSCXenaShiny) - 📊 An R package for interactively exploring UCSC Xena https://xenabrowser.net/datapages/
 - [JhuangLab/BioInstaller](https://github.com/JhuangLab/BioInstaller) - A comprehensive R package to construct interactive and reproducible biological data analysis applications based on the R platform
 - [clindet/anor](https://github.com/clindet/anor) - anor: an annotation and visualization system based on R and Shiny framework
+- [randy3k/collections](https://github.com/randy3k/collections) - High-performance container datatypes for R
 - [strboul/supreme](https://github.com/strboul/supreme) - Generate UML diagrams of Shiny modules
 - [skranz/appForms](https://github.com/skranz/appForms) - Tools to create and arrange input forms for shiny apps using simple yaml field specification
 - [skranz/webforms](https://github.com/skranz/webforms) - Forms for shinyEvents apps
@@ -8694,6 +8753,7 @@
 - [mrmartineau/gatsby-theme-code-notes](https://github.com/mrmartineau/gatsby-theme-code-notes) - A Gatsby theme for publishing code-related notes to your website
 - [meshcloud/collie-cli](https://github.com/meshcloud/collie-cli) - Collie CLI allows you to manage your AWS, Azure & GCP cloud landscape through a single view.
 - [auth0/nextjs-auth0](https://github.com/auth0/nextjs-auth0) - Next.js SDK for signing in with Auth0
+- [mattwaler/next-ssr-starter](https://github.com/mattwaler/next-ssr-starter) - A starter project for Next with session-based auth ready to go.
 - [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [derwish-pro/obsidian-unique-attachments](https://github.com/derwish-pro/obsidian-unique-attachments) - Obsidian plugin. Renames attachments, making their names unique.
 - [styxlab/next-cms-ghost](https://github.com/styxlab/next-cms-ghost) - Publish flaring fast blogs with Next.js and Ghost CMS
@@ -9014,6 +9074,9 @@
 
 ## Vim script 
 
+- [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
+- [jalvesaq/Nvim-R](https://github.com/jalvesaq/Nvim-R) - Vim plugin to work with R
+- [anstosa/dotfiles](https://github.com/anstosa/dotfiles) - My linux configs
 - [nvie/vim-flake8](https://github.com/nvie/vim-flake8) - Flake8 plugin for Vim
 - [nvie/vimrc](https://github.com/nvie/vimrc) - My personal Neovim configuration, with a lot of love put into it.
 - [pmarsceill/dotfiles](https://github.com/pmarsceill/dotfiles) - My dotfiles
