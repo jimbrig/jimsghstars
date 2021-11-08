@@ -572,6 +572,7 @@
 
 ## C++ 
 
+- [toggl-open-source/toggldesktop](https://github.com/toggl-open-source/toggldesktop) - Toggl Desktop app for Windows, Mac and Linux
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
 - [nx10/httpgd](https://github.com/nx10/httpgd) - Asynchronous http server graphics device for R.
 - [Enchufa2/Rtins](https://github.com/Enchufa2/Rtins) - Tools for Reading and Parsing Network Packet Capture (PCAP) Files in R
@@ -1883,6 +1884,7 @@
 
 ## JavaScript 
 
+- [toggl/toggl-button](https://github.com/toggl/toggl-button) - Toggl Button extension for Chrome and Firefox
 - [nteetor/chabudai](https://github.com/nteetor/chabudai) - A table plugin for Bootstrap 4
 - [nteetor/yonder-examples](https://github.com/nteetor/yonder-examples) - Translations of https://github.com/rstudio/shiny-examples
 - [samuelramox/node-rest](https://github.com/samuelramox/node-rest) - REST API made with Node.js
@@ -3041,6 +3043,7 @@
 
 ## Others 
 
+- [toggl/toggl_api_docs](https://github.com/toggl/toggl_api_docs) - Documentation for the Toggl API
 - [nteetor/dazzle](https://github.com/nteetor/dazzle) - Server up shiny applications
 - [nteetor/malt](https://github.com/nteetor/malt) - 
 - [NearAndDistant/data_science_with_r](https://github.com/NearAndDistant/data_science_with_r) - Tidy Tuesday Projects (R)
@@ -5119,6 +5122,7 @@
 
 ## R 
 
+- [ThinkR-open/togglr](https://github.com/ThinkR-open/togglr) - an R and Rstudio wrapper for toggl Api
 - [nteetor/shinystate](https://github.com/nteetor/shinystate) - 
 - [nteetor/hyderogen](https://github.com/nteetor/hyderogen) - Build jekyll sites from roxygen
 - [nteetor/eventure](https://github.com/nteetor/eventure) - Describe and handle events
@@ -9144,7 +9148,7 @@
 ## Vue 
 
 - [microsoft/AzureTipsAndTricks](https://github.com/microsoft/AzureTipsAndTricks) - Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Star the repo now to shave hours off your coding tasks tomorrow.
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A is self-hosted startpage for your server. Easy to use visual editor, status checking, themes and more!
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, themes and tons more!
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [Zorin95670/project-template-web](https://github.com/Zorin95670/project-template-web) - Template project to create a web application. Make with VueJs.
 - [iamshaunjp/vuejs-playlist](https://github.com/iamshaunjp/vuejs-playlist) - Course files for the Vue.js 2 playlist on The Net Ninja YouTube channel
