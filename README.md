@@ -1338,6 +1338,9 @@
 
 ## HTML 
 
+- [jod35/Flask-from-scratch](https://github.com/jod35/Flask-from-scratch) - This is code for the series of videos where I teach the Flask web framework from beginnerc concepts to advanced concepts.
+- [Princekrampah/FlaskPlotlyProject](https://github.com/Princekrampah/FlaskPlotlyProject) - 
+- [Princekrampah/flaskMongoTodoApp](https://github.com/Princekrampah/flaskMongoTodoApp) - 
 - [nteetor/zeppelin](https://github.com/nteetor/zeppelin) - A copy of nteetor/hyderogen tailored for yonder
 - [mammykins/App-cherry_picker](https://github.com/mammykins/App-cherry_picker) - A Shiny app for mapping School specific variables by Local Education Authority with Leaflet in R
 - [open-science-promoters/contibutor_manager](https://github.com/open-science-promoters/contibutor_manager) - Using a software to manage scientific publications author list, the same way reference managers work.
@@ -2849,6 +2852,7 @@
 
 ## Jupyter Notebook 
 
+- [Princekrampah/DataCleaning](https://github.com/Princekrampah/DataCleaning) - 
 - [dataprofessor/code](https://github.com/dataprofessor/code) - Compilation of R and Python programming codes on the Data Professor YouTube channel.
 - [microsoft/MLOps](https://github.com/microsoft/MLOps) - MLOps examples
 - [Azure/MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft
@@ -3043,6 +3047,10 @@
 
 ## Others 
 
+- [Princekrampah/py](https://github.com/Princekrampah/py) - Repository to store sample python programs for python learning
+- [Princekrampah/Machine-learning-books](https://github.com/Princekrampah/Machine-learning-books) - 
+- [Princekrampah/pandas-videos](https://github.com/Princekrampah/pandas-videos) - Jupyter notebook and datasets from the pandas Q&A video series
+- [Princekrampah/flaskTodolistAPITutorial](https://github.com/Princekrampah/flaskTodolistAPITutorial) - 
 - [toggl/toggl_api_docs](https://github.com/toggl/toggl_api_docs) - Documentation for the Toggl API
 - [nteetor/dazzle](https://github.com/nteetor/dazzle) - Server up shiny applications
 - [nteetor/malt](https://github.com/nteetor/malt) - 
@@ -4093,6 +4101,7 @@
 
 ## PowerShell 
 
+- [matthewjdegarmo/PSChickfilA](https://github.com/matthewjdegarmo/PSChickfilA) - PowerShell wrapper for Chick-fil-A API
 - [shovel-org/GenericBucket](https://github.com/shovel-org/GenericBucket) - Generic Shovel bucket template.
 - [dbroeglin/PoshWix](https://github.com/dbroeglin/PoshWix) - PoshWix is an opinionated and trivially simple tool to produce MSI packages from PowerShell modules
 - [mefellows/windows-machine-factory-tutorial](https://github.com/mefellows/windows-machine-factory-tutorial) - Example Machine Factory setup for Windows Server 2012r2
@@ -4629,6 +4638,15 @@
 
 ## Python 
 
+- [mfarragher/obsidiantools](https://github.com/mfarragher/obsidiantools) - Obsidian tools - a Python package for analysing an Obsidian.md vault
+- [arthaud/git-dumper](https://github.com/arthaud/git-dumper) - A tool to dump a git repository from a website
+- [Princekrampah/FlaskApp](https://github.com/Princekrampah/FlaskApp) - 
+- [Princekrampah/databaseswithPython](https://github.com/Princekrampah/databaseswithPython) - 
+- [Princekrampah/learningFastAPI](https://github.com/Princekrampah/learningFastAPI) - 
+- [Princekrampah/FlaskExpenseTracker](https://github.com/Princekrampah/FlaskExpenseTracker) - 
+- [Princekrampah/fastAPIMongoDB_todoAPP](https://github.com/Princekrampah/fastAPIMongoDB_todoAPP) - 
+- [Princekrampah/djangoCRUDAPI](https://github.com/Princekrampah/djangoCRUDAPI) - 
+- [casact/chainladder-python](https://github.com/casact/chainladder-python) - Actuarial reserving in Python
 - [moj-analytical-services/pydbtools](https://github.com/moj-analytical-services/pydbtools) - Python version of dbtools
 - [jupyter/nbviewer](https://github.com/jupyter/nbviewer) - nbconvert as a web service: Render Jupyter Notebooks as static web pages
 - [bdcaf/cookiecutter_dotfile](https://github.com/bdcaf/cookiecutter_dotfile) - template for stowable dotfile dir
@@ -8711,7 +8729,7 @@
 - [BateleurIO/azuredatastudio-combine-scripts](https://github.com/BateleurIO/azuredatastudio-combine-scripts) - Combine several script files.
 - [microsoft/azuredatastudio-postgresql](https://github.com/microsoft/azuredatastudio-postgresql) - azuredatastudio-postgresql is an extension for Azure Data Studio that enables you to work with PostgreSQL databases
 - [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio) - Azure Data Studio is a data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 - [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) - Tasks for Azure Pipelines
 - [lazerwalker/machine-learning-rps](https://github.com/lazerwalker/machine-learning-rps) - 
 - [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - :octocat: GitHub Action to easily import a GPG key
