@@ -651,7 +651,7 @@
 - [LibrePCB/LibrePCB](https://github.com/LibrePCB/LibrePCB) - A powerful, innovative and intuitive EDA tool for everyone!
 - [WinMerge/winmerge](https://github.com/WinMerge/winmerge) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
-- [gioblu/PJON](https://github.com/gioblu/PJON) - PJON® (Padded Jittering Operative Network) is an experimental, arduino-compatible, multi-master, multi-media network protocol.
+- [gioblu/PJON](https://github.com/gioblu/PJON) - PJON (Padded Jittering Operative Network) is an experimental, arduino-compatible, multi-master, multi-media network protocol.
 - [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn.
 - [mhammond/pywin32](https://github.com/mhammond/pywin32) - Python for Windows (pywin32) Extensions
 - [pmq20/node-packer](https://github.com/pmq20/node-packer) - Packing your Node.js application into a single executable.
@@ -1338,6 +1338,8 @@
 
 ## HTML 
 
+- [ex-man/GeneralInsurance_Class](https://github.com/ex-man/GeneralInsurance_Class) - This includes a simple training for general insurance business designed for insurance students
+- [mehtabhavin10/insurance_fraud_detection](https://github.com/mehtabhavin10/insurance_fraud_detection) - :mag: | :chart_with_upwards_trend: | Life / Health Insurance Fraud Detection | :clipboard: | (Codeshahstra Round 1 Hackathon)
 - [jod35/Flask-from-scratch](https://github.com/jod35/Flask-from-scratch) - This is code for the series of videos where I teach the Flask web framework from beginnerc concepts to advanced concepts.
 - [Princekrampah/FlaskPlotlyProject](https://github.com/Princekrampah/FlaskPlotlyProject) - 
 - [Princekrampah/flaskMongoTodoApp](https://github.com/Princekrampah/flaskMongoTodoApp) - 
@@ -1887,6 +1889,11 @@
 
 ## JavaScript 
 
+- [firmai/firmai.github.io](https://github.com/firmai/firmai.github.io) - Open Business Analytics and Data Science Research
+- [esbullington/flask-bootstrap](https://github.com/esbullington/flask-bootstrap) - A Flask app template with integrated SQLAlchemy, authentication, and Bootstrap frontend
+- [yoobool/flask-state](https://github.com/yoobool/flask-state) - Display machine state using Python3 with Flask.
+- [flask-debugtoolbar/flask-debugtoolbar](https://github.com/flask-debugtoolbar/flask-debugtoolbar) - A toolbar overlay for debugging Flask applications
+- [shamahdotdev/gsuite-desktop-client](https://github.com/shamahdotdev/gsuite-desktop-client) - Unofficial Google Suite (Drive, Docs, etc) Desktop Client made with Electron
 - [toggl/toggl-button](https://github.com/toggl/toggl-button) - Toggl Button extension for Chrome and Firefox
 - [nteetor/chabudai](https://github.com/nteetor/chabudai) - A table plugin for Bootstrap 4
 - [nteetor/yonder-examples](https://github.com/nteetor/yonder-examples) - Translations of https://github.com/rstudio/shiny-examples
@@ -2031,6 +2038,7 @@
 - [dominique-mueller/exec-bin](https://github.com/dominique-mueller/exec-bin) - Run any binary files / executables within your npm scripts.
 - [Rohithv07/Docker](https://github.com/Rohithv07/Docker) - My Workplay on Docker and Kubernetes. Ref : https://github.com/Rohithv07/DockerCasts
 - [mdn/data](https://github.com/mdn/data) - This repository contains general data for Web technologies
+- [mattwaler/next-ssr-starter](https://github.com/mattwaler/next-ssr-starter) - A starter project for Next with session-based auth ready to go.
 - [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [fastify/fastify-nextjs](https://github.com/fastify/fastify-nextjs) - React server side rendering support for Fastify with Next
 - [styxlab/gatsby-starter-try-ghost](https://github.com/styxlab/gatsby-starter-try-ghost) - Publish flaring fast blogs with Gatsby and Ghost
@@ -2852,6 +2860,12 @@
 
 ## Jupyter Notebook 
 
+- [adityakamble49/loss-ratio-prediction](https://github.com/adityakamble49/loss-ratio-prediction) - Predicting Loss Ratios for Auto Insurance Portfolios - ITCS 6100 Big Data Analytics for Competitive Advantage
+- [domokane/FinancePy](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
+- [actuarial-tools/ipynb-package](https://github.com/actuarial-tools/ipynb-package) - 
+- [firmai/interactive-corporate-report](https://github.com/firmai/interactive-corporate-report) - ICR - Automated and Intelligent Company Report Built in Python (by @firmai)
+- [holmen1/reserving-tutorial](https://github.com/holmen1/reserving-tutorial) - chainladder - Property and Casualty Loss Reserving
+- [johalnes/DeepTriangle](https://github.com/johalnes/DeepTriangle) - Attempt at Deep triangle model as presented in Kevin Kuo/Kasa AI. Hopefully in time connected to det ChainLadder paclage
 - [Princekrampah/DataCleaning](https://github.com/Princekrampah/DataCleaning) - 
 - [dataprofessor/code](https://github.com/dataprofessor/code) - Compilation of R and Python programming codes on the Data Professor YouTube channel.
 - [microsoft/MLOps](https://github.com/microsoft/MLOps) - MLOps examples
@@ -3047,6 +3061,8 @@
 
 ## Others 
 
+- [actuarial-tools/adm_dashboard](https://github.com/actuarial-tools/adm_dashboard) - Application for managing analytical models and workflows
+- [actuarial-tools/scikit-learn](https://github.com/actuarial-tools/scikit-learn) - scikit-learn: machine learning in Python
 - [Princekrampah/py](https://github.com/Princekrampah/py) - Repository to store sample python programs for python learning
 - [Princekrampah/Machine-learning-books](https://github.com/Princekrampah/Machine-learning-books) - 
 - [Princekrampah/pandas-videos](https://github.com/Princekrampah/pandas-videos) - Jupyter notebook and datasets from the pandas Q&A video series
@@ -4071,6 +4087,7 @@
 
 ## PLpgSQL 
 
+- [PacktPublishing/Learn-PostgreSQL](https://github.com/PacktPublishing/Learn-PostgreSQL) - Learn PostgreSQL, published by Packt
 - [anthonydb/practical-sql](https://github.com/anthonydb/practical-sql) - Code and Data for the First Edition of "Practical SQL" by Anthony DeBarros, published by No Starch Press (2018).
 - [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it's 2021
 - [digoal/blog](https://github.com/digoal/blog) - Everything about database,business.(Most for PostgreSQL).
@@ -4638,6 +4655,123 @@
 
 ## Python 
 
+- [flasgger/flasgger](https://github.com/flasgger/flasgger) - Easy OpenAPI specs and Swagger UI for your Flask API
+- [tko22/flask-boilerplate](https://github.com/tko22/flask-boilerplate) - Simple flask boilerplate with Postgres, Docker, and Heroku/Zeit now
+- [ksindi/flask-sqlacodegen](https://github.com/ksindi/flask-sqlacodegen) - :sake: Automatic model code generator for SQLAlchemy with Flask support
+- [maxtepkeev/architect](https://github.com/maxtepkeev/architect) - A set of tools which enhances ORMs written in Python with more features
+- [marshmallow-code/marshmallow-sqlalchemy](https://github.com/marshmallow-code/marshmallow-sqlalchemy) - SQLAlchemy integration with marshmallow
+- [cosmic-byte/flask-restplus-boilerplate](https://github.com/cosmic-byte/flask-restplus-boilerplate) - A boilerplate for flask restful web service
+- [cburmeister/flask-bones](https://github.com/cburmeister/flask-bones) - An example of a large scale Flask application using blueprints and extensions.
+- [jeffknupp/sandman2](https://github.com/jeffknupp/sandman2) - Automatically generate a RESTful API service for your legacy database. No code required!
+- [absent1706/sqlalchemy-mixins](https://github.com/absent1706/sqlalchemy-mixins) - Active Record, Django-like queries, nested eager load and beauty __repr__ for SQLAlchemy
+- [jmcarp/filteralchemy](https://github.com/jmcarp/filteralchemy) - Declarative query builder for SQLAlchemy
+- [iurisilvio/bottle-sqlalchemy](https://github.com/iurisilvio/bottle-sqlalchemy) - Bottle SQLAlchemy plugin
+- [Alexis-benoist/eralchemy](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool
+- [fschulze/sqlalchemy_schemadisplay](https://github.com/fschulze/sqlalchemy_schemadisplay) - 
+- [klen/mixer](https://github.com/klen/mixer) - Mixer -- Is a fixtures replacement. Supported Django, Flask, SqlAlchemy and custom python objects.
+- [meyt/sqlalchemy-dict](https://github.com/meyt/sqlalchemy-dict) - sqlalchemy extension for interacting models with python dictionary.
+- [djrobstep/sqlakeyset](https://github.com/djrobstep/sqlakeyset) - offset-free paging for sqlalchemy
+- [inconshreveable/sqltap](https://github.com/inconshreveable/sqltap) - SQL profiling and introspection for applications using sqlalchemy
+- [dahlia/awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) - A curated list of awesome tools for SQLAlchemy
+- [FactoryBoy/factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python
+- [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
+- [hack4impact/flask-base](https://github.com/hack4impact/flask-base) - A simple Flask boilerplate app with SQLAlchemy, Redis, User Authentication, and more.
+- [mosiahr/insurer](https://github.com/mosiahr/insurer) - Accounting of insurance policies.
+- [adrische/actuary](https://github.com/adrische/actuary) - (Some) Exercises as preparation for SAV actuarial exams at ETH Zurich
+- [jdaymude/SureChoice](https://github.com/jdaymude/SureChoice) - Make informed decisions about health insurance.
+- [sr-murthy/oedtools](https://github.com/sr-murthy/oedtools) - File validation, query and data sampling toolkit for the Simplitium Open Exposure Data (OED) (re)insurance exposure data format
+- [genedan/TmVal](https://github.com/genedan/TmVal) - Time Value of Money - a Python package for mathematical interest theory, annuity, and bond calculations.
+- [MindSetLib/Insolver](https://github.com/MindSetLib/Insolver) - Low code machine learning library, specified for insurance tasks: prepare data, build model, implement into production.
+- [krishnakuruvadi/portfoliomanager](https://github.com/krishnakuruvadi/portfoliomanager) - Finance portfolio management for Indians.  Track financial goals using contributions to Provident Fund, Sukanya Samriddhi, Mutual Funds, Shares, Restricted Stock Units, Employee Stock Purchase Plan, 401K
+- [Patitotective/PREFS](https://github.com/Patitotective/PREFS) - Store and manage user preferences easily with PREFS.
+- [mkalioby/ModelTracker](https://github.com/mkalioby/ModelTracker) - Track a model object over time and blame users
+- [pudo/datafreeze](https://github.com/pudo/datafreeze) - Dump (freeze) SQL query results from a database into a selection of file formats
+- [AlexIoannides/py-package-template](https://github.com/AlexIoannides/py-package-template) - Python package template project for kick-starting new Python projects.
+- [oegedijk/explainerdashboard](https://github.com/oegedijk/explainerdashboard) - Quickly build Explainable AI dashboards that show the inner workings of so-called "blackbox" machine learning models.
+- [actuarial-tools/py-datatables](https://github.com/actuarial-tools/py-datatables) - Framework agnostic data tables using SQLAlchemy.
+- [stitchfix/hamilton](https://github.com/stitchfix/hamilton) - Library for creating dataframes from functions.
+- [iemeka/actsciArchive-unilag](https://github.com/iemeka/actsciArchive-unilag) - A repository to store online study materials. Actuarial Science, University Of Lagos
+- [ets-labs/python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python
+- [shawnbrown/datatest](https://github.com/shawnbrown/datatest) - Tools for test driven data-wrangling and data validation.
+- [rstojnic/lazydata](https://github.com/rstojnic/lazydata) - Lazydata: Scalable data dependencies for Python projects
+- [yhat/db.py](https://github.com/yhat/db.py) - db.py is an easier way to interact with your databases
+- [betodealmeida/gsheets-db-api](https://github.com/betodealmeida/gsheets-db-api) - A Python DB-API and SQLAlchemy dialect to Google Spreasheets
+- [amol-/depot](https://github.com/amol-/depot) - Toolkit for storing files and attachments in web applications
+- [kennethreitz/records](https://github.com/kennethreitz/records) - SQL for Humans™
+- [kayak/pypika](https://github.com/kayak/pypika) - PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially useful for data analysis.
+- [encode/databases](https://github.com/encode/databases) - Async database support for Python. 🗄
+- [pudo/dataset](https://github.com/pudo/dataset) - Easy-to-use data handling for SQL data stores with support for implicit table creation, bulk loading, and transactions.
+- [kvesteri/sqlalchemy-utils](https://github.com/kvesteri/sqlalchemy-utils) - Various utility functions and datatypes for SQLAlchemy.
+- [prometheus/client_python](https://github.com/prometheus/client_python) - Prometheus instrumentation library for Python applications
+- [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) - A database migrations tool for SQLAlchemy.
+- [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
+- [siddhantgoel/streaming-form-data](https://github.com/siddhantgoel/streaming-form-data) - Streaming parser for multipart/form-data written in Python
+- [thp/urlwatch](https://github.com/thp/urlwatch) - urlwatch monitors webpages for you
+- [gaojiuli/toapi](https://github.com/gaojiuli/toapi) - Every web site provides APIs.
+- [marshmallow-code/webargs](https://github.com/marshmallow-code/webargs) - A friendly library for parsing HTTP request arguments, with built-in support for popular web frameworks, including Flask, Django, Bottle, Tornado, Pyramid, webapp2, Falcon, and aiohttp.
+- [pallets/jinja](https://github.com/pallets/jinja) - A very fast and expressive template engine.
+- [numberly/flask2postman](https://github.com/numberly/flask2postman) - :rocket: Generate a Postman collection from your Flask application
+- [christabor/flask_jsondash](https://github.com/christabor/flask_jsondash) - :snake: :bar_chart: :chart_with_upwards_trend: Build complex dashboards without any front-end code. Use your own endpoints. JSON config only. Ready to go.
+- [opentracing-contrib/python-flask](https://github.com/opentracing-contrib/python-flask) - OpenTracing instrumentation for the Flask microframework
+- [GoogleCloudPlatform/flask-talisman](https://github.com/GoogleCloudPlatform/flask-talisman) - HTTP security headers for Flask
+- [miracle2k/flask-assets](https://github.com/miracle2k/flask-assets) - Flask webassets integration.
+- [mattupstate/flask-security](https://github.com/mattupstate/flask-security) - Quick and simple security for Flask applications
+- [joegasewicz/flask-file-upload](https://github.com/joegasewicz/flask-file-upload) - Easy file uploads for Flask.
+- [honmaple/flask-msearch](https://github.com/honmaple/flask-msearch) - Full text search for flask.
+- [cenobites/flask-jsonrpc](https://github.com/cenobites/flask-jsonrpc) - Basic JSON-RPC implementation for your Flask-powered sites
+- [bauerji/flask-pydantic](https://github.com/bauerji/flask-pydantic) - flask extension for integration with the awesome pydantic package
+- [thomaxxl/safrs](https://github.com/thomaxxl/safrs) - SqlAlchemy Flask-Restful Swagger Json:API OpenAPI
+- [muatik/flask-profiler](https://github.com/muatik/flask-profiler) - a flask profiler which watches endpoint calls and tries to make some analysis.
+- [plangrid/flask-rebar](https://github.com/plangrid/flask-rebar) - Flask-Rebar combines flask, marshmallow, and swagger for robust REST services.
+- [pyexcel-webwares/Flask-Excel](https://github.com/pyexcel-webwares/Flask-Excel) - A flask extension using pyexcel to read, manipulate and write data in different excel formats: csv, ods, xls, xlsx and xlsm.
+- [alecthomas/flask_injector](https://github.com/alecthomas/flask_injector) - Adds Injector support to Flask.
+- [lixxu/flask-paginate](https://github.com/lixxu/flask-paginate) - Pagination support for flask
+- [maxcountryman/flask-seasurf](https://github.com/maxcountryman/flask-seasurf) - SeaSurf is a Flask extension for preventing cross-site request forgery (CSRF).
+- [miguelgrinberg/Flask-Moment](https://github.com/miguelgrinberg/Flask-Moment) - Formatting of dates and times in Flask templates using moment.js.
+- [Frozen-Flask/Frozen-Flask](https://github.com/Frozen-Flask/Frozen-Flask) - Freezes a Flask application into a set of static files.
+- [marshmallow-code/flask-marshmallow](https://github.com/marshmallow-code/flask-marshmallow) - Flask + marshmallow for beautiful APIs
+- [jmcarp/flask-apispec](https://github.com/jmcarp/flask-apispec) - 
+- [johnwheeler/flask-ask](https://github.com/johnwheeler/flask-ask) - Alexa Skills Kit for Python
+- [alisaifee/flask-limiter](https://github.com/alisaifee/flask-limiter) - Rate Limiting extension for Flask
+- [maxcountryman/flask-bcrypt](https://github.com/maxcountryman/flask-bcrypt) - Flask-Bcrypt is a Flask extension that provides bcrypt hashing utilities for your application.
+- [fengsp/flask-session](https://github.com/fengsp/flask-session) - Server side session extension for Flask
+- [pallets-eco/flask-caching](https://github.com/pallets-eco/flask-caching) - A caching extension for Flask
+- [flask-api/flask-api](https://github.com/flask-api/flask-api) - Browsable web APIs for Flask.
+- [corydolphin/flask-cors](https://github.com/corydolphin/flask-cors) - Cross Origin Resource Sharing ( CORS ) support for Flask
+- [miguelgrinberg/Flask-Migrate](https://github.com/miguelgrinberg/Flask-Migrate) - SQLAlchemy database migrations for Flask applications using Alembic
+- [flask-admin/flask-admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask
+- [flaskbb/flaskbb](https://github.com/flaskbb/flaskbb) - A classic Forum Software in Python using Flask.
+- [rycus86/prometheus_flask_exporter](https://github.com/rycus86/prometheus_flask_exporter) - Prometheus exporter for Flask applications
+- [flask-dashboard/Flask-MonitoringDashboard](https://github.com/flask-dashboard/Flask-MonitoringDashboard) - Automatically monitor the evolving performance of Flask/Python web services.
+- [wtforms/flask-wtf](https://github.com/wtforms/flask-wtf) - Simple integration of Flask and WTForms, including CSRF, file upload and Recaptcha integration.
+- [wtforms/wtforms](https://github.com/wtforms/wtforms) - A flexible forms validation and rendering library for Python.
+- [pytest-dev/pytest-flask](https://github.com/pytest-dev/pytest-flask) - A set of pytest fixtures to test Flask applications
+- [jarus/flask-testing](https://github.com/jarus/flask-testing) - Unittest extensions for Flask
+- [Pylons/webtest](https://github.com/Pylons/webtest) - Wraps any WSGI application and makes it easy to send test requests to that application, without starting up an HTTP server.
+- [kevin1024/vcrpy](https://github.com/kevin1024/vcrpy) - Automatically mock your HTTP interactions to simplify and speed up testing
+- [zappa/Zappa](https://github.com/zappa/Zappa) - Serverless Python
+- [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
+- [pallets-eco/flask-openid](https://github.com/pallets-eco/flask-openid) - Flask-OpenID adds openid support to flask applications
+- [lingthio/Flask-User](https://github.com/lingthio/Flask-User) - Customizable User Authorization & User Management: Register, Confirm, Login, Change username/password, Forgot password and more.
+- [flask-extensions/Flask-SimpleLogin](https://github.com/flask-extensions/Flask-SimpleLogin) - Simple Login - Login Extension for Flask - maintainer @cuducos
+- [dusktreader/flask-praetorian](https://github.com/dusktreader/flask-praetorian) - Strong, Simple, and Precise security for Flask APIs (using jwt)
+- [singingwolfboy/flask-dance](https://github.com/singingwolfboy/flask-dance) - Doing the OAuth dance with style using Flask, requests, and oauthlib.
+- [maxcountryman/flask-login](https://github.com/maxcountryman/flask-login) - Flask user session management.
+- [oauthlib/oauthlib](https://github.com/oauthlib/oauthlib) - A generic, spec-compliant, thorough implementation of the OAuth request-signing logic
+- [benoitc/gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
+- [requests/toolbelt](https://github.com/requests/toolbelt) - A toolbelt of useful classes and functions to be used with python-requests
+- [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
+- [noirbizarre/flask-restplus](https://github.com/noirbizarre/flask-restplus) - Fully featured framework for fast, easy and documented API development with Flask
+- [flask-restful/flask-restful](https://github.com/flask-restful/flask-restful) - Simple framework for creating REST APIs
+- [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
+- [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
+- [ml-tooling/best-of-python-dev](https://github.com/ml-tooling/best-of-python-dev) - 🏆 A ranked list of awesome python developer tools and libraries. Updated weekly.
+- [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
+- [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
+- [nassmim/automate-insurance-pricing](https://github.com/nassmim/automate-insurance-pricing) - 
+- [jbogaardt/chainladder-backend](https://github.com/jbogaardt/chainladder-backend) - 
+- [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
+- [jeancochrane/pytest-flask-sqlalchemy](https://github.com/jeancochrane/pytest-flask-sqlalchemy) - A pytest plugin for preserving test isolation in Flask-SQLAlchemy using database transactions.
 - [mfarragher/obsidiantools](https://github.com/mfarragher/obsidiantools) - Obsidian tools - a Python package for analysing an Obsidian.md vault
 - [arthaud/git-dumper](https://github.com/arthaud/git-dumper) - A tool to dump a git repository from a website
 - [Princekrampah/FlaskApp](https://github.com/Princekrampah/FlaskApp) - 
@@ -4827,7 +4961,6 @@
 - [tonycpsu/streamglob](https://github.com/tonycpsu/streamglob) - A console media browser designed to facilitate live and time-shifted viewing of online content.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [wal-e/wal-e](https://github.com/wal-e/wal-e) - Continuous Archiving for Postgres
-- [kennethreitz/records](https://github.com/kennethreitz/records) - SQL for Humans™
 - [PostgREST/postgrest-docs](https://github.com/PostgREST/postgrest-docs) - Documentation for PostgREST
 - [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
 - [keithmcnulty/ppt-generation](https://github.com/keithmcnulty/ppt-generation) - Generate parameterized powerpoint with Python and R
@@ -5140,6 +5273,14 @@
 
 ## R 
 
+- [easystats/datawizard](https://github.com/easystats/datawizard) - Magic potions to clean and transform your data 🧙
+- [ReasonFoundation/databaseR](https://github.com/ReasonFoundation/databaseR) - 
+- [actuaryzhang/cplm](https://github.com/actuaryzhang/cplm) - Compound Poisson Linear Models
+- [ActPersp/LTPricing](https://github.com/ActPersp/LTPricing) - A sample project for level term insurance pricing using Rgogo Framework.
+- [ActPersp/Rgogo](https://github.com/ActPersp/Rgogo) - An object-oriented actuarial modeling framework
+- [CharlesSIBOTTIER/etude-actuarielle](https://github.com/CharlesSIBOTTIER/etude-actuarielle) - 
+- [schochastics/roughsf](https://github.com/schochastics/roughsf) - R package to draw sketchy, hand-drawn-like maps with roughjs
+- [mark-andrews/immr05](https://github.com/mark-andrews/immr05) - Introduction to Multilevel (hierarchical, or mixed effects) Models
 - [ThinkR-open/togglr](https://github.com/ThinkR-open/togglr) - an R and Rstudio wrapper for toggl Api
 - [nteetor/shinystate](https://github.com/nteetor/shinystate) - 
 - [nteetor/hyderogen](https://github.com/nteetor/hyderogen) - Build jekyll sites from roxygen
@@ -5174,7 +5315,7 @@
 - [sgaure/lfe](https://github.com/sgaure/lfe) - Source code repository for the R package lfe on CRAN.
 - [tanho63/office_hours](https://github.com/tanho63/office_hours) - 
 - [RafaelEduardoDiaz/plumber_logs](https://github.com/RafaelEduardoDiaz/plumber_logs) - Proyecto que muestra como guardar los logs en una API de plumber.
-- [jennybc/regexcite](https://github.com/jennybc/regexcite) - Make Regular Expressions More Exciting
+- [jennybc/regexcite](https://github.com/jennybc/regexcite) - PACKAGE EXISTS FOR DEMONSTRATION PURPOSES ONLY! Make Regular Expressions More Exciting
 - [insightsengineering/thevalidatoR](https://github.com/insightsengineering/thevalidatoR) - Github Action that generates R Package Validation documentation 🏁
 - [tidylab/ddd](https://github.com/tidylab/ddd) - Domain-driven Design (DDD) in R. Put domain experts and developers on a level playing field, which produces software that makes perfect sense to the business, not just the coders.
 - [NIVA-Denmark/ekostat_app](https://github.com/NIVA-Denmark/ekostat_app) - ekostat app showing static results
@@ -8531,7 +8672,7 @@
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [chendaniely/computational-project-cookie-cutter](https://github.com/chendaniely/computational-project-cookie-cutter) - A cookie cutter to set up a folder structure for a computational project
-- [isair/dotfiles](https://github.com/isair/dotfiles) - 🖥️ Backup your packages, apps, and configurations directly to git in the form of profiles. Set up any new (virtual) machine using a profile in one line. Share profiles between multiple machines. Configure auto update, clean-up, and back-up. Works for all linux flavors, Mac OS, and Windows.
+- [isair/dotfiles](https://github.com/isair/dotfiles) - 🖥️  Backup your packages, apps, and configurations directly to git in the form of profiles. Set up any new (virtual) machine using a profile in one line. Share profiles between multiple machines. Configure auto update, clean-up, and back-up. Works for all linux flavors, Mac OS, and Windows.
 - [radum/dotfiles](https://github.com/radum/dotfiles) - 🛠 Global apps, modules, packages, .files, sensible hacker defaults for macOS and Windows
 - [weikinhuang/dotfiles](https://github.com/weikinhuang/dotfiles) - Cross platform home directory settings
 - [jthegedus/dotfiles](https://github.com/jthegedus/dotfiles) - Dotfiles & Developer Environment. Supports Ubuntu2004+, macOS Catalina+, Windows 10 w WSL
@@ -8775,7 +8916,6 @@
 - [mrmartineau/gatsby-theme-code-notes](https://github.com/mrmartineau/gatsby-theme-code-notes) - A Gatsby theme for publishing code-related notes to your website
 - [meshcloud/collie-cli](https://github.com/meshcloud/collie-cli) - Collie CLI allows you to manage your AWS, Azure & GCP cloud landscape through a single view.
 - [auth0/nextjs-auth0](https://github.com/auth0/nextjs-auth0) - Next.js SDK for signing in with Auth0
-- [mattwaler/next-ssr-starter](https://github.com/mattwaler/next-ssr-starter) - A starter project for Next with session-based auth ready to go.
 - [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [derwish-pro/obsidian-unique-attachments](https://github.com/derwish-pro/obsidian-unique-attachments) - Obsidian plugin. Renames attachments, making their names unique.
 - [styxlab/next-cms-ghost](https://github.com/styxlab/next-cms-ghost) - Publish flaring fast blogs with Next.js and Ghost CMS
@@ -8832,7 +8972,7 @@
 - [garrylachman/ElectroCRUD](https://github.com/garrylachman/ElectroCRUD) - Database CRUD Application Built on Electron | MySQL, Postgres, SQLite
 - [gajus/slonik](https://github.com/gajus/slonik) - A PostgreSQL client with strict types, detailed logging and assertions.
 - [kriasoft/relay-starter-kit](https://github.com/kriasoft/relay-starter-kit) - 💥  Yarn based monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, Relay, and Material UI.
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self host.
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self-host.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
 - [Purii/react-native-tableview-simple](https://github.com/Purii/react-native-tableview-simple) - Flexible and lightweight React Native component for UITableView made with pure CSS
