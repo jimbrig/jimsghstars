@@ -838,7 +838,6 @@
 - [djnavarro/hugo-llum](https://github.com/djnavarro/hugo-llum) - 
 - [rstudio/education.rstudio.com](https://github.com/rstudio/education.rstudio.com) - 
 - [evernote/email-builder](https://github.com/evernote/email-builder) - 
-- [atusy/minidown](https://github.com/atusy/minidown) - Create simple yet powerful html documents with light weight CSS frameworks.
 - [dzangri/stmGUI](https://github.com/dzangri/stmGUI) - 
 - [rileytwo/darkstudio](https://github.com/rileytwo/darkstudio) - darkstudio. A dark grey alternative to RStudio's default dark theme.
 - [sjl/d](https://github.com/sjl/d) - Markdown files to documentation.  Nothing else.
@@ -3216,7 +3215,7 @@
 - [iidanL/Fido](https://github.com/iidanL/Fido) - A PowerShell script to download Windows retail ISOs
 - [jonashackt/ansible-windows-springboot](https://github.com/jonashackt/ansible-windows-springboot) - Example project showing how to provision, deploy and run a Spring Boot app as a Windows Service using Ansible, chocolatey & nssm
 - [nukexls/Softexe.net](https://github.com/nukexls/Softexe.net) - 
-- [NerdMove/Windows11-betterUX](https://github.com/NerdMove/Windows11-betterUX) - A non-destructive registry preset to improve the default user-experience with windows 10.
+- [neolectron/Windows11-betterUX](https://github.com/neolectron/Windows11-betterUX) - A non-destructive registry preset to improve the default user-experience with windows 10.
 - [RobertoBiundo/Windows10Lite](https://github.com/RobertoBiundo/Windows10Lite) - A guide to create a Windows 10 Install ISO with no bloatware
 - [jahwi/Articles](https://github.com/jahwi/Articles) - A collection of articles written by me.
 - [Twigonometry/Cybersecurity-Notes](https://github.com/Twigonometry/Cybersecurity-Notes) - My Markdown notes for all things cybersecurity
@@ -4655,6 +4654,7 @@
 
 ## Python 
 
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [flasgger/flasgger](https://github.com/flasgger/flasgger) - Easy OpenAPI specs and Swagger UI for your Flask API
 - [tko22/flask-boilerplate](https://github.com/tko22/flask-boilerplate) - Simple flask boilerplate with Postgres, Docker, and Heroku/Zeit now
 - [ksindi/flask-sqlacodegen](https://github.com/ksindi/flask-sqlacodegen) - :sake: Automatic model code generator for SQLAlchemy with Flask support
@@ -6981,6 +6981,7 @@
 - [moodymudskipper/liblog](https://github.com/moodymudskipper/liblog) - Log Calls to loadNamespace
 - [coolbutuseless/arcadefont](https://github.com/coolbutuseless/arcadefont) - Oldschool arcade vector font
 - [sckott/webmiddens](https://github.com/sckott/webmiddens) - cache http requests
+- [atusy/minidown](https://github.com/atusy/minidown) - Create simple yet powerful html documents with light weight CSS frameworks.
 - [gadenbuie/shrtcts](https://github.com/gadenbuie/shrtcts) - Make Anything an RStudio Shortcut
 - [rstudio/bookdown.org](https://github.com/rstudio/bookdown.org) - Source documents to generate the bookdown.org website
 - [Appsilon/shiny.info](https://github.com/Appsilon/shiny.info) - Display simple diagnostic info of your Shiny app
