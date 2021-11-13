@@ -158,6 +158,7 @@
 
 ## Batchfile 
 
+- [luzeadev/winactivate](https://github.com/luzeadev/winactivate) - Easy-to-use Windows HWID/KMS38 Activation Script.
 - [z2k-gwp/obsidian-z2k-utils](https://github.com/z2k-gwp/obsidian-z2k-utils) - Z2K Utilities Library for code shared across all Z2K plugins
 - [tschutter/MyAppData](https://github.com/tschutter/MyAppData) - Windows dotfiles
 - [balsamleti/speedup-windows10](https://github.com/balsamleti/speedup-windows10) - The following batch files are included in the archive 1) Advanced Explorer Settings — This changes more than a dozen File Explorer related settings on Windows 10 that turn of animations, enable menus, or turn off things like Toasts. 2) Disable Automatic App Updates — Turns off automatic updates for Windows Store applications. 3) Disable Automatic Windows Updates — Turns off automatic updates for the Windows 10 operating system itself. 4) Disable Cortana Completely — Rename the cortana process searchUI.exe to searchUI.bak. This will kill the process permanetly and save your ressources. 5) Disable Forced Reboot after Update — Blocks Windows from enforcing a reboot after updates that require one. 6) Disable Lockscreen — Turns off the Windows 10 lockscreen. 7) Disable Telemetry — Turns off Windows 10 Telemetry. 8) Disable Unnecessary Services — This disables the MapsBroker, DoSvc and Wsearch services 9) Enable Defender Malware Protection —   Enables Windows malware Protection. 10)Enable Secure Microsoft Edge Settings — Tweaks Microsoft Edge for security. Changes include turning of Flash and Cortana, enabling continuous browsing, and more. 11)Get Back Old Vertical Desktop Icon Distance —  Changes the vertical icon spacing on the desktop. 12)Hide Cortana — Disables Cortana, and with it web searches and other search related parameters. The Microsoft way of disabling Cortana. 13)Hide OneDrive — Hides OneDrive and disables several related settings. 14)Re-enable Cortana Completely — This preferences turns Cortana on again. 15)Uninstall Unnecessary Apps — Removes ten apps that Windows 10 ships with including 3D Builder, Skype App, Getting Started, or Voice Recorder. 16)Enable Administrator Account — This preference enables the hidden administrator account in Windows. 17)Enable Standby instead of Hibernate — Switch powerstate from hibernation (slow) to standby . 18)Get apps access for Administrator Account — Enable access to applications for the administrator account.
@@ -939,6 +940,7 @@
 
 ## Dockerfile 
 
+- [alexmacarthur/local-docker-db](https://github.com/alexmacarthur/local-docker-db) - A bunch o' Docker Compose files used to quickly spin up local databases.
 - [microsoft/mssql-docker](https://github.com/microsoft/mssql-docker) - Official Microsoft repository for SQL Server in Docker resources
 - [mpuhacz/building_docker_images_using_dev_ops_pipelines_with_private_dev_ops_artifactory_py_pi_feed](https://github.com/mpuhacz/building_docker_images_using_dev_ops_pipelines_with_private_dev_ops_artifactory_py_pi_feed) - 
 - [analythium/shinyproxy-demo](https://github.com/analythium/shinyproxy-demo) - ShinyProxy Demo Image
@@ -1050,6 +1052,11 @@
 
 ## Go 
 
+- [harbur/captain](https://github.com/harbur/captain) - Captain - Convert your Git workflow to Docker :whale: containers
+- [CenturyLinkLabs/zodiac](https://github.com/CenturyLinkLabs/zodiac) - A lightweight tool for easy deployment and rollback of dockerized applications.
+- [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
+- [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
+- [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [driusan/de](https://github.com/driusan/de) - A Programmer's Text Editor
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 - [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
@@ -1229,7 +1236,7 @@
 - [mingrammer/go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars) - :star: Web frameworks for Go, most starred on GitHub
 - [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF)
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
-- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, Hadoop, WebDAV, encryption, Erasure Coding.
+- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [muesli/cache2go](https://github.com/muesli/cache2go) - Concurrency-safe Go caching library with expiration capabilities and access counters
 - [google/gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go
@@ -1343,6 +1350,10 @@
 
 ## HTML 
 
+- [cdnolan/Connecticut-Insurance-Complaints](https://github.com/cdnolan/Connecticut-Insurance-Complaints) - Analysis of complaints made against insurance companies licensed in Connecticut from January 2018 to October 2021. Google Data Analytics Capstone Project.
+- [SlaveToJavascript/DTB](https://github.com/SlaveToJavascript/DTB) - A fintech solution that serves as the intermediary one-stop platform between SMU tBank and insurance providers that allows customers to browse, compare and purchase insurance products conveniently.
+- [kasaai/gisadata](https://github.com/kasaai/gisadata) - 
+- [francescou/docker-continuous-deployment](https://github.com/francescou/docker-continuous-deployment) - continuous deployment of a microservices application with Docker
 - [PrettyPrinted/youtube_video_code](https://github.com/PrettyPrinted/youtube_video_code) - The code for all the YouTube videos I publish on YouTube.
 - [Leo-G/Flask-Scaffold](https://github.com/Leo-G/Flask-Scaffold) - Prototype Database driven Web apps in Angular 6, Bootstrap 4 and REST API's with Flask (Python 3 framework)
 - [nstrayer/cv](https://github.com/nstrayer/cv) - My CV built using RMarkdown and the pagedown package.
@@ -1899,6 +1910,9 @@
 
 ## JavaScript 
 
+- [SadatArefin/Alico](https://github.com/SadatArefin/Alico) - This web project take Age and Term as input to calculate Face value and Total Insurance amount in different cases
+- [ferbs/webstack-micro](https://github.com/ferbs/webstack-micro) - Example/starter web app geared for small-ish teams interested in using a microservices architecture
+- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [twright-msft/mssql-node-docker-demo-app](https://github.com/twright-msft/mssql-node-docker-demo-app) - Demonstration application using Microsoft SQL Server on Linux and Node in a Docker container.
 - [Mermade/openapi-gui](https://github.com/Mermade/openapi-gui) - GUI / visual editor for creating and editing OpenAPI / Swagger definitions
 - [firmai/firmai.github.io](https://github.com/firmai/firmai.github.io) - Open Business Analytics and Data Science Research
@@ -2871,6 +2885,8 @@
 
 ## Jupyter Notebook 
 
+- [aliosmankaya/DataScienceProjects](https://github.com/aliosmankaya/DataScienceProjects) - This repository for my Data Science, Machine Learning and Deep Learning projects. I want to share my work on this areas.
+- [stephen520254/Stephen_python_projects](https://github.com/stephen520254/Stephen_python_projects) - Data Analytics projects
 - [adityakamble49/loss-ratio-prediction](https://github.com/adityakamble49/loss-ratio-prediction) - Predicting Loss Ratios for Auto Insurance Portfolios - ITCS 6100 Big Data Analytics for Competitive Advantage
 - [domokane/FinancePy](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
 - [actuarial-tools/ipynb-package](https://github.com/actuarial-tools/ipynb-package) - 
@@ -2991,6 +3007,7 @@
 
 ## Makefile 
 
+- [ResearchActuary/claim_simulation_engines](https://github.com/ResearchActuary/claim_simulation_engines) - 
 - [MartinHeinz/python-project-blueprint](https://github.com/MartinHeinz/python-project-blueprint) - Blueprint/Boilerplate For Python Projects
 - [desyncr/zsh-docker](https://github.com/desyncr/zsh-docker) - Integration between DockerHub and TravisCI to build docker images for multiple zsh versions
 - [enspirit/makefile-for-monorepos](https://github.com/enspirit/makefile-for-monorepos) - A flexible and extensible makefile for monorepos with  docker/docker-compose.
@@ -3072,6 +3089,9 @@
 
 ## Others 
 
+- [kailashahirwar/cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai) - Essential Cheat Sheets for deep learning and machine learning researchers https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
+- [codez0mb1e/FinArt.AI](https://github.com/codez0mb1e/FinArt.AI) - A curated list of AI cases in Finance, financial data sets, and research papers.
+- [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [yorek/azure-sql-db-samples](https://github.com/yorek/azure-sql-db-samples) - Samples and Best pratices to use Azure SQL DB to build modern, mission critical application, with ease and confidence
 - [Einsteinish/webhook-demo](https://github.com/Einsteinish/webhook-demo) - 
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
@@ -4679,6 +4699,32 @@
 
 ## Python 
 
+- [ponytailer/schema-validator](https://github.com/ponytailer/schema-validator) - Flask pydantic/dataclass validator
+- [imaginary-cloud/flask_demo](https://github.com/imaginary-cloud/flask_demo) - Flask demo project with auto generated Swagger documentation
+- [OasisLMF/OasisLMF](https://github.com/OasisLMF/OasisLMF) - Loss modelling framework.
+- [casact/tryangle](https://github.com/casact/tryangle) - 
+- [alexandre-old/flask-rest-template](https://github.com/alexandre-old/flask-rest-template) - template for a rest app with flask, flask-rest and more...
+- [JackStouffer/Flask-Foundation](https://github.com/JackStouffer/Flask-Foundation) - A solid foundation for your flask app
+- [imwilsonxu/fbone](https://github.com/imwilsonxu/fbone) - Fbone (Flask bone) is a Flask (Python microframework) starter/template/bootstrap/boilerplate application.
+- [miguelgrinberg/Flask-SocketIO](https://github.com/miguelgrinberg/Flask-SocketIO) - Socket.IO integration for Flask applications.
+- [zalando/connexion](https://github.com/zalando/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support
+- [kennethreitz/flask-sslify](https://github.com/kennethreitz/flask-sslify) - Force SSL on your Flask app.
+- [hamidfzm/Flask-HTMLmin](https://github.com/hamidfzm/Flask-HTMLmin) - Flask html response minifier
+- [alejoar/Flask-Azure-Storage](https://github.com/alejoar/Flask-Azure-Storage) - Flask extension that provides integration with Azure Storage
+- [qiajigou/flask-zipkin](https://github.com/qiajigou/flask-zipkin) - a flask zipkin extension based on py_zipkin.
+- [getsentry/sentry-python](https://github.com/getsentry/sentry-python) - The new Python SDK for Sentry.io
+- [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
+- [mattupstate/flask-rq](https://github.com/mattupstate/flask-rq) - RQ (Redis Queue) integration for Flask applications
+- [kvesteri/sqlalchemy-searchable](https://github.com/kvesteri/sqlalchemy-searchable) - Fulltext searchable models for SQLAlchemy. Only supports PostgreSQL
+- [Lanseuo/flask-matomo](https://github.com/Lanseuo/flask-matomo) - Track requests to your Flask website with Matomo
+- [citruspi/Flask-Analytics](https://github.com/citruspi/Flask-Analytics) - Analytics snippets generator extension for the Flask framework.
+- [biosustain/potion](https://github.com/biosustain/potion) - Flask-Potion is a RESTful API framework for Flask and SQLAlchemy, Peewee or MongoEngine
+- [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard package for machine learning with noisy labels, finding mislabeled data, and uncertainty quantification. Works with most datasets and models.
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [Azure/azureml-previews](https://github.com/Azure/azureml-previews) - Azure Machine Learning previews
+- [Stratoscale/skipper](https://github.com/Stratoscale/skipper) - Easily dockerize your Git repository
+- [getpopper/popper](https://github.com/getpopper/popper) - Container-native task automation engine.
+- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 - [PrettyPrinted/flask-request-decorators](https://github.com/PrettyPrinted/flask-request-decorators) - 
 - [Einsteinish/akadrone-flask](https://github.com/Einsteinish/akadrone-flask) - 
 - [Azure-Samples/azure-sql-db-python-rest-api](https://github.com/Azure-Samples/azure-sql-db-python-rest-api) - REST API using Python, Flask and Azure SQL
@@ -4686,7 +4732,6 @@
 - [4Catalyzer/flask-resty](https://github.com/4Catalyzer/flask-resty) - Building blocks for REST APIs for Flask
 - [Kaggle/docker-python](https://github.com/Kaggle/docker-python) - Kaggle Python docker image
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
-- [flasgger/flasgger](https://github.com/flasgger/flasgger) - Easy OpenAPI specs and Swagger UI for your Flask API
 - [tko22/flask-boilerplate](https://github.com/tko22/flask-boilerplate) - Simple flask boilerplate with Postgres, Docker, and Heroku/Zeit now
 - [ksindi/flask-sqlacodegen](https://github.com/ksindi/flask-sqlacodegen) - :sake: Automatic model code generator for SQLAlchemy with Flask support
 - [maxtepkeev/architect](https://github.com/maxtepkeev/architect) - A set of tools which enhances ORMs written in Python with more features
@@ -5304,6 +5349,14 @@
 
 ## R 
 
+- [ANTsX/ANTsR](https://github.com/ANTsX/ANTsR) - Advanced Normalization Tools in R
+- [ResearchActuary/climatter](https://github.com/ResearchActuary/climatter) - 
+- [casact/casdown](https://github.com/casact/casdown) - RMarkdown formats for CAS publications
+- [microsoft/deployrUtils](https://github.com/microsoft/deployrUtils) - Develop Portable R Code for Use with DeployR
+- [microsoft/AzureML-R-template](https://github.com/microsoft/AzureML-R-template) - Patterns and examples for running R code with Azure Machine Learning
+- [cosimameyer/overviewR](https://github.com/cosimameyer/overviewR) - Easily Extracting Information About Your Data
+- [privefl/bigsnpr](https://github.com/privefl/bigsnpr) - R package for the analysis of massive SNP arrays.
+- [cosimameyer/writing_packages](https://github.com/cosimameyer/writing_packages) - Tutorial and material for writing packages in R
 - [cloudyr/Microsoft365R](https://github.com/cloudyr/Microsoft365R) - Interface to Microsoft 365 (formerly Office 365). Submit issues and PRs at https://github.com/Azure/Microsoft365R.
 - [Azure/AzureContainers](https://github.com/Azure/AzureContainers) - R package for working with containers in Azure: ACI, ACR, AKS
 - [MTES-MCT/savoirfR](https://github.com/MTES-MCT/savoirfR) - Banque d'exercices du parcours r du pôle ministériel MTES-MCTRCT
@@ -8341,6 +8394,8 @@
 
 ## Shell 
 
+- [brooklyncentral/clocker](https://github.com/brooklyncentral/clocker) - Apache Brooklyn cloud native infrastructure blueprints
+- [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [alexandregz/search-completion](https://github.com/alexandregz/search-completion) - bash completion to search (command s from  https://github.com/zquestz/s)
 - [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc) - Easy TOC creation for GitHub README.md
 - [jimbrig/dotfiles](https://github.com/jimbrig/dotfiles) - 
@@ -8885,6 +8940,7 @@
 
 ## TypeScript 
 
+- [microsoft/FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
 - [pawelmalak/snippet-box](https://github.com/pawelmalak/snippet-box) - Snippet Box is a simple self-hosted app for organizing your code snippets. It allows you to easily create, edit, browse and manage your snippets in various languages.
 - [actions-ecosystem/action-lint-commits](https://github.com/actions-ecosystem/action-lint-commits) - 🔍 GitHub Action to lint commits on a pull request
 - [reaviz/reaviz](https://github.com/reaviz/reaviz) - 📊 Data visualization library for React
@@ -9107,7 +9163,7 @@
 - [jmoyers/brain](https://github.com/jmoyers/brain) - Brain: Take and Organize Notes
 - [zettel-lint/zettel-lint](https://github.com/zettel-lint/zettel-lint) - A linter/compiler for markdown-based Zettelkasten git repositories
 - [hacdias/vscode-notes](https://github.com/hacdias/vscode-notes) - Note-taking helper extension for VSCode
-- [microsoft/opensource-portal](https://github.com/microsoft/opensource-portal) - Microsoft's monolithic GitHub Management Portal enabling enterprise scale self-service powered by the GitHub API 🏔🧑‍💻🧰
+- [microsoft/opensource-management-portal](https://github.com/microsoft/opensource-management-portal) - Microsoft's monolithic GitHub Management Portal enabling enterprise scale self-service powered by the GitHub API 🏔🧑‍💻🧰
 - [felipecaputo/git-project-manager](https://github.com/felipecaputo/git-project-manager) - A Git Project Manager extension for vsCode
 - [akatrukhin/MagicBox](https://github.com/akatrukhin/MagicBox) - Organize your workspace, keep files optimized, prepare images for publishing
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
