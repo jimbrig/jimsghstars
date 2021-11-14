@@ -1558,6 +1558,7 @@
 - [ThinkR-open/iframe.illustrations](https://github.com/ThinkR-open/iframe.illustrations) - Some iframe for our blog posts on thinkr.fr
 - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
+- [dotcli/knowledge](https://github.com/dotcli/knowledge) - What do I know? Do I know things? Let's find out!
 - [alex/nyt-2020-election-scraper](https://github.com/alex/nyt-2020-election-scraper) - 
 - [Maxence-L/notenote.link](https://github.com/Maxence-L/notenote.link) - A Jekyll digital garden template, optimized for integration with Obsidian. It aims to enhance discoverability and help you build a personal knowledge base that can scale with time.
 - [zeus2198/goffer](https://github.com/zeus2198/goffer) - Beautiful and basic file manager written on electron.js
@@ -2378,7 +2379,7 @@
 - [lgraubner/sitemap-generator](https://github.com/lgraubner/sitemap-generator) - Easily create XML sitemaps for your website.
 - [teles/awesome-seo](https://github.com/teles/awesome-seo) - :star2: A curated list of SEO (Search Engine Optimization) links.
 - [lamartire/sharec](https://github.com/lamartire/sharec) - 📦 Store your configs in one place and manage across projects easily
-- [nikku/wuffle](https://github.com/nikku/wuffle) - A multi-repository task board for GitHub issues.
+- [nikku/wuffle](https://github.com/nikku/wuffle) - A multi-repository / multi-organization task board for GitHub issues.
 - [notion-enhancer/desktop](https://github.com/notion-enhancer/desktop) - an enhancer/customiser for the all-in-one productivity workspace notion.so (app)
 - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) - A GitHub action to create or update an issue or pull request comment
 - [kbravh/tweet-to-markdown](https://github.com/kbravh/tweet-to-markdown) - A command line tool to convert Tweets to Markdown.
@@ -3608,7 +3609,6 @@
 - [cole-brokamp/tmuxr](https://github.com/cole-brokamp/tmuxr) - Manage tmux from R
 - [tallguyjenks/tallguyjenks](https://github.com/tallguyjenks/tallguyjenks) - 
 - [integrations/slack](https://github.com/integrations/slack) - Bring your code to the conversations you care about with the GitHub and Slack integration
-- [dotcli/knowledge](https://github.com/dotcli/knowledge) - What do I know? Do I know things? Let's find out!
 - [bit101/wiki_example](https://github.com/bit101/wiki_example) - 
 - [Razumihin/obsidian-plugins](https://github.com/Razumihin/obsidian-plugins) - Small plugins for Obsidian note taking tool
 - [AgarwalPragy/BrainStash](https://github.com/AgarwalPragy/BrainStash) - BrainStash is a cross platform desktop application for personal knowledge management. ETA: ??
@@ -4557,7 +4557,7 @@
 - [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) - 📦 The Extras bucket for Scoop.
 - [SegoCode/Reg-importer](https://github.com/SegoCode/Reg-importer) - Easy import registry configurations for new windows install - Json values to registry
 - [Metaljisawa/OptimizationWindowsV1](https://github.com/Metaljisawa/OptimizationWindowsV1) - Short script ps1 for remove the unnecessary part on Windows 10
-- [LeDragoX/Win10SmartDebloat](https://github.com/LeDragoX/Win10SmartDebloat) - This is an adapted version from https://github.com/W4RH4WK/Debloat-Windows-10. These scripts will Customize, Debloat and Improve Security/Performance on Windows 10/+.
+- [LeDragoX/Win10SmartDebloat](https://github.com/LeDragoX/Win10SmartDebloat) - This is an adapted version from https://github.com/W4RH4WK/Debloat-Windows-10. These scripts will Customize, Debloat and Improve Security/Performance on Windows 10+.
 - [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
 - [canonical/ubuntu-cooker](https://github.com/canonical/ubuntu-cooker) - Ubuntu WSL UWP Builder
 - [Phil-Factor/SQLCloneFamily](https://github.com/Phil-Factor/SQLCloneFamily) - 
