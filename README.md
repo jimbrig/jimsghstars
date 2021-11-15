@@ -815,6 +815,7 @@
 - [kognise/obsidian-atom](https://github.com/kognise/obsidian-atom) - A theme for Obsidian based on Atom's One family
 - [kognise/obsidian-aviation](https://github.com/kognise/obsidian-aviation) - Clean Markdown files for FAR/AIM and more
 - [whyt-byte/Blue-Topaz-with-Andy-mode_Obsidian_css](https://github.com/whyt-byte/Blue-Topaz-with-Andy-mode_Obsidian_css) - An Andy Matuschak-mode blue theme for Obsidian.
+- [rcvd/obsidian_ia](https://github.com/rcvd/obsidian_ia) - A clean and minimal theme for obsidian, heavily inspired by iA Writer.
 - [toridoriv/pensieve](https://github.com/toridoriv/pensieve) - My notes using loosely the Zettelkasten method and the app Obsidian
 - [lucasrla/obsidian-css-tweaks](https://github.com/lucasrla/obsidian-css-tweaks) - CSS snippet for Obsidian – just a few (minimal) tweaks and fixes
 - [joshwingreene/Obsidian-JG-Method](https://github.com/joshwingreene/Obsidian-JG-Method) - A starter kit that follows how I use Obsidian to manage my goals, tasks, notes, and software development knowledge base.
@@ -1354,7 +1355,6 @@
 - [SlaveToJavascript/DTB](https://github.com/SlaveToJavascript/DTB) - A fintech solution that serves as the intermediary one-stop platform between SMU tBank and insurance providers that allows customers to browse, compare and purchase insurance products conveniently.
 - [kasaai/gisadata](https://github.com/kasaai/gisadata) - 
 - [francescou/docker-continuous-deployment](https://github.com/francescou/docker-continuous-deployment) - continuous deployment of a microservices application with Docker
-- [PrettyPrinted/youtube_video_code](https://github.com/PrettyPrinted/youtube_video_code) - The code for all the YouTube videos I publish on YouTube.
 - [Leo-G/Flask-Scaffold](https://github.com/Leo-G/Flask-Scaffold) - Prototype Database driven Web apps in Angular 6, Bootstrap 4 and REST API's with Flask (Python 3 framework)
 - [nstrayer/cv](https://github.com/nstrayer/cv) - My CV built using RMarkdown and the pagedown package.
 - [ex-man/GeneralInsurance_Class](https://github.com/ex-man/GeneralInsurance_Class) - This includes a simple training for general insurance business designed for insurance students
@@ -1839,7 +1839,6 @@
 
 ## Inno Setup 
 
-- [tildehacker/apache-kafka-windows-installer](https://github.com/tildehacker/apache-kafka-windows-installer) - 🤖 Automatically download and install Apache Kafka on Windows.
 - [hardwario/bch-toolchain-windows](https://github.com/hardwario/bch-toolchain-windows) - HARDWARIO Toolchain for Windows
 
 ## JSON 
@@ -1915,6 +1914,7 @@
 - [ferbs/webstack-micro](https://github.com/ferbs/webstack-micro) - Example/starter web app geared for small-ish teams interested in using a microservices architecture
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [twright-msft/mssql-node-docker-demo-app](https://github.com/twright-msft/mssql-node-docker-demo-app) - Demonstration application using Microsoft SQL Server on Linux and Node in a Docker container.
+- [PrettyPrinted/youtube_video_code](https://github.com/PrettyPrinted/youtube_video_code) - The code for all the YouTube videos I publish on YouTube.
 - [Mermade/openapi-gui](https://github.com/Mermade/openapi-gui) - GUI / visual editor for creating and editing OpenAPI / Swagger definitions
 - [firmai/firmai.github.io](https://github.com/firmai/firmai.github.io) - Open Business Analytics and Data Science Research
 - [esbullington/flask-bootstrap](https://github.com/esbullington/flask-bootstrap) - A Flask app template with integrated SQLAlchemy, authentication, and Bootstrap frontend
@@ -2979,7 +2979,7 @@
 
 ## Logos 
 
-- [auriliasleep/Diary](https://github.com/auriliasleep/Diary) - Windows 10/11 lock screen replica
+- [schneelittchen/Diary](https://github.com/schneelittchen/Diary) - Windows 10/11 lock screen replica
 
 ## Lua 
 
@@ -3090,6 +3090,7 @@
 
 ## Others 
 
+- [louelladev/Helpful-Tech-Resources](https://github.com/louelladev/Helpful-Tech-Resources) - A collection of helpful and educational resources I found on social media
 - [kailashahirwar/cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai) - Essential Cheat Sheets for deep learning and machine learning researchers https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
 - [codez0mb1e/FinArt.AI](https://github.com/codez0mb1e/FinArt.AI) - A curated list of AI cases in Finance, financial data sets, and research papers.
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
@@ -3880,7 +3881,6 @@
 - [objcio/articles](https://github.com/objcio/articles) - All current objc.io articles
 - [andymatuschak/reMarkable-typescript](https://github.com/andymatuschak/reMarkable-typescript) - A typescript reMarkable Cloud API
 - [julian-englert/Andy-Grove---High-Output-Management](https://github.com/julian-englert/Andy-Grove---High-Output-Management) - Summary of the book High Output Management by Andy Grove
-- [rcvd/obsidian_ia](https://github.com/rcvd/obsidian_ia) - A clean and minimal theme for obsidian, heavily inspired by iA Writer.
 - [binyamin/obsidian-plugins](https://github.com/binyamin/obsidian-plugins) - Obsidian Plugin Ideas
 - [ShannaSeigel/slipbox](https://github.com/ShannaSeigel/slipbox) - knowledgebase sharing experiment
 - [tekacs/editorial-obsidian](https://github.com/tekacs/editorial-obsidian) - Editorial scripts for Obsidian (unofficial)
@@ -4154,6 +4154,7 @@
 
 ## PowerShell 
 
+- [JMOrbegoso/PSWebSearch](https://github.com/JMOrbegoso/PSWebSearch) - 
 - [johnthebrit/AzureStack](https://github.com/johnthebrit/AzureStack) - Scripts related to Azure Stack Management
 - [johnthebrit/MasterIaaS2019](https://github.com/johnthebrit/MasterIaaS2019) - GitHub repository for Mastering Azure IaaS 2019 Book
 - [johnthebrit/AzurePluralsightMaterials](https://github.com/johnthebrit/AzurePluralsightMaterials) - Various files related to Azure Pluralsight courses
@@ -5349,6 +5350,7 @@
 
 ## R 
 
+- [stefan-m-lenz/JuliaConnectoR](https://github.com/stefan-m-lenz/JuliaConnectoR) - A functionally oriented interface for calling Julia from R
 - [ANTsX/ANTsR](https://github.com/ANTsX/ANTsR) - Advanced Normalization Tools in R
 - [ResearchActuary/climatter](https://github.com/ResearchActuary/climatter) - 
 - [casact/casdown](https://github.com/casact/casdown) - RMarkdown formats for CAS publications
