@@ -1096,7 +1096,7 @@
 - [bitrise-io/bitrise](https://github.com/bitrise-io/bitrise) - Bitrise runner CLI - run your automations on your Mac or Linux machine -
 - [goby-lang/goby](https://github.com/goby-lang/goby) - Goby - Yet another programming language written in Go
 - [golang/go](https://github.com/golang/go) - The Go programming language
-- [drone/drone](https://github.com/drone/drone) - Drone is a Container-Native, Continuous Delivery Platform
+- [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [cli/safeexec](https://github.com/cli/safeexec) - A safer version of exec.LookPath on Windows
@@ -2983,6 +2983,7 @@
 
 ## Lua 
 
+- [mrjones2014/dotfiles](https://github.com/mrjones2014/dotfiles) - My UNIX dotfiles; configuration for fish shell, vim/neovim, etc.
 - [alexpearce/dotfiles](https://github.com/alexpearce/dotfiles) - My dotfiles.
 - [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 - [volllly/.dotfiles](https://github.com/volllly/.dotfiles) - Collection of my dotfiles.
@@ -3090,6 +3091,7 @@
 
 ## Others 
 
+- [jariou/LossDataAnalytics](https://github.com/jariou/LossDataAnalytics) - Open source book on Loss Data modelling aimed at the international actuarial community
 - [louelladev/Helpful-Tech-Resources](https://github.com/louelladev/Helpful-Tech-Resources) - A collection of helpful and educational resources I found on social media
 - [kailashahirwar/cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai) - Essential Cheat Sheets for deep learning and machine learning researchers https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
 - [codez0mb1e/FinArt.AI](https://github.com/codez0mb1e/FinArt.AI) - A curated list of AI cases in Finance, financial data sets, and research papers.
@@ -3391,7 +3393,7 @@
 - [rjcarneiro/windows-terminals](https://github.com/rjcarneiro/windows-terminals) - Repository with some awesome Windows Terminals themes
 - [h5bp/server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs
 - [maxto/R-Books](https://github.com/maxto/R-Books) - A non-exhaustive list of R books. Full list here bookdown.org
-- [roshanlam/ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - Done with your project but having a hard time writing a ReadMe? Check Out This Repo I created. If you like it then use it
+- [roshanlam/ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - Done with your project but having a hard time writing a ReadMe? Check Out This Repo. If you like it then use it
 - [trapexit/backup-and-recovery-howtos](https://github.com/trapexit/backup-and-recovery-howtos) - Guides to setting up a media storage system, backing it up, and recovering from failures
 - [dirsigler/ReadMeTemplate](https://github.com/dirsigler/ReadMeTemplate) - Done with your project but having a hard time writing a ReadMe? Check Out This Repo I created. If you like it then use it
 - [dirsigler/terraform-provider-gsuite](https://github.com/dirsigler/terraform-provider-gsuite) - A @HashiCorp Terraform provider for managing G Suite resources.
@@ -4149,12 +4151,11 @@
 - [ReneNyffenegger/notes](https://github.com/ReneNyffenegger/notes) - 
 - [thoughtbot/rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management
 - [foswiki/distro](https://github.com/foswiki/distro) - START HERE!  This is the Foswiki project "Distribution".  It is a monolith repository with the core + default extensions.
-- [R-macos/recipes](https://github.com/R-macos/recipes) - System for building static dependent libraries for CRAN packages
 - [jimhester/analysis_framework](https://github.com/jimhester/analysis_framework) - A skeleton analysis framework for use with knitr and git.
 
 ## PowerShell 
 
-- [JMOrbegoso/PSWebSearch](https://github.com/JMOrbegoso/PSWebSearch) - 
+- [JMOrbegoso/PSWebSearch](https://github.com/JMOrbegoso/PSWebSearch) - PowerShell module that adds aliases to search with Bing, Google, YouTube, GitHub, and other popular services from the PowerShell console to launch the web browser without actually using the mouse.
 - [johnthebrit/AzureStack](https://github.com/johnthebrit/AzureStack) - Scripts related to Azure Stack Management
 - [johnthebrit/MasterIaaS2019](https://github.com/johnthebrit/MasterIaaS2019) - GitHub repository for Mastering Azure IaaS 2019 Book
 - [johnthebrit/AzurePluralsightMaterials](https://github.com/johnthebrit/AzurePluralsightMaterials) - Various files related to Azure Pluralsight courses
@@ -4700,7 +4701,8 @@
 
 ## Python 
 
-- [ponytailer/schema-validator](https://github.com/ponytailer/schema-validator) - Flask pydantic/dataclass validator
+- [hackersandslackers/flask-sqlalchemy-tutorial](https://github.com/hackersandslackers/flask-sqlalchemy-tutorial) - :snake: :information_source: Create and manage data in your Flask app via a SQL database.
+- [ponytailer/schema-validator](https://github.com/ponytailer/schema-validator) - Flask/Quart pydantic/dataclass validator
 - [imaginary-cloud/flask_demo](https://github.com/imaginary-cloud/flask_demo) - Flask demo project with auto generated Swagger documentation
 - [OasisLMF/OasisLMF](https://github.com/OasisLMF/OasisLMF) - Loss modelling framework.
 - [casact/tryangle](https://github.com/casact/tryangle) - 
@@ -5350,6 +5352,9 @@
 
 ## R 
 
+- [mhairi/medicalclaims](https://github.com/mhairi/medicalclaims) - Medical Claims Data R Package
+- [2DegreesInvesting/r2dii.usethis](https://github.com/2DegreesInvesting/r2dii.usethis) - Automate Package And Project Setup
+- [jtr13/usethis_demos](https://github.com/jtr13/usethis_demos) - tutorials and examples for usethis functions
 - [stefan-m-lenz/JuliaConnectoR](https://github.com/stefan-m-lenz/JuliaConnectoR) - A functionally oriented interface for calling Julia from R
 - [ANTsX/ANTsR](https://github.com/ANTsX/ANTsR) - Advanced Normalization Tools in R
 - [ResearchActuary/climatter](https://github.com/ResearchActuary/climatter) - 
@@ -8344,7 +8349,7 @@
 - [play-with-docker/play-with-docker.github.io](https://github.com/play-with-docker/play-with-docker.github.io) - Play with docker class-room repo
 - [benbrignell/principles.design](https://github.com/benbrignell/principles.design) - An open source collection of design principles and methods.
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
-- [AnilSeervi/DevFolio](https://github.com/AnilSeervi/DevFolio) - A Minimal Portfolio Template for Developers with easy setup process documented(with hosting).
+- [AnilSeervi/DevFolio](https://github.com/AnilSeervi/DevFolio) - A Modern Portfolio Template for Developers with easy setup process documented(with hosting).
 - [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
 - [hbctraining/Intro-to-R](https://github.com/hbctraining/Intro-to-R) - 
 - [darekkay/static-marks-app](https://github.com/darekkay/static-marks-app) - Frontend part of the Static Marks project
@@ -8788,6 +8793,7 @@
 - [nikitavoloboev/dotfiles](https://github.com/nikitavoloboev/dotfiles) - Zsh, Karabiner, VS Code, Sublime, Neovim, Nix
 - [ropensci/actions](https://github.com/ropensci/actions) - Some public GitHub actions
 - [gohugoio/hugoThemes](https://github.com/gohugoio/hugoThemes) - A curated directory of Hugo themes
+- [R-macos/recipes](https://github.com/R-macos/recipes) - System for building static dependent libraries for CRAN packages
 - [cgrima/rsync_backup](https://github.com/cgrima/rsync_backup) - Rsync incremental and rotating backups
 - [aip-dev/google.aip.dev](https://github.com/aip-dev/google.aip.dev) - API Improvement Proposals. https://aip.dev/
 - [r-windows/rtools-packages](https://github.com/r-windows/rtools-packages) - Toolchains and libraries for Rtools4
@@ -8912,7 +8918,7 @@
 - [kaneplusplus/listdown](https://github.com/kaneplusplus/listdown) - https://kaneplusplus.github.io/listdown
 - [alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
 - [rstudio-education/tidyverse-cookbook](https://github.com/rstudio-education/tidyverse-cookbook) - Code recipes for doing data science with R's tidyverse
-- [DivadNojnarg/outstanding-shiny-ui](https://github.com/DivadNojnarg/outstanding-shiny-ui) - IMPORTANT: PLEASE STOP FORKING THE REPO UNTIl FURTHER NOTICE. I'LL REMOVE THIS MESSAGE WHEN IT IS OK TO FORK IT AGAIN.
+- [DivadNojnarg/outstanding-shiny-ui](https://github.com/DivadNojnarg/outstanding-shiny-ui) - Outstanding User Interfaces with Shiny CRC Press book online version
 - [timelyportfolio/pandoclatextemplate](https://github.com/timelyportfolio/pandoclatextemplate) - Rmarkdown Template using pandoc-latex-template
 - [aaronpeikert/reproducible-research](https://github.com/aaronpeikert/reproducible-research) - A Reproducible Data Analysis Workflow with R Markdown, Git, Make, and Docker
 - [josephwright/beamer](https://github.com/josephwright/beamer) - A LaTeX class for producing presentations and slides
@@ -8942,6 +8948,7 @@
 
 ## TypeScript 
 
+- [yaclt/yaclt](https://github.com/yaclt/yaclt) - Yet Another Change Log Tool
 - [microsoft/FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
 - [pawelmalak/snippet-box](https://github.com/pawelmalak/snippet-box) - Snippet Box is a simple self-hosted app for organizing your code snippets. It allows you to easily create, edit, browse and manage your snippets in various languages.
 - [actions-ecosystem/action-lint-commits](https://github.com/actions-ecosystem/action-lint-commits) - 🔍 GitHub Action to lint commits on a pull request
