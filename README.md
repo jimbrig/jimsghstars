@@ -1351,6 +1351,8 @@
 
 ## HTML 
 
+- [davidstutz/bootstrap-multiselect](https://github.com/davidstutz/bootstrap-multiselect) - JQuery multiselect plugin based on Twitter Bootstrap.
+- [kaybenleroll/data_workshops](https://github.com/kaybenleroll/data_workshops) - This repository contains all the files for the various workshops created as part of Dublin R
 - [cdnolan/Connecticut-Insurance-Complaints](https://github.com/cdnolan/Connecticut-Insurance-Complaints) - Analysis of complaints made against insurance companies licensed in Connecticut from January 2018 to October 2021. Google Data Analytics Capstone Project.
 - [SlaveToJavascript/DTB](https://github.com/SlaveToJavascript/DTB) - A fintech solution that serves as the intermediary one-stop platform between SMU tBank and insurance providers that allows customers to browse, compare and purchase insurance products conveniently.
 - [kasaai/gisadata](https://github.com/kasaai/gisadata) - 
@@ -2183,7 +2185,6 @@
 - [necolas/react-native-web](https://github.com/necolas/react-native-web) - React Native Components and APIs for the Web
 - [mitcom/steal_cookie](https://github.com/mitcom/steal_cookie) - Chrome extension to copy authentication cookies from staging server which allow to login on localhost
 - [malsup/blockui](https://github.com/malsup/blockui) - jQuery BlockUI Plugin
-- [expo/expo-github-action](https://github.com/expo/expo-github-action) - Expo in your GitHub Actions workflow
 - [react-native-mapbox-gl/maps](https://github.com/react-native-mapbox-gl/maps) - A Mapbox GL react native module for creating custom maps
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
 - [flexible-agency/react-native-map-link](https://github.com/flexible-agency/react-native-map-link) - 🗺 Open the map app of the user's choice.
@@ -2382,7 +2383,6 @@
 - [nikku/wuffle](https://github.com/nikku/wuffle) - A multi-repository / multi-organization task board for GitHub issues.
 - [notion-enhancer/desktop](https://github.com/notion-enhancer/desktop) - an enhancer/customiser for the all-in-one productivity workspace notion.so (app)
 - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) - A GitHub action to create or update an issue or pull request comment
-- [kbravh/tweet-to-markdown](https://github.com/kbravh/tweet-to-markdown) - A command line tool to convert Tweets to Markdown.
 - [thomaskoppelaar/markdown-links](https://github.com/thomaskoppelaar/markdown-links) - Command that displays a graph of local links between markdown files
 - [multiformats/js-multiformats](https://github.com/multiformats/js-multiformats) - Multiformats interface (multihash, multicodec, multibase and CID)
 - [eKoopmans/html2pdf.js](https://github.com/eKoopmans/html2pdf.js) - Client-side HTML-to-PDF rendering using pure JS.
@@ -2575,6 +2575,7 @@
 - [mateodelnorte/meta](https://github.com/mateodelnorte/meta) - tool for turning many repos into a meta repo. why choose many repos or a monolithic repo, when you can have both with a meta repo?
 - [cassidoo/todometer](https://github.com/cassidoo/todometer) - A meter-based to-do list
 - [michaelowens/wilfred](https://github.com/michaelowens/wilfred) - A local boilerplate manager. Add folders as boilerplates and initialize projects from them using your terminal.
+- [dreamRs/capture](https://github.com/dreamRs/capture) - Take screenshots in Shiny apps
 - [jhu-ep-coursera/fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4) - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
 - [szepeviktor/windows-workstation](https://github.com/szepeviktor/windows-workstation) - Prepare my Windows 10 workstation
 - [noamross/juicer](https://github.com/noamross/juicer) - A thin wrapper for in-lining CSS styles into HTML
@@ -3091,6 +3092,9 @@
 
 ## Others 
 
+- [m-kovalsky/ReportAnalyzer](https://github.com/m-kovalsky/ReportAnalyzer) - A tool for visualizing and analyzing a Power BI report's performance.
+- [humiaozuzu/awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins
+- [actuarialopensource/awesome-actuarial](https://github.com/actuarialopensource/awesome-actuarial) - An Awesome List of Actuarial Packages and Resources
 - [jariou/LossDataAnalytics](https://github.com/jariou/LossDataAnalytics) - Open source book on Loss Data modelling aimed at the international actuarial community
 - [louelladev/Helpful-Tech-Resources](https://github.com/louelladev/Helpful-Tech-Resources) - A collection of helpful and educational resources I found on social media
 - [kailashahirwar/cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai) - Essential Cheat Sheets for deep learning and machine learning researchers https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
@@ -3593,7 +3597,6 @@
 - [seanakabry/zk-tools](https://github.com/seanakabry/zk-tools) - Keyboard Maestro macros to aid in managing plain text notes following wiki and Zettelkasten conventions
 - [beAWARE-project/ontology](https://github.com/beAWARE-project/ontology) - This repository contains the crisis management ontology for the beAWARE H2020 project along with the relevant documentation.
 - [S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet) - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
-- [canro91/useful-dev-tools](https://github.com/canro91/useful-dev-tools) - :star: A list with useful tools that help many Developers. Hacktoberfest :star:
 - [builtbybel/CleanmgrPlus](https://github.com/builtbybel/CleanmgrPlus) - 🐾 A Improved Replacement for Microsoft Disk Cleanup
 - [pgcudahy/cookiecutter-r-analysis-template](https://github.com/pgcudahy/cookiecutter-r-analysis-template) - Cookiecutter template for R data analysis with jupyter notebooks
 - [Timtech4u/awesome-cloudbuild](https://github.com/Timtech4u/awesome-cloudbuild) - A curated list of resources about all things Google Cloud Build
@@ -4108,7 +4111,7 @@
 - [dompdf/dompdf](https://github.com/dompdf/dompdf) - HTML to PDF converter for PHP
 - [appzcoder/crud-generator](https://github.com/appzcoder/crud-generator) - Laravel CRUD Generator
 - [knotworks/knot-server](https://github.com/knotworks/knot-server) - A decentralized server to build private social networks from.
-- [laravel/valet](https://github.com/laravel/valet) - 
+- [laravel/valet](https://github.com/laravel/valet) - A more enjoyable local development experience for Mac.
 - [docker/labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
 - [deployphp/deployer](https://github.com/deployphp/deployer) - A deployment tool written in PHP with support for popular frameworks out of the box
 - [sformisano/obsidian](https://github.com/sformisano/obsidian) - A WordPress starter kit for the modern web.
@@ -4542,7 +4545,7 @@
 - [StefanScherer/docker-windows-azure](https://github.com/StefanScherer/docker-windows-azure) - Deploy a Windows "Docker-Machine" on Azure
 - [StefanScherer/windows-docker-workshop](https://github.com/StefanScherer/windows-docker-workshop) - Docker on Windows workshop
 - [StefanScherer/docker-windows-box](https://github.com/StefanScherer/docker-windows-box) - Various Vagrant envs with Windows 2019/10 and Docker, Swarm mode, LCOW, WSL2, ...
-- [StefanScherer/packer-windows](https://github.com/StefanScherer/packer-windows) - Windows Templates for Packer: Windows 10, Windows Server 2022, 2016, 1709, 1803, 1809, 2019, 1903, 1909, 2004, Insider with Docker
+- [StefanScherer/packer-windows](https://github.com/StefanScherer/packer-windows) - Windows Templates for Packer: Windows 11, Windows 10, Windows Server 2022, 2019, 2016, also with Docker
 - [mguludag/WSL-Manager](https://github.com/mguludag/WSL-Manager) - This is PowerShell script for linux distro download and installation to wsl plus adding to Windows Terminal with icon!
 - [kerol2r20/Windows-terminal-context-menu](https://github.com/kerol2r20/Windows-terminal-context-menu) - 📃 This is a simple script to add right click context menu for your best Windows terminal ❤
 - [AutomatedLab/AutomatedLab](https://github.com/AutomatedLab/AutomatedLab) - AutomatedLab is a provisioning solution and framework that lets you deploy complex labs on HyperV and Azure with simple PowerShell scripts. It supports all Windows operating systems from 2008 R2 to 2019, some Linux distributions and various products like AD, Exchange, PKI, IIS, etc.
@@ -4701,6 +4704,9 @@
 
 ## Python 
 
+- [mfreeborn/fastapi-sqlalchemy](https://github.com/mfreeborn/fastapi-sqlalchemy) - Adds simple SQLAlchemy support to FastAPI
+- [mjhea0/flaskr-tdd](https://github.com/mjhea0/flaskr-tdd) - Flaskr: Intro to Flask, Test-Driven Development (TDD), and JavaScript
+- [miguelgrinberg/microblog](https://github.com/miguelgrinberg/microblog) - A microblogging web application written in Python and Flask that I developed as part of my Flask Mega-Tutorial series.
 - [hackersandslackers/flask-sqlalchemy-tutorial](https://github.com/hackersandslackers/flask-sqlalchemy-tutorial) - :snake: :information_source: Create and manage data in your Flask app via a SQL database.
 - [ponytailer/schema-validator](https://github.com/ponytailer/schema-validator) - Flask/Quart pydantic/dataclass validator
 - [imaginary-cloud/flask_demo](https://github.com/imaginary-cloud/flask_demo) - Flask demo project with auto generated Swagger documentation
@@ -5352,6 +5358,31 @@
 
 ## R 
 
+- [mtyszler/checkR-ODK](https://github.com/mtyszler/checkR-ODK) - Project to automate a pipeline of QA in R, with edits pushed back to ODK Central
+- [jumorris2017/alteryx_workflows](https://github.com/jumorris2017/alteryx_workflows) - 
+- [alteryx/promote-r-client](https://github.com/alteryx/promote-r-client) - R package for deploying models built using R to Alteryx Promote.
+- [alteryx/jeeves](https://github.com/alteryx/jeeves) - A sagacious valet to build and maintain predictive tools in Alteryx.
+- [assimilate-dev/alterryx](https://github.com/assimilate-dev/alterryx) - An API Client for the Alteryx Gallery
+- [alteryx/AlteryxSim](https://github.com/alteryx/AlteryxSim) - R package for Simulation in Alteryx
+- [alteryx/AlteryxPrescriptive](https://github.com/alteryx/AlteryxPrescriptive) - R Package for Optimization in Alteryx
+- [alteryx/AlteryxRhelper](https://github.com/alteryx/AlteryxRhelper) - Create, manage and edit R code outside Alteryx in an IDE
+- [alteryx/AlteryxPredictive](https://github.com/alteryx/AlteryxPredictive) - This is an R package containing utility functions used by the predictive tools in Alteryx.
+- [adibender/pammtools](https://github.com/adibender/pammtools) - Piece-wise exponential Additive Mixed Modeling tools
+- [rladies/awesome-rladies-blogs](https://github.com/rladies/awesome-rladies-blogs) - Awesome R-Ladies' Blogs
+- [zjubs/ReserveTool](https://github.com/zjubs/ReserveTool) - A tool to apply reserving methods to triangle. I built this to explore the ChainLadder R library and to practice using Shiny
+- [trinostics/maketri](https://github.com/trinostics/maketri) - Make triangles from detailed claim files.
+- [jrozra200/pretty_triangles](https://github.com/jrozra200/pretty_triangles) - 
+- [stewarthkerr/triangle_mlr](https://github.com/stewarthkerr/triangle_mlr) - Simulates modelling measure of triangle using linear regression
+- [kharoof/Act-Data-Reshape](https://github.com/kharoof/Act-Data-Reshape) - GI Triangle Manipulation
+- [DGampe/TriangleMethod](https://github.com/DGampe/TriangleMethod) - R-Package "Triangle Method"
+- [jangevaare/triangle](https://github.com/jangevaare/triangle) - A shiny app for triangle test calculations
+- [hinalba15/Insurance-Case-Study-Regression-Tree-using-CART](https://github.com/hinalba15/Insurance-Case-Study-Regression-Tree-using-CART) - In the insurance industry, a lot of times an Insurance company would like to assess what kind of claims, in terms of monetary value, their consumers make. This usually helps insurance companies evaluate the premiums being offered and the claims being made by the consumers. Once the insurance company has these details, they would be able calculate the Losses they may incur from each of the consumer. This case study is going to help an insurance company, which is into Motor Insurance, build a statistical model that in turn would help them in assessing their consumer base.
+- [agi-lab/SPLICE](https://github.com/agi-lab/SPLICE) - An individual claim simulator of Synthetic Paid Loss and Incurred Cost Experience (SPLICE)
+- [EduardoRamosP/MackNet](https://github.com/EduardoRamosP/MackNet) - R package for running MackNet model for paid and incurred loss data.
+- [BiplabKumarGhosh/Prediction-Model](https://github.com/BiplabKumarGhosh/Prediction-Model) - Predicting Cost of Property Loss Incurred by Tornado activity in USA
+- [ChrisWaller26/bayesact](https://github.com/ChrisWaller26/bayesact) - A combined frequency-severity model in BRMS which allows for left-censoring at deductibles.
+- [mkao006/sws_loss](https://github.com/mkao006/sws_loss) - This is the development repository for estimation of loss
+- [cran/lossDev](https://github.com/cran/lossDev) - Robust Loss Development Using MCMC
 - [mhairi/medicalclaims](https://github.com/mhairi/medicalclaims) - Medical Claims Data R Package
 - [2DegreesInvesting/r2dii.usethis](https://github.com/2DegreesInvesting/r2dii.usethis) - Automate Package And Project Setup
 - [jtr13/usethis_demos](https://github.com/jtr13/usethis_demos) - tutorials and examples for usethis functions
@@ -6697,7 +6728,6 @@
 - [cc-skuehn/Demo_Dashboard](https://github.com/cc-skuehn/Demo_Dashboard) - Interactive Dashboard in R using flexdashboard, shiny and plotly
 - [pablobernabeu/Data-is-present](https://github.com/pablobernabeu/Data-is-present) - This project offered free activities to practise reproducible data presentation. Pablo Bernabeu organised these events in the context of a Software Sustainability Institute Fellowship.
 - [empirical-path/rshiny-ga-article-attribution-dashboard](https://github.com/empirical-path/rshiny-ga-article-attribution-dashboard) - Source code for R Shiny Dashboard
-- [dreamRs/capture](https://github.com/dreamRs/capture) - Take screenshots in Shiny apps
 - [gaborcsardi/roxygenlabs](https://github.com/gaborcsardi/roxygenlabs) - Experimental roxygen tags and extensions
 - [chadih/Actuary-Project](https://github.com/chadih/Actuary-Project) - Tarification, forecast, etc...
 - [zchmielewska/actuaryr](https://github.com/zchmielewska/actuaryr) - 
@@ -8006,7 +8036,7 @@
 - [vue-r/vueR](https://github.com/vue-r/vueR) - vue.js for R
 - [pvictor/shinyReactWidgets](https://github.com/pvictor/shinyReactWidgets) - React widgets for Shiny apps
 - [JohnCoene/countup](https://github.com/JohnCoene/countup) - ⏱️ countup.js R htmlwidget
-- [JohnCoene/typed](https://github.com/JohnCoene/typed) - ⌨️ typed.js R htmlwidgets
+- [JohnCoene/typedjs](https://github.com/JohnCoene/typedjs) - ⌨️ typed.js R htmlwidgets
 - [rstudio/fontawesome](https://github.com/rstudio/fontawesome) - Easily insert FontAwesome icons into R Markdown docs and Shiny apps
 - [ayayron/shinydnd](https://github.com/ayayron/shinydnd) - Creating drag and drop elements in Shiny
 - [trestletech/shinyAce](https://github.com/trestletech/shinyAce) - Integrating the Ace editor with Shiny.
@@ -9087,6 +9117,7 @@
 - [chramos/react-native-skeleton-placeholder](https://github.com/chramos/react-native-skeleton-placeholder) - SkeletonPlaceholder is a React Native library to easily create an amazing loading effect.
 - [expo/create-react-native-app](https://github.com/expo/create-react-native-app) - Create React Native apps that run on iOS, Android, and web
 - [react-native-toolkit/react-native-responsive-dimensions](https://github.com/react-native-toolkit/react-native-responsive-dimensions) - Resposive fontSize, height and width for react-native components, that automatically adjusts itself based on screen-size of the device.
+- [expo/expo-github-action](https://github.com/expo/expo-github-action) - Expo in your GitHub Actions workflow
 - [akaalias/obsidian-extract-pdf-highlights](https://github.com/akaalias/obsidian-extract-pdf-highlights) - Extract highlights, underlines and annotations from your PDFs into Obsidian
 - [eva-design/eva](https://github.com/eva-design/eva) - :dizzy:Customizable Design System easily adaptable to your Brand.
 - [software-mansion/react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native.
@@ -9187,6 +9218,7 @@
 - [liamcain/obsidian-calendar-plugin](https://github.com/liamcain/obsidian-calendar-plugin) - Simple calendar widget for Obsidian.
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
 - [mrjackphil/obsidian-backlinks-in-document](https://github.com/mrjackphil/obsidian-backlinks-in-document) - A hacky workaround which put backlinks section into the document
+- [kbravh/tweet-to-markdown](https://github.com/kbravh/tweet-to-markdown) - A command line tool to convert Tweets to Markdown.
 - [thenewboston-developers/Website](https://github.com/thenewboston-developers/Website) - The website and documentation for thenewboston.
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
 - [westy92/html-pdf-chrome](https://github.com/westy92/html-pdf-chrome) - HTML to PDF converter via Chrome/Chromium
