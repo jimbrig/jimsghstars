@@ -844,6 +844,7 @@
 - [djnavarro/hugo-llum](https://github.com/djnavarro/hugo-llum) - 
 - [rstudio/education.rstudio.com](https://github.com/rstudio/education.rstudio.com) - 
 - [evernote/email-builder](https://github.com/evernote/email-builder) - 
+- [atusy/minidown](https://github.com/atusy/minidown) - Create simple yet powerful html documents with light weight CSS frameworks.
 - [dzangri/stmGUI](https://github.com/dzangri/stmGUI) - 
 - [rileytwo/darkstudio](https://github.com/rileytwo/darkstudio) - darkstudio. A dark grey alternative to RStudio's default dark theme.
 - [sjl/d](https://github.com/sjl/d) - Markdown files to documentation.  Nothing else.
@@ -888,7 +889,7 @@
 
 - [leandrotk/functional-programming-learning-path](https://github.com/leandrotk/functional-programming-learning-path) - A Learning Path for Functional Programming
 - [krisajenkins/yesql](https://github.com/krisajenkins/yesql) - A Clojure library for using SQL.
-- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://app.gitbook.com/@athensresearch/s/handbook/
+- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://handbook.athensresearch.org/
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [Factual/drake](https://github.com/Factual/drake) - Data workflow tool, like a "Make for data"
@@ -1351,6 +1352,7 @@
 
 ## HTML 
 
+- [MASTIN/Virtual-Locker](https://github.com/MASTIN/Virtual-Locker) - Personal property inventories for insurance and relocation purposes.
 - [davidstutz/bootstrap-multiselect](https://github.com/davidstutz/bootstrap-multiselect) - JQuery multiselect plugin based on Twitter Bootstrap.
 - [kaybenleroll/data_workshops](https://github.com/kaybenleroll/data_workshops) - This repository contains all the files for the various workshops created as part of Dublin R
 - [cdnolan/Connecticut-Insurance-Complaints](https://github.com/cdnolan/Connecticut-Insurance-Complaints) - Analysis of complaints made against insurance companies licensed in Connecticut from January 2018 to October 2021. Google Data Analytics Capstone Project.
@@ -2343,6 +2345,7 @@
 - [stla/shinyDatetimePickers](https://github.com/stla/shinyDatetimePickers) - Datetime pickers for Shiny.
 - [stla/shinyPrettier](https://github.com/stla/shinyPrettier) - 
 - [stla/shinyChakraSlider](https://github.com/stla/shinyChakraSlider) - A combined slider and number input for Shiny.
+- [stla/prettifyAddins](https://github.com/stla/prettifyAddins) - RStudio addins to prettify JavaScript/HTML/CSS/Markdown/C++ and more.
 - [stla/monaco](https://github.com/stla/monaco) - Yet another second editor in RStudio.
 - [ksmzn/ProbabilityDistributionsViewer](https://github.com/ksmzn/ProbabilityDistributionsViewer) - Shiny web app for live demonstration of probability distributions.
 - [Liamballin/ObsidianBookmark](https://github.com/Liamballin/ObsidianBookmark) - Chrome extension and nodejs server to allow web clipping to Obsidian.
@@ -3473,7 +3476,7 @@
 - [r-dbi/setup-postgres](https://github.com/r-dbi/setup-postgres) - The missing action for Postgres
 - [jthegedus/awesome-list-template](https://github.com/jthegedus/awesome-list-template) - 🕶 Awesome list template with CI and required conventions out of the box!
 - [priyankavergadia/GCPSketchnote](https://github.com/priyankavergadia/GCPSketchnote) - If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format.
-- [b0o/awesome-by-example](https://github.com/b0o/awesome-by-example) - A curated list of awesome example-based learning resources.
+- [b0o/awesome-by-example](https://github.com/b0o/awesome-by-example) - 😎 A curated list of awesome example-based learning resources.
 - [Alex1990/awesome-services](https://github.com/Alex1990/awesome-services) - A collection of the services which participate in application construction.
 - [getaclue00/awesome-saas-starters](https://github.com/getaclue00/awesome-saas-starters) - 😎 Awesome List of SaaS Starter Kits and Boilerplates. Save time and skip implementing features like authentication, subscriptions, teams, and many more.
 - [georgezouq/awesome-saas](https://github.com/georgezouq/awesome-saas) - A curated list for SaaS (Software as a services)
@@ -4356,7 +4359,7 @@
 - [Appease/PowerShellClient](https://github.com/Appease/PowerShellClient) - The Appease client for PowerShell
 - [r33int/Windows10-Postinstall](https://github.com/r33int/Windows10-Postinstall) - 🛠️ Scripts & programs I use to optimize and debloat my new Windows 10 and Windows 11 installations
 - [mattgwagner/New-Machine](https://github.com/mattgwagner/New-Machine) - Utilizing Vagrant, Packer, Chocolatey, and Boxstarter to Configure my Dev Machines
-- [atiq-cs/pwsh-scripts](https://github.com/atiq-cs/pwsh-scripts) - My pwsh scripts
+- [atiq-cs/PwshScripts](https://github.com/atiq-cs/PwshScripts) - My pwsh scripts
 - [jborean93/ansible-windows](https://github.com/jborean93/ansible-windows) - Scripts that are useful for using Ansible with Windows - not affiliated with Ansible in any way
 - [doctordns/ReskitBuildScripts](https://github.com/doctordns/ReskitBuildScripts) - A series of scripts to build reskit.org - a VM Farm for my book
 - [natri23/win10script](https://github.com/natri23/win10script) - 
@@ -4704,6 +4707,10 @@
 
 ## Python 
 
+- [sagarrt/propertyBasedInsurance](https://github.com/sagarrt/propertyBasedInsurance) - Projetc property-based insurance
+- [jtroussard/insurance-personalPropertyClaimsTracker](https://github.com/jtroussard/insurance-personalPropertyClaimsTracker) - Insurance Claim Tracker
+- [jrieke/traingenerator](https://github.com/jrieke/traingenerator) - 🧙 A web app to generate template code for machine learning
+- [andodet/data-dev-env](https://github.com/andodet/data-dev-env) - Prepopulated development environment using Faker and docker-compose
 - [mfreeborn/fastapi-sqlalchemy](https://github.com/mfreeborn/fastapi-sqlalchemy) - Adds simple SQLAlchemy support to FastAPI
 - [mjhea0/flaskr-tdd](https://github.com/mjhea0/flaskr-tdd) - Flaskr: Intro to Flask, Test-Driven Development (TDD), and JavaScript
 - [miguelgrinberg/microblog](https://github.com/miguelgrinberg/microblog) - A microblogging web application written in Python and Flask that I developed as part of my Flask Mega-Tutorial series.
@@ -5358,6 +5365,10 @@
 
 ## R 
 
+- [faizelkhan/Insurance-Claim-Using-Machine-Learning-](https://github.com/faizelkhan/Insurance-Claim-Using-Machine-Learning-) - Predicting property and casualty insurance claims: A Machine Learning Approach
+- [tidymodels/extratests](https://github.com/tidymodels/extratests) - Integration and other testing for tidymodels
+- [andodet/shiny-test](https://github.com/andodet/shiny-test) - Testing `shinydashboard` template with Redis plot caching for fast rendering
+- [andodet/googlePubsubR](https://github.com/andodet/googlePubsubR) - R interface for Google Pub/Sub
 - [mtyszler/checkR-ODK](https://github.com/mtyszler/checkR-ODK) - Project to automate a pipeline of QA in R, with edits pushed back to ODK Central
 - [jumorris2017/alteryx_workflows](https://github.com/jumorris2017/alteryx_workflows) - 
 - [alteryx/promote-r-client](https://github.com/alteryx/promote-r-client) - R package for deploying models built using R to Alteryx Promote.
@@ -6322,7 +6333,6 @@
 - [Sage-Bionetworks/dccvalidator](https://github.com/Sage-Bionetworks/dccvalidator) - Metadata Validation for Data Coordinating Centers
 - [stla/shinyCheckboxTree](https://github.com/stla/shinyCheckboxTree) - A checkbox tree widget for Shiny.
 - [stla/shinyMultiActionButton](https://github.com/stla/shinyMultiActionButton) - A multi action button for Shiny.
-- [stla/prettifyAddins](https://github.com/stla/prettifyAddins) - RStudio addins to prettify JavaScript/HTML/CSS/Markdown/C++ and more.
 - [nicebread/shinyApps](https://github.com/nicebread/shinyApps) - Shiny app: Robustness analysis for Bayes factors: Two sample t test
 - [strengejacke/ggeffects](https://github.com/strengejacke/ggeffects) - Estimated Marginal Means and Marginal Effects from Regression Models for ggplot2
 - [thomasp85/patchwork](https://github.com/thomasp85/patchwork) - The Composer of ggplots
@@ -7062,7 +7072,7 @@
 - [RomanTsegelskyi/yummlyr](https://github.com/RomanTsegelskyi/yummlyr) - R package with bindings for yummly.com API
 - [jennybc/row-oriented-workflows](https://github.com/jennybc/row-oriented-workflows) - Row-oriented workflows in R with the tidyverse
 - [ropensci/rcrossref](https://github.com/ropensci/rcrossref) - R client for various CrossRef APIs
-- [r-devel/r-svn](https://github.com/r-devel/r-svn) - Mirror of R svn server with Github actions CI for testing patches
+- [r-devel/r-svn](https://github.com/r-devel/r-svn) - Mirror of the R svn with CI for testing patches
 - [r-lib/hugodown](https://github.com/r-lib/hugodown) - Make websites with hugo and RMarkdown
 - [richpauloo/textme](https://github.com/richpauloo/textme) - Send text messages from R to your cell phone 📱 to notify you when long-running jobs complete ⌛✔️.
 - [rundel/ghclass-actions](https://github.com/rundel/ghclass-actions) - 
@@ -7106,7 +7116,6 @@
 - [moodymudskipper/liblog](https://github.com/moodymudskipper/liblog) - Log Calls to loadNamespace
 - [coolbutuseless/arcadefont](https://github.com/coolbutuseless/arcadefont) - Oldschool arcade vector font
 - [sckott/webmiddens](https://github.com/sckott/webmiddens) - cache http requests
-- [atusy/minidown](https://github.com/atusy/minidown) - Create simple yet powerful html documents with light weight CSS frameworks.
 - [gadenbuie/shrtcts](https://github.com/gadenbuie/shrtcts) - Make Anything an RStudio Shortcut
 - [rstudio/bookdown.org](https://github.com/rstudio/bookdown.org) - Source documents to generate the bookdown.org website
 - [Appsilon/shiny.info](https://github.com/Appsilon/shiny.info) - Display simple diagnostic info of your Shiny app
