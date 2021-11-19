@@ -459,7 +459,7 @@
 - [cairoshell/cairoshell](https://github.com/cairoshell/cairoshell) - Cairo is a customizable, intuitive desktop environment for Windows.
 - [TanayParikh/Moneta](https://github.com/TanayParikh/Moneta) - Moneta - Financial Management for Freelancers
 - [cloudevents/sdk-csharp](https://github.com/cloudevents/sdk-csharp) - CSharp SDK for CloudEvents
-- [ibigbug/PowerSession](https://github.com/ibigbug/PowerSession) - Record a Session in PowerShell
+- [Watfaq/PowerSession](https://github.com/Watfaq/PowerSession) - Record a Session in PowerShell
 - [brminnick/GitTrends](https://github.com/brminnick/GitTrends) - A iOS and Android app to monitor the views and clones of your GitHub repos
 - [fredatgithub/EventLogReader](https://github.com/fredatgithub/EventLogReader) - Event Log Reader sample
 - [v2kiran/PSLiteDB](https://github.com/v2kiran/PSLiteDB) - PowerShell wrapper for LiteDB
@@ -477,7 +477,7 @@
 - [Azure/azure-functions-sql-extension](https://github.com/Azure/azure-functions-sql-extension) - Azure Functions bindings for SQL
 - [tjackenpacken/taskbar-groups](https://github.com/tjackenpacken/taskbar-groups) - Lightweight utility for organizing the taskbar through groups
 - [ReneNyffenegger/show-command-line-arguments](https://github.com/ReneNyffenegger/show-command-line-arguments) - Programs that show the command line arguments that they received.
-- [microsoft/Git-Credential-Manager-Core](https://github.com/microsoft/Git-Credential-Manager-Core) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
+- [GitCredentialManager/git-credential-manager](https://github.com/GitCredentialManager/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [Pscx/Pscx](https://github.com/Pscx/Pscx) - PowerShell Community Extensions module repository
 - [meteatamel/cloudrun-tutorial](https://github.com/meteatamel/cloudrun-tutorial) - A tutorial showing some of the features of Cloud Run
 - [microsoft/WindowsTemplateStudio](https://github.com/microsoft/WindowsTemplateStudio) - Windows Template Studio quickly builds a UWP app, using a wizard-based UI to turn your needs into a foundation of Windows 10 patterns and best practices.
@@ -725,6 +725,7 @@
 
 ## CSS 
 
+- [Phantas0s/garden](https://github.com/Phantas0s/garden) - The garden where my ideas grow
 - [metruzanca/obsidian-vault-wiki](https://github.com/metruzanca/obsidian-vault-wiki) - A Wiki vault setup with compatibility for Azure Wikis
 - [moj-analytical-services/shinyGovstyle](https://github.com/moj-analytical-services/shinyGovstyle) - Now up to GDS frontend version v3.13.0
 - [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
@@ -942,6 +943,7 @@
 
 ## Dockerfile 
 
+- [ormico/sqlpackage-docker](https://github.com/ormico/sqlpackage-docker) - SqlPackage in a Docker image
 - [alexmacarthur/local-docker-db](https://github.com/alexmacarthur/local-docker-db) - A bunch o' Docker Compose files used to quickly spin up local databases.
 - [microsoft/mssql-docker](https://github.com/microsoft/mssql-docker) - Official Microsoft repository for SQL Server in Docker resources
 - [mpuhacz/building_docker_images_using_dev_ops_pipelines_with_private_dev_ops_artifactory_py_pi_feed](https://github.com/mpuhacz/building_docker_images_using_dev_ops_pipelines_with_private_dev_ops_artifactory_py_pi_feed) - 
@@ -1054,6 +1056,7 @@
 
 ## Go 
 
+- [Phantas0s/devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers and Creators
 - [harbur/captain](https://github.com/harbur/captain) - Captain - Convert your Git workflow to Docker :whale: containers
 - [CenturyLinkLabs/zodiac](https://github.com/CenturyLinkLabs/zodiac) - A lightweight tool for easy deployment and rollback of dockerized applications.
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
@@ -1352,6 +1355,7 @@
 
 ## HTML 
 
+- [microsoft/python-sample-vscode-flask-tutorial](https://github.com/microsoft/python-sample-vscode-flask-tutorial) - Sample code for the Flask tutorial in the VS Code documentation
 - [MASTIN/Virtual-Locker](https://github.com/MASTIN/Virtual-Locker) - Personal property inventories for insurance and relocation purposes.
 - [davidstutz/bootstrap-multiselect](https://github.com/davidstutz/bootstrap-multiselect) - JQuery multiselect plugin based on Twitter Bootstrap.
 - [kaybenleroll/data_workshops](https://github.com/kaybenleroll/data_workshops) - This repository contains all the files for the various workshops created as part of Dublin R
@@ -1914,6 +1918,8 @@
 
 ## JavaScript 
 
+- [twright-msft/sqldevops](https://github.com/twright-msft/sqldevops) - 
+- [twright-msft/mssql-node-docker-demo-app-standalone](https://github.com/twright-msft/mssql-node-docker-demo-app-standalone) - 
 - [SadatArefin/Alico](https://github.com/SadatArefin/Alico) - This web project take Age and Term as input to calculate Face value and Total Insurance amount in different cases
 - [ferbs/webstack-micro](https://github.com/ferbs/webstack-micro) - Example/starter web app geared for small-ish teams interested in using a microservices architecture
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
@@ -2645,7 +2651,7 @@
 - [chrisvfritz/prerender-spa-plugin](https://github.com/chrisvfritz/prerender-spa-plugin) - Prerenders static HTML in a single-page application.
 - [gridsome/gridsome](https://github.com/gridsome/gridsome) - ⚡️ The Jamstack framework for Vue.js
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
-- [segmentio/metalsmith](https://github.com/segmentio/metalsmith) - An extremely simple, pluggable static site generator.
+- [metalsmith/metalsmith](https://github.com/metalsmith/metalsmith) - An extremely simple, pluggable static site generator.
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -2890,6 +2896,7 @@
 
 ## Jupyter Notebook 
 
+- [twright-msft/sqltools](https://github.com/twright-msft/sqltools) - 
 - [aliosmankaya/DataScienceProjects](https://github.com/aliosmankaya/DataScienceProjects) - This repository for my Data Science, Machine Learning and Deep Learning projects. I want to share my work on this areas.
 - [stephen520254/Stephen_python_projects](https://github.com/stephen520254/Stephen_python_projects) - Data Analytics projects
 - [adityakamble49/loss-ratio-prediction](https://github.com/adityakamble49/loss-ratio-prediction) - Predicting Loss Ratios for Auto Insurance Portfolios - ITCS 6100 Big Data Analytics for Competitive Advantage
@@ -3095,6 +3102,8 @@
 
 ## Others 
 
+- [intelligenate/dfc](https://github.com/intelligenate/dfc) - 
+- [dbt-labs/dbt-audit-helper](https://github.com/dbt-labs/dbt-audit-helper) - Useful macros when performing data audits
 - [m-kovalsky/ReportAnalyzer](https://github.com/m-kovalsky/ReportAnalyzer) - A tool for visualizing and analyzing a Power BI report's performance.
 - [humiaozuzu/awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins
 - [actuarialopensource/awesome-actuarial](https://github.com/actuarialopensource/awesome-actuarial) - An Awesome List of Actuarial Packages and Resources
@@ -4149,6 +4158,7 @@
 
 ## Perl 
 
+- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [trapd00r/ls--](https://github.com/trapd00r/ls--) - ls on steroids
 - [midenok/stuff-windows](https://github.com/midenok/stuff-windows) - Windows-related setup and utilities stuff: scripts, instructions, etc.
 - [RichiH/myrepos](https://github.com/RichiH/myrepos) - 
@@ -4161,6 +4171,7 @@
 
 ## PowerShell 
 
+- [twright-msft/PowerShell-toolkit](https://github.com/twright-msft/PowerShell-toolkit) - 
 - [JMOrbegoso/PSWebSearch](https://github.com/JMOrbegoso/PSWebSearch) - PowerShell module that adds aliases to search with Bing, Google, YouTube, GitHub, and other popular services from the PowerShell console to launch the web browser without actually using the mouse.
 - [johnthebrit/AzureStack](https://github.com/johnthebrit/AzureStack) - Scripts related to Azure Stack Management
 - [johnthebrit/MasterIaaS2019](https://github.com/johnthebrit/MasterIaaS2019) - GitHub repository for Mastering Azure IaaS 2019 Book
@@ -4707,6 +4718,12 @@
 
 ## Python 
 
+- [isidentical/refactor](https://github.com/isidentical/refactor) - AST-based fragmental source code refactoring toolkit
+- [darrenburns/ward](https://github.com/darrenburns/ward) - Ward is a modern test framework for Python with a focus on productivity and readability.
+- [wesbos/burner-email-providers](https://github.com/wesbos/burner-email-providers) - A list of temporary email providers
+- [MarianaNarvaez/flask_docker_app](https://github.com/MarianaNarvaez/flask_docker_app) - 
+- [roytuts/docker](https://github.com/roytuts/docker) - 
+- [xvrdm/flask_restplus_boilerplate](https://github.com/xvrdm/flask_restplus_boilerplate) - 
 - [sagarrt/propertyBasedInsurance](https://github.com/sagarrt/propertyBasedInsurance) - Projetc property-based insurance
 - [jtroussard/insurance-personalPropertyClaimsTracker](https://github.com/jtroussard/insurance-personalPropertyClaimsTracker) - Insurance Claim Tracker
 - [jrieke/traingenerator](https://github.com/jrieke/traingenerator) - 🧙 A web app to generate template code for machine learning
@@ -5365,6 +5382,11 @@
 
 ## R 
 
+- [cboettig/debug-windows](https://github.com/cboettig/debug-windows) - 
+- [palderman/DSSAT](https://github.com/palderman/DSSAT) - 
+- [stemangiola/tidygate](https://github.com/stemangiola/tidygate) - Label elements within user drawn gates
+- [houseofcommonslibrary/cltools](https://github.com/houseofcommonslibrary/cltools) - An R package of tools for working with tabular data.
+- [olihawkins/tabbycat](https://github.com/olihawkins/tabbycat) - An R package for tabulating and summarising categorical variables.
 - [faizelkhan/Insurance-Claim-Using-Machine-Learning-](https://github.com/faizelkhan/Insurance-Claim-Using-Machine-Learning-) - Predicting property and casualty insurance claims: A Machine Learning Approach
 - [tidymodels/extratests](https://github.com/tidymodels/extratests) - Integration and other testing for tidymodels
 - [andodet/shiny-test](https://github.com/andodet/shiny-test) - Testing `shinydashboard` template with Redis plot caching for fast rendering
@@ -8296,7 +8318,6 @@
 ## Rust 
 
 - [federico-terzi/modulo](https://github.com/federico-terzi/modulo) - Basic Cross-platform GUI Toolkit for Any Language
-- [r-darwish/topgrade-clone](https://github.com/r-darwish/topgrade-clone) - 
 - [mdzk-rs/mdzk](https://github.com/mdzk-rs/mdzk) - Plain text Zettelkasten based on mdBook
 - [peap/git-global](https://github.com/peap/git-global) - Keep track of all your git repositories.
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
@@ -8435,16 +8456,18 @@
 
 ## Scheme 
 
+- [Phantas0s/.dotfiles](https://github.com/Phantas0s/.dotfiles) - :fireworks: Arch Linux with i3 / nvim / tmux / urxvt / zsh / ...
 - [racket/racket](https://github.com/racket/racket) - The Racket repository
 - [decal/pathgro](https://github.com/decal/pathgro) - :seedling: combinatoric pathname wordlist expansion--it's like Miracle-Gro(tm) for your dirbusting technique!
 
 ## Shell 
 
+- [Phantas0s/ArchInstall](https://github.com/Phantas0s/ArchInstall) - :computer: Personnal install scripts for my development environment
+- [twright-msft/mssql-custom-app-image](https://github.com/twright-msft/mssql-custom-app-image) - An example of creating a container image from mssql-server-linux that will configure some server settings like a user role, login, create a database, and populate some schema, and test data into it
 - [brooklyncentral/clocker](https://github.com/brooklyncentral/clocker) - Apache Brooklyn cloud native infrastructure blueprints
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [alexandregz/search-completion](https://github.com/alexandregz/search-completion) - bash completion to search (command s from  https://github.com/zquestz/s)
 - [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc) - Easy TOC creation for GitHub README.md
-- [jimbrig/dotfiles](https://github.com/jimbrig/dotfiles) - 
 - [supercrabtree/k](https://github.com/supercrabtree/k) - k is the new l, yo
 - [jimbrig/KaaS](https://github.com/jimbrig/KaaS) - KaaS - Knowledge as a Service
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
@@ -8904,6 +8927,7 @@
 
 ## TSQL 
 
+- [twright-msft/mssql-test-scripts](https://github.com/twright-msft/mssql-test-scripts) - Some T-SQL scripts that can be used for testing.
 - [vladimir-aleyev/t-sql](https://github.com/vladimir-aleyev/t-sql) - useful t-sql scripts
 - [JocaPC/AzureDataStudio-Managed-Instance](https://github.com/JocaPC/AzureDataStudio-Managed-Instance) - Managed Instance extension for Azure Data Studio
 - [gompertzmakeham/hazardrates](https://github.com/gompertzmakeham/hazardrates) - Proactive methodological disclosure of a high resolution precision calibrated estimate of the Gompertz-Makeham Law of Mortality and general utilization hazard rates through lifespan interferometry against annual census data consolidated from the administrative data of all publicly funded healthcare provided in a single geopolitical jurisdiction.
