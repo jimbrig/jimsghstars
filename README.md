@@ -214,6 +214,7 @@
 - [JoePlant/windows-scripts](https://github.com/JoePlant/windows-scripts) - A set of scripts that I use to manage my laptop
 - [vensko/pint](https://github.com/vensko/pint) - A single-file command-line package manager for Windows.
 - [jahwi/bget](https://github.com/jahwi/bget) - A package manager for Windows scripts.
+- [chawyehsu/dorado](https://github.com/chawyehsu/dorado) - 🐟 Yet Another bucket for lovely Scoop
 - [ReneNyffenegger/Configure-Windows](https://github.com/ReneNyffenegger/Configure-Windows) - Some scripts to configure Windows so that I can use it.
 - [0zhu/cygwin-portable](https://github.com/0zhu/cygwin-portable) - CygWin/ConEmu Portable Installer/Updater
 - [watzon/wsl-proxy](https://github.com/watzon/wsl-proxy) - WSL proxy files for editor/linux interop
@@ -575,6 +576,7 @@
 
 ## C++ 
 
+- [miraisolutions/winsendkeys](https://github.com/miraisolutions/winsendkeys) - Sendkeys R library for Windows
 - [kpsinghlubana/rpython](https://github.com/kpsinghlubana/rpython) - 
 - [toggl-open-source/toggldesktop](https://github.com/toggl-open-source/toggldesktop) - Toggl Desktop app for Windows, Mac and Linux
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
@@ -1355,6 +1357,8 @@
 
 ## HTML 
 
+- [okfn/messytables](https://github.com/okfn/messytables) - Tools for parsing messy tabular data. This is now superseded by https://github.com/frictionlessdata/tabulator-py
+- [microsoft/sqllinuxlabs](https://github.com/microsoft/sqllinuxlabs) - Self-paced labs for SQL Server on Linux and Docker Containers
 - [microsoft/python-sample-vscode-flask-tutorial](https://github.com/microsoft/python-sample-vscode-flask-tutorial) - Sample code for the Flask tutorial in the VS Code documentation
 - [MASTIN/Virtual-Locker](https://github.com/MASTIN/Virtual-Locker) - Personal property inventories for insurance and relocation purposes.
 - [davidstutz/bootstrap-multiselect](https://github.com/davidstutz/bootstrap-multiselect) - JQuery multiselect plugin based on Twitter Bootstrap.
@@ -1407,6 +1411,7 @@
 - [maple3142/GDIndex](https://github.com/maple3142/GDIndex) - A Google Drive Index built with Vue Running on CloudFlare Workers
 - [TheBobPony/BPDownloadsGUI](https://github.com/TheBobPony/BPDownloadsGUI) - A easy to use Downloader UI
 - [ChrisTitusTech/website](https://github.com/ChrisTitusTech/website) - 
+- [ropensci-review-tools/pkgcheck](https://github.com/ropensci-review-tools/pkgcheck) - Check whether a package is ready for submission to rOpenSci's peer-review system
 - [LesFerch/WinSetView](https://github.com/LesFerch/WinSetView) - Globally Set Explorer Folder Views
 - [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker's Documentation
 - [Markavian/html-table-to-markdown-converter](https://github.com/Markavian/html-table-to-markdown-converter) - Converts HTML tables to Markdown. Paste in, click Convert.
@@ -2658,7 +2663,7 @@
 - [richarddmorey/stat-distributions-js](https://github.com/richarddmorey/stat-distributions-js) - Javascript library for the visualization of statistical distributions
 - [sourcerer-io/awesome-libraries](https://github.com/sourcerer-io/awesome-libraries) - :sunglasses: Libraries that are being shown in Sourcerer profiles.
 - [ingalless/foam-template-gatsby-search](https://github.com/ingalless/foam-template-gatsby-search) - Foam template, built with Gatsby, plus search
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (October 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2021)
 - [renrousousuo/DocumentTemplate](https://github.com/renrousousuo/DocumentTemplate) - 文件 Markdown 格式。方便书写各种文档。
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -2774,7 +2779,6 @@
 - [6pac/SlickGrid](https://github.com/6pac/SlickGrid) - A lightning fast JavaScript grid/spreadsheet
 - [mleibman/SlickGrid](https://github.com/mleibman/SlickGrid) - A lightning fast JavaScript grid/spreadsheet
 - [dipterix/dipsaus](https://github.com/dipterix/dipsaus) - My personal toolbox, R package dipsaus, feel free to copy them
-- [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [g2inR/g2r](https://github.com/g2inR/g2r) - experiments with R and g2
 - [JohnCoene/shinytitle](https://github.com/JohnCoene/shinytitle) - Dynamically update shiny page title
 - [hernansartorio/react-nice-dates](https://github.com/hernansartorio/react-nice-dates) - A responsive, touch-friendly, and modular date picker library for React.
@@ -2896,6 +2900,7 @@
 
 ## Jupyter Notebook 
 
+- [sensiblecodeio/databaker](https://github.com/sensiblecodeio/databaker) - Command line tool to convert spreadsheets to databases, made for the UK's Office for National Statistics.
 - [twright-msft/sqltools](https://github.com/twright-msft/sqltools) - 
 - [aliosmankaya/DataScienceProjects](https://github.com/aliosmankaya/DataScienceProjects) - This repository for my Data Science, Machine Learning and Deep Learning projects. I want to share my work on this areas.
 - [stephen520254/Stephen_python_projects](https://github.com/stephen520254/Stephen_python_projects) - Data Analytics projects
@@ -4594,7 +4599,6 @@
 - [nneeoo/PSffmpeg](https://github.com/nneeoo/PSffmpeg) - Powershell CLI for ffmpeg
 - [Badgerati/Fudge](https://github.com/Badgerati/Fudge) - Fudge is a PowerShell tool to help manage software packages via Chocolatey for specific development projects. Think NPM and Bower, but for Chocolatey
 - [OlafHaag/chocolatey-packages](https://github.com/OlafHaag/chocolatey-packages) - 
-- [chawyehsu/dorado](https://github.com/chawyehsu/dorado) - 🐟 Yet Another bucket for lovely Scoop
 - [Ash258/Scoop-Extras](https://github.com/Ash258/Scoop-Extras) - "Extras" bucket for Scoop
 - [Ash258/Scoop-GithubActions](https://github.com/Ash258/Scoop-GithubActions) - Deprecated. Use https://github.com/shovel-org/GithubActions
 - [Ash258/Scoop-Main](https://github.com/Ash258/Scoop-Main) - 📦 The next-generation default bucket for Scoop.
@@ -4718,6 +4722,8 @@
 
 ## Python 
 
+- [sensiblecodeio/xypath](https://github.com/sensiblecodeio/xypath) - Navigating around a grid of cells like XPath for spreadsheets; supports Python 3.5+
+- [frictionlessdata/tabulator-py](https://github.com/frictionlessdata/tabulator-py) - Python library for reading and writing tabular data via streams.
 - [isidentical/refactor](https://github.com/isidentical/refactor) - AST-based fragmental source code refactoring toolkit
 - [darrenburns/ward](https://github.com/darrenburns/ward) - Ward is a modern test framework for Python with a focus on productivity and readability.
 - [wesbos/burner-email-providers](https://github.com/wesbos/burner-email-providers) - A list of temporary email providers
@@ -5136,7 +5142,7 @@
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [jorisroovers/gitlint](https://github.com/jorisroovers/gitlint) - Linting for your git commit messages
 - [jbernard/dotfiles](https://github.com/jbernard/dotfiles) - Dotfile management made easy
-- [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Material Based Cursors 🚀
+- [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Material Based Cursors.
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [mikebarkmin/ulauncher-obsidian](https://github.com/mikebarkmin/ulauncher-obsidian) - An ulauncher extension for obsidian.md
 - [akaihola/pgtricks](https://github.com/akaihola/pgtricks) - Handy helpers for PostgreSQL users
@@ -5382,6 +5388,22 @@
 
 ## R 
 
+- [Xentrics/ExcelParser](https://github.com/Xentrics/ExcelParser) - 
+- [ces0491/excelsioR](https://github.com/ces0491/excelsioR) - Working with data between Excel and R
+- [Harrison4192/presenter](https://github.com/Harrison4192/presenter) - Export Data with Style
+- [gilliganondata/ga-view-audit](https://github.com/gilliganondata/ga-view-audit) - Script that cycles through a list of views (view IDs) and makes a snapshot of custom dimension, custom metrics, and goals that it then pushes to an Excel file.
+- [lkuiucsb/Excel-to-EML](https://github.com/lkuiucsb/Excel-to-EML) - This is a tool for generating EML from an Excel metadata workbook.
+- [miraisolutions/ShinyCICD-min](https://github.com/miraisolutions/ShinyCICD-min) - Minimal packaged Shiny app used as starting point for the e-Rum2020 workshop
+- [miraisolutions/ShinyProdPrereq](https://github.com/miraisolutions/ShinyProdPrereq) - 
+- [miraisolutions/godmode](https://github.com/miraisolutions/godmode) - Godmode package for R
+- [miraisolutions/sparkbq](https://github.com/miraisolutions/sparkbq) - Sparklyr extension package to connect to Google BigQuery
+- [miraisolutions/SmaRP](https://github.com/miraisolutions/SmaRP) - Shiny app for projecting retirement funds / benefits
+- [JosiahParry/plumber-excel](https://github.com/JosiahParry/plumber-excel) - A small example of POSTing and reading an excel file with Plumber
+- [kotamine/excel_shiny](https://github.com/kotamine/excel_shiny) - Tutorial for converting Excel tools into R-Shiny apps
+- [smehta09/milieu](https://github.com/smehta09/milieu) - Interested concepts working in R and excel
+- [nimblelearn/datapackage-m](https://github.com/nimblelearn/datapackage-m) - Power Query M functions for working with Tabular Data Packages (Frictionless Data) in Power BI and Excel
+- [andreas-ochs/docker_shiny_mssql](https://github.com/andreas-ochs/docker_shiny_mssql) - This repo holds the relevant Docker, R and SQL scripts needed to reproduce my tutorial on Dockerizing R/Shiny and MS SQL Server
+- [benjaminguinaudeau/dockeR](https://github.com/benjaminguinaudeau/dockeR) - Manage docker containers from R
 - [cboettig/debug-windows](https://github.com/cboettig/debug-windows) - 
 - [palderman/DSSAT](https://github.com/palderman/DSSAT) - 
 - [stemangiola/tidygate](https://github.com/stemangiola/tidygate) - Label elements within user drawn gates
@@ -5660,7 +5682,6 @@
 - [stephenbalogun/tidyndr](https://github.com/stephenbalogun/tidyndr) - Analysis of the Nigeria National Data Repository (NDR)
 - [rickhelmus/patRoon](https://github.com/rickhelmus/patRoon) - Workflow solutions for mass-spectrometry based non-target analysis.
 - [tidymodels/parsnip](https://github.com/tidymodels/parsnip) - A tidy unified interface to models
-- [ropensci-review-tools/pkgcheck](https://github.com/ropensci-review-tools/pkgcheck) - Check whether a package is ready for submission to rOpenSci's peer-review system
 - [rstudio/reticulate](https://github.com/rstudio/reticulate) - R Interface to Python
 - [rstudio/packrat](https://github.com/rstudio/packrat) - Packrat is a dependency management system for R
 - [SebKrantz/fastverse](https://github.com/SebKrantz/fastverse) - An Extensible Suite of High-Performance and Low-Dependency Packages for Statistical Computing and Data Manipulation in R
@@ -8396,6 +8417,7 @@
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+- [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Open-Source Analytics API for Building Data Apps
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 
@@ -8471,7 +8493,7 @@
 - [supercrabtree/k](https://github.com/supercrabtree/k) - k is the new l, yo
 - [jimbrig/KaaS](https://github.com/jimbrig/KaaS) - KaaS - Knowledge as a Service
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
-- [wimpysworld/quickemu](https://github.com/wimpysworld/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [mikeroyal/azuredatastudio-snap](https://github.com/mikeroyal/azuredatastudio-snap) - A snap for azuredatastudio, Azure Data Studio is a data management tool that works with SQL Server, Azure SQL DB and SQL DW.
 - [nvie/dotfiles](https://github.com/nvie/dotfiles) - 
 - [riezebosch/gitviz](https://github.com/riezebosch/gitviz) - Visualize the directed acyclic graph that is your repository!
