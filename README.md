@@ -1923,6 +1923,7 @@
 
 ## JavaScript 
 
+- [ministryofjustice/analytics-platform-shiny-server](https://github.com/ministryofjustice/analytics-platform-shiny-server) - Analytics Platform Shiny Server
 - [twright-msft/sqldevops](https://github.com/twright-msft/sqldevops) - 
 - [twright-msft/mssql-node-docker-demo-app-standalone](https://github.com/twright-msft/mssql-node-docker-demo-app-standalone) - 
 - [SadatArefin/Alico](https://github.com/SadatArefin/Alico) - This web project take Age and Term as input to calculate Face value and Total Insurance amount in different cases
@@ -3107,6 +3108,9 @@
 
 ## Others 
 
+- [jimsforks/analytics-platform-shiny-server](https://github.com/jimsforks/analytics-platform-shiny-server) - Analytics Platform Shiny Server
+- [rust-lang/project-error-handling](https://github.com/rust-lang/project-error-handling) - Error handling project group
+- [csoneson/universe](https://github.com/csoneson/universe) - 
 - [intelligenate/dfc](https://github.com/intelligenate/dfc) - 
 - [dbt-labs/dbt-audit-helper](https://github.com/dbt-labs/dbt-audit-helper) - Useful macros when performing data audits
 - [m-kovalsky/ReportAnalyzer](https://github.com/m-kovalsky/ReportAnalyzer) - A tool for visualizing and analyzing a Power BI report's performance.
@@ -5142,7 +5146,7 @@
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [jorisroovers/gitlint](https://github.com/jorisroovers/gitlint) - Linting for your git commit messages
 - [jbernard/dotfiles](https://github.com/jbernard/dotfiles) - Dotfile management made easy
-- [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Material Based Cursors.
+- [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Opensource, compact, and material-designed cursor set.
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [mikebarkmin/ulauncher-obsidian](https://github.com/mikebarkmin/ulauncher-obsidian) - An ulauncher extension for obsidian.md
 - [akaihola/pgtricks](https://github.com/akaihola/pgtricks) - Handy helpers for PostgreSQL users
@@ -5388,6 +5392,11 @@
 
 ## R 
 
+- [RobinL/costmodelr](https://github.com/RobinL/costmodelr) - Framework for cost modelling in R
+- [ministryofjustice/analytics-qnd-r-example](https://github.com/ministryofjustice/analytics-qnd-r-example) - 
+- [csoneson/iCOBRA](https://github.com/csoneson/iCOBRA) - Interactive benchmarking of ranking and assignment methods
+- [iSEE/iSEE](https://github.com/iSEE/iSEE) - R/shiny interface for interactive visualization of data in SummarizedExperiment objects
+- [2DegreesInvesting/r2dii.plot](https://github.com/2DegreesInvesting/r2dii.plot) - A package containing functions to create standard 2DII plots using ggplot, together with data processing functions needed for the charts.
 - [Xentrics/ExcelParser](https://github.com/Xentrics/ExcelParser) - 
 - [ces0491/excelsioR](https://github.com/ces0491/excelsioR) - Working with data between Excel and R
 - [Harrison4192/presenter](https://github.com/Harrison4192/presenter) - Export Data with Style
@@ -5481,7 +5490,6 @@
 - [singha53/omicsBioAnalytics](https://github.com/singha53/omicsBioAnalytics) - Omics BioAnalytics - RShiny web app for bioinformatics analyses
 - [onlyphantom/coronavirus](https://github.com/onlyphantom/coronavirus) - A Shiny Web App tutorial inspecting the COVID-19 (2019-nCoV) epidemic, data from https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
 - [davidruvolo51/r-plumber-app](https://github.com/davidruvolo51/r-plumber-app) - R web app template using plumber
-- [RobinL/costmodelr](https://github.com/RobinL/costmodelr) - Framework for cost modelling in R
 - [moj-analytical-services/rshiny-test](https://github.com/moj-analytical-services/rshiny-test) - 
 - [moj-analytical-services/predictr](https://github.com/moj-analytical-services/predictr) - 
 - [moj-analytical-services/kerins-shiny-app](https://github.com/moj-analytical-services/kerins-shiny-app) - 
@@ -5535,7 +5543,7 @@
 - [stevecondylios/collidr](https://github.com/stevecondylios/collidr) - Check for namespace collisions across a half a million packages and functions on CRAN 💥
 - [collidrpackage/collidr](https://github.com/collidrpackage/collidr) - Avoiding Namespace Collisions in R
 - [IndrajeetPatil/ipmisc](https://github.com/IndrajeetPatil/ipmisc) - Miscellaneous helper functions for data cleaning and data analysis
-- [anhoej/r4spc](https://github.com/anhoej/r4spc) - Statistical process control charts with R
+- [anhoej/r4spc](https://github.com/anhoej/r4spc) - Course materials: Statistical process control charts with R
 - [jimbrig/lossdevt](https://github.com/jimbrig/lossdevt) - An R package and Shiny App for Actuarial Loss Development and Reserving
 - [RobinHankin/onion](https://github.com/RobinHankin/onion) - R functionality to deal with quaternions and octonions
 - [prioritizr/prioritizr](https://github.com/prioritizr/prioritizr) - Systematic conservation prioritization in R
@@ -5674,7 +5682,7 @@
 - [javaidiqbal11/Different-R-tasks-in-actuary-direction](https://github.com/javaidiqbal11/Different-R-tasks-in-actuary-direction) - The repo is presented for estimation of the price bonds using vasicek algorithm using R.
 - [lauken13/mrpkit](https://github.com/lauken13/mrpkit) - Tools and tutorials for multi-level regression and post-stratification of survey data
 - [andrie/mailmerge](https://github.com/andrie/mailmerge) - Mail Merge Using R Markdown Documents and 'gmailr'
-- [churchill-lab/ensimplR](https://github.com/churchill-lab/ensimplR) - Simple R API into ensimpl data
+- [churchill-lab/ensimplR-old](https://github.com/churchill-lab/ensimplR-old) - Simple R API into ensimpl data
 - [HenrikBengtsson/R.devices](https://github.com/HenrikBengtsson/R.devices) - 🎨 R package: Unified Handling of Graphics Devices
 - [rivasiker/ggHoriPlot](https://github.com/rivasiker/ggHoriPlot) - A user-friendly, highly customizable R package for building horizon plots in ggplot2
 - [PhanstielLab/plotgardener](https://github.com/PhanstielLab/plotgardener) - 
