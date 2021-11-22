@@ -576,6 +576,7 @@
 
 ## C++ 
 
+- [meganz/MEGAcmd](https://github.com/meganz/MEGAcmd) - Command Line Interactive and Scriptable Application to access MEGA
 - [miraisolutions/winsendkeys](https://github.com/miraisolutions/winsendkeys) - Sendkeys R library for Windows
 - [kpsinghlubana/rpython](https://github.com/kpsinghlubana/rpython) - 
 - [toggl-open-source/toggldesktop](https://github.com/toggl-open-source/toggldesktop) - Toggl Desktop app for Windows, Mac and Linux
@@ -1367,6 +1368,7 @@
 - [SlaveToJavascript/DTB](https://github.com/SlaveToJavascript/DTB) - A fintech solution that serves as the intermediary one-stop platform between SMU tBank and insurance providers that allows customers to browse, compare and purchase insurance products conveniently.
 - [kasaai/gisadata](https://github.com/kasaai/gisadata) - 
 - [francescou/docker-continuous-deployment](https://github.com/francescou/docker-continuous-deployment) - continuous deployment of a microservices application with Docker
+- [PrettyPrinted/youtube_video_code](https://github.com/PrettyPrinted/youtube_video_code) - The code for all the YouTube videos I publish on YouTube.
 - [Leo-G/Flask-Scaffold](https://github.com/Leo-G/Flask-Scaffold) - Prototype Database driven Web apps in Angular 6, Bootstrap 4 and REST API's with Flask (Python 3 framework)
 - [nstrayer/cv](https://github.com/nstrayer/cv) - My CV built using RMarkdown and the pagedown package.
 - [ex-man/GeneralInsurance_Class](https://github.com/ex-man/GeneralInsurance_Class) - This includes a simple training for general insurance business designed for insurance students
@@ -1930,7 +1932,6 @@
 - [ferbs/webstack-micro](https://github.com/ferbs/webstack-micro) - Example/starter web app geared for small-ish teams interested in using a microservices architecture
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [twright-msft/mssql-node-docker-demo-app](https://github.com/twright-msft/mssql-node-docker-demo-app) - Demonstration application using Microsoft SQL Server on Linux and Node in a Docker container.
-- [PrettyPrinted/youtube_video_code](https://github.com/PrettyPrinted/youtube_video_code) - The code for all the YouTube videos I publish on YouTube.
 - [Mermade/openapi-gui](https://github.com/Mermade/openapi-gui) - GUI / visual editor for creating and editing OpenAPI / Swagger definitions
 - [firmai/firmai.github.io](https://github.com/firmai/firmai.github.io) - Open Business Analytics and Data Science Research
 - [esbullington/flask-bootstrap](https://github.com/esbullington/flask-bootstrap) - A Flask app template with integrated SQLAlchemy, authentication, and Bootstrap frontend
@@ -2080,7 +2081,6 @@
 - [dominique-mueller/exec-bin](https://github.com/dominique-mueller/exec-bin) - Run any binary files / executables within your npm scripts.
 - [Rohithv07/Docker](https://github.com/Rohithv07/Docker) - My Workplay on Docker and Kubernetes. Ref : https://github.com/Rohithv07/DockerCasts
 - [mdn/data](https://github.com/mdn/data) - This repository contains general data for Web technologies
-- [mattwaler/next-ssr-starter](https://github.com/mattwaler/next-ssr-starter) - A starter project for Next with session-based auth ready to go.
 - [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [fastify/fastify-nextjs](https://github.com/fastify/fastify-nextjs) - React server side rendering support for Fastify with Next
 - [styxlab/gatsby-starter-try-ghost](https://github.com/styxlab/gatsby-starter-try-ghost) - Publish flaring fast blogs with Gatsby and Ghost
@@ -3272,7 +3272,7 @@
 - [ferventcoder/puppet-chocolatey-presentation](https://github.com/ferventcoder/puppet-chocolatey-presentation) - Chocolatey Presentation with the Puppets
 - [chocolatey-archive/chocolatey.web](https://github.com/chocolatey-archive/chocolatey.web) - The custom web for creating chocolatey packages online
 - [terminalforlife/DEB-Packages](https://github.com/terminalforlife/DEB-Packages) - DEB packages for various TFL programs.
-- [mikeroyal/Zorin-OS-Guide](https://github.com/mikeroyal/Zorin-OS-Guide) - 
+- [mikeroyal/Zorin-OS-Guide](https://github.com/mikeroyal/Zorin-OS-Guide) - Zorin OS Guide
 - [hirsaeki/chocolateyPackages](https://github.com/hirsaeki/chocolateyPackages) - 
 - [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) - The Unofficial PowerShell Best Practices and Style Guide
 - [yeoman/yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
@@ -9111,6 +9111,7 @@
 - [mrmartineau/gatsby-theme-code-notes](https://github.com/mrmartineau/gatsby-theme-code-notes) - A Gatsby theme for publishing code-related notes to your website
 - [meshcloud/collie-cli](https://github.com/meshcloud/collie-cli) - Collie CLI allows you to manage your AWS, Azure & GCP cloud landscape through a single view.
 - [auth0/nextjs-auth0](https://github.com/auth0/nextjs-auth0) - Next.js SDK for signing in with Auth0
+- [mattwaler/next-ssr-starter](https://github.com/mattwaler/next-ssr-starter) - A starter project for Next with session-based auth ready to go.
 - [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [derwish-pro/obsidian-unique-attachments](https://github.com/derwish-pro/obsidian-unique-attachments) - Obsidian plugin. Renames attachments, making their names unique.
 - [styxlab/next-cms-ghost](https://github.com/styxlab/next-cms-ghost) - Publish flaring fast blogs with Next.js and Ghost CMS
@@ -9166,7 +9167,7 @@
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 - [garrylachman/ElectroCRUD](https://github.com/garrylachman/ElectroCRUD) - Database CRUD Application Built on Electron | MySQL, Postgres, SQLite
 - [gajus/slonik](https://github.com/gajus/slonik) - A PostgreSQL client with strict types, detailed logging and assertions.
-- [kriasoft/relay-starter-kit](https://github.com/kriasoft/relay-starter-kit) - 💥  Yarn based monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, Relay, and Material UI.
+- [kriasoft/relay-starter-kit](https://github.com/kriasoft/relay-starter-kit) - 💥  Monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, Relay, and Material UI.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self-host.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
