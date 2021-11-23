@@ -261,7 +261,7 @@
 - [rprichard/altdrag](https://github.com/rprichard/altdrag) - :file_folder: Easily drag windows when pressing the alt key. (Windows)
 - [hkneptune/CopyHandler](https://github.com/hkneptune/CopyHandler) - A Copy of Copy Handler Source Code. This repository is just a mirror of the Copy Handler source code. Please do not send pull requests.
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
-- [paleolimbot/arrowvctrs](https://github.com/paleolimbot/arrowvctrs) - An R interface to the 'Apache Arrow' C API
+- [paleolimbot/carrow](https://github.com/paleolimbot/carrow) - An R interface to the 'Apache Arrow' C API
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
 - [billziss-gh/sshfs-win](https://github.com/billziss-gh/sshfs-win) - SSHFS For Windows
 - [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
@@ -606,7 +606,6 @@
 - [stefankueng/CryptSync](https://github.com/stefankueng/CryptSync) - CryptSync is a small utility that synchronizes two folders while encrypting the contents in one folder. That means one of the two folders has all files unencrypted (the files you work with) and the other folder has all the files encrypted.
 - [hkneptune/KeePass](https://github.com/hkneptune/KeePass) - A Copy of KeePass 1.x Source Code. This repository is just a mirror of the KeePass 1.x source code. Please do not send pull requests. Submit issues to the official forum (https://sourceforge.net/p/keepass/discussion/).
 - [hkneptune/FreeFileSync](https://github.com/hkneptune/FreeFileSync) - A Copy of FreeFileSync Source Code. This repository is just a mirror of the FreeFileSync source code. Please do not send pull requests. Submit issues to the official forum (https://freefilesync.org/forum/).
-- [MehediH/windows-focus-assist](https://github.com/MehediH/windows-focus-assist) - A native node module to read the status of Focus Assist on Windows 10
 - [stla/gfilogisreg](https://github.com/stla/gfilogisreg) - Generalized fiducial inference for the logistic regression model.
 - [stla/jsonStrings](https://github.com/stla/jsonStrings) - Manipulate JSON strings in R.
 - [ThomasThelen/BrowserLib](https://github.com/ThomasThelen/BrowserLib) - A library which makes modification of browsers' behavior easy.
@@ -729,7 +728,6 @@
 ## CSS 
 
 - [Phantas0s/garden](https://github.com/Phantas0s/garden) - The garden where my ideas grow
-- [metruzanca/obsidian-vault-wiki](https://github.com/metruzanca/obsidian-vault-wiki) - A Wiki vault setup with compatibility for Azure Wikis
 - [moj-analytical-services/shinyGovstyle](https://github.com/moj-analytical-services/shinyGovstyle) - Now up to GDS frontend version v3.13.0
 - [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
 - [microsoft/MCW-Cloud-native-applications](https://github.com/microsoft/MCW-Cloud-native-applications) - MCW Cloud-native applications
@@ -1348,7 +1346,6 @@
 - [terraform-google-modules/terraform-google-lb-http](https://github.com/terraform-google-modules/terraform-google-lb-http) - Modular Global HTTP Load Balancer for GCE using forwarding rules.
 - [ahmetb/cloud-run-multi-region-terraform](https://github.com/ahmetb/cloud-run-multi-region-terraform) - Deploy a Cloud Run app to all available regions using Terraform.
 - [CallePuzzle/terraform-google-cloud-run](https://github.com/CallePuzzle/terraform-google-cloud-run) - Terraform module to deploy a Cloud Run component
-- [paeselhz/terraform_book_code](https://github.com/paeselhz/terraform_book_code) - Project containing my experiments while studying Terraform
 - [jerowe/rshiny-with-polished-tech-eks](https://github.com/jerowe/rshiny-with-polished-tech-eks) - Example RShiny Authentication with Polished Tech hosted on AWS EKS with Terraform.
 - [ginocoates/rstudio-server-terraform](https://github.com/ginocoates/rstudio-server-terraform) - A terraform project for provisioning an rstudio server of the desired size
 
@@ -1829,6 +1826,7 @@
 
 ## Haskell 
 
+- [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten
 - [SUNJIANZHI/JINH](https://github.com/SUNJIANZHI/JINH) - Pure Functional Actuarial Language
 - [typelead/eta](https://github.com/typelead/eta) - The Eta Programming Language, a dialect of Haskell on the JVM
 - [idris-lang/Idris-dev](https://github.com/idris-lang/Idris-dev) - A Dependently Typed Functional Programming Language
@@ -1844,7 +1842,6 @@
 - [aleator/Zettel-hs](https://github.com/aleator/Zettel-hs) - Simple plain text ZettelKasten system for terminal users
 - [commercialhaskell/stack](https://github.com/commercialhaskell/stack) - The Haskell Tool Stack
 - [jgm/gitit](https://github.com/jgm/gitit) - A wiki using HAppS, pandoc, and git
-- [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [BurntSushi/erd](https://github.com/BurntSushi/erd) - Translates a plain text description of a relational database schema to a graphical entity-relationship diagram.
 
@@ -1925,14 +1922,17 @@
 
 ## JavaScript 
 
+- [external-secrets/kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes
 - [ministryofjustice/analytics-platform-shiny-server](https://github.com/ministryofjustice/analytics-platform-shiny-server) - Analytics Platform Shiny Server
 - [twright-msft/sqldevops](https://github.com/twright-msft/sqldevops) - 
 - [twright-msft/mssql-node-docker-demo-app-standalone](https://github.com/twright-msft/mssql-node-docker-demo-app-standalone) - 
+- [jimbrig/KaaS-New](https://github.com/jimbrig/KaaS-New) - KaaS Obsidian Vault Redo
 - [SadatArefin/Alico](https://github.com/SadatArefin/Alico) - This web project take Age and Term as input to calculate Face value and Total Insurance amount in different cases
 - [ferbs/webstack-micro](https://github.com/ferbs/webstack-micro) - Example/starter web app geared for small-ish teams interested in using a microservices architecture
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [twright-msft/mssql-node-docker-demo-app](https://github.com/twright-msft/mssql-node-docker-demo-app) - Demonstration application using Microsoft SQL Server on Linux and Node in a Docker container.
 - [Mermade/openapi-gui](https://github.com/Mermade/openapi-gui) - GUI / visual editor for creating and editing OpenAPI / Swagger definitions
+- [metruzanca/obsidian-vault-wiki](https://github.com/metruzanca/obsidian-vault-wiki) - A Wiki vault setup with compatibility for Azure Wikis
 - [firmai/firmai.github.io](https://github.com/firmai/firmai.github.io) - Open Business Analytics and Data Science Research
 - [esbullington/flask-bootstrap](https://github.com/esbullington/flask-bootstrap) - A Flask app template with integrated SQLAlchemy, authentication, and Bootstrap frontend
 - [yoobool/flask-state](https://github.com/yoobool/flask-state) - Display machine state using Python3 with Flask.
@@ -1991,7 +1991,6 @@
 - [leerob/nextjs-gcp-storage](https://github.com/leerob/nextjs-gcp-storage) - Example Next.js app to upload photos to a GCP storage bucket.
 - [hashicorp/setup-terraform](https://github.com/hashicorp/setup-terraform) - Sets up Terraform CLI in your GitHub Actions workflow.
 - [vchagas69/vchagas69.github.io](https://github.com/vchagas69/vchagas69.github.io) - A Portuguese Actuary
-- [Ignorance999/Actuarial_Simulation_Model](https://github.com/Ignorance999/Actuarial_Simulation_Model) - 
 - [jimbrig/Slipbox](https://github.com/jimbrig/Slipbox) - 
 - [rnystrom/issue-actions](https://github.com/rnystrom/issue-actions) - WIP actions to sync parent and child issues.
 - [rnystrom/create-child-issues](https://github.com/rnystrom/create-child-issues) - Action to generate child issues with labels.
@@ -2056,7 +2055,6 @@
 - [MehediH/gitgat](https://github.com/MehediH/gitgat) - A simple command to automatically generate .gitignore files for your project.
 - [MehediH/Bulksplash](https://github.com/MehediH/Bulksplash) - A simple command line tool that lets you bulk download images from Unsplash
 - [MehediH/sandman](https://github.com/MehediH/sandman) - 
-- [MehediH/nextjs-playground](https://github.com/MehediH/nextjs-playground) - playing w nextjs learn
 - [MehediH/winstall](https://github.com/MehediH/winstall) - A web app for browsing and installing Windows Package Manager apps.
 - [octref/polacode](https://github.com/octref/polacode) - 📸 Polaroid for your code
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
@@ -3108,6 +3106,8 @@
 
 ## Others 
 
+- [renkun-ken/using-rstats-in-vscode](https://github.com/renkun-ken/using-rstats-in-vscode) - The presentation slides of Using R in VS Code
+- [jimbrig/shiny-IaaS](https://github.com/jimbrig/shiny-IaaS) - 
 - [jimsforks/analytics-platform-shiny-server](https://github.com/jimsforks/analytics-platform-shiny-server) - Analytics Platform Shiny Server
 - [rust-lang/project-error-handling](https://github.com/rust-lang/project-error-handling) - Error handling project group
 - [csoneson/universe](https://github.com/csoneson/universe) - 
@@ -3425,7 +3425,7 @@
 - [dirsigler/git-toolbelt](https://github.com/dirsigler/git-toolbelt) - A suite of useful Git commands that aid with scripting or every day command line usage
 - [dirsigler/private-ip-cloud-sql-db](https://github.com/dirsigler/private-ip-cloud-sql-db) - An example set of terraform files for deploying a Cloud SQL DB with a private IP address only
 - [dirsigler/cloudbuild-optimizer](https://github.com/dirsigler/cloudbuild-optimizer) - Run builds across all machine types in Cloud Build to find the optimal price/performance tradeoff
-- [jobindj/obsidian-mkdocs](https://github.com/jobindj/obsidian-mkdocs) - A Template to Publish Obsidian Notes on Github Pages using MkDocs
+- [jobindj/obsidian-mkdocs](https://github.com/jobindj/obsidian-mkdocs) - A Template to Publish Obsidian Notes on Github Pages (uses MkDocs)
 - [TechPrimers/whats-your-architecture](https://github.com/TechPrimers/whats-your-architecture) - "What's your Architecture?" is a series of architecture and design challenges to voice out the opinions of the TechPrimers community members.
 - [jimsforks/burglr](https://github.com/jimsforks/burglr) - Copy Functions from Other Packages Without Adding Them As Dependencies
 - [cranchange/cran_histories](https://github.com/cranchange/cran_histories) - Recollection of exchanges with CRAN reviewers and maintainer
@@ -4726,6 +4726,8 @@
 
 ## Python 
 
+- [aws-samples/sagemaker-studio-sparkmagic-lib](https://github.com/aws-samples/sagemaker-studio-sparkmagic-lib) - 
+- [re-data/re-data](https://github.com/re-data/re-data) - re_data - fix data issues before your users & CEO would discover them 😊
 - [sensiblecodeio/xypath](https://github.com/sensiblecodeio/xypath) - Navigating around a grid of cells like XPath for spreadsheets; supports Python 3.5+
 - [frictionlessdata/tabulator-py](https://github.com/frictionlessdata/tabulator-py) - Python library for reading and writing tabular data via streams.
 - [isidentical/refactor](https://github.com/isidentical/refactor) - AST-based fragmental source code refactoring toolkit
@@ -8346,6 +8348,8 @@
 
 ## Rust 
 
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
+- [gaborcsardi/rim](https://github.com/gaborcsardi/rim) - The R Installation Manager
 - [federico-terzi/modulo](https://github.com/federico-terzi/modulo) - Basic Cross-platform GUI Toolkit for Any Language
 - [mdzk-rs/mdzk](https://github.com/mdzk-rs/mdzk) - Plain text Zettelkasten based on mdBook
 - [peap/git-global](https://github.com/peap/git-global) - Keep track of all your git repositories.
@@ -8403,7 +8407,6 @@
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Save disk space by cleaning non-essential files from software projects.
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust.
 - [yaa110/cb](https://github.com/yaa110/cb) - Command line interface to manage clipboard
-- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [jimmycuadra/ghlabel](https://github.com/jimmycuadra/ghlabel) - Automatically creates and deletes labels on GitHub Issues to match a template
 - [jmg-duarte/kbgen](https://github.com/jmg-duarte/kbgen) - kbgen is a tool to generate Foam knowledge base documents
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
@@ -9041,6 +9044,7 @@
 
 ## TypeScript 
 
+- [NemoAndrea/obsidian-daily-named-folder](https://github.com/NemoAndrea/obsidian-daily-named-folder) - Like daily note, but nested in a daily folder and some more improvements
 - [yaclt/yaclt](https://github.com/yaclt/yaclt) - Yet Another Change Log Tool
 - [microsoft/FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
 - [pawelmalak/snippet-box](https://github.com/pawelmalak/snippet-box) - Snippet Box is a simple self-hosted app for organizing your code snippets. It allows you to easily create, edit, browse and manage your snippets in various languages.
@@ -9413,7 +9417,7 @@
 - [ReneNyffenegger/temp-COM](https://github.com/ReneNyffenegger/temp-COM) - 
 - [dragokas/hijackthis](https://github.com/dragokas/hijackthis) - A free utility that finds malware, adware and other security threats
 - [jimbrig/xl-macros](https://github.com/jimbrig/xl-macros) - My Personal Excel Workbook's Macros
-- [krlmlr/Excel2LaTeX](https://github.com/krlmlr/Excel2LaTeX) - The Excel add-in for creating LaTeX tables
+- [ivankokan/Excel2LaTeX](https://github.com/ivankokan/Excel2LaTeX) - The Excel add-in for creating LaTeX tables
 
 ## VBScript 
 
