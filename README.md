@@ -1924,6 +1924,7 @@
 
 ## JavaScript 
 
+- [diegodlh/unofficial-hypothesis-extension](https://github.com/diegodlh/unofficial-hypothesis-extension) - Unofficial Hypothesis extension.
 - [external-secrets/kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes
 - [ministryofjustice/analytics-platform-shiny-server](https://github.com/ministryofjustice/analytics-platform-shiny-server) - Analytics Platform Shiny Server
 - [twright-msft/sqldevops](https://github.com/twright-msft/sqldevops) - 
@@ -3432,7 +3433,7 @@
 - [dirsigler/git-toolbelt](https://github.com/dirsigler/git-toolbelt) - A suite of useful Git commands that aid with scripting or every day command line usage
 - [dirsigler/private-ip-cloud-sql-db](https://github.com/dirsigler/private-ip-cloud-sql-db) - An example set of terraform files for deploying a Cloud SQL DB with a private IP address only
 - [dirsigler/cloudbuild-optimizer](https://github.com/dirsigler/cloudbuild-optimizer) - Run builds across all machine types in Cloud Build to find the optimal price/performance tradeoff
-- [jobindj/obsidian-mkdocs](https://github.com/jobindj/obsidian-mkdocs) - A Template to Publish Obsidian Notes on Github Pages (uses MkDocs)
+- [jobindj/obsidian-mkdocs](https://github.com/jobindj/obsidian-mkdocs) - A Template to Publish Obsidian/Foam Notes on Github Pages (uses MkDocs)
 - [TechPrimers/whats-your-architecture](https://github.com/TechPrimers/whats-your-architecture) - "What's your Architecture?" is a series of architecture and design challenges to voice out the opinions of the TechPrimers community members.
 - [jimsforks/burglr](https://github.com/jimsforks/burglr) - Copy Functions from Other Packages Without Adding Them As Dependencies
 - [cranchange/cran_histories](https://github.com/cranchange/cran_histories) - Recollection of exchanges with CRAN reviewers and maintainer
@@ -5410,6 +5411,9 @@
 
 ## R 
 
+- [c4f3a0ce/pkgdowncrosslinks](https://github.com/c4f3a0ce/pkgdowncrosslinks) - 
+- [sdcastillo/ExamPAData](https://github.com/sdcastillo/ExamPAData) - A container for data sets to help actuaries who are practicing predictive analytics
+- [Ivis4ml/fssemR](https://github.com/Ivis4ml/fssemR) - An optimizer of Fused-Sparse Structural Equation Models, which is the state-of-the-art (sota) jointly fused sparse maximum likelihood function for structural equation models proposed by Xin Zhou and Xiaodong Cai
 - [OasisLMF/OasisUI](https://github.com/OasisLMF/OasisUI) - User Interface for the Oasis platform.
 - [actuarialopensource/expstudies](https://github.com/actuarialopensource/expstudies) - An R Package for Life Experience Studies
 - [RobinL/costmodelr](https://github.com/RobinL/costmodelr) - Framework for cost modelling in R
@@ -6324,7 +6328,6 @@
 - [combiz/yamlpack](https://github.com/combiz/yamlpack) - En-masse installation of R-packages
 - [peterhurford/pkgdeps](https://github.com/peterhurford/pkgdeps) - Find CRAN dependencies for R packages the easy way!
 - [Bioconductor/pkgDepTools](https://github.com/Bioconductor/pkgDepTools) - Bioconductor package dependency tools
-- [hongooi73/testpkg](https://github.com/hongooi73/testpkg) - Test pkgdepends
 - [tidymodels/workflowsets](https://github.com/tidymodels/workflowsets) - Create a collection of modeling workflows
 - [meztez/rapidoc](https://github.com/meztez/rapidoc) - RapiDoc UI integration for R
 - [meztez/redoc](https://github.com/meztez/redoc) - A collection of 'HTML', 'JavaScript', 'CSS' and fonts  assets that generate 'Redoc' documentation from an OAS compliant API.
