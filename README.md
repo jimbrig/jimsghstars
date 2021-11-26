@@ -366,6 +366,7 @@
 
 ## C# # 
 
+- [c0dycode/WindowsDefenderEasyExceptionAdder](https://github.com/c0dycode/WindowsDefenderEasyExceptionAdder) - Minimalistic utility to manage Windows Defender Exclusions
 - [jofultz/mlservertemplates](https://github.com/jofultz/mlservertemplates) - 
 - [microsoft/PowerApps-Samples](https://github.com/microsoft/PowerApps-Samples) - Sample code for Power Apps, including Dataverse, model-driven apps, canvas apps, Power Apps component framework, portals, and ai-builder.
 - [microsoft/PSRule](https://github.com/microsoft/PSRule) - Validate infrastructure as code (IaC) and objects using PowerShell rules.
@@ -727,6 +728,7 @@
 
 ## CSS 
 
+- [Jekyll-Garden/jekyll-garden.github.io](https://github.com/Jekyll-Garden/jekyll-garden.github.io) - A Digital Garden Theme for Jekyll. Jekyll Garden lets you create a static HTML version of your markdown notes and publish via Github pages. Made for Obsidian users!
 - [secure-77/Perlite](https://github.com/secure-77/Perlite) - A webbased markdown viewer optimized for Obsidian
 - [Phantas0s/garden](https://github.com/Phantas0s/garden) - The garden where my ideas grow
 - [moj-analytical-services/shinyGovstyle](https://github.com/moj-analytical-services/shinyGovstyle) - Now up to GDS frontend version v3.13.0
@@ -1414,7 +1416,6 @@
 - [maple3142/GDIndex](https://github.com/maple3142/GDIndex) - A Google Drive Index built with Vue Running on CloudFlare Workers
 - [TheBobPony/BPDownloadsGUI](https://github.com/TheBobPony/BPDownloadsGUI) - A easy to use Downloader UI
 - [ChrisTitusTech/website](https://github.com/ChrisTitusTech/website) - 
-- [ropensci-review-tools/pkgcheck](https://github.com/ropensci-review-tools/pkgcheck) - Check whether a package is ready for submission to rOpenSci's peer-review system
 - [LesFerch/WinSetView](https://github.com/LesFerch/WinSetView) - Globally Set Explorer Folder Views
 - [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker's Documentation
 - [Markavian/html-table-to-markdown-converter](https://github.com/Markavian/html-table-to-markdown-converter) - Converts HTML tables to Markdown. Paste in, click Convert.
@@ -3003,6 +3004,7 @@
 
 ## Lua 
 
+- [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 - [mrjones2014/dotfiles](https://github.com/mrjones2014/dotfiles) - My UNIX dotfiles; configuration for fish shell, vim/neovim, etc.
 - [alexpearce/dotfiles](https://github.com/alexpearce/dotfiles) - My dotfiles.
 - [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
@@ -4188,6 +4190,8 @@
 
 ## PowerShell 
 
+- [microsoft/SQL-Server-R-Services-Samples](https://github.com/microsoft/SQL-Server-R-Services-Samples) - Advanced analytics samples and templates using SQL Server R Services
+- [johnjohnsp1/DefenderKeys](https://github.com/johnjohnsp1/DefenderKeys) - Quick PowerShell script to extract any exclusions configured for Windows Defender
 - [yochananrachamim/AzureSQL](https://github.com/yochananrachamim/AzureSQL) - 
 - [Jaykul/BetterCredentials](https://github.com/Jaykul/BetterCredentials) - A wrapper for Get-Credential offering options that it should have offered
 - [twright-msft/PowerShell-toolkit](https://github.com/twright-msft/PowerShell-toolkit) - 
@@ -4322,7 +4326,7 @@
 - [Backblaze/gists](https://github.com/Backblaze/gists) - A repo for Backblaze gists used in our FAQ
 - [ryanmaclean/Windows-10-Annoyance-Free-Automated-Install](https://github.com/ryanmaclean/Windows-10-Annoyance-Free-Automated-Install) - A guide to creating a Windows 10 install without all of the "extras" - disabled One Drive, Soda Crush, etc
 - [Samdotr/onedrive-per-machine-install](https://github.com/Samdotr/onedrive-per-machine-install) - Installs the Microsoft OneDrive sync app per machine (not per user!)
-- [aaronparker/image-customise](https://github.com/aaronparker/image-customise) - Customise a Windows 10 / Windows Server image at deployment time
+- [aaronparker/image-customise](https://github.com/aaronparker/image-customise) - Customise a Windows 10/11 or Windows Server image at deployment time, including the default user profile, application packages and OS features
 - [haavarstein/Automation-Framework-Community-Edition](https://github.com/haavarstein/Automation-Framework-Community-Edition) - 
 - [syntaqx/dotfiles](https://github.com/syntaqx/dotfiles) - Personal dotfiles, period.
 - [devopssolver/ansible-molecule-vagrant](https://github.com/devopssolver/ansible-molecule-vagrant) - This is to test ansible roles/playbooks with molecule and vagrant
@@ -4736,6 +4740,8 @@
 
 ## Python 
 
+- [dein0s/dotbot_plugin_aptget](https://github.com/dein0s/dotbot_plugin_aptget) - Dotbot plugin to install/upgrade apt-get packages
+- [parallelinnovation/Obsidian-Easy-Write-to-Notes-Remotely](https://github.com/parallelinnovation/Obsidian-Easy-Write-to-Notes-Remotely) - From your daily notes, you can easily send a block of text to another note by linking it like this: &gt;[[Note]].
 - [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python
 - [whateverforever/zettelcon](https://github.com/whateverforever/zettelcon) - Automatic markdown backlinks. Designed with Zettlr in mind.
 - [Mara-Li/YAFPA](https://github.com/Mara-Li/YAFPA) - The script in python for YAFPA website
@@ -5411,6 +5417,8 @@
 
 ## R 
 
+- [paleolimbot/geoarrow](https://github.com/paleolimbot/geoarrow) - Extension types for geospatial data for use with 'Arrow'
+- [cadnza/importTablesMSSQL](https://github.com/cadnza/importTablesMSSQL) - Simple R package to import tables from Microsoft SQL Server
 - [c4f3a0ce/pkgdowncrosslinks](https://github.com/c4f3a0ce/pkgdowncrosslinks) - 
 - [sdcastillo/ExamPAData](https://github.com/sdcastillo/ExamPAData) - A container for data sets to help actuaries who are practicing predictive analytics
 - [Ivis4ml/fssemR](https://github.com/Ivis4ml/fssemR) - An optimizer of Fused-Sparse Structural Equation Models, which is the state-of-the-art (sota) jointly fused sparse maximum likelihood function for structural equation models proposed by Xin Zhou and Xiaodong Cai
@@ -5714,6 +5722,7 @@
 - [stephenbalogun/tidyndr](https://github.com/stephenbalogun/tidyndr) - Analysis of the Nigeria National Data Repository (NDR)
 - [rickhelmus/patRoon](https://github.com/rickhelmus/patRoon) - Workflow solutions for mass-spectrometry based non-target analysis.
 - [tidymodels/parsnip](https://github.com/tidymodels/parsnip) - A tidy unified interface to models
+- [ropensci-review-tools/pkgcheck](https://github.com/ropensci-review-tools/pkgcheck) - Check whether a package is ready for submission to rOpenSci's peer-review system
 - [rstudio/reticulate](https://github.com/rstudio/reticulate) - R Interface to Python
 - [rstudio/packrat](https://github.com/rstudio/packrat) - Packrat is a dependency management system for R
 - [SebKrantz/fastverse](https://github.com/SebKrantz/fastverse) - An Extensible Suite of High-Performance and Low-Dependency Packages for Statistical Computing and Data Manipulation in R
@@ -8520,6 +8529,7 @@
 
 ## Shell 
 
+- [many-passwords/many-passwords](https://github.com/many-passwords/many-passwords) - Default credentials list. 🐱‍💻 Leave a star if you like this project! (that motivates me)⭐️
 - [Phantas0s/ArchInstall](https://github.com/Phantas0s/ArchInstall) - :computer: Personnal install scripts for my development environment
 - [twright-msft/mssql-custom-app-image](https://github.com/twright-msft/mssql-custom-app-image) - An example of creating a container image from mssql-server-linux that will configure some server settings like a user role, login, create a database, and populate some schema, and test data into it
 - [brooklyncentral/clocker](https://github.com/brooklyncentral/clocker) - Apache Brooklyn cloud native infrastructure blueprints
