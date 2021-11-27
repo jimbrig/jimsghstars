@@ -1060,6 +1060,7 @@
 
 ## Go 
 
+- [kobtea/go-todoist](https://github.com/kobtea/go-todoist) - Unofficial CLI and library for todoist
 - [Phantas0s/devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers and Creators
 - [harbur/captain](https://github.com/harbur/captain) - Captain - Convert your Git workflow to Docker :whale: containers
 - [CenturyLinkLabs/zodiac](https://github.com/CenturyLinkLabs/zodiac) - A lightweight tool for easy deployment and rollback of dockerized applications.
@@ -4740,6 +4741,7 @@
 
 ## Python 
 
+- [csu/todoist-cli](https://github.com/csu/todoist-cli) - A command line interface for adding tasks to Todoist.
 - [dein0s/dotbot_plugin_aptget](https://github.com/dein0s/dotbot_plugin_aptget) - Dotbot plugin to install/upgrade apt-get packages
 - [parallelinnovation/Obsidian-Easy-Write-to-Notes-Remotely](https://github.com/parallelinnovation/Obsidian-Easy-Write-to-Notes-Remotely) - From your daily notes, you can easily send a block of text to another note by linking it like this: &gt;[[Note]].
 - [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python
@@ -5404,7 +5406,6 @@
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [airbnb/knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions.
 - [drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [6uhrmittag/taskbutler](https://github.com/6uhrmittag/taskbutler) - Create and add progress bars, Office365 Files and Dropbox Paper papers by labels and link them to your Todoist tasks.
 - [google/rfmt](https://github.com/google/rfmt) - R source code formatter
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
@@ -8801,7 +8802,7 @@
 - [yonicd/heroku-buildpack-r](https://github.com/yonicd/heroku-buildpack-r) - Heroku buildpack for R (http://www.r-project.org)
 - [KushagraKarira/Debloat](https://github.com/KushagraKarira/Debloat) - Remove ads, bloatware and speed up your device.
 - [pimterry/notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
-- [m0wer/tiddlywiki-docker](https://github.com/m0wer/tiddlywiki-docker) - [UNMAINTAINED] NodeJS based TiddlyWiki 5 Docker image.
+- [m0wer/tiddlywiki-docker](https://github.com/m0wer/tiddlywiki-docker) - NodeJS based TiddlyWiki 5 Docker image.
 - [mrhwick/journal](https://github.com/mrhwick/journal) - easily installed and used CLI journal using obsidian
 - [donnaken15/Autocommit](https://github.com/donnaken15/Autocommit) - using rather than committing every week holding back specific data, to look like any other user making daily contributions
 - [leongrdic/wsl-alias](https://github.com/leongrdic/wsl-alias) - Create aliases for Linux commands in Windows command line (for WSL)
@@ -9395,6 +9396,7 @@
 - [Vagr9K/gatsby-advanced-starter](https://github.com/Vagr9K/gatsby-advanced-starter) - A high performance skeleton starter for GatsbyJS with an advanced feature set.
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [ionic-team/stencil](https://github.com/ionic-team/stencil) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and traditional web developers from a single, framework-agnostic codebase.
+- [ionic-team/stencil](https://github.com/ionic-team/stencil) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and traditional web developers from a single, framework-agnostic codebase.
 - [luvsic3/issue-md-generator](https://github.com/luvsic3/issue-md-generator) - A command-line tool to generate markdown list from your github repository issue page
 - [REditorSupport/vscode-R](https://github.com/REditorSupport/vscode-R) - R Extension for Visual Studio Code
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration
@@ -9440,6 +9442,7 @@
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [microsoft/SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [inorganik/countUp.js](https://github.com/inorganik/countUp.js) - Animates a numerical value by counting to it
