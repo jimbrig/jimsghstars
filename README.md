@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [APL](#apl)
   - [AppleScript](#applescript)
   - [Assembly](#assembly)
   - [AutoHotkey](#autohotkey)
@@ -122,6 +123,10 @@
   - [YASnippet](#yasnippet)
   - [Zig](#zig)
   - [sed](#sed)
+
+## APL 
+
+- [kimmolinna/rsconnect](https://github.com/kimmolinna/rsconnect) - R connection for Dyalog APL with Rserve.
 
 ## AppleScript 
 
@@ -366,6 +371,7 @@
 
 ## C# # 
 
+- [fullstackhero/dotnet-webapi-boilerplate](https://github.com/fullstackhero/dotnet-webapi-boilerplate) - Clean Architecture Template for .NET 6.0 WebApi built with Multitenancy Support.
 - [c0dycode/WindowsDefenderEasyExceptionAdder](https://github.com/c0dycode/WindowsDefenderEasyExceptionAdder) - Minimalistic utility to manage Windows Defender Exclusions
 - [jofultz/mlservertemplates](https://github.com/jofultz/mlservertemplates) - 
 - [microsoft/PowerApps-Samples](https://github.com/microsoft/PowerApps-Samples) - Sample code for Power Apps, including Dataverse, model-driven apps, canvas apps, Power Apps component framework, portals, and ai-builder.
@@ -739,6 +745,7 @@
 - [ericgregorich/Obsidian-Publish-CSS](https://github.com/ericgregorich/Obsidian-Publish-CSS) - My custom CSS for Obsidian Publish
 - [chad-bennett/obsidian-publish-css](https://github.com/chad-bennett/obsidian-publish-css) - the publish.css file for my personal website
 - [selfire1/obsidian-publish-css](https://github.com/selfire1/obsidian-publish-css) - The CSS for my Obsdian publish site.
+- [jimbrig/dotfiles](https://github.com/jimbrig/dotfiles) - 
 - [Mara-Li/Obsidian-Snippet-collection](https://github.com/Mara-Li/Obsidian-Snippet-collection) - A collection of snippet to customize obsidian
 - [virtualstaticvoid/virtualstaticvoid.github.io](https://github.com/virtualstaticvoid/virtualstaticvoid.github.io) - My Github Pages
 - [cloudyr/cloudyr.github.io](https://github.com/cloudyr/cloudyr.github.io) - the cloudyr project website
@@ -896,7 +903,7 @@
 
 - [leandrotk/functional-programming-learning-path](https://github.com/leandrotk/functional-programming-learning-path) - A Learning Path for Functional Programming
 - [krisajenkins/yesql](https://github.com/krisajenkins/yesql) - A Clojure library for using SQL.
-- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://handbook.athensresearch.org/
+- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://athensresearch.github.io/docs/
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [Factual/drake](https://github.com/Factual/drake) - Data workflow tool, like a "Make for data"
@@ -949,6 +956,7 @@
 
 ## Dockerfile 
 
+- [phdax/docker-rserve-tls-selfsigned](https://github.com/phdax/docker-rserve-tls-selfsigned) - Rserve with TLS/SSL connection mode by self-signed certificate
 - [ormico/sqlpackage-docker](https://github.com/ormico/sqlpackage-docker) - SqlPackage in a Docker image
 - [alexmacarthur/local-docker-db](https://github.com/alexmacarthur/local-docker-db) - A bunch o' Docker Compose files used to quickly spin up local databases.
 - [microsoft/mssql-docker](https://github.com/microsoft/mssql-docker) - Official Microsoft repository for SQL Server in Docker resources
@@ -1062,6 +1070,7 @@
 
 ## Go 
 
+- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
 - [streamingfast/dstore](https://github.com/streamingfast/dstore) - Blob stores abstractions. Supports AWS S3, Google Storage, Azure Blob File Storage, and local FS
 - [kobtea/go-todoist](https://github.com/kobtea/go-todoist) - Unofficial CLI and library for todoist
 - [Phantas0s/devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers and Creators
@@ -1666,7 +1675,7 @@
 - [marton-balazs-kovacs/tenzing](https://github.com/marton-balazs-kovacs/tenzing) - tenzing: documening contributorship with CRediT
 - [scibrokes/owner](https://github.com/scibrokes/owner) - Personal CV
 - [stisla/stisla](https://github.com/stisla/stisla) - Free Bootstrap Admin Template
-- [cobidev/simplefolio](https://github.com/cobidev/simplefolio) - ⚡️ A minimal portfolio template for Developers
+- [C0B1T0/simplefolio](https://github.com/C0B1T0/simplefolio) - ⚡️ A minimal portfolio template for Developers
 - [tclavelle/dplyr-tidyr-tutorial](https://github.com/tclavelle/dplyr-tidyr-tutorial) - Tutorial on dplyr and tidyr packages for Eco-Data-Sci group
 - [alexd106/intro2R](https://github.com/alexd106/intro2R) - A practical introduction to R course
 - [RadLikeWhoa/bookmarklets](https://github.com/RadLikeWhoa/bookmarklets) - bookmarklets is a curated list of, you guessed it, bookmarklets that are useful on the web.
@@ -2332,7 +2341,6 @@
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [gadenbuie/sprinkles](https://github.com/gadenbuie/sprinkles) - Utility CSS and JavaScript for R Markdown
 - [ColinFay/hordes](https://github.com/ColinFay/hordes) - R from NodeJS, the right way.
-- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [ahmetb/tfjs-cloudrun](https://github.com/ahmetb/tfjs-cloudrun) - 
 - [ahmetb/cloudrun-socketio-whiteboard](https://github.com/ahmetb/cloudrun-socketio-whiteboard) - 
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
@@ -3125,6 +3133,8 @@
 
 ## Others 
 
+- [PrajwalKatyal/Using-R-with-Databases](https://github.com/PrajwalKatyal/Using-R-with-Databases) - This repository contains in depth content on databases and their connection with R.
+- [suryateja0153/Database-Design](https://github.com/suryateja0153/Database-Design) - Designing a database, querying, analytics and reporting
 - [FrissAnalytics/topojson](https://github.com/FrissAnalytics/topojson) - 
 - [megous/megatools](https://github.com/megous/megatools) - Open-source command line tools for accessing Mega.co.nz cloud storage.
 - [aposin/openinsuranceplatform](https://github.com/aposin/openinsuranceplatform) - This project provides a comprehensive core insurance platform delivering the complete scope of business capabilities for the insurance industry across all lines of business and business models (B2C, B2B, B2B2C).
@@ -4796,6 +4806,8 @@
 
 ## Python 
 
+- [awslabs/aws-serverless-data-lake-framework](https://github.com/awslabs/aws-serverless-data-lake-framework) - Enterprise-grade, production-hardened, serverless data lake on AWS
+- [awslabs/amazon-redshift-utils](https://github.com/awslabs/amazon-redshift-utils) - Amazon Redshift Utils contains utilities, scripts and view which are useful in a Redshift environment
 - [csu/todoist-cli](https://github.com/csu/todoist-cli) - A command line interface for adding tasks to Todoist.
 - [dein0s/dotbot_plugin_aptget](https://github.com/dein0s/dotbot_plugin_aptget) - Dotbot plugin to install/upgrade apt-get packages
 - [parallelinnovation/Obsidian-Easy-Write-to-Notes-Remotely](https://github.com/parallelinnovation/Obsidian-Easy-Write-to-Notes-Remotely) - From your daily notes, you can easily send a block of text to another note by linking it like this: &gt;[[Note]].
@@ -5473,6 +5485,17 @@
 
 ## R 
 
+- [jwijffels/ETLUtils](https://github.com/jwijffels/ETLUtils) - Utilities for easily loading big data from relational databases directly into ffdf objects in R.
+- [jorritvm/jrutils](https://github.com/jorritvm/jrutils) - R utility functions
+- [baileych/srcr](https://github.com/baileych/srcr) - R package for managing database connections
+- [OHDSI/OhdsiRTools](https://github.com/OHDSI/OhdsiRTools) - An R package of support tools that didn’t fit other categories, including tools for maintaining R libraries.
+- [massimilianobaldo/ProjectDB](https://github.com/massimilianobaldo/ProjectDB) - This is the repository for the project of Database
+- [Aypak/dbhelpers](https://github.com/Aypak/dbhelpers) - Helper Functions for Common Database Operations in R
+- [HuangRicky/DBFactory](https://github.com/HuangRicky/DBFactory) - R package to manage database connections
+- [Oefenweb/r-database](https://github.com/Oefenweb/r-database) - Establish a database SQL connection between databases and R
+- [HenrikBengtsson/fix.connections](https://github.com/HenrikBengtsson/fix.connections) - R package: fix.connections - Workarounds for Deficiencies in R's Built-in Connections [PROTOTYPE]
+- [guyernest/RedshiftRDBA](https://github.com/guyernest/RedshiftRDBA) - DBA library for Amazon Redshift
+- [pingles/redshift-r](https://github.com/pingles/redshift-r) - Small R package for accessing Redshift
 - [samterfa/openai](https://github.com/samterfa/openai) - This R package provides an SDK to the Open AI API
 - [wlandau/gittargets](https://github.com/wlandau/gittargets) - Data version control for reproducible analysis pipelines in R with {targets}.
 - [akhikolla/InformationHouse](https://github.com/akhikolla/InformationHouse) - 
@@ -8118,7 +8141,7 @@
 - [MilesMcBain/datapasta](https://github.com/MilesMcBain/datapasta) - On top of spaghetti, all covered in cheese....
 - [r-spatial/sf](https://github.com/r-spatial/sf) - Simple Features for R
 - [hrbrmstr/hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) - :lock_with_ink_pen: Opinionated, typographic-centric ggplot2 themes and theme components
-- [jimhester/lintr](https://github.com/jimhester/lintr) - Static Code Analysis for R
+- [r-lib/lintr](https://github.com/r-lib/lintr) - Static Code Analysis for R
 - [r-lib/testthat](https://github.com/r-lib/testthat) - An R 📦 to make testing 😀
 - [swirldev/swirl](https://github.com/swirldev/swirl) - :cyclone: Learn R, in R.
 - [rstudio/plumber](https://github.com/rstudio/plumber) - Turn your R code into a web API.
@@ -8593,6 +8616,8 @@
 
 ## Shell 
 
+- [znmeb/silver-potato](https://github.com/znmeb/silver-potato) - Data Science Pet Containers
+- [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [calogica/dbt-date](https://github.com/calogica/dbt-date) - Date-related macros for dbt
 - [mcecode/windows-dotfiles](https://github.com/mcecode/windows-dotfiles) - The settings I use to set up a development environment on Windows machines.
 - [ElectricRCAircraftGuy/eRCaGuy_dotfiles](https://github.com/ElectricRCAircraftGuy/eRCaGuy_dotfiles) - .bashrc file, terminal prompt that shows current git branch, Arduino setup, Eclipse setup, git diff with line numbers, helpful scripts, improved Linux productivity, etc.
@@ -9147,6 +9172,7 @@
 
 ## TypeScript 
 
+- [lst-codes/azuredatastudio-redshift](https://github.com/lst-codes/azuredatastudio-redshift) - azuredatastudio-postgresql is an extension for Azure Data Studio that enables you to work with PostgreSQL databases
 - [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - A plugin to edit and view Excalidraw drawings in Obsidian
 - [intuit/auto](https://github.com/intuit/auto) - Generate releases based on semantic version labels on pull requests.
 - [Taitava/obsidian-shellcommands](https://github.com/Taitava/obsidian-shellcommands) - A plugin for https://obsidian.md that lets you execute system commands via hotkeys or command palette.
@@ -9206,7 +9232,7 @@
 - [alexobenauer/Cross-reference-Navigation-for-Obsidian](https://github.com/alexobenauer/Cross-reference-Navigation-for-Obsidian) - Cross-reference navigation through your Obsidian tags and notes
 - [jimbrig/dev-portfolio](https://github.com/jimbrig/dev-portfolio) - Developer Portfolio
 - [nothingislost/obsidian-workspaces-plus](https://github.com/nothingislost/obsidian-workspaces-plus) - Quickly switch and manage Obsidian workspaces
-- [withastro/astro](https://github.com/withastro/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts!
+- [withastro/astro](https://github.com/withastro/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts
 - [umijs/umi](https://github.com/umijs/umi) - 🌋 Pluggable enterprise-level react application framework.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [4lch4/Lib-HN](https://github.com/4lch4/Lib-HN) - A library for interacting with the HackerNews API.
@@ -9344,6 +9370,7 @@
 - [Eronana/r2pak](https://github.com/Eronana/r2pak) - A library used to uncompress pak file
 - [thomvaill/log4brains](https://github.com/thomvaill/log4brains) - ✍️ Log and publish your architecture decisions (ADR)
 - [mbinic/vscode-tgit](https://github.com/mbinic/vscode-tgit) - TortoiseGit commands for Visual Studio Code
+- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [Ademking/vsChat](https://github.com/Ademking/vsChat) - [VScode Extension] Chat with developers around the world.
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [Jaaneek/useFilePicker](https://github.com/Jaaneek/useFilePicker) - Simple react hook to open browser file selector.
@@ -9459,7 +9486,7 @@
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [jamiebrynes7/obsidian-todoist-plugin](https://github.com/jamiebrynes7/obsidian-todoist-plugin) - Materialize Todoist tasks in Obsidian notes
 - [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests
-- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - This is a keystroke launcher for Windows and macOS.
+- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Keystroke launcher for Windows and macOS
 - [tannerlinsley/react-query](https://github.com/tannerlinsley/react-query) - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
 - [prathamesh24307/DataCleanRoomUI](https://github.com/prathamesh24307/DataCleanRoomUI) - 
 - [benbalter/github-mention-highlighter](https://github.com/benbalter/github-mention-highlighter) - A Chrome extension that automatically highlights any time you are mentioned on a GitHub issue or pull request thread by highlighting your username, any team you're a member of, and the border of any containing comment.
