@@ -722,6 +722,7 @@
 - [SymbolixAU/jsonify](https://github.com/SymbolixAU/jsonify) - R package to convert R objects to JSON
 - [lbartnik/subprocess](https://github.com/lbartnik/subprocess) - 
 - [r-lib/later](https://github.com/r-lib/later) - Schedule an R function or formula to run after a specified period of time.
+- [ddsjoberg/gtsummary](https://github.com/ddsjoberg/gtsummary) - Presentation-Ready Data Summary and Analytic Result Tables
 - [r-dbi/odbc](https://github.com/r-dbi/odbc) - Connect to ODBC databases (using the DBI interface)
 - [ropensci/pdftools](https://github.com/ropensci/pdftools) - Text Extraction, Rendering and Converting of PDF Documents
 - [r-lib/vroom](https://github.com/r-lib/vroom) - Fast reading of delimited files
@@ -745,7 +746,6 @@
 - [ericgregorich/Obsidian-Publish-CSS](https://github.com/ericgregorich/Obsidian-Publish-CSS) - My custom CSS for Obsidian Publish
 - [chad-bennett/obsidian-publish-css](https://github.com/chad-bennett/obsidian-publish-css) - the publish.css file for my personal website
 - [selfire1/obsidian-publish-css](https://github.com/selfire1/obsidian-publish-css) - The CSS for my Obsdian publish site.
-- [jimbrig/dotfiles](https://github.com/jimbrig/dotfiles) - 
 - [Mara-Li/Obsidian-Snippet-collection](https://github.com/Mara-Li/Obsidian-Snippet-collection) - A collection of snippet to customize obsidian
 - [virtualstaticvoid/virtualstaticvoid.github.io](https://github.com/virtualstaticvoid/virtualstaticvoid.github.io) - My Github Pages
 - [cloudyr/cloudyr.github.io](https://github.com/cloudyr/cloudyr.github.io) - the cloudyr project website
@@ -921,7 +921,7 @@
 ## Common Lisp 
 
 - [miclill/next](https://github.com/miclill/next) - Next Browser - Be Productive.
-- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the Internet on your terms.
+- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's power-browser.
 
 ## Common Workflow Language 
 
@@ -935,7 +935,7 @@
 ## D 
 
 - [dlang/dmd](https://github.com/dlang/dmd) - dmd D Programming Language compiler
-- [senselogic/RESYNC](https://github.com/senselogic/RESYNC) - Local folder synchronizer.
+- [senselogic/RESYNC](https://github.com/senselogic/RESYNC) - Non-destructive local folder synchronizer.
 
 ## Dart 
 
@@ -1070,6 +1070,7 @@
 
 ## Go 
 
+- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
 - [streamingfast/dstore](https://github.com/streamingfast/dstore) - Blob stores abstractions. Supports AWS S3, Google Storage, Azure Blob File Storage, and local FS
 - [kobtea/go-todoist](https://github.com/kobtea/go-todoist) - Unofficial CLI and library for todoist
@@ -1175,7 +1176,7 @@
 - [zmap/zdns](https://github.com/zmap/zdns) - Fast CLI DNS Lookup Tool
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
-- [hpcng/singularity](https://github.com/hpcng/singularity) - Singularity: Application containers for Linux
+- [apptainer/singularity](https://github.com/apptainer/singularity) - Singularity: Application containers for Linux
 - [paultyng/terraform-provider-gsuite](https://github.com/paultyng/terraform-provider-gsuite) - Terraform Provider for GSuite (currently Calendar and Sheets)
 - [tidwall/pretty](https://github.com/tidwall/pretty) - Efficient JSON beautifier and compactor for Go
 - [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
@@ -1345,6 +1346,11 @@
 
 ## HCL 
 
+- [terraform-aws-modules/terraform-aws-rds](https://github.com/terraform-aws-modules/terraform-aws-rds) - Terraform module which creates RDS resources on AWS
+- [terraform-aws-modules/terraform-aws-s3-bucket](https://github.com/terraform-aws-modules/terraform-aws-s3-bucket) - Terraform module which creates S3 bucket resources on AWS
+- [olevenkov/terraform-vpc](https://github.com/olevenkov/terraform-vpc) - How to Optimize Network Infrastructure code in Terraform.
+- [SebastianUA/terraform](https://github.com/SebastianUA/terraform) - The place to storing Terraform modules of many providers
+- [SebastianUA/terraform-aws-glue](https://github.com/SebastianUA/terraform-aws-glue) - Glue module for AWS provider
 - [Einsteinish/Terraform-Turotials](https://github.com/Einsteinish/Terraform-Turotials) - Introductory Terraform Tutorials
 - [jimbrig/terraform-azure](https://github.com/jimbrig/terraform-azure) - Personal experimentation using Terraform to setup infrastructure on Azure
 - [BretFisher/dogvscat](https://github.com/BretFisher/dogvscat) - Sample Docker Swarm cluster stack of tools
@@ -1371,7 +1377,7 @@
 
 ## HTML 
 
-- [FrissAnalytics/shiny-vue-simple](https://github.com/FrissAnalytics/shiny-vue-simple) - simple example combining R shiny and vue.js
+- [hashicorp/learn-terraform-cloudflare-static-website](https://github.com/hashicorp/learn-terraform-cloudflare-static-website) - 
 - [demophoon/obsidian-export-action](https://github.com/demophoon/obsidian-export-action) - Export Obsidian Vault with Github Actions
 - [Mara-Li/yet-another-free-publish-alternative](https://github.com/Mara-Li/yet-another-free-publish-alternative) - A Jekyll digital garden template, optimized for integration with Obsidian. It aims to enhance discoverability and help you build a personal knowledge base that can scale with time.
 - [okfn/messytables](https://github.com/okfn/messytables) - Tools for parsing messy tabular data. This is now superseded by https://github.com/frictionlessdata/tabulator-py
@@ -1842,7 +1848,7 @@
 
 ## Haskell 
 
-- [mstksg/advent-of-code-2021](https://github.com/mstksg/advent-of-code-2021) - Advent of Code 2021
+- [mstksg/advent-of-code-2021](https://github.com/mstksg/advent-of-code-2021) - 🎅🌟❄️☃️🎄🎁
 - [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten
 - [SUNJIANZHI/JINH](https://github.com/SUNJIANZHI/JINH) - Pure Functional Actuarial Language
 - [typelead/eta](https://github.com/typelead/eta) - The Eta Programming Language, a dialect of Haskell on the JVM
@@ -2684,7 +2690,7 @@
 - [richarddmorey/stat-distributions-js](https://github.com/richarddmorey/stat-distributions-js) - Javascript library for the visualization of statistical distributions
 - [sourcerer-io/awesome-libraries](https://github.com/sourcerer-io/awesome-libraries) - :sunglasses: Libraries that are being shown in Sourcerer profiles.
 - [ingalless/foam-template-gatsby-search](https://github.com/ingalless/foam-template-gatsby-search) - Foam template, built with Gatsby, plus search
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2021)
 - [renrousousuo/DocumentTemplate](https://github.com/renrousousuo/DocumentTemplate) - 文件 Markdown 格式。方便书写各种文档。
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -3937,14 +3943,14 @@
 - [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - ▶️ An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.
 - [kognise/dev.to](https://github.com/kognise/dev.to) - Where programmers share ideas and help each other grow
 - [kognise/oogle](https://github.com/kognise/oogle) - An open-source clone of the Google search engine and crawler infrastructure
-- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - 
+- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [objcio/articles](https://github.com/objcio/articles) - All current objc.io articles
 - [andymatuschak/reMarkable-typescript](https://github.com/andymatuschak/reMarkable-typescript) - A typescript reMarkable Cloud API
 - [julian-englert/Andy-Grove---High-Output-Management](https://github.com/julian-englert/Andy-Grove---High-Output-Management) - Summary of the book High Output Management by Andy Grove
 - [binyamin/obsidian-plugins](https://github.com/binyamin/obsidian-plugins) - Obsidian Plugin Ideas
 - [ShannaSeigel/slipbox](https://github.com/ShannaSeigel/slipbox) - knowledgebase sharing experiment
 - [tekacs/editorial-obsidian](https://github.com/tekacs/editorial-obsidian) - Editorial scripts for Obsidian (unofficial)
-- [obsidianmd/obsidian-docs](https://github.com/obsidianmd/obsidian-docs) - Help documentation for Obsidian
+- [obsidianmd/obsidian-docs](https://github.com/obsidianmd/obsidian-docs) - Help documentation for Obsidian.
 - [ahmetb/kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - Example recipes for Kubernetes Network Policies that you can just copy paste
 - [RMHogervorst/scheduling_r_scripts](https://github.com/RMHogervorst/scheduling_r_scripts) - 
 - [deanmarchiori/analysis-flow](https://github.com/deanmarchiori/analysis-flow) - Data Analysis Workflows & Reproducibility Learning Resources
@@ -4215,6 +4221,7 @@
 
 ## PowerShell 
 
+- [pkelly808/Terraform](https://github.com/pkelly808/Terraform) - Terraform Enterprise API Management
 - [jdhitsolutions/PSPivotTable](https://github.com/jdhitsolutions/PSPivotTable) - A command to create an Excel-like Pivot table in the PowerShell console.
 - [jdhitsolutions/WritingTools](https://github.com/jdhitsolutions/WritingTools) - A collection of files and PowerShell tools to assist in developing and writing a book.
 - [jdhitsolutions/PSJsonCredential](https://github.com/jdhitsolutions/PSJsonCredential) - A PowerShell module for exporting and importing a PSCredential to a JSON file
@@ -8066,7 +8073,6 @@
 - [rstudio/renv](https://github.com/rstudio/renv) - renv: Project environments for R.
 - [jjanuszczak/freshdeskr](https://github.com/jjanuszczak/freshdeskr) - R client for Freshdesk
 - [ThinkR-open/attachment](https://github.com/ThinkR-open/attachment) - Tools to deal with dependencies in scripts, Rmd and packages
-- [ddsjoberg/gtsummary](https://github.com/ddsjoberg/gtsummary) - Presentation-Ready Data Summary and Analytic Result Tables
 - [zappingseb/shinymetaTest](https://github.com/zappingseb/shinymetaTest) - An example App to test shinyMeta
 - [alastairrushworth/inspectdf](https://github.com/alastairrushworth/inspectdf) - 🛠️ 📊 Tools for Exploring and Comparing Data Frames
 - [ELToulemonde/dataPreparation](https://github.com/ELToulemonde/dataPreparation) - Data preparation for data science projects.
@@ -8389,6 +8395,7 @@
 
 ## Ruby 
 
+- [dtan4/terraforming](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate)
 - [athityakumar/colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
 - [nvie/homebrew-tap](https://github.com/nvie/homebrew-tap) - Personal taps for Homebrew
 - [m1foley/fit-commit](https://github.com/m1foley/fit-commit) - A Git hook to validate your commit messages based on community standards.
@@ -8536,7 +8543,7 @@
 - [andy-5/wslgit](https://github.com/andy-5/wslgit) - Use Git installed in Bash on Windows/Windows Subsystem for Linux (WSL) from Windows and Visual Studio Code (VSCode)
 - [project-akri/akri](https://github.com/project-akri/akri) - A Kubernetes Resource Interface for the Edge
 - [federico-terzi/espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git and diff output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [tversteeg/emplace](https://github.com/tversteeg/emplace) - 👩‍❤️‍💋‍👩 Synchronize installed packages on multiple machines
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [clog-tool/clog-cli](https://github.com/clog-tool/clog-cli) - Generate beautiful changelogs from your Git commit history
@@ -8616,6 +8623,7 @@
 
 ## Shell 
 
+- [aws-samples/aws2tf](https://github.com/aws-samples/aws2tf) - aws2tf - automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code.
 - [znmeb/silver-potato](https://github.com/znmeb/silver-potato) - Data Science Pet Containers
 - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [calogica/dbt-date](https://github.com/calogica/dbt-date) - Date-related macros for dbt
@@ -9644,6 +9652,7 @@
 
 ## Vue 
 
+- [FrissAnalytics/shiny-vue-simple](https://github.com/FrissAnalytics/shiny-vue-simple) - simple example combining R shiny and vue.js
 - [timelyportfolio/vue-cli-r](https://github.com/timelyportfolio/vue-cli-r) - 
 - [microsoft/AzureTipsAndTricks](https://github.com/microsoft/AzureTipsAndTricks) - Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Star the repo now to shave hours off your coding tasks tomorrow.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, themes and tons more!
