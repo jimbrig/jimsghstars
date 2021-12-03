@@ -370,6 +370,7 @@
 
 ## C# # 
 
+- [ghulamghousdev/Reservation-System](https://github.com/ghulamghousdev/Reservation-System) - Airline Reservation System is an online Airline Ticket Reservation Application built using Windows Forms, C#, MS SQL Server.
 - [fullstackhero/dotnet-webapi-boilerplate](https://github.com/fullstackhero/dotnet-webapi-boilerplate) - Clean Architecture Template for .NET 6.0 WebApi built with Multitenancy Support.
 - [c0dycode/WindowsDefenderEasyExceptionAdder](https://github.com/c0dycode/WindowsDefenderEasyExceptionAdder) - Minimalistic utility to manage Windows Defender Exclusions
 - [jofultz/mlservertemplates](https://github.com/jofultz/mlservertemplates) - 
@@ -736,6 +737,7 @@
 
 ## CSS 
 
+- [yogesh-kamat/IMS](https://github.com/yogesh-kamat/IMS) - Inventory management system using Django and Postgresql
 - [colineckert/obsidian-things](https://github.com/colineckert/obsidian-things) - An Obsidian theme inspired by the beautifully-designed app, Things.
 - [Jekyll-Garden/jekyll-garden.github.io](https://github.com/Jekyll-Garden/jekyll-garden.github.io) - A Digital Garden Theme for Jekyll. Jekyll Garden lets you create a static HTML version of your markdown notes and publish via Github pages. Made for Obsidian users!
 - [secure-77/Perlite](https://github.com/secure-77/Perlite) - A webbased markdown viewer optimized for Obsidian
@@ -1377,6 +1379,7 @@
 
 ## HTML 
 
+- [samarth-p/College-ERP](https://github.com/samarth-p/College-ERP) - A college management system built using Django framework. It is designed for interactions between students and teachers. Features include attendance, marks and time table.
 - [hashicorp/learn-terraform-cloudflare-static-website](https://github.com/hashicorp/learn-terraform-cloudflare-static-website) - 
 - [demophoon/obsidian-export-action](https://github.com/demophoon/obsidian-export-action) - Export Obsidian Vault with Github Actions
 - [Mara-Li/yet-another-free-publish-alternative](https://github.com/Mara-Li/yet-another-free-publish-alternative) - A Jekyll digital garden template, optimized for integration with Obsidian. It aims to enhance discoverability and help you build a personal knowledge base that can scale with time.
@@ -1882,6 +1885,7 @@
 
 ## Java 
 
+- [winston-dsouza/Online-Food-Ordering-System](https://github.com/winston-dsouza/Online-Food-Ordering-System) - Online Food Ordering And Order Retrieval System
 - [aposin/gem](https://github.com/aposin/gem) - Git Environment Manager (GEM)
 - [springdoc/springdoc-openapi](https://github.com/springdoc/springdoc-openapi) - Library for OpenAPI 3 with spring-boot
 - [swagger-api/swagger-parser](https://github.com/swagger-api/swagger-parser) - Swagger Spec to Java POJOs
@@ -1946,6 +1950,7 @@
 
 ## JavaScript 
 
+- [euangoddard/clipboard2markdown](https://github.com/euangoddard/clipboard2markdown) - Convert rich-text on your clipbaord to markdown
 - [transitive-bullshit/puppeteer-email](https://github.com/transitive-bullshit/puppeteer-email) - Email automation driven by headless chrome.
 - [FrissAnalytics/decision-tree-js](https://github.com/FrissAnalytics/decision-tree-js) - Small JavaScript implementation of ID3 Decision tree
 - [FrissAnalytics/shiny-vue](https://github.com/FrissAnalytics/shiny-vue) - example combining  shiny with vue.js, using custom d3.js based vue component
@@ -1968,7 +1973,7 @@
 - [yoobool/flask-state](https://github.com/yoobool/flask-state) - Display machine state using Python3 with Flask.
 - [flask-debugtoolbar/flask-debugtoolbar](https://github.com/flask-debugtoolbar/flask-debugtoolbar) - A toolbar overlay for debugging Flask applications
 - [shamahdotdev/gsuite-desktop-client](https://github.com/shamahdotdev/gsuite-desktop-client) - Unofficial Google Suite (Drive, Docs, etc) Desktop Client made with Electron
-- [toggl/toggl-button](https://github.com/toggl/toggl-button) - Toggl Button extension for Chrome and Firefox
+- [toggl/track-extension](https://github.com/toggl/track-extension) - Toggl Track browser extension for Chrome and Firefox
 - [nteetor/chabudai](https://github.com/nteetor/chabudai) - A table plugin for Bootstrap 4
 - [nteetor/yonder-examples](https://github.com/nteetor/yonder-examples) - Translations of https://github.com/rstudio/shiny-examples
 - [samuelramox/node-rest](https://github.com/samuelramox/node-rest) - REST API made with Node.js
@@ -2151,7 +2156,7 @@
 - [PacktPublishing/Hands-On-Kubernetes-on-Windows](https://github.com/PacktPublishing/Hands-On-Kubernetes-on-Windows) - Hands-On Kubernetes on Windows, published by Packt
 - [StefanScherer/dockerfiles-windows](https://github.com/StefanScherer/dockerfiles-windows) - Various Dockerfiles for Windows Containers
 - [omidnikrah/WTC](https://github.com/omidnikrah/WTC) - ⏱💰Working Time Calculator app for remote workers.
-- [pavjacko/renative](https://github.com/pavjacko/renative) - 🚀🚀🚀Build universal cross-platform apps with React Native. Includes latest iOS, tvOS, Android, Android TV, Android Wear, Web, Tizen TV, Tizen Watch, Tizen Mobile, LG webOS, macOS/OSX, Windows, KaiOS, FirefoxOS Firefox TV platforms
+- [renative-org/renative](https://github.com/renative-org/renative) - 🚀🚀🚀 Unified Development Platform for iOS, tvOS, Android, Android TV, Android Wear, Web, Tizen TV, Tizen Watch, Tizen Mobile, LG webOS, macOS/OSX, Windows, KaiOS, FirefoxOS Firefox TV platforms
 - [thumbsup/thumbsup](https://github.com/thumbsup/thumbsup) - Generate static HTML photo / video galleries
 - [mckeever02/tryingtowork](https://github.com/mckeever02/tryingtowork) - A collection of free spaces to work online
 - [luckyshot/freelance-timetracker](https://github.com/luckyshot/freelance-timetracker) - Free and super-simple web-based timetracking system in JavaScript and PHP.
@@ -3999,7 +4004,6 @@
 - [dariusz-wozniak/software-development-project-checklist](https://github.com/dariusz-wozniak/software-development-project-checklist) - ✅ Software Development Project Checklist
 - [vintasoftware/production-launch-checklist](https://github.com/vintasoftware/production-launch-checklist) - A checklist we use here at Vinta before launching a product we've been working on.
 - [lotspaih/docTemplates](https://github.com/lotspaih/docTemplates) - Simple Project Management and Document Templates in Markdown for Compatibility and Portability
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [rstudio-education/rstats-ed](https://github.com/rstudio-education/rstats-ed) - List of courses teaching R
 - [OpenTechSchool/bookshelf](https://github.com/OpenTechSchool/bookshelf) - 📚  Reading lists for learners
 - [orsinium-labs/generated-awesomeness](https://github.com/orsinium-labs/generated-awesomeness) - List of autogenerated awesome lists.
@@ -4143,6 +4147,9 @@
 
 ## PHP 
 
+- [shah-deep/Insurance-Management-System](https://github.com/shah-deep/Insurance-Management-System) - Database Management System for an Insurance Company. Made in PHP.
+- [PuneethReddyHC/event-management](https://github.com/PuneethReddyHC/event-management) - helps to register an users for on events conducted in college fests with simple logic with secured way
+- [PuneethReddyHC/online-shopping-system-advanced](https://github.com/PuneethReddyHC/online-shopping-system-advanced) - Demo site
 - [Rudloff/alltube](https://github.com/Rudloff/alltube) - Web GUI for youtube-dl
 - [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
 - [matt-schwartz/personal-inventory](https://github.com/matt-schwartz/personal-inventory) - A personal inventory management web app
@@ -4222,6 +4229,7 @@
 
 ## PowerShell 
 
+- [microsoft/CloudAdoptionFramework](https://github.com/microsoft/CloudAdoptionFramework) - Code samples and extended documentation to support the guidance provided in the Microsoft Cloud Adoption Framework
 - [pkelly808/Terraform](https://github.com/pkelly808/Terraform) - Terraform Enterprise API Management
 - [jdhitsolutions/PSPivotTable](https://github.com/jdhitsolutions/PSPivotTable) - A command to create an Excel-like Pivot table in the PowerShell console.
 - [jdhitsolutions/WritingTools](https://github.com/jdhitsolutions/WritingTools) - A collection of files and PowerShell tools to assist in developing and writing a book.
@@ -9105,6 +9113,7 @@
 
 ## TSQL 
 
+- [kevchant/sqlwatch](https://github.com/kevchant/sqlwatch) - SQL Server Performance Monitor
 - [twright-msft/mssql-test-scripts](https://github.com/twright-msft/mssql-test-scripts) - Some T-SQL scripts that can be used for testing.
 - [vladimir-aleyev/t-sql](https://github.com/vladimir-aleyev/t-sql) - useful t-sql scripts
 - [JocaPC/AzureDataStudio-Managed-Instance](https://github.com/JocaPC/AzureDataStudio-Managed-Instance) - Managed Instance extension for Azure Data Studio
@@ -9519,6 +9528,7 @@
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Technical documentation that just works
 - [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes) - Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization options.
 - [atolye15/checklist](https://github.com/atolye15/checklist) - The protocols we follow for the things we cannot automate yet! ✅
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [nandor-poka/jupyterlab-bookmarks-extension](https://github.com/nandor-poka/jupyterlab-bookmarks-extension) - JupyterLab Favorites extension for JupyterLab 2.0+. Provides Launcher icons for favorite / bookmarked files.
 - [Abhith/angular-favorites](https://github.com/Abhith/angular-favorites) - My favorite angular resources
