@@ -737,6 +737,7 @@
 
 ## CSS 
 
+- [Nasawa/Clipt](https://github.com/Nasawa/Clipt) - Cross-machine clipboard management
 - [yogesh-kamat/IMS](https://github.com/yogesh-kamat/IMS) - Inventory management system using Django and Postgresql
 - [colineckert/obsidian-things](https://github.com/colineckert/obsidian-things) - An Obsidian theme inspired by the beautifully-designed app, Things.
 - [Jekyll-Garden/jekyll-garden.github.io](https://github.com/Jekyll-Garden/jekyll-garden.github.io) - A Digital Garden Theme for Jekyll. Jekyll Garden lets you create a static HTML version of your markdown notes and publish via Github pages. Made for Obsidian users!
@@ -1072,6 +1073,7 @@
 
 ## Go 
 
+- [cycloidio/terracognita](https://github.com/cycloidio/terracognita) - Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
 - [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
 - [streamingfast/dstore](https://github.com/streamingfast/dstore) - Blob stores abstractions. Supports AWS S3, Google Storage, Azure Blob File Storage, and local FS
@@ -1113,7 +1115,7 @@
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [microsoft/vscode-winsta11er](https://github.com/microsoft/vscode-winsta11er) - Windows Store Installer for VS Code
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
-- [dominikbraun/timetrace](https://github.com/dominikbraun/timetrace) - Simple time tracking CLI
+- [dominikbraun/timetrace](https://github.com/dominikbraun/timetrace) - timetrace is a simple CLI for tracking your working time.
 - [irevenko/tsukae](https://github.com/irevenko/tsukae) - 🐚📊 Show off your most used shell commands
 - [isacikgoz/gitin](https://github.com/isacikgoz/gitin) - commit/branch/workdir explorer for git
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
@@ -1307,7 +1309,7 @@
 - [docker/cli](https://github.com/docker/cli) - The Docker CLI
 - [GoogleCloudPlatform/cloud-builders-community](https://github.com/GoogleCloudPlatform/cloud-builders-community) - Community-contributed images for Google Cloud Build
 - [pbnj/awesome-podcasts](https://github.com/pbnj/awesome-podcasts) - 🎙 A collection of awesome engineering podcasts! ARCHIVED in favor of https://github.com/rShetty/awesome-podcasts
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 - [prasmussen/gdrive](https://github.com/prasmussen/gdrive) - Google Drive CLI Client
 - [odeke-em/drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -1348,6 +1350,9 @@
 
 ## HCL 
 
+- [ned1313/ado-labs-github-actions](https://github.com/ned1313/ado-labs-github-actions) - Demo files for the Azure DevOps Labs episode about GitHub Actions and Terraform
+- [ned1313/Deep-Dive-Terraform](https://github.com/ned1313/Deep-Dive-Terraform) - Exercise files for my Pluralsight course.
+- [ned1313/Getting-Started-Terraform](https://github.com/ned1313/Getting-Started-Terraform) - Exercise files for my Pluralsight course
 - [terraform-aws-modules/terraform-aws-rds](https://github.com/terraform-aws-modules/terraform-aws-rds) - Terraform module which creates RDS resources on AWS
 - [terraform-aws-modules/terraform-aws-s3-bucket](https://github.com/terraform-aws-modules/terraform-aws-s3-bucket) - Terraform module which creates S3 bucket resources on AWS
 - [olevenkov/terraform-vpc](https://github.com/olevenkov/terraform-vpc) - How to Optimize Network Infrastructure code in Terraform.
@@ -1379,6 +1384,7 @@
 
 ## HTML 
 
+- [nhs-r-community/Conference_2020](https://github.com/nhs-r-community/Conference_2020) - This repository holds the content for the NHS-R Community conference, November 2020.  Plenary session and lightning talk material will be shared in the relevant folders, and workshop details are below
 - [samarth-p/College-ERP](https://github.com/samarth-p/College-ERP) - A college management system built using Django framework. It is designed for interactions between students and teachers. Features include attendance, marks and time table.
 - [hashicorp/learn-terraform-cloudflare-static-website](https://github.com/hashicorp/learn-terraform-cloudflare-static-website) - 
 - [demophoon/obsidian-export-action](https://github.com/demophoon/obsidian-export-action) - Export Obsidian Vault with Github Actions
@@ -1950,6 +1956,7 @@
 
 ## JavaScript 
 
+- [algenty/grafana-flowcharting](https://github.com/algenty/grafana-flowcharting) - Flowcharting, plugin for Grafana to create complexe visio's draws style like technical architectures, floorplan, diagrams, hierarchical schema based on draw.io
 - [euangoddard/clipboard2markdown](https://github.com/euangoddard/clipboard2markdown) - Convert rich-text on your clipbaord to markdown
 - [transitive-bullshit/puppeteer-email](https://github.com/transitive-bullshit/puppeteer-email) - Email automation driven by headless chrome.
 - [FrissAnalytics/decision-tree-js](https://github.com/FrissAnalytics/decision-tree-js) - Small JavaScript implementation of ID3 Decision tree
@@ -3145,6 +3152,9 @@
 
 ## Others 
 
+- [rainpole/vmware-stencils](https://github.com/rainpole/vmware-stencils) - VMware Stencils
+- [David-Summers/Azure-Design](https://github.com/David-Summers/Azure-Design) - My Azure stencil collection for Visio. Highly functional and always up to date.
+- [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 - [fly-apps/grafana](https://github.com/fly-apps/grafana) - Run Grafana on Fly
 - [PrajwalKatyal/Using-R-with-Databases](https://github.com/PrajwalKatyal/Using-R-with-Databases) - This repository contains in depth content on databases and their connection with R.
 - [suryateja0153/Database-Design](https://github.com/suryateja0153/Database-Design) - Designing a database, querying, analytics and reporting
@@ -4229,6 +4239,7 @@
 
 ## PowerShell 
 
+- [MikeShepard/VisioBot3000](https://github.com/MikeShepard/VisioBot3000) - Simple Visio Automation from Powershell
 - [microsoft/CloudAdoptionFramework](https://github.com/microsoft/CloudAdoptionFramework) - Code samples and extended documentation to support the guidance provided in the Microsoft Cloud Adoption Framework
 - [pkelly808/Terraform](https://github.com/pkelly808/Terraform) - Terraform Enterprise API Management
 - [jdhitsolutions/PSPivotTable](https://github.com/jdhitsolutions/PSPivotTable) - A command to create an Excel-like Pivot table in the PowerShell console.
@@ -4821,6 +4832,7 @@
 
 ## Python 
 
+- [iayanpahwa/anywheredoor](https://github.com/iayanpahwa/anywheredoor) - Cross Platform E2E encrypted clipboard sharing utility
 - [shatrunjai/api.ai.aa.name](https://github.com/shatrunjai/api.ai.aa.name) - Trying to create a flask api for api.ai
 - [awslabs/aws-serverless-data-lake-framework](https://github.com/awslabs/aws-serverless-data-lake-framework) - Enterprise-grade, production-hardened, serverless data lake on AWS
 - [awslabs/amazon-redshift-utils](https://github.com/awslabs/amazon-redshift-utils) - Amazon Redshift Utils contains utilities, scripts and view which are useful in a Redshift environment
@@ -5502,6 +5514,7 @@
 
 ## R 
 
+- [semanzi/R_for_Excel_users_NHSR_2020](https://github.com/semanzi/R_for_Excel_users_NHSR_2020) - R for Excel users workshop materials for the NHS-R 2020 conference
 - [shatrunjai/pubmed_analytics](https://github.com/shatrunjai/pubmed_analytics) - Code to retrive abstracts from pubmed and perform semantic analytics
 - [shatrunjai/ShinySentimentAnalysis](https://github.com/shatrunjai/ShinySentimentAnalysis) - Shiny app for text analytics
 - [shatrunjai/ChartChamp](https://github.com/shatrunjai/ChartChamp) - Data and Code used to build the dashboard for ChartChamp 2016
@@ -7297,7 +7310,7 @@
 - [ropensci/CoordinateCleaner](https://github.com/ropensci/CoordinateCleaner) - Automated flagging of common spatial and temporal errors in biological and palaeontological collection data, for the use in conservation, ecology and palaeontology.
 - [tjmahr/printy](https://github.com/tjmahr/printy) - Tools for pretty-printing numbers in RMarkdown reports
 - [hughjonesd/rcheology](https://github.com/hughjonesd/rcheology) - Data on Base Packages for Previous Versions of R
-- [ShixiangWang/sigminer](https://github.com/ShixiangWang/sigminer) - 🌲 An easy-to-use and scalable toolkit for genomic alteration signature (a.k.a. mutational signature) analysis and visualization in R
+- [ShixiangWang/sigminer](https://github.com/ShixiangWang/sigminer) - 🌲 An easy-to-use and scalable toolkit for genomic alteration signature (a.k.a. mutational signature) analysis and visualization in R https://shixiangwang.github.io/sigminer/reference/index.html
 - [atusy/ftExtra](https://github.com/atusy/ftExtra) - Helper functions for the flextable package
 - [ropensci/epubr](https://github.com/ropensci/epubr) - Read EPUB files in R
 - [R4EPI/epikit](https://github.com/R4EPI/epikit) - Miscellaneous helper tools for epidemiologists
@@ -8411,6 +8424,7 @@
 
 ## Ruby 
 
+- [dtan4/dockerfile-terraforming](https://github.com/dtan4/dockerfile-terraforming) - Docker Image for Terraforming
 - [dtan4/terraforming](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate)
 - [athityakumar/colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
 - [nvie/homebrew-tap](https://github.com/nvie/homebrew-tap) - Personal taps for Homebrew
@@ -8640,6 +8654,7 @@
 
 ## Shell 
 
+- [rocker-org/rspm](https://github.com/rocker-org/rspm) - Rocker RSPM Containers
 - [aws-samples/aws2tf](https://github.com/aws-samples/aws2tf) - aws2tf - automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code.
 - [znmeb/silver-potato](https://github.com/znmeb/silver-potato) - Data Science Pet Containers
 - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
@@ -9673,6 +9688,7 @@
 
 ## Vue 
 
+- [dale0525/ClipBroad](https://github.com/dale0525/ClipBroad) - Sync your clipboard across multiple platforms
 - [FrissAnalytics/shiny-vue-simple](https://github.com/FrissAnalytics/shiny-vue-simple) - simple example combining R shiny and vue.js
 - [timelyportfolio/vue-cli-r](https://github.com/timelyportfolio/vue-cli-r) - 
 - [microsoft/AzureTipsAndTricks](https://github.com/microsoft/AzureTipsAndTricks) - Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Star the repo now to shave hours off your coding tasks tomorrow.
