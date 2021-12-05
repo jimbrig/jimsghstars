@@ -584,6 +584,7 @@
 
 ## C++ 
 
+- [farling42/RWoutput](https://github.com/farling42/RWoutput) - Tool to convert a Realm Works Output file into other formats.
 - [meganz/MEGAsync](https://github.com/meganz/MEGAsync) - Easy automated syncing between your computers and your MEGA Cloud Drive
 - [meganz/MEGAcmd](https://github.com/meganz/MEGAcmd) - Command Line Interactive and Scriptable Application to access MEGA
 - [miraisolutions/winsendkeys](https://github.com/miraisolutions/winsendkeys) - Sendkeys R library for Windows
@@ -1029,6 +1030,7 @@
 
 ## Elm 
 
+- [fiatjaf/templates](https://github.com/fiatjaf/templates) - Mix YAML/JSON data with Markdown/HTML templates. Useful for printing stuff.
 - [syncrypt/desktop](https://github.com/syncrypt/desktop) - Syncrypt Desktop - Platform independent graphical client
 
 ## Emacs Lisp 
@@ -1350,6 +1352,7 @@
 
 ## HCL 
 
+- [ned1313/terraform-tuesdays](https://github.com/ned1313/terraform-tuesdays) - Demo files for various Terraform Tuesday Examples
 - [ned1313/ado-labs-github-actions](https://github.com/ned1313/ado-labs-github-actions) - Demo files for the Azure DevOps Labs episode about GitHub Actions and Terraform
 - [ned1313/Deep-Dive-Terraform](https://github.com/ned1313/Deep-Dive-Terraform) - Exercise files for my Pluralsight course.
 - [ned1313/Getting-Started-Terraform](https://github.com/ned1313/Getting-Started-Terraform) - Exercise files for my Pluralsight course
@@ -1956,6 +1959,7 @@
 
 ## JavaScript 
 
+- [enthal/temple](https://github.com/enthal/temple) - Static file generation from simple templates, YAML'd content, and markdown — where templates walk a content object graph.
 - [algenty/grafana-flowcharting](https://github.com/algenty/grafana-flowcharting) - Flowcharting, plugin for Grafana to create complexe visio's draws style like technical architectures, floorplan, diagrams, hierarchical schema based on draw.io
 - [euangoddard/clipboard2markdown](https://github.com/euangoddard/clipboard2markdown) - Convert rich-text on your clipbaord to markdown
 - [transitive-bullshit/puppeteer-email](https://github.com/transitive-bullshit/puppeteer-email) - Email automation driven by headless chrome.
@@ -3152,6 +3156,8 @@
 
 ## Others 
 
+- [scholer/zepto-markdown](https://github.com/scholer/zepto-markdown) - Package for parsing and converting Markdown documents. Features include YAML front-matter extraction, templating, and macros.
+- [sleepymurph/template_markdown_for_printing](https://github.com/sleepymurph/template_markdown_for_printing) - A markdown document with YAML header, for PDF output via Pandoc
 - [rainpole/vmware-stencils](https://github.com/rainpole/vmware-stencils) - VMware Stencils
 - [David-Summers/Azure-Design](https://github.com/David-Summers/Azure-Design) - My Azure stencil collection for Visio. Highly functional and always up to date.
 - [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
@@ -3231,7 +3237,7 @@
 - [amio/awesome-micro](https://github.com/amio/awesome-micro) - A collection of awesome things regarding zeit's micro.
 - [dslp/dslp](https://github.com/dslp/dslp) - The Data Science Lifecycle Process is a process for taking data science teams from Idea to Value repeatedly and sustainably. The process is documented in this repo.
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
-- [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer Road Map. Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you'd like to add.
+- [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Ethereum Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks.
 - [davidski/database_connections](https://github.com/davidski/database_connections) - ⚙️Demonstration code to connect R on MacOS to various database flavors.
 - [jimsforks/rsvr](https://github.com/jimsforks/rsvr) - "reserver"
 - [mrmartineau/awesome-web-dev-resources](https://github.com/mrmartineau/awesome-web-dev-resources) - 👌 My collection of go-to web development resources
@@ -3962,7 +3968,7 @@
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [objcio/articles](https://github.com/objcio/articles) - All current objc.io articles
 - [andymatuschak/reMarkable-typescript](https://github.com/andymatuschak/reMarkable-typescript) - A typescript reMarkable Cloud API
-- [julian-englert/Andy-Grove---High-Output-Management](https://github.com/julian-englert/Andy-Grove---High-Output-Management) - Summary of the book High Output Management by Andy Grove
+- [julianenglert/Andy-Grove---High-Output-Management](https://github.com/julianenglert/Andy-Grove---High-Output-Management) - Summary of the book High Output Management by Andy Grove
 - [binyamin/obsidian-plugins](https://github.com/binyamin/obsidian-plugins) - Obsidian Plugin Ideas
 - [ShannaSeigel/slipbox](https://github.com/ShannaSeigel/slipbox) - knowledgebase sharing experiment
 - [tekacs/editorial-obsidian](https://github.com/tekacs/editorial-obsidian) - Editorial scripts for Obsidian (unofficial)
@@ -4832,6 +4838,8 @@
 
 ## Python 
 
+- [davidangel/DayOne-JSON-to-MD](https://github.com/davidangel/DayOne-JSON-to-MD) - Converts jsons from Day One app to Markdown. Intended for transferring from DayOne to Obsidian but should work with everything else.
+- [cfn-sphere/simple-container-runtime](https://github.com/cfn-sphere/simple-container-runtime) - Just what it is named, an easy way to run docker containers on any kind of instance with respect to production grade requirements!
 - [iayanpahwa/anywheredoor](https://github.com/iayanpahwa/anywheredoor) - Cross Platform E2E encrypted clipboard sharing utility
 - [shatrunjai/api.ai.aa.name](https://github.com/shatrunjai/api.ai.aa.name) - Trying to create a flask api for api.ai
 - [awslabs/aws-serverless-data-lake-framework](https://github.com/awslabs/aws-serverless-data-lake-framework) - Enterprise-grade, production-hardened, serverless data lake on AWS
@@ -5514,6 +5522,9 @@
 
 ## R 
 
+- [jaredlander/WorkshopExampleRepo](https://github.com/jaredlander/WorkshopExampleRepo) - 
+- [jaredlander/LearningR](https://github.com/jaredlander/LearningR) - Code to get started with a new RStudio project along with data
+- [john-harrold/onbrand](https://github.com/john-harrold/onbrand) - R package for creating templated reporting workflows in Word and PowerPoint
 - [semanzi/R_for_Excel_users_NHSR_2020](https://github.com/semanzi/R_for_Excel_users_NHSR_2020) - R for Excel users workshop materials for the NHS-R 2020 conference
 - [shatrunjai/pubmed_analytics](https://github.com/shatrunjai/pubmed_analytics) - Code to retrive abstracts from pubmed and perform semantic analytics
 - [shatrunjai/ShinySentimentAnalysis](https://github.com/shatrunjai/ShinySentimentAnalysis) - Shiny app for text analytics
@@ -8654,6 +8665,10 @@
 
 ## Shell 
 
+- [chrisgrieser/obsidian-theme-design-utilities](https://github.com/chrisgrieser/obsidian-theme-design-utilities) - Some Utilities and Quality-of-Life Features for Designers of Obsidian Themes
+- [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
+- [bats-core/bats-assert](https://github.com/bats-core/bats-assert) - Common assertions for Bats
+- [xebis/repository-template](https://github.com/xebis/repository-template) - Template for highly automated, up-to-date, and well-documented repositories. Covers documentation and license templates, check numerous common problems, Markdown, YAML, Bash, and run tests - all of it before commit, push, and at CI. Releases to GitLab and GitHub using semantic versioning and generating changelog.
 - [rocker-org/rspm](https://github.com/rocker-org/rspm) - Rocker RSPM Containers
 - [aws-samples/aws2tf](https://github.com/aws-samples/aws2tf) - aws2tf - automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code.
 - [znmeb/silver-potato](https://github.com/znmeb/silver-potato) - Data Science Pet Containers
@@ -9213,6 +9228,9 @@
 
 ## TypeScript 
 
+- [chetachiezikeuzor/MySnippets-Plugin](https://github.com/chetachiezikeuzor/MySnippets-Plugin) - MySnippets is a plugin that adds a status bar menu allowing the user to quickly manage their snippets within the comfort of their workspace 🖌.
+- [QAMichaelPeng/obsidian-graphviz](https://github.com/QAMichaelPeng/obsidian-graphviz) - Graphviz plugin for obsidian md.
+- [holubj/obsidian-dialogue-plugin](https://github.com/holubj/obsidian-dialogue-plugin) - Dialogue plugin for Obsidian.md
 - [Eureka-Shoulders/fetchx](https://github.com/Eureka-Shoulders/fetchx) - Beautiful way to fetch data in React
 - [lst-codes/azuredatastudio-redshift](https://github.com/lst-codes/azuredatastudio-redshift) - azuredatastudio-postgresql is an extension for Azure Data Studio that enables you to work with PostgreSQL databases
 - [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - A plugin to edit and view Excalidraw drawings in Obsidian
