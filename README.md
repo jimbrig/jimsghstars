@@ -1075,6 +1075,8 @@
 
 ## Go 
 
+- [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
+- [ueffel/caddy-basic-auth-filter](https://github.com/ueffel/caddy-basic-auth-filter) - Caddy log filter module with a log field filter to extract the user from a basic Authorization HTTP-Header
 - [cycloidio/terracognita](https://github.com/cycloidio/terracognita) - Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
 - [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
@@ -1398,6 +1400,7 @@
 - [MASTIN/Virtual-Locker](https://github.com/MASTIN/Virtual-Locker) - Personal property inventories for insurance and relocation purposes.
 - [davidstutz/bootstrap-multiselect](https://github.com/davidstutz/bootstrap-multiselect) - JQuery multiselect plugin based on Twitter Bootstrap.
 - [kaybenleroll/data_workshops](https://github.com/kaybenleroll/data_workshops) - This repository contains all the files for the various workshops created as part of Dublin R
+- [ChrisWaller26/bayesact](https://github.com/ChrisWaller26/bayesact) - A combined frequency-severity model in BRMS which allows for left-censoring at deductibles.
 - [jimbrig/KaaS-New](https://github.com/jimbrig/KaaS-New) - KaaS Obsidian Vault Redo
 - [cdnolan/Connecticut-Insurance-Complaints](https://github.com/cdnolan/Connecticut-Insurance-Complaints) - Analysis of complaints made against insurance companies licensed in Connecticut from January 2018 to October 2021. Google Data Analytics Capstone Project.
 - [SlaveToJavascript/DTB](https://github.com/SlaveToJavascript/DTB) - A fintech solution that serves as the intermediary one-stop platform between SMU tBank and insurance providers that allows customers to browse, compare and purchase insurance products conveniently.
@@ -3156,6 +3159,7 @@
 
 ## Others 
 
+- [fiatjaf/awesome-loginless](https://github.com/fiatjaf/awesome-loginless) - an awesome list of internet services that don't require logins or registrations
 - [scholer/zepto-markdown](https://github.com/scholer/zepto-markdown) - Package for parsing and converting Markdown documents. Features include YAML front-matter extraction, templating, and macros.
 - [sleepymurph/template_markdown_for_printing](https://github.com/sleepymurph/template_markdown_for_printing) - A markdown document with YAML header, for PDF output via Pandoc
 - [rainpole/vmware-stencils](https://github.com/rainpole/vmware-stencils) - VMware Stencils
@@ -4245,6 +4249,7 @@
 
 ## PowerShell 
 
+- [ethanbergstrom/PCSetup](https://github.com/ethanbergstrom/PCSetup) - PowerShell DSC repository for installing various tools on my PC
 - [MikeShepard/VisioBot3000](https://github.com/MikeShepard/VisioBot3000) - Simple Visio Automation from Powershell
 - [microsoft/CloudAdoptionFramework](https://github.com/microsoft/CloudAdoptionFramework) - Code samples and extended documentation to support the guidance provided in the Microsoft Cloud Adoption Framework
 - [pkelly808/Terraform](https://github.com/pkelly808/Terraform) - Terraform Enterprise API Management
@@ -4838,6 +4843,7 @@
 
 ## Python 
 
+- [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [davidangel/DayOne-JSON-to-MD](https://github.com/davidangel/DayOne-JSON-to-MD) - Converts jsons from Day One app to Markdown. Intended for transferring from DayOne to Obsidian but should work with everything else.
 - [cfn-sphere/simple-container-runtime](https://github.com/cfn-sphere/simple-container-runtime) - Just what it is named, an easy way to run docker containers on any kind of instance with respect to production grade requirements!
 - [iayanpahwa/anywheredoor](https://github.com/iayanpahwa/anywheredoor) - Cross Platform E2E encrypted clipboard sharing utility
@@ -5522,6 +5528,8 @@
 
 ## R 
 
+- [tylermorganwall/skpr](https://github.com/tylermorganwall/skpr) - Generates and evaluates D, I, A, Alias, E, T, G, and custom optimal designs. Supports generation and evaluation of mixture and split/split-split/N-split plot designs. Includes parametric and Monte Carlo power evaluation functions. Provides a framework to evaluate power using functions provided in other packages or written by the user.
+- [mlr-org/mlr3filters](https://github.com/mlr-org/mlr3filters) - Filter-based feature selection for mlr3
 - [jaredlander/WorkshopExampleRepo](https://github.com/jaredlander/WorkshopExampleRepo) - 
 - [jaredlander/LearningR](https://github.com/jaredlander/LearningR) - Code to get started with a new RStudio project along with data
 - [john-harrold/onbrand](https://github.com/john-harrold/onbrand) - R package for creating templated reporting workflows in Word and PowerPoint
@@ -5609,7 +5617,6 @@
 - [agi-lab/SPLICE](https://github.com/agi-lab/SPLICE) - An individual claim simulator of Synthetic Paid Loss and Incurred Cost Experience (SPLICE)
 - [EduardoRamosP/MackNet](https://github.com/EduardoRamosP/MackNet) - R package for running MackNet model for paid and incurred loss data.
 - [BiplabKumarGhosh/Prediction-Model](https://github.com/BiplabKumarGhosh/Prediction-Model) - Predicting Cost of Property Loss Incurred by Tornado activity in USA
-- [ChrisWaller26/bayesact](https://github.com/ChrisWaller26/bayesact) - A combined frequency-severity model in BRMS which allows for left-censoring at deductibles.
 - [mkao006/sws_loss](https://github.com/mkao006/sws_loss) - This is the development repository for estimation of loss
 - [cran/lossDev](https://github.com/cran/lossDev) - Robust Loss Development Using MCMC
 - [mhairi/medicalclaims](https://github.com/mhairi/medicalclaims) - Medical Claims Data R Package
@@ -9116,6 +9123,7 @@
 
 ## Svelte 
 
+- [badarsebard/terraforge](https://github.com/badarsebard/terraforge) - Graphical Terraform configuration generator
 - [sw-yx/swyxdotio](https://github.com/sw-yx/swyxdotio) - swyxdotio
 - [soufianesakhi/youtube-playlist-helper](https://github.com/soufianesakhi/youtube-playlist-helper) - YouTube playlist editor and generator
 - [cristianpb/analytics-google](https://github.com/cristianpb/analytics-google) - Google analytics from cristianpb.github.io
@@ -9409,7 +9417,7 @@
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.
 - [jevakallio/git-notify](https://github.com/jevakallio/git-notify) - 🙉 📣 Communicate important updates to your team via git commit messages
 - [JasonEtco/create-an-issue](https://github.com/JasonEtco/create-an-issue) - A GitHub Action for creating a new issue from a template file.
-- [xiaoyang-sde/rocket-booster](https://github.com/xiaoyang-sde/rocket-booster) - 🚀 Lightweight and scalable reverse proxy and load balancing library built for Cloudflare Workers.
+- [xiaoyang-sde/rocket-booster](https://github.com/xiaoyang-sde/rocket-booster) - 🚀 Lightweight and scalable reverse proxy and load balancing library built for Cloudflare Workers
 - [obsidian-userland/publish](https://github.com/obsidian-userland/publish) - Open source Obsidian Publish alternative
 - [skalnik/obsidian-readwise-sync](https://github.com/skalnik/obsidian-readwise-sync) - Sync Readwise Highlights to Obsidian
 - [jplattel/obsidian-query-language](https://github.com/jplattel/obsidian-query-language) - An Obsidian plugin allowing you to query your notes
