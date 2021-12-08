@@ -1616,7 +1616,6 @@
 - [JohnCoene/javascript-for-r](https://github.com/JohnCoene/javascript-for-r) - 📚 JavaScript for R CRC Book
 - [yihui/xran](https://github.com/yihui/xran) - Xie's R Archive Network (experimental and for my personal interest only)
 - [w01fgang/webhook-logger](https://github.com/w01fgang/webhook-logger) - 
-- [znlbwo/gitstars](https://github.com/znlbwo/gitstars) - Github Stars Repositories Manager
 - [louislow81/louislow81.github.io](https://github.com/louislow81/louislow81.github.io) - My personal and portfolio website
 - [ianw/bottomupcs](https://github.com/ianw/bottomupcs) - Bottom Up Computer Science
 - [rust-lang/compiler-team](https://github.com/rust-lang/compiler-team) - A home for compiler team planning documents, meeting minutes, and other such things.
@@ -1897,6 +1896,7 @@
 
 ## Java 
 
+- [lovejjfg/PowerRefresh](https://github.com/lovejjfg/PowerRefresh) - Support nested scroll for refresh and load more.
 - [winston-dsouza/Online-Food-Ordering-System](https://github.com/winston-dsouza/Online-Food-Ordering-System) - Online Food Ordering And Order Retrieval System
 - [aposin/gem](https://github.com/aposin/gem) - Git Environment Manager (GEM)
 - [springdoc/springdoc-openapi](https://github.com/springdoc/springdoc-openapi) - Library for OpenAPI 3 with spring-boot
@@ -1962,6 +1962,9 @@
 
 ## JavaScript 
 
+- [jimbrig/clip2mark](https://github.com/jimbrig/clip2mark) - Easily convert richly formatted text or HTML to Markdown.
+- [btargac/excel-parser-processor](https://github.com/btargac/excel-parser-processor) - Automate Excel downloads in seconds. Simply does the tedious, repetitive operations for all rows of excel files step by step and reports after the job is done. It can download files from URL(s) in a column of Excel files. If a new filename is provided at column B it will rename the file before saving. It will even create sub folders if column C is filled with a valid folder name.
+- [exceljs/exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
 - [smfcoder/Flask-and-React-JS-CURD-operations-using-API-building-MySql-Database](https://github.com/smfcoder/Flask-and-React-JS-CURD-operations-using-API-building-MySql-Database) - Python Flask as a backend service to create API's and the data will be displayed on the frontend using React Js library. As our backend server and frontend is running on different ports so we wil be using the CORS library of flask to make the API accessible on different ports. Notifications in React using React - Toast, React Table V6 for displaying JSON data. CRUD operations using Flask API on the MySql database with the data fetching in frontend.
 - [fossasia/open-event-frontend](https://github.com/fossasia/open-event-frontend) - The frontend for the Open Event API Server https://test.eventyay.com
 - [enthal/temple](https://github.com/enthal/temple) - Static file generation from simple templates, YAML'd content, and markdown — where templates walk a content object graph.
@@ -2508,6 +2511,7 @@
 - [zerosoul/github-star-stats](https://github.com/zerosoul/github-star-stats) - awesome GitHub repo star statistics generator
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks) - 💚 🍴 Show notable forks of GitHub repositories under their names.
+- [znlbwo/gitstars](https://github.com/znlbwo/gitstars) - Github Stars Repositories Manager
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [mozilla/nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
@@ -2949,6 +2953,7 @@
 
 ## Jupyter Notebook 
 
+- [actuarialopensource/validations](https://github.com/actuarialopensource/validations) - hand picked values to test table parsing
 - [goyder/deeplearning-notes](https://github.com/goyder/deeplearning-notes) - Notes from various deep learning courses.
 - [mynl/aggregate](https://github.com/mynl/aggregate) - aggregate distribution tools
 - [lewisfogden/heavymodel](https://github.com/lewisfogden/heavymodel) - Actuarial Heavy Modelling
@@ -4251,6 +4256,7 @@
 
 ## PowerShell 
 
+- [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel) - PowerShell module to import/export Excel spreadsheets, without Excel
 - [ethanbergstrom/PCSetup](https://github.com/ethanbergstrom/PCSetup) - PowerShell DSC repository for installing various tools on my PC
 - [MikeShepard/VisioBot3000](https://github.com/MikeShepard/VisioBot3000) - Simple Visio Automation from Powershell
 - [microsoft/CloudAdoptionFramework](https://github.com/microsoft/CloudAdoptionFramework) - Code samples and extended documentation to support the guidance provided in the Microsoft Cloud Adoption Framework
@@ -4846,6 +4852,10 @@
 
 ## Python 
 
+- [actuarial-tools/axislib](https://github.com/actuarial-tools/axislib) - 
+- [actuarialopensource/FASLR](https://github.com/actuarialopensource/FASLR) - Free Actuarial System for Loss Reserving
+- [pytest-dev/pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes.
+- [pytest-dev/pytest-cov](https://github.com/pytest-dev/pytest-cov) - Coverage plugin for pytest.
 - [inveniosoftware/flask-resources](https://github.com/inveniosoftware/flask-resources) - REST APIs for Flask
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [davidangel/DayOne-JSON-to-MD](https://github.com/davidangel/DayOne-JSON-to-MD) - Converts jsons from Day One app to Markdown. Intended for transferring from DayOne to Obsidian but should work with everything else.
@@ -5532,6 +5542,12 @@
 
 ## R 
 
+- [hdykiel/plumber-demo](https://github.com/hdykiel/plumber-demo) - accompanying files for plumber webinars & demos
+- [sol-eng/uwdashboard](https://github.com/sol-eng/uwdashboard) - Shiny app deployment pipeline
+- [kevinykuo/slate](https://github.com/kevinykuo/slate) - 
+- [kevinykuo/insurance](https://github.com/kevinykuo/insurance) - Tidy datasets for actuarial science and insurance
+- [RonRichman/AI_in_Actuarial_Science](https://github.com/RonRichman/AI_in_Actuarial_Science) - Code accompanying the paper "AI in Actuarial Science"
+- [actuarialopensource/rmort](https://github.com/actuarialopensource/rmort) - 
 - [problemofpoints/casualty-verdicts](https://github.com/problemofpoints/casualty-verdicts) - Scrape data from topverdicts.com
 - [problemofpoints/advanced-reserve-methods](https://github.com/problemofpoints/advanced-reserve-methods) - Examples of bayesian MCMC loss reserving methods
 - [problemofpoints/reservetestr](https://github.com/problemofpoints/reservetestr) - Provides a Framework for Testing Loss Reserve Methods
@@ -5732,7 +5748,6 @@
 - [virtualstaticvoid/heroku-buildpack-r-build2](https://github.com/virtualstaticvoid/heroku-buildpack-r-build2) - Heroku buildpack for R (http://www.r-project.org) Build Automation
 - [virtualstaticvoid/heroku-buildpack-r-examples](https://github.com/virtualstaticvoid/heroku-buildpack-r-examples) - Example applications using the Heroku Buildpack for R
 - [virtualstaticvoid/heroku-shinymanager-app](https://github.com/virtualstaticvoid/heroku-shinymanager-app) - Example project for using shinymanager on Heroku.
-- [jimbrig/actdev](https://github.com/jimbrig/actdev) - What the Package Does (One Line, Title Case)
 - [jimbrig/reserver](https://github.com/jimbrig/reserver) - Actuarial Claims Reserving
 - [mdneuzerling/aphhansard](https://github.com/mdneuzerling/aphhansard) - 
 - [mdneuzerling/neuzr](https://github.com/mdneuzerling/neuzr) - Personal Package of Miscellaneous R Functions
@@ -9705,6 +9720,9 @@
 
 ## Visual Basic 
 
+- [IvanBond/Power-Refresh-VBScript](https://github.com/IvanBond/Power-Refresh-VBScript) - Visual Basic Script Refresher for Excel files with Power Query and PowerPivot model
+- [IvanBond/Power-Refresh](https://github.com/IvanBond/Power-Refresh) - Schedule refresh of any Excel file using open-source scheduler & refresher written on VBA
+- [StatSilk/Excel-Data-Manager](https://github.com/StatSilk/Excel-Data-Manager) - Excel-based Data Manager for automatically importing / merging / consolidating data files with different structures into a unified structure. Especially useful for importing country or other geo-linked data.
 - [mikecel79/DISMGUI](https://github.com/mikecel79/DISMGUI) - DISM GUI is a graphical interface for the DISM command line utility written in the .NET.  DISM GUI allows you to mount and dismount WIMs, manager drivers, features and packages.
 - [CakeRepository/Office-IT-Pro-Deployment-Scripts](https://github.com/CakeRepository/Office-IT-Pro-Deployment-Scripts) - A collection of useful PowerShell scripts to make deploying Office 2016 and Office 365 ProPlus easier for IT Pros and administrators.  If you have any feature requests or ideas for future scripts please add the idea to the issues list in this repository
 - [CakeRepository/Office-InstallHelper](https://github.com/CakeRepository/Office-InstallHelper) - 
