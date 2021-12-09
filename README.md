@@ -1074,6 +1074,7 @@
 
 ## Go 
 
+- [werf/werf](https://github.com/werf/werf) - The CLI tool glueing Git, Docker, Helm and Kubernetes with any CI system to implement CI/CD and Giterminism
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [ueffel/caddy-basic-auth-filter](https://github.com/ueffel/caddy-basic-auth-filter) - Caddy log filter module with a log field filter to extract the user from a basic Authorization HTTP-Header
 - [cycloidio/terracognita](https://github.com/cycloidio/terracognita) - Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
@@ -1677,7 +1678,6 @@
 - [atlemo/SubtlePatterns](https://github.com/atlemo/SubtlePatterns) - All the patterns
 - [gadenbuie/r-colors-css](https://github.com/gadenbuie/r-colors-css) - A utility CSS stylesheet with R's color names
 - [Toniiiio/imageclipr](https://github.com/Toniiiio/imageclipr) - RStudio Addin: Copy Image from Clipboard into RMarkdown .Rmd file
-- [igniterealtime/pade](https://github.com/igniterealtime/pade) - Pàdé (Yoruba word for Meet) is a browser extension (Chrome/Edge) based unified communications desktop client for Openfire.
 - [klugjo/hexo-theme-clean-blog](https://github.com/klugjo/hexo-theme-clean-blog) - Hexo implementation of Clean Blog http://blackrockdigital.github.io/startbootstrap-clean-blog/index.html
 - [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 - [cuttlebelle/cuttlebelle](https://github.com/cuttlebelle/cuttlebelle) - The react static site generator that separates editing and code concerns
@@ -2693,6 +2693,7 @@
 - [o-evin/glacier-console](https://github.com/o-evin/glacier-console) - AWS Glacier Console is a fast cross-platform desktop client for Amazon Glacier.
 - [ZoranGj/organizer](https://github.com/ZoranGj/organizer) - Windows application which combines CefSharp framework and web technologies (AngularJS) to form a simple app for tracking productivity.
 - [SilenceDN/simple-notes](https://github.com/SilenceDN/simple-notes) - Article & Snippet Management For Programer
+- [igniterealtime/pade](https://github.com/igniterealtime/pade) - Pàdé (Yoruba word for Meet) is a browser extension (Chrome/Edge) based unified communications desktop client for Openfire.
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [LekoArts/gatsby-starter-prismic](https://github.com/LekoArts/gatsby-starter-prismic) - A typography-heavy & light-themed Gatsby Starter which uses the Headless CMS Prismic.
 - [TryGhost/gatsby-starter-ghost](https://github.com/TryGhost/gatsby-starter-ghost) - A starter template to build lightning fast websites with Ghost & Gatsby
@@ -2953,6 +2954,7 @@
 
 ## Jupyter Notebook 
 
+- [mii9000/das](https://github.com/mii9000/das) - Diagrams As Code
 - [actuarialopensource/validations](https://github.com/actuarialopensource/validations) - hand picked values to test table parsing
 - [goyder/deeplearning-notes](https://github.com/goyder/deeplearning-notes) - Notes from various deep learning courses.
 - [mynl/aggregate](https://github.com/mynl/aggregate) - aggregate distribution tools
@@ -3166,6 +3168,7 @@
 
 ## Others 
 
+- [awsdocs/amazon-quicksight-user-guide](https://github.com/awsdocs/amazon-quicksight-user-guide) - The open source version of the Amazon Quicksight docs.
 - [fiatjaf/awesome-loginless](https://github.com/fiatjaf/awesome-loginless) - an awesome list of internet services that don't require logins or registrations
 - [scholer/zepto-markdown](https://github.com/scholer/zepto-markdown) - Package for parsing and converting Markdown documents. Features include YAML front-matter extraction, templating, and macros.
 - [sleepymurph/template_markdown_for_printing](https://github.com/sleepymurph/template_markdown_for_printing) - A markdown document with YAML header, for PDF output via Pandoc
@@ -3499,7 +3502,7 @@
 - [dirsigler/git-toolbelt](https://github.com/dirsigler/git-toolbelt) - A suite of useful Git commands that aid with scripting or every day command line usage
 - [dirsigler/private-ip-cloud-sql-db](https://github.com/dirsigler/private-ip-cloud-sql-db) - An example set of terraform files for deploying a Cloud SQL DB with a private IP address only
 - [dirsigler/cloudbuild-optimizer](https://github.com/dirsigler/cloudbuild-optimizer) - Run builds across all machine types in Cloud Build to find the optimal price/performance tradeoff
-- [jobindj/obsidian-mkdocs](https://github.com/jobindj/obsidian-mkdocs) - A Template to Publish Obsidian/Foam Notes on Github Pages (uses MkDocs)
+- [jobindj/obsidian-foam-publish-on-pages](https://github.com/jobindj/obsidian-foam-publish-on-pages) - A Template to Publish Obsidian/Foam Notes on Github Pages (uses MkDocs)
 - [TechPrimers/whats-your-architecture](https://github.com/TechPrimers/whats-your-architecture) - "What's your Architecture?" is a series of architecture and design challenges to voice out the opinions of the TechPrimers community members.
 - [jimsforks/burglr](https://github.com/jimsforks/burglr) - Copy Functions from Other Packages Without Adding Them As Dependencies
 - [cranchange/cran_histories](https://github.com/cranchange/cran_histories) - Recollection of exchanges with CRAN reviewers and maintainer
@@ -8542,6 +8545,7 @@
 
 ## Rust 
 
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A reliable, high-performance tool for building observability data pipelines.
 - [quambene/pigeon-rs](https://github.com/quambene/pigeon-rs) - Command line tool for cheap and efficient email automation written in Rust
 - [Michael-F-Bryan/mdbook-epub](https://github.com/Michael-F-Bryan/mdbook-epub) - An experimental mdbook backend for creating EPUB documents.
 - [Michael-F-Bryan/mdbook-linkcheck](https://github.com/Michael-F-Bryan/mdbook-linkcheck) - A backend for `mdbook` which will check your links for you.
@@ -9259,6 +9263,7 @@
 
 ## TypeScript 
 
+- [cristianvasquez/obsidian-lab](https://github.com/cristianvasquez/obsidian-lab) - 
 - [chetachiezikeuzor/MySnippets-Plugin](https://github.com/chetachiezikeuzor/MySnippets-Plugin) - MySnippets is a plugin that adds a status bar menu allowing the user to quickly manage their snippets within the comfort of their workspace 🖌.
 - [QAMichaelPeng/obsidian-graphviz](https://github.com/QAMichaelPeng/obsidian-graphviz) - Graphviz plugin for obsidian md.
 - [holubj/obsidian-dialogue-plugin](https://github.com/holubj/obsidian-dialogue-plugin) - Dialogue plugin for Obsidian.md
@@ -9477,7 +9482,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [Thinkmill/manypkg](https://github.com/Thinkmill/manypkg) - ☔️ An umbrella for your monorepo
-- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
+- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A GitHub Action for configuring the Google Cloud SDK. The Google Cloud SDK includes both the gcloud and gsutil binaries.
 - [cardinalby/google-api-fetch-token-action](https://github.com/cardinalby/google-api-fetch-token-action) - Call Google Auth API to prevent you refresh token being expired
 - [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry
@@ -9506,7 +9511,7 @@
 - [hasura/data-dictionary](https://github.com/hasura/data-dictionary) - 
 - [codeverland/codever](https://github.com/codeverland/codever) - Bookmarks and Snippets Manager for Developers & Co
 - [agathauy/wikilinks-to-mdlinks-obsidian](https://github.com/agathauy/wikilinks-to-mdlinks-obsidian) - An Obsidian md plugin which allows for the conversion of individually selected wikilinks to markdown links, and vice versa.
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.
 - [toddbluhm/env-cmd](https://github.com/toddbluhm/env-cmd) - Setting environment variables from a file
 - [linyows/github-issues-notice](https://github.com/linyows/github-issues-notice) - :octocat: Notify labeled issues to Slack
 - [peter-evans/create-issue-from-file](https://github.com/peter-evans/create-issue-from-file) - A GitHub action to create an issue using content from a file
