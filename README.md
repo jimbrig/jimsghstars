@@ -1074,7 +1074,7 @@
 
 ## Go 
 
-- [werf/werf](https://github.com/werf/werf) - The CLI tool glueing Git, Docker, Helm and Kubernetes with any CI system to implement CI/CD and Giterminism
+- [werf/werf](https://github.com/werf/werf) - The CLI tool gluing Git, Docker, Helm, and Kubernetes with any CI system to implement CI/CD and Giterminism
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [ueffel/caddy-basic-auth-filter](https://github.com/ueffel/caddy-basic-auth-filter) - Caddy log filter module with a log field filter to extract the user from a basic Authorization HTTP-Header
 - [cycloidio/terracognita](https://github.com/cycloidio/terracognita) - Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
@@ -2662,7 +2662,7 @@
 - [actions/create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
 - [netlify/netlify-cms](https://github.com/netlify/netlify-cms) - A Git-based CMS for Static Site Generators
 - [sintaxi/harp](https://github.com/sintaxi/harp) - Static Site Server/Generator with built-in preprocessing
-- [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue Framework
+- [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue(2) Framework
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [zeke/package-json-to-readme](https://github.com/zeke/package-json-to-readme) - Generate README.md from package.json contents
 - [probot/settings](https://github.com/probot/settings) - Pull Requests for GitHub repository settings
@@ -6883,7 +6883,7 @@
 - [harshitsaini/Business-Analytics-Data-Mining](https://github.com/harshitsaini/Business-Analytics-Data-Mining) - Code Snippets & DataSets for Business Analytics & Data Mining/ Machine Learning Algorithms
 - [tomaztk/List_of_R_packages_for_Data_scientist](https://github.com/tomaztk/List_of_R_packages_for_Data_scientist) - List of useful R packages for data scientists
 - [chicago-joe/Option-Pricing-via-Levy-Models-in-R](https://github.com/chicago-joe/Option-Pricing-via-Levy-Models-in-R) - using the Inverse-Transform method to speed up options pricing simulations in R
-- [m-jahn/SysbioTreemaps](https://github.com/m-jahn/SysbioTreemaps) - Create Voronoi and Sunburst Treemaps from Hierarchical data
+- [m-jahn/WeightedTreemaps](https://github.com/m-jahn/WeightedTreemaps) - Create Voronoi and Sunburst Treemaps from Hierarchical data
 - [StevenMMortimer/salesforcer](https://github.com/StevenMMortimer/salesforcer) - This R package connects the Salesforce APIs from R using tidy principles.
 - [dev-sandarbh/R-Programming-](https://github.com/dev-sandarbh/R-Programming-) - This repo will hold all the basic R Programming tutorials.
 - [inbo/effectclass](https://github.com/inbo/effectclass) - Interpret effects and visualise uncertainty
@@ -8698,7 +8698,6 @@
 
 ## Shell 
 
-- [chrisgrieser/obsidian-theme-design-utilities](https://github.com/chrisgrieser/obsidian-theme-design-utilities) - Some Utilities and Quality-of-Life Features for Designers of Obsidian Themes
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [bats-core/bats-assert](https://github.com/bats-core/bats-assert) - Common assertions for Bats
 - [xebis/repository-template](https://github.com/xebis/repository-template) - Template for highly automated, up-to-date, and well-documented repositories. Covers documentation and license templates, check numerous common problems, Markdown, YAML, Bash, and run tests - all of it before commit, push, and at CI. Releases to GitLab and GitHub using semantic versioning and generating changelog.
@@ -9265,6 +9264,7 @@
 
 - [cristianvasquez/obsidian-lab](https://github.com/cristianvasquez/obsidian-lab) - 
 - [chetachiezikeuzor/MySnippets-Plugin](https://github.com/chetachiezikeuzor/MySnippets-Plugin) - MySnippets is a plugin that adds a status bar menu allowing the user to quickly manage their snippets within the comfort of their workspace 🖌.
+- [chrisgrieser/obsidian-theme-design-utilities](https://github.com/chrisgrieser/obsidian-theme-design-utilities) - Some Utilities and Quality-of-Life Features for Designers of Obsidian Themes
 - [QAMichaelPeng/obsidian-graphviz](https://github.com/QAMichaelPeng/obsidian-graphviz) - Graphviz plugin for obsidian md.
 - [holubj/obsidian-dialogue-plugin](https://github.com/holubj/obsidian-dialogue-plugin) - Dialogue plugin for Obsidian.md
 - [Eureka-Shoulders/fetchx](https://github.com/Eureka-Shoulders/fetchx) - Beautiful way to fetch data in React
@@ -9399,7 +9399,7 @@
 - [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 - [HEmile/juggl](https://github.com/HEmile/juggl) - An interactive, stylable and expandable graph view for Obsidian. Juggl is designed as an advanced 'local' graph view, where you can juggle all your thoughts with ease.
 - [martin-jw/obsidian-recall](https://github.com/martin-jw/obsidian-recall) - A spaced repetition system for Obsidian!
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 - [garrylachman/ElectroCRUD](https://github.com/garrylachman/ElectroCRUD) - Database CRUD Application Built on Electron | MySQL, Postgres, SQLite
 - [gajus/slonik](https://github.com/gajus/slonik) - A PostgreSQL client with strict types, detailed logging and assertions.
