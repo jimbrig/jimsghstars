@@ -241,7 +241,7 @@
 
 ## C 
 
-- [z-shell/zinit](https://github.com/z-shell/zinit) - Please visit https://github.com/z-shell/zi to upgrade. As Zinit and Zplugin are no longer supported.
+- [z-shell/zinit](https://github.com/z-shell/zinit) - Please visit https://github.com/z-shell/zi. As this repository is no longer supported.
 - [jimhester/r-actions-test](https://github.com/jimhester/r-actions-test) - https://jimhester.github.io/r-actions-test/
 - [Enchufa2/r-flexiblas](https://github.com/Enchufa2/r-flexiblas) - FlexiBLAS API Interface for R
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
@@ -928,6 +928,7 @@
 
 ## Common Workflow Language 
 
+- [sbg/tidycwl](https://github.com/sbg/tidycwl) - Tidy Common Workflow Language Tools and Workflows
 - [common-workflow-language/common-workflow-language](https://github.com/common-workflow-language/common-workflow-language) - Repository for the CWL standards. Use https://cwl.discourse.group/ for support 😊
 
 ## Crystal 
@@ -1074,6 +1075,7 @@
 
 ## Go 
 
+- [davemachado/public-api](https://github.com/davemachado/public-api) - Public API for the public-apis Github project
 - [werf/werf](https://github.com/werf/werf) - The CLI tool gluing Git, Docker, Helm, and Kubernetes with any CI system to implement CI/CD and Giterminism
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [ueffel/caddy-basic-auth-filter](https://github.com/ueffel/caddy-basic-auth-filter) - Caddy log filter module with a log field filter to extract the user from a basic Authorization HTTP-Header
@@ -1425,7 +1427,6 @@
 - [IndrajeetPatil/awesome-r-pkgtools](https://github.com/IndrajeetPatil/awesome-r-pkgtools) - A curated list of awesome resources for R package development
 - [berlotto/flask-app-template](https://github.com/berlotto/flask-app-template) - An complete Flask application template, with useful plugins.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
-- [ropensci-org/rotemplate](https://github.com/ropensci-org/rotemplate) - pkgdown template for rOpenSci packages :nail_care: :sparkles:
 - [corpsgeek/flask-form-handling](https://github.com/corpsgeek/flask-form-handling) - 
 - [imzjy/MyDiffTool](https://github.com/imzjy/MyDiffTool) - The missing comparing text tool for Mac, Windows and Linux.
 - [JSchelldorfer/DeepLearningWithActuarialApplications](https://github.com/JSchelldorfer/DeepLearningWithActuarialApplications) - Material for the 2-day block course "Deep Learning with Actuarial Applications in R"
@@ -3457,7 +3458,6 @@
 - [cmpute/awesome-uwp-apps](https://github.com/cmpute/awesome-uwp-apps) - A list about open-sourced repositories of Win 10 (UWP) Applications in Github | In store or off store
 - [futurice/windows-app-development-best-practices](https://github.com/futurice/windows-app-development-best-practices) - A collection of best practices for Windows App and C# developers
 - [BiltuDas1/RepackInstalledWindows](https://github.com/BiltuDas1/RepackInstalledWindows) - This Package Will Help you to Repack your Current Operating System into an install.wim file
-- [builtbybel/sharpapp](https://github.com/builtbybel/sharpapp) - 💩⭐️🚀A #app with cutting edge technology to #minimize windows-10 telemetry and #maximize privacy plus many more
 - [builtbybel/CloneApp](https://github.com/builtbybel/CloneApp) - 📦Easily Backup & Restore Windows Programs Settings
 - [MajorGeek/MajorGeeks-Windows-Tweaks](https://github.com/MajorGeek/MajorGeeks-Windows-Tweaks) - MajorGeeks Windows Tweaks contains well over 200  registry, PowerShell, Visual Basic, and batch files to enable tweaks and hidden features in Windows 10, 8, and 7 for any skill level.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -5545,6 +5545,7 @@
 
 ## R 
 
+- [dreamRs/toastui](https://github.com/dreamRs/toastui) - R htmlwidgets for ToastUI libraries: grid, calendar and chart
 - [hdykiel/plumber-demo](https://github.com/hdykiel/plumber-demo) - accompanying files for plumber webinars & demos
 - [sol-eng/uwdashboard](https://github.com/sol-eng/uwdashboard) - Shiny app deployment pipeline
 - [kevinykuo/slate](https://github.com/kevinykuo/slate) - 
@@ -5766,6 +5767,7 @@
 - [cloudyr/AzureVMmetadata](https://github.com/cloudyr/AzureVMmetadata) - R interface to VM instance metadata. Submit issues and PRs at https://github.com/Azure/AzureVMmetadata.
 - [cloudyr/AzureVM](https://github.com/cloudyr/AzureVM) - Manage virtual machines in Azure. Submit issues and PRs at https://github.com/Azure/AzureVM
 - [cloudyr/aws.lambda](https://github.com/cloudyr/aws.lambda) - AWS Lambda Client Package
+- [ropensci-org/rotemplate](https://github.com/ropensci-org/rotemplate) - pkgdown template for rOpenSci packages :nail_care: :sparkles:
 - [ropensci/rgbif](https://github.com/ropensci/rgbif) - Interface to the Global Biodiversity Information Facility API
 - [anudeep-reddy/Problem1](https://github.com/anudeep-reddy/Problem1) - Problem 1: Building a Shiny App around the UDPipe NLP workflow
 - [RichardHooijmaijers/nlmixr.docker](https://github.com/RichardHooijmaijers/nlmixr.docker) - docker for nlmixr
@@ -6349,7 +6351,6 @@
 - [ranikay/shiny-reticulate-app](https://github.com/ranikay/shiny-reticulate-app) - An end-to-end tutorial creating an R Shiny app that uses the reticulate package with Python 3
 - [RealityBending/TemplateResults](https://github.com/RealityBending/TemplateResults) - A template for a data analysis folder that can be easily exported as a webpage or as Supplementary Materials
 - [pereira94/redditsuite](https://github.com/pereira94/redditsuite) - 
-- [sbg/tidycwl](https://github.com/sbg/tidycwl) - Tidy Common Workflow Language Tools and Workflows
 - [sbg/biocompute](https://github.com/sbg/biocompute) - Create and Manipulate BioCompute Objects
 - [datasketch/dsmodules](https://github.com/datasketch/dsmodules) - 
 - [datasketch/hgchmagic](https://github.com/datasketch/hgchmagic) - 
@@ -8467,6 +8468,7 @@
 
 ## Ruby 
 
+- [edavidaja/homebrew-rstudio-pro](https://github.com/edavidaja/homebrew-rstudio-pro) - 
 - [dtan4/dockerfile-terraforming](https://github.com/dtan4/dockerfile-terraforming) - Docker Image for Terraforming
 - [dtan4/terraforming](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate)
 - [athityakumar/colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
@@ -9262,6 +9264,7 @@
 
 ## TypeScript 
 
+- [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [cristianvasquez/obsidian-lab](https://github.com/cristianvasquez/obsidian-lab) - 
 - [chetachiezikeuzor/MySnippets-Plugin](https://github.com/chetachiezikeuzor/MySnippets-Plugin) - MySnippets is a plugin that adds a status bar menu allowing the user to quickly manage their snippets within the comfort of their workspace 🖌.
 - [chrisgrieser/obsidian-theme-design-utilities](https://github.com/chrisgrieser/obsidian-theme-design-utilities) - Some Utilities and Quality-of-Life Features for Designers of Obsidian Themes
