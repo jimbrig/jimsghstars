@@ -1391,6 +1391,7 @@
 
 ## HTML 
 
+- [jhelvy/jhelvy.com](https://github.com/jhelvy/jhelvy.com) - Source files for my personal website, built using the {distill} R package and deployed with netlify
 - [problemofpoints/noncat-modeling](https://github.com/problemofpoints/noncat-modeling) - Sample non-cat exposure model and simulation calculations
 - [nhs-r-community/Conference_2020](https://github.com/nhs-r-community/Conference_2020) - This repository holds the content for the NHS-R Community conference, November 2020.  Plenary session and lightning talk material will be shared in the relevant folders, and workshop details are below
 - [samarth-p/College-ERP](https://github.com/samarth-p/College-ERP) - A college management system built using Django framework. It is designed for interactions between students and teachers. Features include attendance, marks and time table.
@@ -1963,6 +1964,7 @@
 
 ## JavaScript 
 
+- [zugo01/FAIRTool](https://github.com/zugo01/FAIRTool) - Factor Analysis of Information Risk (FAIR) tool developed in R
 - [jimbrig/clip2mark](https://github.com/jimbrig/clip2mark) - Easily convert richly formatted text or HTML to Markdown.
 - [btargac/excel-parser-processor](https://github.com/btargac/excel-parser-processor) - Automate Excel downloads in seconds. Simply does the tedious, repetitive operations for all rows of excel files step by step and reports after the job is done. It can download files from URL(s) in a column of Excel files. If a new filename is provided at column B it will rename the file before saving. It will even create sub folders if column C is filled with a valid folder name.
 - [exceljs/exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
@@ -3440,7 +3442,7 @@
 - [Zer0CoolX/proxmox-windows-slipstream-virtio-drivers](https://github.com/Zer0CoolX/proxmox-windows-slipstream-virtio-drivers) - Step-by-step guide to slipstream VirtIO drivers into Windows ISO's for use in Proxmox VE
 - [RogueScholar/woeusb-legacy](https://github.com/RogueScholar/woeusb-legacy) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 - [SchmidtPaul/RMarkdownMSWordTemplate](https://github.com/SchmidtPaul/RMarkdownMSWordTemplate) - 
-- [e-sence/keyboard-shortcuts](https://github.com/e-sence/keyboard-shortcuts) - Popular applications keyboard combinations
+- [christiansmith812/keyboard-shortcuts](https://github.com/christiansmith812/keyboard-shortcuts) - Popular applications keyboard combinations
 - [jdtrat/shinyreport](https://github.com/jdtrat/shinyreport) - 
 - [jimbrig/universe](https://github.com/jimbrig/universe) - 
 - [byteben/OSDBuilder](https://github.com/byteben/OSDBuilder) - PowerShell Module
@@ -3731,7 +3733,7 @@
 - [genedan/actuarial-foss](https://github.com/genedan/actuarial-foss) - A curated list of free and open source actuarial software
 - [DenverCoder1/DenverCoder1](https://github.com/DenverCoder1/DenverCoder1) - Jonah Lawrence's Profile README
 - [jimbrig/jimbrig](https://github.com/jimbrig/jimbrig) - Github Homepage
-- [kissgyorgy/my-stars](https://github.com/kissgyorgy/my-stars) - My GitHub starred repositories
+- [kissgyorgy/my-stars](https://github.com/kissgyorgy/my-stars) - My GitHub starred repositories, auto-generated every week
 - [chinanf-boy/awesome-stars](https://github.com/chinanf-boy/awesome-stars) - A curated list of my GitHub stars!
 - [1132719438/Stars](https://github.com/1132719438/Stars) - A curated list of my GitHub stars!
 - [angristan/awesome-stars](https://github.com/angristan/awesome-stars) - A curated list of my GitHub stars!
@@ -3934,7 +3936,7 @@
 - [inputsh/awesome-linux](https://github.com/inputsh/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
 - [xgrommx/awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) - Yet another resource for collecting articles, videos etc. regarding functional programming
 - [gostor/awesome-go-storage](https://github.com/gostor/awesome-go-storage) - A curated list of awesome Go storage projects and libraries
-- [fasouto/awesome-dataviz](https://github.com/fasouto/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
+- [javierluraschi/awesome-dataviz](https://github.com/javierluraschi/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
 - [lauragift21/awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources) - 🔥 Awesome list of resources on Web Development.
 - [sirredbeard/Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux
 - [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links.
@@ -5545,6 +5547,7 @@
 
 ## R 
 
+- [ThinkR-open/bank](https://github.com/ThinkR-open/bank) - Alternative caching backends for `{memoise}` & `{shiny}`.
 - [dreamRs/toastui](https://github.com/dreamRs/toastui) - R htmlwidgets for ToastUI libraries: grid, calendar and chart
 - [hdykiel/plumber-demo](https://github.com/hdykiel/plumber-demo) - accompanying files for plumber webinars & demos
 - [sol-eng/uwdashboard](https://github.com/sol-eng/uwdashboard) - Shiny app deployment pipeline
@@ -8470,7 +8473,7 @@
 
 - [edavidaja/homebrew-rstudio-pro](https://github.com/edavidaja/homebrew-rstudio-pro) - 
 - [dtan4/dockerfile-terraforming](https://github.com/dtan4/dockerfile-terraforming) - Docker Image for Terraforming
-- [dtan4/terraforming](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate)
+- [dtan4/terraforming](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate) / No longer actively maintained
 - [athityakumar/colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
 - [nvie/homebrew-tap](https://github.com/nvie/homebrew-tap) - Personal taps for Homebrew
 - [m1foley/fit-commit](https://github.com/m1foley/fit-commit) - A Git hook to validate your commit messages based on community standards.
@@ -9600,7 +9603,7 @@
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Technical documentation that just works
 - [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes) - Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization options.
 - [atolye15/checklist](https://github.com/atolye15/checklist) - The protocols we follow for the things we cannot automate yet! ✅
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2021
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [nandor-poka/jupyterlab-bookmarks-extension](https://github.com/nandor-poka/jupyterlab-bookmarks-extension) - JupyterLab Favorites extension for JupyterLab 2.0+. Provides Launcher icons for favorite / bookmarked files.
 - [Abhith/angular-favorites](https://github.com/Abhith/angular-favorites) - My favorite angular resources
