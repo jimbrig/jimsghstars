@@ -1324,6 +1324,7 @@
 - [icecrime/poule](https://github.com/icecrime/poule) - :chicken: A framework for GitHub automation
 - [pengwynn/flint](https://github.com/pengwynn/flint) - Check your project for common sources of contributor friction.
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- [igniterealtime/pade](https://github.com/igniterealtime/pade) - Pàdé (Yoruba word for Meet) is a browser extension (Chrome/Edge) based unified communications desktop client for Openfire.
 - [tj/staticgen](https://github.com/tj/staticgen) - Static website generator that lets you use HTTP servers and frameworks you already know
 - [piranha/gostatic](https://github.com/piranha/gostatic) - Fast static site generator
 - [InkProject/ink](https://github.com/InkProject/ink) - An elegant static blog generator
@@ -1428,6 +1429,7 @@
 - [IndrajeetPatil/awesome-r-pkgtools](https://github.com/IndrajeetPatil/awesome-r-pkgtools) - A curated list of awesome resources for R package development
 - [berlotto/flask-app-template](https://github.com/berlotto/flask-app-template) - An complete Flask application template, with useful plugins.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
+- [ropensci-org/rotemplate](https://github.com/ropensci-org/rotemplate) - pkgdown template for rOpenSci packages :nail_care: :sparkles:
 - [corpsgeek/flask-form-handling](https://github.com/corpsgeek/flask-form-handling) - 
 - [imzjy/MyDiffTool](https://github.com/imzjy/MyDiffTool) - The missing comparing text tool for Mac, Windows and Linux.
 - [JSchelldorfer/DeepLearningWithActuarialApplications](https://github.com/JSchelldorfer/DeepLearningWithActuarialApplications) - Material for the 2-day block course "Deep Learning with Actuarial Applications in R"
@@ -2696,7 +2698,6 @@
 - [o-evin/glacier-console](https://github.com/o-evin/glacier-console) - AWS Glacier Console is a fast cross-platform desktop client for Amazon Glacier.
 - [ZoranGj/organizer](https://github.com/ZoranGj/organizer) - Windows application which combines CefSharp framework and web technologies (AngularJS) to form a simple app for tracking productivity.
 - [SilenceDN/simple-notes](https://github.com/SilenceDN/simple-notes) - Article & Snippet Management For Programer
-- [igniterealtime/pade](https://github.com/igniterealtime/pade) - Pàdé (Yoruba word for Meet) is a browser extension (Chrome/Edge) based unified communications desktop client for Openfire.
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [LekoArts/gatsby-starter-prismic](https://github.com/LekoArts/gatsby-starter-prismic) - A typography-heavy & light-themed Gatsby Starter which uses the Headless CMS Prismic.
 - [TryGhost/gatsby-starter-ghost](https://github.com/TryGhost/gatsby-starter-ghost) - A starter template to build lightning fast websites with Ghost & Gatsby
@@ -5770,7 +5771,6 @@
 - [cloudyr/AzureVMmetadata](https://github.com/cloudyr/AzureVMmetadata) - R interface to VM instance metadata. Submit issues and PRs at https://github.com/Azure/AzureVMmetadata.
 - [cloudyr/AzureVM](https://github.com/cloudyr/AzureVM) - Manage virtual machines in Azure. Submit issues and PRs at https://github.com/Azure/AzureVM
 - [cloudyr/aws.lambda](https://github.com/cloudyr/aws.lambda) - AWS Lambda Client Package
-- [ropensci-org/rotemplate](https://github.com/ropensci-org/rotemplate) - pkgdown template for rOpenSci packages :nail_care: :sparkles:
 - [ropensci/rgbif](https://github.com/ropensci/rgbif) - Interface to the Global Biodiversity Information Facility API
 - [anudeep-reddy/Problem1](https://github.com/anudeep-reddy/Problem1) - Problem 1: Building a Shiny App around the UDPipe NLP workflow
 - [RichardHooijmaijers/nlmixr.docker](https://github.com/RichardHooijmaijers/nlmixr.docker) - docker for nlmixr
@@ -6987,7 +6987,7 @@
 - [mkearney/attrbl](https://github.com/mkearney/attrbl) - A tidy approach to attributes
 - [ellisvalentiner/lubridateExtras](https://github.com/ellisvalentiner/lubridateExtras) - Convenience Functions for Manipulating Datetimes
 - [juliasilge/tidytext](https://github.com/juliasilge/tidytext) - Text mining using tidy tools :sparkles::page_facing_up::sparkles:
-- [tidyverse/tidyr](https://github.com/tidyverse/tidyr) - Easily tidy data with spread and gather functions.
+- [tidyverse/tidyr](https://github.com/tidyverse/tidyr) - Tidy Messy Data
 - [cc-skuehn/Demo_Dashboard](https://github.com/cc-skuehn/Demo_Dashboard) - Interactive Dashboard in R using flexdashboard, shiny and plotly
 - [pablobernabeu/Data-is-present](https://github.com/pablobernabeu/Data-is-present) - This project offered free activities to practise reproducible data presentation. Pablo Bernabeu organised these events in the context of a Software Sustainability Institute Fellowship.
 - [empirical-path/rshiny-ga-article-attribution-dashboard](https://github.com/empirical-path/rshiny-ga-article-attribution-dashboard) - Source code for R Shiny Dashboard
@@ -8703,6 +8703,7 @@
 
 ## Shell 
 
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [bats-core/bats-assert](https://github.com/bats-core/bats-assert) - Common assertions for Bats
 - [xebis/repository-template](https://github.com/xebis/repository-template) - Template for highly automated, up-to-date, and well-documented repositories. Covers documentation and license templates, check numerous common problems, Markdown, YAML, Bash, and run tests - all of it before commit, push, and at CI. Releases to GitLab and GitHub using semantic versioning and generating changelog.
@@ -9679,6 +9680,7 @@
 
 ## Vim script 
 
+- [jakewies/.dotfiles](https://github.com/jakewies/.dotfiles) - My portable development environment
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [jalvesaq/Nvim-R](https://github.com/jalvesaq/Nvim-R) - Vim plugin to work with R
 - [anstosa/dotfiles](https://github.com/anstosa/dotfiles) - My linux configs
