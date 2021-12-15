@@ -1075,6 +1075,7 @@
 
 ## Go 
 
+- [minitauros/swagen](https://github.com/minitauros/swagen) - Generate Swagger/OpenAPI YAML from a MySQL database schema
 - [davemachado/public-api](https://github.com/davemachado/public-api) - Public API for the public-apis Github project
 - [werf/werf](https://github.com/werf/werf) - The CLI tool gluing Git, Docker, Helm, and Kubernetes with any CI system to implement CI/CD and Giterminism
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
@@ -1357,6 +1358,7 @@
 
 ## HCL 
 
+- [trussworks/terraform-aws-config](https://github.com/trussworks/terraform-aws-config) - Enables AWS Config and adds managed config rules with good defaults.
 - [ned1313/terraform-tuesdays](https://github.com/ned1313/terraform-tuesdays) - Demo files for various Terraform Tuesday Examples
 - [ned1313/ado-labs-github-actions](https://github.com/ned1313/ado-labs-github-actions) - Demo files for the Azure DevOps Labs episode about GitHub Actions and Terraform
 - [ned1313/Deep-Dive-Terraform](https://github.com/ned1313/Deep-Dive-Terraform) - Exercise files for my Pluralsight course.
@@ -1392,6 +1394,7 @@
 
 ## HTML 
 
+- [sanjan/flask_swagger](https://github.com/sanjan/flask_swagger) - Boilerplate to build a flask API with swagger ui documentation
 - [jhelvy/jhelvy.com](https://github.com/jhelvy/jhelvy.com) - Source files for my personal website, built using the {distill} R package and deployed with netlify
 - [problemofpoints/noncat-modeling](https://github.com/problemofpoints/noncat-modeling) - Sample non-cat exposure model and simulation calculations
 - [nhs-r-community/Conference_2020](https://github.com/nhs-r-community/Conference_2020) - This repository holds the content for the NHS-R Community conference, November 2020.  Plenary session and lightning talk material will be shared in the relevant folders, and workshop details are below
@@ -1966,6 +1969,8 @@
 
 ## JavaScript 
 
+- [dcarr178/har2openapi](https://github.com/dcarr178/har2openapi) - Generate openapi spec api documentation from captured har files
+- [martinv13/node-shiny-proxy](https://github.com/martinv13/node-shiny-proxy) - R Shiny apps deployment made simple
 - [zugo01/FAIRTool](https://github.com/zugo01/FAIRTool) - Factor Analysis of Information Risk (FAIR) tool developed in R
 - [jimbrig/clip2mark](https://github.com/jimbrig/clip2mark) - Easily convert richly formatted text or HTML to Markdown.
 - [btargac/excel-parser-processor](https://github.com/btargac/excel-parser-processor) - Automate Excel downloads in seconds. Simply does the tedious, repetitive operations for all rows of excel files step by step and reports after the job is done. It can download files from URL(s) in a column of Excel files. If a new filename is provided at column B it will rename the file before saving. It will even create sub folders if column C is filled with a valid folder name.
@@ -2010,7 +2015,6 @@
 - [shovel-org/GithubActions](https://github.com/shovel-org/GithubActions) - GitHub actions for Shovel bucket automation.
 - [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
 - [SkepticMystic/breadcrumbs](https://github.com/SkepticMystic/breadcrumbs) - Visualise a custom hierarchy in your Obsidian vault
-- [IndrajeetPatil/actions](https://github.com/IndrajeetPatil/actions) - GitHub Actions for the R community
 - [alexjv89/echoalex_com](https://github.com/alexjv89/echoalex_com) - Source code for echoalex.com
 - [switchless-io/docs](https://github.com/switchless-io/docs) - 
 - [alexjv89/markdown-it-obsidian](https://github.com/alexjv89/markdown-it-obsidian) - Convert obsidian wiki links to markdown links
@@ -3274,7 +3278,7 @@
 - [ChristopherBiscardi/dotfiles](https://github.com/ChristopherBiscardi/dotfiles) - dotfiles yo
 - [jimscratch/windows-dev-box-setup-scripts](https://github.com/jimscratch/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
 - [jimbrig/developerfolio](https://github.com/jimbrig/developerfolio) - Devfolio
-- [DopplerUniversity/app-config-templates](https://github.com/DopplerUniversity/app-config-templates) - Set up applications in Doppler using app configuration templates
+- [DopplerUniversity/doppler-app-templates](https://github.com/DopplerUniversity/doppler-app-templates) - Set up applications in Doppler using app configuration templates
 - [puncsky/system-design-and-architecture](https://github.com/puncsky/system-design-and-architecture) - Learn how to design large-scale systems. Prep for the system design interview.
 - [alec42/AirBNB-Data-Visualizer](https://github.com/alec42/AirBNB-Data-Visualizer) - An interactive R Shiny app that allows full visualization of open AirBNB Data. The tool enables easy geographical, univariate and bivariate data exploration of the AirBNB data for every available city.
 - [kasaai/references](https://github.com/kasaai/references) - Papers, blogs, and other fun stuff.
@@ -3766,7 +3770,7 @@
 - [siddhujetty/A-Collection-of-Data-Science-Take-Home-Challenges](https://github.com/siddhujetty/A-Collection-of-Data-Science-Take-Home-Challenges) - My Solutions to  "A Collection of Data Science Take-Home Challenges" by Giulio Palombo.
 - [Joe-Rstats/Books](https://github.com/Joe-Rstats/Books) - R & Stats Books and Websites that I think are good.
 - [harryprince/awesome-sparklyr](https://github.com/harryprince/awesome-sparklyr) - An awesome sparklyr related package collection
-- [dailydotdev/daily](https://github.com/dailydotdev/daily) - The home page every developer deserves 👩🏽‍💻
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - Building the homepage every developer deserves 👩🏽‍💻 👨‍💻
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [courtiol/Rguides](https://github.com/courtiol/Rguides) - Alternative cheat sheets for R
 - [datasnakes/awesome-reproducible-R](https://github.com/datasnakes/awesome-reproducible-R) - An awesome list of resources for reproducible research in R.  Includes a table of comparison for different tools.
@@ -4180,6 +4184,8 @@
 
 ## PHP 
 
+- [cebe/yii2-app-api](https://github.com/cebe/yii2-app-api) - OpenAPI Spec to API in 3, 2, 1... done!
+- [ybelenko/openapi-data-mocker](https://github.com/ybelenko/openapi-data-mocker) - Library that generates fake data from OpenAPI 3.0 Spec
 - [shah-deep/Insurance-Management-System](https://github.com/shah-deep/Insurance-Management-System) - Database Management System for an Insurance Company. Made in PHP.
 - [PuneethReddyHC/event-management](https://github.com/PuneethReddyHC/event-management) - helps to register an users for on events conducted in college fests with simple logic with secured way
 - [PuneethReddyHC/online-shopping-system-advanced](https://github.com/PuneethReddyHC/online-shopping-system-advanced) - Demo site
@@ -4262,6 +4268,7 @@
 
 ## PowerShell 
 
+- [Azure/PSRule.Rules.Azure](https://github.com/Azure/PSRule.Rules.Azure) - Rules to validate Azure resources and infrastructure as code (IaC) using PSRule.
 - [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel) - PowerShell module to import/export Excel spreadsheets, without Excel
 - [ethanbergstrom/PCSetup](https://github.com/ethanbergstrom/PCSetup) - PowerShell DSC repository for installing various tools on my PC
 - [MikeShepard/VisioBot3000](https://github.com/MikeShepard/VisioBot3000) - Simple Visio Automation from Powershell
@@ -4858,6 +4865,11 @@
 
 ## Python 
 
+- [hakopako/openapi-cli-tool](https://github.com/hakopako/openapi-cli-tool) - OpenAPI (Swagger 3.x) CLI Tool. Supports multiple file extensions. Can list up defined API paths and bundle multi-file into one.
+- [tfranzel/drf-spectacular](https://github.com/tfranzel/drf-spectacular) - Sane and flexible OpenAPI 3 schema generation for Django REST framework.
+- [openapi-generators/openapi-python-client](https://github.com/openapi-generators/openapi-python-client) - Generate modern Python clients from OpenAPI
+- [getsling/flask-swagger](https://github.com/getsling/flask-swagger) - A swagger 2.0 spec extractor for flask
+- [flasgger/flasgger](https://github.com/flasgger/flasgger) - Easy OpenAPI specs and Swagger UI for your Flask API
 - [actuarial-tools/axislib](https://github.com/actuarial-tools/axislib) - 
 - [actuarialopensource/FASLR](https://github.com/actuarialopensource/FASLR) - Free Actuarial System for Loss Reserving
 - [pytest-dev/pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes.
@@ -5548,6 +5560,12 @@
 
 ## R 
 
+- [bergant/trafficaccidents](https://github.com/bergant/trafficaccidents) - Traffic Accidents Data
+- [bergant/rapiclient](https://github.com/bergant/rapiclient) - Dynamic Open API (Swagger) Client for R
+- [davidruvolo51/pkgbump](https://github.com/davidruvolo51/pkgbump) - 📦 A quick and dirty way to manage and update an R package's version number across multiple files.
+- [davidruvolo51/shiny-webpack-template](https://github.com/davidruvolo51/shiny-webpack-template) - An example setup for Shiny applications that use Webpack
+- [martinv13/shiny-futures](https://github.com/martinv13/shiny-futures) - A Shiny app to work with future contracts data
+- [gaborcsardi/dotenv](https://github.com/gaborcsardi/dotenv) - Load environment variables from .env in R
 - [ThinkR-open/bank](https://github.com/ThinkR-open/bank) - Alternative caching backends for `{memoise}` & `{shiny}`.
 - [dreamRs/toastui](https://github.com/dreamRs/toastui) - R htmlwidgets for ToastUI libraries: grid, calendar and chart
 - [hdykiel/plumber-demo](https://github.com/hdykiel/plumber-demo) - accompanying files for plumber webinars & demos
@@ -5615,7 +5633,6 @@
 - [kotamine/excel_shiny](https://github.com/kotamine/excel_shiny) - Tutorial for converting Excel tools into R-Shiny apps
 - [smehta09/milieu](https://github.com/smehta09/milieu) - Interested concepts working in R and excel
 - [nimblelearn/datapackage-m](https://github.com/nimblelearn/datapackage-m) - Power Query M functions for working with Tabular Data Packages (Frictionless Data) in Power BI and Excel
-- [andreas-ochs/docker_shiny_mssql](https://github.com/andreas-ochs/docker_shiny_mssql) - This repo holds the relevant Docker, R and SQL scripts needed to reproduce my tutorial on Dockerizing R/Shiny and MS SQL Server
 - [benjaminguinaudeau/dockeR](https://github.com/benjaminguinaudeau/dockeR) - Manage docker containers from R
 - [cboettig/debug-windows](https://github.com/cboettig/debug-windows) - 
 - [palderman/DSSAT](https://github.com/palderman/DSSAT) - 
@@ -9268,6 +9285,8 @@
 
 ## TypeScript 
 
+- [lucarducci/skaffolder-vscode-extension](https://github.com/lucarducci/skaffolder-vscode-extension) - This VsCode extension allows to generate a working web app starting from OpenAPI 3.0 specs, defining database models and APIs on VsCode or from the Skaffolder web interface
+- [OpenAPITools/openapi-generator-cli](https://github.com/OpenAPITools/openapi-generator-cli) - A node package wrapper for https://github.com/OpenAPITools/openapi-generator
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [cristianvasquez/obsidian-lab](https://github.com/cristianvasquez/obsidian-lab) - 
 - [chetachiezikeuzor/MySnippets-Plugin](https://github.com/chetachiezikeuzor/MySnippets-Plugin) - MySnippets is a plugin that adds a status bar menu allowing the user to quickly manage their snippets within the comfort of their workspace 🖌.
@@ -9680,6 +9699,7 @@
 
 ## Vim script 
 
+- [GitSquared/dotfiles](https://github.com/GitSquared/dotfiles) - My personal dotfiles storage. Feel free to steal my vimrc!
 - [jakewies/.dotfiles](https://github.com/jakewies/.dotfiles) - My portable development environment
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [jalvesaq/Nvim-R](https://github.com/jalvesaq/Nvim-R) - Vim plugin to work with R
