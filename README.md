@@ -1924,7 +1924,6 @@
 - [swagger-api/swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [GoogleCloudPlatform/bigquery-utils](https://github.com/GoogleCloudPlatform/bigquery-utils) - Useful scripts, udfs, views, and other utilities for migration and data warehouse operations in BigQuery.
-- [GoogleCloudPlatform/cloud-code-custom-samples-example](https://github.com/GoogleCloudPlatform/cloud-code-custom-samples-example) - 
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
 - [react-native-svg/react-native-svg](https://github.com/react-native-svg/react-native-svg) - SVG library for React Native, React Native Web, and plain React web projects.
@@ -1969,6 +1968,11 @@
 
 ## JavaScript 
 
+- [jspruance/aws-cognito-tutorial-complete](https://github.com/jspruance/aws-cognito-tutorial-complete) - 
+- [jspruance/hexal-lambda-functions](https://github.com/jspruance/hexal-lambda-functions) - Lambda functions for the AWS Serverless tutorial
+- [jspruance/hexal-serverless-starter](https://github.com/jspruance/hexal-serverless-starter) - Hexal Energy starter app for 'Create a serverless app' tutorial.
+- [jspruance/cloudpath-tutorials](https://github.com/jspruance/cloudpath-tutorials) - Source code for Cloud Path tutorials
+- [swaggerql/swaggerql](https://github.com/swaggerql/swaggerql) - Easily and simply convert SQL database into a REST API with Swagger documentation
 - [dcarr178/har2openapi](https://github.com/dcarr178/har2openapi) - Generate openapi spec api documentation from captured har files
 - [martinv13/node-shiny-proxy](https://github.com/martinv13/node-shiny-proxy) - R Shiny apps deployment made simple
 - [zugo01/FAIRTool](https://github.com/zugo01/FAIRTool) - Factor Analysis of Information Risk (FAIR) tool developed in R
@@ -2214,6 +2218,7 @@
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [taher07/dockerized-react-native](https://github.com/taher07/dockerized-react-native) - This repo contains the files required for building a docker container to build an expo managed react native app
 - [microsoft/datamations](https://github.com/microsoft/datamations) - 
+- [GoogleCloudPlatform/cloud-code-custom-samples-example](https://github.com/GoogleCloudPlatform/cloud-code-custom-samples-example) - Example of configuring a Custom Samples repository for Cloud Code
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [APIDevTools/swagger-parser](https://github.com/APIDevTools/swagger-parser) - Swagger 2.0 and OpenAPI 3.0 parser/validator
 - [APIDevTools/swagger-cli](https://github.com/APIDevTools/swagger-cli) - Swagger 2.0 and OpenAPI 3.0 command-line tool
@@ -3176,6 +3181,7 @@
 
 ## Others 
 
+- [viktortat/docker_shiny_mssql](https://github.com/viktortat/docker_shiny_mssql) - This repo holds the relevant Docker, R and SQL scripts needed to reproduce my tutorial on Dockerizing R/Shiny and MS SQL Server
 - [awsdocs/amazon-quicksight-user-guide](https://github.com/awsdocs/amazon-quicksight-user-guide) - The open source version of the Amazon Quicksight docs.
 - [fiatjaf/awesome-loginless](https://github.com/fiatjaf/awesome-loginless) - an awesome list of internet services that don't require logins or registrations
 - [scholer/zepto-markdown](https://github.com/scholer/zepto-markdown) - Package for parsing and converting Markdown documents. Features include YAML front-matter extraction, templating, and macros.
@@ -3278,7 +3284,7 @@
 - [ChristopherBiscardi/dotfiles](https://github.com/ChristopherBiscardi/dotfiles) - dotfiles yo
 - [jimscratch/windows-dev-box-setup-scripts](https://github.com/jimscratch/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
 - [jimbrig/developerfolio](https://github.com/jimbrig/developerfolio) - Devfolio
-- [DopplerUniversity/doppler-app-templates](https://github.com/DopplerUniversity/doppler-app-templates) - Set up applications in Doppler using app configuration templates
+- [DopplerUniversity/app-config-templates](https://github.com/DopplerUniversity/app-config-templates) - Set up applications in Doppler using app configuration templates
 - [puncsky/system-design-and-architecture](https://github.com/puncsky/system-design-and-architecture) - Learn how to design large-scale systems. Prep for the system design interview.
 - [alec42/AirBNB-Data-Visualizer](https://github.com/alec42/AirBNB-Data-Visualizer) - An interactive R Shiny app that allows full visualization of open AirBNB Data. The tool enables easy geographical, univariate and bivariate data exploration of the AirBNB data for every available city.
 - [kasaai/references](https://github.com/kasaai/references) - Papers, blogs, and other fun stuff.
@@ -3892,7 +3898,7 @@
 - [v2-dev/awesome-social-engineering](https://github.com/v2-dev/awesome-social-engineering) - A curated list of awesome social engineering resources.
 - [nayafia/awesome-maintainers](https://github.com/nayafia/awesome-maintainers) - Talks, blog posts, and interviews about the experience of being an open source maintainer
 - [thenaturalist/awesome-business-intelligence](https://github.com/thenaturalist/awesome-business-intelligence) - Actively curated list of awesome BI tools. PRs welcome!
-- [emptymalei/awesome-research](https://github.com/emptymalei/awesome-research) - :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below
+- [emptymalei/awesome-research](https://github.com/emptymalei/awesome-research) - :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is Not Maintained Anymore]
 - [woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
 - [networktocode/awesome-network-automation](https://github.com/networktocode/awesome-network-automation) - Curated Awesome list about Network Automation
 - [AmazingApps/Amazing-Windows-Apps](https://github.com/AmazingApps/Amazing-Windows-Apps) - 📗Introduce you amazing Windows apps🕶READ ONLINE 👉
@@ -4780,7 +4786,7 @@
 - [Daksh777/windows10-debloat](https://github.com/Daksh777/windows10-debloat) - Collection of various scripts and apps to debloat Windows 10 for better privacy, performance and optimization.
 - [gordonbay/Windows-On-Reins](https://github.com/gordonbay/Windows-On-Reins) - Wor is a Powershell script to harden, debloat, optimize, enhance privacy, avoid fingerprinting and improve performance on Windows 10 and 11.
 - [VincentXE/Longhorn](https://github.com/VincentXE/Longhorn) - Windows 10 Debloater
-- [Raphire/Win10Debloat](https://github.com/Raphire/Win10Debloat) - A simple powershell script to remove bloatware apps from windows 10, disable bing in windows search aswell as perform various other changes to declutter the windows 10 experience.
+- [Raphire/Win10Debloat](https://github.com/Raphire/Win10Debloat) - A simple powershell script to remove bloatware apps from windows 10/11, disable bing in windows search aswell as perform various other changes to declutter the windows 10/11 experience.
 - [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Fully Optimize, Harden, and Debloat Windows 10 and Windows 11 Deployments to Windows Best Practices and DoD STIG/SRG Requirements. The ultimate Windows 10 & 11 security and privacy script!
 - [WurstCommander/Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove) - A Powershell-Script for removing / debloating Windows 10 apps. Mandatory apps which can't be uninstalled via start menu will be removed too.
 - [DrEmpiricism/Optimize-Offline](https://github.com/DrEmpiricism/Optimize-Offline) - Optimize-Offline is a Windows 10 offline image optimization framework.
@@ -4865,6 +4871,8 @@
 
 ## Python 
 
+- [abhisheksinha08/lambda-packs](https://github.com/abhisheksinha08/lambda-packs) - Precompiled packages for AWS Lambda
+- [Azure/autorest.azure-functions-python](https://github.com/Azure/autorest.azure-functions-python) - Python Code Generation for Azure Functions using Autorest
 - [hakopako/openapi-cli-tool](https://github.com/hakopako/openapi-cli-tool) - OpenAPI (Swagger 3.x) CLI Tool. Supports multiple file extensions. Can list up defined API paths and bundle multi-file into one.
 - [tfranzel/drf-spectacular](https://github.com/tfranzel/drf-spectacular) - Sane and flexible OpenAPI 3 schema generation for Django REST framework.
 - [openapi-generators/openapi-python-client](https://github.com/openapi-generators/openapi-python-client) - Generate modern Python clients from OpenAPI
@@ -5560,6 +5568,10 @@
 
 ## R 
 
+- [nathan-palmer/MsSqlTools](https://github.com/nathan-palmer/MsSqlTools) - An R package that contains convenience functions for establishing ODBC connections to Microsoft SQL Server using either Microsoft's ODBC Driver 17 for SQL Server or the FreeTDS driver.
+- [abhisheksinha08/mssqlR](https://github.com/abhisheksinha08/mssqlR) - Use mssqlR to query data from MS SQL Server. Based on the concept on Entity Framework, the package allows querying data from MS SQL Server Database.
+- [gfcm/MSSQL](https://github.com/gfcm/MSSQL) - Tools to Work with Microsoft SQL Server Databases via RODBC
+- [lecardozo/rworker](https://github.com/lecardozo/rworker) - Celery worker for R tasks! Celery :left_right_arrow:  R
 - [bergant/trafficaccidents](https://github.com/bergant/trafficaccidents) - Traffic Accidents Data
 - [bergant/rapiclient](https://github.com/bergant/rapiclient) - Dynamic Open API (Swagger) Client for R
 - [davidruvolo51/pkgbump](https://github.com/davidruvolo51/pkgbump) - 📦 A quick and dirty way to manage and update an R package's version number across multiple files.
@@ -9603,7 +9615,7 @@
 - [microsoft/vscode-mssql](https://github.com/microsoft/vscode-mssql) - Visual Studio Code SQL Server extension.
 - [ritwickdey/vscode-live-server](https://github.com/ritwickdey/vscode-live-server) - Launch a development local Server with live reload feature for static & dynamic pages.
 - [badgateway/ketting](https://github.com/badgateway/ketting) - The HATEOAS client for javascript
-- [microsoft/vscode-docker](https://github.com/microsoft/vscode-docker) - Docker extension for Visual Studio Code
+- [microsoft/vscode-docker](https://github.com/microsoft/vscode-docker) - Docker Extension for Visual Studio Code
 - [pmndrs/use-asset](https://github.com/pmndrs/use-asset) - 📦  A promise caching strategy for React Suspense
 - [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
