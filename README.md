@@ -585,6 +585,7 @@
 
 - [farling42/RWoutput](https://github.com/farling42/RWoutput) - Tool to convert a Realm Works Output file into other formats.
 - [meganz/MEGAsync](https://github.com/meganz/MEGAsync) - Easy automated syncing between your computers and your MEGA Cloud Drive
+- [paleolimbot/geoarrow](https://github.com/paleolimbot/geoarrow) - Extension types for geospatial data for use with 'Arrow'
 - [meganz/MEGAcmd](https://github.com/meganz/MEGAcmd) - Command Line Interactive and Scriptable Application to access MEGA
 - [miraisolutions/winsendkeys](https://github.com/miraisolutions/winsendkeys) - Sendkeys R library for Windows
 - [kpsinghlubana/rpython](https://github.com/kpsinghlubana/rpython) - 
@@ -737,6 +738,7 @@
 
 ## CSS 
 
+- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [Nasawa/Clipt](https://github.com/Nasawa/Clipt) - Cross-machine clipboard management
 - [yogesh-kamat/IMS](https://github.com/yogesh-kamat/IMS) - Inventory management system using Django and Postgresql
 - [colineckert/obsidian-things](https://github.com/colineckert/obsidian-things) - An Obsidian theme inspired by the beautifully-designed app, Things.
@@ -1075,6 +1077,7 @@
 
 ## Go 
 
+- [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - Git-like capabilities for your object storage
 - [minitauros/swagen](https://github.com/minitauros/swagen) - Generate Swagger/OpenAPI YAML from a MySQL database schema
 - [davemachado/public-api](https://github.com/davemachado/public-api) - Public API for the public-apis Github project
 - [werf/werf](https://github.com/werf/werf) - The CLI tool gluing Git, Docker, Helm, and Kubernetes with any CI system to implement CI/CD and Giterminism
@@ -1175,7 +1178,7 @@
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for Postgres
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases
 - [nanopack/yoke](https://github.com/nanopack/yoke) - Postgres high-availability cluster with auto-failover and automated cluster recovery.
-- [prest/prest](https://github.com/prest/prest) - pREST (PostgreSQL REST), low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
+- [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [techschool/simplebank](https://github.com/techschool/simplebank) - 
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -2967,6 +2970,7 @@
 
 ## Jupyter Notebook 
 
+- [keon/data-engineering](https://github.com/keon/data-engineering) - 
 - [mii9000/das](https://github.com/mii9000/das) - Diagrams As Code
 - [actuarialopensource/validations](https://github.com/actuarialopensource/validations) - hand picked values to test table parsing
 - [goyder/deeplearning-notes](https://github.com/goyder/deeplearning-notes) - Notes from various deep learning courses.
@@ -3181,6 +3185,7 @@
 
 ## Others 
 
+- [jimbrig/rlambda](https://github.com/jimbrig/rlambda) - R on AWS Lambda
 - [viktortat/docker_shiny_mssql](https://github.com/viktortat/docker_shiny_mssql) - This repo holds the relevant Docker, R and SQL scripts needed to reproduce my tutorial on Dockerizing R/Shiny and MS SQL Server
 - [awsdocs/amazon-quicksight-user-guide](https://github.com/awsdocs/amazon-quicksight-user-guide) - The open source version of the Amazon Quicksight docs.
 - [fiatjaf/awesome-loginless](https://github.com/fiatjaf/awesome-loginless) - an awesome list of internet services that don't require logins or registrations
@@ -3515,7 +3520,7 @@
 - [dirsigler/git-toolbelt](https://github.com/dirsigler/git-toolbelt) - A suite of useful Git commands that aid with scripting or every day command line usage
 - [dirsigler/private-ip-cloud-sql-db](https://github.com/dirsigler/private-ip-cloud-sql-db) - An example set of terraform files for deploying a Cloud SQL DB with a private IP address only
 - [dirsigler/cloudbuild-optimizer](https://github.com/dirsigler/cloudbuild-optimizer) - Run builds across all machine types in Cloud Build to find the optimal price/performance tradeoff
-- [jobindj/obsidian-foam-publish-on-pages](https://github.com/jobindj/obsidian-foam-publish-on-pages) - A Template to Publish Obsidian/Foam Notes on Github Pages (uses MkDocs)
+- [jobindj/obsidian-publish-github-pages](https://github.com/jobindj/obsidian-publish-github-pages) - A Template to Publish Obsidian/Foam Notes on Github Pages (uses MkDocs)
 - [TechPrimers/whats-your-architecture](https://github.com/TechPrimers/whats-your-architecture) - "What's your Architecture?" is a series of architecture and design challenges to voice out the opinions of the TechPrimers community members.
 - [jimsforks/burglr](https://github.com/jimsforks/burglr) - Copy Functions from Other Packages Without Adding Them As Dependencies
 - [cranchange/cran_histories](https://github.com/cranchange/cran_histories) - Recollection of exchanges with CRAN reviewers and maintainer
@@ -4871,6 +4876,8 @@
 
 ## Python 
 
+- [pwwang/datar](https://github.com/pwwang/datar) - Port of dplyr and other related R packages in python, using pipda.
+- [Princekrampah/FlaskRESTFUL](https://github.com/Princekrampah/FlaskRESTFUL) - 
 - [abhisheksinha08/lambda-packs](https://github.com/abhisheksinha08/lambda-packs) - Precompiled packages for AWS Lambda
 - [Azure/autorest.azure-functions-python](https://github.com/Azure/autorest.azure-functions-python) - Python Code Generation for Azure Functions using Autorest
 - [hakopako/openapi-cli-tool](https://github.com/hakopako/openapi-cli-tool) - OpenAPI (Swagger 3.x) CLI Tool. Supports multiple file extensions. Can list up defined API paths and bundle multi-file into one.
@@ -5568,6 +5575,9 @@
 
 ## R 
 
+- [nhs-bnssg-analytics/ExploreR](https://github.com/nhs-bnssg-analytics/ExploreR) - Repository for ExploreR
+- [walkerke/mapboxapi](https://github.com/walkerke/mapboxapi) - R interface to Mapbox web services
+- [OHDSI/PatientLevelPrediction](https://github.com/OHDSI/PatientLevelPrediction) - An R package for performing patient level prediction  in an observational database in the OMOP Common Data Model.
 - [nathan-palmer/MsSqlTools](https://github.com/nathan-palmer/MsSqlTools) - An R package that contains convenience functions for establishing ODBC connections to Microsoft SQL Server using either Microsoft's ODBC Driver 17 for SQL Server or the FreeTDS driver.
 - [abhisheksinha08/mssqlR](https://github.com/abhisheksinha08/mssqlR) - Use mssqlR to query data from MS SQL Server. Based on the concept on Entity Framework, the package allows querying data from MS SQL Server Database.
 - [gfcm/MSSQL](https://github.com/gfcm/MSSQL) - Tools to Work with Microsoft SQL Server Databases via RODBC
@@ -5619,7 +5629,6 @@
 - [jacquietran/wnblr](https://github.com/jacquietran/wnblr) - An R package containing game stats from the Women's National Basketball League (WNBL).
 - [chainsawriot/compromiser](https://github.com/chainsawriot/compromiser) - ⚖️ English Natural Language Processing With Compromise
 - [prodriguezsosa/EmbeddingsPaperReplication](https://github.com/prodriguezsosa/EmbeddingsPaperReplication) - Replication files for Rodriguez & Spirling (forthcoming) word embeddings overview and assessment.
-- [paleolimbot/geoarrow](https://github.com/paleolimbot/geoarrow) - Extension types for geospatial data for use with 'Arrow'
 - [cadnza/importTablesMSSQL](https://github.com/cadnza/importTablesMSSQL) - Simple R package to import tables from Microsoft SQL Server
 - [c4f3a0ce/pkgdowncrosslinks](https://github.com/c4f3a0ce/pkgdowncrosslinks) - 
 - [sdcastillo/ExamPAData](https://github.com/sdcastillo/ExamPAData) - A container for data sets to help actuaries who are practicing predictive analytics
@@ -7185,7 +7194,6 @@
 - [romainfrancois/dance](https://github.com/romainfrancois/dance) - tibble() dancing 💃
 - [ianmcook/tidyquery](https://github.com/ianmcook/tidyquery) - Query R data frames with SQL
 - [business-science/timetk](https://github.com/business-science/timetk) - A toolkit for working with time series in R
-- [leonawicz/shinyaccess](https://github.com/leonawicz/shinyaccess) - Web Accessibility in Shiny
 - [OmaymaS/intro_to_shiny_workshop](https://github.com/OmaymaS/intro_to_shiny_workshop) - Building Web Applications with Shiny (Workshop Material)
 - [surajsharan/Rshiny-Snippets](https://github.com/surajsharan/Rshiny-Snippets) - Shiny snippets for improving apps and solving common problems
 - [DeclareDesign/DDWizard](https://github.com/DeclareDesign/DDWizard) - DeclareDesign Wizard -- Shiny app for creating, editing and inspecting research designs.
@@ -9297,6 +9305,7 @@
 
 ## TypeScript 
 
+- [Quorafind/Obsidian-Task-Changer](https://github.com/Quorafind/Obsidian-Task-Changer) - Change task status by one click.
 - [lucarducci/skaffolder-vscode-extension](https://github.com/lucarducci/skaffolder-vscode-extension) - This VsCode extension allows to generate a working web app starting from OpenAPI 3.0 specs, defining database models and APIs on VsCode or from the Skaffolder web interface
 - [OpenAPITools/openapi-generator-cli](https://github.com/OpenAPITools/openapi-generator-cli) - A node package wrapper for https://github.com/OpenAPITools/openapi-generator
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
