@@ -241,6 +241,8 @@
 
 ## C 
 
+- [bwlewis/feathercache](https://github.com/bwlewis/feathercache) - Simple networked object cache
+- [bwlewis/lz4](https://github.com/bwlewis/lz4) - LZ4  Data Compression and Decompression for R
 - [z-shell/zinit](https://github.com/z-shell/zinit) - Please visit https://github.com/z-shell/zi. As this repository is no longer supported.
 - [jimhester/r-actions-test](https://github.com/jimhester/r-actions-test) - https://jimhester.github.io/r-actions-test/
 - [Enchufa2/r-flexiblas](https://github.com/Enchufa2/r-flexiblas) - FlexiBLAS API Interface for R
@@ -871,12 +873,7 @@
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
 - [no-types/RagGrid](https://github.com/no-types/RagGrid) - R interface to ag-grid.
 - [tidyverts/tidy-forecasting-principles](https://github.com/tidyverts/tidy-forecasting-principles) - Exploration of tidy standards for time series forecasting
-- [DataTables/Dist-DataTables-SearchPanes-SemanticUI](https://github.com/DataTables/Dist-DataTables-SearchPanes-SemanticUI) - 
-- [DataTables/Dist-DataTables-SearchPanes-DataTables](https://github.com/DataTables/Dist-DataTables-SearchPanes-DataTables) - 
-- [DataTables/Dist-DataTables-SearchPanes-Foundation](https://github.com/DataTables/Dist-DataTables-SearchPanes-Foundation) - 
 - [DataTables/Dist-DataTables-SearchPanes-jQueryUI](https://github.com/DataTables/Dist-DataTables-SearchPanes-jQueryUI) - 
-- [DataTables/Dist-DataTables-SearchPanes-Bootstrap4](https://github.com/DataTables/Dist-DataTables-SearchPanes-Bootstrap4) - 
-- [DataTables/Dist-DataTables-SearchPanes-Bootstrap](https://github.com/DataTables/Dist-DataTables-SearchPanes-Bootstrap) - 
 - [reprohack/reprohack-template-shiny](https://github.com/reprohack/reprohack-template-shiny) - 
 - [tyluRp/shinytemplate](https://github.com/tyluRp/shinytemplate) - :sparkles: A personal template for shiny dashboards
 - [dkilfoyle/shiny-explorer](https://github.com/dkilfoyle/shiny-explorer) - Shiny based data explorer with report templates based on field selection
@@ -1361,6 +1358,7 @@
 
 ## HCL 
 
+- [terraform-aws-modules/terraform-aws-cloudwatch](https://github.com/terraform-aws-modules/terraform-aws-cloudwatch) - Terraform module which creates Cloudwatch resources on AWS
 - [trussworks/terraform-aws-config](https://github.com/trussworks/terraform-aws-config) - Enables AWS Config and adds managed config rules with good defaults.
 - [ned1313/terraform-tuesdays](https://github.com/ned1313/terraform-tuesdays) - Demo files for various Terraform Tuesday Examples
 - [ned1313/ado-labs-github-actions](https://github.com/ned1313/ado-labs-github-actions) - Demo files for the Azure DevOps Labs episode about GitHub Actions and Terraform
@@ -1397,6 +1395,14 @@
 
 ## HTML 
 
+- [uc-bd2k/GREIN](https://github.com/uc-bd2k/GREIN) - GREIN : GEO RNA-seq Experiments Interactive Navigator
+- [drizopoulos/Repeated_Measurements](https://github.com/drizopoulos/Repeated_Measurements) - Shiny App for Repeated Measurements Course
+- [jminnier/STARTapp](https://github.com/jminnier/STARTapp) - The START App: R Shiny Transcriptome Analysis Resource Tool
+- [bwlewis/writing_foreach_adapters](https://github.com/bwlewis/writing_foreach_adapters) - Tutorials, code and notes about writing R foreach adapters
+- [bwlewis/2020_rstudioconf](https://github.com/bwlewis/2020_rstudioconf) - Slides from my talk at the 2020 RStudio conference in San Francisco
+- [bwlewis/duckdb_and_r](https://github.com/bwlewis/duckdb_and_r) - My thoughts and examples on DuckDB and R
+- [bwlewis/tir](https://github.com/bwlewis/tir) - Example time in range computation
+- [jimbrig/self-insurance-kpi-app](https://github.com/jimbrig/self-insurance-kpi-app) - Proof of Concept Demo Shiny Application for Tracking KPIs related to P&C Self Insurance
 - [sanjan/flask_swagger](https://github.com/sanjan/flask_swagger) - Boilerplate to build a flask API with swagger ui documentation
 - [jhelvy/jhelvy.com](https://github.com/jhelvy/jhelvy.com) - Source files for my personal website, built using the {distill} R package and deployed with netlify
 - [problemofpoints/noncat-modeling](https://github.com/problemofpoints/noncat-modeling) - Sample non-cat exposure model and simulation calculations
@@ -1971,6 +1977,16 @@
 
 ## JavaScript 
 
+- [rstudio/learnr](https://github.com/rstudio/learnr) - Interactive Tutorials with R Markdown
+- [OHDSI/DataQualityDashboard](https://github.com/OHDSI/DataQualityDashboard) - A tool to help improve data quality standards in observational data science.
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
+- [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
+- [unep-grid/map-x-mgl](https://github.com/unep-grid/map-x-mgl) - MapX
+- [bwlewis/nvd3](https://github.com/bwlewis/nvd3) - Basic R interface to nvd3.js
+- [bwlewis/rthreejs](https://github.com/bwlewis/rthreejs) - Three.js widgets for R and shiny
+- [romellogoodman/flow-field.js](https://github.com/romellogoodman/flow-field.js) - A library for generating flow fields.
+- [jondot/hygen](https://github.com/jondot/hygen) - The simple, fast, and scalable code generator that lives in your project.
+- [micro-zoe/micro-app](https://github.com/micro-zoe/micro-app) - A lightweight, efficient and powerful micro front-end framework. 一款轻量、高效、功能强大的微前端框架
 - [jspruance/aws-cognito-tutorial-complete](https://github.com/jspruance/aws-cognito-tutorial-complete) - 
 - [jspruance/hexal-lambda-functions](https://github.com/jspruance/hexal-lambda-functions) - Lambda functions for the AWS Serverless tutorial
 - [jspruance/hexal-serverless-starter](https://github.com/jspruance/hexal-serverless-starter) - Hexal Energy starter app for 'Create a serverless app' tutorial.
@@ -2865,7 +2881,12 @@
 - [bupaverse/processanimateR](https://github.com/bupaverse/processanimateR) - Token replay animation for process maps created with processmapR by using SVG animations (SMIL) and the htmlwidget package.
 - [bhaskarvk/widgetframe](https://github.com/bhaskarvk/widgetframe) - Embed htmlwidgets in Responsive iframe.
 - [juba/scatterD3](https://github.com/juba/scatterD3) - R scatter plot htmlwidget based on D3.js
+- [DataTables/Dist-DataTables-SearchPanes-SemanticUI](https://github.com/DataTables/Dist-DataTables-SearchPanes-SemanticUI) - 
+- [DataTables/Dist-DataTables-SearchPanes-DataTables](https://github.com/DataTables/Dist-DataTables-SearchPanes-DataTables) - 
+- [DataTables/Dist-DataTables-SearchPanes-Foundation](https://github.com/DataTables/Dist-DataTables-SearchPanes-Foundation) - 
+- [DataTables/Dist-DataTables-SearchPanes-Bootstrap4](https://github.com/DataTables/Dist-DataTables-SearchPanes-Bootstrap4) - 
 - [DataTables/Dist-DataTables-SearchPanes](https://github.com/DataTables/Dist-DataTables-SearchPanes) - 
+- [DataTables/Dist-DataTables-SearchPanes-Bootstrap](https://github.com/DataTables/Dist-DataTables-SearchPanes-Bootstrap) - 
 - [RConsortium/project-analysis](https://github.com/RConsortium/project-analysis) - Data-Driven Discovery and Tracking of R Consortium Activities
 - [actuarialvoodoo/rethinking-workflows](https://github.com/actuarialvoodoo/rethinking-workflows) - 
 - [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
@@ -3185,6 +3206,7 @@
 
 ## Others 
 
+- [bwlewis/r-and-singularity](https://github.com/bwlewis/r-and-singularity) - Notes on R and Singularity
 - [jimbrig/rlambda](https://github.com/jimbrig/rlambda) - R on AWS Lambda
 - [viktortat/docker_shiny_mssql](https://github.com/viktortat/docker_shiny_mssql) - This repo holds the relevant Docker, R and SQL scripts needed to reproduce my tutorial on Dockerizing R/Shiny and MS SQL Server
 - [awsdocs/amazon-quicksight-user-guide](https://github.com/awsdocs/amazon-quicksight-user-guide) - The open source version of the Amazon Quicksight docs.
@@ -4876,6 +4898,7 @@
 
 ## Python 
 
+- [dabapps/django-forms-dynamic](https://github.com/dabapps/django-forms-dynamic) - 
 - [pwwang/datar](https://github.com/pwwang/datar) - Port of dplyr and other related R packages in python, using pipda.
 - [Princekrampah/FlaskRESTFUL](https://github.com/Princekrampah/FlaskRESTFUL) - 
 - [abhisheksinha08/lambda-packs](https://github.com/abhisheksinha08/lambda-packs) - Precompiled packages for AWS Lambda
@@ -5575,6 +5598,15 @@
 
 ## R 
 
+- [OHDSI/CohortDiagnostics](https://github.com/OHDSI/CohortDiagnostics) - An R package for performing various cohort diagnostics.
+- [YaoLab-Bioinfo/shinyChromosome](https://github.com/YaoLab-Bioinfo/shinyChromosome) - an R/Shiny application for interactive creation of non-circular plots of whole genomes
+- [sk-sahu/sig-bio-shiny](https://github.com/sk-sahu/sig-bio-shiny) - A standalone interactive application for  detecting biological significance on a set of genes
+- [Coorsaa/shinyMlr](https://github.com/Coorsaa/shinyMlr) - shiny-mlr: Integration of the mlr package into shiny
+- [bwlewis/tcor](https://github.com/bwlewis/tcor) - Fast thresholded correlation mattices
+- [bwlewis/rredis](https://github.com/bwlewis/rredis) - R client for Redis
+- [bwlewis/1000_genomes_examples](https://github.com/bwlewis/1000_genomes_examples) - Examples using R and 1000 genomes data
+- [bwlewis/irlba](https://github.com/bwlewis/irlba) - Fast truncated singular value decompositions
+- [bwlewis/doRedis](https://github.com/bwlewis/doRedis) - R/foreach Redis backend for parallel computing
 - [nhs-bnssg-analytics/ExploreR](https://github.com/nhs-bnssg-analytics/ExploreR) - Repository for ExploreR
 - [walkerke/mapboxapi](https://github.com/walkerke/mapboxapi) - R interface to Mapbox web services
 - [OHDSI/PatientLevelPrediction](https://github.com/OHDSI/PatientLevelPrediction) - An R package for performing patient level prediction  in an observational database in the OMOP Common Data Model.
@@ -7046,7 +7078,6 @@
 - [noamross/pbjob](https://github.com/noamross/pbjob) - Run R Scripts and Jobs with Pushbullet Alerts
 - [yihui/latex-pass](https://github.com/yihui/latex-pass) - Help you pass the LaTeX compilation by telling you which LaTeX packages are missing to compile your documents
 - [gogonzo/runner](https://github.com/gogonzo/runner) - :runner: R package performing simple running calculations
-- [sckott/atomize](https://github.com/sckott/atomize) - atomize functions within a package into new packages
 - [jonocarroll/realtime](https://github.com/jonocarroll/realtime) - 
 - [zeehio/condformat](https://github.com/zeehio/condformat) - R package to apply conditional formatting rules to a data.frame
 - [R4EPI/sitrep](https://github.com/R4EPI/sitrep) - Report templates and helper functions for applied epidemiology
@@ -7193,7 +7224,7 @@
 - [ManuelHentschel/vscDebugger](https://github.com/ManuelHentschel/vscDebugger) - (Partial) Implementation of the Debug Adapter Protocol for R
 - [romainfrancois/dance](https://github.com/romainfrancois/dance) - tibble() dancing 💃
 - [ianmcook/tidyquery](https://github.com/ianmcook/tidyquery) - Query R data frames with SQL
-- [business-science/timetk](https://github.com/business-science/timetk) - A toolkit for working with time series in R
+- [business-science/timetk](https://github.com/business-science/timetk) - Time series analysis in the `tidyverse`
 - [OmaymaS/intro_to_shiny_workshop](https://github.com/OmaymaS/intro_to_shiny_workshop) - Building Web Applications with Shiny (Workshop Material)
 - [surajsharan/Rshiny-Snippets](https://github.com/surajsharan/Rshiny-Snippets) - Shiny snippets for improving apps and solving common problems
 - [DeclareDesign/DDWizard](https://github.com/DeclareDesign/DDWizard) - DeclareDesign Wizard -- Shiny app for creating, editing and inspecting research designs.
@@ -7912,7 +7943,6 @@
 - [kevinushey/rex](https://github.com/kevinushey/rex) - Friendly regular expressions for R.
 - [dppalomar/riskParityPortfolio](https://github.com/dppalomar/riskParityPortfolio) - Design of Risk Parity Portfolios
 - [ArdiaD/RiskPortfolios](https://github.com/ArdiaD/RiskPortfolios) - Functions for the construction of risk-based portfolios
-- [sckott/rresync](https://github.com/sckott/rresync) - ResourceSync R Client
 - [spedygiorgio/lifecontingencies](https://github.com/spedygiorgio/lifecontingencies) - Financial and Actuarial Mathematics for Life Contingencies
 - [mages/ChainLadder](https://github.com/mages/ChainLadder) - Claims reserving models in R
 - [WinVector/cdata](https://github.com/WinVector/cdata) - Higher order fluid or coordinatized data transforms in R. Distributed under choice of GPL-2 or GPL-3 license.
@@ -8587,6 +8617,8 @@
 
 ## Rust 
 
+- [RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON) - RedisJSON - a JSON data type for Redis
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A reliable, high-performance tool for building observability data pipelines.
 - [quambene/pigeon-rs](https://github.com/quambene/pigeon-rs) - Command line tool for cheap and efficient email automation written in Rust
 - [Michael-F-Bryan/mdbook-epub](https://github.com/Michael-F-Bryan/mdbook-epub) - An experimental mdbook backend for creating EPUB documents.
@@ -8603,7 +8635,7 @@
 - [ChristopherBiscardi/windows-screen-capture](https://github.com/ChristopherBiscardi/windows-screen-capture) - 
 - [ChristopherBiscardi/yarn-get-dep](https://github.com/ChristopherBiscardi/yarn-get-dep) - 
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
-- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud is a universal host runtime for actors built with WebAssembly and capability providers
+- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud allows for simple, secure, distributed application development using WebAssembly actors and capability providers.
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
@@ -8740,6 +8772,7 @@
 
 ## Shell 
 
+- [redhat-cop/gitops-catalog](https://github.com/redhat-cop/gitops-catalog) - Tools and technologies that are hosted on an OpenShift cluster
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [bats-core/bats-assert](https://github.com/bats-core/bats-assert) - Common assertions for Bats
@@ -9214,7 +9247,6 @@
 - [zoejessica/Furnish](https://github.com/zoejessica/Furnish) - Configurable table view controller framework, drawing on ideas from Arkadiusz Holko (fastred) and Andy Matuschak (andymatuschak)
 - [ReactiveCocoa/ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - Cocoa framework and Obj-C dynamism bindings for ReactiveSwift.
 - [JohnSundell/Publish](https://github.com/JohnSundell/Publish) - A static site generator for Swift developers
-- [wvdk/Life-Calendar](https://github.com/wvdk/Life-Calendar) - A look at the big picture.
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 
 ## TSQL 
@@ -9305,6 +9337,7 @@
 
 ## TypeScript 
 
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [Quorafind/Obsidian-Task-Changer](https://github.com/Quorafind/Obsidian-Task-Changer) - Change task status by one click.
 - [lucarducci/skaffolder-vscode-extension](https://github.com/lucarducci/skaffolder-vscode-extension) - This VsCode extension allows to generate a working web app starting from OpenAPI 3.0 specs, defining database models and APIs on VsCode or from the Skaffolder web interface
 - [OpenAPITools/openapi-generator-cli](https://github.com/OpenAPITools/openapi-generator-cli) - A node package wrapper for https://github.com/OpenAPITools/openapi-generator
@@ -9380,7 +9413,7 @@
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [4lch4/Lib-HN](https://github.com/4lch4/Lib-HN) - A library for interacting with the HackerNews API.
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
-- [nrwl/nx](https://github.com/nrwl/nx) - Smart, Extensible Build Framework
+- [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [eykrehbein/cook](https://github.com/eykrehbein/cook) - 👨‍🍳 CLI Tool to create universal boilerplates
 - [joshfarrant/shortcuts-js](https://github.com/joshfarrant/shortcuts-js) - A JavaScript iOS 12 Shortcuts creator
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
@@ -9564,7 +9597,7 @@
 - [peter-evans/create-issue-from-file](https://github.com/peter-evans/create-issue-from-file) - A GitHub action to create an issue using content from a file
 - [ManuelHentschel/VSCode-R-Debugger](https://github.com/ManuelHentschel/VSCode-R-Debugger) - R Debugger Extension for Visual Studio Code
 - [liamcain/obsidian-calendar-plugin](https://github.com/liamcain/obsidian-calendar-plugin) - Simple calendar widget for Obsidian.
-- [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
+- [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript. We're hiring https://grnh.se/ca81c1701us
 - [mrjackphil/obsidian-backlinks-in-document](https://github.com/mrjackphil/obsidian-backlinks-in-document) - A hacky workaround which put backlinks section into the document
 - [kbravh/tweet-to-markdown](https://github.com/kbravh/tweet-to-markdown) - A command line tool to convert Tweets to Markdown.
 - [thenewboston-developers/Website](https://github.com/thenewboston-developers/Website) - The website and documentation for thenewboston.
