@@ -585,6 +585,7 @@
 
 ## C++ 
 
+- [IJHack/QtPass](https://github.com/IJHack/QtPass) - QtPass is a multi-platform GUI for pass, the standard unix password manager.
 - [farling42/RWoutput](https://github.com/farling42/RWoutput) - Tool to convert a Realm Works Output file into other formats.
 - [meganz/MEGAsync](https://github.com/meganz/MEGAsync) - Easy automated syncing between your computers and your MEGA Cloud Drive
 - [paleolimbot/geoarrow](https://github.com/paleolimbot/geoarrow) - Extension types for geospatial data for use with 'Arrow'
@@ -3206,6 +3207,11 @@
 
 ## Others 
 
+- [binder-examples/r-conda](https://github.com/binder-examples/r-conda) - R and RStudio via conda packages in repo2docker
+- [pablobernabeu/CarpentryCon-2020-workshop-Open-Data-Reproducibility](https://github.com/pablobernabeu/CarpentryCon-2020-workshop-Open-Data-Reproducibility) - This workshop provides a stepping stone into a suite of interrelated tools—R Markdown, data dashboards and Binder environments—, which are all underlain by reproducible workflows and open-source software.
+- [thuyetbao/Excel-Wizard](https://github.com/thuyetbao/Excel-Wizard) - Comprehensive approach with Process, Component, Formulas to create Dashboard with Excel
+- [hmajid2301/fastapi-template](https://github.com/hmajid2301/fastapi-template) - 
+- [thuyetbao/python-pathway](https://github.com/thuyetbao/python-pathway) - Journey to collect the various collection of snapshots, notes, diagrams, and examples to learn and apply python
 - [bwlewis/r-and-singularity](https://github.com/bwlewis/r-and-singularity) - Notes on R and Singularity
 - [jimbrig/rlambda](https://github.com/jimbrig/rlambda) - R on AWS Lambda
 - [viktortat/docker_shiny_mssql](https://github.com/viktortat/docker_shiny_mssql) - This repo holds the relevant Docker, R and SQL scripts needed to reproduce my tutorial on Dockerizing R/Shiny and MS SQL Server
@@ -3861,7 +3867,7 @@
 - [bvolpato/awesome-userscripts](https://github.com/bvolpato/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [rajasegar/awesome-micro-frontends](https://github.com/rajasegar/awesome-micro-frontends) - An Awesome list of posts, videos and tutorials on Micro Frontends
 - [quobit/awesome-python-in-education](https://github.com/quobit/awesome-python-in-education) - A curated list about Python in Education :snake: :mortar_board:
-- [tianshanghong/awesome-anki](https://github.com/tianshanghong/awesome-anki) - A curated list of awesome Anki add-ons, decks and resources
+- [wwangtech/awesome-anki](https://github.com/wwangtech/awesome-anki) - A curated list of awesome Anki add-ons, decks and resources
 - [jaegeral/security-apis](https://github.com/jaegeral/security-apis) - A collective list of public APIs for use in security. Contributions welcome
 - [shahraizali/awesome-django](https://github.com/shahraizali/awesome-django) - The Best Django Resource, Awesome Django for mature packages.
 - [podo/awesome-framer](https://github.com/podo/awesome-framer) - A curated list of awesome things related to Framer prototyping tool
@@ -4898,6 +4904,8 @@
 
 ## Python 
 
+- [chasemc/electricpy](https://github.com/chasemc/electricpy) - Create standalone, installable R Shiny apps using Electron
+- [Erotemic/mkinit](https://github.com/Erotemic/mkinit) - Auto-generate explicit readable __init__.py files without `import *`
 - [dabapps/django-forms-dynamic](https://github.com/dabapps/django-forms-dynamic) - 
 - [pwwang/datar](https://github.com/pwwang/datar) - Port of dplyr and other related R packages in python, using pipda.
 - [Princekrampah/FlaskRESTFUL](https://github.com/Princekrampah/FlaskRESTFUL) - 
@@ -5598,6 +5606,11 @@
 
 ## R 
 
+- [chasemc/processView](https://github.com/chasemc/processView) - Windows Process Viewer
+- [shapenaji/cranium](https://github.com/shapenaji/cranium) - Generates a version-controlled repository for storing packages.
+- [atheriel/cranlift](https://github.com/atheriel/cranlift) - Serve CRAN-like Repositories as RESTful APIs
+- [JohnCoene/awn](https://github.com/JohnCoene/awn) - Awesome notifications for shiny
+- [thuyetbao/pool.extra](https://github.com/thuyetbao/pool.extra) - Extra database worker with pool in R
 - [OHDSI/CohortDiagnostics](https://github.com/OHDSI/CohortDiagnostics) - An R package for performing various cohort diagnostics.
 - [YaoLab-Bioinfo/shinyChromosome](https://github.com/YaoLab-Bioinfo/shinyChromosome) - an R/Shiny application for interactive creation of non-circular plots of whole genomes
 - [sk-sahu/sig-bio-shiny](https://github.com/sk-sahu/sig-bio-shiny) - A standalone interactive application for  detecting biological significance on a set of genes
@@ -8772,6 +8785,8 @@
 
 ## Shell 
 
+- [prateeknischal/fzf-pass](https://github.com/prateeknischal/fzf-pass) - fzf based fuzzy finder password extension for pass(1)
+- [drduh/pwd.sh](https://github.com/drduh/pwd.sh) - GPG symmetric password manager
 - [redhat-cop/gitops-catalog](https://github.com/redhat-cop/gitops-catalog) - Tools and technologies that are hosted on an OpenShift cluster
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
