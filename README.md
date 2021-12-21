@@ -372,6 +372,11 @@
 
 ## C# # 
 
+- [JavierCanon/Dalayer.net](https://github.com/JavierCanon/Dalayer.net) - 🗃🧾 Lightweight high-performance data access components for query SQL, Excel, CSV, etc.
+- [ubbn/excel-to-sql](https://github.com/ubbn/excel-to-sql) - Tool to convert data in excel file into sql
+- [EvilLord666/ReportGenerator](https://github.com/EvilLord666/ReportGenerator) - A small cross-database tool for building excel documents (reports) based on data from database that extacts via View or Stored Procedures with parametres, ordering e.t.c.
+- [bilal-fazlani/ExcelToSqlScripts](https://github.com/bilal-fazlani/ExcelToSqlScripts) - This small command line tool to help you convert data of excel files into insert statements in SQL syntax.
+- [HandyOrg/HandyWinGet](https://github.com/HandyOrg/HandyWinGet) - GUI for installing apps through WinGet and Creating Yaml file
 - [ghulamghousdev/Reservation-System](https://github.com/ghulamghousdev/Reservation-System) - Airline Reservation System is an online Airline Ticket Reservation Application built using Windows Forms, C#, MS SQL Server.
 - [fullstackhero/dotnet-webapi-boilerplate](https://github.com/fullstackhero/dotnet-webapi-boilerplate) - Clean Architecture Template for .NET 6.0 WebApi built with Multitenancy Support.
 - [c0dycode/WindowsDefenderEasyExceptionAdder](https://github.com/c0dycode/WindowsDefenderEasyExceptionAdder) - Minimalistic utility to manage Windows Defender Exclusions
@@ -876,7 +881,12 @@
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
 - [no-types/RagGrid](https://github.com/no-types/RagGrid) - R interface to ag-grid.
 - [tidyverts/tidy-forecasting-principles](https://github.com/tidyverts/tidy-forecasting-principles) - Exploration of tidy standards for time series forecasting
+- [DataTables/Dist-DataTables-SearchPanes-SemanticUI](https://github.com/DataTables/Dist-DataTables-SearchPanes-SemanticUI) - 
+- [DataTables/Dist-DataTables-SearchPanes-DataTables](https://github.com/DataTables/Dist-DataTables-SearchPanes-DataTables) - 
+- [DataTables/Dist-DataTables-SearchPanes-Foundation](https://github.com/DataTables/Dist-DataTables-SearchPanes-Foundation) - 
 - [DataTables/Dist-DataTables-SearchPanes-jQueryUI](https://github.com/DataTables/Dist-DataTables-SearchPanes-jQueryUI) - 
+- [DataTables/Dist-DataTables-SearchPanes-Bootstrap4](https://github.com/DataTables/Dist-DataTables-SearchPanes-Bootstrap4) - 
+- [DataTables/Dist-DataTables-SearchPanes-Bootstrap](https://github.com/DataTables/Dist-DataTables-SearchPanes-Bootstrap) - 
 - [reprohack/reprohack-template-shiny](https://github.com/reprohack/reprohack-template-shiny) - 
 - [tyluRp/shinytemplate](https://github.com/tyluRp/shinytemplate) - :sparkles: A personal template for shiny dashboards
 - [dkilfoyle/shiny-explorer](https://github.com/dkilfoyle/shiny-explorer) - Shiny based data explorer with report templates based on field selection
@@ -1078,6 +1088,7 @@
 
 ## Go 
 
+- [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - Git-like capabilities for your object storage
 - [minitauros/swagen](https://github.com/minitauros/swagen) - Generate Swagger/OpenAPI YAML from a MySQL database schema
 - [davemachado/public-api](https://github.com/davemachado/public-api) - Public API for the public-apis Github project
@@ -1417,6 +1428,7 @@
 - [hashicorp/learn-terraform-cloudflare-static-website](https://github.com/hashicorp/learn-terraform-cloudflare-static-website) - 
 - [demophoon/obsidian-export-action](https://github.com/demophoon/obsidian-export-action) - Export Obsidian Vault with Github Actions
 - [Mara-Li/yet-another-free-publish-alternative](https://github.com/Mara-Li/yet-another-free-publish-alternative) - A Jekyll digital garden template, optimized for integration with Obsidian. It aims to enhance discoverability and help you build a personal knowledge base that can scale with time.
+- [re-data/re-data](https://github.com/re-data/re-data) - re_data - fix data issues before your users & CEO would discover them 😊
 - [okfn/messytables](https://github.com/okfn/messytables) - Tools for parsing messy tabular data. This is now superseded by https://github.com/frictionlessdata/tabulator-py
 - [microsoft/sqllinuxlabs](https://github.com/microsoft/sqllinuxlabs) - Self-paced labs for SQL Server on Linux and Docker Containers
 - [microsoft/python-sample-vscode-flask-tutorial](https://github.com/microsoft/python-sample-vscode-flask-tutorial) - Sample code for the Flask tutorial in the VS Code documentation
@@ -1920,6 +1932,7 @@
 
 ## Java 
 
+- [kkapoor84/Automation_Excel_Query_Creation](https://github.com/kkapoor84/Automation_Excel_Query_Creation) - 
 - [lovejjfg/PowerRefresh](https://github.com/lovejjfg/PowerRefresh) - Support nested scroll for refresh and load more.
 - [winston-dsouza/Online-Food-Ordering-System](https://github.com/winston-dsouza/Online-Food-Ordering-System) - Online Food Ordering And Order Retrieval System
 - [aposin/gem](https://github.com/aposin/gem) - Git Environment Manager (GEM)
@@ -2430,7 +2443,6 @@
 - [FormidableLabs/webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) - A CLI dashboard for webpack dev server
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
-- [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
 - [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
@@ -2889,12 +2901,7 @@
 - [bupaverse/processanimateR](https://github.com/bupaverse/processanimateR) - Token replay animation for process maps created with processmapR by using SVG animations (SMIL) and the htmlwidget package.
 - [bhaskarvk/widgetframe](https://github.com/bhaskarvk/widgetframe) - Embed htmlwidgets in Responsive iframe.
 - [juba/scatterD3](https://github.com/juba/scatterD3) - R scatter plot htmlwidget based on D3.js
-- [DataTables/Dist-DataTables-SearchPanes-SemanticUI](https://github.com/DataTables/Dist-DataTables-SearchPanes-SemanticUI) - 
-- [DataTables/Dist-DataTables-SearchPanes-DataTables](https://github.com/DataTables/Dist-DataTables-SearchPanes-DataTables) - 
-- [DataTables/Dist-DataTables-SearchPanes-Foundation](https://github.com/DataTables/Dist-DataTables-SearchPanes-Foundation) - 
-- [DataTables/Dist-DataTables-SearchPanes-Bootstrap4](https://github.com/DataTables/Dist-DataTables-SearchPanes-Bootstrap4) - 
 - [DataTables/Dist-DataTables-SearchPanes](https://github.com/DataTables/Dist-DataTables-SearchPanes) - 
-- [DataTables/Dist-DataTables-SearchPanes-Bootstrap](https://github.com/DataTables/Dist-DataTables-SearchPanes-Bootstrap) - 
 - [RConsortium/project-analysis](https://github.com/RConsortium/project-analysis) - Data-Driven Discovery and Tracking of R Consortium Activities
 - [actuarialvoodoo/rethinking-workflows](https://github.com/actuarialvoodoo/rethinking-workflows) - 
 - [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
@@ -3213,6 +3220,9 @@
 
 ## Others 
 
+- [DaveOnData/SQLForExcelUsers](https://github.com/DaveOnData/SQLForExcelUsers) - The GitHub repo for the "Introduction to SQL for Excel Users" blog tutorial series from DaveOnData.com
+- [cran-task-views/ctv](https://github.com/cran-task-views/ctv) - CRAN Task View Initiative
+- [jimbrig/Desktop-Wallpapers](https://github.com/jimbrig/Desktop-Wallpapers) - My Backed Up Wallpapers (Mostly Windows Specific)
 - [binder-examples/r-conda](https://github.com/binder-examples/r-conda) - R and RStudio via conda packages in repo2docker
 - [pablobernabeu/CarpentryCon-2020-workshop-Open-Data-Reproducibility](https://github.com/pablobernabeu/CarpentryCon-2020-workshop-Open-Data-Reproducibility) - This workshop provides a stepping stone into a suite of interrelated tools—R Markdown, data dashboards and Binder environments—, which are all underlain by reproducible workflows and open-source software.
 - [thuyetbao/Excel-Wizard](https://github.com/thuyetbao/Excel-Wizard) - Comprehensive approach with Process, Component, Formulas to create Dashboard with Excel
@@ -3554,7 +3564,7 @@
 - [dirsigler/git-toolbelt](https://github.com/dirsigler/git-toolbelt) - A suite of useful Git commands that aid with scripting or every day command line usage
 - [dirsigler/private-ip-cloud-sql-db](https://github.com/dirsigler/private-ip-cloud-sql-db) - An example set of terraform files for deploying a Cloud SQL DB with a private IP address only
 - [dirsigler/cloudbuild-optimizer](https://github.com/dirsigler/cloudbuild-optimizer) - Run builds across all machine types in Cloud Build to find the optimal price/performance tradeoff
-- [jobindj/obsidian-publish-github-pages](https://github.com/jobindj/obsidian-publish-github-pages) - A Template to Publish Obsidian/Foam Notes on Github Pages (uses MkDocs)
+- [jobindj/obsidian-publish-mkdocs](https://github.com/jobindj/obsidian-publish-mkdocs) - A Template to Publish Obsidian/Foam Notes on Github Pages (uses MkDocs)
 - [TechPrimers/whats-your-architecture](https://github.com/TechPrimers/whats-your-architecture) - "What's your Architecture?" is a series of architecture and design challenges to voice out the opinions of the TechPrimers community members.
 - [jimsforks/burglr](https://github.com/jimsforks/burglr) - Copy Functions from Other Packages Without Adding Them As Dependencies
 - [cranchange/cran_histories](https://github.com/cranchange/cran_histories) - Recollection of exchanges with CRAN reviewers and maintainer
@@ -4283,6 +4293,7 @@
 
 ## PLpgSQL 
 
+- [Azure-Samples/azure-sql-db-fullstack-serverless-kickstart](https://github.com/Azure-Samples/azure-sql-db-fullstack-serverless-kickstart) - Fullstack/Jamstack solution with Vue.js, Azure Functions, Azure Static Web apps and Azure SQL.
 - [dbt-labs/dbt-utils](https://github.com/dbt-labs/dbt-utils) - Utility functions for dbt projects.
 - [PacktPublishing/Learn-PostgreSQL](https://github.com/PacktPublishing/Learn-PostgreSQL) - Learn PostgreSQL, published by Packt
 - [anthonydb/practical-sql](https://github.com/anthonydb/practical-sql) - Code and Data for the First Edition of "Practical SQL" by Anthony DeBarros, published by No Starch Press (2018).
@@ -4915,7 +4926,7 @@
 
 ## Python 
 
-- [chasemc/electricpy](https://github.com/chasemc/electricpy) - Create standalone, installable R Shiny apps using Electron
+- [chasemc/duplipy](https://github.com/chasemc/duplipy) - Create standalone, installable R Shiny apps using Electron
 - [Erotemic/mkinit](https://github.com/Erotemic/mkinit) - Auto-generate explicit readable __init__.py files without `import *`
 - [dabapps/django-forms-dynamic](https://github.com/dabapps/django-forms-dynamic) - 
 - [pwwang/datar](https://github.com/pwwang/datar) - Port of dplyr and other related R packages in python, using pipda.
@@ -4950,7 +4961,6 @@
 - [davidedc/A-thousand-notes](https://github.com/davidedc/A-thousand-notes) - In Jan 2021 I moved around 29k notes from Evernote to markdown. These are the scripts I used to clean-up, validate, maintain the markdown notes.
 - [collignon/annotation-tools](https://github.com/collignon/annotation-tools) - python tools to link hypothesis and pinboard annotations to obsidian.
 - [aws-samples/sagemaker-studio-sparkmagic-lib](https://github.com/aws-samples/sagemaker-studio-sparkmagic-lib) - 
-- [re-data/re-data](https://github.com/re-data/re-data) - re_data - fix data issues before your users & CEO would discover them 😊
 - [sensiblecodeio/xypath](https://github.com/sensiblecodeio/xypath) - Navigating around a grid of cells like XPath for spreadsheets; supports Python 3.5+
 - [frictionlessdata/tabulator-py](https://github.com/frictionlessdata/tabulator-py) - Python library for reading and writing tabular data via streams.
 - [isidentical/refactor](https://github.com/isidentical/refactor) - AST-based fragmental source code refactoring toolkit
@@ -5617,6 +5627,7 @@
 
 ## R 
 
+- [moj-analytical-services/Rdbtools](https://github.com/moj-analytical-services/Rdbtools) - 
 - [derry-dev/Shiny_Desktop_App](https://github.com/derry-dev/Shiny_Desktop_App) - Quick and simple guide to packaging Shiny applications as a standalone Windows desktop program.
 - [jeroen/webp](https://github.com/jeroen/webp) - R bindings for libwebp
 - [jeroen/unix](https://github.com/jeroen/unix) - R bindings to system utilities found in most Unix systems
@@ -7263,7 +7274,7 @@
 - [Tim113/shinyauth](https://github.com/Tim113/shinyauth) - Adds authorisation to a shinydashboard, it's not that complicated.
 - [amrrs/sample_revenue_dashboard_shiny](https://github.com/amrrs/sample_revenue_dashboard_shiny) - Code and Plots used in the article of Revenue Dashboard
 - [irworkshop/campfin](https://github.com/irworkshop/campfin) - R package to help wrangle campaign finance data 💸
-- [jdblischak/workflowr](https://github.com/jdblischak/workflowr) - Organize your project into a research website
+- [workflowr/workflowr](https://github.com/workflowr/workflowr) - Organize your project into a research website
 - [snystrom/cmdfun](https://github.com/snystrom/cmdfun) - Framework for building R interfaces to shell commands
 - [r-prof/procmaps](https://github.com/r-prof/procmaps) - Portable Address Space Mapping in R
 - [geoffwlamb/checklist](https://github.com/geoffwlamb/checklist) - Create Checklists in RStudio
@@ -8802,6 +8813,7 @@
 
 ## Shell 
 
+- [pavanchhatpar/csv-to-sql-converter](https://github.com/pavanchhatpar/csv-to-sql-converter) - A shell script that converts a csv file (Excel Sheet) to an SQL file that can be imported in a MySQL database
 - [marlonrichert/.config](https://github.com/marlonrichert/.config) - ⚙️ Simple & efficient dotfiles for macOS & Ubuntu
 - [marlonrichert/zsh-edit](https://github.com/marlonrichert/zsh-edit) - 🛠 Better command line editing tools for Zsh
 - [marlonrichert/zsh-launchpad](https://github.com/marlonrichert/zsh-launchpad) - 🚀 Simple, educational dotfiles template to get started with Zsh and learn about its features
@@ -8848,7 +8860,7 @@
 - [virtualstaticvoid/asdf-docker-compose](https://github.com/virtualstaticvoid/asdf-docker-compose) - docker-compose plugin for asdf version manager
 - [alan-turing-institute/binderhub-deploy](https://github.com/alan-turing-institute/binderhub-deploy) - Deploy a BinderHub from scratch on Microsoft Azure
 - [jimbrig/ohmyzsh](https://github.com/jimbrig/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-- [jimbrig/dotfiles-wsl](https://github.com/jimbrig/dotfiles-wsl) - WSL Ubuntu `~/.dotfiles`
+- [jimbrig/dotfiles-wsl](https://github.com/jimbrig/dotfiles-wsl) - WSL~/.dotfiles
 - [ChrisTitusTech/ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) - Automated Arch Linux Install
 - [rememberYou/dotfiles](https://github.com/rememberYou/dotfiles) - 🏡 Personal dotfiles configuration
 - [Build5Nines/az-kung-fu](https://github.com/Build5Nines/az-kung-fu) - Repo for the Azure CLI Kung Fu series on Build5Nines.com
@@ -9598,6 +9610,7 @@
 - [phibr0/obsidian-charts](https://github.com/phibr0/obsidian-charts) - Charts - Obsidian Plugin | Create editable, interactive and animated Charts in Obsidian via Chart.js
 - [PicGo/PicGo-Core](https://github.com/PicGo/PicGo-Core) - :zap:A tool for pictures uploading. Both CLI & API supports.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+- [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [Thinkmill/manypkg](https://github.com/Thinkmill/manypkg) - ☔️ An umbrella for your monorepo
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
@@ -9629,7 +9642,7 @@
 - [hasura/data-dictionary](https://github.com/hasura/data-dictionary) - 
 - [codeverland/codever](https://github.com/codeverland/codever) - Bookmarks and Snippets Manager for Developers & Co
 - [agathauy/wikilinks-to-mdlinks-obsidian](https://github.com/agathauy/wikilinks-to-mdlinks-obsidian) - An Obsidian md plugin which allows for the conversion of individually selected wikilinks to markdown links, and vice versa.
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Connect to 15+ database integrations.
 - [toddbluhm/env-cmd](https://github.com/toddbluhm/env-cmd) - Setting environment variables from a file
 - [linyows/github-issues-notice](https://github.com/linyows/github-issues-notice) - :octocat: Notify labeled issues to Slack
 - [peter-evans/create-issue-from-file](https://github.com/peter-evans/create-issue-from-file) - A GitHub action to create an issue using content from a file
@@ -9766,6 +9779,7 @@
 
 ## VBA 
 
+- [cavo789/vba_excel_sql](https://github.com/cavo789/vba_excel_sql) - SQL Server to Microsoft Excel. VBA class for Excel to make easy to access records stored in SQL Server and output these data in an Excel sheet; keeping or not the link
 - [jimbrig/excel-config](https://github.com/jimbrig/excel-config) - Personalized Excel Setup and Configuration
 - [ReneNyffenegger/temp-COM](https://github.com/ReneNyffenegger/temp-COM) - 
 - [dragokas/hijackthis](https://github.com/dragokas/hijackthis) - A free utility that finds malware, adware and other security threats
@@ -9865,6 +9879,7 @@
 
 ## Vue 
 
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative
 - [dale0525/ClipBroad](https://github.com/dale0525/ClipBroad) - Sync your clipboard across multiple platforms
 - [FrissAnalytics/shiny-vue-simple](https://github.com/FrissAnalytics/shiny-vue-simple) - simple example combining R shiny and vue.js
 - [timelyportfolio/vue-cli-r](https://github.com/timelyportfolio/vue-cli-r) - 
