@@ -241,6 +241,7 @@
 
 ## C 
 
+- [LEDfan/httpuv](https://github.com/LEDfan/httpuv) - HTTP and WebSocket server package for R
 - [jeroen/gpg](https://github.com/jeroen/gpg) - Bindings to gpgme for R
 - [bwlewis/feathercache](https://github.com/bwlewis/feathercache) - Simple networked object cache
 - [bwlewis/lz4](https://github.com/bwlewis/lz4) - LZ4  Data Compression and Decompression for R
@@ -1088,6 +1089,7 @@
 
 ## Go 
 
+- [openanalytics/rdepot-cli](https://github.com/openanalytics/rdepot-cli) - CLI for RDepot
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - Git-like capabilities for your object storage
 - [minitauros/swagen](https://github.com/minitauros/swagen) - Generate Swagger/OpenAPI YAML from a MySQL database schema
@@ -1410,6 +1412,7 @@
 
 ## HTML 
 
+- [openanalytics/shinyproxy-flask-demo](https://github.com/openanalytics/shinyproxy-flask-demo) - 
 - [HoussemDellai/WebAppWithDatabaseDemo](https://github.com/HoussemDellai/WebAppWithDatabaseDemo) - Sample ASP.NET Core MVC app with database for demoing CI-CD pipelines using Azure DevOps
 - [bostrot/portfolio](https://github.com/bostrot/portfolio) - Clean HTML5 & CSS portfolio site
 - [uc-bd2k/GREIN](https://github.com/uc-bd2k/GREIN) - GREIN : GEO RNA-seq Experiments Interactive Navigator
@@ -1459,6 +1462,7 @@
 - [IndrajeetPatil/awesome-r-pkgtools](https://github.com/IndrajeetPatil/awesome-r-pkgtools) - A curated list of awesome resources for R package development
 - [berlotto/flask-app-template](https://github.com/berlotto/flask-app-template) - An complete Flask application template, with useful plugins.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
+- [jimbrig/lossrx](https://github.com/jimbrig/lossrx) - An R package and Shiny App for Actuarial Loss Development and Reserving
 - [ropensci-org/rotemplate](https://github.com/ropensci-org/rotemplate) - pkgdown template for rOpenSci packages :nail_care: :sparkles:
 - [corpsgeek/flask-form-handling](https://github.com/corpsgeek/flask-form-handling) - 
 - [imzjy/MyDiffTool](https://github.com/imzjy/MyDiffTool) - The missing comparing text tool for Mac, Windows and Linux.
@@ -1932,6 +1936,7 @@
 
 ## Java 
 
+- [openanalytics/RDepot](https://github.com/openanalytics/RDepot) - RDepot - Enterprise Management of R Repositories
 - [kkapoor84/Automation_Excel_Query_Creation](https://github.com/kkapoor84/Automation_Excel_Query_Creation) - 
 - [lovejjfg/PowerRefresh](https://github.com/lovejjfg/PowerRefresh) - Support nested scroll for refresh and load more.
 - [winston-dsouza/Online-Food-Ordering-System](https://github.com/winston-dsouza/Online-Food-Ordering-System) - Online Food Ordering And Order Retrieval System
@@ -2451,7 +2456,6 @@
 - [abhisheknaiidu/todoist-readme](https://github.com/abhisheknaiidu/todoist-readme) - 🚧 Updates README with Todoist Stats of a user
 - [pegaltier/awesome-utils-dev](https://github.com/pegaltier/awesome-utils-dev) - 📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...
 - [agnitas-org/openemm](https://github.com/agnitas-org/openemm) - Web-based software for email automation and marketing (newsletters, mutli-stage mail campaigns, transaction mails, autoresponder, etc.)
-- [aws-solutions/serverless-image-handler](https://github.com/aws-solutions/serverless-image-handler) - A solution to dynamically handle images on the fly, utilizing SharpJS
 - [wouterverweirder/electron-website-downloader](https://github.com/wouterverweirder/electron-website-downloader) - Desktop application to download a website with all of it's internal links and assets to your local machine.
 - [up209d/ResourcesSaverExt](https://github.com/up209d/ResourcesSaverExt) - Chrome Extension for one click downloading all resources files and keeping folder structures.
 - [jbkunst/highcharts-themes-collection](https://github.com/jbkunst/highcharts-themes-collection) - Highcharts themes collection
@@ -3005,6 +3009,7 @@
 
 ## Jupyter Notebook 
 
+- [tomaztk/Azure-Data-Studio-Notebooks](https://github.com/tomaztk/Azure-Data-Studio-Notebooks) - Notebooks for Microsoft Azure Data Studio
 - [keon/data-engineering](https://github.com/keon/data-engineering) - 
 - [mii9000/das](https://github.com/mii9000/das) - Diagrams As Code
 - [actuarialopensource/validations](https://github.com/actuarialopensource/validations) - hand picked values to test table parsing
@@ -4926,6 +4931,8 @@
 
 ## Python 
 
+- [ricardovm91/pyshiny](https://github.com/ricardovm91/pyshiny) - An easy to deploy Python API for Shiny apps.
+- [jod35/Build-And-Deploy-A-REST-API-With-Flask](https://github.com/jod35/Build-And-Deploy-A-REST-API-With-Flask) - This is a repository for a playlist of videos where I teach building RESTful API with Flask and Flask extensions.
 - [chasemc/duplipy](https://github.com/chasemc/duplipy) - Create standalone, installable R Shiny apps using Electron
 - [Erotemic/mkinit](https://github.com/Erotemic/mkinit) - Auto-generate explicit readable __init__.py files without `import *`
 - [dabapps/django-forms-dynamic](https://github.com/dabapps/django-forms-dynamic) - 
@@ -5627,6 +5634,16 @@
 
 ## R 
 
+- [dilan-jayasekara/GettingStartedRShiny-Python](https://github.com/dilan-jayasekara/GettingStartedRShiny-Python) - We are data scientists, We know how to code in R and Python both! Why can't we use R+Python for our development right? It's not rocket science it's Data Science and that's what we good at. Let's see how to get the maximum out of R and Python for a Shiny Dashboard!
+- [openanalytics/Rango](https://github.com/openanalytics/Rango) - Object Relational Mapper for R
+- [openanalytics/useR2017_templatePackageExample](https://github.com/openanalytics/useR2017_templatePackageExample) - 
+- [openanalytics/rrundeck](https://github.com/openanalytics/rrundeck) - R Client for the Rundeck API
+- [openanalytics/rtq](https://github.com/openanalytics/rtq) - Reliable Task Queues for R
+- [openanalytics/patientProfilesVis](https://github.com/openanalytics/patientProfilesVis) - 
+- [openanalytics/clinDataReview](https://github.com/openanalytics/clinDataReview) - 
+- [openanalytics/BIGL](https://github.com/openanalytics/BIGL) - 
+- [openanalytics/rjenkins](https://github.com/openanalytics/rjenkins) - 
+- [rerock/Claims_Reserving](https://github.com/rerock/Claims_Reserving) - 
 - [moj-analytical-services/Rdbtools](https://github.com/moj-analytical-services/Rdbtools) - 
 - [derry-dev/Shiny_Desktop_App](https://github.com/derry-dev/Shiny_Desktop_App) - Quick and simple guide to packaging Shiny applications as a standalone Windows desktop program.
 - [jeroen/webp](https://github.com/jeroen/webp) - R bindings for libwebp
@@ -5858,7 +5875,6 @@
 - [collidrpackage/collidr](https://github.com/collidrpackage/collidr) - Avoiding Namespace Collisions in R
 - [IndrajeetPatil/ipmisc](https://github.com/IndrajeetPatil/ipmisc) - Miscellaneous helper functions for data cleaning and data analysis
 - [anhoej/r4spc](https://github.com/anhoej/r4spc) - Course materials: Statistical process control charts with R
-- [jimbrig/lossrx](https://github.com/jimbrig/lossrx) - An R package and Shiny App for Actuarial Loss Development and Reserving
 - [jimbrig/lossdevt](https://github.com/jimbrig/lossdevt) - An R package and Shiny App for Actuarial Loss Development and Reserving
 - [RobinHankin/onion](https://github.com/RobinHankin/onion) - R functionality to deal with quaternions and octonions
 - [prioritizr/prioritizr](https://github.com/prioritizr/prioritizr) - Systematic conservation prioritization in R
@@ -9300,6 +9316,8 @@
 
 ## TSQL 
 
+- [AhmetFurkanDEMIR/Microsoft-SQL](https://github.com/AhmetFurkanDEMIR/Microsoft-SQL) - Necmettin Erbakan University 3nd year Database Systems lecture notes and assignments.
+- [tanyogeorgiev/Pastelin](https://github.com/tanyogeorgiev/Pastelin) - Azure Data Studio Dark Theme
 - [kevchant/sqlwatch](https://github.com/kevchant/sqlwatch) - SQL Server Performance Monitor
 - [twright-msft/mssql-test-scripts](https://github.com/twright-msft/mssql-test-scripts) - Some T-SQL scripts that can be used for testing.
 - [vladimir-aleyev/t-sql](https://github.com/vladimir-aleyev/t-sql) - useful t-sql scripts
@@ -9386,6 +9404,8 @@
 
 ## TypeScript 
 
+- [dzsquared/jupyter-publish-action](https://github.com/dzsquared/jupyter-publish-action) - GitHub action for publishing a remote Jupyter book for Azure Data Studio 📘
+- [ernstc/SqlDataInspector](https://github.com/ernstc/SqlDataInspector) - This is an Azure Data Studio extension that let you inspect the data in your database with just few clicks.
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [Quorafind/Obsidian-Task-Changer](https://github.com/Quorafind/Obsidian-Task-Changer) - Change task status by one click.
@@ -9619,6 +9639,7 @@
 - [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry
 - [snyk/release-notes-preview](https://github.com/snyk/release-notes-preview) - GitHub Action for providing release notes preview for semantic releases
 - [JoRyGu/client-book](https://github.com/JoRyGu/client-book) - 
+- [aws-solutions/serverless-image-handler](https://github.com/aws-solutions/serverless-image-handler) - A solution to dynamically handle images on the fly, utilizing SharpJS
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
 - [phibr0/cycle-through-panes](https://github.com/phibr0/cycle-through-panes) - Cycle through Panes - Obsidian Plugin
 - [Vinzent03/find-unlinked-files](https://github.com/Vinzent03/find-unlinked-files) - Find files, which are nowhere linked, so they are maybe lost in your vault.
