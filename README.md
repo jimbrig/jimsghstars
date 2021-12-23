@@ -362,7 +362,6 @@
 - [gaborcsardi/parsedate](https://github.com/gaborcsardi/parsedate) - R package to parse dates given in arbitrary formats
 - [vigou3/actuar](https://github.com/vigou3/actuar) - Actuarial functions and heavy tailed distributions for R
 - [eddelbuettel/digest](https://github.com/eddelbuettel/digest) - R package to create compact hash digests of R objects
-- [mhahsler/arules](https://github.com/mhahsler/arules) - Mining Association Rules and Frequent Itemsets with R
 - [ropensci/git2r](https://github.com/ropensci/git2r) - R bindings to the libgit2 library
 - [viking/r-yaml](https://github.com/viking/r-yaml) - R package for converting objects to and from YAML
 - [wrathematics/getPass](https://github.com/wrathematics/getPass) - Password function for R with masking (where supported)
@@ -2003,6 +2002,7 @@
 
 ## JavaScript 
 
+- [wviechtb/mathjaxr](https://github.com/wviechtb/mathjaxr) - R package to make use of Mathjax in Rd files
 - [rstudio/learnr](https://github.com/rstudio/learnr) - Interactive Tutorials with R Markdown
 - [OHDSI/DataQualityDashboard](https://github.com/OHDSI/DataQualityDashboard) - A tool to help improve data quality standards in observational data science.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
@@ -3225,6 +3225,7 @@
 
 ## Others 
 
+- [liangyy/template_r_documentation](https://github.com/liangyy/template_r_documentation) - This is a light template for documentation based on rmarkdown
 - [DaveOnData/SQLForExcelUsers](https://github.com/DaveOnData/SQLForExcelUsers) - The GitHub repo for the "Introduction to SQL for Excel Users" blog tutorial series from DaveOnData.com
 - [cran-task-views/ctv](https://github.com/cran-task-views/ctv) - CRAN Task View Initiative
 - [jimbrig/Desktop-Wallpapers](https://github.com/jimbrig/Desktop-Wallpapers) - My Backed Up Wallpapers (Mostly Windows Specific)
@@ -3355,7 +3356,6 @@
 - [rnystrom/leadership](https://github.com/rnystrom/leadership) - [WIP] My thoughts, principles, and resources on leadership.
 - [rnystrom/.github-template](https://github.com/rnystrom/.github-template) - 
 - [canonical/WSL-DistroLauncher](https://github.com/canonical/WSL-DistroLauncher) - Sample/reference launcher app for WSL distro Microsoft Store packages.
-- [ddiebold91/dotfiles](https://github.com/ddiebold91/dotfiles) - dotfiles from vps on ssdnodes
 - [joelhans/ssdnodes-ansible-provision](https://github.com/joelhans/ssdnodes-ansible-provision) - A basic Ansible playbook to provision bare servers with SSH keys, iptables, and fail2ban. Built for SSD Nodes.
 - [tborychowski/self-hosted-cookbook](https://github.com/tborychowski/self-hosted-cookbook) - A cookbook, for docker-compose based recipes, for self-hosted applications and services.
 - [zeroday0619/WindowsTerminal-Configuration](https://github.com/zeroday0619/WindowsTerminal-Configuration) - Windows Terminal Configuration
@@ -4572,7 +4572,6 @@
 - [ethanbergstrom/Chocolatier](https://github.com/ethanbergstrom/Chocolatier) - Package Management (OneGet) provider that facilitates installing Chocolatey packages from any NuGet repository.
 - [OneGet/MicrosoftDockerProvider](https://github.com/OneGet/MicrosoftDockerProvider) - Provider to search, save and install Docker
 - [ralish/PSWinGlue](https://github.com/ralish/PSWinGlue) - An assortment of useful PowerShell scripts & functions
-- [PavelStsefanovich/DevEnv](https://github.com/PavelStsefanovich/DevEnv) - 
 - [PavelStsefanovich/lib_powershell](https://github.com/PavelStsefanovich/lib_powershell) - Code snippets and modules
 - [TheTaylorLee/AdminToolbox](https://github.com/TheTaylorLee/AdminToolbox) - Repository for the AdminToolbox Powershell Module
 - [ralish/PSWinVitals](https://github.com/ralish/PSWinVitals) - Consolidates common system health checks, maintenance tasks & inventory retrieval
@@ -5634,6 +5633,7 @@
 
 ## R 
 
+- [dcomtois/cmtr](https://github.com/dcomtois/cmtr) - RStudio Addin to comment / uncomment selection using /*  */
 - [dilan-jayasekara/GettingStartedRShiny-Python](https://github.com/dilan-jayasekara/GettingStartedRShiny-Python) - We are data scientists, We know how to code in R and Python both! Why can't we use R+Python for our development right? It's not rocket science it's Data Science and that's what we good at. Let's see how to get the maximum out of R and Python for a Shiny Dashboard!
 - [openanalytics/Rango](https://github.com/openanalytics/Rango) - Object Relational Mapper for R
 - [openanalytics/useR2017_templatePackageExample](https://github.com/openanalytics/useR2017_templatePackageExample) - 
@@ -8191,6 +8191,7 @@
 - [MilesMcBain/friendlyeval](https://github.com/MilesMcBain/friendlyeval) - A friendly interface to tidyeval/rlang that will excuse itself when you're done.
 - [ateucher/rmapshaper](https://github.com/ateucher/rmapshaper) - An R wrapper for the mapshaper javascript library
 - [jthaman/ciTools](https://github.com/jthaman/ciTools) - An R Package for Quick Uncertainty Intervals
+- [mhahsler/arules](https://github.com/mhahsler/arules) - Mining Association Rules and Frequent Itemsets with R
 - [nacnudus/unpivotr](https://github.com/nacnudus/unpivotr) - Unpivot complex and irregular data layouts in R
 - [EmilHvitfeldt/textdata](https://github.com/EmilHvitfeldt/textdata) - Download, parse, store, and load text datasets instead of storing it in packages
 - [ropensci/internetarchive](https://github.com/ropensci/internetarchive) - Search the Internet Archive, retrieve metadata, and download files
@@ -9261,7 +9262,7 @@
 - [grssnbchr/rddj-template](https://github.com/grssnbchr/rddj-template) - A template for bootstrapping reproducible RMarkdown documents for data journalistic purposes.
 - [petervanderdoes/gitflow-avh](https://github.com/petervanderdoes/gitflow-avh) - AVH Edition of the git extensions to provide high-level repository operations for Vincent Driessen's branching model
 - [r-hub/sysreqsdb](https://github.com/r-hub/sysreqsdb) - SystemRequirements mappings for R packages
-- [strboul/dotfiles](https://github.com/strboul/dotfiles) - My workbench :toolbox:
+- [strboul/dotfiles](https://github.com/strboul/dotfiles) - The workbench :toolbox:
 - [jcheng5/rhub-linux-builders](https://github.com/jcheng5/rhub-linux-builders) - Docker configuration for the Linux builders
 - [luong-komorebi/professional-programming](https://github.com/luong-komorebi/professional-programming) - A collection of full-stack resources for programmers.
 - [fresh2dev/ShinyStudio](https://github.com/fresh2dev/ShinyStudio) - A fully Dockerized, self-hosted development environment for teams. Develop where you serve.
