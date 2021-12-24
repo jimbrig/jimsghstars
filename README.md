@@ -2061,7 +2061,6 @@
 - [formio/formio](https://github.com/formio/formio) - A Form and Data Management Platform for Progressive Web Applications.
 - [julien-c/epub](https://github.com/julien-c/epub) - node.js epub reader
 - [seladb/StarTrack-js](https://github.com/seladb/StarTrack-js) - GitHub star history and stats - based on JavaScript only!
-- [shovel-org/GithubActions](https://github.com/shovel-org/GithubActions) - GitHub actions for Shovel bucket automation.
 - [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
 - [SkepticMystic/breadcrumbs](https://github.com/SkepticMystic/breadcrumbs) - Visualise a custom hierarchy in your Obsidian vault
 - [alexjv89/echoalex_com](https://github.com/alexjv89/echoalex_com) - Source code for echoalex.com
@@ -3787,7 +3786,6 @@
 - [cristianmiranda/docs](https://github.com/cristianmiranda/docs) - 🌱 Digital Garden
 - [jpeach/notes](https://github.com/jpeach/notes) - Obsidian notes vault
 - [slowernews/hamster-system](https://github.com/slowernews/hamster-system) - Ultra-simple framework to organize your life.
-- [Qiplex/Easy-File-Organizer](https://github.com/Qiplex/Easy-File-Organizer) - One-click file organizer for Windows, Mac and Linux
 - [bjoern-hempel/backup-folders](https://github.com/bjoern-hempel/backup-folders) - A script to easily backup folders.
 - [dirmeier/rstan](https://github.com/dirmeier/rstan) - RStan, the R interface to Stan
 - [dirmeier/essential-R](https://github.com/dirmeier/essential-R) - :blue_book: Essential tools and libraries for programming in R
@@ -4398,6 +4396,7 @@
 - [johnthebrit/DevOpsMC](https://github.com/johnthebrit/DevOpsMC) - DevOps Master Class Public Repo
 - [matthewjdegarmo/PSChickfilA](https://github.com/matthewjdegarmo/PSChickfilA) - PowerShell wrapper for Chick-fil-A API
 - [shovel-org/GenericBucket](https://github.com/shovel-org/GenericBucket) - Generic Shovel bucket template.
+- [shovel-org/GithubActions](https://github.com/shovel-org/GithubActions) - GitHub actions for Shovel bucket automation.
 - [dbroeglin/PoshWix](https://github.com/dbroeglin/PoshWix) - PoshWix is an opinionated and trivially simple tool to produce MSI packages from PowerShell modules
 - [mefellows/windows-machine-factory-tutorial](https://github.com/mefellows/windows-machine-factory-tutorial) - Example Machine Factory setup for Windows Server 2012r2
 - [apetitjean/EZLog](https://github.com/apetitjean/EZLog) - A very easy and pragmatic log module for admins in a hurry.
@@ -5633,6 +5632,7 @@
 
 ## R 
 
+- [r-lib/rcmdcheck](https://github.com/r-lib/rcmdcheck) - Run R CMD check from R and collect the results
 - [dcomtois/cmtr](https://github.com/dcomtois/cmtr) - RStudio Addin to comment / uncomment selection using /*  */
 - [dilan-jayasekara/GettingStartedRShiny-Python](https://github.com/dilan-jayasekara/GettingStartedRShiny-Python) - We are data scientists, We know how to code in R and Python both! Why can't we use R+Python for our development right? It's not rocket science it's Data Science and that's what we good at. Let's see how to get the maximum out of R and Python for a Shiny Dashboard!
 - [openanalytics/Rango](https://github.com/openanalytics/Rango) - Object Relational Mapper for R
