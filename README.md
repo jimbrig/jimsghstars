@@ -1659,7 +1659,7 @@
 - [rust-lang/compiler-team](https://github.com/rust-lang/compiler-team) - A home for compiler team planning documents, meeting minutes, and other such things.
 - [foambubble/foam-template](https://github.com/foambubble/foam-template) - Foam workpace template
 - [byrnereese/mkdocs-bootstrap4](https://github.com/byrnereese/mkdocs-bootstrap4) - Bootstrap 4.0+ theme for MkDocs
-- [rgvr/scratchpad](https://github.com/rgvr/scratchpad) - As the name suggests, this is my scratchpad to try out code to understand a concept or try out new ideas
+- [rgvrnt/scratchpad](https://github.com/rgvrnt/scratchpad) - As the name suggests, this is my scratchpad to try out code to understand a concept or try out new ideas
 - [RickStrahl/MarkdownMonster](https://github.com/RickStrahl/MarkdownMonster) - An extensible Markdown Editor, Viewer and Weblog Publisher for Windows
 - [xfirefly/Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) - Airplay Receiver SDK supports Airplay Mirroring and AirPlay Casting to a receiver device.
 - [r4ds/bookclub-rpkgs](https://github.com/r4ds/bookclub-rpkgs) - 
@@ -1935,6 +1935,7 @@
 
 ## Java 
 
+- [Kanav-Arora/Financify](https://github.com/Kanav-Arora/Financify) - Financify is an accounting software based on Java and MySQL .
 - [openanalytics/RDepot](https://github.com/openanalytics/RDepot) - RDepot - Enterprise Management of R Repositories
 - [kkapoor84/Automation_Excel_Query_Creation](https://github.com/kkapoor84/Automation_Excel_Query_Creation) - 
 - [lovejjfg/PowerRefresh](https://github.com/lovejjfg/PowerRefresh) - Support nested scroll for refresh and load more.
