@@ -3225,6 +3225,7 @@
 
 ## Others 
 
+- [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [liangyy/template_r_documentation](https://github.com/liangyy/template_r_documentation) - This is a light template for documentation based on rmarkdown
 - [DaveOnData/SQLForExcelUsers](https://github.com/DaveOnData/SQLForExcelUsers) - The GitHub repo for the "Introduction to SQL for Excel Users" blog tutorial series from DaveOnData.com
 - [cran-task-views/ctv](https://github.com/cran-task-views/ctv) - CRAN Task View Initiative
@@ -6504,7 +6505,7 @@
 - [MangoTheCat/Formal-Package-Development-Workshop](https://github.com/MangoTheCat/Formal-Package-Development-Workshop) - Resources for the EARL Current Best Practices in Formal Package Development Workshop
 - [fmmattioni/shinybulmareprex](https://github.com/fmmattioni/shinybulmareprex) - 
 - [quarto-dev/quarto-r](https://github.com/quarto-dev/quarto-r) - R interface to quarto-cli
-- [royfrancis/shinyapp_calendar_plot](https://github.com/royfrancis/shinyapp_calendar_plot) - An R Shiny App to create a calendar
+- [royfrancis/shinyapp_calendar_plot](https://github.com/royfrancis/shinyapp_calendar_plot) - An R Shiny App to create a calendar.
 - [AndreAlz/Chatbot-Shiny](https://github.com/AndreAlz/Chatbot-Shiny) - Chatbot developed in R Shiny using 2 KNN models for classification with Caret library.
 - [apear9/riskmapr](https://github.com/apear9/riskmapr) - Code for riskmapr apps for invasive weed risk mapping
 - [rajkstats/git_discoverer_app](https://github.com/rajkstats/git_discoverer_app) - What's trending in data science space
