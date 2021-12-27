@@ -2003,6 +2003,7 @@
 
 ## JavaScript 
 
+- [Appsilon/shiny.tools](https://github.com/Appsilon/shiny.tools) - This webpage is a landing page collecting Appsilon's opensource packages for Shiny framework
 - [wviechtb/mathjaxr](https://github.com/wviechtb/mathjaxr) - R package to make use of Mathjax in Rd files
 - [rstudio/learnr](https://github.com/rstudio/learnr) - Interactive Tutorials with R Markdown
 - [OHDSI/DataQualityDashboard](https://github.com/OHDSI/DataQualityDashboard) - A tool to help improve data quality standards in observational data science.
@@ -3234,7 +3235,6 @@
 - [pablobernabeu/CarpentryCon-2020-workshop-Open-Data-Reproducibility](https://github.com/pablobernabeu/CarpentryCon-2020-workshop-Open-Data-Reproducibility) - This workshop provides a stepping stone into a suite of interrelated tools—R Markdown, data dashboards and Binder environments—, which are all underlain by reproducible workflows and open-source software.
 - [thuyetbao/Excel-Wizard](https://github.com/thuyetbao/Excel-Wizard) - Comprehensive approach with Process, Component, Formulas to create Dashboard with Excel
 - [hmajid2301/fastapi-template](https://github.com/hmajid2301/fastapi-template) - 
-- [thuyetbao/python-pathway](https://github.com/thuyetbao/python-pathway) - Journey to collect the various collection of snapshots, notes, diagrams, and examples to learn and apply python
 - [bwlewis/r-and-singularity](https://github.com/bwlewis/r-and-singularity) - Notes on R and Singularity
 - [jimbrig/rlambda](https://github.com/jimbrig/rlambda) - R on AWS Lambda
 - [viktortat/docker_shiny_mssql](https://github.com/viktortat/docker_shiny_mssql) - This repo holds the relevant Docker, R and SQL scripts needed to reproduce my tutorial on Dockerizing R/Shiny and MS SQL Server
@@ -4931,10 +4931,12 @@
 
 ## Python 
 
+- [mentoldo/sqlauthandle](https://github.com/mentoldo/sqlauthandle) - Python package to manage Secure Authentication to SQL DB
 - [ricardovm91/pyshiny](https://github.com/ricardovm91/pyshiny) - An easy to deploy Python API for Shiny apps.
 - [jod35/Build-And-Deploy-A-REST-API-With-Flask](https://github.com/jod35/Build-And-Deploy-A-REST-API-With-Flask) - This is a repository for a playlist of videos where I teach building RESTful API with Flask and Flask extensions.
 - [chasemc/duplipy](https://github.com/chasemc/duplipy) - Create standalone, installable R Shiny apps using Electron
 - [Erotemic/mkinit](https://github.com/Erotemic/mkinit) - Auto-generate explicit readable __init__.py files without `import *`
+- [thuyetbao/python-pathway](https://github.com/thuyetbao/python-pathway) - Journey to collect the various collection of snapshots, notes, diagrams, and examples to learn and apply python
 - [dabapps/django-forms-dynamic](https://github.com/dabapps/django-forms-dynamic) - 
 - [pwwang/datar](https://github.com/pwwang/datar) - Port of dplyr and other related R packages in python, using pipda.
 - [Princekrampah/FlaskRESTFUL](https://github.com/Princekrampah/FlaskRESTFUL) - 
@@ -5634,6 +5636,7 @@
 
 ## R 
 
+- [mentoldo/rsqlauthandle](https://github.com/mentoldo/rsqlauthandle) - Easy manage authentication on SQL DB.
 - [r-lib/rcmdcheck](https://github.com/r-lib/rcmdcheck) - Run R CMD check from R and collect the results
 - [dcomtois/cmtr](https://github.com/dcomtois/cmtr) - RStudio Addin to comment / uncomment selection using /*  */
 - [dilan-jayasekara/GettingStartedRShiny-Python](https://github.com/dilan-jayasekara/GettingStartedRShiny-Python) - We are data scientists, We know how to code in R and Python both! Why can't we use R+Python for our development right? It's not rocket science it's Data Science and that's what we good at. Let's see how to get the maximum out of R and Python for a Shiny Dashboard!
@@ -9692,7 +9695,7 @@
 - [actions-js/profile-readme](https://github.com/actions-js/profile-readme) - 🗣 Display profile activity and other cool widgets in your profile README.md
 - [saojs/sao](https://github.com/saojs/sao) - ⚔ Futuristic scaffolding tool
 - [jamieweavis/streaker](https://github.com/jamieweavis/streaker) - 🔥 GitHub contribution streak & stat tracking menu bar app
-- [LaksCastro/random-starred-repo](https://github.com/LaksCastro/random-starred-repo) - 💡 A tiny website to open random repositories that you starred, available in: https://lakscastro.github.io/random-starred-repo
+- [lakscastro/random-starred-repo](https://github.com/lakscastro/random-starred-repo) - 💡 A tiny website to open random repositories that you starred, available in: https://lakscastro.github.io/random-starred-repo
 - [lynchjames/note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) - Allows for text selections to be copied (refactored) into new notes and notes to be split into other notes.
 - [deathau/cm-show-whitespace-obsidian](https://github.com/deathau/cm-show-whitespace-obsidian) - A plugin for [Obsidian](https://obsidian.md) which shows whitespace in the editor.
 - [denolehov/obsidian-url-into-selection](https://github.com/denolehov/obsidian-url-into-selection) - Paste URLs into selected text "notion style"
