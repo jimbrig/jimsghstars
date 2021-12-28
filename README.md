@@ -372,6 +372,8 @@
 
 ## C# # 
 
+- [microsoft/winget-create](https://github.com/microsoft/winget-create) - The Windows Package Manager Manifest Creator command-line tool (aka wingetcreate)
+- [OneGet/oneget](https://github.com/OneGet/oneget) - PackageManagement (aka OneGet) is a package manager for Windows
 - [JavierCanon/Dalayer.net](https://github.com/JavierCanon/Dalayer.net) - 🗃🧾 Lightweight high-performance data access components for query SQL, Excel, CSV, etc.
 - [ubbn/excel-to-sql](https://github.com/ubbn/excel-to-sql) - Tool to convert data in excel file into sql
 - [EvilLord666/ReportGenerator](https://github.com/EvilLord666/ReportGenerator) - A small cross-database tool for building excel documents (reports) based on data from database that extacts via View or Stored Procedures with parametres, ordering e.t.c.
@@ -599,6 +601,7 @@
 - [paleolimbot/geoarrow](https://github.com/paleolimbot/geoarrow) - Extension types for geospatial data for use with 'Arrow'
 - [meganz/MEGAcmd](https://github.com/meganz/MEGAcmd) - Command Line Interactive and Scriptable Application to access MEGA
 - [miraisolutions/winsendkeys](https://github.com/miraisolutions/winsendkeys) - Sendkeys R library for Windows
+- [intelligenate/dfc](https://github.com/intelligenate/dfc) - 
 - [kpsinghlubana/rpython](https://github.com/kpsinghlubana/rpython) - 
 - [toggl-open-source/toggldesktop](https://github.com/toggl-open-source/toggldesktop) - Toggl Desktop app for Windows, Mac and Linux
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
@@ -749,6 +752,7 @@
 
 ## CSS 
 
+- [app-generator/flask-pixel](https://github.com/app-generator/flask-pixel) - Flask Pixel UI Kit - Open-Source web app coded in Flask | AppSeed
 - [Nasawa/Clipt](https://github.com/Nasawa/Clipt) - Cross-machine clipboard management
 - [yogesh-kamat/IMS](https://github.com/yogesh-kamat/IMS) - Inventory management system using Django and Postgresql
 - [colineckert/obsidian-things](https://github.com/colineckert/obsidian-things) - An Obsidian theme inspired by the beautifully-designed app, Things.
@@ -1088,6 +1092,7 @@
 
 ## Go 
 
+- [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 - [openanalytics/rdepot-cli](https://github.com/openanalytics/rdepot-cli) - CLI for RDepot
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - Git-like capabilities for your object storage
@@ -1730,7 +1735,6 @@
 - [daattali/daattali.github.io](https://github.com/daattali/daattali.github.io) - Dean Attali's website - R/Shiny Consultant
 - [epwalsh/docker-shiny](https://github.com/epwalsh/docker-shiny) - :whale: A Docker image for an R Shiny server with username + password authentication :closed_lock_with_key:
 - [marton-balazs-kovacs/tenzing](https://github.com/marton-balazs-kovacs/tenzing) - tenzing: documening contributorship with CRediT
-- [scibrokes/owner](https://github.com/scibrokes/owner) - Personal CV
 - [stisla/stisla](https://github.com/stisla/stisla) - Free Bootstrap Admin Template
 - [cobiwave/simplefolio](https://github.com/cobiwave/simplefolio) - ⚡️ A minimal portfolio template for Developers
 - [tclavelle/dplyr-tidyr-tutorial](https://github.com/tclavelle/dplyr-tidyr-tutorial) - Tutorial on dplyr and tidyr packages for Eco-Data-Sci group
@@ -2372,6 +2376,7 @@
 - [sdllc/constructr](https://github.com/sdllc/constructr) - Electron-based R Shell
 - [ttiny/deploy](https://github.com/ttiny/deploy) - Git and Docker deployment tool.
 - [jthegedus/firebase-gcp-examples](https://github.com/jthegedus/firebase-gcp-examples) - 🔥 Firebase app architectures, languages, tools & some GCP things! React w Next.js, Svelte w Sapper, Cloud Functions, Cloud Run.
+- [darekkay/static-marks-app](https://github.com/darekkay/static-marks-app) - Frontend part of the Static Marks project
 - [darekkay/tip-of-the-day](https://github.com/darekkay/tip-of-the-day) - Get your daily knowledge dose
 - [node-modules/npm-updater](https://github.com/node-modules/npm-updater) - Prompt update of npm package
 - [maxkomarychev/react-native-ultimate-config](https://github.com/maxkomarychev/react-native-ultimate-config) - Config that works
@@ -2781,6 +2786,7 @@
 - [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
 - [wleepang/shiny-pager-ui](https://github.com/wleepang/shiny-pager-ui) - A paging input for R/Shiny applications
 - [lawalter/r-shiny-electron-app](https://github.com/lawalter/r-shiny-electron-app) - Guide to desktop app creation using R Shiny and Electron
+- [scibrokes/owner](https://github.com/scibrokes/owner) - Personal CV
 - [gyang274/ygdashboard](https://github.com/gyang274/ygdashboard) - A modified shinydashboard to incorporate more functionality from adminLTE
 - [caub/github-clean-forks](https://github.com/caub/github-clean-forks) - :octocat: Manage your unused forks
 - [hakanu/pervane](https://github.com/hakanu/pervane) - Plain text file based note taking and knowledge base building tool, markdown editor, simple browser IDE.
@@ -3226,6 +3232,8 @@
 
 ## Others 
 
+- [ossu/data-science](https://github.com/ossu/data-science) - :bar_chart: Path to a free self-taught education in Data Science!
+- [0install/docs](https://github.com/0install/docs) - Zero Install documentation web-site
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [liangyy/template_r_documentation](https://github.com/liangyy/template_r_documentation) - This is a light template for documentation based on rmarkdown
 - [DaveOnData/SQLForExcelUsers](https://github.com/DaveOnData/SQLForExcelUsers) - The GitHub repo for the "Introduction to SQL for Excel Users" blog tutorial series from DaveOnData.com
@@ -3258,7 +3266,6 @@
 - [jimsforks/analytics-platform-shiny-server](https://github.com/jimsforks/analytics-platform-shiny-server) - Analytics Platform Shiny Server
 - [rust-lang/project-error-handling](https://github.com/rust-lang/project-error-handling) - Error handling project group
 - [csoneson/universe](https://github.com/csoneson/universe) - 
-- [intelligenate/dfc](https://github.com/intelligenate/dfc) - 
 - [dbt-labs/dbt-audit-helper](https://github.com/dbt-labs/dbt-audit-helper) - Useful macros when performing data audits
 - [m-kovalsky/ReportAnalyzer](https://github.com/m-kovalsky/ReportAnalyzer) - A tool for visualizing and analyzing a Power BI report's performance.
 - [humiaozuzu/awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins
@@ -4331,6 +4338,7 @@
 
 ## PowerShell 
 
+- [treyhay31/PSModuleBuilder](https://github.com/treyhay31/PSModuleBuilder) - Powershell package management for web developers
 - [MScholtes/TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - Copies of my 'Script Center' and 'Technet Gallery' publications
 - [MScholtes/PSVirtualDesktop](https://github.com/MScholtes/PSVirtualDesktop) - VirtualDesktop is a Powershell module that provides commandlets to manage virtual desktops of Windows 10.
 - [xataz/WSL_Manager](https://github.com/xataz/WSL_Manager) - Powershell GUI for manage WSL Distribution
@@ -5636,6 +5644,9 @@
 
 ## R 
 
+- [sellorm/commit-hash-shiny](https://github.com/sellorm/commit-hash-shiny) - A simple shiny app that displays it's own commit hash
+- [sellorm/rclikit](https://github.com/sellorm/rclikit) - 
+- [agi-lab/SynthETIC](https://github.com/agi-lab/SynthETIC) - SynthETIC Claim Simulator
 - [mentoldo/rsqlauthandle](https://github.com/mentoldo/rsqlauthandle) - Easy manage authentication on SQL DB.
 - [r-lib/rcmdcheck](https://github.com/r-lib/rcmdcheck) - Run R CMD check from R and collect the results
 - [dcomtois/cmtr](https://github.com/dcomtois/cmtr) - RStudio Addin to comment / uncomment selection using /*  */
@@ -8679,6 +8690,7 @@
 
 ## Rust 
 
+- [dirs-dev/directories-rs](https://github.com/dirs-dev/directories-rs) - a mid-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows
 - [RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON) - RedisJSON - a JSON data type for Redis
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A reliable, high-performance tool for building observability data pipelines.
@@ -8785,7 +8797,6 @@
 - [AnilSeervi/DevFolio](https://github.com/AnilSeervi/DevFolio) - A Modern Portfolio Template for Developers with easy setup process documented(with hosting).
 - [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
 - [hbctraining/Intro-to-R](https://github.com/hbctraining/Intro-to-R) - 
-- [darekkay/static-marks-app](https://github.com/darekkay/static-marks-app) - Frontend part of the Static Marks project
 - [lvalnegri/workshops-setup_cloud_analytics_machine](https://github.com/lvalnegri/workshops-setup_cloud_analytics_machine) - Tips and Tricks to setup a cloud machine for Analytics and Data Science with R, RStudio and Shiny Servers, Python and JupyterLab
 - [nikvoronin/wtfcrt](https://github.com/nikvoronin/wtfcrt) - A personal wiki-like notebooks aka zettelkasten
 - [andybyers21/notes.ajb.app](https://github.com/andybyers21/notes.ajb.app) - This is the data for my Evergreen notes vault
