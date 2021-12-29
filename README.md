@@ -163,6 +163,7 @@
 
 ## Batchfile 
 
+- [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!
 - [z2k-gwp/obsidian-z2k-utils](https://github.com/z2k-gwp/obsidian-z2k-utils) - Z2K Utilities Library for code shared across all Z2K plugins
 - [tschutter/MyAppData](https://github.com/tschutter/MyAppData) - Windows dotfiles
 - [balsamleti/speedup-windows10](https://github.com/balsamleti/speedup-windows10) - The following batch files are included in the archive 1) Advanced Explorer Settings — This changes more than a dozen File Explorer related settings on Windows 10 that turn of animations, enable menus, or turn off things like Toasts. 2) Disable Automatic App Updates — Turns off automatic updates for Windows Store applications. 3) Disable Automatic Windows Updates — Turns off automatic updates for the Windows 10 operating system itself. 4) Disable Cortana Completely — Rename the cortana process searchUI.exe to searchUI.bak. This will kill the process permanetly and save your ressources. 5) Disable Forced Reboot after Update — Blocks Windows from enforcing a reboot after updates that require one. 6) Disable Lockscreen — Turns off the Windows 10 lockscreen. 7) Disable Telemetry — Turns off Windows 10 Telemetry. 8) Disable Unnecessary Services — This disables the MapsBroker, DoSvc and Wsearch services 9) Enable Defender Malware Protection —   Enables Windows malware Protection. 10)Enable Secure Microsoft Edge Settings — Tweaks Microsoft Edge for security. Changes include turning of Flash and Cortana, enabling continuous browsing, and more. 11)Get Back Old Vertical Desktop Icon Distance —  Changes the vertical icon spacing on the desktop. 12)Hide Cortana — Disables Cortana, and with it web searches and other search related parameters. The Microsoft way of disabling Cortana. 13)Hide OneDrive — Hides OneDrive and disables several related settings. 14)Re-enable Cortana Completely — This preferences turns Cortana on again. 15)Uninstall Unnecessary Apps — Removes ten apps that Windows 10 ships with including 3D Builder, Skype App, Getting Started, or Voice Recorder. 16)Enable Administrator Account — This preference enables the hidden administrator account in Windows. 17)Enable Standby instead of Hibernate — Switch powerstate from hibernation (slow) to standby . 18)Get apps access for Administrator Account — Enable access to applications for the administrator account.
@@ -738,7 +739,6 @@
 - [SymbolixAU/jsonify](https://github.com/SymbolixAU/jsonify) - R package to convert R objects to JSON
 - [lbartnik/subprocess](https://github.com/lbartnik/subprocess) - 
 - [r-lib/later](https://github.com/r-lib/later) - Schedule an R function or formula to run after a specified period of time.
-- [ddsjoberg/gtsummary](https://github.com/ddsjoberg/gtsummary) - Presentation-Ready Data Summary and Analytic Result Tables
 - [r-dbi/odbc](https://github.com/r-dbi/odbc) - Connect to ODBC databases (using the DBI interface)
 - [ropensci/pdftools](https://github.com/ropensci/pdftools) - Text Extraction, Rendering and Converting of PDF Documents
 - [r-lib/vroom](https://github.com/r-lib/vroom) - Fast reading of delimited files
@@ -1092,6 +1092,7 @@
 
 ## Go 
 
+- [rhysd/dotfiles](https://github.com/rhysd/dotfiles) - dotfiles symbolic links management CLI
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 - [openanalytics/rdepot-cli](https://github.com/openanalytics/rdepot-cli) - CLI for RDepot
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
@@ -1443,7 +1444,6 @@
 - [davidstutz/bootstrap-multiselect](https://github.com/davidstutz/bootstrap-multiselect) - JQuery multiselect plugin based on Twitter Bootstrap.
 - [kaybenleroll/data_workshops](https://github.com/kaybenleroll/data_workshops) - This repository contains all the files for the various workshops created as part of Dublin R
 - [ChrisWaller26/bayesact](https://github.com/ChrisWaller26/bayesact) - A combined frequency-severity model in BRMS which allows for left-censoring at deductibles.
-- [jimbrig/KaaS-New](https://github.com/jimbrig/KaaS-New) - KaaS Obsidian Vault Redo
 - [cdnolan/Connecticut-Insurance-Complaints](https://github.com/cdnolan/Connecticut-Insurance-Complaints) - Analysis of complaints made against insurance companies licensed in Connecticut from January 2018 to October 2021. Google Data Analytics Capstone Project.
 - [SlaveToJavascript/DTB](https://github.com/SlaveToJavascript/DTB) - A fintech solution that serves as the intermediary one-stop platform between SMU tBank and insurance providers that allows customers to browse, compare and purchase insurance products conveniently.
 - [kasaai/gisadata](https://github.com/kasaai/gisadata) - 
@@ -2046,6 +2046,7 @@
 - [ministryofjustice/analytics-platform-shiny-server](https://github.com/ministryofjustice/analytics-platform-shiny-server) - Analytics Platform Shiny Server
 - [twright-msft/sqldevops](https://github.com/twright-msft/sqldevops) - 
 - [twright-msft/mssql-node-docker-demo-app-standalone](https://github.com/twright-msft/mssql-node-docker-demo-app-standalone) - 
+- [jimbrig/KaaS-New](https://github.com/jimbrig/KaaS-New) - KaaS Obsidian Vault Redo
 - [SadatArefin/Alico](https://github.com/SadatArefin/Alico) - This web project take Age and Term as input to calculate Face value and Total Insurance amount in different cases
 - [ferbs/webstack-micro](https://github.com/ferbs/webstack-micro) - Example/starter web app geared for small-ish teams interested in using a microservices architecture
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
@@ -3122,6 +3123,7 @@
 
 ## Lua 
 
+- [GitSquared/dotfiles](https://github.com/GitSquared/dotfiles) - My personal dotfiles storage. Feel free to steal my vimrc!
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 - [mrjones2014/dotfiles](https://github.com/mrjones2014/dotfiles) - Dotfiles for Neovim (0.6+), Fish shell, git, Kitty, Vale, etc.
 - [alexpearce/dotfiles](https://github.com/alexpearce/dotfiles) - My dotfiles.
@@ -3232,6 +3234,8 @@
 
 ## Others 
 
+- [mages/RforActuarialScience](https://github.com/mages/RforActuarialScience) - 
+- [kevinykuo/websocket](https://github.com/kevinykuo/websocket) - WebSocket client for R
 - [ossu/data-science](https://github.com/ossu/data-science) - :bar_chart: Path to a free self-taught education in Data Science!
 - [0install/docs](https://github.com/0install/docs) - Zero Install documentation web-site
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
@@ -5644,6 +5648,32 @@
 
 ## R 
 
+- [mages/nonlife](https://github.com/mages/nonlife) - Non Life Insurance
+- [TReynkens/ReIns](https://github.com/TReynkens/ReIns) - Functions from the book "Reinsurance: Actuarial and Statistical Aspects"
+- [braverock/blotter](https://github.com/braverock/blotter) - blotter provides transaction infrastructure for defining transactions, portfolios and accounts for trading systems and simulation. Provides portfolio support for multi-asset class and multi-currency portfolios.  Actively maintained and developed.
+- [NateByers/etljobs](https://github.com/NateByers/etljobs) - R package for ETL jobs
+- [madedotcom/retl](https://github.com/madedotcom/retl) - Wrapper package for BigQuery and aws.s3
+- [beanumber/retro](https://github.com/beanumber/retro) - An R package for creating a Retrosheet database using the ETL framework
+- [beanumber/citibike](https://github.com/beanumber/citibike) - R package based on ETL framework to interface with NYC CitiBike data
+- [Aswin1994/data-warehousingg](https://github.com/Aswin1994/data-warehousingg) - Designed and built a data warehouse in SQL Server Integration Service and SQL Server Management Service for the football players data from 1980 to 2016 by creating a dimensional model and deployed cube in SQL Server Analysis Service for data analysis. Visualized the complete analysis of the football players by data warehouse using tableau and Qlik Sense.
+- [KihongKim/data-quality-indicators](https://github.com/KihongKim/data-quality-indicators) - create a series of data quality indicators to monitor a continuous and reproducible data warehouse for transportation and land use planning and modeling
+- [MerrimanLab/eQTL_project](https://github.com/MerrimanLab/eQTL_project) - Development of a central data warehouse for eQTL and gene expression data. Including a SHINY interface to perform lookups and basic exploration.
+- [friday7/Datawarehouse-and-Business-Intelligence](https://github.com/friday7/Datawarehouse-and-Business-Intelligence) - Data Warehouse and Business Intelligence- Designed a Data warehouse for TED talks by automating the entire ETL process using data from three diverse sources and formats which included semi-structured data of locations from TED website and unstructured data of likes, dislikes, views and comments from YouTube by scraping it. Finally, business intelligence was drawn for TED talks. Technologies used: R, Python, SQL, SSMS, SSIS, SSAS and Tableau.
+- [aviroop1/Map_Application_R_Shiny](https://github.com/aviroop1/Map_Application_R_Shiny) - R Shiny Application for tracking vehicles transporting food products across 2 big Warehouses and 20 different locations.
+- [hmyenilmez24/Data-Warehousing-and-Visualization](https://github.com/hmyenilmez24/Data-Warehousing-and-Visualization) - Data warehousing, MSSQL Server, Visual Studio, Neo4j, SSRS reporting, R visualisation, SSIS
+- [ptaconet/r_sql_datawarehouse](https://github.com/ptaconet/r_sql_datawarehouse) - Deployement, management and exploitation of PostgreSQL/PostGIS-based data warehouses using the R programming language
+- [MaheshTalekar/Data-Warehousing-and-Business-Intelligence](https://github.com/MaheshTalekar/Data-Warehousing-and-Business-Intelligence) - Building Data warehouse for analysis and reporting on English Premier League using SQL Server
+- [MatthiasLPunkt/Saving-Time-in-the-Container-Unloading-Process----A-Case-Study-in-Warehouse-Logistics](https://github.com/MatthiasLPunkt/Saving-Time-in-the-Container-Unloading-Process----A-Case-Study-in-Warehouse-Logistics) - A project in data-analysis with Excel and R
+- [Rajeshmarandi3/GUI-development-for-RFID-system-in-Warehouse](https://github.com/Rajeshmarandi3/GUI-development-for-RFID-system-in-Warehouse) - 
+- [jangorecki/anchormodeling](https://github.com/jangorecki/anchormodeling) - Anchor Modeling metadata manager. AM in-memory Data Warehouse instances. Dashboard in shiny. Identity Management instances.
+- [veldanie/dwbi_project](https://github.com/veldanie/dwbi_project) - Data warehousing and business intelligence dashboard project.
+- [veskoaleksandrov/RDWH-status](https://github.com/veskoaleksandrov/RDWH-status) - Retrieve Data Warehouse status using R
+- [leewaygroups/DataWarehouse-ETL](https://github.com/leewaygroups/DataWarehouse-ETL) - ETLs supporting near realtime massive data pipping to Datawarehouses of disparate Datasources to different BI solutions with varying reporting and decision support requirements
+- [HarshalaDalvi/CLASSIC-MODELS-DATA-WAREHOUSE](https://github.com/HarshalaDalvi/CLASSIC-MODELS-DATA-WAREHOUSE) - Classic Models Datawarehouse using SSMS, SSIS, SSRS, R, Tableau, Neo4j
+- [borow028/EPA_Data_Warehouse](https://github.com/borow028/EPA_Data_Warehouse) - Designing a data warehouse of environmental data using Microsoft tools (SQL Server, SSIS) and R
+- [jjghockey/Utilities](https://github.com/jjghockey/Utilities) - warehouse for R utilities
+- [garborg/clean.dw](https://github.com/garborg/clean.dw) - Flexible interface to rigid data warehouses
+- [phillc73/backblazer](https://github.com/phillc73/backblazer) - R package for Backblaze's B2 API
 - [sellorm/commit-hash-shiny](https://github.com/sellorm/commit-hash-shiny) - A simple shiny app that displays it's own commit hash
 - [sellorm/rclikit](https://github.com/sellorm/rclikit) - 
 - [agi-lab/SynthETIC](https://github.com/agi-lab/SynthETIC) - SynthETIC Claim Simulator
@@ -8289,6 +8319,7 @@
 - [rstudio/renv](https://github.com/rstudio/renv) - renv: Project environments for R.
 - [jjanuszczak/freshdeskr](https://github.com/jjanuszczak/freshdeskr) - R client for Freshdesk
 - [ThinkR-open/attachment](https://github.com/ThinkR-open/attachment) - Tools to deal with dependencies in scripts, Rmd and packages
+- [ddsjoberg/gtsummary](https://github.com/ddsjoberg/gtsummary) - Presentation-Ready Data Summary and Analytic Result Tables
 - [zappingseb/shinymetaTest](https://github.com/zappingseb/shinymetaTest) - An example App to test shinyMeta
 - [alastairrushworth/inspectdf](https://github.com/alastairrushworth/inspectdf) - 🛠️ 📊 Tools for Exploring and Comparing Data Frames
 - [ELToulemonde/dataPreparation](https://github.com/ELToulemonde/dataPreparation) - Data preparation for data science projects.
@@ -9843,7 +9874,7 @@
 
 ## Vim script 
 
-- [GitSquared/dotfiles](https://github.com/GitSquared/dotfiles) - My personal dotfiles storage. Feel free to steal my vimrc!
+- [rhysd/dogfiles](https://github.com/rhysd/dogfiles) - dog + dotfiles = dogfiles
 - [jakewies/.dotfiles](https://github.com/jakewies/.dotfiles) - My portable development environment
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [jalvesaq/Nvim-R](https://github.com/jalvesaq/Nvim-R) - Vim plugin to work with R
