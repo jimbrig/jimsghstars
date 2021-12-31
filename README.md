@@ -1678,7 +1678,7 @@
 - [rust-lang/compiler-team](https://github.com/rust-lang/compiler-team) - A home for compiler team planning documents, meeting minutes, and other such things.
 - [foambubble/foam-template](https://github.com/foambubble/foam-template) - Foam workpace template
 - [byrnereese/mkdocs-bootstrap4](https://github.com/byrnereese/mkdocs-bootstrap4) - Bootstrap 4.0+ theme for MkDocs
-- [rgvrnt/scratchpad](https://github.com/rgvrnt/scratchpad) - As the name suggests, this is my scratchpad to try out code to understand a concept or try out new ideas
+- [raghudotcc/scratchpad](https://github.com/raghudotcc/scratchpad) - As the name suggests, this is my scratchpad to try out code to understand a concept or try out new ideas
 - [RickStrahl/MarkdownMonster](https://github.com/RickStrahl/MarkdownMonster) - An extensible Markdown Editor, Viewer and Weblog Publisher for Windows
 - [xfirefly/Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) - Airplay Receiver SDK supports Airplay Mirroring and AirPlay Casting to a receiver device.
 - [r4ds/bookclub-rpkgs](https://github.com/r4ds/bookclub-rpkgs) - 
@@ -3035,6 +3035,7 @@
 
 ## Jupyter Notebook 
 
+- [chanon-kr/Shared_Function](https://github.com/chanon-kr/Shared_Function) - Shared functions within my team
 - [tomaztk/Azure-Data-Studio-Notebooks](https://github.com/tomaztk/Azure-Data-Studio-Notebooks) - Notebooks for Microsoft Azure Data Studio
 - [keon/data-engineering](https://github.com/keon/data-engineering) - 
 - [mii9000/das](https://github.com/mii9000/das) - Diagrams As Code
@@ -4362,6 +4363,8 @@
 
 ## PowerShell 
 
+- [KUTlime/PowerShell-Choco-Module](https://github.com/KUTlime/PowerShell-Choco-Module) - &gt; A PowerShell module for a simple Chocolatey installation for end users.
+- [dsccommunity/DscWorkshop](https://github.com/dsccommunity/DscWorkshop) - Blueprint for a full featured DSC project for Push / Pull with or without CI/CD
 - [MSEndpointMgr/EDGEProfiles](https://github.com/MSEndpointMgr/EDGEProfiles) - PowerShell module to handle backup and restore of EDGE browser profiles for the current user.
 - [stadub/PowershellScripts](https://github.com/stadub/PowershellScripts) - Monorepo with all my Powershell Scripts
 - [jbooz1/WindowsScripts](https://github.com/jbooz1/WindowsScripts) - Some scripts and things that are useful for Windows things
@@ -4854,9 +4857,7 @@
 - [nneeoo/PSffmpeg](https://github.com/nneeoo/PSffmpeg) - Powershell CLI for ffmpeg
 - [Badgerati/Fudge](https://github.com/Badgerati/Fudge) - Fudge is a PowerShell tool to help manage software packages via Chocolatey for specific development projects. Think NPM and Bower, but for Chocolatey
 - [OlafHaag/chocolatey-packages](https://github.com/OlafHaag/chocolatey-packages) - 
-- [Ash258/Scoop-Extras](https://github.com/Ash258/Scoop-Extras) - "Extras" bucket for Scoop
 - [Ash258/Scoop-GithubActions](https://github.com/Ash258/Scoop-GithubActions) - Deprecated. Use https://github.com/shovel-org/GithubActions
-- [Ash258/Scoop-Main](https://github.com/Ash258/Scoop-Main) - 📦 The next-generation default bucket for Scoop.
 - [Ash258/Scoop-NirSoft](https://github.com/Ash258/Scoop-NirSoft) - WIP: All NirSoft applications and utilities
 - [Ash258/Scoop-Sysinternals](https://github.com/Ash258/Scoop-Sysinternals) - All Sysinternals tools separately.
 - [Ash258/Scoop-JetBrains](https://github.com/Ash258/Scoop-JetBrains) - All JetBrains Utilities and IDEs
@@ -8755,6 +8756,7 @@
 
 ## Rust 
 
+- [VladimirMarkelov/ttdl](https://github.com/VladimirMarkelov/ttdl) - TTDL - Terminal Todo List Manager
 - [dirs-dev/directories-rs](https://github.com/dirs-dev/directories-rs) - a mid-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows
 - [RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON) - RedisJSON - a JSON data type for Redis
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -9159,7 +9161,7 @@
 - [Artificially-Intelligent/shiny](https://github.com/Artificially-Intelligent/shiny) - rocker/rbase docker image with a selection of packages preinstalled geared to support R-Shiny based webapp.
 - [cloudyr/pkgtemplate](https://github.com/cloudyr/pkgtemplate) - Style guide-consistent package template for the cloudyr project
 - [ramnathv/test-r-codespaces](https://github.com/ramnathv/test-r-codespaces) - 
-- [Ash258/Scoop-Dockers](https://github.com/Ash258/Scoop-Dockers) - Docker images for Shovel
+- [shovel-org/Dockers](https://github.com/shovel-org/Dockers) - Docker images for Shovel
 - [ahmetb/dotfiles](https://github.com/ahmetb/dotfiles) - Ahmet's dotfiles and macOS customizations
 - [grove-mountain/vault_essential_patterns_blog](https://github.com/grove-mountain/vault_essential_patterns_blog) - Code examples used for the Essential Patterns of Vault -- Pt 2 blog post
 - [sethvargo/vault-demo](https://github.com/sethvargo/vault-demo) - Walkthroughs and scripts for my @HashiCorp Vault talks
@@ -9488,6 +9490,8 @@
 
 ## TypeScript 
 
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
+- [aposin/ng-aquila](https://github.com/aposin/ng-aquila) - Angular UI Component library for the Open Insurance Platform
 - [PiyushSuthar/Windows-11-Web](https://github.com/PiyushSuthar/Windows-11-Web) - Awe-amazing Windows 11 clone. Oh wait, Not for your Computer, but for the web! ⚡
 - [dzsquared/jupyter-publish-action](https://github.com/dzsquared/jupyter-publish-action) - GitHub action for publishing a remote Jupyter book for Azure Data Studio 📘
 - [ernstc/SqlDataInspector](https://github.com/ernstc/SqlDataInspector) - This is an Azure Data Studio extension that let you inspect the data in your database with just few clicks.
@@ -9999,7 +10003,7 @@
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [bencodezen/obsidian-publish-vue](https://github.com/bencodezen/obsidian-publish-vue) - 
 - [Leniolabs/layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 🛸 Open source API development ecosystem https://hoppscotch.io
 - [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [appbaseio-apps/GitXplore-Search](https://github.com/appbaseio-apps/GitXplore-Search) - An application to explore github repositories.
 - [imfing/pile](https://github.com/imfing/pile) - :zap: A simple & powerful app to organize your piled work at one place~
