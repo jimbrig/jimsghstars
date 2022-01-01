@@ -200,7 +200,7 @@
 - [ArtanisInc/Post-Tweaks](https://github.com/ArtanisInc/Post-Tweaks) - A post-installation batch script for Windows
 - [NIKHIL0VERMA/Hacks_and_Tricks_for_Windows](https://github.com/NIKHIL0VERMA/Hacks_and_Tricks_for_Windows) - Hello there, This repo contains small scripts or something like that which will definitely help full for windows users. Just follow the instruction of respective Scripts to use them, they are completely free to use. Report bug if appears in any script
 - [SethuSenthil/WindowsHacks](https://github.com/SethuSenthil/WindowsHacks) - A collection of all Windows Hacks 💀!
-- [farag2/ADB-Debloating](https://github.com/farag2/ADB-Debloating) - Debloat MIUI 12 and One UI 3.1 via ADB
+- [farag2/ADB-Debloating](https://github.com/farag2/ADB-Debloating) - Debloat MIUI 12.5 Enhanced and One UI 3.1 via ADB
 - [skrizzles/Device-Provisioning](https://github.com/skrizzles/Device-Provisioning) - Provisioning scripts and tools for devices I use (Windows, Mac, Android & iOS)
 - [Sporesirius/YAMS](https://github.com/Sporesirius/YAMS) - YAMS (Yet Another Multiboot System)
 - [joeldidier/Bootable-Windows-ISO-Creator](https://github.com/joeldidier/Bootable-Windows-ISO-Creator) - Create a bootable ISO (BIOS/UEFI) from Windows source installation files.
@@ -4858,8 +4858,8 @@
 - [Badgerati/Fudge](https://github.com/Badgerati/Fudge) - Fudge is a PowerShell tool to help manage software packages via Chocolatey for specific development projects. Think NPM and Bower, but for Chocolatey
 - [OlafHaag/chocolatey-packages](https://github.com/OlafHaag/chocolatey-packages) - 
 - [Ash258/Scoop-GithubActions](https://github.com/Ash258/Scoop-GithubActions) - Deprecated. Use https://github.com/shovel-org/GithubActions
-- [Ash258/Scoop-NirSoft](https://github.com/Ash258/Scoop-NirSoft) - WIP: All NirSoft applications and utilities
-- [Ash258/Scoop-Sysinternals](https://github.com/Ash258/Scoop-Sysinternals) - All Sysinternals tools separately.
+- [shovel-org/NirSoft-Bucket](https://github.com/shovel-org/NirSoft-Bucket) - WIP: All NirSoft applications and utilities
+- [shovel-org/Sysinternals-Bucket](https://github.com/shovel-org/Sysinternals-Bucket) - Shovel bucket containing all Sysinternals tools as separate manifests.
 - [Ash258/Scoop-JetBrains](https://github.com/Ash258/Scoop-JetBrains) - All JetBrains Utilities and IDEs
 - [Ash258/GithubActionsBucketForTesting](https://github.com/Ash258/GithubActionsBucketForTesting) - Test repo for https://github.com/shovel-org/GithubActions
 - [Ash258/Shovel-Ash258](https://github.com/Ash258/Shovel-Ash258) - Personal Shovel bucket with a wide variety of applications of all kinds.
@@ -10003,7 +10003,7 @@
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [bencodezen/obsidian-publish-vue](https://github.com/bencodezen/obsidian-publish-vue) - 
 - [Leniolabs/layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 🛸 Open source API development ecosystem https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [appbaseio-apps/GitXplore-Search](https://github.com/appbaseio-apps/GitXplore-Search) - An application to explore github repositories.
 - [imfing/pile](https://github.com/imfing/pile) - :zap: A simple & powerful app to organize your piled work at one place~
