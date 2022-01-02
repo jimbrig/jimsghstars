@@ -379,6 +379,10 @@
 
 ## C# # 
 
+- [Azure/Azure-AppServices-Diagnostics](https://github.com/Azure/Azure-AppServices-Diagnostics) - Azure App Service Diagnostics provides developers ability to write various diagnostics features which helps customers to diagnose and troubleshoot their applications hosted on app services.
+- [builtbybel/patchfluent](https://github.com/builtbybel/patchfluent) - 💧 🦄 Customize Windows 10 Updates
+- [builtbybel/burnbytes](https://github.com/builtbybel/burnbytes) - 🐦Open-source replica of Microsoft Disk Clean-up with aesthetics of Storage sense (aimed as community cleaner)
+- [builtbybel/control-uwp](https://github.com/builtbybel/control-uwp) - 🌚🌓Alternative Control Panel for Windows 10
 - [ghost1372/SettingsUI](https://github.com/ghost1372/SettingsUI) - Windows 11 settings page in WinUI 3 applications ported from Powertoys
 - [jetspiking/Taskbar11](https://github.com/jetspiking/Taskbar11) - Change the position and size of the Taskbar in Windows 11
 - [microsoft/winget-create](https://github.com/microsoft/winget-create) - The Windows Package Manager Manifest Creator command-line tool (aka wingetcreate)
@@ -602,6 +606,7 @@
 
 ## C++ 
 
+- [dotnetinstaller/dotnetinstaller](https://github.com/dotnetinstaller/dotnetinstaller) - A widely used, general-purpose setup bootstrapper for MS Windows.
 - [HerMajestyDrMona/Windows11DragAndDropToTaskbarFix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) - "Windows 11 Drag & Drop to the Taskbar (Fix)" fixes the missing "Drag & Drop to the Taskbar" support in Windows 11. It works with the new Windows 11 taskbar and does not require nasty changes like UndockingDisabled or restoration of the classic taskbar.
 - [dscharrer/innoextract](https://github.com/dscharrer/innoextract) - A tool to unpack installers created by Inno Setup
 - [clechasseur/pathcopycopy](https://github.com/clechasseur/pathcopycopy) - Copy file paths from Windows explorer's contextual menu
@@ -929,7 +934,7 @@
 
 ## Clojure 
 
-- [leandrotk/functional-programming-learning-path](https://github.com/leandrotk/functional-programming-learning-path) - A Learning Path for Functional Programming
+- [imteekay/functional-programming-learning-path](https://github.com/imteekay/functional-programming-learning-path) - A Learning Path for Functional Programming
 - [krisajenkins/yesql](https://github.com/krisajenkins/yesql) - A Clojure library for using SQL.
 - [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://athensresearch.github.io/docs/
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
@@ -972,6 +977,7 @@
 
 ## Dart 
 
+- [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) - A GUI to quickly manage your WSL2 instances
 - [alesimula/wsa_pacman](https://github.com/alesimula/wsa_pacman) - A GUI package manager and package installer for Windows Subsystem for Android (WSA)
 - [gskinnerTeam/flokk](https://github.com/gskinnerTeam/flokk) - A fresh and modern Google Contacts manager that integrates with GitHub and Twitter.
@@ -1393,6 +1399,7 @@
 
 ## HCL 
 
+- [cloudposse/terraform-aws-s3-bucket](https://github.com/cloudposse/terraform-aws-s3-bucket) - Terraform module that creates an S3 bucket with an optional IAM user for external CI/CD systems
 - [andif888/packer-windows-vsphere-iso](https://github.com/andif888/packer-windows-vsphere-iso) - This repo builds automatically Windows VM templates (Windows 11, Windows 10, Server 2019, Server 2022) for VMware vSphere environment using Hashicorp's Packer using freely available Windows Eval ISOs.
 - [terraform-aws-modules/terraform-aws-cloudwatch](https://github.com/terraform-aws-modules/terraform-aws-cloudwatch) - Terraform module which creates Cloudwatch resources on AWS
 - [trussworks/terraform-aws-config](https://github.com/trussworks/terraform-aws-config) - Enables AWS Config and adds managed config rules with good defaults.
@@ -3254,6 +3261,9 @@
 
 ## Others 
 
+- [builtbybel/pimpapp](https://github.com/builtbybel/pimpapp) - Experimental project! One day an app will come along, which has exactly this name again :grin: 💩 🔥 🚫
+- [kkkgo/Windows-10-Inbox-Apps-xml](https://github.com/kkkgo/Windows-10-Inbox-Apps-xml) - Windows 10 Inbox Apps xml
+- [learn-co-curriculum/wsl-setup](https://github.com/learn-co-curriculum/wsl-setup) - Instructions on how to set up a development environment on Windows Subsystem for Linux
 - [Zwable/Data-Migration-Tool](https://github.com/Zwable/Data-Migration-Tool) - 
 - [Lifka/hacking-resources](https://github.com/Lifka/hacking-resources) - Hacking resources and cheat sheets. References, tools, scripts, tutorials, and other resources that help offensive and defensive security professionals.
 - [mages/RforActuarialScience](https://github.com/mages/RforActuarialScience) - 
@@ -4363,6 +4373,21 @@
 
 ## PowerShell 
 
+- [teeotsa/windows-11-debloat](https://github.com/teeotsa/windows-11-debloat) - Windows 11 Debloater, makes your installation of 11 faster
+- [jamesstringerparsec/Easy-GPU-P](https://github.com/jamesstringerparsec/Easy-GPU-P) - A Project dedicated to making GPU Partitioning on Windows easier!
+- [Azure-Samples/functions-docs-powershell](https://github.com/Azure-Samples/functions-docs-powershell) - PowerShell samples that support Azure Functions docs
+- [MicrosoftDocs/azure-docs-cli](https://github.com/MicrosoftDocs/azure-docs-cli) - Repository used to store content for the docs.microsoft.com content for the Azure CLI
+- [cloudfoundry/windows-utilities-release](https://github.com/cloudfoundry/windows-utilities-release) - 
+- [Azure/azure-blueprints](https://github.com/Azure/azure-blueprints) - A library of sample Blueprints that can be easily imported via API or PowerShell
+- [gtworek/PSBits](https://github.com/gtworek/PSBits) - Simple (relatively) things allowing you to dig a bit deeper than usual.
+- [Azure/AzOps](https://github.com/Azure/AzOps) - AzOps is a PowerShell module which deploys (Push) Resource Templates & Bicep files at all Azure scope levels and exports (Pull) ARM resource hierarchy.
+- [MicrosoftDocs/azure-stack-docs](https://github.com/MicrosoftDocs/azure-stack-docs) - 
+- [microsoft/MCW-Building-a-resilient-IaaS-architecture](https://github.com/microsoft/MCW-Building-a-resilient-IaaS-architecture) - MCW Building a resilient IaaS architecture
+- [Azure/AzureStack-Tools](https://github.com/Azure/AzureStack-Tools) - Scripts and tools that help customers use Azure and Azure Stack
+- [TheDotSource/New-ISOFile](https://github.com/TheDotSource/New-ISOFile) - Function to create ISO files.
+- [BladeFireLight/WindowsImageTools](https://github.com/BladeFireLight/WindowsImageTools) - PowerShell Tools creating and updating Windows Images
+- [Xeeynamo/setup](https://github.com/Xeeynamo/setup) - Set-up your Windows environment from a fresh installation, with just a line of code!
+- [duluca/web-dev-environment-setup](https://github.com/duluca/web-dev-environment-setup) - Scripts for Windows 10 and macOS X to install web development tools
 - [KUTlime/PowerShell-Choco-Module](https://github.com/KUTlime/PowerShell-Choco-Module) - &gt; A PowerShell module for a simple Chocolatey installation for end users.
 - [dsccommunity/DscWorkshop](https://github.com/dsccommunity/DscWorkshop) - Blueprint for a full featured DSC project for Push / Pull with or without CI/CD
 - [MSEndpointMgr/EDGEProfiles](https://github.com/MSEndpointMgr/EDGEProfiles) - PowerShell module to handle backup and restore of EDGE browser profiles for the current user.
@@ -5595,7 +5620,7 @@
 - [kognise/sherlock](https://github.com/kognise/sherlock) - Fast and efficient multi-threaded, cross-platform file searching.
 - [argenos/fmlib](https://github.com/argenos/fmlib) - 
 - [MrWeckx/obsidian_apps](https://github.com/MrWeckx/obsidian_apps) - I couldn't wait to see new features of obsidian implemented so here's something i guess?
-- [ArchieAtkinson/Obsidoro](https://github.com/ArchieAtkinson/Obsidoro) - An Pomodoro Timer for Obsidian
+- [ArchieAtkinson/Obsidoro](https://github.com/ArchieAtkinson/Obsidoro) - DEPRECATED. An Pomodoro Timer for Obsidian.
 - [Spec04/obs_alias_generator](https://github.com/Spec04/obs_alias_generator) - Generate Alias file for Obsidian vault
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [sloretz/off-your-rocker](https://github.com/sloretz/off-your-rocker) - Extensions for osrf/rocker
@@ -5684,6 +5709,8 @@
 
 ## R 
 
+- [selva86/datasets](https://github.com/selva86/datasets) - A collection of datasets of ML problem solving
+- [openpharma/visR](https://github.com/openpharma/visR) - A package to wrap functionality for plots, tables and diagrams adhering to graphical principles.
 - [mages/nonlife](https://github.com/mages/nonlife) - Non Life Insurance
 - [TReynkens/ReIns](https://github.com/TReynkens/ReIns) - Functions from the book "Reinsurance: Actuarial and Statistical Aspects"
 - [braverock/blotter](https://github.com/braverock/blotter) - blotter provides transaction infrastructure for defining transactions, portfolios and accounts for trading systems and simulation. Provides portfolio support for multi-asset class and multi-currency portfolios.  Actively maintained and developed.
@@ -9490,6 +9517,8 @@
 
 ## TypeScript 
 
+- [ozntel/file-tree-alternative](https://github.com/ozntel/file-tree-alternative) - This Obsidian Plugin allows users to have a different file explorer experience.
+- [Azure/azure-resource-manager-schemas](https://github.com/Azure/azure-resource-manager-schemas) - Schemas used to author and validate Resource Manager Templates
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [aposin/ng-aquila](https://github.com/aposin/ng-aquila) - Angular UI Component library for the Open Insurance Platform
 - [PiyushSuthar/Windows-11-Web](https://github.com/PiyushSuthar/Windows-11-Web) - Awe-amazing Windows 11 clone. Oh wait, Not for your Computer, but for the web! ⚡
@@ -9837,7 +9866,7 @@
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Technical documentation that just works
 - [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes) - Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization options.
 - [atolye15/checklist](https://github.com/atolye15/checklist) - The protocols we follow for the things we cannot automate yet! ✅
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2021
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [nandor-poka/jupyterlab-bookmarks-extension](https://github.com/nandor-poka/jupyterlab-bookmarks-extension) - JupyterLab Favorites extension for JupyterLab 2.0+. Provides Launcher icons for favorite / bookmarked files.
 - [Abhith/angular-favorites](https://github.com/Abhith/angular-favorites) - My favorite angular resources
