@@ -490,7 +490,7 @@
 - [TanayParikh/Moneta](https://github.com/TanayParikh/Moneta) - Moneta - Financial Management for Freelancers
 - [cloudevents/sdk-csharp](https://github.com/cloudevents/sdk-csharp) - CSharp SDK for CloudEvents
 - [Watfaq/PowerSession](https://github.com/Watfaq/PowerSession) - Record a Session in PowerShell
-- [brminnick/GitTrends](https://github.com/brminnick/GitTrends) - A iOS and Android app to monitor the views and clones of your GitHub repos
+- [brminnick/GitTrends](https://github.com/brminnick/GitTrends) - A iOS and Android app to monitor the Views, Clones and Star history of your GitHub repos
 - [fredatgithub/EventLogReader](https://github.com/fredatgithub/EventLogReader) - Event Log Reader sample
 - [v2kiran/PSLiteDB](https://github.com/v2kiran/PSLiteDB) - PowerShell wrapper for LiteDB
 - [amay077/Xamarin.Forms.GoogleMaps](https://github.com/amay077/Xamarin.Forms.GoogleMaps) - Map library for Xamarin.Forms using Google maps API
@@ -2510,7 +2510,7 @@
 - [brendanhcullen/wisely](https://github.com/brendanhcullen/wisely) - Using R more "wisely": Column-wise and row-wise operations with dplyr
 - [snipsnapdev/snipsnap](https://github.com/snipsnapdev/snipsnap) - Speed up your development with a powerful set of tools
 - [thomaskoppelaar/Gettlr](https://github.com/thomaskoppelaar/Gettlr) - A Markdown Editor for me, mostly.
-- [DustinBrett/x](https://github.com/DustinBrett/x) - Desktop environment in the browser.
+- [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser.
 - [ModClean/modclean](https://github.com/ModClean/modclean) - Remove unwanted files and directories from your node_modules folder
 - [nickroberts404/dirbook](https://github.com/nickroberts404/dirbook) - :book: A tool I use to organize my directories/projects in the terminal.
 - [perryrh0dan/templates](https://github.com/perryrh0dan/templates) - 
@@ -3261,6 +3261,7 @@
 
 ## Others 
 
+- [sanko/Robinhood](https://github.com/sanko/Robinhood) - Unofficial Documentation of Robinhood Trade's Private API
 - [builtbybel/pimpapp](https://github.com/builtbybel/pimpapp) - Experimental project! One day an app will come along, which has exactly this name again :grin: 💩 🔥 🚫
 - [kkkgo/Windows-10-Inbox-Apps-xml](https://github.com/kkkgo/Windows-10-Inbox-Apps-xml) - Windows 10 Inbox Apps xml
 - [learn-co-curriculum/wsl-setup](https://github.com/learn-co-curriculum/wsl-setup) - Instructions on how to set up a development environment on Windows Subsystem for Linux
@@ -3939,7 +3940,7 @@
 - [jbranchaud/awesome-react-design-systems](https://github.com/jbranchaud/awesome-react-design-systems) - A collection of awesome React-based design systems
 - [chobeat/awesome-critical-tech-reading-list](https://github.com/chobeat/awesome-critical-tech-reading-list) - A reading list for the modern critical programmer
 - [jippi/awesome-nomad](https://github.com/jippi/awesome-nomad) - A curated list of amazingly awesome Nomad tools and shiny things.
-- [casbin/awesome-auth](https://github.com/casbin/awesome-auth) - 📊 Software and Libraries for Authentication & Authorization
+- [casbin/awesome-auth](https://github.com/casbin/awesome-auth) - 📊 Software and Libraries for Authentication & Authorization & SSO & IAM
 - [SE-ML/awesome-seml](https://github.com/SE-ML/awesome-seml) - A curated list of articles that cover the software engineering best practices for building machine learning applications.
 - [milabs/awesome-linux-rootkits](https://github.com/milabs/awesome-linux-rootkits) - awesome-linux-rootkits
 - [styfle/awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) - 🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop
@@ -4373,6 +4374,7 @@
 
 ## PowerShell 
 
+- [jimbrig/PowerShell](https://github.com/jimbrig/PowerShell) - PowerShell Core Profile Directory
 - [teeotsa/windows-11-debloat](https://github.com/teeotsa/windows-11-debloat) - Windows 11 Debloater, makes your installation of 11 faster
 - [jamesstringerparsec/Easy-GPU-P](https://github.com/jamesstringerparsec/Easy-GPU-P) - A Project dedicated to making GPU Partitioning on Windows easier!
 - [Azure-Samples/functions-docs-powershell](https://github.com/Azure-Samples/functions-docs-powershell) - PowerShell samples that support Azure Functions docs
@@ -4779,7 +4781,6 @@
 - [pbatard/Fido](https://github.com/pbatard/Fido) - A PowerShell script to download Windows ISOs or the UEFI Shell
 - [AlexAsplund/PSTodoist](https://github.com/AlexAsplund/PSTodoist) - A powershell module for todoist
 - [jimbrig/WindowsPowerShell](https://github.com/jimbrig/WindowsPowerShell) - Windows PowerShell Profile Directory
-- [jimbrig/PowerShell](https://github.com/jimbrig/PowerShell) - PowerShell Core Profile Directory
 - [byteben/Get-SoftwareUpdates](https://github.com/byteben/Get-SoftwareUpdates) - Connect to SCCM Collections and enumerate Required Software Updates with WMI
 - [byteben/Dell](https://github.com/byteben/Dell) - PowerShell Scripts primarily using the Dell Command PowerShell Provider Module
 - [byteben/Dev](https://github.com/byteben/Dev) - 
@@ -5002,6 +5003,9 @@
 
 ## Python 
 
+- [thomasleplus/gdrive-archive](https://github.com/thomasleplus/gdrive-archive) - Archiving tool for Google Drive
+- [ojarva/google-backup](https://github.com/ojarva/google-backup) - Drive/Gmail/Calendar backups
+- [gaubert/gmvault](https://github.com/gaubert/gmvault) - gmail backup software
 - [josephsl/wintenApps](https://github.com/josephsl/wintenApps) - Windows App Essentials NVDA add-on
 - [martinet101/ElevenClock](https://github.com/martinet101/ElevenClock) - ElevenClock: Have a customizable clock on your Windows 11 displays
 - [mentoldo/sqlauthandle](https://github.com/mentoldo/sqlauthandle) - Python package to manage Secure Authentication to SQL DB
@@ -5709,6 +5713,7 @@
 
 ## R 
 
+- [thomasp85/scico](https://github.com/thomasp85/scico) - Palettes for R based on the Scientific Colour-Maps
 - [selva86/datasets](https://github.com/selva86/datasets) - A collection of datasets of ML problem solving
 - [openpharma/visR](https://github.com/openpharma/visR) - A package to wrap functionality for plots, tables and diagrams adhering to graphical principles.
 - [mages/nonlife](https://github.com/mages/nonlife) - Non Life Insurance
@@ -6499,7 +6504,7 @@
 - [ropensci/osmextract](https://github.com/ropensci/osmextract) - Download and import OpenStreetMap data from Geofabrik and other providers
 - [kcuilla/Shiny_home_valuation_model](https://github.com/kcuilla/Shiny_home_valuation_model) - 
 - [kcuilla/swapir](https://github.com/kcuilla/swapir) - swapir package
-- [kcuilla/reactablefmtr](https://github.com/kcuilla/reactablefmtr) - Easily Customize Interactive Tables Made With Reactable
+- [kcuilla/reactablefmtr](https://github.com/kcuilla/reactablefmtr) - Customize and Enhance Your Reactable Table
 - [zonebuilders/zonebuilder](https://github.com/zonebuilders/zonebuilder) - Divide geographic space into discrete chunks
 - [jeroen/maketools](https://github.com/jeroen/maketools) - Exploring and Testing your Toolchain Configuration and System Packages
 - [SchmidtPaul/CitaviR](https://github.com/SchmidtPaul/CitaviR) - A set of tools for dealing with Citavi data in R
@@ -8940,6 +8945,7 @@
 
 ## Shell 
 
+- [alexadam/repo-backup](https://github.com/alexadam/repo-backup) - Backup all Github & Gitlab repositories as .zip files
 - [richinfante/github-clone-all](https://github.com/richinfante/github-clone-all) - Clone all your github repos for backups & local development.
 - [TonnyL/toolman](https://github.com/TonnyL/toolman) - A collection of tools
 - [pavanchhatpar/csv-to-sql-converter](https://github.com/pavanchhatpar/csv-to-sql-converter) - A shell script that converts a csv file (Excel Sheet) to an SQL file that can be imported in a MySQL database
