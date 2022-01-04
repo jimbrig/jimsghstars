@@ -5713,6 +5713,9 @@
 
 ## R 
 
+- [AurMad/betadistapp](https://github.com/AurMad/betadistapp) - Shiny app plotting Beta distributions
+- [NickCH-K/causalbook](https://github.com/NickCH-K/causalbook) - Replication code and downloadable example data sets for The Effect
+- [shrektan/ymd](https://github.com/shrektan/ymd) - An R package that handles common dates operations using Rust
 - [thomasp85/scico](https://github.com/thomasp85/scico) - Palettes for R based on the Scientific Colour-Maps
 - [selva86/datasets](https://github.com/selva86/datasets) - A collection of datasets of ML problem solving
 - [openpharma/visR](https://github.com/openpharma/visR) - A package to wrap functionality for plots, tables and diagrams adhering to graphical principles.
@@ -7023,7 +7026,7 @@
 - [jennybc/githug](https://github.com/jennybc/githug) - Interface to local and remote Git operations
 - [christophergandrud/dpmr](https://github.com/christophergandrud/dpmr) - Data Package Manager for R
 - [jennybc/googlesheets](https://github.com/jennybc/googlesheets) - Google Spreadsheets R API
-- [coatless/ghapi3](https://github.com/coatless/ghapi3) - Work In Progress: GitHub API v3.0 implemented in R using the gh package
+- [coatless-rpkgs/ghapi3](https://github.com/coatless-rpkgs/ghapi3) - Work In Progress: GitHub API v3.0 implemented in R using the gh package
 - [cscheid/rgithub](https://github.com/cscheid/rgithub) - R bindings for the github API
 - [lemdt/CovidShinyModel](https://github.com/lemdt/CovidShinyModel) - This is LEMMA v0.2. Our development model is LEMMA v0.3:
 - [MI2DataLab/memr](https://github.com/MI2DataLab/memr) - R package for Multisource Embeddings for Medical Records
