@@ -766,6 +766,8 @@
 
 ## CSS 
 
+- [twbs/ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
+- [nathansmith/960-Grid-System](https://github.com/nathansmith/960-Grid-System) - The 960 Grid System is an effort to streamline web development workflow.
 - [app-generator/flask-pixel](https://github.com/app-generator/flask-pixel) - Flask Pixel UI Kit - Open-Source web app coded in Flask | AppSeed
 - [Nasawa/Clipt](https://github.com/Nasawa/Clipt) - Cross-machine clipboard management
 - [yogesh-kamat/IMS](https://github.com/yogesh-kamat/IMS) - Inventory management system using Django and Postgresql
@@ -3673,7 +3675,7 @@
 - [emilyriederer/dbtplyr](https://github.com/emilyriederer/dbtplyr) - dbt package mimicking dplyr select-helpers semantics
 - [rinproduction/docker-rweb](https://github.com/rinproduction/docker-rweb) - 
 - [icons8/lunacy-docs](https://github.com/icons8/lunacy-docs) - Documentation for Lunacy, Graphic Design Software with built-in assets
-- [forwards/rcontribution](https://github.com/forwards/rcontribution) - Repository for the R Contribution Working Group, working on initiatives to encourage new contributor to R core
+- [r-devel/rcontribution](https://github.com/r-devel/rcontribution) - Repository for the R Contribution Working Group, working on initiatives to encourage new contributor to R core
 - [nathaneastwood/useful-postgres](https://github.com/nathaneastwood/useful-postgres) - A collection of useful PostgreSQL queries and snippets
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [reconhub/docker](https://github.com/reconhub/docker) - Various docker images for RECON
@@ -5284,6 +5286,7 @@
 - [mortada/fredapi](https://github.com/mortada/fredapi) - Python API for FRED (Federal Reserve Economic Data) and ALFRED (Archival FRED)
 - [dome9/onboarding-scripts](https://github.com/dome9/onboarding-scripts) - A public repository with scripts and tools for mass / automated onboarding of cloud accounts (AWS,Azure,GCP)
 - [Enchufa2/docker-host-auth](https://github.com/Enchufa2/docker-host-auth) - Authenticating a docker container against host's Unix accounts
+- [Enchufa2/bspm](https://github.com/Enchufa2/bspm) - R Bridge to System Package Manager
 - [fdrennan/redditstack](https://github.com/fdrennan/redditstack) - 
 - [jimdevops19/PythonCrashCourse](https://github.com/jimdevops19/PythonCrashCourse) - JimShapedCoding Python Crash Course 2021
 - [aacosta-milesius/financial-math](https://github.com/aacosta-milesius/financial-math) - Time value of money functions using actuarial methods
@@ -5713,6 +5716,15 @@
 
 ## R 
 
+- [lockedata/mockaRoo](https://github.com/lockedata/mockaRoo) - R Package 📦 to Generate mock data with the Mockaroo API :sparkles:
+- [IRkernel/IRdisplay](https://github.com/IRkernel/IRdisplay) - Jupyter display machinery for R
+- [jimbrig/shinyPacker](https://github.com/jimbrig/shinyPacker) - shinyPacker
+- [DavidBarke/shinyQW](https://github.com/DavidBarke/shinyQW) - 
+- [DavidBarke/QWUtils](https://github.com/DavidBarke/QWUtils) - 
+- [DavidBarke/shinyExplorer](https://github.com/DavidBarke/shinyExplorer) - R Package providing Explorer and Contextmenu for Shiny apps
+- [DavidBarke/weibulltools-app](https://github.com/DavidBarke/weibulltools-app) - Shiny App for R Package weibulltools
+- [DavidBarke/distributions](https://github.com/DavidBarke/distributions) - Shiny Web Application for Visualization of Statistical Distributions
+- [LarsGerdes/shinydistributions](https://github.com/LarsGerdes/shinydistributions) - A shiny-app to show which distribution fits best.
 - [AurMad/betadistapp](https://github.com/AurMad/betadistapp) - Shiny app plotting Beta distributions
 - [NickCH-K/causalbook](https://github.com/NickCH-K/causalbook) - Replication code and downloadable example data sets for The Effect
 - [shrektan/ymd](https://github.com/shrektan/ymd) - An R package that handles common dates operations using Rust
@@ -6043,7 +6055,6 @@
 - [Enchufa2/cran2copr](https://github.com/Enchufa2/cran2copr) - Creating Fedora packages in a Copr repo from CRAN sources
 - [Enchufa2/universe](https://github.com/Enchufa2/universe) - Personal R-universe
 - [Enchufa2/dispatchS3dots](https://github.com/Enchufa2/dispatchS3dots) - 
-- [Enchufa2/bspm](https://github.com/Enchufa2/bspm) - R Bridge to System Package Manager
 - [jimbrig/rsetup](https://github.com/jimbrig/rsetup) - What the Package Does (One Line, Title Case)
 - [fdrennan/biggr3](https://github.com/fdrennan/biggr3) - 
 - [fdrennan/productor](https://github.com/fdrennan/productor) - A stripped version of Redditor
@@ -7026,7 +7037,7 @@
 - [jennybc/githug](https://github.com/jennybc/githug) - Interface to local and remote Git operations
 - [christophergandrud/dpmr](https://github.com/christophergandrud/dpmr) - Data Package Manager for R
 - [jennybc/googlesheets](https://github.com/jennybc/googlesheets) - Google Spreadsheets R API
-- [coatless-rpkgs/ghapi3](https://github.com/coatless-rpkgs/ghapi3) - Work In Progress: GitHub API v3.0 implemented in R using the gh package
+- [coatless-rpkg/ghapi3](https://github.com/coatless-rpkg/ghapi3) - Work In Progress: GitHub API v3.0 implemented in R using the gh package
 - [cscheid/rgithub](https://github.com/cscheid/rgithub) - R bindings for the github API
 - [lemdt/CovidShinyModel](https://github.com/lemdt/CovidShinyModel) - This is LEMMA v0.2. Our development model is LEMMA v0.3:
 - [MI2DataLab/memr](https://github.com/MI2DataLab/memr) - R package for Multisource Embeddings for Medical Records
@@ -8796,7 +8807,7 @@
 - [RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON) - RedisJSON - a JSON data type for Redis
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A reliable, high-performance tool for building observability data pipelines.
-- [quambene/pigeon-rs](https://github.com/quambene/pigeon-rs) - Command line tool for cheap and efficient email automation written in Rust
+- [quambene/pigeon-rs](https://github.com/quambene/pigeon-rs) - Open source email automation written in Rust
 - [Michael-F-Bryan/mdbook-epub](https://github.com/Michael-F-Bryan/mdbook-epub) - An experimental mdbook backend for creating EPUB documents.
 - [Michael-F-Bryan/mdbook-linkcheck](https://github.com/Michael-F-Bryan/mdbook-linkcheck) - A backend for `mdbook` which will check your links for you.
 - [cdaven/noteexplorer](https://github.com/cdaven/noteexplorer) - NoteExplorer is a CLI tool to help organizing your stack of (wiki-)linked Markdown notes.
@@ -9375,6 +9386,7 @@
 - [jimhester/aws-check](https://github.com/jimhester/aws-check) - 
 - [richelbilderbeek/R-CodingStandard](https://github.com/richelbilderbeek/R-CodingStandard) - Coding standard for R
 - [laurent22/rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync.
+- [maxpou/dotfiles](https://github.com/maxpou/dotfiles) - :computer: my dotfiles (Ubuntu&MacOS)
 - [nicksp/dotfiles](https://github.com/nicksp/dotfiles) - My OS X environment
 - [vincentcox/bypass-firewalls-by-DNS-history](https://github.com/vincentcox/bypass-firewalls-by-DNS-history) - Firewall bypass script based on DNS history records. This script will search for DNS A history records and check if the server replies for that domain. Handy for bugbounty hunters.
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
@@ -9411,6 +9423,7 @@
 
 ## Svelte 
 
+- [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [badarsebard/terraforge](https://github.com/badarsebard/terraforge) - Graphical Terraform configuration generator
 - [sw-yx/swyxdotio](https://github.com/sw-yx/swyxdotio) - swyxdotio
 - [soufianesakhi/youtube-playlist-helper](https://github.com/soufianesakhi/youtube-playlist-helper) - YouTube playlist editor and generator
@@ -9526,6 +9539,7 @@
 
 ## TypeScript 
 
+- [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
 - [ozntel/file-tree-alternative](https://github.com/ozntel/file-tree-alternative) - This Obsidian Plugin allows users to have a different file explorer experience.
 - [Azure/azure-resource-manager-schemas](https://github.com/Azure/azure-resource-manager-schemas) - Schemas used to author and validate Resource Manager Templates
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
@@ -9997,7 +10011,6 @@
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
 - [brettkelly/dotfiles](https://github.com/brettkelly/dotfiles) - My configuration files, etc.
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
-- [maxpou/dotfiles](https://github.com/maxpou/dotfiles) - :computer: my dotfiles (Ubuntu&MacOS)
 - [smbache/vim-rif](https://github.com/smbache/vim-rif) - Relative Importing of Files
 
 ## VimL 
