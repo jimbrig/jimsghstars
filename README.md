@@ -859,7 +859,7 @@
 - [eddelbuettel/minidown](https://github.com/eddelbuettel/minidown) - Create simple yet powerful html documents with light weight CSS frameworks.
 - [nocturnalbeast/dotfiles](https://github.com/nocturnalbeast/dotfiles) - My configuration files and scripts for applications including window managers, terminal applications and more.
 - [ethanhs/WSL-Programs](https://github.com/ethanhs/WSL-Programs) - A community powered list of programs that work (and those that don't) on the Windows subsystem for Linux
-- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks
+- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2022
 - [kognise/stackbit-test](https://github.com/kognise/stackbit-test) - 
 - [kognise/obsidian-atom](https://github.com/kognise/obsidian-atom) - A theme for Obsidian based on Atom's One family
 - [kognise/obsidian-aviation](https://github.com/kognise/obsidian-aviation) - Clean Markdown files for FAR/AIM and more
@@ -1489,7 +1489,6 @@
 - [IndrajeetPatil/awesome-r-pkgtools](https://github.com/IndrajeetPatil/awesome-r-pkgtools) - A curated list of awesome resources for R package development
 - [berlotto/flask-app-template](https://github.com/berlotto/flask-app-template) - An complete Flask application template, with useful plugins.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
-- [jimbrig/lossrx](https://github.com/jimbrig/lossrx) - An R package and Shiny App for Actuarial Loss Development and Reserving
 - [ropensci-org/rotemplate](https://github.com/ropensci-org/rotemplate) - pkgdown template for rOpenSci packages :nail_care: :sparkles:
 - [corpsgeek/flask-form-handling](https://github.com/corpsgeek/flask-form-handling) - 
 - [imzjy/MyDiffTool](https://github.com/imzjy/MyDiffTool) - The missing comparing text tool for Mac, Windows and Linux.
@@ -4751,7 +4750,7 @@
 - [lazywinadmin/LazyTS](https://github.com/lazywinadmin/LazyTS) - PowerShell Script (GUI) to manage Terminal Sessions
 - [aaronparker/intune](https://github.com/aaronparker/intune) - Various scripts for use with Microsoft Intune and Windows 10 Modern Management
 - [Micke-K/IntuneManagement](https://github.com/Micke-K/IntuneManagement) - Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and edit PowerShell script.
-- [VikasSukhija/Downloads](https://github.com/VikasSukhija/Downloads) - AD Health Check, Send HTML Email,  Ping machines, Encrypt Password,Bulk Password,Microsoft Teams,Monitor Certificate expiry, Monitor cert expiry, AD attributes, IP to Hostname, Export AD group, CSV to SQL,Shutdown, Restart, Local Admin, Disk Space, Account expiry,Restore Permissions, Backup permissions, Delete Files Older Than X-Days, export DHCP options,Read Registry,Distribution group AD attributes,Monitor Windows Services,Export Reverse DNS,Task Monitor,Monitor and alert, Exchange Health check,Get Network Info, Export AD Attributes,AD group members, Office 365 Group member, SQL to CSV, Outlook save send attachments, Upload files to FTP,Exchange – Total Messages Sent Received, Set Teams Only Mode, Intune Duplicate Device,Intune Cleanup Not Evaluated, Ownership and Grant Permissions, Write Create Modify Registry , Organization Hierarchy from AD,Azure AD Privileged Identity Management,Intune – Export MAM Devices,Intune Marking devices as Corporate, Dynamic to Static Distribution Group,Monitor Alert Office 365 services,Group Member Count,Bulk Addition external users sharepoint, ADD to Exchange online License Group,All in One Office 365 Powershell,Bulk Addition of Secondary Email, Automate move mailboxes to o365, Addition Modification Termination Exchange users, Monitoring Unified Messaging port,Unified Messaging Extensions Report, Set Default Quota for SharePoint,Bulk Contact Creation and Forwarding, Uploading and Downloading files sftp, Monitoring Sftp file and download, Office 365 groups Write back, CSV parser, Email address update, Email address modify, MDM enrollment, Welcome Email, Intune Welcome Email, remove messages, remove email, SKOB to AD, SKOB to group, PowerApps report, Powerautomate Report, Flow report, Server QA, Server Check List, O365 IP range, IP range Monitor, o365 Admin Roles, memberof extraction, CSV to Excel,  Skype Policy, UPN Flip, Rooms Report, License Reconciliation,Intune Bulk Device Removal, Device Removal, Clear Activesync, Lync Account Termination,Lync Account Removal, Enable office 365 services, Enable o365 Services, Export PST, Site collection Report, Office 365 Group Sites, System Admin,ActiveSync Report,White Space,Active Directory attributes, outlook automation, Intune Detect App, Distribution list Fix, Legacy DN, start service, stop service, disable service, Message tracking, Distribution lists report,Distribution groups report,Quota Report, Auto reply, out of office, robocopy multi session, Home Folder, local admin, Database, UPN SIP Mismatch, Recoverable deleted, teams number, Number assignment, teams phone, AD Group Hierarchy, Hierarchy membership, Sync Groups, Powerapps, Powerapps DLP, AzureAD application, Azure AD Secret, AzureAD Certificate, AzureAD Cert
+- [VikasSukhija/Downloads](https://github.com/VikasSukhija/Downloads) - AD Health Check, Send HTML Email,  Ping machines, Encrypt Password,Bulk Password,Microsoft Teams,Monitor Certificate expiry, Monitor cert expiry, AD attributes, IP to Hostname, Export AD group, CSV to SQL,Shutdown, Restart, Local Admin, Disk Space, Account expiry,Restore Permissions, Backup permissions, Delete Files Older Than X-Days, export DHCP options,Read Registry,Distribution group AD attributes,Monitor Windows Services,Export Reverse DNS,Task Monitor,Monitor and alert, Exchange Health check,Get Network Info, Export AD Attributes,AD group members, Office 365 Group member, SQL to CSV, Outlook save send attachments, Upload files to FTP,Exchange – Total Messages Sent Received, Set Teams Only Mode, Intune Duplicate Device,Intune Cleanup Not Evaluated, Ownership and Grant Permissions, Write Create Modify Registry , Organization Hierarchy from AD,Azure AD Privileged Identity Management,Intune – Export MAM Devices,Intune Marking devices as Corporate, Dynamic to Static Distribution Group,Monitor Alert Office 365 services,Group Member Count,Bulk Addition external users sharepoint, ADD to Exchange online License Group,All in One Office 365 Powershell,Bulk Addition of Secondary Email, Automate move mailboxes to o365, Addition Modification Termination Exchange users, Monitoring Unified Messaging port,Unified Messaging Extensions Report, Set Default Quota for SharePoint,Bulk Contact Creation and Forwarding, Uploading and Downloading files sftp, Monitoring Sftp file and download, Office 365 groups Write back, CSV parser, Email address update, Email address modify, MDM enrollment, Welcome Email, Intune Welcome Email, remove messages, remove email, SKOB to AD, SKOB to group, PowerApps report, Powerautomate Report, Flow report, Server QA, Server Check List, O365 IP range, IP range Monitor, o365 Admin Roles, memberof extraction, CSV to Excel,  Skype Policy, UPN Flip, Rooms Report, License Reconciliation,Intune Bulk Device Removal, Device Removal, Clear Activesync, Lync Account Termination,Lync Account Removal, Enable office 365 services, Enable o365 Services, Export PST, Site collection Report, Office 365 Group Sites, System Admin,ActiveSync Report,White Space,Active Directory attributes, outlook automation, Intune Detect App, Distribution list Fix, Legacy DN, start service, stop service, disable service, Message tracking, Distribution lists report,Distribution groups report,Quota Report, Auto reply, out of office, robocopy multi session, Home Folder, local admin, Database, UPN SIP Mismatch, Recoverable deleted, teams number, Number assignment, teams phone, AD Group Hierarchy, Hierarchy membership, Sync Groups, Powerapps, Powerapps DLP, AzureAD application, Azure AD Secret, AzureAD Certificate, AzureAD Cert, Powerapps DLP
 - [scriptrunner/ActionPacks](https://github.com/scriptrunner/ActionPacks) - Public PowerShell script gallery for ScriptRunner.
 - [JulianChow94/Windows-screenFetch](https://github.com/JulianChow94/Windows-screenFetch) - Powershell port of bash/unix screenfetch.
 - [BornToBeRoot/PowerShell_IPv4NetworkScanner](https://github.com/BornToBeRoot/PowerShell_IPv4NetworkScanner) - Powerful asynchronus IPv4 network scanner for PowerShell
@@ -5716,6 +5715,7 @@
 
 ## R 
 
+- [r-lib/coro](https://github.com/r-lib/coro) - Coroutines for R
 - [lockedata/mockaRoo](https://github.com/lockedata/mockaRoo) - R Package 📦 to Generate mock data with the Mockaroo API :sparkles:
 - [IRkernel/IRdisplay](https://github.com/IRkernel/IRdisplay) - Jupyter display machinery for R
 - [jimbrig/shinyPacker](https://github.com/jimbrig/shinyPacker) - shinyPacker
@@ -6004,6 +6004,7 @@
 - [collidrpackage/collidr](https://github.com/collidrpackage/collidr) - Avoiding Namespace Collisions in R
 - [IndrajeetPatil/ipmisc](https://github.com/IndrajeetPatil/ipmisc) - Miscellaneous helper functions for data cleaning and data analysis
 - [anhoej/r4spc](https://github.com/anhoej/r4spc) - Course materials: Statistical process control charts with R
+- [jimbrig/lossrx](https://github.com/jimbrig/lossrx) - An R package, plumber API, database, and Shiny App for Actuarial Loss Development and Reserving Workflows.
 - [jimbrig/lossdevt](https://github.com/jimbrig/lossdevt) - An R package and Shiny App for Actuarial Loss Development and Reserving
 - [RobinHankin/onion](https://github.com/RobinHankin/onion) - R functionality to deal with quaternions and octonions
 - [prioritizr/prioritizr](https://github.com/prioritizr/prioritizr) - Systematic conservation prioritization in R
@@ -6631,7 +6632,7 @@
 - [MangoTheCat/Formal-Package-Development-Workshop](https://github.com/MangoTheCat/Formal-Package-Development-Workshop) - Resources for the EARL Current Best Practices in Formal Package Development Workshop
 - [fmmattioni/shinybulmareprex](https://github.com/fmmattioni/shinybulmareprex) - 
 - [quarto-dev/quarto-r](https://github.com/quarto-dev/quarto-r) - R interface to quarto-cli
-- [royfrancis/shinyapp_calendar_plot](https://github.com/royfrancis/shinyapp_calendar_plot) - An R Shiny App to create a calendar.
+- [royfrancis/shiny-planner](https://github.com/royfrancis/shiny-planner) - An R Shiny App to create a calendar.
 - [AndreAlz/Chatbot-Shiny](https://github.com/AndreAlz/Chatbot-Shiny) - Chatbot developed in R Shiny using 2 KNN models for classification with Caret library.
 - [apear9/riskmapr](https://github.com/apear9/riskmapr) - Code for riskmapr apps for invasive weed risk mapping
 - [rajkstats/git_discoverer_app](https://github.com/rajkstats/git_discoverer_app) - What's trending in data science space
@@ -6645,7 +6646,7 @@
 - [zevross-spatial/rpackage-sensorDataImport](https://github.com/zevross-spatial/rpackage-sensorDataImport) - 
 - [jsugarelli/pointr](https://github.com/jsugarelli/pointr) - Working comfortably with pointers and shortcuts to R objects
 - [Kohze/fireData](https://github.com/Kohze/fireData) - Firebase + R
-- [OliverHennhoefer/R_Shiny_DataTable_DeleteRowSelection](https://github.com/OliverHennhoefer/R_Shiny_DataTable_DeleteRowSelection) - Example of interactively adding rows / deleting rows by selecting directly in a data.table (DT) in Shiny
+- [OliverHennhoefer/shiny-template-interactive-table](https://github.com/OliverHennhoefer/shiny-template-interactive-table) - Example of interactively adding rows / deleting rows by selecting directly in a data.table (DT) in Shiny
 - [cgwhitehead/golfstats](https://github.com/cgwhitehead/golfstats) - gather and clean pga stats for fantasy golf
 - [GegznaV/conspect.helper](https://github.com/GegznaV/conspect.helper) - :warning: :zap: Convenience functions for personal use (R package)
 - [GegznaV/backup.tools](https://github.com/GegznaV/backup.tools) - :heavy_check_mark: Helper R package to create file back-ups
@@ -9885,7 +9886,7 @@
 - [ionic-team/stencil](https://github.com/ionic-team/stencil) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and traditional web developers from a single, framework-agnostic codebase.
 - [luvsic3/issue-md-generator](https://github.com/luvsic3/issue-md-generator) - A command-line tool to generate markdown list from your github repository issue page
 - [REditorSupport/vscode-R](https://github.com/REditorSupport/vscode-R) - R Extension for Visual Studio Code
-- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration
+- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Technical documentation that just works
 - [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes) - Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization options.
 - [atolye15/checklist](https://github.com/atolye15/checklist) - The protocols we follow for the things we cannot automate yet! ✅
@@ -10054,7 +10055,7 @@
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [bencodezen/obsidian-publish-vue](https://github.com/bencodezen/obsidian-publish-vue) - 
 - [Leniolabs/layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [appbaseio-apps/GitXplore-Search](https://github.com/appbaseio-apps/GitXplore-Search) - An application to explore github repositories.
 - [imfing/pile](https://github.com/imfing/pile) - :zap: A simple & powerful app to organize your piled work at one place~
