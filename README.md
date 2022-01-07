@@ -565,7 +565,7 @@
 - [yaichenbaum/Quick-Pad](https://github.com/yaichenbaum/Quick-Pad) - Quick Pad is a modern notepad app featuring fluent design
 - [microsoft/VFSForGit](https://github.com/microsoft/VFSForGit) - Virtual File System for Git: Enable Git at Enterprise Scale
 - [JasonStein/Notepads](https://github.com/JasonStein/Notepads) - A modern, lightweight text editor with a minimalist design.
-- [dotnet/docfx](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects
+- [dotnet/docfx](https://github.com/dotnet/docfx) - Static site generator for .NET API documentation.
 - [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
 - [microsoft/PSDocs](https://github.com/microsoft/PSDocs) - Generate documentation from Infrastructure as Code (IaC).
 - [mazmazz/jumplist-extender](https://github.com/mazmazz/jumplist-extender) - A custom Jump List creator for any program on Windows.
@@ -1440,6 +1440,7 @@
 
 ## HTML 
 
+- [matteobrusa/Password-protection-for-static-pages](https://github.com/matteobrusa/Password-protection-for-static-pages) - Password protection for static pages
 - [openanalytics/shinyproxy-flask-demo](https://github.com/openanalytics/shinyproxy-flask-demo) - 
 - [HoussemDellai/WebAppWithDatabaseDemo](https://github.com/HoussemDellai/WebAppWithDatabaseDemo) - Sample ASP.NET Core MVC app with database for demoing CI-CD pipelines using Azure DevOps
 - [bostrot/portfolio](https://github.com/bostrot/portfolio) - Clean HTML5 & CSS portfolio site
@@ -2030,6 +2031,8 @@
 
 ## JavaScript 
 
+- [Wikifox/wikifox](https://github.com/Wikifox/wikifox) - A clean and simplified WikiPedia powered by wikifox.js
+- [pqina/filepond](https://github.com/pqina/filepond) - 🌊 A flexible and fun JavaScript file upload library
 - [richinfante/iphonebackuptools](https://github.com/richinfante/iphonebackuptools) - iOS Backup Data Extraction
 - [thura10/airwave](https://github.com/thura10/airwave) - Share Files between iOS and Windows without hassle.
 - [Appsilon/shiny.tools](https://github.com/Appsilon/shiny.tools) - This webpage is a landing page collecting Appsilon's opensource packages for Shiny framework
@@ -3980,7 +3983,7 @@
 - [heartexlabs/awesome-data-labeling](https://github.com/heartexlabs/awesome-data-labeling) - A curated list of awesome data labeling tools
 - [mdibaiee/awesome-lite-websites](https://github.com/mdibaiee/awesome-lite-websites) - A list of awesome lightweight websites without all the bloat
 - [aloisdg/awesome-regex](https://github.com/aloisdg/awesome-regex) - A curated collection of awesome Regex libraries, tools, frameworks and software
-- [noahbuscher/inspire](https://github.com/noahbuscher/inspire) - Collection of web design & development links :bulb:
+- [noahbuscher/inspire](https://github.com/noahbuscher/inspire) - Collection of frontend dev and web design links :bulb:
 - [hantuzun/awesome-clojurescript](https://github.com/hantuzun/awesome-clojurescript) - A community driven list of ClojureScript frameworks, libraries and wrappers.
 - [ciconia/awesome-music](https://github.com/ciconia/awesome-music) - Awesome Music Projects
 - [ebu/awesome-broadcasting](https://github.com/ebu/awesome-broadcasting) - A curated list of amazingly awesome open source resources related to broadcast technologies
@@ -8724,6 +8727,7 @@
 
 ## Ruby 
 
+- [jekyll/jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from) - :twisted_rightwards_arrows: Seamlessly specify multiple redirections URLs for your pages and posts.
 - [edavidaja/homebrew-rstudio-pro](https://github.com/edavidaja/homebrew-rstudio-pro) - 
 - [dtan4/dockerfile-terraforming](https://github.com/dtan4/dockerfile-terraforming) - Docker Image for Terraforming
 - [dtan4/terraforming](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate) / No longer actively maintained
@@ -8914,7 +8918,7 @@
 - [lvalnegri/workshops-setup_cloud_analytics_machine](https://github.com/lvalnegri/workshops-setup_cloud_analytics_machine) - Tips and Tricks to setup a cloud machine for Analytics and Data Science with R, RStudio and Shiny Servers, Python and JupyterLab
 - [nikvoronin/wtfcrt](https://github.com/nikvoronin/wtfcrt) - A personal wiki-like notebooks aka zettelkasten
 - [andybyers21/notes.ajb.app](https://github.com/andybyers21/notes.ajb.app) - This is the data for my Evergreen notes vault
-- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your Profile and Projects.
+- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [jamiebrynes7/clair-de-lune-obsidian-theme](https://github.com/jamiebrynes7/clair-de-lune-obsidian-theme) - An obsidian.md theme inspired by the Moonlight family of themes
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
@@ -8960,6 +8964,8 @@
 
 ## Shell 
 
+- [Azure/acr-build](https://github.com/Azure/acr-build) - Github action to build containers with Azure Container Registry
+- [davidski/tidyrisk-docker](https://github.com/davidski/tidyrisk-docker) - ⚖🐋Rocker-based Docker Containers for Tidyrisk
 - [alexadam/repo-backup](https://github.com/alexadam/repo-backup) - Backup all Github & Gitlab repositories as .zip files
 - [richinfante/github-clone-all](https://github.com/richinfante/github-clone-all) - Clone all your github repos for backups & local development.
 - [TonnyL/toolman](https://github.com/TonnyL/toolman) - A collection of tools
@@ -10040,7 +10046,7 @@
 
 ## Vue 
 
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [dale0525/ClipBroad](https://github.com/dale0525/ClipBroad) - Sync your clipboard across multiple platforms
 - [FrissAnalytics/shiny-vue-simple](https://github.com/FrissAnalytics/shiny-vue-simple) - simple example combining R shiny and vue.js
 - [timelyportfolio/vue-cli-r](https://github.com/timelyportfolio/vue-cli-r) - 
