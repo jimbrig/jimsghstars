@@ -766,6 +766,7 @@
 
 ## CSS 
 
+- [Rainbell129/Obsidian-Homepage](https://github.com/Rainbell129/Obsidian-Homepage) - A dashboard for your obsidian vault.
 - [twbs/ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
 - [nathansmith/960-Grid-System](https://github.com/nathansmith/960-Grid-System) - The 960 Grid System is an effort to streamline web development workflow.
 - [app-generator/flask-pixel](https://github.com/app-generator/flask-pixel) - Flask Pixel UI Kit - Open-Source web app coded in Flask | AppSeed
@@ -5718,6 +5719,8 @@
 
 ## R 
 
+- [OpenSourceAP/CrossSectionDemos](https://github.com/OpenSourceAP/CrossSectionDemos) - Example code of simple things one can do with our open-source asset pricing data
+- [Roche/crmPack](https://github.com/Roche/crmPack) - Object-Oriented Implementation of CRM Designs
 - [r-lib/coro](https://github.com/r-lib/coro) - Coroutines for R
 - [lockedata/mockaRoo](https://github.com/lockedata/mockaRoo) - R Package 📦 to Generate mock data with the Mockaroo API :sparkles:
 - [IRkernel/IRdisplay](https://github.com/IRkernel/IRdisplay) - Jupyter display machinery for R
@@ -6060,6 +6063,7 @@
 - [Enchufa2/universe](https://github.com/Enchufa2/universe) - Personal R-universe
 - [Enchufa2/dispatchS3dots](https://github.com/Enchufa2/dispatchS3dots) - 
 - [jimbrig/rsetup](https://github.com/jimbrig/rsetup) - What the Package Does (One Line, Title Case)
+- [rpodcast/shinylearning](https://github.com/rpodcast/shinylearning) - 
 - [fdrennan/biggr3](https://github.com/fdrennan/biggr3) - 
 - [fdrennan/productor](https://github.com/fdrennan/productor) - A stripped version of Redditor
 - [fdrennan/ndexie](https://github.com/fdrennan/ndexie) - R Application Based Code
@@ -8102,7 +8106,7 @@
 - [reconhub/datacomparator](https://github.com/reconhub/datacomparator) - Shiny app for comparing 2 versions of a dataset
 - [jbryer/Rd2markdown](https://github.com/jbryer/Rd2markdown) - Package for creating markdown versions of R package help in Rd format.
 - [quantsch/Rd2md](https://github.com/quantsch/Rd2md) - Package for creating markdown versions of R package reference manual.
-- [ropensci-org/rodev](https://github.com/ropensci-org/rodev) - Helpers for rOpenSci Package Authors :package: :sparkles:
+- [ropensci-archive/rodev](https://github.com/ropensci-archive/rodev) - Helpers for rOpenSci Package Authors :package: :sparkles:
 - [rstudio/connections](https://github.com/rstudio/connections) - https://rstudio.github.io/connections/
 - [rstudio-conf-2020/big-data](https://github.com/rstudio-conf-2020/big-data) - :wrench: Use dplyr to analyze Big Data :elephant:
 - [sol-eng/background-jobs](https://github.com/sol-eng/background-jobs) - Resources for demoing local and Launcher jobs with RStudio
@@ -9031,7 +9035,6 @@
 - [elsenm/digital-garden](https://github.com/elsenm/digital-garden) - 🌱 My personal homegrown digital garden
 - [thomvaill/Makedockfile](https://github.com/thomvaill/Makedockfile) - A simple Makefile to build your Docker images 👌
 - [Enchufa2/test-devcontainers](https://github.com/Enchufa2/test-devcontainers) - 
-- [rpodcast/shinylearning](https://github.com/rpodcast/shinylearning) - 
 - [slimdevops/slim-containers](https://github.com/slimdevops/slim-containers) - Slim.AI Container of the Week Series and Examples
 - [gtm19/dotfiles](https://github.com/gtm19/dotfiles) - Default configuration for Le Wagon's students
 - [gtm19/r_docker](https://github.com/gtm19/r_docker) - A template for using R + Docker in VS Code
