@@ -3266,6 +3266,7 @@
 
 ## Others 
 
+- [berlotto/datascience](https://github.com/berlotto/datascience) - Datascience study and exercices repository
 - [sanko/Robinhood](https://github.com/sanko/Robinhood) - Unofficial Documentation of Robinhood Trade's Private API
 - [builtbybel/pimpapp](https://github.com/builtbybel/pimpapp) - Experimental project! One day an app will come along, which has exactly this name again :grin: 💩 🔥 🚫
 - [kkkgo/Windows-10-Inbox-Apps-xml](https://github.com/kkkgo/Windows-10-Inbox-Apps-xml) - Windows 10 Inbox Apps xml
@@ -5008,6 +5009,8 @@
 
 ## Python 
 
+- [berlotto/pgautoapi](https://github.com/berlotto/pgautoapi) - Uma ferramenta que transforma um banco de dados PostgreSQL em uma API-REST automaticamente
+- [realpython/flask-boilerplate](https://github.com/realpython/flask-boilerplate) - Boilerplate template for a Python Flask application with Flask-SQLAlchemy, Flask-WTF, Fabric, Coverage, and Bootstrap
 - [thomasleplus/gdrive-archive](https://github.com/thomasleplus/gdrive-archive) - Archiving tool for Google Drive
 - [ojarva/google-backup](https://github.com/ojarva/google-backup) - Drive/Gmail/Calendar backups
 - [gaubert/gmvault](https://github.com/gaubert/gmvault) - gmail backup software
@@ -5719,6 +5722,7 @@
 
 ## R 
 
+- [mfarkhann/docker_plumber](https://github.com/mfarkhann/docker_plumber) - Example Implementation of Deploying Prediction API using plumber in docker
 - [OpenSourceAP/CrossSectionDemos](https://github.com/OpenSourceAP/CrossSectionDemos) - Example code of simple things one can do with our open-source asset pricing data
 - [Roche/crmPack](https://github.com/Roche/crmPack) - Object-Oriented Implementation of CRM Designs
 - [r-lib/coro](https://github.com/r-lib/coro) - Coroutines for R
@@ -6006,7 +6010,7 @@
 - [DominikRafacz/deepdep](https://github.com/DominikRafacz/deepdep) - Visualise and Explore Deep Dependencies of R packages
 - [coolbutuseless/rd2list](https://github.com/coolbutuseless/rd2list) - Convert Rd documentation to a structured, human-readable list
 - [zhuxr11/roclang](https://github.com/zhuxr11/roclang) - A package that helps to diffuse 'roxygen' documentations.
-- [stevecondylios/collidr](https://github.com/stevecondylios/collidr) - Check for namespace collisions across a half a million packages and functions on CRAN 💥
+- [stevecondylios/collidr](https://github.com/stevecondylios/collidr) - Check for namespace collisions across a half a million functions on CRAN 💥
 - [collidrpackage/collidr](https://github.com/collidrpackage/collidr) - Avoiding Namespace Collisions in R
 - [IndrajeetPatil/ipmisc](https://github.com/IndrajeetPatil/ipmisc) - Miscellaneous helper functions for data cleaning and data analysis
 - [anhoej/r4spc](https://github.com/anhoej/r4spc) - Course materials: Statistical process control charts with R
@@ -8200,7 +8204,7 @@
 - [tmobile/loadtest](https://github.com/tmobile/loadtest) - an R package that automates performance testing of ML models and summarizes the results in a dashboard w/ rad visualizations
 - [mkearney/rstudiothemes](https://github.com/mkearney/rstudiothemes) - A curated list of RStudio themes found on Github
 - [milosvil/RecodeReorder](https://github.com/milosvil/RecodeReorder) - RStudio addin for interactively renaming, collapsing and reordering factor levels.
-- [stevecondylios/rawr](https://github.com/stevecondylios/rawr) - Extract the raw R code directly from webpages, including Github, Kaggle, Stack Overflow, and sites made using Blogdown.
+- [stevecondylios/rawr](https://github.com/stevecondylios/rawr) - Extract raw R code directly from webpages, including Github, Kaggle, Stack Overflow, and sites made using Blogdown.
 - [pablobarbera/instaR](https://github.com/pablobarbera/instaR) - Dev version of instaR package: Access to Instagram API via R
 - [tylermorganwall/rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization
 - [JeanBertinR/shinyML](https://github.com/JeanBertinR/shinyML) - shinyML is a R package that use h2o and Spark  frameworks to easily compare supervised machine learning models on regression or classification tasks (published on CRAN in July 2019)
@@ -9650,7 +9654,7 @@
 - [auth0/nextjs-auth0](https://github.com/auth0/nextjs-auth0) - Next.js SDK for signing in with Auth0
 - [mattwaler/next-ssr-starter](https://github.com/mattwaler/next-ssr-starter) - A starter project for using Next.js utilizing TailwindCSS and session-based SSR user modeling.
 - [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
-- [derwish-pro/obsidian-unique-attachments](https://github.com/derwish-pro/obsidian-unique-attachments) - Obsidian plugin. Renames attachments, making their names unique.
+- [dy-sh/obsidian-unique-attachments](https://github.com/dy-sh/obsidian-unique-attachments) - Obsidian plugin. Renames attachments, making their names unique.
 - [styxlab/next-cms-ghost](https://github.com/styxlab/next-cms-ghost) - Publish flaring fast blogs with Next.js and Ghost CMS
 - [mehulmpt/ghost-cms-nextjs](https://github.com/mehulmpt/ghost-cms-nextjs) - 
 - [up2jj/vscodist](https://github.com/up2jj/vscodist) - Create Todoist task directly from VS Code
@@ -9745,7 +9749,7 @@
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.
 - [jevakallio/git-notify](https://github.com/jevakallio/git-notify) - 🙉 📣 Communicate important updates to your team via git commit messages
 - [JasonEtco/create-an-issue](https://github.com/JasonEtco/create-an-issue) - A GitHub Action for creating a new issue from a template file.
-- [xiaoyang-sde/rocket-booster](https://github.com/xiaoyang-sde/rocket-booster) - 🚀 Lightweight and scalable reverse proxy and load balancing library built for Cloudflare Workers
+- [xiaoyang-sde/rocket-booster](https://github.com/xiaoyang-sde/rocket-booster) - Lightweight and scalable reverse proxy and load balancing library built for Cloudflare Workers
 - [obsidian-userland/publish](https://github.com/obsidian-userland/publish) - Open source Obsidian Publish alternative
 - [skalnik/obsidian-readwise-sync](https://github.com/skalnik/obsidian-readwise-sync) - Sync Readwise Highlights to Obsidian
 - [jplattel/obsidian-query-language](https://github.com/jplattel/obsidian-query-language) - An Obsidian plugin allowing you to query your notes
