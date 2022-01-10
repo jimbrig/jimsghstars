@@ -379,6 +379,7 @@
 
 ## C# # 
 
+- [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer [RAPR]
 - [Azure/Azure-AppServices-Diagnostics](https://github.com/Azure/Azure-AppServices-Diagnostics) - Azure App Service Diagnostics provides developers ability to write various diagnostics features which helps customers to diagnose and troubleshoot their applications hosted on app services.
 - [builtbybel/patchfluent](https://github.com/builtbybel/patchfluent) - 💧 🦄 Customize Windows 10 Updates
 - [builtbybel/burnbytes](https://github.com/builtbybel/burnbytes) - 🐦Open-source replica of Microsoft Disk Clean-up with aesthetics of Storage sense (aimed as community cleaner)
@@ -2788,7 +2789,7 @@
 - [ZoranGj/organizer](https://github.com/ZoranGj/organizer) - Windows application which combines CefSharp framework and web technologies (AngularJS) to form a simple app for tracking productivity.
 - [SilenceDN/simple-notes](https://github.com/SilenceDN/simple-notes) - Article & Snippet Management For Programer
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
-- [LekoArts/gatsby-starter-prismic](https://github.com/LekoArts/gatsby-starter-prismic) - A typography-heavy & light-themed Gatsby Starter which uses the Headless CMS Prismic.
+- [LekoArts/gatsby-starter-prismic](https://github.com/LekoArts/gatsby-starter-prismic) - Get started with your Photography portfolio with Prismic.io & Gatsby
 - [TryGhost/gatsby-starter-ghost](https://github.com/TryGhost/gatsby-starter-ghost) - A starter template to build lightning fast websites with Ghost & Gatsby
 - [saimn/sigal](https://github.com/saimn/sigal) - yet another simple static gallery generator
 - [elmasse/nextein](https://github.com/elmasse/nextein) - A static site generator with markdown + react for Next.js
@@ -9642,7 +9643,7 @@
 - [eykrehbein/cook](https://github.com/eykrehbein/cook) - 👨‍🍳 CLI Tool to create universal boilerplates
 - [joshfarrant/shortcuts-js](https://github.com/joshfarrant/shortcuts-js) - A JavaScript iOS 12 Shortcuts creator
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
-- [FlorianWoelki/obsidian-icon-folder](https://github.com/FlorianWoelki/obsidian-icon-folder) - 🗂 Simply add icons to your folders in Obsidian.
+- [FlorianWoelki/obsidian-icon-folder](https://github.com/FlorianWoelki/obsidian-icon-folder) - Simply add icons to your folders in Obsidian.
 - [koenverburg/site](https://github.com/koenverburg/site) - My slice of the internet built with Nextjs, TypeScript, and a whole lot more
 - [lynchjames/obsidian-mind-map](https://github.com/lynchjames/obsidian-mind-map) - An Obsidian plugin for displaying markdown notes as mind maps using Markmap.
 - [one-aalam/next-starter-kit](https://github.com/one-aalam/next-starter-kit) - Next.js with brilliant bells and useful whistles
