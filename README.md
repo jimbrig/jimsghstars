@@ -1115,6 +1115,7 @@
 
 ## Go 
 
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL
 - [rhysd/dotfiles](https://github.com/rhysd/dotfiles) - dotfiles symbolic links management CLI
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 - [openanalytics/rdepot-cli](https://github.com/openanalytics/rdepot-cli) - CLI for RDepot
@@ -1381,7 +1382,7 @@
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [wormi4ok/evernote2md](https://github.com/wormi4ok/evernote2md) - Convert Evernote .enex files to Markdown
-- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - world’s fastest immutable database, built on a zero trust model
+- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [google/exposure-notifications-server](https://github.com/google/exposure-notifications-server) - Exposure Notification Reference Server | Covid-19 Exposure Notifications
 - [helm/charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [OneOfOne/xxhash](https://github.com/OneOfOne/xxhash) - A native implementation of the excellent XXHash hashing algorithm.
@@ -2106,6 +2107,7 @@
 - [binyamin/markdown-it-wikilinks](https://github.com/binyamin/markdown-it-wikilinks) - Markdown-it plugin to recognize Mediawiki links ([[text]])
 - [microsoft/generator-azuredatastudio](https://github.com/microsoft/generator-azuredatastudio) - Yeoman generator for Azure Data Studio
 - [semantic-release/git](https://github.com/semantic-release/git) - :twisted_rightwards_arrows: semantic-release plugin to commit release assets to the project's git repository
+- [pmarsceill/setup](https://github.com/pmarsceill/setup) - Setup a new machine with my apps and config
 - [phishnet/api-v5](https://github.com/phishnet/api-v5) - 
 - [johnbfox/phish-api](https://github.com/johnbfox/phish-api) - API to serve Phish concert data
 - [robertlacok/datasciencenotebooks](https://github.com/robertlacok/datasciencenotebooks) - 
@@ -4638,7 +4640,7 @@
 - [ferventcoder/chocolatey-packages](https://github.com/ferventcoder/chocolatey-packages) - The packages...all about the packages.
 - [chocolatey-community/chocolatey-test-environment](https://github.com/chocolatey-community/chocolatey-test-environment) - A testing setup related to how the Chocolatey Package Verifier runs testing. Used for manual testing or prior to submission
 - [jmgilman/ChocolateyPackageCreator](https://github.com/jmgilman/ChocolateyPackageCreator) - Powershell module for creating internal Chocolatey packages
-- [liamfoneill/ChocolateBootstraps](https://github.com/liamfoneill/ChocolateBootstraps) - A collection of scripts etc to setup new windows machine
+- [liamfoneill/new-windows-pc-bootstrapper](https://github.com/liamfoneill/new-windows-pc-bootstrapper) - A collection of scripts etc to setup new windows machine
 - [hirsaeki/scoop-sup](https://github.com/hirsaeki/scoop-sup) - scoop manifests personally nessesary
 - [kodybrown/scoop-nirsoft](https://github.com/kodybrown/scoop-nirsoft) - A Scoop bucket of useful NirSoft utilities
 - [lipkau/PsIni](https://github.com/lipkau/PsIni) - Work with INI files in PowerShell using hashtables
@@ -5010,6 +5012,8 @@
 
 ## Python 
 
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [aws-dojo/analytics](https://github.com/aws-dojo/analytics) - code snippet for analytics sessions
 - [berlotto/pgautoapi](https://github.com/berlotto/pgautoapi) - Uma ferramenta que transforma um banco de dados PostgreSQL em uma API-REST automaticamente
 - [realpython/flask-boilerplate](https://github.com/realpython/flask-boilerplate) - Boilerplate template for a Python Flask application with Flask-SQLAlchemy, Flask-WTF, Fabric, Coverage, and Bootstrap
 - [thomasleplus/gdrive-archive](https://github.com/thomasleplus/gdrive-archive) - Archiving tool for Google Drive
@@ -5723,6 +5727,8 @@
 
 ## R 
 
+- [2DegreesInvesting/r2dii.analysis](https://github.com/2DegreesInvesting/r2dii.analysis) - Tools to Calculate Climate Targets for Financial Portfolios
+- [eliocamp/mountr](https://github.com/eliocamp/mountr) - Mount remote folders using sshfs from R
 - [mfarkhann/docker_plumber](https://github.com/mfarkhann/docker_plumber) - Example Implementation of Deploying Prediction API using plumber in docker
 - [OpenSourceAP/CrossSectionDemos](https://github.com/OpenSourceAP/CrossSectionDemos) - Example code of simple things one can do with our open-source asset pricing data
 - [Roche/crmPack](https://github.com/Roche/crmPack) - Object-Oriented Implementation of CRM Designs
@@ -6382,7 +6388,7 @@
 - [klmr/unpack](https://github.com/klmr/unpack) - Vector unpack assignment syntax for R
 - [klmr/minimappr](https://github.com/klmr/minimappr) - Code minimaps for R
 - [klmr/sys](https://github.com/klmr/sys) - Easily create reusable command line scripts with R
-- [rewheigh/shinymoney](https://github.com/rewheigh/shinymoney) - R Shiny + PostgreSQL application for managing and visualizing expenses + net worth
+- [ryushida/shinymoney](https://github.com/ryushida/shinymoney) - R Shiny + PostgreSQL application for managing and visualizing expenses + net worth
 - [meerapatelmd/rubix](https://github.com/meerapatelmd/rubix) - R package with wrapper functions of the Tidyverse package suite.
 - [meerapatelmd/glitter](https://github.com/meerapatelmd/glitter) - R package for making basic git commands from the R console and deploying packages and GitHub Pages
 - [guyschvitz/pgtools](https://github.com/guyschvitz/pgtools) - Helper functions to interact with Postgres from R
@@ -8137,7 +8143,7 @@
 - [yihui/rlp](https://github.com/yihui/rlp) - An Example of Using Literate Programming for R Package Development
 - [moodymudskipper/fastpipe](https://github.com/moodymudskipper/fastpipe) - A fast pipe implementation
 - [Derek-Jones/ESEUR-code-data](https://github.com/Derek-Jones/ESEUR-code-data) - Code and data used to create the examples in "Evidence-based Software Engineering based on the publicly available data"
-- [kevinushey/rex](https://github.com/kevinushey/rex) - Friendly regular expressions for R.
+- [r-lib/rex](https://github.com/r-lib/rex) - Friendly regular expressions for R.
 - [dppalomar/riskParityPortfolio](https://github.com/dppalomar/riskParityPortfolio) - Design of Risk Parity Portfolios
 - [ArdiaD/RiskPortfolios](https://github.com/ArdiaD/RiskPortfolios) - Functions for the construction of risk-based portfolios
 - [spedygiorgio/lifecontingencies](https://github.com/spedygiorgio/lifecontingencies) - Financial and Actuarial Mathematics for Life Contingencies
@@ -8736,6 +8742,7 @@
 
 ## Ruby 
 
+- [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [jekyll/jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from) - :twisted_rightwards_arrows: Seamlessly specify multiple redirections URLs for your pages and posts.
 - [edavidaja/homebrew-rstudio-pro](https://github.com/edavidaja/homebrew-rstudio-pro) - 
 - [dtan4/dockerfile-terraforming](https://github.com/dtan4/dockerfile-terraforming) - Docker Image for Terraforming
@@ -8973,6 +8980,7 @@
 
 ## Shell 
 
+- [sliteteam/github-action-git-crypt-unlock](https://github.com/sliteteam/github-action-git-crypt-unlock) - Github Action to unlock git-crypt secrets
 - [Azure/acr-build](https://github.com/Azure/acr-build) - Github action to build containers with Azure Container Registry
 - [davidski/tidyrisk-docker](https://github.com/davidski/tidyrisk-docker) - ⚖🐋Rocker-based Docker Containers for Tidyrisk
 - [alexadam/repo-backup](https://github.com/alexadam/repo-backup) - Backup all Github & Gitlab repositories as .zip files
@@ -9634,7 +9642,7 @@
 - [alexobenauer/Cross-reference-Navigation-for-Obsidian](https://github.com/alexobenauer/Cross-reference-Navigation-for-Obsidian) - Cross-reference navigation through your Obsidian tags and notes
 - [jimbrig/dev-portfolio](https://github.com/jimbrig/dev-portfolio) - Developer Portfolio
 - [nothingislost/obsidian-workspaces-plus](https://github.com/nothingislost/obsidian-workspaces-plus) - Quickly switch and manage Obsidian workspaces
-- [withastro/astro](https://github.com/withastro/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts
+- [withastro/astro](https://github.com/withastro/astro) - Build faster websites, faster. 🚀🧑‍🚀✨
 - [umijs/umi](https://github.com/umijs/umi) - 🌋 Pluggable enterprise-level react application framework.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [4lch4/Lib-HN](https://github.com/4lch4/Lib-HN) - A library for interacting with the HackerNews API.
@@ -9988,7 +9996,6 @@
 - [anstosa/dotfiles](https://github.com/anstosa/dotfiles) - My linux configs
 - [nvie/vim-flake8](https://github.com/nvie/vim-flake8) - Flake8 plugin for Vim
 - [nvie/vimrc](https://github.com/nvie/vimrc) - My personal Neovim configuration, with a lot of love put into it.
-- [pmarsceill/dotfiles](https://github.com/pmarsceill/dotfiles) - My dotfiles
 - [naggie/dotfiles](https://github.com/naggie/dotfiles) - Workstation configuration, provisioning and tools
 - [svermeulen/vim-subversive](https://github.com/svermeulen/vim-subversive) - Vim plugin providing operator motions to quickly replace text
 - [tweekmonster/startuptime.vim](https://github.com/tweekmonster/startuptime.vim) - Breakdown Vim's --startuptime output
