@@ -72,6 +72,7 @@
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
+  - [PLSQL](#plsql)
   - [PLpgSQL](#plpgsql)
   - [Pascal](#pascal)
   - [Perl](#perl)
@@ -165,6 +166,8 @@
 
 ## Batchfile 
 
+- [abbodi1406/BatUtil](https://github.com/abbodi1406/BatUtil) - Collection of batch scripts utilities for Windows
+- [whatever127/offlineinsiderenroll](https://github.com/whatever127/offlineinsiderenroll) - OfflineInsiderEnroll - A script to enable access to the Windows Insider Program on machines not signed in with Microsoft Account
 - [uwuowouwu420/ufws](https://github.com/uwuowouwu420/ufws) - ufws (UnFuck Windows Setup)
 - [ItzLevvie/RegisterToInsiderOffline](https://github.com/ItzLevvie/RegisterToInsiderOffline) - This project was created from Batch which allows people to register their device to the Windows Insider Program without using an account.
 - [voletro/wsa-toolbox](https://github.com/voletro/wsa-toolbox) - A Windows 11 application to easily install and use the Windows Subsystem For Android™ package on your computer.
@@ -379,6 +382,7 @@
 
 ## C# # 
 
+- [dsccommunity/SharePointDsc](https://github.com/dsccommunity/SharePointDsc) - The SharePointDsc PowerShell module provides DSC resources that can be used to deploy and manage a SharePoint farm
 - [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer [RAPR]
 - [Azure/Azure-AppServices-Diagnostics](https://github.com/Azure/Azure-AppServices-Diagnostics) - Azure App Service Diagnostics provides developers ability to write various diagnostics features which helps customers to diagnose and troubleshoot their applications hosted on app services.
 - [builtbybel/patchfluent](https://github.com/builtbybel/patchfluent) - 💧 🦄 Customize Windows 10 Updates
@@ -1404,6 +1408,7 @@
 
 ## HCL 
 
+- [rgl/windows-vagrant](https://github.com/rgl/windows-vagrant) - Windows 10/11/2016/2019/2022 Base Vagrant Box (https://app.vagrantup.com/rgl)
 - [cloudposse/terraform-aws-s3-bucket](https://github.com/cloudposse/terraform-aws-s3-bucket) - Terraform module that creates an S3 bucket with an optional IAM user for external CI/CD systems
 - [andif888/packer-windows-vsphere-iso](https://github.com/andif888/packer-windows-vsphere-iso) - This repo builds automatically Windows VM templates (Windows 11, Windows 10, Server 2019, Server 2022) for VMware vSphere environment using Hashicorp's Packer using freely available Windows Eval ISOs.
 - [terraform-aws-modules/terraform-aws-cloudwatch](https://github.com/terraform-aws-modules/terraform-aws-cloudwatch) - Terraform module which creates Cloudwatch resources on AWS
@@ -1966,6 +1971,8 @@
 
 ## Java 
 
+- [dbfit/dbfit](https://github.com/dbfit/dbfit) - DbFit is a database testing framework that supports easy test-driven development of your database code.
+- [xmindltd/xmind](https://github.com/xmindltd/xmind) - The most popular mind mapping software
 - [Kanav-Arora/Financify](https://github.com/Kanav-Arora/Financify) - Financify is an accounting software based on Java and MySQL .
 - [openanalytics/RDepot](https://github.com/openanalytics/RDepot) - RDepot - Enterprise Management of R Repositories
 - [kkapoor84/Automation_Excel_Query_Creation](https://github.com/kkapoor84/Automation_Excel_Query_Creation) - 
@@ -2034,6 +2041,7 @@
 
 ## JavaScript 
 
+- [shichongrui/obsidian-rollover-daily-todos](https://github.com/shichongrui/obsidian-rollover-daily-todos) - An obsidian plugin that rolls over todo items from the previous daily note
 - [Wikifox/wikifox](https://github.com/Wikifox/wikifox) - A clean and simplified WikiPedia powered by wikifox.js
 - [pqina/filepond](https://github.com/pqina/filepond) - 🌊 A flexible and fun JavaScript file upload library
 - [richinfante/iphonebackuptools](https://github.com/richinfante/iphonebackuptools) - iOS Backup Data Extraction
@@ -2317,6 +2325,7 @@
 - [pjeby/pane-relief](https://github.com/pjeby/pane-relief) - Obsidian plugin for per-pane history, pane movement/navigation hotkeys, and more
 - [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business) - Using Obsidian.... For Business!
 - [pjeby/tag-wrangler](https://github.com/pjeby/tag-wrangler) - Rename, merge, toggle, and search tags from the Obsidian tag pane
+- [HEmile/juggl](https://github.com/HEmile/juggl) - An interactive, stylable and expandable graph view for Obsidian. Juggl is designed as an advanced 'local' graph view, where you can juggle all your thoughts with ease.
 - [learnwithjason/lets-learn-obsidian](https://github.com/learnwithjason/lets-learn-obsidian) - 
 - [Flutterwave/rave-react-native](https://github.com/Flutterwave/rave-react-native) - Rave react native SDK
 - [QBisConsult/psql-api](https://github.com/QBisConsult/psql-api) - RAPID RESTful API for PostgreSQL
@@ -3123,6 +3132,7 @@
 
 ## Kotlin 
 
+- [croc-code/sql-boot](https://github.com/croc-code/sql-boot) - Advanced REST-wrapper for your SQL-queries (actually not only SQL)
 - [TheCodeMonks/NYTimes-App](https://github.com/TheCodeMonks/NYTimes-App) - 🗽 A Simple Demonstration of the New York Times App 📱 using Jsoup web crawler with MVVM Architecture 🔥
 - [AmrDeveloper/LinkHub](https://github.com/AmrDeveloper/LinkHub) - LinkHub is a simple and effective link management application that can help you to easily manage your app with no ads!
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
@@ -3246,7 +3256,7 @@
 
 - [coq/coq](https://github.com/coq/coq) - Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
 - [ocaml/ocaml](https://github.com/ocaml/ocaml) - The core OCaml system: compilers, runtime system, base libraries
-- [dmbaturin/soupault](https://github.com/dmbaturin/soupault) - Static website generator based on HTML element tree rewriting
+- [PataphysicalSociety/soupault](https://github.com/PataphysicalSociety/soupault) - Static website generator based on HTML element tree rewriting
 - [moby/datakit](https://github.com/moby/datakit) - Connect processes into powerful data pipelines with a simple git-like filesystem interface
 - [talex5/cuekeeper](https://github.com/talex5/cuekeeper) - Browser-based GTD (TODO list) system. No server needed.
 
@@ -3269,6 +3279,7 @@
 
 ## Others 
 
+- [dformoso/machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
 - [berlotto/datascience](https://github.com/berlotto/datascience) - Datascience study and exercices repository
 - [sanko/Robinhood](https://github.com/sanko/Robinhood) - Unofficial Documentation of Robinhood Trade's Private API
 - [builtbybel/pimpapp](https://github.com/builtbybel/pimpapp) - Experimental project! One day an app will come along, which has exactly this name again :grin: 💩 🔥 🚫
@@ -3682,7 +3693,7 @@
 - [emilyriederer/dbtplyr](https://github.com/emilyriederer/dbtplyr) - dbt package mimicking dplyr select-helpers semantics
 - [rinproduction/docker-rweb](https://github.com/rinproduction/docker-rweb) - 
 - [icons8/lunacy-docs](https://github.com/icons8/lunacy-docs) - Documentation for Lunacy, Graphic Design Software with built-in assets
-- [r-devel/rcontribution](https://github.com/r-devel/rcontribution) - Repository for the R Contribution Working Group, working on initiatives to encourage new contributor to R core
+- [r-devel/rcontribution](https://github.com/r-devel/rcontribution) - R Contribution Working Group: fostering a larger, more diverse community of contributors to R core development
 - [nathaneastwood/useful-postgres](https://github.com/nathaneastwood/useful-postgres) - A collection of useful PostgreSQL queries and snippets
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [reconhub/docker](https://github.com/reconhub/docker) - Various docker images for RECON
@@ -4348,6 +4359,10 @@
 - [foo123/HtmlWidget](https://github.com/foo123/HtmlWidget) - Html Widgets used as (template) plugins and/or standalone, for Javascript, PHP and Python
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 
+## PLSQL 
+
+- [oracle/db-sample-schemas](https://github.com/oracle/db-sample-schemas) - Oracle Database Sample Schemas
+
 ## PLpgSQL 
 
 - [Azure-Samples/azure-sql-db-fullstack-serverless-kickstart](https://github.com/Azure-Samples/azure-sql-db-fullstack-serverless-kickstart) - Fullstack/Jamstack solution with Vue.js, Azure Functions, Azure Static Web apps and Azure SQL.
@@ -4383,9 +4398,16 @@
 
 ## PowerShell 
 
+- [majkinetor/au-packages-template](https://github.com/majkinetor/au-packages-template) - Template repository for Chocolatey Automatic Package Updater Module
+- [MSAdministrator/PSNetStat](https://github.com/MSAdministrator/PSNetStat) - A PowerShell Module which recreates netstat.exe functionality
+- [MSAdministrator/PSLogging](https://github.com/MSAdministrator/PSLogging) - A PowerShell Logging Module that uses Classes to log to the console, log file, or the event viewer
+- [MSAdministrator/WriteLogEntry](https://github.com/MSAdministrator/WriteLogEntry) - A PowerShell helper function to create and write information to a log file
+- [gdeliana/Optimize-Offline](https://github.com/gdeliana/Optimize-Offline) - Optimize-Offline is a Windows 10 offline image optimization framework.
+- [NetSPI/PowerUpSQL](https://github.com/NetSPI/PowerUpSQL) - PowerUpSQL: A PowerShell Toolkit for Attacking SQL Server
+- [imabdk/Toast-Notification-Script](https://github.com/imabdk/Toast-Notification-Script) - My Windows 10 Toast Notification Script explained in details here: https://imab.dk/windows-10-toast-notification-script/
 - [jimbrig/PowerShell](https://github.com/jimbrig/PowerShell) - PowerShell Core Profile Directory
 - [teeotsa/windows-11-debloat](https://github.com/teeotsa/windows-11-debloat) - Windows 11 Debloater, makes your installation of 11 faster
-- [jamesstringerparsec/Easy-GPU-P](https://github.com/jamesstringerparsec/Easy-GPU-P) - A Project dedicated to making GPU Partitioning on Windows easier!
+- [jamesstringerparsec/Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) - A Project dedicated to making GPU Partitioning on Windows easier!
 - [Azure-Samples/functions-docs-powershell](https://github.com/Azure-Samples/functions-docs-powershell) - PowerShell samples that support Azure Functions docs
 - [MicrosoftDocs/azure-docs-cli](https://github.com/MicrosoftDocs/azure-docs-cli) - Repository used to store content for the docs.microsoft.com content for the Azure CLI
 - [cloudfoundry/windows-utilities-release](https://github.com/cloudfoundry/windows-utilities-release) - 
@@ -5727,6 +5749,9 @@
 
 ## R 
 
+- [jokergoo/spiralize](https://github.com/jokergoo/spiralize) - Visualize data on spirals
+- [paws-r/paws](https://github.com/paws-r/paws) - Paws, a package for Amazon Web Services in R
+- [JonasRieger/rollinglda](https://github.com/JonasRieger/rollinglda) - A rolling version of the Latent Dirichlet Allocation. By a sequential approach, it enables the construction of LDA-based time series of topics that are consistent with previous states of LDA models. After an initial modeling, updates can be computed efficiently, allowing for real-time monitoring and detection of events or structural breaks.
 - [2DegreesInvesting/r2dii.analysis](https://github.com/2DegreesInvesting/r2dii.analysis) - Tools to Calculate Climate Targets for Financial Portfolios
 - [eliocamp/mountr](https://github.com/eliocamp/mountr) - Mount remote folders using sshfs from R
 - [mfarkhann/docker_plumber](https://github.com/mfarkhann/docker_plumber) - Example Implementation of Deploying Prediction API using plumber in docker
@@ -9562,6 +9587,10 @@
 
 ## TypeScript 
 
+- [valentine195/obsidian-leaflet-plugin](https://github.com/valentine195/obsidian-leaflet-plugin) - Adds interactive maps to Obsidian.md using Leaflet.js
+- [formio/resquel](https://github.com/formio/resquel) - Easily convert your SQL database into a REST API using Express.js
+- [ondras/my-mind](https://github.com/ondras/my-mind) - Online Mindmapping Software
+- [gera2ld/markmap](https://github.com/gera2ld/markmap) - Visualize your Markdown as mindmaps with Markmap.
 - [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
 - [ozntel/file-tree-alternative](https://github.com/ozntel/file-tree-alternative) - This Obsidian Plugin allows users to have a different file explorer experience.
 - [Azure/azure-resource-manager-schemas](https://github.com/Azure/azure-resource-manager-schemas) - Schemas used to author and validate Resource Manager Templates
@@ -9711,7 +9740,6 @@
 - [ryanjamurphy/review-obsidian](https://github.com/ryanjamurphy/review-obsidian) - Add the current note to a future daily note to remember to review it.
 - [liamcain/obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes) - Create/manage your daily, weekly, and monthly notes in Obsidian
 - [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
-- [HEmile/juggl](https://github.com/HEmile/juggl) - An interactive, stylable and expandable graph view for Obsidian. Juggl is designed as an advanced 'local' graph view, where you can juggle all your thoughts with ease.
 - [martin-jw/obsidian-recall](https://github.com/martin-jw/obsidian-recall) - A spaced repetition system for Obsidian!
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
