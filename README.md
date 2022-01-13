@@ -166,6 +166,7 @@
 
 ## Batchfile 
 
+- [AveYo/LeanAndMean](https://github.com/AveYo/LeanAndMean) - snippets for power users
 - [abbodi1406/BatUtil](https://github.com/abbodi1406/BatUtil) - Collection of batch scripts utilities for Windows
 - [whatever127/offlineinsiderenroll](https://github.com/whatever127/offlineinsiderenroll) - OfflineInsiderEnroll - A script to enable access to the Windows Insider Program on machines not signed in with Microsoft Account
 - [uwuowouwu420/ufws](https://github.com/uwuowouwu420/ufws) - ufws (UnFuck Windows Setup)
@@ -382,6 +383,7 @@
 
 ## C# # 
 
+- [red-gate/spawn-demo](https://github.com/red-gate/spawn-demo) - Demo application to show how Spawn can be integrated in Development and CI
 - [dsccommunity/SharePointDsc](https://github.com/dsccommunity/SharePointDsc) - The SharePointDsc PowerShell module provides DSC resources that can be used to deploy and manage a SharePoint farm
 - [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer [RAPR]
 - [Azure/Azure-AppServices-Diagnostics](https://github.com/Azure/Azure-AppServices-Diagnostics) - Azure App Service Diagnostics provides developers ability to write various diagnostics features which helps customers to diagnose and troubleshoot their applications hosted on app services.
@@ -2041,6 +2043,8 @@
 
 ## JavaScript 
 
+- [InsiderPhD/BugBountyKnowledgeBase](https://github.com/InsiderPhD/BugBountyKnowledgeBase) - Obsidian Vault for bug bounty hunters
+- [AveYo/fox](https://github.com/AveYo/fox) - Firefox stuff
 - [shichongrui/obsidian-rollover-daily-todos](https://github.com/shichongrui/obsidian-rollover-daily-todos) - An obsidian plugin that rolls over todo items from the previous daily note
 - [Wikifox/wikifox](https://github.com/Wikifox/wikifox) - A clean and simplified WikiPedia powered by wikifox.js
 - [pqina/filepond](https://github.com/pqina/filepond) - 🌊 A flexible and fun JavaScript file upload library
@@ -2356,6 +2360,7 @@
 - [necolas/react-native-web](https://github.com/necolas/react-native-web) - React Native Components and APIs for the Web
 - [mitcom/steal_cookie](https://github.com/mitcom/steal_cookie) - Chrome extension to copy authentication cookies from staging server which allow to login on localhost
 - [malsup/blockui](https://github.com/malsup/blockui) - jQuery BlockUI Plugin
+- [expo/expo-github-action](https://github.com/expo/expo-github-action) - Expo in your GitHub Actions workflow
 - [react-native-mapbox-gl/maps](https://github.com/react-native-mapbox-gl/maps) - A Mapbox GL react native module for creating custom maps
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
 - [flexible-agency/react-native-map-link](https://github.com/flexible-agency/react-native-map-link) - 🗺 Open the map app of the user's choice.
@@ -5884,7 +5889,7 @@
 - [guyernest/RedshiftRDBA](https://github.com/guyernest/RedshiftRDBA) - DBA library for Amazon Redshift
 - [pingles/redshift-r](https://github.com/pingles/redshift-r) - Small R package for accessing Redshift
 - [samterfa/openai](https://github.com/samterfa/openai) - This R package provides an SDK to the Open AI API
-- [wlandau/gittargets](https://github.com/wlandau/gittargets) - Data version control for reproducible analysis pipelines in R with {targets}.
+- [ropensci/gittargets](https://github.com/ropensci/gittargets) - Data version control for reproducible analysis pipelines in R with {targets}.
 - [akhikolla/InformationHouse](https://github.com/akhikolla/InformationHouse) - 
 - [alexcengler/docker-shiny](https://github.com/alexcengler/docker-shiny) - A simple deployment of a Shiny application with Docker.
 - [jacquietran/wnblr](https://github.com/jacquietran/wnblr) - An R package containing game stats from the Women's National Basketball League (WNBL).
@@ -8948,6 +8953,7 @@
 
 ## SCSS 
 
+- [SlRvb/Obsidian--ITS-Theme](https://github.com/SlRvb/Obsidian--ITS-Theme) - Theme for my Obsidian Vault: In The Shadows.
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [p-kostic/p-kostic.github.io](https://github.com/p-kostic/p-kostic.github.io) - Personal blog and knowledge base where I share stuff I couldn't find elsewhere. Live: https://blog.kostic.dev
 - [play-with-docker/play-with-docker.github.io](https://github.com/play-with-docker/play-with-docker.github.io) - Play with docker class-room repo
@@ -9587,6 +9593,7 @@
 
 ## TypeScript 
 
+- [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [valentine195/obsidian-leaflet-plugin](https://github.com/valentine195/obsidian-leaflet-plugin) - Adds interactive maps to Obsidian.md using Leaflet.js
 - [formio/resquel](https://github.com/formio/resquel) - Easily convert your SQL database into a REST API using Express.js
 - [ondras/my-mind](https://github.com/ondras/my-mind) - Online Mindmapping Software
@@ -9671,7 +9678,7 @@
 - [alexobenauer/Cross-reference-Navigation-for-Obsidian](https://github.com/alexobenauer/Cross-reference-Navigation-for-Obsidian) - Cross-reference navigation through your Obsidian tags and notes
 - [jimbrig/dev-portfolio](https://github.com/jimbrig/dev-portfolio) - Developer Portfolio
 - [nothingislost/obsidian-workspaces-plus](https://github.com/nothingislost/obsidian-workspaces-plus) - Quickly switch and manage Obsidian workspaces
-- [withastro/astro](https://github.com/withastro/astro) - Build faster websites, faster. 🚀🧑‍🚀✨
+- [withastro/astro](https://github.com/withastro/astro) - Build fast websites, faster. 🚀🧑‍🚀✨
 - [umijs/umi](https://github.com/umijs/umi) - 🌋 Pluggable enterprise-level react application framework.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [4lch4/Lib-HN](https://github.com/4lch4/Lib-HN) - A library for interacting with the HackerNews API.
@@ -9759,7 +9766,6 @@
 - [chramos/react-native-skeleton-placeholder](https://github.com/chramos/react-native-skeleton-placeholder) - SkeletonPlaceholder is a React Native library to easily create an amazing loading effect.
 - [expo/create-react-native-app](https://github.com/expo/create-react-native-app) - Create React Native apps that run on iOS, Android, and web
 - [react-native-toolkit/react-native-responsive-dimensions](https://github.com/react-native-toolkit/react-native-responsive-dimensions) - Resposive fontSize, height and width for react-native components, that automatically adjusts itself based on screen-size of the device.
-- [expo/expo-github-action](https://github.com/expo/expo-github-action) - Expo in your GitHub Actions workflow
 - [akaalias/obsidian-extract-pdf-highlights](https://github.com/akaalias/obsidian-extract-pdf-highlights) - Extract highlights, underlines and annotations from your PDFs into Obsidian
 - [eva-design/eva](https://github.com/eva-design/eva) - :dizzy:Customizable Design System easily adaptable to your Brand.
 - [software-mansion/react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native.
