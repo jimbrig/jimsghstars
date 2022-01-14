@@ -552,6 +552,7 @@
 - [b3coded/file-organizer](https://github.com/b3coded/file-organizer) - :rocket: Organize your files faster with a few clicks.
 - [saulojoab/Quick-File-Organizer](https://github.com/saulojoab/Quick-File-Organizer) - :rocket: Quickly organize files in a folder with a few clicks.
 - [webprofusion/certify](https://github.com/webprofusion/certify) - Professional TLS/SSL Certificate Manager UI for Windows, powered by Let's Encrypt and compatible with all ACME v2 CAs. Download from certifytheweb.com
+- [RickStrahl/MarkdownMonster](https://github.com/RickStrahl/MarkdownMonster) - An extensible Markdown Editor, Viewer and Weblog Publisher for Windows
 - [LazoCoder/Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - Creative and unusual things that can be done with the Windows API.
 - [lucasg/Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
 - [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
@@ -1410,6 +1411,7 @@
 
 ## HCL 
 
+- [dbt-labs/terraform-aws-dbt-cloud-single-tenant](https://github.com/dbt-labs/terraform-aws-dbt-cloud-single-tenant) - 
 - [rgl/windows-vagrant](https://github.com/rgl/windows-vagrant) - Windows 10/11/2016/2019/2022 Base Vagrant Box (https://app.vagrantup.com/rgl)
 - [cloudposse/terraform-aws-s3-bucket](https://github.com/cloudposse/terraform-aws-s3-bucket) - Terraform module that creates an S3 bucket with an optional IAM user for external CI/CD systems
 - [andif888/packer-windows-vsphere-iso](https://github.com/andif888/packer-windows-vsphere-iso) - This repo builds automatically Windows VM templates (Windows 11, Windows 10, Server 2019, Server 2022) for VMware vSphere environment using Hashicorp's Packer using freely available Windows Eval ISOs.
@@ -1518,7 +1520,7 @@
 - [JPTGamesAndApps/ShresthaFiles](https://github.com/JPTGamesAndApps/ShresthaFiles) - A Modern File Manager for Windows 10 and Windows 11 Devices!
 - [raushanranjan103/Windows11.github.io](https://github.com/raushanranjan103/Windows11.github.io) - 
 - [Rajaniraiyn/windows11](https://github.com/Rajaniraiyn/windows11) - Want to experience Windows 11 now within your browser?
-- [sqlcollaborative/DataSaturdays](https://github.com/sqlcollaborative/DataSaturdays) - A repository for open sourcing a solution for Data Saturdays
+- [dataplat/DataSaturdays](https://github.com/dataplat/DataSaturdays) - A repository for open sourcing a solution for Data Saturdays
 - [earfanfan/yf](https://github.com/earfanfan/yf) - myblog
 - [uikit/uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
 - [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
@@ -1698,7 +1700,6 @@
 - [foambubble/foam-template](https://github.com/foambubble/foam-template) - Foam workpace template
 - [byrnereese/mkdocs-bootstrap4](https://github.com/byrnereese/mkdocs-bootstrap4) - Bootstrap 4.0+ theme for MkDocs
 - [raghudotcc/scratchpad](https://github.com/raghudotcc/scratchpad) - As the name suggests, this is my scratchpad to try out code to understand a concept or try out new ideas
-- [RickStrahl/MarkdownMonster](https://github.com/RickStrahl/MarkdownMonster) - An extensible Markdown Editor, Viewer and Weblog Publisher for Windows
 - [xfirefly/Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) - Airplay Receiver SDK supports Airplay Mirroring and AirPlay Casting to a receiver device.
 - [r4ds/bookclub-rpkgs](https://github.com/r4ds/bookclub-rpkgs) - 
 - [gadenbuie/garrickadenbuie-com](https://github.com/gadenbuie/garrickadenbuie-com) - My personal website
@@ -2043,6 +2044,7 @@
 
 ## JavaScript 
 
+- [psi-4ward/psitransfer](https://github.com/psi-4ward/psitransfer) - Simple open source self-hosted file sharing solution.
 - [InsiderPhD/BugBountyKnowledgeBase](https://github.com/InsiderPhD/BugBountyKnowledgeBase) - Obsidian Vault for bug bounty hunters
 - [AveYo/fox](https://github.com/AveYo/fox) - Firefox stuff
 - [shichongrui/obsidian-rollover-daily-todos](https://github.com/shichongrui/obsidian-rollover-daily-todos) - An obsidian plugin that rolls over todo items from the previous daily note
@@ -2277,7 +2279,7 @@
 - [yangshun/delete-github-forks](https://github.com/yangshun/delete-github-forks) - 🍴 Bulk delete your GitHub forks in two simple steps!
 - [maxime1992/git-commit-summary](https://github.com/maxime1992/git-commit-summary) - Generate a commit summary of your project, following Angular conventions.
 - [m-dwyer/obsidian-vault-template](https://github.com/m-dwyer/obsidian-vault-template) - 
-- [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) - online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. like gitbook.
+- [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) - online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 适合于个人和中小型团队的在线文档、知识库系统。
 - [ricardolsmendes/gcp-cloudfunction-git-event](https://github.com/ricardolsmendes/gcp-cloudfunction-git-event) - Google Cloud Function to be triggered on Git repository events
 - [pizycki/NugetServerContainer](https://github.com/pizycki/NugetServerContainer) - Nuget Server in Windows Container
 - [PacktPublishing/Hands-On-Kubernetes-on-Windows](https://github.com/PacktPublishing/Hands-On-Kubernetes-on-Windows) - Hands-On Kubernetes on Windows, published by Packt
@@ -4667,7 +4669,6 @@
 - [ferventcoder/chocolatey-packages](https://github.com/ferventcoder/chocolatey-packages) - The packages...all about the packages.
 - [chocolatey-community/chocolatey-test-environment](https://github.com/chocolatey-community/chocolatey-test-environment) - A testing setup related to how the Chocolatey Package Verifier runs testing. Used for manual testing or prior to submission
 - [jmgilman/ChocolateyPackageCreator](https://github.com/jmgilman/ChocolateyPackageCreator) - Powershell module for creating internal Chocolatey packages
-- [liamfoneill/new-windows-pc-bootstrapper](https://github.com/liamfoneill/new-windows-pc-bootstrapper) - A collection of scripts etc to setup new windows machine
 - [hirsaeki/scoop-sup](https://github.com/hirsaeki/scoop-sup) - scoop manifests personally nessesary
 - [kodybrown/scoop-nirsoft](https://github.com/kodybrown/scoop-nirsoft) - A Scoop bucket of useful NirSoft utilities
 - [lipkau/PsIni](https://github.com/lipkau/PsIni) - Work with INI files in PowerShell using hashtables
@@ -4911,7 +4912,7 @@
 - [hmerritt/win10-setup](https://github.com/hmerritt/win10-setup) - Windows 10/11 setup scripts for fresh installs
 - [nickrod518/PowerShell-Scripts](https://github.com/nickrod518/PowerShell-Scripts) - PowerShell scripts ranging from SCCM, MSO, AD, and other corporate enterprise uses... to sending cat facts to coworkers.
 - [MicrosoftDocs/windows-itpro-docs](https://github.com/MicrosoftDocs/windows-itpro-docs) - This is used for contributions to the Windows 10 content for IT professionals on docs.microsoft.com.
-- [sqlcollaborative/dbatools](https://github.com/sqlcollaborative/dbatools) - 🚀 SQL Server automation and instance migrations have never been safer, faster or freer
+- [dataplat/dbatools](https://github.com/dataplat/dbatools) - 🚀 SQL Server automation and instance migrations have never been safer, faster or freer
 - [matt9ucci/DockerCompletion](https://github.com/matt9ucci/DockerCompletion) - Docker command completion for PowerShell.
 - [microsoft/saaslab](https://github.com/microsoft/saaslab) - SaaS-ification resources for ISVs
 - [leeper/choco-r-devel](https://github.com/leeper/choco-r-devel) - Chocolatey package for r-devel
@@ -5039,6 +5040,8 @@
 
 ## Python 
 
+- [dbt-labs/dbt-cloud-openapi-spec](https://github.com/dbt-labs/dbt-cloud-openapi-spec) - 
+- [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [aws-dojo/analytics](https://github.com/aws-dojo/analytics) - code snippet for analytics sessions
 - [berlotto/pgautoapi](https://github.com/berlotto/pgautoapi) - Uma ferramenta que transforma um banco de dados PostgreSQL em uma API-REST automaticamente
@@ -5754,6 +5757,31 @@
 
 ## R 
 
+- [bips-hb/innsight](https://github.com/bips-hb/innsight) - Interpretability methods to analyze the behavior and individual predictions of modern neural networks in R.
+- [DanChaltiel/crosstable](https://github.com/DanChaltiel/crosstable) - Easy and thorough description of datasets
+- [sahilseth/readthedocs](https://github.com/sahilseth/readthedocs) - Create readthedocs website for a R package
+- [sahilseth/funr](https://github.com/sahilseth/funr) - Simple Utility providing Shell Access to all R Functions
+- [wlandau/targets-tutorial](https://github.com/wlandau/targets-tutorial) - Short course on the targets R package
+- [arendsee/rmonad](https://github.com/arendsee/rmonad) - Pipelines you can compute on
+- [FAIRDataPipeline/rDataPipeline](https://github.com/FAIRDataPipeline/rDataPipeline) - R implementation of the FAIR Data Pipeline API
+- [rbertolusso/intubate](https://github.com/rbertolusso/intubate) - &lt;||&gt; Interfaces to Popular R Functions for Data Science Pipelines, and More
+- [USGS-R/ds-pipeline-demo](https://github.com/USGS-R/ds-pipeline-demo) - 
+- [thierrygosselin/stackr](https://github.com/thierrygosselin/stackr) - stackr: an R package to run stacks software pipeline
+- [wlandau/targets-shiny](https://github.com/wlandau/targets-shiny) - Example Shiny app containing a targets pipeline.
+- [Kaggle/pipelinehelpers](https://github.com/Kaggle/pipelinehelpers) - 
+- [mlr-org/mlr3pipelines](https://github.com/mlr-org/mlr3pipelines) - Dataflow Programming for Machine Learning in R
+- [drsimonj/pipelearner](https://github.com/drsimonj/pipelearner) - Tidy machine learning pipelines
+- [Jadomican/EntDBTech](https://github.com/Jadomican/EntDBTech) - Enterprise Database Technologies repo
+- [debarros/dBtools](https://github.com/debarros/dBtools) - My personal tools
+- [jmaspons/dbTools](https://github.com/jmaspons/dbTools) - Integrity check and fixes for primary keys and foreign keys for tables in a relational DB using R.
+- [mw2q/dbt-results](https://github.com/mw2q/dbt-results) - Database Test Results
+- [petermeissner/dbtools](https://github.com/petermeissner/dbtools) - Tooling, wrappers, and helper around R database querying.
+- [mgirlich/dbtools](https://github.com/mgirlich/dbtools) - A toolbox to work with databases
+- [tjpalanca/dbtools](https://github.com/tjpalanca/dbtools) - Database Tools for R
+- [edgararuiz/dbt](https://github.com/edgararuiz/dbt) - dplyr back-end testing
+- [khalidharun/dbtest](https://github.com/khalidharun/dbtest) - Database testing and mocking in R.
+- [CLippmann/dbtORA](https://github.com/CLippmann/dbtORA) - Overrepresentation Analysis R package
+- [INWTlab/dbtools](https://github.com/INWTlab/dbtools) - R package for connecting and querying databases
 - [jokergoo/spiralize](https://github.com/jokergoo/spiralize) - Visualize data on spirals
 - [paws-r/paws](https://github.com/paws-r/paws) - Paws, a package for Amazon Web Services in R
 - [JonasRieger/rollinglda](https://github.com/JonasRieger/rollinglda) - A rolling version of the Latent Dirichlet Allocation. By a sequential approach, it enables the construction of LDA-based time series of topics that are consistent with previous states of LDA models. After an initial modeling, updates can be computed efficiently, allowing for real-time monitoring and detection of events or structural breaks.
@@ -6193,7 +6221,7 @@
 - [HenrikBengtsson/R.devices](https://github.com/HenrikBengtsson/R.devices) - 🎨 R package: Unified Handling of Graphics Devices
 - [rivasiker/ggHoriPlot](https://github.com/rivasiker/ggHoriPlot) - A user-friendly, highly customizable R package for building horizon plots in ggplot2
 - [PhanstielLab/plotgardener](https://github.com/PhanstielLab/plotgardener) - 
-- [verasls/impactr](https://github.com/verasls/impactr) - {impactr} Mechanical loading prediction based on accelerometer data
+- [verasls/impactr](https://github.com/verasls/impactr) - {impactr} Mechanical loading prediction through accelerometer data
 - [stephenbalogun/tidyndr](https://github.com/stephenbalogun/tidyndr) - Analysis of the Nigeria National Data Repository (NDR)
 - [rickhelmus/patRoon](https://github.com/rickhelmus/patRoon) - Workflow solutions for mass-spectrometry based non-target analysis.
 - [tidymodels/parsnip](https://github.com/tidymodels/parsnip) - A tidy unified interface to models
