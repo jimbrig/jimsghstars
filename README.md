@@ -814,7 +814,6 @@
 - [issaafalkattan/React-Landing-Page-Template](https://github.com/issaafalkattan/React-Landing-Page-Template) - A simple react one page landing page templates for startups/companies
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [djnavarro/pkgdowngirl](https://github.com/djnavarro/pkgdowngirl) - A Minimal Pkgdown Template
-- [jh3y/whirl](https://github.com/jh3y/whirl) - CSS loading animations with minimal effort!
 - [crilleengvall/electron-tutorial-app](https://github.com/crilleengvall/electron-tutorial-app) - An electron application for tutorials
 - [tatianamac/tm11ty](https://github.com/tatianamac/tm11ty) - Personal site for Tatiana Mac (based on Eleventy)
 - [sammy007-debug/interactive-pricing-component-Frontend-mentors](https://github.com/sammy007-debug/interactive-pricing-component-Frontend-mentors) - 
@@ -1065,6 +1064,7 @@
 - [maxheld83/shinyapps](https://github.com/maxheld83/shinyapps) - GitHub Action for deploying to shinyapps.io
 - [r-hub/api.app](https://github.com/r-hub/api.app) - The R-hub API (work in progress)
 - [wch/r-debug](https://github.com/wch/r-debug) - Dockerfile with several builds of R for memory/thread debugging
+- [r-hub/r-minimal](https://github.com/r-hub/r-minimal) - Minimal Docker images for R
 
 ## Elixir 
 
@@ -1975,6 +1975,7 @@
 
 ## Java 
 
+- [mirkosertic/MogwaiERDesignerNG](https://github.com/mirkosertic/MogwaiERDesignerNG) - Java 2D & 3D visual entity relationship design & modeling (ERD,SQL) for Oracle,MSSQL,Postgres and MySQL
 - [dbfit/dbfit](https://github.com/dbfit/dbfit) - DbFit is a database testing framework that supports easy test-driven development of your database code.
 - [xmindltd/xmind](https://github.com/xmindltd/xmind) - The most popular mind mapping software
 - [Kanav-Arora/Financify](https://github.com/Kanav-Arora/Financify) - Financify is an accounting software based on Java and MySQL .
@@ -2045,6 +2046,8 @@
 
 ## JavaScript 
 
+- [pponugo/excel2jsonschema](https://github.com/pponugo/excel2jsonschema) - 
+- [hugorper/excel-2-jsonschema](https://github.com/hugorper/excel-2-jsonschema) - A tool to generate JSON Schema files from Excel Sheet
 - [dreamRs/shinyvs](https://github.com/dreamRs/shinyvs) - Virtual Select widget for shiny apps
 - [psi-4ward/psitransfer](https://github.com/psi-4ward/psitransfer) - Simple open source self-hosted file sharing solution.
 - [InsiderPhD/BugBountyKnowledgeBase](https://github.com/InsiderPhD/BugBountyKnowledgeBase) - Obsidian Vault for bug bounty hunters
@@ -3157,7 +3160,6 @@
 
 ## Less 
 
-- [klaussilveira/gitlist](https://github.com/klaussilveira/gitlist) - An elegant and modern git repository viewer
 - [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
 
 ## Liquid 
@@ -3287,6 +3289,8 @@
 
 ## Others 
 
+- [open-insurance/todogroup.guides](https://github.com/open-insurance/todogroup.guides) - TODO Group Guides
+- [The-Open-Insurance-Initiative/Open-Insurance-Initiative-whitepaper](https://github.com/The-Open-Insurance-Initiative/Open-Insurance-Initiative-whitepaper) - The first whitepaper which was released in August 2018
 - [dformoso/machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
 - [berlotto/datascience](https://github.com/berlotto/datascience) - Datascience study and exercices repository
 - [sanko/Robinhood](https://github.com/sanko/Robinhood) - Unofficial Documentation of Robinhood Trade's Private API
@@ -4316,6 +4320,7 @@
 
 ## PHP 
 
+- [Chicago/metalicious](https://github.com/Chicago/metalicious) - An open source data dictionary which can be deployed to track the metadata of one or more databases.
 - [StephanMeijer/Apostolos](https://github.com/StephanMeijer/Apostolos) - Apostolos: bringing the Good Word of proper Time Tracking
 - [cebe/yii2-app-api](https://github.com/cebe/yii2-app-api) - OpenAPI Spec to API in 3, 2, 1... done!
 - [ybelenko/openapi-data-mocker](https://github.com/ybelenko/openapi-data-mocker) - Library that generates fake data from OpenAPI 3.0 Spec
@@ -4337,6 +4342,7 @@
 - [agorakit/agorakit](https://github.com/agorakit/agorakit) - Organization tool for citizen's collectives
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is an Open Source e-commerce platform, committed to providing the best shopping cart experience for both merchants and customers.
 - [WP-API/Basic-Auth](https://github.com/WP-API/Basic-Auth) - Basic Authentication handler for the JSON API, used for development and debugging purposes
+- [klaussilveira/gitlist](https://github.com/klaussilveira/gitlist) - An elegant and modern git repository viewer
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [symfony/config](https://github.com/symfony/config) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
 - [jeremykenedy/laravel-auth](https://github.com/jeremykenedy/laravel-auth) - Laravel 8 with user authentication, registration with email confirmation, social media authentication, password recovery, and captcha protection. Uses offical [Bootstrap 4](http://getbootstrap.com). This also makes full use of Controllers for the routes, templates for the views, and makes use of middleware for routing. The project can be stood up in minutes.
@@ -5041,6 +5047,8 @@
 
 ## Python 
 
+- [Nike-Inc/gimme-aws-creds](https://github.com/Nike-Inc/gimme-aws-creds) - A CLI that utilizes Okta IdP via SAML to acquire temporary AWS credentials
+- [taers232c/GAMADV-XTD3](https://github.com/taers232c/GAMADV-XTD3) - Command line tool to manage Google Workspace
 - [dbt-msft/dbt-sqlserver](https://github.com/dbt-msft/dbt-sqlserver) - dbt adapter for SQL Server and Azure SQL
 - [dbt-labs/dbt-cloud-openapi-spec](https://github.com/dbt-labs/dbt-cloud-openapi-spec) - 
 - [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
@@ -5759,6 +5767,7 @@
 
 ## R 
 
+- [jimbrig/lossrx](https://github.com/jimbrig/lossrx) - An R package, plumber API, database, and Shiny App for Actuarial Loss Development and Reserving Workflows.
 - [crazycapivara/openlayers](https://github.com/crazycapivara/openlayers) - An R Interface to OpenLayers
 - [bips-hb/innsight](https://github.com/bips-hb/innsight) - Interpretability methods to analyze the behavior and individual predictions of modern neural networks in R.
 - [DanChaltiel/crosstable](https://github.com/DanChaltiel/crosstable) - Easy and thorough description of datasets
@@ -6082,7 +6091,6 @@
 - [collidrpackage/collidr](https://github.com/collidrpackage/collidr) - Avoiding Namespace Collisions in R
 - [IndrajeetPatil/ipmisc](https://github.com/IndrajeetPatil/ipmisc) - Miscellaneous helper functions for data cleaning and data analysis
 - [anhoej/r4spc](https://github.com/anhoej/r4spc) - Course materials: Statistical process control charts with R
-- [jimbrig/lossrx](https://github.com/jimbrig/lossrx) - An R package, plumber API, database, and Shiny App for Actuarial Loss Development and Reserving Workflows.
 - [jimbrig/lossdevt](https://github.com/jimbrig/lossdevt) - An R package and Shiny App for Actuarial Loss Development and Reserving
 - [RobinHankin/onion](https://github.com/RobinHankin/onion) - R functionality to deal with quaternions and octonions
 - [prioritizr/prioritizr](https://github.com/prioritizr/prioritizr) - Systematic conservation prioritization in R
@@ -8984,7 +8992,7 @@
 
 ## SCSS 
 
-- [SlRvb/Obsidian--ITS-Theme](https://github.com/SlRvb/Obsidian--ITS-Theme) - Theme for my Obsidian Vault: In The Shadows.
+- [SlRvb/Obsidian--ITS-Theme](https://github.com/SlRvb/Obsidian--ITS-Theme) - Theme designed with readability and customizability in mind. Change it easily to your liking with the Style Settings plugin installed.
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [p-kostic/p-kostic.github.io](https://github.com/p-kostic/p-kostic.github.io) - Personal blog and knowledge base where I share stuff I couldn't find elsewhere. Live: https://blog.kostic.dev
 - [play-with-docker/play-with-docker.github.io](https://github.com/play-with-docker/play-with-docker.github.io) - Play with docker class-room repo
@@ -8993,6 +9001,7 @@
 - [AnilSeervi/DevFolio](https://github.com/AnilSeervi/DevFolio) - A Modern Portfolio Template for Developers with easy setup process documented(with hosting).
 - [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
 - [hbctraining/Intro-to-R](https://github.com/hbctraining/Intro-to-R) - 
+- [jh3y/whirl](https://github.com/jh3y/whirl) - CSS loading animations with minimal effort!
 - [lvalnegri/workshops-setup_cloud_analytics_machine](https://github.com/lvalnegri/workshops-setup_cloud_analytics_machine) - Tips and Tricks to setup a cloud machine for Analytics and Data Science with R, RStudio and Shiny Servers, Python and JupyterLab
 - [nikvoronin/wtfcrt](https://github.com/nikvoronin/wtfcrt) - A personal wiki-like notebooks aka zettelkasten
 - [andybyers21/notes.ajb.app](https://github.com/andybyers21/notes.ajb.app) - This is the data for my Evergreen notes vault
@@ -9476,7 +9485,6 @@
 - [vincentcox/bypass-firewalls-by-DNS-history](https://github.com/vincentcox/bypass-firewalls-by-DNS-history) - Firewall bypass script based on DNS history records. This script will search for DNS A history records and check if the server replies for that domain. Handy for bugbounty hunters.
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [dmedri/roaster](https://github.com/dmedri/roaster) - R - Fetch, build and deploy.
-- [r-hub/r-minimal](https://github.com/r-hub/r-minimal) - Minimal Docker images for R
 - [grssnbchr/rddj-template](https://github.com/grssnbchr/rddj-template) - A template for bootstrapping reproducible RMarkdown documents for data journalistic purposes.
 - [petervanderdoes/gitflow-avh](https://github.com/petervanderdoes/gitflow-avh) - AVH Edition of the git extensions to provide high-level repository operations for Vincent Driessen's branching model
 - [r-hub/sysreqsdb](https://github.com/r-hub/sysreqsdb) - SystemRequirements mappings for R packages
@@ -9536,6 +9544,7 @@
 
 ## TSQL 
 
+- [RMS-open-standards/RDOS](https://github.com/RMS-open-standards/RDOS) - Risk Data Open Standard Schema
 - [AhmetFurkanDEMIR/Microsoft-SQL](https://github.com/AhmetFurkanDEMIR/Microsoft-SQL) - Necmettin Erbakan University 3nd year Database Systems lecture notes and assignments.
 - [tanyogeorgiev/Pastelin](https://github.com/tanyogeorgiev/Pastelin) - Azure Data Studio Dark Theme
 - [kevchant/sqlwatch](https://github.com/kevchant/sqlwatch) - SQL Server Performance Monitor
@@ -9624,6 +9633,7 @@
 
 ## TypeScript 
 
+- [jscutlery/semver](https://github.com/jscutlery/semver) - Nx plugin to automate semantic versioning and CHANGELOG generation.
 - [ebullient/obsidian-task-collector](https://github.com/ebullient/obsidian-task-collector) - Plugin for [Obsidian.md](https://obsidian.md/) that assists with managing tasks within a document.
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [valentine195/obsidian-leaflet-plugin](https://github.com/valentine195/obsidian-leaflet-plugin) - Adds interactive maps to Obsidian.md using Leaflet.js
