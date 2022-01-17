@@ -383,6 +383,7 @@
 
 ## C# # 
 
+- [branch-app/branch](https://github.com/branch-app/branch) - Advanced Halo Stats
 - [red-gate/spawn-demo](https://github.com/red-gate/spawn-demo) - Demo application to show how Spawn can be integrated in Development and CI
 - [dsccommunity/SharePointDsc](https://github.com/dsccommunity/SharePointDsc) - The SharePointDsc PowerShell module provides DSC resources that can be used to deploy and manage a SharePoint farm
 - [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer [RAPR]
@@ -1977,7 +1978,6 @@
 
 - [mirkosertic/MogwaiERDesignerNG](https://github.com/mirkosertic/MogwaiERDesignerNG) - Java 2D & 3D visual entity relationship design & modeling (ERD,SQL) for Oracle,MSSQL,Postgres and MySQL
 - [dbfit/dbfit](https://github.com/dbfit/dbfit) - DbFit is a database testing framework that supports easy test-driven development of your database code.
-- [xmindltd/xmind](https://github.com/xmindltd/xmind) - The most popular mind mapping software
 - [Kanav-Arora/Financify](https://github.com/Kanav-Arora/Financify) - Financify is an accounting software based on Java and MySQL .
 - [openanalytics/RDepot](https://github.com/openanalytics/RDepot) - RDepot - Enterprise Management of R Repositories
 - [kkapoor84/Automation_Excel_Query_Creation](https://github.com/kkapoor84/Automation_Excel_Query_Creation) - 
@@ -2833,7 +2833,7 @@
 - [richarddmorey/stat-distributions-js](https://github.com/richarddmorey/stat-distributions-js) - Javascript library for the visualization of statistical distributions
 - [sourcerer-io/awesome-libraries](https://github.com/sourcerer-io/awesome-libraries) - :sunglasses: Libraries that are being shown in Sourcerer profiles.
 - [ingalless/foam-template-gatsby-search](https://github.com/ingalless/foam-template-gatsby-search) - Foam template, built with Gatsby, plus search
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (January 2022)
 - [renrousousuo/DocumentTemplate](https://github.com/renrousousuo/DocumentTemplate) - 文件 Markdown 格式。方便书写各种文档。
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -3205,6 +3205,7 @@
 
 ## Makefile 
 
+- [COVESA/vehicle_signal_specification](https://github.com/COVESA/vehicle_signal_specification) - Vehicle Signal Specification - standardized way to describe automotive data
 - [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [ResearchActuary/claim_simulation_engines](https://github.com/ResearchActuary/claim_simulation_engines) - 
@@ -3289,6 +3290,7 @@
 
 ## Others 
 
+- [halodotapi/haloapi-node](https://github.com/halodotapi/haloapi-node) - A Node.js wrapper to consume Cryptum (Halo API) endpoints
 - [open-insurance/todogroup.guides](https://github.com/open-insurance/todogroup.guides) - TODO Group Guides
 - [The-Open-Insurance-Initiative/Open-Insurance-Initiative-whitepaper](https://github.com/The-Open-Insurance-Initiative/Open-Insurance-Initiative-whitepaper) - The first whitepaper which was released in August 2018
 - [dformoso/machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
@@ -4412,6 +4414,8 @@
 
 ## PowerShell 
 
+- [smholvoet/.dotfiles](https://github.com/smholvoet/.dotfiles) - Windows 10 / 11 clean install utility scripts 🚀
+- [TomChantler/EditHosts](https://github.com/TomChantler/EditHosts) - Easy way to add and remove Windows hosts file entries
 - [majkinetor/au-packages-template](https://github.com/majkinetor/au-packages-template) - Template repository for Chocolatey Automatic Package Updater Module
 - [MSAdministrator/PSNetStat](https://github.com/MSAdministrator/PSNetStat) - A PowerShell Module which recreates netstat.exe functionality
 - [MSAdministrator/PSLogging](https://github.com/MSAdministrator/PSLogging) - A PowerShell Logging Module that uses Classes to log to the console, log file, or the event viewer
@@ -5047,6 +5051,7 @@
 
 ## Python 
 
+- [LucasJoel1/EZInstaller](https://github.com/LucasJoel1/EZInstaller) - A tool for making installing windows software easier
 - [Nike-Inc/gimme-aws-creds](https://github.com/Nike-Inc/gimme-aws-creds) - A CLI that utilizes Okta IdP via SAML to acquire temporary AWS credentials
 - [taers232c/GAMADV-XTD3](https://github.com/taers232c/GAMADV-XTD3) - Command line tool to manage Google Workspace
 - [dbt-msft/dbt-sqlserver](https://github.com/dbt-msft/dbt-sqlserver) - dbt adapter for SQL Server and Azure SQL
@@ -5767,6 +5772,9 @@
 
 ## R 
 
+- [ddsjoberg/rstudio.prefs](https://github.com/ddsjoberg/rstudio.prefs) - 
+- [moodymudskipper/powerjoin](https://github.com/moodymudskipper/powerjoin) - Extensions of 'dplyr' and 'fuzzyjoin' Join Functions
+- [rmcelreath/stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022) - Statistical Rethinking course winter 2022
 - [jimbrig/lossrx](https://github.com/jimbrig/lossrx) - An R package, plumber API, database, and Shiny App for Actuarial Loss Development and Reserving Workflows.
 - [crazycapivara/openlayers](https://github.com/crazycapivara/openlayers) - An R Interface to OpenLayers
 - [bips-hb/innsight](https://github.com/bips-hb/innsight) - Interpretability methods to analyze the behavior and individual predictions of modern neural networks in R.
@@ -8811,6 +8819,7 @@
 
 ## Ruby 
 
+- [kastner/halo-stats](https://github.com/kastner/halo-stats) - Library for accessing Halo stats from Haloapi.com
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [jekyll/jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from) - :twisted_rightwards_arrows: Seamlessly specify multiple redirections URLs for your pages and posts.
 - [edavidaja/homebrew-rstudio-pro](https://github.com/edavidaja/homebrew-rstudio-pro) - 
@@ -10137,6 +10146,7 @@
 
 ## Vue 
 
+- [halo-dev/halo-admin](https://github.com/halo-dev/halo-admin) - 🖥 Halo admin web client.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [dale0525/ClipBroad](https://github.com/dale0525/ClipBroad) - Sync your clipboard across multiple platforms
 - [FrissAnalytics/shiny-vue-simple](https://github.com/FrissAnalytics/shiny-vue-simple) - simple example combining R shiny and vue.js
