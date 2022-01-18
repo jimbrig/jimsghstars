@@ -775,6 +775,7 @@
 
 ## CSS 
 
+- [microsoft/techcasestudies](https://github.com/microsoft/techcasestudies) - A GitHub Pages repo used to document Microsoft solution evidences. TEs: Do not create pull requests here; see https://github.com/Microsoft/techcasestudies#hello.
 - [Rainbell129/Obsidian-Homepage](https://github.com/Rainbell129/Obsidian-Homepage) - A dashboard for your obsidian vault.
 - [twbs/ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
 - [nathansmith/960-Grid-System](https://github.com/nathansmith/960-Grid-System) - The 960 Grid System is an effort to streamline web development workflow.
@@ -1629,7 +1630,6 @@
 - [maelle/addintest](https://github.com/maelle/addintest) - 
 - [ThinkR-open/js4shinyfieldnotes](https://github.com/ThinkR-open/js4shinyfieldnotes) - Field Notes on JavaScript for Shiny Users
 - [spences10/last.scottspence.com](https://github.com/spences10/last.scottspence.com) - My Letter Beautiful Mysterious Notebook.
-- [ropensci/webservices](https://github.com/ropensci/webservices) - CRAN WebTechnologies Task View
 - [ropensci/taxonomy](https://github.com/ropensci/taxonomy) - taxonomy R packages
 - [sol-eng/demo-landing-site](https://github.com/sol-eng/demo-landing-site) - An index page for a demo server
 - [ironhack-labs/lab-css-recipes-clone](https://github.com/ironhack-labs/lab-css-recipes-clone) - An exercise to clone a recipes page and understand the basics of HTML and CSS
@@ -2048,7 +2048,6 @@
 
 - [pponugo/excel2jsonschema](https://github.com/pponugo/excel2jsonschema) - 
 - [hugorper/excel-2-jsonschema](https://github.com/hugorper/excel-2-jsonschema) - A tool to generate JSON Schema files from Excel Sheet
-- [dreamRs/shinyvs](https://github.com/dreamRs/shinyvs) - Virtual Select widget for shiny apps
 - [psi-4ward/psitransfer](https://github.com/psi-4ward/psitransfer) - Simple open source self-hosted file sharing solution.
 - [InsiderPhD/BugBountyKnowledgeBase](https://github.com/InsiderPhD/BugBountyKnowledgeBase) - Obsidian Vault for bug bounty hunters
 - [AveYo/fox](https://github.com/AveYo/fox) - Firefox stuff
@@ -3290,6 +3289,7 @@
 
 ## Others 
 
+- [johngagefaulkner/cheatsheets](https://github.com/johngagefaulkner/cheatsheets) - Cheatsheets for everything from Creating a Custom Windows 11 image to Web Design with TailwindCSS.
 - [halodotapi/haloapi-node](https://github.com/halodotapi/haloapi-node) - A Node.js wrapper to consume Cryptum (Halo API) endpoints
 - [open-insurance/todogroup.guides](https://github.com/open-insurance/todogroup.guides) - TODO Group Guides
 - [The-Open-Insurance-Initiative/Open-Insurance-Initiative-whitepaper](https://github.com/The-Open-Insurance-Initiative/Open-Insurance-Initiative-whitepaper) - The first whitepaper which was released in August 2018
@@ -3501,7 +3501,6 @@
 - [yeoman/yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
 - [crystalidea/uninstall-tool](https://github.com/crystalidea/uninstall-tool) - Binaries archive/releases of Uninstall Tool
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
-- [iidanL/Fido](https://github.com/iidanL/Fido) - A PowerShell script to download Windows retail ISOs
 - [jonashackt/ansible-windows-springboot](https://github.com/jonashackt/ansible-windows-springboot) - Example project showing how to provision, deploy and run a Spring Boot app as a Windows Service using Ansible, chocolatey & nssm
 - [nukexls/Softexe.net](https://github.com/nukexls/Softexe.net) - 
 - [neolectron/Windows11-betterUX](https://github.com/neolectron/Windows11-betterUX) - A non-destructive registry preset to improve the default user-experience with windows 10.
@@ -3739,6 +3738,7 @@
 - [feddelegrand7/datamods](https://github.com/feddelegrand7/datamods) - Shiny modules to import data into an application or addin
 - [feddelegrand7/postcards](https://github.com/feddelegrand7/postcards) - 💌 Create simple, beautiful personal websites and landing pages using only R Markdown.
 - [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
+- [ropensci/webservices](https://github.com/ropensci/webservices) - CRAN WebTechnologies Task View
 - [grantmcdermott/datadrivencv](https://github.com/grantmcdermott/datadrivencv) - R package for building customizable CVs from spreadsheets
 - [gadenbuie/gadenbuie](https://github.com/gadenbuie/gadenbuie) - 
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
@@ -4414,6 +4414,8 @@
 
 ## PowerShell 
 
+- [johngagefaulkner/PowerShell](https://github.com/johngagefaulkner/PowerShell) - Scripts that I've either written or otherwise accumulated throughout the years.
+- [cscannell-inacloud/Windows-ITPro-Docs](https://github.com/cscannell-inacloud/Windows-ITPro-Docs) - 
 - [smholvoet/.dotfiles](https://github.com/smholvoet/.dotfiles) - Windows 10 / 11 clean install utility scripts 🚀
 - [TomChantler/EditHosts](https://github.com/TomChantler/EditHosts) - Easy way to add and remove Windows hosts file entries
 - [majkinetor/au-packages-template](https://github.com/majkinetor/au-packages-template) - Template repository for Chocolatey Automatic Package Updater Module
@@ -5141,7 +5143,7 @@
 - [Lanseuo/flask-matomo](https://github.com/Lanseuo/flask-matomo) - Track requests to your Flask website with Matomo
 - [citruspi/Flask-Analytics](https://github.com/citruspi/Flask-Analytics) - Analytics snippets generator extension for the Flask framework.
 - [biosustain/potion](https://github.com/biosustain/potion) - Flask-Potion is a RESTful API framework for Flask and SQLAlchemy, Peewee or MongoEngine
-- [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard package for machine learning with noisy labels, finding mislabeled data, and uncertainty quantification. Works with most datasets and models.
+- [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard package for machine learning with label errors, finding mislabeled data, and uncertainty quantification. Works with most datasets and models.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [Azure/azureml-previews](https://github.com/Azure/azureml-previews) - Azure Machine Learning previews
 - [Stratoscale/skipper](https://github.com/Stratoscale/skipper) - Easily dockerize your Git repository
@@ -5772,10 +5774,14 @@
 
 ## R 
 
+- [OlivierBinette/cache](https://github.com/OlivierBinette/cache) - Easily cache and retrieve computation results in R
+- [WLOGSolutions/RSuite](https://github.com/WLOGSolutions/RSuite) - The most complete R development and data science platform.
+- [business-science/portfoliodown](https://github.com/business-science/portfoliodown) - An R package for creating professional data science portfolios
 - [ddsjoberg/rstudio.prefs](https://github.com/ddsjoberg/rstudio.prefs) - 
 - [moodymudskipper/powerjoin](https://github.com/moodymudskipper/powerjoin) - Extensions of 'dplyr' and 'fuzzyjoin' Join Functions
 - [rmcelreath/stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022) - Statistical Rethinking course winter 2022
 - [jimbrig/lossrx](https://github.com/jimbrig/lossrx) - An R package, plumber API, database, and Shiny App for Actuarial Loss Development and Reserving Workflows.
+- [dreamRs/shinyvs](https://github.com/dreamRs/shinyvs) - Virtual Select widget for shiny apps
 - [crazycapivara/openlayers](https://github.com/crazycapivara/openlayers) - An R Interface to OpenLayers
 - [bips-hb/innsight](https://github.com/bips-hb/innsight) - Interpretability methods to analyze the behavior and individual predictions of modern neural networks in R.
 - [DanChaltiel/crosstable](https://github.com/DanChaltiel/crosstable) - Easy and thorough description of datasets
@@ -9911,7 +9917,7 @@
 - [hasura/data-dictionary](https://github.com/hasura/data-dictionary) - 
 - [codeverland/codever](https://github.com/codeverland/codever) - Bookmarks and Snippets Manager for Developers & Co
 - [agathauy/wikilinks-to-mdlinks-obsidian](https://github.com/agathauy/wikilinks-to-mdlinks-obsidian) - An Obsidian md plugin which allows for the conversion of individually selected wikilinks to markdown links, and vice versa.
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Connect to 15+ database integrations.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API..
 - [toddbluhm/env-cmd](https://github.com/toddbluhm/env-cmd) - Setting environment variables from a file
 - [linyows/github-issues-notice](https://github.com/linyows/github-issues-notice) - :octocat: Notify labeled issues to Slack
 - [peter-evans/create-issue-from-file](https://github.com/peter-evans/create-issue-from-file) - A GitHub action to create an issue using content from a file
