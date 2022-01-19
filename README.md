@@ -3289,6 +3289,7 @@
 
 ## Others 
 
+- [igorbarinov/awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) - A curated list of data engineering tools for software developers
 - [johngagefaulkner/cheatsheets](https://github.com/johngagefaulkner/cheatsheets) - Cheatsheets for everything from Creating a Custom Windows 11 image to Web Design with TailwindCSS.
 - [halodotapi/haloapi-node](https://github.com/halodotapi/haloapi-node) - A Node.js wrapper to consume Cryptum (Halo API) endpoints
 - [open-insurance/todogroup.guides](https://github.com/open-insurance/todogroup.guides) - TODO Group Guides
@@ -3738,7 +3739,7 @@
 - [feddelegrand7/datamods](https://github.com/feddelegrand7/datamods) - Shiny modules to import data into an application or addin
 - [feddelegrand7/postcards](https://github.com/feddelegrand7/postcards) - 💌 Create simple, beautiful personal websites and landing pages using only R Markdown.
 - [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
-- [ropensci/webservices](https://github.com/ropensci/webservices) - CRAN WebTechnologies Task View
+- [cran-task-views/WebTechnologies](https://github.com/cran-task-views/WebTechnologies) - CRAN Task View: WebTechnologies
 - [grantmcdermott/datadrivencv](https://github.com/grantmcdermott/datadrivencv) - R package for building customizable CVs from spreadsheets
 - [gadenbuie/gadenbuie](https://github.com/gadenbuie/gadenbuie) - 
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
@@ -3905,7 +3906,7 @@
 - [gmgyan/Personal-Activity-Predictor](https://github.com/gmgyan/Personal-Activity-Predictor) - The goal of this project is to use data from accelerometers on the belt, forearm, arm, and dumbbell of 6 participants to predict the manner in which they did the exercise
 - [hardikchheda13/Human-Resource-Analytics](https://github.com/hardikchheda13/Human-Resource-Analytics) - This is the project where I have tried to analyze the dataset of employees, where I am predicting, which employee will leave the company.
 - [stevecondylios/cran-libraries](https://github.com/stevecondylios/cran-libraries) - CRAN packages and number of downloads in JSON
-- [siddhujetty/A-Collection-of-Data-Science-Take-Home-Challenges](https://github.com/siddhujetty/A-Collection-of-Data-Science-Take-Home-Challenges) - My Solutions to  "A Collection of Data Science Take-Home Challenges" by Giulio Palombo.
+- [siddhujetty/Product-analytics-insights-collection](https://github.com/siddhujetty/Product-analytics-insights-collection) - My Solutions to  "A Collection of Data Science Take-Home Challenges" by Giulio Palombo.
 - [Joe-Rstats/Books](https://github.com/Joe-Rstats/Books) - R & Stats Books and Websites that I think are good.
 - [harryprince/awesome-sparklyr](https://github.com/harryprince/awesome-sparklyr) - An awesome sparklyr related package collection
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - Building the homepage every developer deserves 👩🏽‍💻 👨‍💻
@@ -4426,7 +4427,7 @@
 - [NetSPI/PowerUpSQL](https://github.com/NetSPI/PowerUpSQL) - PowerUpSQL: A PowerShell Toolkit for Attacking SQL Server
 - [imabdk/Toast-Notification-Script](https://github.com/imabdk/Toast-Notification-Script) - My Windows 10 Toast Notification Script explained in details here: https://imab.dk/windows-10-toast-notification-script/
 - [jimbrig/PowerShell](https://github.com/jimbrig/PowerShell) - PowerShell Core Profile Directory
-- [teeotsa/windows-11-debloat](https://github.com/teeotsa/windows-11-debloat) - Windows 11 Debloater, makes your installation of 11 faster
+- [teeotsa/windows-11-debloat](https://github.com/teeotsa/windows-11-debloat) - Script to optimize your installation of Windows 11.
 - [jamesstringerparsec/Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) - A Project dedicated to making GPU Partitioning on Windows easier!
 - [Azure-Samples/functions-docs-powershell](https://github.com/Azure-Samples/functions-docs-powershell) - PowerShell samples that support Azure Functions docs
 - [MicrosoftDocs/azure-docs-cli](https://github.com/MicrosoftDocs/azure-docs-cli) - Repository used to store content for the docs.microsoft.com content for the Azure CLI
@@ -5774,6 +5775,8 @@
 
 ## R 
 
+- [N1h1l1sT/dbautojoinr](https://github.com/N1h1l1sT/dbautojoinr) - Automatically Read the SQL Database and join all tables to either the Main Tables or a 1-Joint-Table
+- [r-tmap/tmap](https://github.com/r-tmap/tmap) - R package for thematic maps
 - [OlivierBinette/cache](https://github.com/OlivierBinette/cache) - Easily cache and retrieve computation results in R
 - [WLOGSolutions/RSuite](https://github.com/WLOGSolutions/RSuite) - The most complete R development and data science platform.
 - [business-science/portfoliodown](https://github.com/business-science/portfoliodown) - An R package for creating professional data science portfolios
@@ -8911,7 +8914,7 @@
 - [dirs-dev/directories-rs](https://github.com/dirs-dev/directories-rs) - a mid-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows
 - [RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON) - RedisJSON - a JSON data type for Redis
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A reliable, high-performance tool for building observability data pipelines.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [quambene/pigeon-rs](https://github.com/quambene/pigeon-rs) - Open source email automation written in Rust
 - [Michael-F-Bryan/mdbook-epub](https://github.com/Michael-F-Bryan/mdbook-epub) - An experimental mdbook backend for creating EPUB documents.
 - [Michael-F-Bryan/mdbook-linkcheck](https://github.com/Michael-F-Bryan/mdbook-linkcheck) - A backend for `mdbook` which will check your links for you.
