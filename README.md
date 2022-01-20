@@ -279,7 +279,7 @@
 - [rprichard/altdrag](https://github.com/rprichard/altdrag) - :file_folder: Easily drag windows when pressing the alt key. (Windows)
 - [hkneptune/CopyHandler](https://github.com/hkneptune/CopyHandler) - A Copy of Copy Handler Source Code. This repository is just a mirror of the Copy Handler source code. Please do not send pull requests.
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
-- [paleolimbot/carrow](https://github.com/paleolimbot/carrow) - An R interface to the 'Apache Arrow' C API
+- [paleolimbot/narrow](https://github.com/paleolimbot/narrow) - An R interface to the 'Apache Arrow' C API
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
 - [billziss-gh/sshfs-win](https://github.com/billziss-gh/sshfs-win) - SSHFS For Windows
 - [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
@@ -383,6 +383,7 @@
 
 ## C# # 
 
+- [microsoft/sqltoolsservice](https://github.com/microsoft/sqltoolsservice) - SQL Tools API service that provides SQL Server data management capabilities.
 - [branch-app/branch](https://github.com/branch-app/branch) - Advanced Halo Stats
 - [red-gate/spawn-demo](https://github.com/red-gate/spawn-demo) - Demo application to show how Spawn can be integrated in Development and CI
 - [dsccommunity/SharePointDsc](https://github.com/dsccommunity/SharePointDsc) - The SharePointDsc PowerShell module provides DSC resources that can be used to deploy and manage a SharePoint farm
@@ -518,7 +519,7 @@
 - [GitCredentialManager/git-credential-manager](https://github.com/GitCredentialManager/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [Pscx/Pscx](https://github.com/Pscx/Pscx) - PowerShell Community Extensions module repository
 - [meteatamel/cloudrun-tutorial](https://github.com/meteatamel/cloudrun-tutorial) - A tutorial showing some of the features of Cloud Run
-- [microsoft/WindowsTemplateStudio](https://github.com/microsoft/WindowsTemplateStudio) - Windows Template Studio quickly builds a UWP app, using a wizard-based UI to turn your needs into a foundation of Windows 10 patterns and best practices.
+- [microsoft/WindowsTemplateStudio](https://github.com/microsoft/WindowsTemplateStudio) - Windows Template Studio accelerates the creation of new UWP, WPF, and WinUI 3 in Desktop apps using a wizard-based experience.
 - [microsoft/WinAppDriver](https://github.com/microsoft/WinAppDriver) - Windows Application Driver
 - [wslhub/WslQuery](https://github.com/wslhub/WslQuery) - This program is a utility that reads the internal information of Windows Subsystem for Linux from the system and outputs the data to a standard output device in JSON format.
 - [HanabishiRecca/WslShortcut](https://github.com/HanabishiRecca/WslShortcut) - Run WSL commands directly in Windows. Also allows to use WSL git/node/etc. in Visual Studio Code or another software.
@@ -1454,6 +1455,9 @@
 
 ## HTML 
 
+- [mthomas-ketchbrook/python_and_r_in_databricks](https://github.com/mthomas-ketchbrook/python_and_r_in_databricks) - Example Databricks notebooks that utilize multiple languages (R, Python, and SQL)
+- [mthomas-ketchbrook/python_and_r_in_rmarkdown](https://github.com/mthomas-ketchbrook/python_and_r_in_rmarkdown) - Example RMarkdown notebook that utilizes multiple languages (R and Python)
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [matteobrusa/Password-protection-for-static-pages](https://github.com/matteobrusa/Password-protection-for-static-pages) - Password protection for static pages
 - [openanalytics/shinyproxy-flask-demo](https://github.com/openanalytics/shinyproxy-flask-demo) - 
 - [HoussemDellai/WebAppWithDatabaseDemo](https://github.com/HoussemDellai/WebAppWithDatabaseDemo) - Sample ASP.NET Core MVC app with database for demoing CI-CD pipelines using Azure DevOps
@@ -1976,6 +1980,7 @@
 
 ## Java 
 
+- [mhewedy/spwrap](https://github.com/mhewedy/spwrap) - Simple Stored Procedure call wrapper with no framework dependencies.
 - [mirkosertic/MogwaiERDesignerNG](https://github.com/mirkosertic/MogwaiERDesignerNG) - Java 2D & 3D visual entity relationship design & modeling (ERD,SQL) for Oracle,MSSQL,Postgres and MySQL
 - [dbfit/dbfit](https://github.com/dbfit/dbfit) - DbFit is a database testing framework that supports easy test-driven development of your database code.
 - [Kanav-Arora/Financify](https://github.com/Kanav-Arora/Financify) - Financify is an accounting software based on Java and MySQL .
@@ -2046,6 +2051,7 @@
 
 ## JavaScript 
 
+- [kevva/to-ico-cli](https://github.com/kevva/to-ico-cli) - Convert PNG to ICO
 - [pponugo/excel2jsonschema](https://github.com/pponugo/excel2jsonschema) - 
 - [hugorper/excel-2-jsonschema](https://github.com/hugorper/excel-2-jsonschema) - A tool to generate JSON Schema files from Excel Sheet
 - [psi-4ward/psitransfer](https://github.com/psi-4ward/psitransfer) - Simple open source self-hosted file sharing solution.
@@ -2325,7 +2331,7 @@
 - [APIDevTools/swagger-cli](https://github.com/APIDevTools/swagger-cli) - Swagger 2.0 and OpenAPI 3.0 command-line tool
 - [lorenwest/node-config](https://github.com/lorenwest/node-config) - Node.js Application Configuration
 - [timarney/react-app-rewired](https://github.com/timarney/react-app-rewired) - Override create-react-app webpack configs without ejecting
-- [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript) - A repository for All algorithms implemented in Javascript (for educational purposes only)
+- [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript) - Algorithms implemented in Javascript for beginners, following best practices.
 - [Make-Lemonade/iconicicons](https://github.com/Make-Lemonade/iconicicons) - Free “do wtf you want with” pixel-perfect icons.
 - [priyank-purohit/PostGUI](https://github.com/priyank-purohit/PostGUI) - A React web application to query and share any PostgreSQL database.
 - [thoughtbot/react-native-template](https://github.com/thoughtbot/react-native-template) - Template React Native project to be used with Cookiecutter
@@ -3289,6 +3295,7 @@
 
 ## Others 
 
+- [RoelantVos/Data_Solution_Framework](https://github.com/RoelantVos/Data_Solution_Framework) - A library for data warehouse and data integration pattern and architecture documentation.
 - [igorbarinov/awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) - A curated list of data engineering tools for software developers
 - [johngagefaulkner/cheatsheets](https://github.com/johngagefaulkner/cheatsheets) - Cheatsheets for everything from Creating a Custom Windows 11 image to Web Design with TailwindCSS.
 - [halodotapi/haloapi-node](https://github.com/halodotapi/haloapi-node) - A Node.js wrapper to consume Cryptum (Halo API) endpoints
@@ -5775,6 +5782,18 @@
 
 ## R 
 
+- [noamross/reprotemplate](https://github.com/noamross/reprotemplate) - A template for reproducible R projects using targets, renv, Docker, and GitHub Actions
+- [noamross/rsite](https://github.com/noamross/rsite) - An NFSN-hosted Shiny, Plumber, FastRWeb site
+- [mthomas-ketchbrook/shinyMatrix_example](https://github.com/mthomas-ketchbrook/shinyMatrix_example) - 
+- [mthomas-ketchbrook/shiny_arrow](https://github.com/mthomas-ketchbrook/shiny_arrow) - Example code representing a real-life use case for using {arrow} to improve a Shiny application
+- [mthomas-ketchbrook/migrate_table](https://github.com/mthomas-ketchbrook/migrate_table) - 2021 RStudio Table Contest
+- [joshuaulrich/TTR](https://github.com/joshuaulrich/TTR) - Technical analysis and other functions to construct technical trading rules with R
+- [anthonynorth/rdeck](https://github.com/anthonynorth/rdeck) - Deck.gl widget for R
+- [ketchbrookanalytics/covid_test_spotter](https://github.com/ketchbrookanalytics/covid_test_spotter) - Shiny web application for locating and reporting inventory of COVID-19 at-home test kits
+- [emilyriederer/demo-shiny-modules](https://github.com/emilyriederer/demo-shiny-modules) - A demo of and argument for using Shiny modules even for simple Shiny applications
+- [Azure/AzureStor](https://github.com/Azure/AzureStor) - R interface to Azure storage accounts
+- [mthomas-ketchbrook/migrate](https://github.com/mthomas-ketchbrook/migrate) - Repository associated with the materials for the R package {migrate}, developed by Ketchbrook Analytics
+- [duncantl/RIOSHealth](https://github.com/duncantl/RIOSHealth) - Read data from iPhone Health app
 - [N1h1l1sT/dbautojoinr](https://github.com/N1h1l1sT/dbautojoinr) - Automatically Read the SQL Database and join all tables to either the Main Tables or a 1-Joint-Table
 - [r-tmap/tmap](https://github.com/r-tmap/tmap) - R package for thematic maps
 - [OlivierBinette/cache](https://github.com/OlivierBinette/cache) - Easily cache and retrieve computation results in R
@@ -9651,6 +9670,7 @@
 
 ## TypeScript 
 
+- [saml-to/assume-aws-role-action](https://github.com/saml-to/assume-aws-role-action) - Assume AWS IAM Roles using SAML.to in GitHub Actions
 - [jscutlery/semver](https://github.com/jscutlery/semver) - Nx plugin to automate semantic versioning and CHANGELOG generation.
 - [ebullient/obsidian-task-collector](https://github.com/ebullient/obsidian-task-collector) - Plugin for [Obsidian.md](https://obsidian.md/) that assists with managing tasks within a document.
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
