@@ -1542,7 +1542,6 @@
 - [Duffney/duffney.io](https://github.com/Duffney/duffney.io) - 
 - [google/web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
 - [m8/refined.blog](https://github.com/m8/refined.blog) - curated list of personal blogs
-- [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [mdn/dom-examples](https://github.com/mdn/dom-examples) - Code examples that accompany various MDN DOM and Web API documentation pages
 - [mdn/css-examples](https://github.com/mdn/css-examples) - Code examples that accompany the MDN CSS documentation
 - [mdn/beginner-html-site](https://github.com/mdn/beginner-html-site) - A simple one page website created to help complete beginners learn HTML basics. This example is built up over the course of https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/HTML_basics
@@ -1570,6 +1569,7 @@
 - [saiyam1814/cloudrundemos](https://github.com/saiyam1814/cloudrundemos) - This repository is for Cloud Run Demos
 - [topepo/2021-LA-RUG](https://github.com/topepo/2021-LA-RUG) - An introduction to workflow sets
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
+- [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization
 - [topepo/an-introduction-to-tidymodels](https://github.com/topepo/an-introduction-to-tidymodels) - Overview of our packages
 - [seankross/postcards](https://github.com/seankross/postcards) - 💌 Create simple, beautiful personal websites and landing pages using only R Markdown.
 - [jimbrig/obsidian_published](https://github.com/jimbrig/obsidian_published) - Using mkdocs to publish my obsidian vault. Main repo for the vault is https://github.com/jimbrig/obsidian_vault
@@ -2051,6 +2051,7 @@
 
 ## JavaScript 
 
+- [codepo8/github-page-pwa](https://github.com/codepo8/github-page-pwa) - A template to offer GitHub pages as a PWA with offline functionality
 - [kevva/to-ico-cli](https://github.com/kevva/to-ico-cli) - Convert PNG to ICO
 - [pponugo/excel2jsonschema](https://github.com/pponugo/excel2jsonschema) - 
 - [hugorper/excel-2-jsonschema](https://github.com/hugorper/excel-2-jsonschema) - A tool to generate JSON Schema files from Excel Sheet
@@ -2250,6 +2251,7 @@
 - [bradtraversy/dj-events-backend](https://github.com/bradtraversy/dj-events-backend) - Strapi backend/API for DJ events
 - [bradtraversy/dj-events-frontend](https://github.com/bradtraversy/dj-events-frontend) - Next.js website to list DJ and other musical events
 - [dominique-mueller/exec-bin](https://github.com/dominique-mueller/exec-bin) - Run any binary files / executables within your npm scripts.
+- [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [Rohithv07/Docker](https://github.com/Rohithv07/Docker) - My Workplay on Docker and Kubernetes. Ref : https://github.com/Rohithv07/DockerCasts
 - [mdn/data](https://github.com/mdn/data) - This repository contains general data for Web technologies
 - [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
@@ -2318,7 +2320,6 @@
 - [firebase/functions-samples](https://github.com/firebase/functions-samples) - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase
 - [googlecodelabs/maps-platform-101-js](https://github.com/googlecodelabs/maps-platform-101-js) - 
 - [asg017/dataflow](https://github.com/asg017/dataflow) - An experimental self-hosted Observable notebook editor, with support for FileAttachments, Secrets, custom standard libraries, and more!
-- [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization
 - [chainsawriot/cranitup](https://github.com/chainsawriot/cranitup) - make CRAN more useful
 - [mayorityz/flutterwave-cli](https://github.com/mayorityz/flutterwave-cli) - A cli tool for flutterwave
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
@@ -4147,7 +4148,7 @@
 - [ahkscript/awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) - A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.
 - [KevinColemanInc/awesome-productivity](https://github.com/KevinColemanInc/awesome-productivity) - 
 - [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) - A curated list of delightful productivity resources.
-- [andrews1022/web-development-2021-course-list](https://github.com/andrews1022/web-development-2021-course-list) - A list of Udemy courses from Brad Traversy's Web Development 2021 video
+- [andrews1022/web-development-2022-course-list](https://github.com/andrews1022/web-development-2022-course-list) - A list of Udemy courses from Brad Traversy's Web Development 2021 video
 - [chetanraj/awesome-github-badges](https://github.com/chetanraj/awesome-github-badges) - A curated list of awesome github README.md badges
 - [Hack-with-Github/Awesome-Security-Gists](https://github.com/Hack-with-Github/Awesome-Security-Gists) - A collection of various GitHub gists for hackers, pentesters and security researchers
 - [Kikobeats/awesome-github](https://github.com/Kikobeats/awesome-github) - An exquisite list of awesome :octocat: secrets.
@@ -5782,6 +5783,11 @@
 
 ## R 
 
+- [colin-fraser/queries](https://github.com/colin-fraser/queries) - Store parameterized queries
+- [AdeelK93/ReportBuilder](https://github.com/AdeelK93/ReportBuilder) - Easily generate R Markdown reports from SQL queries
+- [epicentre-msf/dbc](https://github.com/epicentre-msf/dbc) - Dictionary-based cleaning
+- [epicentre-msf/qxl](https://github.com/epicentre-msf/qxl) - Write quick, customized .xlsx files
+- [facebookexperimental/Robyn](https://github.com/facebookexperimental/Robyn) - Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) package from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression with cross validation, multi-objective evolutionary algorithm for hyperparameter optimisation, gradient-based optimisation for budget allocation etc.) to define media channel efficiency and effectivity, explore adstock rates and saturation curves. It's built for granular datasets with many independent variables and therefore especially suitable for digital and direct response advertisers with rich dataset.
 - [noamross/reprotemplate](https://github.com/noamross/reprotemplate) - A template for reproducible R projects using targets, renv, Docker, and GitHub Actions
 - [noamross/rsite](https://github.com/noamross/rsite) - An NFSN-hosted Shiny, Plumber, FastRWeb site
 - [mthomas-ketchbrook/shinyMatrix_example](https://github.com/mthomas-ketchbrook/shinyMatrix_example) - 
@@ -9088,6 +9094,8 @@
 
 ## Shell 
 
+- [presstofan/shinyproxy-docker-compose-demo](https://github.com/presstofan/shinyproxy-docker-compose-demo) - A template for deploying R Shiny apps with ShinyProxy and docker-compose
+- [Azure-Samples/azure-cli-samples](https://github.com/Azure-Samples/azure-cli-samples) - Contains Azure CLI scripts samples used for documentation at https://docs.microsoft.com
 - [sliteteam/github-action-git-crypt-unlock](https://github.com/sliteteam/github-action-git-crypt-unlock) - Github Action to unlock git-crypt secrets
 - [Azure/acr-build](https://github.com/Azure/acr-build) - Github action to build containers with Azure Container Registry
 - [davidski/tidyrisk-docker](https://github.com/davidski/tidyrisk-docker) - ⚖🐋Rocker-based Docker Containers for Tidyrisk
@@ -9581,6 +9589,7 @@
 
 ## TSQL 
 
+- [Azure-Samples/azure-sql-db-ci-cd](https://github.com/Azure-Samples/azure-sql-db-ci-cd) - Azure SQL DB CI/CD Sample Solution
 - [RMS-open-standards/RDOS](https://github.com/RMS-open-standards/RDOS) - Risk Data Open Standard Schema
 - [AhmetFurkanDEMIR/Microsoft-SQL](https://github.com/AhmetFurkanDEMIR/Microsoft-SQL) - Necmettin Erbakan University 3nd year Database Systems lecture notes and assignments.
 - [tanyogeorgiev/Pastelin](https://github.com/tanyogeorgiev/Pastelin) - Azure Data Studio Dark Theme
