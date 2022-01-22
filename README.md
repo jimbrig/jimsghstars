@@ -1455,6 +1455,7 @@
 
 ## HTML 
 
+- [antonmedv/finder](https://github.com/antonmedv/finder) - CSS Selector Generator 🗺
 - [mthomas-ketchbrook/python_and_r_in_databricks](https://github.com/mthomas-ketchbrook/python_and_r_in_databricks) - Example Databricks notebooks that utilize multiple languages (R, Python, and SQL)
 - [mthomas-ketchbrook/python_and_r_in_rmarkdown](https://github.com/mthomas-ketchbrook/python_and_r_in_rmarkdown) - Example RMarkdown notebook that utilizes multiple languages (R and Python)
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
@@ -1822,7 +1823,7 @@
 - [hypertidy/textures](https://github.com/hypertidy/textures) - simple texture plot
 - [mul118/shinyMCE](https://github.com/mul118/shinyMCE) - tinyMCE editor for Shiny apps
 - [tidymodels/tidymodels.org](https://github.com/tidymodels/tidymodels.org) - Source of tidymodels.org
-- [bansal-io/pattern.css](https://github.com/bansal-io/pattern.css) - CSS only library to fill empty background with beautiful patterns.
+- [bansal/pattern.css](https://github.com/bansal/pattern.css) - CSS only library to fill empty background with beautiful patterns.
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
 - [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
 - [dwyl/process-handbook](https://github.com/dwyl/process-handbook) - :green_book: Contains our processes, questions and journey to creating ateam
@@ -3185,7 +3186,7 @@
 
 - [GitSquared/dotfiles](https://github.com/GitSquared/dotfiles) - My personal dotfiles storage. Feel free to steal my vimrc!
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
-- [mrjones2014/dotfiles](https://github.com/mrjones2014/dotfiles) - Dotfiles for Neovim (0.6+), Fish shell, git, Kitty, Vale, etc.
+- [mrjones2014/dotfiles](https://github.com/mrjones2014/dotfiles) - Dotfiles for Neovim (0.7+), Fish shell, git, Kitty, Vale, etc.
 - [alexpearce/dotfiles](https://github.com/alexpearce/dotfiles) - My dotfiles.
 - [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 - [volllly/.dotfiles](https://github.com/volllly/.dotfiles) - Collection of my dotfiles.
@@ -4708,7 +4709,7 @@
 - [OneGet/MicrosoftDockerProvider](https://github.com/OneGet/MicrosoftDockerProvider) - Provider to search, save and install Docker
 - [ralish/PSWinGlue](https://github.com/ralish/PSWinGlue) - An assortment of useful PowerShell scripts & functions
 - [PavelStsefanovich/lib_powershell](https://github.com/PavelStsefanovich/lib_powershell) - Code snippets and modules
-- [TheTaylorLee/AdminToolbox](https://github.com/TheTaylorLee/AdminToolbox) - Repository for the AdminToolbox Powershell Module
+- [TheTaylorLee/AdminToolbox](https://github.com/TheTaylorLee/AdminToolbox) - Repository for the AdminToolbox PowerShell Module
 - [ralish/PSWinVitals](https://github.com/ralish/PSWinVitals) - Consolidates common system health checks, maintenance tasks & inventory retrieval
 - [dell/OpenManage-PowerShell-Modules](https://github.com/dell/OpenManage-PowerShell-Modules) - 
 - [RamblingCookieMonster/PSStackExchange](https://github.com/RamblingCookieMonster/PSStackExchange) - PowerShell module to query Stack Exchange API
@@ -5783,6 +5784,10 @@
 
 ## R 
 
+- [jimbrig/buildtools](https://github.com/jimbrig/buildtools) - Tools for isolating, detecting dependencies, scaffolding, and building deployable, reproducible developer environments in R.
+- [spsanderson/healthyverse](https://github.com/spsanderson/healthyverse) - Easily install all `healthyR` packages
+- [spsanderson/TidyDensity](https://github.com/spsanderson/TidyDensity) - Create tidy probability/density tibbles and plots of randomly generated and empirical data.
+- [AAPIData/quickstats_datapull](https://github.com/AAPIData/quickstats_datapull) - 
 - [colin-fraser/queries](https://github.com/colin-fraser/queries) - Store parameterized queries
 - [AdeelK93/ReportBuilder](https://github.com/AdeelK93/ReportBuilder) - Easily generate R Markdown reports from SQL queries
 - [epicentre-msf/dbc](https://github.com/epicentre-msf/dbc) - Dictionary-based cleaning
@@ -9566,6 +9571,7 @@
 - [sw-yx/swyxdotio](https://github.com/sw-yx/swyxdotio) - swyxdotio
 - [soufianesakhi/youtube-playlist-helper](https://github.com/soufianesakhi/youtube-playlist-helper) - YouTube playlist editor and generator
 - [cristianpb/analytics-google](https://github.com/cristianpb/analytics-google) - Google analytics from cristianpb.github.io
+- [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [spences10/cheat-sheets](https://github.com/spences10/cheat-sheets) - Cheat Sheets 🐭🤖👀
 
 ## Swift 
@@ -9589,6 +9595,7 @@
 
 ## TSQL 
 
+- [DataResearchLabs/sql_scripts](https://github.com/DataResearchLabs/sql_scripts) - Useful sql scripts and snippets for MSSQL, Oracle, PostgreSQL, Greenplum, and MySQL
 - [Azure-Samples/azure-sql-db-ci-cd](https://github.com/Azure-Samples/azure-sql-db-ci-cd) - Azure SQL DB CI/CD Sample Solution
 - [RMS-open-standards/RDOS](https://github.com/RMS-open-standards/RDOS) - Risk Data Open Standard Schema
 - [AhmetFurkanDEMIR/Microsoft-SQL](https://github.com/AhmetFurkanDEMIR/Microsoft-SQL) - Necmettin Erbakan University 3nd year Database Systems lecture notes and assignments.
@@ -9841,7 +9848,7 @@
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 - [garrylachman/ElectroCRUD](https://github.com/garrylachman/ElectroCRUD) - Database CRUD Application Built on Electron | MySQL, Postgres, SQLite
 - [gajus/slonik](https://github.com/gajus/slonik) - A PostgreSQL client with strict types, detailed logging and assertions.
-- [kriasoft/relay-starter-kit](https://github.com/kriasoft/relay-starter-kit) - 💥  Monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, Relay, and Material UI.
+- [kriasoft/relay-starter-kit](https://github.com/kriasoft/relay-starter-kit) - 💥  Monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, Relay, Material UI.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self-host.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
@@ -9917,7 +9924,6 @@
 - [PicGo/PicGo-Core](https://github.com/PicGo/PicGo-Core) - :zap:A tool for pictures uploading. Both CLI & API supports.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
-- [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [Thinkmill/manypkg](https://github.com/Thinkmill/manypkg) - ☔️ An umbrella for your monorepo
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A GitHub Action for configuring the Google Cloud SDK. The Google Cloud SDK includes both the gcloud and gsutil binaries.
