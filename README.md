@@ -1125,6 +1125,7 @@
 
 ## Go 
 
+- [alajmo/mani](https://github.com/alajmo/mani) - CLI tool to help you manage multiple repositories
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL
 - [rhysd/dotfiles](https://github.com/rhysd/dotfiles) - dotfiles symbolic links management CLI
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
@@ -1455,6 +1456,7 @@
 
 ## HTML 
 
+- [nhs-r-community/demos-and-how-tos](https://github.com/nhs-r-community/demos-and-how-tos) - A repo for community contributed demos and how-tos to get common stuff done in the R language
 - [antonmedv/finder](https://github.com/antonmedv/finder) - CSS Selector Generator 🗺
 - [mthomas-ketchbrook/python_and_r_in_databricks](https://github.com/mthomas-ketchbrook/python_and_r_in_databricks) - Example Databricks notebooks that utilize multiple languages (R, Python, and SQL)
 - [mthomas-ketchbrook/python_and_r_in_rmarkdown](https://github.com/mthomas-ketchbrook/python_and_r_in_rmarkdown) - Example RMarkdown notebook that utilizes multiple languages (R and Python)
@@ -3297,6 +3299,8 @@
 
 ## Others 
 
+- [johnmackintosh/universe](https://github.com/johnmackintosh/universe) - personal package universe
+- [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
 - [RoelantVos/Data_Solution_Framework](https://github.com/RoelantVos/Data_Solution_Framework) - A library for data warehouse and data integration pattern and architecture documentation.
 - [igorbarinov/awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) - A curated list of data engineering tools for software developers
 - [johngagefaulkner/cheatsheets](https://github.com/johngagefaulkner/cheatsheets) - Cheatsheets for everything from Creating a Custom Windows 11 image to Web Design with TailwindCSS.
@@ -4841,6 +4845,7 @@
 - [pbatard/Fido](https://github.com/pbatard/Fido) - A PowerShell script to download Windows ISOs or the UEFI Shell
 - [AlexAsplund/PSTodoist](https://github.com/AlexAsplund/PSTodoist) - A powershell module for todoist
 - [jimbrig/WindowsPowerShell](https://github.com/jimbrig/WindowsPowerShell) - Windows PowerShell Profile Directory
+- [jimbrig/Scripts](https://github.com/jimbrig/Scripts) - Useful Scripts and Snippets across various interfaces
 - [byteben/Get-SoftwareUpdates](https://github.com/byteben/Get-SoftwareUpdates) - Connect to SCCM Collections and enumerate Required Software Updates with WMI
 - [byteben/Dell](https://github.com/byteben/Dell) - PowerShell Scripts primarily using the Dell Command PowerShell Provider Module
 - [byteben/Dev](https://github.com/byteben/Dev) - 
@@ -5784,6 +5789,8 @@
 
 ## R 
 
+- [martinctc/devtoolbox](https://github.com/martinctc/devtoolbox) - Tools for the R developer
+- [higgi13425/medicaldata](https://github.com/higgi13425/medicaldata) - Data Package for Medical Datasets
 - [jimbrig/buildtools](https://github.com/jimbrig/buildtools) - Tools for isolating, detecting dependencies, scaffolding, and building deployable, reproducible developer environments in R.
 - [spsanderson/healthyverse](https://github.com/spsanderson/healthyverse) - Easily install all `healthyR` packages
 - [spsanderson/TidyDensity](https://github.com/spsanderson/TidyDensity) - Create tidy probability/density tibbles and plots of randomly generated and empirical data.
@@ -6307,7 +6314,6 @@
 - [DavisVaughan/test-renv](https://github.com/DavisVaughan/test-renv) - 
 - [StatisMike/shiny.reglog](https://github.com/StatisMike/shiny.reglog) - ShinyApps modules for user-handled account registering, password recovery and log-in.
 - [analythium/openfaas-rstats-templates](https://github.com/analythium/openfaas-rstats-templates) - OpenFaaS templates for R
-- [jimbrig/Scripts](https://github.com/jimbrig/Scripts) - Useful Scripts and Snippets across various interfaces
 - [DeclareDesign/fabricatr](https://github.com/DeclareDesign/fabricatr) - fabricatr: Imagine Your Data Before You Collect It
 - [talgalili/installr](https://github.com/talgalili/installr) - Functions for installing softwares from within R
 - [anaidpm/R-viz](https://github.com/anaidpm/R-viz) - IBM R visualisation course
@@ -9099,6 +9105,7 @@
 
 ## Shell 
 
+- [richardtbell/zsh-twoLine-theme](https://github.com/richardtbell/zsh-twoLine-theme) - 
 - [presstofan/shinyproxy-docker-compose-demo](https://github.com/presstofan/shinyproxy-docker-compose-demo) - A template for deploying R Shiny apps with ShinyProxy and docker-compose
 - [Azure-Samples/azure-cli-samples](https://github.com/Azure-Samples/azure-cli-samples) - Contains Azure CLI scripts samples used for documentation at https://docs.microsoft.com
 - [sliteteam/github-action-git-crypt-unlock](https://github.com/sliteteam/github-action-git-crypt-unlock) - Github Action to unlock git-crypt secrets
