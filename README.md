@@ -1709,7 +1709,7 @@
 - [byrnereese/mkdocs-bootstrap4](https://github.com/byrnereese/mkdocs-bootstrap4) - Bootstrap 4.0+ theme for MkDocs
 - [raghudotcc/scratchpad](https://github.com/raghudotcc/scratchpad) - As the name suggests, this is my scratchpad to try out code to understand a concept or try out new ideas
 - [xfirefly/Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) - Airplay Receiver SDK supports Airplay Mirroring and AirPlay Casting to a receiver device.
-- [r4ds/bookclub-rpkgs](https://github.com/r4ds/bookclub-rpkgs) - 
+- [r4ds/bookclub-rpkgs-old](https://github.com/r4ds/bookclub-rpkgs-old) - 
 - [gadenbuie/garrickadenbuie-com](https://github.com/gadenbuie/garrickadenbuie-com) - My personal website
 - [maelle/simplymaelle](https://github.com/maelle/simplymaelle) - Source of my website :fish:
 - [apreshill/rmdteamdashboard](https://github.com/apreshill/rmdteamdashboard) - R Markdown activity dashboard
@@ -3299,6 +3299,7 @@
 
 ## Others 
 
+- [mjfii/dbt-BLS-Timeseries](https://github.com/mjfii/dbt-BLS-Timeseries) - 
 - [johnmackintosh/universe](https://github.com/johnmackintosh/universe) - personal package universe
 - [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
 - [RoelantVos/Data_Solution_Framework](https://github.com/RoelantVos/Data_Solution_Framework) - A library for data warehouse and data integration pattern and architecture documentation.
@@ -4428,6 +4429,7 @@
 
 ## PowerShell 
 
+- [mjfii/TSQL-Deployment-Framework](https://github.com/mjfii/TSQL-Deployment-Framework) - A simple methodology to deploy a massive number of complex TSQL scripts.
 - [johngagefaulkner/PowerShell](https://github.com/johngagefaulkner/PowerShell) - Scripts that I've either written or otherwise accumulated throughout the years.
 - [cscannell-inacloud/Windows-ITPro-Docs](https://github.com/cscannell-inacloud/Windows-ITPro-Docs) - 
 - [smholvoet/.dotfiles](https://github.com/smholvoet/.dotfiles) - Windows 10 / 11 clean install utility scripts 🚀
@@ -5789,6 +5791,39 @@
 
 ## R 
 
+- [mjfii/Profile-Dataset](https://github.com/mjfii/Profile-Dataset) - 
+- [mjfii/R-NameParser-Lib](https://github.com/mjfii/R-NameParser-Lib) - An R library allowing parsing of surname, first name, and gender based on US census data.
+- [mjfii/R-EmailValidation-Lib](https://github.com/mjfii/R-EmailValidation-Lib) - Simple functionality to validate character vectors for correct email formatting.
+- [mjfii/TSQL-Documentation-Lib](https://github.com/mjfii/TSQL-Documentation-Lib) - Utilizes MS SQL metadata to document any given database.
+- [erinenovita/data-management](https://github.com/erinenovita/data-management) - This project aims to translate business requirements into data management solutions. It will involve a complete process of extracting, refining, and delivering datasets extracted from both structured databases and unstructured data sources.
+- [helseprofil/orgdata](https://github.com/helseprofil/orgdata) - :package: R package for aggregating original data mostly on enumeration areas level of granularity
+- [BetweenTwoTests/between_dbs](https://github.com/BetweenTwoTests/between_dbs) - DDL & test data for different databases for ETL data quality checks / data loading tests
+- [nicholas-alonzo/sqlBatchInsertR](https://github.com/nicholas-alonzo/sqlBatchInsertR) - SQL DML Support for RODBC
+- [jfjelstul/r2sql](https://github.com/jfjelstul/r2sql) - An R package to generate an SQL script that reads data into an SQL database
+- [hyunjoonbok/R-projects](https://github.com/hyunjoonbok/R-projects) - Portfolio in R
+- [tanaymukherjee/Exploring-SQL-with-R](https://github.com/tanaymukherjee/Exploring-SQL-with-R) - The idea is to use the SQL skills in R by converting data into relational database from text files and then using it to run queries to filter data by SQL
+- [casualcomputer/table-summarizer](https://github.com/casualcomputer/table-summarizer) - This RShiny app summarizes large tables stored in database servers
+- [casualcomputer/sql.mechanic](https://github.com/casualcomputer/sql.mechanic) - Functions that generate SQL queries that summarize high-dimensional tables stored in various databases (e.g. Microsoft SQL Servers, Netezza, DB2, Postgres, Oracle, MySQL, etc.).
+- [ekoepplin/DBconnectR](https://github.com/ekoepplin/DBconnectR) - R client to query data from different sources
+- [nikolaus77/rocker](https://github.com/nikolaus77/rocker) - Database interface class R package
+- [tomroh/Date-Functions](https://github.com/tomroh/Date-Functions) - 
+- [tomroh/bcputility](https://github.com/tomroh/bcputility) - R package for fast bulk imports/exports from/to SQL Server with the bcp command line utility
+- [joelnitta/taxastand](https://github.com/joelnitta/taxastand) - Standardize taxonomy across different data sources
+- [skranz/jobr](https://github.com/skranz/jobr) - Shiny app to manage administrative jobs where groups of people have to provide data or should perform tasks and reply when done.
+- [nhihin/sampleDB](https://github.com/nhihin/sampleDB) - Store and manage samples in SQL database through shiny application.
+- [mpkrass7/shiny_pokemon](https://github.com/mpkrass7/shiny_pokemon) - Data driven Shiny application for my medium article
+- [AndreAlz/Directory](https://github.com/AndreAlz/Directory) - This repository is based in "R Shiny" with a connection to a MySql Database and an option to upload Excel files to bulk inserts.
+- [aarong1/peristent_storage_Rshiny_aws](https://github.com/aarong1/peristent_storage_Rshiny_aws) - A demo shiny app demonstrating a backend database hosted on aws
+- [severintroesch/project_datawarehouse_sql](https://github.com/severintroesch/project_datawarehouse_sql) - Final project of module "databases and datawarehousing" @ ZHAW CAS information engineering.
+- [tejasbawaskar/Web_application_shiny_R](https://github.com/tejasbawaskar/Web_application_shiny_R) - Developed a web application/dashboard by connecting to a sql database.
+- [McClellandLegge/reactive-datatable](https://github.com/McClellandLegge/reactive-datatable) - Altering a data table as a reactive value
+- [ellisp/rmarkdown-corporate-eg](https://github.com/ellisp/rmarkdown-corporate-eg) - Example folder system for a corporately-styled RMarkdown document
+- [McClellandLegge/git-pull-from-shiny](https://github.com/McClellandLegge/git-pull-from-shiny) - 
+- [McClellandLegge/BetterHealthPay](https://github.com/McClellandLegge/BetterHealthPay) - Playing around with best practice with developing, documenting and testing an R6 class
+- [McClellandLegge/shinydashtabs](https://github.com/McClellandLegge/shinydashtabs) - An organization framework for Shiny Dashboards
+- [McClellandLegge/shiny-user-auth](https://github.com/McClellandLegge/shiny-user-auth) - A "Hello-World" Example of how to use basic Bootstrap modals and a SQLite Database to facilitate application logins at the app level, allowing storage of information and settings instead of just access control with NGINX.
+- [abby-lammers/rHandsOnDatabase-App](https://github.com/abby-lammers/rHandsOnDatabase-App) - Using the rhandsontable library to edit data and generating corresponding SQL insert/update queries.
+- [jimbrig/templateeR](https://github.com/jimbrig/templateeR) - Collection of templates for R
 - [martinctc/devtoolbox](https://github.com/martinctc/devtoolbox) - Tools for the R developer
 - [higgi13425/medicaldata](https://github.com/higgi13425/medicaldata) - Data Package for Medical Datasets
 - [jimbrig/buildtools](https://github.com/jimbrig/buildtools) - Tools for isolating, detecting dependencies, scaffolding, and building deployable, reproducible developer environments in R.
@@ -6856,7 +6891,6 @@
 - [maelle/blogyaml](https://github.com/maelle/blogyaml) - Batch edit tags of Markdown based blog posts
 - [maelle/lockedata.starters9](https://github.com/maelle/lockedata.starters9) - New polished project!
 - [r-spatial/task_views](https://github.com/r-spatial/task_views) - Local copy for editing CRAN Task Views
-- [ekoepplin/DBconnectR](https://github.com/ekoepplin/DBconnectR) - R client to query data from different sources
 - [colearendt/plumber-redirect](https://github.com/colearendt/plumber-redirect) - A simple plumber API example showing use of a redirect
 - [RMHogervorst/spotifyconnection](https://github.com/RMHogervorst/spotifyconnection) - Connect to spotify with R
 - [news-r/stocknews](https://github.com/news-r/stocknews) - 📈 Access Stock News API from R
@@ -10187,6 +10221,7 @@
 
 ## Visual Basic .NET 
 
+- [mjfii/TSQL-EnterpriseDataWarehouse-Framework](https://github.com/mjfii/TSQL-EnterpriseDataWarehouse-Framework) - Enterprise Data Warehouse Framework
 - [euzzeud/GetWindows11Utility](https://github.com/euzzeud/GetWindows11Utility) - A utility that allows you to download the ISO of the Windows 11!
 - [xBidoof/FileWatcher](https://github.com/xBidoof/FileWatcher) - FileWatcher application for Windows only
 - [Vitosh/VBA_personal](https://github.com/Vitosh/VBA_personal) - Library with VBA, used in multiple projects.
