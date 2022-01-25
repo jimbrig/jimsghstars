@@ -294,7 +294,7 @@
 - [EnterpriseDB/repmgr](https://github.com/EnterpriseDB/repmgr) - A lightweight replication manager for PostgreSQL (Postgres) - latest version 5.3.0 (2021-10-12)
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
-- [ankane/pgvector](https://github.com/ankane/pgvector) - Open-source vector similarity search for Postgres
+- [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [postgres-plr/plr](https://github.com/postgres-plr/plr) - PL/R - R Procedural Language for PostgreSQL
 - [Dark-Moon-X/DarkMoonV1.0.3](https://github.com/Dark-Moon-X/DarkMoonV1.0.3) - Linux subsystem for Windows
 - [aleen42/PersonalWiki](https://github.com/aleen42/PersonalWiki) - :notebook: A simple personal wiki of my current knowledge
@@ -374,7 +374,7 @@
 - [vigou3/actuar](https://github.com/vigou3/actuar) - Actuarial functions and heavy tailed distributions for R
 - [eddelbuettel/digest](https://github.com/eddelbuettel/digest) - R package to create compact hash digests of R objects
 - [ropensci/git2r](https://github.com/ropensci/git2r) - R bindings to the libgit2 library
-- [viking/r-yaml](https://github.com/viking/r-yaml) - R package for converting objects to and from YAML
+- [vubiostat/r-yaml](https://github.com/vubiostat/r-yaml) - R package for converting objects to and from YAML
 - [wrathematics/getPass](https://github.com/wrathematics/getPass) - Password function for R with masking (where supported)
 - [r-lib/processx](https://github.com/r-lib/processx) - Execute and Control Subrocesses from R
 - [r-lib/vctrs](https://github.com/r-lib/vctrs) - Generic programming with typed R vectors
@@ -383,6 +383,7 @@
 
 ## C# # 
 
+- [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The next chapter of the Sophia Script project. A GUI app for fine-tuning and tweaking Windows 10 & Windows 11 (in the future)
 - [microsoft/sqltoolsservice](https://github.com/microsoft/sqltoolsservice) - SQL Tools API service that provides SQL Server data management capabilities.
 - [branch-app/branch](https://github.com/branch-app/branch) - Advanced Halo Stats
 - [red-gate/spawn-demo](https://github.com/red-gate/spawn-demo) - Demo application to show how Spawn can be integrated in Development and CI
@@ -821,6 +822,7 @@
 - [tatianamac/tm11ty](https://github.com/tatianamac/tm11ty) - Personal site for Tatiana Mac (based on Eleventy)
 - [sammy007-debug/interactive-pricing-component-Frontend-mentors](https://github.com/sammy007-debug/interactive-pricing-component-Frontend-mentors) - 
 - [vivekkatial/uber_shiny](https://github.com/vivekkatial/uber_shiny) - Shiny App to play with uber data
+- [oliveryh/obsidian-emoji-toolbar](https://github.com/oliveryh/obsidian-emoji-toolbar) - 
 - [sebastiz/EndoMineR_Shiny](https://github.com/sebastiz/EndoMineR_Shiny) - Shiny app for the EndoMineR library
 - [paeselhz/shiny_gcr_tf](https://github.com/paeselhz/shiny_gcr_tf) - Repository containing basic R Shiny App, github action to build image and terraform to deploy to GCP Cloud Run
 - [bencodezen/obsidian-night-owl-theme](https://github.com/bencodezen/obsidian-night-owl-theme) - An Obsidian theme inspired by the original Night Owl VS Code Theme by Sarah Drasner!
@@ -889,7 +891,6 @@
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [rstudio/bookdown-demo](https://github.com/rstudio/bookdown-demo) - A minimal book example using bookdown
-- [forsigner/fexo](https://github.com/forsigner/fexo) - A minimalist design theme for hexo.
 - [assemble/assemble](https://github.com/assemble/assemble) - Get the rocks out of your socks! Assemble makes you fast at web development! Used by thousands of projects for rapid prototyping, themes, scaffolds, boilerplates, e-books, UI components, API documentation, blogs, building websites/static site generator, an alternative to Jekyll for gh-pages and more! Gulp- and grunt-friendly.
 - [rstudio-education/glossRy](https://github.com/rstudio-education/glossRy) - A glossary of terms used in  and around data science.
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. &lt;personal.management.system.pms@gmail.com&gt;
@@ -1125,6 +1126,7 @@
 
 ## Go 
 
+- [mergestat/mergestat](https://github.com/mergestat/mergestat) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [alajmo/mani](https://github.com/alajmo/mani) - CLI tool to help you manage multiple repositories
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL
 - [rhysd/dotfiles](https://github.com/rhysd/dotfiles) - dotfiles symbolic links management CLI
@@ -1152,7 +1154,6 @@
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 - [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
 - [MartinHeinz/blog-backend](https://github.com/MartinHeinz/blog-backend) - Personal Blog
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [GoogleCloudPlatform/buildpacks](https://github.com/GoogleCloudPlatform/buildpacks) - Builders and buildpacks designed to run on Google Cloud's container platforms
 - [doron-cohen/antidot](https://github.com/doron-cohen/antidot) - Cleans up your $HOME from those pesky dotfiles
 - [Yash-Handa/logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
@@ -1318,7 +1319,7 @@
 - [ExpediaGroup/flyte](https://github.com/ExpediaGroup/flyte) - Flyte binds together the tools you use into easily defined, automated workflows
 - [unidoc/unipdf-examples](https://github.com/unidoc/unipdf-examples) - Examples for creating and processing PDF files with UniPDF https://github.com/unidoc/unipdf
 - [unidoc/unipdf](https://github.com/unidoc/unipdf) - Golang PDF library for creating and processing PDF files (pure go)
-- [google/note-maps](https://github.com/google/note-maps) - A personal knowledge base intended for use on mobile devices.
+- [google/note-maps](https://github.com/google/note-maps) - A personal knowledge base, an experimental project under development.
 - [aleksaan/diskusage](https://github.com/aleksaan/diskusage) - FANTASTIC SPEED utility to find out top largest folders/files on the disk.
 - [StackExchange/blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
 - [maintainer-org/maintainer](https://github.com/maintainer-org/maintainer) - :octocat: :man_technologist: :whale: Generate personal daily reports or summary, AUTHORS, CONTRIBUTING, CHANGELOG and so on for GitHub user or repository.
@@ -3299,6 +3300,7 @@
 
 ## Others 
 
+- [r-universe/jimbrig](https://github.com/r-universe/jimbrig) - Source universe for: jimbrig
 - [mjfii/dbt-BLS-Timeseries](https://github.com/mjfii/dbt-BLS-Timeseries) - 
 - [johnmackintosh/universe](https://github.com/johnmackintosh/universe) - personal package universe
 - [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
@@ -3340,7 +3342,7 @@
 - [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 - [fly-apps/grafana](https://github.com/fly-apps/grafana) - Run Grafana on Fly
 - [PrajwalKatyal/Using-R-with-Databases](https://github.com/PrajwalKatyal/Using-R-with-Databases) - This repository contains in depth content on databases and their connection with R.
-- [suryateja0153/Database-Design](https://github.com/suryateja0153/Database-Design) - Designing a database, querying, analytics and reporting
+- [suryateja0153/Database-Design](https://github.com/suryateja0153/Database-Design) - Designing a database, querying, analytics and reporting.
 - [FrissAnalytics/topojson](https://github.com/FrissAnalytics/topojson) - 
 - [megous/megatools](https://github.com/megous/megatools) - Open-source command line tools for accessing Mega.co.nz cloud storage.
 - [aposin/openinsuranceplatform](https://github.com/aposin/openinsuranceplatform) - This project provides a comprehensive core insurance platform delivering the complete scope of business capabilities for the insurance industry across all lines of business and business models (B2C, B2B, B2B2C).
@@ -3510,7 +3512,6 @@
 - [ferventcoder/puppet-chocolatey-presentation](https://github.com/ferventcoder/puppet-chocolatey-presentation) - Chocolatey Presentation with the Puppets
 - [chocolatey-archive/chocolatey.web](https://github.com/chocolatey-archive/chocolatey.web) - The custom web for creating chocolatey packages online
 - [terminalforlife/DEB-Packages](https://github.com/terminalforlife/DEB-Packages) - DEB packages for various TFL programs.
-- [mikeroyal/Zorin-OS-Guide](https://github.com/mikeroyal/Zorin-OS-Guide) - Zorin OS Guide
 - [hirsaeki/chocolateyPackages](https://github.com/hirsaeki/chocolateyPackages) - 
 - [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) - The Unofficial PowerShell Best Practices and Style Guide
 - [yeoman/yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
@@ -3601,7 +3602,7 @@
 - [SchmidtPaul/RMarkdownMSWordTemplate](https://github.com/SchmidtPaul/RMarkdownMSWordTemplate) - 
 - [christiansmith812/keyboard-shortcuts](https://github.com/christiansmith812/keyboard-shortcuts) - Popular applications keyboard combinations
 - [jdtrat/shinyreport](https://github.com/jdtrat/shinyreport) - 
-- [jimbrig/universe](https://github.com/jimbrig/universe) - 
+- [jimbrig/universe](https://github.com/jimbrig/universe) - Personal R Universe Package Site and API
 - [byteben/OSDBuilder](https://github.com/byteben/OSDBuilder) - PowerShell Module
 - [byteben/Registry](https://github.com/byteben/Registry) - Code to manipulate Windows Registry
 - [Hoorge/WIM-Witch](https://github.com/Hoorge/WIM-Witch) - WIM Witch
@@ -3676,7 +3677,6 @@
 - [HawiCaesar/pay_confirmation](https://github.com/HawiCaesar/pay_confirmation) - Simple Payment Confirmation using MPESA API
 - [gernest/mpesa-dev-api](https://github.com/gernest/mpesa-dev-api) - Developer guide for M-PESA API
 - [builtbybel/debotnet](https://github.com/builtbybel/debotnet) - 🔥🚀 Debotnet is a tiny portable tool for controlling Windows 10's many privacy-related settings and keep your personal data private.
-- [poissonconsulting/shinyrems](https://github.com/poissonconsulting/shinyrems) - An R package to launch shinyrems; an online application that allows a user to access, download, clean, plot and calculate simple statistics using data from the B.C. government Environmental Monitoring System database.
 - [etiennebacher/etiennebacher](https://github.com/etiennebacher/etiennebacher) - 
 - [RConsortium/isc](https://github.com/RConsortium/isc) - R Consortium ISC meeting notes and collaboration
 - [cran-task-views/Databases](https://github.com/cran-task-views/Databases) - CRAN Task View: Databases with R
@@ -4429,6 +4429,9 @@
 
 ## PowerShell 
 
+- [MicrosoftDocs/VBA-Docs](https://github.com/MicrosoftDocs/VBA-Docs) - This repo is no longer accepting new issues. To request changes, you can create a branch, make changes, then submit a PR. For more resources, see README.MD
+- [Yamato-Security/WELA](https://github.com/Yamato-Security/WELA) - WELA (Windows Event Log Analyzer): The Swiss Army knife for Windows Event Logs! ゑ羅（ウェラ）
+- [jdhitsolutions/PSFunctionTools](https://github.com/jdhitsolutions/PSFunctionTools) - A set of PowerShell tools for automating script and module development.
 - [mjfii/TSQL-Deployment-Framework](https://github.com/mjfii/TSQL-Deployment-Framework) - A simple methodology to deploy a massive number of complex TSQL scripts.
 - [johngagefaulkner/PowerShell](https://github.com/johngagefaulkner/PowerShell) - Scripts that I've either written or otherwise accumulated throughout the years.
 - [cscannell-inacloud/Windows-ITPro-Docs](https://github.com/cscannell-inacloud/Windows-ITPro-Docs) - 
@@ -5791,6 +5794,8 @@
 
 ## R 
 
+- [r-universe-org/setup-universes](https://github.com/r-universe-org/setup-universes) - 
+- [yogat3ch/AlpacaforR](https://github.com/yogat3ch/AlpacaforR) - Connecting to Alpaca API and using it with R
 - [mjfii/Profile-Dataset](https://github.com/mjfii/Profile-Dataset) - 
 - [mjfii/R-NameParser-Lib](https://github.com/mjfii/R-NameParser-Lib) - An R library allowing parsing of surname, first name, and gender based on US census data.
 - [mjfii/R-EmailValidation-Lib](https://github.com/mjfii/R-EmailValidation-Lib) - Simple functionality to validate character vectors for correct email formatting.
@@ -6499,6 +6504,7 @@
 - [jakubsob/ships](https://github.com/jakubsob/ships) - Shiny App for Viewing Ship Routes
 - [hypebright/google_maps](https://github.com/hypebright/google_maps) - Demo for using Google Maps in R
 - [bcgov/shinyrems](https://github.com/bcgov/shinyrems) - An R package to launch shinyrems; an online application that allows a user to access, download, clean, plot and calculate simple statistics using data from the B.C. government Environmental Monitoring System database.
+- [poissonconsulting/shinyrems](https://github.com/poissonconsulting/shinyrems) - An R package to launch shinyrems; an online application that allows a user to access, download, clean, plot and calculate simple statistics using data from the B.C. government Environmental Monitoring System database.
 - [eblondel/Rmapit](https://github.com/eblondel/Rmapit) - Rmapit is a package for R that intends to facilitate the production of geographic maps, from simple maps to advanced maps embedding graphic charts. It will target users and organizations that need to produce maps in batch way like in atlas, yearbooks, or scientific monitoring reports.
 - [etiennebacher/ambiance](https://github.com/etiennebacher/ambiance) - Easily Change RStudio Theme
 - [etiennebacher/circletyper](https://github.com/etiennebacher/circletyper) - Curve Text Elements in R Shiny Using 'CircleType.js'
@@ -7710,7 +7716,7 @@
 - [business-science/correlationfunnel](https://github.com/business-science/correlationfunnel) - Speed Up Exploratory Data Analysis (EDA)
 - [dutangc/CASdatasets](https://github.com/dutangc/CASdatasets) - Datasets for the book Computational Actuarial Science with R
 - [johnmyleswhite/log4r](https://github.com/johnmyleswhite/log4r) - A log4j derivative for R.
-- [mikemeredith/AHMbook](https://github.com/mikemeredith/AHMbook) - Functions for the book 'Applied Hierarchical Modeling in Ecology'
+- [mikemeredith/AHMbook](https://github.com/mikemeredith/AHMbook) - R package with functions and data for the book 'Applied Hierarchical Modeling in Ecology'
 - [seanhardison1/vcrshiny](https://github.com/seanhardison1/vcrshiny) - A shiny app for visualizing research data from the Virginia Coast Reserve LTER
 - [USCbiostats/slurmR](https://github.com/USCbiostats/slurmR) - slurmR: A Lightweight Wrapper for Slurm
 - [regime-shifts/abrupt](https://github.com/regime-shifts/abrupt) - Methods for detecting abrupt change in temporal, spatial, and spatiotemporal data series
@@ -8980,6 +8986,7 @@
 
 ## Rust 
 
+- [max-sixty/prql](https://github.com/max-sixty/prql) - PRQL is a modern language for transforming data — a simpler and more powerful SQL
 - [VladimirMarkelov/ttdl](https://github.com/VladimirMarkelov/ttdl) - TTDL - Terminal Todo List Manager
 - [dirs-dev/directories-rs](https://github.com/dirs-dev/directories-rs) - a mid-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows
 - [RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON) - RedisJSON - a JSON data type for Redis
@@ -9095,6 +9102,7 @@
 - [andybyers21/notes.ajb.app](https://github.com/andybyers21/notes.ajb.app) - This is the data for my Evergreen notes vault
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [jamiebrynes7/clair-de-lune-obsidian-theme](https://github.com/jamiebrynes7/clair-de-lune-obsidian-theme) - An obsidian.md theme inspired by the Moonlight family of themes
+- [forsigner/fexo](https://github.com/forsigner/fexo) - A minimalist design theme for hexo.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
@@ -9273,6 +9281,7 @@
 - [usbkey9/uktools](https://github.com/usbkey9/uktools) - Upgrade latest Linux kernel automatically for Ubuntu and derivatives 🐧
 - [clauseggers/dotfiles](https://github.com/clauseggers/dotfiles) - My .dotfiles
 - [matijaderk/setup](https://github.com/matijaderk/setup) - Various setup scripts, settings and files for my gear.
+- [mikeroyal/Zorin-OS-Guide](https://github.com/mikeroyal/Zorin-OS-Guide) - Zorin OS Guide
 - [wlw-benjaminbraendli/Zorin-preseed](https://github.com/wlw-benjaminbraendli/Zorin-preseed) - Every file needed to make a preseeded intallation of Zorin 15
 - [transcode-open/apt-cyg](https://github.com/transcode-open/apt-cyg) - Apt-cyg, an apt-get like tool for Cygwin
 - [hirsaeki/apt-cyg](https://github.com/hirsaeki/apt-cyg) - Apt-cyg, an apt-get like tool for Cygwin
@@ -9767,6 +9776,7 @@
 - [microsoft/FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
 - [pawelmalak/snippet-box](https://github.com/pawelmalak/snippet-box) - Snippet Box is a simple self-hosted app for organizing your code snippets. It allows you to easily create, edit, browse and manage your snippets in various languages.
 - [actions-ecosystem/action-lint-commits](https://github.com/actions-ecosystem/action-lint-commits) - 🔍 GitHub Action to lint commits on a pull request
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [reaviz/reaviz](https://github.com/reaviz/reaviz) - 📊 Data visualization library for React
 - [formio/formio-sql](https://github.com/formio/formio-sql) - Easily convert your SQL database into a REST API, using the SQLConnector action from Form.io
 - [phntxx/dashboard](https://github.com/phntxx/dashboard) - :bar_chart: a nice and simple dashboard / landing page.
@@ -9924,7 +9934,6 @@
 - [microsoft/vscode-react-native](https://github.com/microsoft/vscode-react-native) - VSCode extension for React Native - supports debugging and editor integration
 - [Flutterwave/flutterwave-react-native](https://github.com/Flutterwave/flutterwave-react-native) - Easily plug Flutterwave into your react-native app for payments.
 - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
-- [oliveryh/obsidian-emoji-toolbar](https://github.com/oliveryh/obsidian-emoji-toolbar) - 
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.
 - [jevakallio/git-notify](https://github.com/jevakallio/git-notify) - 🙉 📣 Communicate important updates to your team via git commit messages
@@ -9996,7 +10005,7 @@
 - [hasura/data-dictionary](https://github.com/hasura/data-dictionary) - 
 - [codeverland/codever](https://github.com/codeverland/codever) - Bookmarks and Snippets Manager for Developers & Co
 - [agathauy/wikilinks-to-mdlinks-obsidian](https://github.com/agathauy/wikilinks-to-mdlinks-obsidian) - An Obsidian md plugin which allows for the conversion of individually selected wikilinks to markdown links, and vice versa.
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API..
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [toddbluhm/env-cmd](https://github.com/toddbluhm/env-cmd) - Setting environment variables from a file
 - [linyows/github-issues-notice](https://github.com/linyows/github-issues-notice) - :octocat: Notify labeled issues to Slack
 - [peter-evans/create-issue-from-file](https://github.com/peter-evans/create-issue-from-file) - A GitHub action to create an issue using content from a file
