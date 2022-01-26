@@ -1512,7 +1512,6 @@
 - [IndrajeetPatil/awesome-r-pkgtools](https://github.com/IndrajeetPatil/awesome-r-pkgtools) - A curated list of awesome resources for R package development
 - [berlotto/flask-app-template](https://github.com/berlotto/flask-app-template) - An complete Flask application template, with useful plugins.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
-- [ropensci-org/rotemplate](https://github.com/ropensci-org/rotemplate) - pkgdown template for rOpenSci packages :nail_care: :sparkles:
 - [corpsgeek/flask-form-handling](https://github.com/corpsgeek/flask-form-handling) - 
 - [imzjy/MyDiffTool](https://github.com/imzjy/MyDiffTool) - The missing comparing text tool for Mac, Windows and Linux.
 - [JSchelldorfer/DeepLearningWithActuarialApplications](https://github.com/JSchelldorfer/DeepLearningWithActuarialApplications) - Material for the 2-day block course "Deep Learning with Actuarial Applications in R"
@@ -2065,6 +2064,7 @@
 - [shichongrui/obsidian-rollover-daily-todos](https://github.com/shichongrui/obsidian-rollover-daily-todos) - An obsidian plugin that rolls over todo items from the previous daily note
 - [Wikifox/wikifox](https://github.com/Wikifox/wikifox) - A clean and simplified WikiPedia powered by wikifox.js
 - [pqina/filepond](https://github.com/pqina/filepond) - 🌊 A flexible and fun JavaScript file upload library
+- [ruudmens/LazyAdmin](https://github.com/ruudmens/LazyAdmin) - SysAdmin scripts for you to use.
 - [richinfante/iphonebackuptools](https://github.com/richinfante/iphonebackuptools) - iOS Backup Data Extraction
 - [thura10/airwave](https://github.com/thura10/airwave) - Share Files between iOS and Windows without hassle.
 - [Appsilon/shiny.tools](https://github.com/Appsilon/shiny.tools) - This webpage is a landing page collecting Appsilon's opensource packages for Shiny framework
@@ -2978,7 +2978,7 @@
 - [juba/scatterD3](https://github.com/juba/scatterD3) - R scatter plot htmlwidget based on D3.js
 - [DataTables/Dist-DataTables-SearchPanes](https://github.com/DataTables/Dist-DataTables-SearchPanes) - 
 - [RConsortium/project-analysis](https://github.com/RConsortium/project-analysis) - Data-Driven Discovery and Tracking of R Consortium Activities
-- [actuarialvoodoo/rethinking-workflows](https://github.com/actuarialvoodoo/rethinking-workflows) - 
+- [ryanbthomas/rethinking-workflows](https://github.com/ryanbthomas/rethinking-workflows) - 
 - [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [maxogden/hexbin](https://github.com/maxogden/hexbin) - community curated list of hexagon logos
 - [ctlab/shiny-graph](https://github.com/ctlab/shiny-graph) - Graph module for R Shiny
@@ -4470,7 +4470,6 @@
 - [austinsonger/HandyScripts](https://github.com/austinsonger/HandyScripts) - Handy Scripts (and Lists) for MacOS, Windows, and Linux Based Operating Systems
 - [unkn0wnvariable/PowerShell-WindowsAdmin](https://github.com/unkn0wnvariable/PowerShell-WindowsAdmin) - A collection of scripts I've created over the years to administer things.
 - [glenrobinson72/Tableau-Powershell-Scripts](https://github.com/glenrobinson72/Tableau-Powershell-Scripts) - Repository of Powershell Scripts for Tableau
-- [ruudmens/LazyAdmin](https://github.com/ruudmens/LazyAdmin) - SysAdmin scripts for you to use.
 - [mpb10/PowerShell-Youtube-dl](https://github.com/mpb10/PowerShell-Youtube-dl) - A PowerShell script interface used to operate the youtube-dl command line program.
 - [YurinDoctrine/Fresh](https://github.com/YurinDoctrine/Fresh) - Tons of functions for Windows 10|11 tweaking
 - [bajicdusan/Windows11Debloater](https://github.com/bajicdusan/Windows11Debloater) - Windows 11 Debloater
@@ -6208,6 +6207,7 @@
 - [cloudyr/AzureVMmetadata](https://github.com/cloudyr/AzureVMmetadata) - R interface to VM instance metadata. Submit issues and PRs at https://github.com/Azure/AzureVMmetadata.
 - [cloudyr/AzureVM](https://github.com/cloudyr/AzureVM) - Manage virtual machines in Azure. Submit issues and PRs at https://github.com/Azure/AzureVM
 - [cloudyr/aws.lambda](https://github.com/cloudyr/aws.lambda) - AWS Lambda Client Package
+- [ropensci-org/rotemplate](https://github.com/ropensci-org/rotemplate) - pkgdown template for rOpenSci packages :nail_care: :sparkles:
 - [ropensci/rgbif](https://github.com/ropensci/rgbif) - Interface to the Global Biodiversity Information Facility API
 - [anudeep-reddy/Problem1](https://github.com/anudeep-reddy/Problem1) - Problem 1: Building a Shiny App around the UDPipe NLP workflow
 - [RichardHooijmaijers/nlmixr.docker](https://github.com/RichardHooijmaijers/nlmixr.docker) - docker for nlmixr
@@ -6436,7 +6436,7 @@
 - [rinprod/rip-tools](https://github.com/rinprod/rip-tools) - 
 - [subugoe/metar](https://github.com/subugoe/metar) - Documentation and suggested best practices for data analysis at WAG
 - [subugoe/hoad](https://github.com/subugoe/hoad) - Hybrid Open Access Dashboard
-- [subugoe/muggle](https://github.com/subugoe/muggle) - Opinionated Devops for R Data Products Strictly Without Magic
+- [maxheld83/muggle](https://github.com/maxheld83/muggle) - Opinionated Devops for R Data Products Strictly Without Magic
 - [Sparrow0hawk/mynearestleedsmarginal](https://github.com/Sparrow0hawk/mynearestleedsmarginal) - R Shiny web app getting volunteers to marginal seats
 - [jdtrat/chimpr](https://github.com/jdtrat/chimpr) - mailchimp R client
 - [PavanVaddady/modvizpop](https://github.com/PavanVaddady/modvizpop) - Shiny Based Population PK/PD Model Simulator
@@ -6658,8 +6658,8 @@
 - [capiaas/ShinyServicebot](https://github.com/capiaas/ShinyServicebot) - This package integrates the servicebot payment ( stripe ) framework for R shiny
 - [stan-dev/cmdstanr](https://github.com/stan-dev/cmdstanr) - CmdStanR: the R interface to CmdStan
 - [tisseuil/salesmanager](https://github.com/tisseuil/salesmanager) - A Shiny App to manages clients and sales using CRUD functionalities
-- [subugoe/AzureAppService](https://github.com/subugoe/AzureAppService) - Deploy shiny applications and other R workloads to Azure App Service
-- [subugoe/shinycaas](https://github.com/subugoe/shinycaas) - Deploying shiny apps to container as a service (CaaS) products on public cloud vendors.
+- [maxheld83/AzureAppService](https://github.com/maxheld83/AzureAppService) - Deploy shiny applications and other R workloads to Azure App Service
+- [maxheld83/shinycaas](https://github.com/maxheld83/shinycaas) - Deploying shiny apps to container as a service (CaaS) products on public cloud vendors.
 - [PredictiveEcology/Require](https://github.com/PredictiveEcology/Require) - Simple R package to install and load packages conducive to a reproducible workflow
 - [jmcphers/rsrecovr](https://github.com/jmcphers/rsrecovr) - RsRecovr: Recover unsaved files from RStudio sessions
 - [RLesur/klippy](https://github.com/RLesur/klippy) - Copy to Clipboard Buttons for RMarkdown HTML Documents
@@ -7768,7 +7768,7 @@
 - [stevenpawley/recipeselectors](https://github.com/stevenpawley/recipeselectors) - Additional recipes for supervised feature selection to be used with the tidymodels recipes package
 - [r-windows/docs](https://github.com/r-windows/docs) - Documentation for rtools40 and R for Windows
 - [krzjoa/awesome-r-dataviz](https://github.com/krzjoa/awesome-r-dataviz) - Curated resources about Data Visualization, Drawing & Publishing in R
-- [actuarialvoodoo/plumbdocker](https://github.com/actuarialvoodoo/plumbdocker) - 
+- [ryanbthomas/plumbdocker](https://github.com/ryanbthomas/plumbdocker) - 
 - [yonicd/pkgr.utils](https://github.com/yonicd/pkgr.utils) - 
 - [yonicd/basecamper](https://github.com/yonicd/basecamper) - Interact with basecamp api in R
 - [yonicd/shinycovr](https://github.com/yonicd/shinycovr) - 
@@ -8211,7 +8211,7 @@
 - [vh-d/Rflow](https://github.com/vh-d/Rflow) - Rflow is a general-purpose workflow management framework for R
 - [r-lib/keyring](https://github.com/r-lib/keyring) - :closed_lock_with_key: Access the system credential store from R
 - [ThinkR-open/littleboxes](https://github.com/ThinkR-open/littleboxes) - Rstudio Addin - create boxed title in an Rscript
-- [actuarialvoodoo/reproducible-reserving](https://github.com/actuarialvoodoo/reproducible-reserving) - An example workflow for actuarial reserving using R/Rmarkdown
+- [ryanbthomas/reproducible-reserving](https://github.com/ryanbthomas/reproducible-reserving) - An example workflow for actuarial reserving using R/Rmarkdown
 - [kiernann/fflr](https://github.com/kiernann/fflr) - Get ESPN fantasy football data in R
 - [ThinkR-open/rusk](https://github.com/ThinkR-open/rusk) - Multiplication Tables On a Modular Circle
 - [r-lib/prettyunits](https://github.com/r-lib/prettyunits) - Pretty, human readable formatting of quantities
