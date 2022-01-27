@@ -520,7 +520,7 @@
 - [GitCredentialManager/git-credential-manager](https://github.com/GitCredentialManager/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [Pscx/Pscx](https://github.com/Pscx/Pscx) - PowerShell Community Extensions module repository
 - [meteatamel/cloudrun-tutorial](https://github.com/meteatamel/cloudrun-tutorial) - A tutorial showing some of the features of Cloud Run
-- [microsoft/WindowsTemplateStudio](https://github.com/microsoft/WindowsTemplateStudio) - Windows Template Studio accelerates the creation of new UWP, WPF, and WinUI 3 in Desktop apps using a wizard-based experience.
+- [microsoft/TemplateStudio](https://github.com/microsoft/TemplateStudio) - Template Studio accelerates the creation of new UWP, WPF, and WinUI 3 in Desktop apps using a wizard-based experience.
 - [microsoft/WinAppDriver](https://github.com/microsoft/WinAppDriver) - Windows Application Driver
 - [wslhub/WslQuery](https://github.com/wslhub/WslQuery) - This program is a utility that reads the internal information of Windows Subsystem for Linux from the system and outputs the data to a standard output device in JSON format.
 - [HanabishiRecca/WslShortcut](https://github.com/HanabishiRecca/WslShortcut) - Run WSL commands directly in Windows. Also allows to use WSL git/node/etc. in Visual Studio Code or another software.
@@ -1457,6 +1457,7 @@
 
 ## HTML 
 
+- [shokru/rstats](https://github.com/shokru/rstats) - Material & code for a course in statistical analysis with R
 - [nhs-r-community/demos-and-how-tos](https://github.com/nhs-r-community/demos-and-how-tos) - A repo for community contributed demos and how-tos to get common stuff done in the R language
 - [antonmedv/finder](https://github.com/antonmedv/finder) - CSS Selector Generator 🗺
 - [mthomas-ketchbrook/python_and_r_in_databricks](https://github.com/mthomas-ketchbrook/python_and_r_in_databricks) - Example Databricks notebooks that utilize multiple languages (R, Python, and SQL)
@@ -2054,6 +2055,8 @@
 
 ## JavaScript 
 
+- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database (supports Node, Electron and the browser)
 - [codepo8/github-page-pwa](https://github.com/codepo8/github-page-pwa) - A template to offer GitHub pages as a PWA with offline functionality
 - [kevva/to-ico-cli](https://github.com/kevva/to-ico-cli) - Convert PNG to ICO
 - [pponugo/excel2jsonschema](https://github.com/pponugo/excel2jsonschema) - 
@@ -2259,6 +2262,7 @@
 - [Rohithv07/Docker](https://github.com/Rohithv07/Docker) - My Workplay on Docker and Kubernetes. Ref : https://github.com/Rohithv07/DockerCasts
 - [mdn/data](https://github.com/mdn/data) - This repository contains general data for Web technologies
 - [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
+- [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [fastify/fastify-nextjs](https://github.com/fastify/fastify-nextjs) - React server side rendering support for Fastify with Next
 - [styxlab/gatsby-starter-try-ghost](https://github.com/styxlab/gatsby-starter-try-ghost) - Publish flaring fast blogs with Gatsby and Ghost
 - [acorcutt/next-multi-host](https://github.com/acorcutt/next-multi-host) - Multiple domains hosting on next.js
@@ -3071,6 +3075,7 @@
 
 ## Julia 
 
+- [JuliaDataScience/JuliaDataScience](https://github.com/JuliaDataScience/JuliaDataScience) - Book on Julia for Data Science
 - [JuliaActuary/ExperienceAnalysis.jl](https://github.com/JuliaActuary/ExperienceAnalysis.jl) - Experience Analysis Utility Functions
 - [JuliaActuary/Learn](https://github.com/JuliaActuary/Learn) - Examples and Tutorials using JuliaActuary packages.
 - [JuliaActuary/ActuaryUtilities.jl](https://github.com/JuliaActuary/ActuaryUtilities.jl) - Common functions in actuarial and financial routines
@@ -3300,6 +3305,7 @@
 
 ## Others 
 
+- [thisisnic/awesome-arrow-r](https://github.com/thisisnic/awesome-arrow-r) - Awesome resources for learning more about Apache Arrow
 - [r-universe/jimbrig](https://github.com/r-universe/jimbrig) - Source universe for: jimbrig
 - [mjfii/dbt-BLS-Timeseries](https://github.com/mjfii/dbt-BLS-Timeseries) - 
 - [johnmackintosh/universe](https://github.com/johnmackintosh/universe) - personal package universe
@@ -4396,6 +4402,7 @@
 
 ## PLpgSQL 
 
+- [NikolayS/postgres_dba](https://github.com/NikolayS/postgres_dba) - The missing set of useful tools for Postgres DBAs and all engineers
 - [Azure-Samples/azure-sql-db-fullstack-serverless-kickstart](https://github.com/Azure-Samples/azure-sql-db-fullstack-serverless-kickstart) - Fullstack/Jamstack solution with Vue.js, Azure Functions, Azure Static Web apps and Azure SQL.
 - [dbt-labs/dbt-utils](https://github.com/dbt-labs/dbt-utils) - Utility functions for dbt projects.
 - [PacktPublishing/Learn-PostgreSQL](https://github.com/PacktPublishing/Learn-PostgreSQL) - Learn PostgreSQL, published by Packt
@@ -5072,6 +5079,7 @@
 
 ## Python 
 
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to automate your data
 - [LucasJoel1/EZInstaller](https://github.com/LucasJoel1/EZInstaller) - A tool for making installing windows software easier
 - [Nike-Inc/gimme-aws-creds](https://github.com/Nike-Inc/gimme-aws-creds) - A CLI that utilizes Okta IdP via SAML to acquire temporary AWS credentials
 - [taers232c/GAMADV-XTD3](https://github.com/taers232c/GAMADV-XTD3) - Command line tool to manage Google Workspace
@@ -5093,7 +5101,7 @@
 - [chasemc/duplipy](https://github.com/chasemc/duplipy) - Create standalone, installable R Shiny apps using Electron
 - [Erotemic/mkinit](https://github.com/Erotemic/mkinit) - Auto-generate explicit readable __init__.py files without `import *`
 - [thuyetbao/python-pathway](https://github.com/thuyetbao/python-pathway) - Journey to collect the various collection of snapshots, notes, diagrams, and examples to learn and apply python
-- [dabapps/django-forms-dynamic](https://github.com/dabapps/django-forms-dynamic) - 
+- [dabapps/django-forms-dynamic](https://github.com/dabapps/django-forms-dynamic) - Resolve form field arguments dynamically when a form is instantiated
 - [pwwang/datar](https://github.com/pwwang/datar) - Port of dplyr and other related R packages in python, using pipda.
 - [Princekrampah/FlaskRESTFUL](https://github.com/Princekrampah/FlaskRESTFUL) - 
 - [abhisheksinha08/lambda-packs](https://github.com/abhisheksinha08/lambda-packs) - Precompiled packages for AWS Lambda
@@ -5775,7 +5783,7 @@
 - [carlosperate/awesome-microbit](https://github.com/carlosperate/awesome-microbit) - A curated list of BBC micro:bit resources.
 - [awslabs/aws-data-wrangler](https://github.com/awslabs/aws-data-wrangler) - Pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).
 - [xlwings/git-xl](https://github.com/xlwings/git-xl) - Git extension: Makes git-diff work for Excel workbooks (xls* file types)
-- [cmu-lib/printprob-db](https://github.com/cmu-lib/printprob-db) - Database and interface for Print and Probability project
+- [mdlincoln/printprob-db](https://github.com/mdlincoln/printprob-db) - Database and interface for Print and Probability project
 - [KevinMusgrave/easy-module-attribute-getter](https://github.com/KevinMusgrave/easy-module-attribute-getter) - Fetch and initialize objects in one line, without any if-statements or dictionaries. Merge and override complex config options at the command line.
 - [ctjacobs/git-rdm](https://github.com/ctjacobs/git-rdm) - A research data management plugin for the Git version control system.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
@@ -5793,6 +5801,7 @@
 
 ## R 
 
+- [Ijeamakaanyene/circle_packing](https://github.com/Ijeamakaanyene/circle_packing) - A function to implement circle packing
 - [r-universe-org/setup-universes](https://github.com/r-universe-org/setup-universes) - 
 - [yogat3ch/AlpacaforR](https://github.com/yogat3ch/AlpacaforR) - Connecting to Alpaca API and using it with R
 - [mjfii/Profile-Dataset](https://github.com/mjfii/Profile-Dataset) - 
@@ -9845,7 +9854,6 @@
 - [meshcloud/collie-cli](https://github.com/meshcloud/collie-cli) - Collie CLI allows you to manage your AWS, Azure & GCP cloud landscape through a single view.
 - [auth0/nextjs-auth0](https://github.com/auth0/nextjs-auth0) - Next.js SDK for signing in with Auth0
 - [mattwaler/next-ssr-starter](https://github.com/mattwaler/next-ssr-starter) - A starter project for using Next.js utilizing TailwindCSS and session-based SSR user modeling.
-- [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [dy-sh/obsidian-unique-attachments](https://github.com/dy-sh/obsidian-unique-attachments) - Obsidian plugin. Renames attachments, making their names unique.
 - [styxlab/next-cms-ghost](https://github.com/styxlab/next-cms-ghost) - Publish flaring fast blogs with Next.js and Ghost CMS
 - [mehulmpt/ghost-cms-nextjs](https://github.com/mehulmpt/ghost-cms-nextjs) - 
