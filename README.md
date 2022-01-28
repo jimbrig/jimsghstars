@@ -1200,7 +1200,7 @@
 - [BlackReloaded/wsl2-ssh-pageant](https://github.com/BlackReloaded/wsl2-ssh-pageant) - bridge between windows pageant and wsl2
 - [securitywithoutborders/hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
 - [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
-- [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Software Delivery Workflow For Kubernetes
+- [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Web based CI/CD Platform for Kubernetes
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Community maintained clone of https://github.com/dgrijalva/jwt-go
 - [jamesroutley/news.routley.io](https://github.com/jamesroutley/news.routley.io) - 🗞 My personal RSS feed
 - [hashicorp/terraform-provider-google-beta](https://github.com/hashicorp/terraform-provider-google-beta) - Terraform Google Cloud Platform Beta provider
@@ -3001,7 +3001,6 @@
 - [ColinFay/golemize](https://github.com/ColinFay/golemize) - Example of turning apps to golem
 - [ColinFay/glouton](https://github.com/ColinFay/glouton) - 'JS-cookies' in Shiny
 - [StartBootstrap/startbootstrap-coming-soon](https://github.com/StartBootstrap/startbootstrap-coming-soon) - A coming soon theme with a video background for Bootstrap 4
-- [antvis/F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
 - [vfile/vfile-matter](https://github.com/vfile/vfile-matter) - utility to parse the YAML front matter in a vfile
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [Excel-projects/Excel-Favorites](https://github.com/Excel-projects/Excel-Favorites) - :star: This VSTO Add-In creates a custom "Favorites" ribbon. Key distinctive attributes include dedicated buttons for changing the visibility/sort order of sheets, copying visible cells, Excel's camera feature, Snipping Tool, Problem Steps Recorder (PSR) and Windows Calculator. It is written in 3 different versions as a VSTO Add-In in C# and VB.NET as well as a VBA Add-In.
@@ -3085,6 +3084,7 @@
 
 ## Jupyter Notebook 
 
+- [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Code for Data Engineer Zoomcamp course
 - [chanon-kr/Shared_Function](https://github.com/chanon-kr/Shared_Function) - Shared functions within my team
 - [tomaztk/Azure-Data-Studio-Notebooks](https://github.com/tomaztk/Azure-Data-Studio-Notebooks) - Notebooks for Microsoft Azure Data Studio
 - [keon/data-engineering](https://github.com/keon/data-engineering) - 
@@ -3194,7 +3194,7 @@
 
 - [GitSquared/dotfiles](https://github.com/GitSquared/dotfiles) - My personal dotfiles storage. Feel free to steal my vimrc!
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
-- [mrjones2014/dotfiles](https://github.com/mrjones2014/dotfiles) - Dotfiles for Neovim (0.7+), Fish shell, git, Kitty, Vale, etc.
+- [mrjones2014/dotfiles](https://github.com/mrjones2014/dotfiles) - Dotfiles for Neovim (0.7+), Fish shell, git, Kitty, etc.
 - [alexpearce/dotfiles](https://github.com/alexpearce/dotfiles) - My dotfiles.
 - [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 - [volllly/.dotfiles](https://github.com/volllly/.dotfiles) - Collection of my dotfiles.
@@ -5079,6 +5079,7 @@
 
 ## Python 
 
+- [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to automate your data
 - [LucasJoel1/EZInstaller](https://github.com/LucasJoel1/EZInstaller) - A tool for making installing windows software easier
 - [Nike-Inc/gimme-aws-creds](https://github.com/Nike-Inc/gimme-aws-creds) - A CLI that utilizes Okta IdP via SAML to acquire temporary AWS credentials
@@ -5801,6 +5802,13 @@
 
 ## R 
 
+- [microsoft/wpa](https://github.com/microsoft/wpa) - R package for analyzing and visualizing data from Microsoft Workplace Analytics
+- [microsoft/finnts](https://github.com/microsoft/finnts) - Microsoft Finance Time Series Forecasting Framework (FinnTS) is a forecasting package that utilizes cutting-edge time series forecasting and parallelization on the cloud to produce accurate forecasts for financial data.
+- [microsoft/firm-merge-project](https://github.com/microsoft/firm-merge-project) - A model to merge firm data across datasets utilizing exact & non-exact firm identifiers
+- [KTH-Library/openalex](https://github.com/KTH-Library/openalex) - R package to provide data access to OpenAlex by way of REST API
+- [rubensmoura87/MultiATSM](https://github.com/rubensmoura87/MultiATSM) - 
+- [jimbrig/jimsaddins](https://github.com/jimbrig/jimsaddins) - Collection of RStudio Add-Ins
+- [nucleic-acid/namedropR](https://github.com/nucleic-acid/namedropR) - R package namedropR
 - [Ijeamakaanyene/circle_packing](https://github.com/Ijeamakaanyene/circle_packing) - A function to implement circle packing
 - [r-universe-org/setup-universes](https://github.com/r-universe-org/setup-universes) - 
 - [yogat3ch/AlpacaforR](https://github.com/yogat3ch/AlpacaforR) - Connecting to Alpaca API and using it with R
@@ -9156,6 +9164,7 @@
 
 ## Shell 
 
+- [microsoft/appcenter](https://github.com/microsoft/appcenter) - Central repository for App Center open source resources and planning.
 - [richardtbell/zsh-twoLine-theme](https://github.com/richardtbell/zsh-twoLine-theme) - 
 - [presstofan/shinyproxy-docker-compose-demo](https://github.com/presstofan/shinyproxy-docker-compose-demo) - A template for deploying R Shiny apps with ShinyProxy and docker-compose
 - [Azure-Samples/azure-cli-samples](https://github.com/Azure-Samples/azure-cli-samples) - Contains Azure CLI scripts samples used for documentation at https://docs.microsoft.com
@@ -9745,6 +9754,7 @@
 
 ## TypeScript 
 
+- [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [saml-to/assume-aws-role-action](https://github.com/saml-to/assume-aws-role-action) - Assume AWS IAM Roles using SAML.to in GitHub Actions
 - [jscutlery/semver](https://github.com/jscutlery/semver) - Nx plugin to automate semantic versioning and CHANGELOG generation.
 - [ebullient/obsidian-task-collector](https://github.com/ebullient/obsidian-task-collector) - Plugin for [Obsidian.md](https://obsidian.md/) that assists with managing tasks within a document.
@@ -10135,6 +10145,7 @@
 - [kubernetes-client/javascript](https://github.com/kubernetes-client/javascript) - Javascript client
 - [y-lohse/inkjs](https://github.com/y-lohse/inkjs) - A javascript port of inkle's ink scripting language.
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
+- [antvis/F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
 - [zendeskgarden/react-containers](https://github.com/zendeskgarden/react-containers) - :seedling: garden React (no-UI) containers
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
