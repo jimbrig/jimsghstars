@@ -428,7 +428,7 @@
 - [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 - [zumoshi/BrowserSelect](https://github.com/zumoshi/BrowserSelect) - Browser Select is a utility to dynamically select the browser you want instead of just having one default for all links.
 - [MathewSachin/Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
-- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that pushes the boundaries of the platform.
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
 - [Jonno12345/TileIconifier](https://github.com/Jonno12345/TileIconifier) - Creates tiles for most Windows 8.1 and 10 start menu icons
 - [jonaskohl/FIcon](https://github.com/jonaskohl/FIcon) - FIcon is a utility that adds a Tag sub-menu to the context menu of a folder in Windows Explorer. It allows you to change the colour of a folder icon with ease, which helps you to stay organised.
 - [davotronic5000/PowerShell_Credential_Manager](https://github.com/davotronic5000/PowerShell_Credential_Manager) - PowerShell Module to Read and Write Credentials from the Windows Credential Manager
@@ -1126,6 +1126,7 @@
 
 ## Go 
 
+- [plusworx/gmin](https://github.com/plusworx/gmin) - A friendly Google Workspace administration CLI (command line interface)
 - [mergestat/mergestat](https://github.com/mergestat/mergestat) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [alajmo/mani](https://github.com/alajmo/mani) - CLI tool to help you manage multiple repositories
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL
@@ -1457,6 +1458,7 @@
 
 ## HTML 
 
+- [MSAdministrator/docker-flask-template](https://github.com/MSAdministrator/docker-flask-template) - A docker-compose Flask template
 - [shokru/rstats](https://github.com/shokru/rstats) - Material & code for a course in statistical analysis with R
 - [nhs-r-community/demos-and-how-tos](https://github.com/nhs-r-community/demos-and-how-tos) - A repo for community contributed demos and how-tos to get common stuff done in the R language
 - [antonmedv/finder](https://github.com/antonmedv/finder) - CSS Selector Generator 🗺
@@ -3194,7 +3196,6 @@
 
 - [GitSquared/dotfiles](https://github.com/GitSquared/dotfiles) - My personal dotfiles storage. Feel free to steal my vimrc!
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
-- [mrjones2014/dotfiles](https://github.com/mrjones2014/dotfiles) - Dotfiles for Neovim (0.7+), Fish shell, git, Kitty, etc.
 - [alexpearce/dotfiles](https://github.com/alexpearce/dotfiles) - My dotfiles.
 - [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 - [volllly/.dotfiles](https://github.com/volllly/.dotfiles) - Collection of my dotfiles.
@@ -3348,7 +3349,7 @@
 - [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 - [fly-apps/grafana](https://github.com/fly-apps/grafana) - Run Grafana on Fly
 - [PrajwalKatyal/Using-R-with-Databases](https://github.com/PrajwalKatyal/Using-R-with-Databases) - This repository contains in depth content on databases and their connection with R.
-- [suryateja0153/Database-Design](https://github.com/suryateja0153/Database-Design) - Designing a database, querying, analytics and reporting.
+- [suryateja0153/Database-Design-And-Performance-Tuning](https://github.com/suryateja0153/Database-Design-And-Performance-Tuning) - Designing a database, querying, analytics and reporting.
 - [FrissAnalytics/topojson](https://github.com/FrissAnalytics/topojson) - 
 - [megous/megatools](https://github.com/megous/megatools) - Open-source command line tools for accessing Mega.co.nz cloud storage.
 - [aposin/openinsuranceplatform](https://github.com/aposin/openinsuranceplatform) - This project provides a comprehensive core insurance platform delivering the complete scope of business capabilities for the insurance industry across all lines of business and business models (B2C, B2B, B2B2C).
@@ -4436,6 +4437,10 @@
 
 ## PowerShell 
 
+- [mikemaccana/powershell-profile](https://github.com/mikemaccana/powershell-profile) - Mike's Powershell Profile (and how to set up Windows console if you've been using *nix for 20 years)
+- [mikemaccana/compact-wsl2-disk](https://github.com/mikemaccana/compact-wsl2-disk) - A small script for Windows 10 Home users to compact their WSL2 disks
+- [potatoqualitee/postprofile](https://github.com/potatoqualitee/postprofile) - Faster PowerShell Profiles
+- [AutomationD/wimaging](https://github.com/AutomationD/wimaging) - Windows Imaging Toolkit
 - [MicrosoftDocs/VBA-Docs](https://github.com/MicrosoftDocs/VBA-Docs) - This repo is no longer accepting new issues. To request changes, you can create a branch, make changes, then submit a PR. For more resources, see README.MD
 - [Yamato-Security/WELA](https://github.com/Yamato-Security/WELA) - WELA (Windows Event Log Analyzer): The Swiss Army knife for Windows Event Logs! ゑ羅（ウェラ）
 - [jdhitsolutions/PSFunctionTools](https://github.com/jdhitsolutions/PSFunctionTools) - A set of PowerShell tools for automating script and module development.
@@ -4903,7 +4908,7 @@
 - [jdhitsolutions/PSScriptTools](https://github.com/jdhitsolutions/PSScriptTools) - :wrench: :hammer: A set of PowerShell functions you might use to enhance your own functions and scripts or to facilitate working in the console. Most should work in both Windows PowerShell and PowerShell 7, even cross-platform. Any operating system limitations should be handled on a per command basis. The Samples folder contains demonstration script files
 - [beatcracker/toptout](https://github.com/beatcracker/toptout) - 📡 Easily opt-out from telemetry collection
 - [PowerShell/PowerShellGallery](https://github.com/PowerShell/PowerShellGallery) - 
-- [KNOXDEV/scoop-backup](https://github.com/KNOXDEV/scoop-backup) - mirror of https://git.irs.sh/KNOXDEV/scoop-backup
+- [KNOXDEV/scoop-backup](https://github.com/KNOXDEV/scoop-backup) - Backup your entire current scoop installation with one command
 - [mchubby/FileHistory-Start-FHBackup](https://github.com/mchubby/FileHistory-Start-FHBackup) - A PowerShell cmdlet to manually start a File History backup.
 - [perplexityjeff/Backup-VirtualBox-PowerShell](https://github.com/perplexityjeff/Backup-VirtualBox-PowerShell) - A simple PowerShell script that allows you to backup VirtualBox machines
 - [aaronparker/evergreen](https://github.com/aaronparker/evergreen) - Create evergreen Windows image build scripts with the latest version numbers and download links for applications
@@ -5079,6 +5084,8 @@
 
 ## Python 
 
+- [aschleg/pethub](https://github.com/aschleg/pethub) - Scripts and ETL for building Pet and Animal Related Database
+- [ilpersi/gsuite-domain-checker](https://github.com/ilpersi/gsuite-domain-checker) - A CLI tool that help you verify domains before you provision them in G Suite
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to automate your data
 - [LucasJoel1/EZInstaller](https://github.com/LucasJoel1/EZInstaller) - A tool for making installing windows software easier
@@ -9197,6 +9204,7 @@
 - [many-passwords/many-passwords](https://github.com/many-passwords/many-passwords) - Default credentials list. 🐱‍💻 Leave a star if you like this project! (that motivates me)⭐️
 - [Phantas0s/ArchInstall](https://github.com/Phantas0s/ArchInstall) - :computer: Personnal install scripts for my development environment
 - [twright-msft/mssql-custom-app-image](https://github.com/twright-msft/mssql-custom-app-image) - An example of creating a container image from mssql-server-linux that will configure some server settings like a user role, login, create a database, and populate some schema, and test data into it
+- [mrjones2014/dotfiles](https://github.com/mrjones2014/dotfiles) - Dotfiles for Neovim (0.7+), Fish shell, git, Kitty, etc.
 - [brooklyncentral/clocker](https://github.com/brooklyncentral/clocker) - Apache Brooklyn cloud native infrastructure blueprints
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [alexandregz/search-completion](https://github.com/alexandregz/search-completion) - bash completion to search (command s from  https://github.com/zquestz/s)
