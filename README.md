@@ -1492,7 +1492,6 @@
 - [MASTIN/Virtual-Locker](https://github.com/MASTIN/Virtual-Locker) - Personal property inventories for insurance and relocation purposes.
 - [davidstutz/bootstrap-multiselect](https://github.com/davidstutz/bootstrap-multiselect) - JQuery multiselect plugin based on Twitter Bootstrap.
 - [kaybenleroll/data_workshops](https://github.com/kaybenleroll/data_workshops) - This repository contains all the files for the various workshops created as part of Dublin R
-- [ChrisWaller26/bayesact](https://github.com/ChrisWaller26/bayesact) - A combined frequency-severity model in BRMS which allows for left-censoring at deductibles.
 - [cdnolan/Connecticut-Insurance-Complaints](https://github.com/cdnolan/Connecticut-Insurance-Complaints) - Analysis of complaints made against insurance companies licensed in Connecticut from January 2018 to October 2021. Google Data Analytics Capstone Project.
 - [SlaveToJavascript/DTB](https://github.com/SlaveToJavascript/DTB) - A fintech solution that serves as the intermediary one-stop platform between SMU tBank and insurance providers that allows customers to browse, compare and purchase insurance products conveniently.
 - [kasaai/gisadata](https://github.com/kasaai/gisadata) - 
@@ -3086,7 +3085,7 @@
 
 ## Jupyter Notebook 
 
-- [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Code for Data Engineer Zoomcamp course
+- [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Free Data Engineering course!
 - [chanon-kr/Shared_Function](https://github.com/chanon-kr/Shared_Function) - Shared functions within my team
 - [tomaztk/Azure-Data-Studio-Notebooks](https://github.com/tomaztk/Azure-Data-Studio-Notebooks) - Notebooks for Microsoft Azure Data Studio
 - [keon/data-engineering](https://github.com/keon/data-engineering) - 
@@ -3196,6 +3195,7 @@
 
 - [GitSquared/dotfiles](https://github.com/GitSquared/dotfiles) - My personal dotfiles storage. Feel free to steal my vimrc!
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
+- [mrjones2014/dotfiles](https://github.com/mrjones2014/dotfiles) - Dotfiles for Neovim (0.7+), Fish shell, git, Kitty, etc.
 - [alexpearce/dotfiles](https://github.com/alexpearce/dotfiles) - My dotfiles.
 - [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 - [volllly/.dotfiles](https://github.com/volllly/.dotfiles) - Collection of my dotfiles.
@@ -4837,9 +4837,7 @@
 - [MSEndpointMgr/IntuneWin32AppPackager](https://github.com/MSEndpointMgr/IntuneWin32AppPackager) - This project aims at making it easier to package, create and at the same time document Win32 applications for Microsoft Intune
 - [wimmatthyssen/Hyper-V-VM-Template](https://github.com/wimmatthyssen/Hyper-V-VM-Template) - 
 - [niklasrast/Windows-BGInfo-Configurator](https://github.com/niklasrast/Windows-BGInfo-Configurator) - PowerShell script to install BGInfo with a default configuration on Windows 10
-- [niklasrast/Windows-OEM-BIOS-Productkey-Activator](https://github.com/niklasrast/Windows-OEM-BIOS-Productkey-Activator) - Activate Windows 10 with the OEM-BIOS Product key
 - [niklasrast/Windows-OptionalFeature-Configurator](https://github.com/niklasrast/Windows-OptionalFeature-Configurator) - 
-- [niklasrast/Windows-Update-Cleanup](https://github.com/niklasrast/Windows-Update-Cleanup) - 
 - [niklasrast/Windows-PowerShell-ExecutionPolicy-Configurator](https://github.com/niklasrast/Windows-PowerShell-ExecutionPolicy-Configurator) - This repo contains an powershell scripts to configure the execution policy for powershell on any windows 10 client.
 - [niklasrast/Windows-LocalAdministrators](https://github.com/niklasrast/Windows-LocalAdministrators) - Create local administrator accounts with or without a predefined password on Windows 10 clients
 - [parkitwonka/Migrate-User-Data](https://github.com/parkitwonka/Migrate-User-Data) - 
@@ -6109,6 +6107,7 @@
 - [agi-lab/SPLICE](https://github.com/agi-lab/SPLICE) - An individual claim simulator of Synthetic Paid Loss and Incurred Cost Experience (SPLICE)
 - [EduardoRamosP/MackNet](https://github.com/EduardoRamosP/MackNet) - R package for running MackNet model for paid and incurred loss data.
 - [BiplabKumarGhosh/Prediction-Model](https://github.com/BiplabKumarGhosh/Prediction-Model) - Predicting Cost of Property Loss Incurred by Tornado activity in USA
+- [ChrisWaller26/bayesact](https://github.com/ChrisWaller26/bayesact) - A combined frequency-severity model in BRMS which allows for left-censoring at deductibles.
 - [mkao006/sws_loss](https://github.com/mkao006/sws_loss) - This is the development repository for estimation of loss
 - [cran/lossDev](https://github.com/cran/lossDev) - Robust Loss Development Using MCMC
 - [mhairi/medicalclaims](https://github.com/mhairi/medicalclaims) - Medical Claims Data R Package
@@ -9204,7 +9203,6 @@
 - [many-passwords/many-passwords](https://github.com/many-passwords/many-passwords) - Default credentials list. 🐱‍💻 Leave a star if you like this project! (that motivates me)⭐️
 - [Phantas0s/ArchInstall](https://github.com/Phantas0s/ArchInstall) - :computer: Personnal install scripts for my development environment
 - [twright-msft/mssql-custom-app-image](https://github.com/twright-msft/mssql-custom-app-image) - An example of creating a container image from mssql-server-linux that will configure some server settings like a user role, login, create a database, and populate some schema, and test data into it
-- [mrjones2014/dotfiles](https://github.com/mrjones2014/dotfiles) - Dotfiles for Neovim (0.7+), Fish shell, git, Kitty, etc.
 - [brooklyncentral/clocker](https://github.com/brooklyncentral/clocker) - Apache Brooklyn cloud native infrastructure blueprints
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [alexandregz/search-completion](https://github.com/alexandregz/search-completion) - bash completion to search (command s from  https://github.com/zquestz/s)
