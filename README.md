@@ -93,6 +93,7 @@
   - [Rust](#rust)
   - [SAS](#sas)
   - [SCSS](#scss)
+  - [SQL](#sql)
   - [SQLPL](#sqlpl)
   - [Sass](#sass)
   - [Scala](#scala)
@@ -383,6 +384,7 @@
 
 ## C# # 
 
+- [yorek/awesome-azure-sql](https://github.com/yorek/awesome-azure-sql) - An awesome list of Azure SQL samples for Developers of any Language and Platform
 - [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The next chapter of the Sophia Script project. A GUI app for fine-tuning and tweaking Windows 10 & Windows 11 (in the future)
 - [microsoft/sqltoolsservice](https://github.com/microsoft/sqltoolsservice) - SQL Tools API service that provides SQL Server data management capabilities.
 - [branch-app/branch](https://github.com/branch-app/branch) - Advanced Halo Stats
@@ -1779,7 +1781,6 @@
 - [daattali/daattali.github.io](https://github.com/daattali/daattali.github.io) - Dean Attali's website - R/Shiny Consultant
 - [epwalsh/docker-shiny](https://github.com/epwalsh/docker-shiny) - :whale: A Docker image for an R Shiny server with username + password authentication :closed_lock_with_key:
 - [marton-balazs-kovacs/tenzing](https://github.com/marton-balazs-kovacs/tenzing) - tenzing: documening contributorship with CRediT
-- [scibrokes/owner](https://github.com/scibrokes/owner) - Personal CV
 - [stisla/stisla](https://github.com/stisla/stisla) - Free Bootstrap Admin Template
 - [cobiwave/simplefolio](https://github.com/cobiwave/simplefolio) - ⚡️ A minimal portfolio template for Developers
 - [tclavelle/dplyr-tidyr-tutorial](https://github.com/tclavelle/dplyr-tidyr-tutorial) - Tutorial on dplyr and tidyr packages for Eco-Data-Sci group
@@ -2856,6 +2857,7 @@
 - [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
 - [wleepang/shiny-pager-ui](https://github.com/wleepang/shiny-pager-ui) - A paging input for R/Shiny applications
 - [lawalter/r-shiny-electron-app](https://github.com/lawalter/r-shiny-electron-app) - Guide to desktop app creation using R Shiny and Electron
+- [scibrokes/owner](https://github.com/scibrokes/owner) - Personal CV
 - [gyang274/ygdashboard](https://github.com/gyang274/ygdashboard) - A modified shinydashboard to incorporate more functionality from adminLTE
 - [caub/github-clean-forks](https://github.com/caub/github-clean-forks) - :octocat: Manage your unused forks
 - [hakanu/pervane](https://github.com/hakanu/pervane) - Plain text file based note taking and knowledge base building tool, markdown editor, simple browser IDE.
@@ -3306,6 +3308,7 @@
 
 ## Others 
 
+- [oleg-agapov/data-engineering-book](https://github.com/oleg-agapov/data-engineering-book) - Accumulated knowledge and experience in the field of Data Engineering
 - [thisisnic/awesome-arrow-r](https://github.com/thisisnic/awesome-arrow-r) - Awesome resources for learning more about Apache Arrow
 - [r-universe/jimbrig](https://github.com/r-universe/jimbrig) - Source universe for: jimbrig
 - [mjfii/dbt-BLS-Timeseries](https://github.com/mjfii/dbt-BLS-Timeseries) - 
@@ -4729,7 +4732,7 @@
 - [OneGet/MicrosoftDockerProvider](https://github.com/OneGet/MicrosoftDockerProvider) - Provider to search, save and install Docker
 - [ralish/PSWinGlue](https://github.com/ralish/PSWinGlue) - An assortment of useful PowerShell scripts & functions
 - [PavelStsefanovich/lib_powershell](https://github.com/PavelStsefanovich/lib_powershell) - Code snippets and modules
-- [TheTaylorLee/AdminToolbox](https://github.com/TheTaylorLee/AdminToolbox) - Repository for the AdminToolbox PowerShell Module
+- [TheTaylorLee/AdminToolbox](https://github.com/TheTaylorLee/AdminToolbox) - Repository for the AdminToolbox PowerShell Modules
 - [ralish/PSWinVitals](https://github.com/ralish/PSWinVitals) - Consolidates common system health checks, maintenance tasks & inventory retrieval
 - [dell/OpenManage-PowerShell-Modules](https://github.com/dell/OpenManage-PowerShell-Modules) - 
 - [RamblingCookieMonster/PSStackExchange](https://github.com/RamblingCookieMonster/PSStackExchange) - PowerShell module to query Stack Exchange API
@@ -5495,7 +5498,6 @@
 - [tonycpsu/streamglob](https://github.com/tonycpsu/streamglob) - A console media browser designed to facilitate live and time-shifted viewing of online content.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [wal-e/wal-e](https://github.com/wal-e/wal-e) - Continuous Archiving for Postgres
-- [PostgREST/postgrest-docs](https://github.com/PostgREST/postgrest-docs) - Documentation for PostgREST
 - [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
 - [keithmcnulty/ppt-generation](https://github.com/keithmcnulty/ppt-generation) - Generate parameterized powerpoint with Python and R
 - [adfmb/shiny-flask-postgresql_app](https://github.com/adfmb/shiny-flask-postgresql_app) - Shiny app with a Flask service backend and a postgresql data base
@@ -5807,6 +5809,7 @@
 
 ## R 
 
+- [ktaranov/AwesomeR](https://github.com/ktaranov/AwesomeR) - Awesome R resources, packages and FAQs
 - [microsoft/wpa](https://github.com/microsoft/wpa) - R package for analyzing and visualizing data from Microsoft Workplace Analytics
 - [microsoft/finnts](https://github.com/microsoft/finnts) - Microsoft Finance Time Series Forecasting Framework (FinnTS) is a forecasting package that utilizes cutting-edge time series forecasting and parallelization on the cloud to produce accurate forecasts for financial data.
 - [microsoft/firm-merge-project](https://github.com/microsoft/firm-merge-project) - A model to merge firm data across datasets utilizing exact & non-exact firm identifiers
@@ -9141,6 +9144,11 @@
 - [travis-ci/docs-travis-ci-com](https://github.com/travis-ci/docs-travis-ci-com) - The Travis CI Documentation
 - [yixuan/prettydoc](https://github.com/yixuan/prettydoc) - Creating Pretty HTML From R Markdown
 
+## SQL 
+
+- [SANKALP1011/LibraryDatabase](https://github.com/SANKALP1011/LibraryDatabase) - This is an library database build using sql .
+- [SparkhoundSQL/sql-server-toolbox](https://github.com/SparkhoundSQL/sql-server-toolbox) - SQL Server Toolbox by the Sparkhound SQL Team
+
 ## SQLPL 
 
 - [dmorgan26/dartsviz-compose](https://github.com/dmorgan26/dartsviz-compose) - Shiny app, postgres database & plumber API deployed using docker-compose
@@ -9669,6 +9677,7 @@
 
 ## TSQL 
 
+- [amtwo/dba-database](https://github.com/amtwo/dba-database) - Database containing DBA helper code and open source software.
 - [DataResearchLabs/sql_scripts](https://github.com/DataResearchLabs/sql_scripts) - Useful sql scripts and snippets for MSSQL, Oracle, PostgreSQL, Greenplum, and MySQL
 - [Azure-Samples/azure-sql-db-ci-cd](https://github.com/Azure-Samples/azure-sql-db-ci-cd) - Azure SQL DB CI/CD Sample Solution
 - [RMS-open-standards/RDOS](https://github.com/RMS-open-standards/RDOS) - Risk Data Open Standard Schema
@@ -9695,6 +9704,7 @@
 - [ewfrees/LossDataAnalyticsOverheads](https://github.com/ewfrees/LossDataAnalyticsOverheads) - This site provides overheads for the drafts of our Loss Data Analytics chapters.
 - [ewfrees/LifeCon](https://github.com/ewfrees/LifeCon) - This site contains lecture notes for Life Contingencies, also known as Actuarial Mathematics. It is part of the Open Actuarial Textbooks project.
 - [kasaai/deeptriangle](https://github.com/kasaai/deeptriangle) - DeepTriangle: A Deep Learning Approach to Loss Reserving
+- [PostgREST/postgrest-docs](https://github.com/PostgREST/postgrest-docs) - Documentation for PostgREST
 - [Robinlovelace/open-gat](https://github.com/Robinlovelace/open-gat) - Open source software for geographic transport data analysis and planning
 - [GDSL-UL/the_knowledge](https://github.com/GDSL-UL/the_knowledge) - A Repo of things GDSLers Should Know....
 - [jeroen/RAppArmor](https://github.com/jeroen/RAppArmor) - R interfaces to Linux and AppArmor security methods
