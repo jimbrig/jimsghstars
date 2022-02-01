@@ -310,7 +310,6 @@
 - [tomoakin/RPostgreSQL](https://github.com/tomoakin/RPostgreSQL) - Automatically exported from code.google.com/p/rpostgresql
 - [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch
 - [cherrry9/dots](https://github.com/cherrry9/dots) - just dotfiles ¯\_(ツ)_/¯﻿
-- [viking/dbgen](https://github.com/viking/dbgen) - UIS database generator (http://www.cs.utexas.edu/users/ml/riddle/data.html)
 - [hypertidy/geodist](https://github.com/hypertidy/geodist) - Ultra lightweight, ultra fast calculation of geo distances
 - [rstudio/rscrypt](https://github.com/rstudio/rscrypt) - scrypt cryptographic functions for R
 - [rstudio/httpuv](https://github.com/rstudio/httpuv) - HTTP and WebSocket server package for R
