@@ -59,7 +59,6 @@
   - [Less](#less)
   - [Liquid](#liquid)
   - [LiveScript](#livescript)
-  - [Logos](#logos)
   - [Lua](#lua)
   - [M4](#m4)
   - [Makefile](#makefile)
@@ -167,6 +166,7 @@
 
 ## Batchfile 
 
+- [netoffice/NetOffice-NuGet](https://github.com/netoffice/NetOffice-NuGet) - :package: NuGet Packages for NetOffice
 - [AveYo/LeanAndMean](https://github.com/AveYo/LeanAndMean) - snippets for power users
 - [abbodi1406/BatUtil](https://github.com/abbodi1406/BatUtil) - Collection of batch scripts utilities for Windows
 - [whatever127/offlineinsiderenroll](https://github.com/whatever127/offlineinsiderenroll) - OfflineInsiderEnroll - A script to enable access to the Windows Insider Program on machines not signed in with Microsoft Account
@@ -383,6 +383,8 @@
 
 ## C# # 
 
+- [Visio-projects/Visio-Shape-Extract](https://github.com/Visio-projects/Visio-Shape-Extract) - :arrow_heading_down: This VSTO Add-In extracts the shape attributes' text from a Microsoft Visio file. It is written as VSTO in C#/VB.NET and VBA.
+- [saveenr/VisioAutomation](https://github.com/saveenr/VisioAutomation) - Automate Microsoft Visio with .NET
 - [yorek/awesome-azure-sql](https://github.com/yorek/awesome-azure-sql) - An awesome list of Azure SQL samples for Developers of any Language and Platform
 - [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The next chapter of the Sophia Script project. A GUI app for fine-tuning and tweaking Windows 10 & Windows 11 (in the future)
 - [microsoft/sqltoolsservice](https://github.com/microsoft/sqltoolsservice) - SQL Tools API service that provides SQL Server data management capabilities.
@@ -826,7 +828,6 @@
 - [oliveryh/obsidian-emoji-toolbar](https://github.com/oliveryh/obsidian-emoji-toolbar) - 
 - [sebastiz/EndoMineR_Shiny](https://github.com/sebastiz/EndoMineR_Shiny) - Shiny app for the EndoMineR library
 - [paeselhz/shiny_gcr_tf](https://github.com/paeselhz/shiny_gcr_tf) - Repository containing basic R Shiny App, github action to build image and terraform to deploy to GCP Cloud Run
-- [bencodezen/obsidian-night-owl-theme](https://github.com/bencodezen/obsidian-night-owl-theme) - An Obsidian theme inspired by the original Night Owl VS Code Theme by Sarah Drasner!
 - [jbkunst/jbkunst.github.io](https://github.com/jbkunst/jbkunst.github.io) - jbkunst.github.io
 - [jdtrat/jdtratnr](https://github.com/jdtrat/jdtratnr) - 
 - [r4ds/bookclub-mshiny](https://github.com/r4ds/bookclub-mshiny) - Mastering Shiny Book Club
@@ -1087,6 +1088,7 @@
 
 ## Emacs Lisp 
 
+- [tuh8888/chezmoi.el](https://github.com/tuh8888/chezmoi.el) - An emacs package for interacting with chezmoi.
 - [Vidianos-Giannitsis/Dotfiles](https://github.com/Vidianos-Giannitsis/Dotfiles) - Just a repository for my dotfiles
 - [emacs-mirror/emacs](https://github.com/emacs-mirror/emacs) - Mirror of GNU Emacs
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
@@ -1365,7 +1367,7 @@
 - [Trendyol/docker-shell](https://github.com/Trendyol/docker-shell) - A simple interactive prompt for docker
 - [ivanilves/lstags](https://github.com/ivanilves/lstags) - Explore Docker registries and manipulate Docker images!
 - [hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons) - ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting
-- [jiujuan/go-collection](https://github.com/jiujuan/go-collection) - :tulip: awesome awesome go, study golang from basic to proficient
+- [jiujuan/go-collection](https://github.com/jiujuan/go-collection) - :tulip: awesome awesome go, study golang from basic to proficient。从学习golang基础和高级特性，到实战，到架构微服务，最后到跑路。
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [replit/upm](https://github.com/replit/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 - [volcano-sh/devices](https://github.com/volcano-sh/devices) - Device plugins for Volcano, e.g. GPU
@@ -2073,6 +2075,7 @@
 - [thura10/airwave](https://github.com/thura10/airwave) - Share Files between iOS and Windows without hassle.
 - [Appsilon/shiny.tools](https://github.com/Appsilon/shiny.tools) - This webpage is a landing page collecting Appsilon's opensource packages for Shiny framework
 - [wviechtb/mathjaxr](https://github.com/wviechtb/mathjaxr) - R package to make use of Mathjax in Rd files
+- [ernstc/SqlDataInspector](https://github.com/ernstc/SqlDataInspector) - This is an Azure Data Studio extension that let you inspect the data in your database with just few clicks.
 - [rstudio/learnr](https://github.com/rstudio/learnr) - Interactive Tutorials with R Markdown
 - [OHDSI/DataQualityDashboard](https://github.com/OHDSI/DataQualityDashboard) - A tool to help improve data quality standards in observational data science.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
@@ -3188,10 +3191,6 @@
 
 - [gkz/LiveScript](https://github.com/gkz/LiveScript) - LiveScript is a language which compiles to JavaScript. It has a straightforward mapping to JavaScript and allows you to write expressive code devoid of repetitive boilerplate. While LiveScript adds many features to assist in functional style programming, it also has many improvements for object oriented and imperative programming.
 
-## Logos 
-
-- [schneelittchen/Diary](https://github.com/schneelittchen/Diary) - Windows 10/11 lock screen replica
-
 ## Lua 
 
 - [GitSquared/dotfiles](https://github.com/GitSquared/dotfiles) - My personal dotfiles storage. Feel free to steal my vimrc!
@@ -3290,6 +3289,7 @@
 
 ## Objective-C 
 
+- [schneelittchen/Diary](https://github.com/schneelittchen/Diary) - Windows 10/11 lock screen replica
 - [programming-nu/nu](https://github.com/programming-nu/nu) - Nu is an interpreted Lisp that builds on the Objective-C runtime and Foundation framework.
 - [JustinFincher/GitHubContributionsiOS](https://github.com/JustinFincher/GitHubContributionsiOS) - Show off your GitHub contributions from your lock screen 📱
 - [R-macos/Mac-GUI](https://github.com/R-macos/Mac-GUI) - R GUI for macOS
@@ -3307,6 +3307,10 @@
 
 ## Others 
 
+- [bhdicaire/visioStencils](https://github.com/bhdicaire/visioStencils) - My 2,600 visio :art: shapes, stencils, symbols, and icons collection to visually represent IT infrastructure
+- [PatrickCuba/thedatamustflow](https://github.com/PatrickCuba/thedatamustflow) - Visio stencils and artefacts related to data vault guru
+- [iamchetanks/Database-Design](https://github.com/iamchetanks/Database-Design) - Database design for e-learning platform
+- [pihalve/c4model-visio-stencil](https://github.com/pihalve/c4model-visio-stencil) - Visio stencil with C4 Model shapes
 - [oleg-agapov/data-engineering-book](https://github.com/oleg-agapov/data-engineering-book) - Accumulated knowledge and experience in the field of Data Engineering
 - [thisisnic/awesome-arrow-r](https://github.com/thisisnic/awesome-arrow-r) - Awesome resources for learning more about Apache Arrow
 - [r-universe/jimbrig](https://github.com/r-universe/jimbrig) - Source universe for: jimbrig
@@ -4439,6 +4443,7 @@
 
 ## PowerShell 
 
+- [sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio](https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio) - Microsoft Integration, Azure, Power Platform, Office 365 and much more Stencils Pack it’s a Visio package that contains fully resizable Visio shapes (symbols/icons) that will help you to visually represent On-premise, Cloud or Hybrid Integration and Enterprise architectures scenarios (BizTalk Server, API Management, Logic Apps, Service Bus, Event Hub…), solutions diagrams and features or systems that use Microsoft Azure and related cloud and on-premises technologies in Visio 2016/2013
 - [mikemaccana/powershell-profile](https://github.com/mikemaccana/powershell-profile) - Mike's Powershell Profile (and how to set up Windows console if you've been using *nix for 20 years)
 - [mikemaccana/compact-wsl2-disk](https://github.com/mikemaccana/compact-wsl2-disk) - A small script for Windows 10 Home users to compact their WSL2 disks
 - [potatoqualitee/postprofile](https://github.com/potatoqualitee/postprofile) - Faster PowerShell Profiles
@@ -5808,6 +5813,9 @@
 
 ## R 
 
+- [SciViews/svDialogs](https://github.com/SciViews/svDialogs) - Standard Dialog Boxes for R
+- [wch/shiny-wordle](https://github.com/wch/shiny-wordle) - Wordle in Shiny
+- [DavisVaughan/testthathelperpath](https://github.com/DavisVaughan/testthathelperpath) - What the Package Does (One Line, Title Case)
 - [ktaranov/AwesomeR](https://github.com/ktaranov/AwesomeR) - Awesome R resources, packages and FAQs
 - [microsoft/wpa](https://github.com/microsoft/wpa) - R package for analyzing and visualizing data from Microsoft Workplace Analytics
 - [microsoft/finnts](https://github.com/microsoft/finnts) - Microsoft Finance Time Series Forecasting Framework (FinnTS) is a forecasting package that utilizes cutting-edge time series forecasting and parallelization on the cloud to produce accurate forecasts for financial data.
@@ -9122,6 +9130,7 @@
 - [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
 - [hbctraining/Intro-to-R](https://github.com/hbctraining/Intro-to-R) - 
 - [jh3y/whirl](https://github.com/jh3y/whirl) - CSS loading animations with minimal effort!
+- [bencodezen/obsidian-night-owl-theme](https://github.com/bencodezen/obsidian-night-owl-theme) - An Obsidian theme inspired by the original Night Owl VS Code Theme by Sarah Drasner!
 - [lvalnegri/workshops-setup_cloud_analytics_machine](https://github.com/lvalnegri/workshops-setup_cloud_analytics_machine) - Tips and Tricks to setup a cloud machine for Analytics and Data Science with R, RStudio and Shiny Servers, Python and JupyterLab
 - [nikvoronin/wtfcrt](https://github.com/nikvoronin/wtfcrt) - A personal wiki-like notebooks aka zettelkasten
 - [andybyers21/notes.ajb.app](https://github.com/andybyers21/notes.ajb.app) - This is the data for my Evergreen notes vault
@@ -9769,6 +9778,7 @@
 
 ## TypeScript 
 
+- [nbelyh/VisioOnlineSpfxWebPart](https://github.com/nbelyh/VisioOnlineSpfxWebPart) - SharePoint SPFx web part to display Visio diagrams.
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [saml-to/assume-aws-role-action](https://github.com/saml-to/assume-aws-role-action) - Assume AWS IAM Roles using SAML.to in GitHub Actions
 - [jscutlery/semver](https://github.com/jscutlery/semver) - Nx plugin to automate semantic versioning and CHANGELOG generation.
@@ -9785,7 +9795,6 @@
 - [aposin/ng-aquila](https://github.com/aposin/ng-aquila) - Angular UI Component library for the Open Insurance Platform
 - [PiyushSuthar/Windows-11-Web](https://github.com/PiyushSuthar/Windows-11-Web) - Awe-amazing Windows 11 clone. Oh wait, Not for your Computer, but for the web! ⚡
 - [dzsquared/jupyter-publish-action](https://github.com/dzsquared/jupyter-publish-action) - GitHub action for publishing a remote Jupyter book for Azure Data Studio 📘
-- [ernstc/SqlDataInspector](https://github.com/ernstc/SqlDataInspector) - This is an Azure Data Studio extension that let you inspect the data in your database with just few clicks.
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [Quorafind/Obsidian-Task-Changer](https://github.com/Quorafind/Obsidian-Task-Changer) - Change task status by one click.
