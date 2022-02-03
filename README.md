@@ -1669,7 +1669,6 @@
 - [resulumit/rmd_workshop](https://github.com/resulumit/rmd_workshop) - Materials for a workshop on writing reproducible research papers with R Markdown
 - [lyfeyaj/awesome-resources](https://github.com/lyfeyaj/awesome-resources) - Awesome resources for coding and learning: open source projects, websites, books e.g.
 - [maximevaillancourt/digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Start your own digital garden using this Jekyll template 🌱
-- [jsta/r-docker-tutorial](https://github.com/jsta/r-docker-tutorial) - A docker tutorial for reproducible research
 - [jbkunst/highcharter-rmarkdown](https://github.com/jbkunst/highcharter-rmarkdown) - 
 - [kmasiello/pointblank_demo](https://github.com/kmasiello/pointblank_demo) - 
 - [gigsterous/gigsterous.github.io](https://github.com/gigsterous/gigsterous.github.io) - Gigsterous blog for sharing thoughts, technical insights and more.
@@ -2200,7 +2199,7 @@
 - [SamVerschueren/dev-time-cli](https://github.com/SamVerschueren/dev-time-cli) - Get the current local time of a GitHub user.
 - [gSchool/spotify-albums-and-tracks](https://github.com/gSchool/spotify-albums-and-tracks) - Learn about AJAX, JSON, and working with APIs
 - [dantheman213/spotify-playlist-to-json](https://github.com/dantheman213/spotify-playlist-to-json) - Quickly and easily get any Spotify playlist metadata in JSON returned via HTTP API . No Spotify API key required.
-- [HaiDang666/extract-sptf-playlist](https://github.com/HaiDang666/extract-sptf-playlist) - You know what it's for (extracting spotify and youtube playlist via puppeteer without login)
+- [NuclearPlayer/extract-sptf-playlist](https://github.com/NuclearPlayer/extract-sptf-playlist) - You know what it's for (extracting spotify and youtube playlist via puppeteer without login)
 - [majidsajadi/paperboard](https://github.com/majidsajadi/paperboard) - Paperboard, is a cli application for managing a reading list of bookmarks from the Internet.
 - [philipszdavido/contact-manager](https://github.com/philipszdavido/contact-manager) - A command-line Node.js app powered by TypeScript, Google Cloud Functions and Firebase for managing contacts
 - [SanctumLabs/contact-manager-cli](https://github.com/SanctumLabs/contact-manager-cli) - Manage your contacts from your command line
@@ -5813,6 +5812,8 @@
 
 ## R 
 
+- [jonkatz2/shinyAddOns](https://github.com/jonkatz2/shinyAddOns) - A collection of helper functions for RStudio's 'shiny' package
+- [jonkatz2/monitoR](https://github.com/jonkatz2/monitoR) - 
 - [SciViews/svDialogs](https://github.com/SciViews/svDialogs) - Standard Dialog Boxes for R
 - [wch/shiny-wordle](https://github.com/wch/shiny-wordle) - Wordle in Shiny
 - [DavisVaughan/testthathelperpath](https://github.com/DavisVaughan/testthathelperpath) - What the Package Does (One Line, Title Case)
@@ -5985,7 +5986,7 @@
 - [openanalytics/BIGL](https://github.com/openanalytics/BIGL) - 
 - [openanalytics/rjenkins](https://github.com/openanalytics/rjenkins) - 
 - [rerock/Claims_Reserving](https://github.com/rerock/Claims_Reserving) - 
-- [moj-analytical-services/Rdbtools](https://github.com/moj-analytical-services/Rdbtools) - 
+- [moj-analytical-services/Rdbtools](https://github.com/moj-analytical-services/Rdbtools) - Accessing Athena on the Analytical Platform
 - [derry-dev/Shiny_Desktop_App](https://github.com/derry-dev/Shiny_Desktop_App) - Quick and simple guide to packaging Shiny applications as a standalone Windows desktop program.
 - [jeroen/webp](https://github.com/jeroen/webp) - R bindings for libwebp
 - [jeroen/unix](https://github.com/jeroen/unix) - R bindings to system utilities found in most Unix systems
@@ -7025,6 +7026,7 @@
 - [HenrikBengtsson/doFuture](https://github.com/HenrikBengtsson/doFuture) - :rocket: R package: doFuture - A Universal Foreach Parallel Adaptor using the Future API of the 'future' Package
 - [cwickham/purrr-tutorial](https://github.com/cwickham/purrr-tutorial) - A introduction to purrr
 - [ropensci-archive/tic.package](https://github.com/ropensci-archive/tic.package) - tic example: Building a package with pkgdown documentation
+- [jsta/r-docker-tutorial](https://github.com/jsta/r-docker-tutorial) - A docker tutorial for reproducible research
 - [robertdj/renv-docker](https://github.com/robertdj/renv-docker) - A guide to getting {renv} projects into Docker images
 - [thebioengineer/dockyard](https://github.com/thebioengineer/dockyard) - Tools for building and working with docker containers in R
 - [blairj09/dockerterm](https://github.com/blairj09/dockerterm) - An RStudio Addin for running docker containers in the RStudio terminal
@@ -7466,6 +7468,7 @@
 - [RBigData/remoter](https://github.com/RBigData/remoter) - Control a remote R session from your local R session.
 - [cloudyr/aws.alexa](https://github.com/cloudyr/aws.alexa) - Client Package for the Amazon Alexa Web Information Service
 - [hadley/emo](https://github.com/hadley/emo) - Easily insert emoji into R and RMarkdown
+- [r-lib/decor](https://github.com/r-lib/decor) - 
 - [r-lib/decor](https://github.com/r-lib/decor) - 
 - [MilesMcBain/deplearning](https://github.com/MilesMcBain/deplearning) - Detect, install and update R source dependencies.
 - [edwindj/daff](https://github.com/edwindj/daff) - Diff, patch and merge for data.frames, see  http://paulfitz.github.io/daff/
@@ -8620,7 +8623,7 @@
 - [ELToulemonde/dataPreparation](https://github.com/ELToulemonde/dataPreparation) - Data preparation for data science projects.
 - [o2r-project/containerit](https://github.com/o2r-project/containerit) - Package an R workspace and all dependencies as a Docker container
 - [mayoverse/arsenal](https://github.com/mayoverse/arsenal) - An Arsenal of 'R' Functions for Large-Scale Statistical Summaries
-- [xiaodaigh/disk.frame](https://github.com/xiaodaigh/disk.frame) - Fast Disk-Based Parallelized Data Manipulation Framework for Larger-than-RAM Data
+- [DiskFrame/disk.frame](https://github.com/DiskFrame/disk.frame) - Fast Disk-Based Parallelized Data Manipulation Framework for Larger-than-RAM Data
 - [JohnCoene/g2r](https://github.com/JohnCoene/g2r) - 📈 Grammar of graphics for interactive visualisations
 - [moredatapls/moreRutils](https://github.com/moredatapls/moreRutils) - A collection of R functions that I use regularly but are not part of base R
 - [privefl/bigstatsr](https://github.com/privefl/bigstatsr) - R package for statistical tools with big matrices stored on disk.
@@ -9313,7 +9316,7 @@
 - [basvandriel/dotfiles](https://github.com/basvandriel/dotfiles) - 
 - [santiMartDev/dotfiles](https://github.com/santiMartDev/dotfiles) - This is my dotfiles repo, please feel free to share and contribute!
 - [LeoColomb/dotfiles](https://github.com/LeoColomb/dotfiles) - 🔧 .files OS agnostic
-- [exTerEX/wsldots](https://github.com/exTerEX/wsldots) - Personal dotfiles for Windows Subsystems for Linux (WSL).
+- [exTerEX/wsldots](https://github.com/exTerEX/wsldots) - Personal dotfiles for Windows Subsystems for Linux (WSL)
 - [popurax/dotfiles](https://github.com/popurax/dotfiles) - dotfiles tank → |basnhrc profile.ps1|
 - [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
 - [ericjaychi/sample-dotfiles](https://github.com/ericjaychi/sample-dotfiles) - A sample repo to store dotfiles
