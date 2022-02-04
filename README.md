@@ -285,7 +285,7 @@
 - [billziss-gh/sshfs-win](https://github.com/billziss-gh/sshfs-win) - SSHFS For Windows
 - [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
 - [microsoft/Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples) - This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.
-- [ed10vi/msi-steelseries-led](https://github.com/ed10vi/msi-steelseries-led) - Control Keyboard backlight in MSI laptops with Steelseries Engine 3 Keyboards
+- [ed10vi/msi-steelseries-led](https://github.com/ed10vi/msi-steelseries-led) - Control Keyboard backlight in MSI laptops with Steelseries Engine 3 and 2 Keyboards
 - [vstakhov/libucl](https://github.com/vstakhov/libucl) - Universal configuration library parser
 - [pbatard/winpatch](https://github.com/pbatard/winpatch) - Windows system file patcher
 - [zodiacon/SystemExplorer](https://github.com/zodiacon/SystemExplorer) - Windows System Explorer
@@ -383,6 +383,7 @@
 
 ## C# # 
 
+- [LowlyDBA/lowlydba.sqlserver](https://github.com/LowlyDBA/lowlydba.sqlserver) - :nut_and_bolt: Ansible collection using PowerShell to configure and maintain SQL Server.
 - [Visio-projects/Visio-Shape-Extract](https://github.com/Visio-projects/Visio-Shape-Extract) - :arrow_heading_down: This VSTO Add-In extracts the shape attributes' text from a Microsoft Visio file. It is written as VSTO in C#/VB.NET and VBA.
 - [saveenr/VisioAutomation](https://github.com/saveenr/VisioAutomation) - Automate Microsoft Visio with .NET
 - [yorek/awesome-azure-sql](https://github.com/yorek/awesome-azure-sql) - An awesome list of Azure SQL samples for Developers of any Language and Platform
@@ -1166,7 +1167,7 @@
 - [erizocosmico/dotman](https://github.com/erizocosmico/dotman) - Super simple dotfiles manager
 - [Azure-Samples/functions-custom-handlers](https://github.com/Azure-Samples/functions-custom-handlers) - Sample code for Azure Functions custom handlers
 - [christian-korneck/docker-pushrm](https://github.com/christian-korneck/docker-pushrm) - "Docker Push Readme" - a Docker CLI plugin to update container repo docs
-- [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe is a CLI tool which provides the ability to send messages or alerts to multiple messaging platforms & email.
+- [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe is a CLI which provides the ability to send messages or alerts to multiple messaging platforms & email.
 - [msoap/shell2http](https://github.com/msoap/shell2http) - Executing shell commands via HTTP server
 - [snwfdhmp/simplehttp](https://github.com/snwfdhmp/simplehttp) - Pretty simple and lightweight http server for serving local files.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager
@@ -1461,6 +1462,8 @@
 
 ## HTML 
 
+- [rstudio/environments.rstudio.com](https://github.com/rstudio/environments.rstudio.com) - Environment Management for R
+- [rstudio/db.rstudio.com](https://github.com/rstudio/db.rstudio.com) - Website dedicated to all things R and Databases
 - [MSAdministrator/docker-flask-template](https://github.com/MSAdministrator/docker-flask-template) - A docker-compose Flask template
 - [shokru/rstats](https://github.com/shokru/rstats) - Material & code for a course in statistical analysis with R
 - [nhs-r-community/demos-and-how-tos](https://github.com/nhs-r-community/demos-and-how-tos) - A repo for community contributed demos and how-tos to get common stuff done in the R language
@@ -2057,6 +2060,7 @@
 
 ## JavaScript 
 
+- [LowlyDBA/expressdb.io](https://github.com/LowlyDBA/expressdb.io) - :books: Guides and references for SQL Server (Express)
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database (supports Node, Electron and the browser)
 - [codepo8/github-page-pwa](https://github.com/codepo8/github-page-pwa) - A template to offer GitHub pages as a PWA with offline functionality
@@ -3306,6 +3310,8 @@
 
 ## Others 
 
+- [mikemahoney218/r-devel](https://github.com/mikemahoney218/r-devel) - A mirror of the R-Devel mailing list archives
+- [rstudio/rviews-community](https://github.com/rstudio/rviews-community) - RViews Community Site for Authors and Editors
 - [bhdicaire/visioStencils](https://github.com/bhdicaire/visioStencils) - My 2,600 visio :art: shapes, stencils, symbols, and icons collection to visually represent IT infrastructure
 - [PatrickCuba/thedatamustflow](https://github.com/PatrickCuba/thedatamustflow) - Visio stencils and artefacts related to data vault guru
 - [iamchetanks/Database-Design](https://github.com/iamchetanks/Database-Design) - Database design for e-learning platform
@@ -5922,7 +5928,7 @@
 - [INWTlab/dbtools](https://github.com/INWTlab/dbtools) - R package for connecting and querying databases
 - [jokergoo/spiralize](https://github.com/jokergoo/spiralize) - Visualize data on spirals
 - [paws-r/paws](https://github.com/paws-r/paws) - Paws, a package for Amazon Web Services in R
-- [JonasRieger/rollinglda](https://github.com/JonasRieger/rollinglda) - A rolling version of the Latent Dirichlet Allocation. By a sequential approach, it enables the construction of LDA-based time series of topics that are consistent with previous states of LDA models. After an initial modeling, updates can be computed efficiently, allowing for real-time monitoring and detection of events or structural breaks.
+- [JonasRieger/rollinglda](https://github.com/JonasRieger/rollinglda) - A rolling version of the Latent Dirichlet Allocation.
 - [2DegreesInvesting/r2dii.analysis](https://github.com/2DegreesInvesting/r2dii.analysis) - Tools to Calculate Climate Targets for Financial Portfolios
 - [eliocamp/mountr](https://github.com/eliocamp/mountr) - Mount remote folders using sshfs from R
 - [mfarkhann/docker_plumber](https://github.com/mfarkhann/docker_plumber) - Example Implementation of Deploying Prediction API using plumber in docker
@@ -6572,7 +6578,7 @@
 - [ropensci/vcr](https://github.com/ropensci/vcr) - Record HTTP calls and replay them
 - [sckott/httpcode](https://github.com/sckott/httpcode) - http code investigation
 - [virtualstaticvoid/heroku-docker-r](https://github.com/virtualstaticvoid/heroku-docker-r) - Heroku R Docker Image - Makes deploying R on Heroku easy
-- [timosch29/Dockerized-Plumber-API](https://github.com/timosch29/Dockerized-Plumber-API) - Containerized Plumber REST API which offers data from a containerized Cron job on a Google Big Query data source within a container network.
+- [timoschd/Dockerized-Plumber-API](https://github.com/timoschd/Dockerized-Plumber-API) - Containerized Plumber REST API which offers data from a containerized Cron job on a Google Big Query data source within a container network.
 - [tunnelWithAC/r-api-example](https://github.com/tunnelWithAC/r-api-example) - Example code snippets for creating an API in R
 - [tunnelWithAC/r-boilerplate-api](https://github.com/tunnelWithAC/r-boilerplate-api) - 
 - [fdrennan/gittrash](https://github.com/fdrennan/gittrash) - Blah blah
@@ -7468,7 +7474,6 @@
 - [RBigData/remoter](https://github.com/RBigData/remoter) - Control a remote R session from your local R session.
 - [cloudyr/aws.alexa](https://github.com/cloudyr/aws.alexa) - Client Package for the Amazon Alexa Web Information Service
 - [hadley/emo](https://github.com/hadley/emo) - Easily insert emoji into R and RMarkdown
-- [r-lib/decor](https://github.com/r-lib/decor) - 
 - [r-lib/decor](https://github.com/r-lib/decor) - 
 - [MilesMcBain/deplearning](https://github.com/MilesMcBain/deplearning) - Detect, install and update R source dependencies.
 - [edwindj/daff](https://github.com/edwindj/daff) - Diff, patch and merge for data.frames, see  http://paulfitz.github.io/daff/
@@ -9688,6 +9693,7 @@
 
 ## TSQL 
 
+- [LowlyDBA/dba-multitool](https://github.com/LowlyDBA/dba-multitool) - :hammer_and_wrench:  T-SQL scripts for the long haul: optimizing storage, on-the-fly documentation, and general administrative needs.
 - [amtwo/dba-database](https://github.com/amtwo/dba-database) - Database containing DBA helper code and open source software.
 - [DataResearchLabs/sql_scripts](https://github.com/DataResearchLabs/sql_scripts) - Useful sql scripts and snippets for MSSQL, Oracle, PostgreSQL, Greenplum, and MySQL
 - [Azure-Samples/azure-sql-db-ci-cd](https://github.com/Azure-Samples/azure-sql-db-ci-cd) - Azure SQL DB CI/CD Sample Solution
@@ -10040,7 +10046,7 @@
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
 - [kentaro-m/auto-assign-action](https://github.com/kentaro-m/auto-assign-action) - An action which adds reviewers to the pull request when the pull request is opened.
 - [rainx/assets](https://github.com/rainx/assets) - Javascript/Typescript assets management toolset
-- [jmoyers/brain](https://github.com/jmoyers/brain) - Brain: Take and Organize Notes
+- [jmoyers/brain](https://github.com/jmoyers/brain) - A Visual Studio Code extension for taking and organizing notes zettelkasten-style and structured metadata
 - [zettel-lint/zettel-lint](https://github.com/zettel-lint/zettel-lint) - A linter/compiler for markdown-based Zettelkasten git repositories
 - [hacdias/vscode-notes](https://github.com/hacdias/vscode-notes) - Note-taking helper extension for VSCode
 - [microsoft/opensource-management-portal](https://github.com/microsoft/opensource-management-portal) - Microsoft's monolithic GitHub Management Portal enabling enterprise scale self-service powered by the GitHub API 🏔🧑‍💻🧰
