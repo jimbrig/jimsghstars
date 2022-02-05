@@ -36,7 +36,6 @@
   - [FreeBasic](#freebasic)
   - [FreeMarker](#freemarker)
   - [Frege](#frege)
-  - [Gherkin](#gherkin)
   - [Go](#go)
   - [Gosu](#gosu)
   - [Groovy](#groovy)
@@ -1124,10 +1123,6 @@
 
 - [Frege/frege](https://github.com/Frege/frege) - Frege is a Haskell for the JVM. It brings purely functional programing to the Java platform.
 
-## Gherkin 
-
-- [git-town/git-town](https://github.com/git-town/git-town) - Generic, high-level Git workflow support!
-
 ## Go 
 
 - [plusworx/gmin](https://github.com/plusworx/gmin) - A friendly Google Workspace administration CLI (command line interface)
@@ -1357,6 +1352,7 @@
 - [secrethub/secrethub-cli](https://github.com/secrethub/secrethub-cli) - A secrets management platform that every engineer can use with minimal code changes.
 - [cloud66-oss/habitus](https://github.com/cloud66-oss/habitus) - A build flow tool for Docker.
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [git-town/git-town](https://github.com/git-town/git-town) - Generic, high-level Git workflow support!
 - [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [gbrlsnchs/pilgo](https://github.com/gbrlsnchs/pilgo) - Configuration-based dotfiles manager
@@ -1784,6 +1780,7 @@
 - [daattali/daattali.github.io](https://github.com/daattali/daattali.github.io) - Dean Attali's website - R/Shiny Consultant
 - [epwalsh/docker-shiny](https://github.com/epwalsh/docker-shiny) - :whale: A Docker image for an R Shiny server with username + password authentication :closed_lock_with_key:
 - [marton-balazs-kovacs/tenzing](https://github.com/marton-balazs-kovacs/tenzing) - tenzing: documening contributorship with CRediT
+- [scibrokes/owner](https://github.com/scibrokes/owner) - Personal CV
 - [stisla/stisla](https://github.com/stisla/stisla) - Free Bootstrap Admin Template
 - [cobiwave/simplefolio](https://github.com/cobiwave/simplefolio) - ⚡️ A minimal portfolio template for Developers
 - [tclavelle/dplyr-tidyr-tutorial](https://github.com/tclavelle/dplyr-tidyr-tutorial) - Tutorial on dplyr and tidyr packages for Eco-Data-Sci group
@@ -2062,7 +2059,7 @@
 
 - [LowlyDBA/expressdb.io](https://github.com/LowlyDBA/expressdb.io) - :books: Guides and references for SQL Server (Express)
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database (supports Node, Electron and the browser)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Powered by plain JavaScript (supports Node, Electron and the browser)
 - [codepo8/github-page-pwa](https://github.com/codepo8/github-page-pwa) - A template to offer GitHub pages as a PWA with offline functionality
 - [kevva/to-ico-cli](https://github.com/kevva/to-ico-cli) - Convert PNG to ICO
 - [pponugo/excel2jsonschema](https://github.com/pponugo/excel2jsonschema) - 
@@ -2357,7 +2354,6 @@
 - [pjeby/pane-relief](https://github.com/pjeby/pane-relief) - Obsidian plugin for per-pane history, pane movement/navigation hotkeys, and more
 - [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business) - Using Obsidian.... For Business!
 - [pjeby/tag-wrangler](https://github.com/pjeby/tag-wrangler) - Rename, merge, toggle, and search tags from the Obsidian tag pane
-- [HEmile/juggl](https://github.com/HEmile/juggl) - An interactive, stylable and expandable graph view for Obsidian. Juggl is designed as an advanced 'local' graph view, where you can juggle all your thoughts with ease.
 - [learnwithjason/lets-learn-obsidian](https://github.com/learnwithjason/lets-learn-obsidian) - 
 - [Flutterwave/rave-react-native](https://github.com/Flutterwave/rave-react-native) - Rave react native SDK
 - [QBisConsult/psql-api](https://github.com/QBisConsult/psql-api) - RAPID RESTful API for PostgreSQL
@@ -2862,7 +2858,6 @@
 - [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
 - [wleepang/shiny-pager-ui](https://github.com/wleepang/shiny-pager-ui) - A paging input for R/Shiny applications
 - [lawalter/r-shiny-electron-app](https://github.com/lawalter/r-shiny-electron-app) - Guide to desktop app creation using R Shiny and Electron
-- [scibrokes/owner](https://github.com/scibrokes/owner) - Personal CV
 - [gyang274/ygdashboard](https://github.com/gyang274/ygdashboard) - A modified shinydashboard to incorporate more functionality from adminLTE
 - [caub/github-clean-forks](https://github.com/caub/github-clean-forks) - :octocat: Manage your unused forks
 - [hakanu/pervane](https://github.com/hakanu/pervane) - Plain text file based note taking and knowledge base building tool, markdown editor, simple browser IDE.
@@ -4172,7 +4167,7 @@
 - [ahkscript/awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) - A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.
 - [KevinColemanInc/awesome-productivity](https://github.com/KevinColemanInc/awesome-productivity) - 
 - [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) - A curated list of delightful productivity resources.
-- [andrews1022/web-development-2022-course-list](https://github.com/andrews1022/web-development-2022-course-list) - A list of Udemy courses from Brad Traversy's Web Development 2021 video
+- [andrews1022/web-development-course-list](https://github.com/andrews1022/web-development-course-list) - A list of Udemy courses from Brad Traversy's Web Development 2021 video
 - [chetanraj/awesome-github-badges](https://github.com/chetanraj/awesome-github-badges) - A curated list of awesome github README.md badges
 - [Hack-with-Github/Awesome-Security-Gists](https://github.com/Hack-with-Github/Awesome-Security-Gists) - A collection of various GitHub gists for hackers, pentesters and security researchers
 - [Kikobeats/awesome-github](https://github.com/Kikobeats/awesome-github) - An exquisite list of awesome :octocat: secrets.
@@ -5094,6 +5089,8 @@
 
 ## Python 
 
+- [zsvoboda/dbd](https://github.com/zsvoboda/dbd) - dbd is a database prototyping tool that enables data analysts and engineers to quickly load and transform data in SQL databases.
+- [Zettelkasten-Team/Zettelkasten](https://github.com/Zettelkasten-Team/Zettelkasten) - Zettelkasten-Developer-Builds
 - [aschleg/pethub](https://github.com/aschleg/pethub) - Scripts and ETL for building Pet and Animal Related Database
 - [ilpersi/gsuite-domain-checker](https://github.com/ilpersi/gsuite-domain-checker) - A CLI tool that help you verify domains before you provision them in G Suite
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
@@ -9491,6 +9488,7 @@
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker
 - [komali2/convert-mp4-to-gif](https://github.com/komali2/convert-mp4-to-gif) - Dead simple script to convert all .mp4 files in directory to relatively well proportioned .gif files.
 - [zero-to-mastery/resources](https://github.com/zero-to-mastery/resources) - Here is a list of best resources to get you started with learning how to code (mostly related to Web Development). Feel free to add your favorite  resources as well and help others in their journey of learning.
+- [SerhatTeker/dotfiles](https://github.com/SerhatTeker/dotfiles) - Personal dotfiles
 - [d2s/knowledge](https://github.com/d2s/knowledge) - :cloud: 2016→ — A curated list of Tools and Resources.
 - [npryce/adr-tools](https://github.com/npryce/adr-tools) - Command-line tools for working with Architecture Decision Records
 - [yonicd/heroku-buildpack-r](https://github.com/yonicd/heroku-buildpack-r) - Heroku buildpack for R (http://www.r-project.org)
@@ -9945,6 +9943,7 @@
 - [ryanjamurphy/review-obsidian](https://github.com/ryanjamurphy/review-obsidian) - Add the current note to a future daily note to remember to review it.
 - [liamcain/obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes) - Create/manage your daily, weekly, and monthly notes in Obsidian
 - [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
+- [HEmile/juggl](https://github.com/HEmile/juggl) - An interactive, stylable and expandable graph view for Obsidian. Juggl is designed as an advanced 'local' graph view, where you can juggle all your thoughts with ease.
 - [martin-jw/obsidian-recall](https://github.com/martin-jw/obsidian-recall) - A spaced repetition system for Obsidian!
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
@@ -10248,7 +10247,6 @@
 - [eddiezane/dotfiles](https://github.com/eddiezane/dotfiles) - doot doot
 - [fiatjaf/neuron.vim](https://github.com/fiatjaf/neuron.vim) - 📝 Manage your Zettelkasten in {n}vim.
 - [hsab/WSL-config](https://github.com/hsab/WSL-config) - CS 4400 - Step by step guide for using WSL and Vim as a development environment
-- [SerhatTeker/dotfiles](https://github.com/SerhatTeker/dotfiles) - Personal dotfiles
 - [jasonbellamy/dotfiles](https://github.com/jasonbellamy/dotfiles) - 
 - [dirmeier/dotfiles](https://github.com/dirmeier/dotfiles) - Collection of dotfiles.
 - [smbache/vim-dot](https://github.com/smbache/vim-dot) - quick drop of vim dot files
