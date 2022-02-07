@@ -78,6 +78,7 @@
   - [Processing](#processing)
   - [Puppet](#puppet)
   - [Python](#python)
+  - [QML](#qml)
   - [R](#r)
   - [RMarkdown](#rmarkdown)
   - [Raku](#raku)
@@ -780,6 +781,7 @@
 
 ## CSS 
 
+- [choonghyunryu/docker-shinyserver](https://github.com/choonghyunryu/docker-shinyserver) - Introduce shiny server with docker
 - [microsoft/techcasestudies](https://github.com/microsoft/techcasestudies) - A GitHub Pages repo used to document Microsoft solution evidences. TEs: Do not create pull requests here; see https://github.com/Microsoft/techcasestudies#hello.
 - [Rainbell129/Obsidian-Homepage](https://github.com/Rainbell129/Obsidian-Homepage) - A dashboard for your obsidian vault.
 - [twbs/ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
@@ -1780,6 +1782,7 @@
 - [daattali/daattali.github.io](https://github.com/daattali/daattali.github.io) - Dean Attali's website - R/Shiny Consultant
 - [epwalsh/docker-shiny](https://github.com/epwalsh/docker-shiny) - :whale: A Docker image for an R Shiny server with username + password authentication :closed_lock_with_key:
 - [marton-balazs-kovacs/tenzing](https://github.com/marton-balazs-kovacs/tenzing) - tenzing: documening contributorship with CRediT
+- [scibrokes/owner](https://github.com/scibrokes/owner) - Personal CV
 - [stisla/stisla](https://github.com/stisla/stisla) - Free Bootstrap Admin Template
 - [cobiwave/simplefolio](https://github.com/cobiwave/simplefolio) - ⚡️ A minimal portfolio template for Developers
 - [tclavelle/dplyr-tidyr-tutorial](https://github.com/tclavelle/dplyr-tidyr-tutorial) - Tutorial on dplyr and tidyr packages for Eco-Data-Sci group
@@ -2112,7 +2115,7 @@
 - [ministryofjustice/analytics-platform-shiny-server](https://github.com/ministryofjustice/analytics-platform-shiny-server) - Analytics Platform Shiny Server
 - [twright-msft/sqldevops](https://github.com/twright-msft/sqldevops) - 
 - [twright-msft/mssql-node-docker-demo-app-standalone](https://github.com/twright-msft/mssql-node-docker-demo-app-standalone) - 
-- [jimbrig/KaaS-New](https://github.com/jimbrig/KaaS-New) - KaaS Obsidian Vault Redo
+- [jimbrig/KaaS](https://github.com/jimbrig/KaaS) - KaaS - Knowledge as a Service
 - [SadatArefin/Alico](https://github.com/SadatArefin/Alico) - This web project take Age and Term as input to calculate Face value and Total Insurance amount in different cases
 - [ferbs/webstack-micro](https://github.com/ferbs/webstack-micro) - Example/starter web app geared for small-ish teams interested in using a microservices architecture
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
@@ -2857,7 +2860,6 @@
 - [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
 - [wleepang/shiny-pager-ui](https://github.com/wleepang/shiny-pager-ui) - A paging input for R/Shiny applications
 - [lawalter/r-shiny-electron-app](https://github.com/lawalter/r-shiny-electron-app) - Guide to desktop app creation using R Shiny and Electron
-- [scibrokes/owner](https://github.com/scibrokes/owner) - Personal CV
 - [gyang274/ygdashboard](https://github.com/gyang274/ygdashboard) - A modified shinydashboard to incorporate more functionality from adminLTE
 - [caub/github-clean-forks](https://github.com/caub/github-clean-forks) - :octocat: Manage your unused forks
 - [hakanu/pervane](https://github.com/hakanu/pervane) - Plain text file based note taking and knowledge base building tool, markdown editor, simple browser IDE.
@@ -4803,7 +4805,7 @@
 - [C-Fergus/WindowsShiteSieve](https://github.com/C-Fergus/WindowsShiteSieve) - Filter the shite from Windows 10 and change settings to be more comfortable for you. Cut holes in the sieve to let some shite through or patch it up in other areas you think there is more shite to be filtered.
 - [redaxscript/redaxscript-powershell](https://github.com/redaxscript/redaxscript-powershell) - A powerful collection of setup routines for Windows
 - [0x4F776C/Windows-OS](https://github.com/0x4F776C/Windows-OS) - Windows OS setup guide
-- [daijro/amelio](https://github.com/daijro/amelio) - Windows debloater and optimizer
+- [daijro/amelio](https://github.com/daijro/amelio) - Windows debloater and optimizer (not maintained)
 - [CJavierSaldana/MS-Config](https://github.com/CJavierSaldana/MS-Config) - Initial configuration of working environment for windows.
 - [z0ph/ansible-win-install](https://github.com/z0ph/ansible-win-install) - Automate your post-windows Installation with Ansible & Chocolatey
 - [CSRedRat/Win10-Initial-Setup-Script-Debloater](https://github.com/CSRedRat/Win10-Initial-Setup-Script-Debloater) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019. Links to disable telemetry, remove bloat pre-installed apps.
@@ -5089,6 +5091,7 @@
 
 ## Python 
 
+- [dominodatalab/domino-research](https://github.com/dominodatalab/domino-research) - Projects developed by Domino's R&D team
 - [zsvoboda/dbd](https://github.com/zsvoboda/dbd) - dbd is a database prototyping tool that enables data analysts and engineers to quickly load and transform data in SQL databases.
 - [Zettelkasten-Team/Zettelkasten](https://github.com/Zettelkasten-Team/Zettelkasten) - Zettelkasten-Developer-Builds
 - [aschleg/pethub](https://github.com/aschleg/pethub) - Scripts and ETL for building Pet and Animal Related Database
@@ -5813,8 +5816,13 @@
 - [SublimeText/LaTeXTools](https://github.com/SublimeText/LaTeXTools) - LaTeX plugin for Sublime Text 2 and 3
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 
+## QML 
+
+- [prateekmedia/Menu11](https://github.com/prateekmedia/Menu11) - A highly customizable launcher inspired from windows 11 menu. Fork of MenuZ for KDE Plasma
+
 ## R 
 
+- [cran/RODBC](https://github.com/cran/RODBC) - :exclamation: This is a read-only mirror of the CRAN R package repository.  RODBC — ODBC Database Access
 - [jonkatz2/shinyAddOns](https://github.com/jonkatz2/shinyAddOns) - A collection of helper functions for RStudio's 'shiny' package
 - [jonkatz2/monitoR](https://github.com/jonkatz2/monitoR) - 
 - [SciViews/svDialogs](https://github.com/SciViews/svDialogs) - Standard Dialog Boxes for R
@@ -6229,7 +6237,7 @@
 - [virtualstaticvoid/heroku-buildpack-r-build2](https://github.com/virtualstaticvoid/heroku-buildpack-r-build2) - Heroku buildpack for R (http://www.r-project.org) Build Automation
 - [virtualstaticvoid/heroku-buildpack-r-examples](https://github.com/virtualstaticvoid/heroku-buildpack-r-examples) - Example applications using the Heroku Buildpack for R
 - [virtualstaticvoid/heroku-shinymanager-app](https://github.com/virtualstaticvoid/heroku-shinymanager-app) - Example project for using shinymanager on Heroku.
-- [jimbrig/reserver](https://github.com/jimbrig/reserver) - Actuarial Claims Reserving
+- [jimbrig/reserver-old](https://github.com/jimbrig/reserver-old) - Actuarial Claims Reserving
 - [mdneuzerling/aphhansard](https://github.com/mdneuzerling/aphhansard) - 
 - [mdneuzerling/neuzr](https://github.com/mdneuzerling/neuzr) - Personal Package of Miscellaneous R Functions
 - [dpastoor/blueprint](https://github.com/dpastoor/blueprint) - 
@@ -9228,7 +9236,7 @@
 - [alexandregz/search-completion](https://github.com/alexandregz/search-completion) - bash completion to search (command s from  https://github.com/zquestz/s)
 - [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc) - Easy TOC creation for GitHub README.md
 - [supercrabtree/k](https://github.com/supercrabtree/k) - k is the new l, yo
-- [jimbrig/KaaS](https://github.com/jimbrig/KaaS) - KaaS - Knowledge as a Service
+- [jimbrig/KaaS-Old](https://github.com/jimbrig/KaaS-Old) - KaaS - Knowledge as a Service
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [mikeroyal/azuredatastudio-snap](https://github.com/mikeroyal/azuredatastudio-snap) - A snap for azuredatastudio, Azure Data Studio is a data management tool that works with SQL Server, Azure SQL DB and SQL DW.
@@ -9713,7 +9721,6 @@
 ## TeX 
 
 - [ewfrees/LDARcode](https://github.com/ewfrees/LDARcode) - R Code to Support the Loss Data Analytics Book
-- [Vidianos-Giannitsis/Zettelkasten](https://github.com/Vidianos-Giannitsis/Zettelkasten) - This repo serves as my Zettelkasten, and is essentially the hub of all my notes for the ability to back up and share them.
 - [Sheing/SalesforceActuarial](https://github.com/Sheing/SalesforceActuarial) - Salesforce x Actuarial Mortality Table
 - [ewfrees/LossDataAnalyticsOverheads](https://github.com/ewfrees/LossDataAnalyticsOverheads) - This site provides overheads for the drafts of our Loss Data Analytics chapters.
 - [ewfrees/LifeCon](https://github.com/ewfrees/LifeCon) - This site contains lecture notes for Life Contingencies, also known as Actuarial Mathematics. It is part of the Open Actuarial Textbooks project.
@@ -9784,6 +9791,9 @@
 
 ## TypeScript 
 
+- [MichaBrugger/booksidian_plugin](https://github.com/MichaBrugger/booksidian_plugin) - A plugin to connect your Goodreads shelves to your Obsidian vault.
+- [mo-seph/obsidian-note-from-template](https://github.com/mo-seph/obsidian-note-from-template) - Simple plugin to create Notes from a template, and fill in fields defined there
+- [fyears/remotely-save](https://github.com/fyears/remotely-save) - 
 - [nbelyh/VisioOnlineSpfxWebPart](https://github.com/nbelyh/VisioOnlineSpfxWebPart) - SharePoint SPFx web part to display Visio diagrams.
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [saml-to/assume-aws-role-action](https://github.com/saml-to/assume-aws-role-action) - Assume AWS IAM Roles using SAML.to in GitHub Actions
