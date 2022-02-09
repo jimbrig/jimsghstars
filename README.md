@@ -383,7 +383,7 @@
 
 ## C# # 
 
-- [LowlyDBA/lowlydba.sqlserver](https://github.com/LowlyDBA/lowlydba.sqlserver) - :nut_and_bolt: Ansible collection using PowerShell to configure and maintain SQL Server.
+- [lowlydba/lowlydba.sqlserver](https://github.com/lowlydba/lowlydba.sqlserver) - :nut_and_bolt: Ansible collection using PowerShell to configure and maintain SQL Server.
 - [Visio-projects/Visio-Shape-Extract](https://github.com/Visio-projects/Visio-Shape-Extract) - :arrow_heading_down: This VSTO Add-In extracts the shape attributes' text from a Microsoft Visio file. It is written as VSTO in C#/VB.NET and VBA.
 - [saveenr/VisioAutomation](https://github.com/saveenr/VisioAutomation) - Automate Microsoft Visio with .NET
 - [yorek/awesome-azure-sql](https://github.com/yorek/awesome-azure-sql) - An awesome list of Azure SQL samples for Developers of any Language and Platform
@@ -1500,6 +1500,7 @@
 - [MASTIN/Virtual-Locker](https://github.com/MASTIN/Virtual-Locker) - Personal property inventories for insurance and relocation purposes.
 - [davidstutz/bootstrap-multiselect](https://github.com/davidstutz/bootstrap-multiselect) - JQuery multiselect plugin based on Twitter Bootstrap.
 - [kaybenleroll/data_workshops](https://github.com/kaybenleroll/data_workshops) - This repository contains all the files for the various workshops created as part of Dublin R
+- [jimbrig/KaaS](https://github.com/jimbrig/KaaS) - KaaS - Knowledge as a Service
 - [cdnolan/Connecticut-Insurance-Complaints](https://github.com/cdnolan/Connecticut-Insurance-Complaints) - Analysis of complaints made against insurance companies licensed in Connecticut from January 2018 to October 2021. Google Data Analytics Capstone Project.
 - [SlaveToJavascript/DTB](https://github.com/SlaveToJavascript/DTB) - A fintech solution that serves as the intermediary one-stop platform between SMU tBank and insurance providers that allows customers to browse, compare and purchase insurance products conveniently.
 - [kasaai/gisadata](https://github.com/kasaai/gisadata) - 
@@ -2063,7 +2064,7 @@
 ## JavaScript 
 
 - [tot0/ObsidianPPV](https://github.com/tot0/ObsidianPPV) - PPV implementation for Obsidian
-- [LowlyDBA/expressdb.io](https://github.com/LowlyDBA/expressdb.io) - :books: Guides and references for SQL Server (Express)
+- [lowlydba/expressdb.io](https://github.com/lowlydba/expressdb.io) - :books: Guides and references for SQL Server (Express)
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Powered by plain JavaScript (supports Node, Electron and the browser)
 - [codepo8/github-page-pwa](https://github.com/codepo8/github-page-pwa) - A template to offer GitHub pages as a PWA with offline functionality
@@ -2119,7 +2120,6 @@
 - [ministryofjustice/analytics-platform-shiny-server](https://github.com/ministryofjustice/analytics-platform-shiny-server) - Analytics Platform Shiny Server
 - [twright-msft/sqldevops](https://github.com/twright-msft/sqldevops) - 
 - [twright-msft/mssql-node-docker-demo-app-standalone](https://github.com/twright-msft/mssql-node-docker-demo-app-standalone) - 
-- [jimbrig/KaaS](https://github.com/jimbrig/KaaS) - KaaS - Knowledge as a Service
 - [SadatArefin/Alico](https://github.com/SadatArefin/Alico) - This web project take Age and Term as input to calculate Face value and Total Insurance amount in different cases
 - [ferbs/webstack-micro](https://github.com/ferbs/webstack-micro) - Example/starter web app geared for small-ish teams interested in using a microservices architecture
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
@@ -2271,6 +2271,7 @@
 - [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [Rohithv07/Docker](https://github.com/Rohithv07/Docker) - My Workplay on Docker and Kubernetes. Ref : https://github.com/Rohithv07/DockerCasts
 - [mdn/data](https://github.com/mdn/data) - This repository contains general data for Web technologies
+- [mattwaler/next-ssr-starter](https://github.com/mattwaler/next-ssr-starter) - A starter project for using Next.js utilizing TailwindCSS and session-based SSR user modeling.
 - [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [fastify/fastify-nextjs](https://github.com/fastify/fastify-nextjs) - React server side rendering support for Fastify with Next
@@ -2472,7 +2473,6 @@
 - [microsoft/react-native-test-app](https://github.com/microsoft/react-native-test-app) - react-native-test-app provides a test app for all supported platforms as a package
 - [fulcrumapp/geojson-dashboard](https://github.com/fulcrumapp/geojson-dashboard) - A configurable framework for building a geographic "data dashboard" from a GeoJSON file.
 - [invertase/react-native-firebase](https://github.com/invertase/react-native-firebase) - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
-- [visgl/react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
 - [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
@@ -3108,6 +3108,7 @@
 - [aliosmankaya/DataScienceProjects](https://github.com/aliosmankaya/DataScienceProjects) - This repository for my Data Science, Machine Learning and Deep Learning projects. I want to share my work on this areas.
 - [stephen520254/Stephen_python_projects](https://github.com/stephen520254/Stephen_python_projects) - Data Analytics projects
 - [adityakamble49/loss-ratio-prediction](https://github.com/adityakamble49/loss-ratio-prediction) - Predicting Loss Ratios for Auto Insurance Portfolios - ITCS 6100 Big Data Analytics for Competitive Advantage
+- [MindSetLib/Insolver](https://github.com/MindSetLib/Insolver) - Low code machine learning library, specified for insurance tasks: prepare data, build model, implement into production.
 - [domokane/FinancePy](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
 - [actuarial-tools/ipynb-package](https://github.com/actuarial-tools/ipynb-package) - 
 - [firmai/interactive-corporate-report](https://github.com/firmai/interactive-corporate-report) - ICR - Automated and Intelligent Company Report Built in Python (by @firmai)
@@ -5103,6 +5104,7 @@
 
 ## Python 
 
+- [app-generator/flask-react-soft-dashboard](https://github.com/app-generator/flask-react-soft-dashboard) - Flask React - Soft Dashboard (Open-source) | AppSeed.us
 - [v1a0/sqllex](https://github.com/v1a0/sqllex) - Better than sqlite3
 - [ssine/pptx2md](https://github.com/ssine/pptx2md) - a pptx to markdown converter
 - [dominodatalab/domino-research](https://github.com/dominodatalab/domino-research) - Projects developed by Domino's R&D team
@@ -5240,7 +5242,6 @@
 - [jdaymude/SureChoice](https://github.com/jdaymude/SureChoice) - Make informed decisions about health insurance.
 - [sr-murthy/oedtools](https://github.com/sr-murthy/oedtools) - File validation, query and data sampling toolkit for the Simplitium Open Exposure Data (OED) (re)insurance exposure data format
 - [genedan/TmVal](https://github.com/genedan/TmVal) - Time Value of Money - a Python package for mathematical interest theory, annuity, and bond calculations.
-- [MindSetLib/Insolver](https://github.com/MindSetLib/Insolver) - Low code machine learning library, specified for insurance tasks: prepare data, build model, implement into production.
 - [krishnakuruvadi/portfoliomanager](https://github.com/krishnakuruvadi/portfoliomanager) - Finance portfolio management for Indians.  Track financial goals using contributions to Provident Fund, Sukanya Samriddhi, Mutual Funds, Shares, Restricted Stock Units, Employee Stock Purchase Plan, 401K
 - [Patitotective/PREFS](https://github.com/Patitotective/PREFS) - Store and manage user preferences easily with PREFS.
 - [mkalioby/ModelTracker](https://github.com/mkalioby/ModelTracker) - Track a model object over time and blame users
@@ -5836,6 +5837,7 @@
 
 ## R 
 
+- [josephlewis/Defended_Small_Towns](https://github.com/josephlewis/Defended_Small_Towns) - 
 - [jimbrig/pkgdev](https://github.com/jimbrig/pkgdev) - Suite of Helpers for the R Package Developer
 - [Pakillo/grateful](https://github.com/Pakillo/grateful) - Facilitate citation of R packages
 - [lockedata/shiny.AADB2C](https://github.com/lockedata/shiny.AADB2C) - Provides Shiny helper functions for Azure Active Directory B2C authentication
@@ -6313,7 +6315,6 @@
 - [virtualstaticvoid/heroku-docker-r-shiny-app](https://github.com/virtualstaticvoid/heroku-docker-r-shiny-app) - Example Shiny Application on Heroku using heroku-docker-r
 - [best-practice-and-impact/CARS_dashboard](https://github.com/best-practice-and-impact/CARS_dashboard) - Response rate dashboard for the Coding in Analysis and Research Survey (CARS) wave 3.
 - [erictleung/templates](https://github.com/erictleung/templates) - :clipboard: Miscellaneous templates of common documents and files I find myself reusing
-- [datalab-dev/template_workshop](https://github.com/datalab-dev/template_workshop) - 
 - [FASTGenomics/image-shiny-base](https://github.com/FASTGenomics/image-shiny-base) - Base Image for R Shiny analyses on FASTGenomics
 - [rahmanda/boilerrplate](https://github.com/rahmanda/boilerrplate) - An R Project boilerplate
 - [datascienceisrael/projectTemplate](https://github.com/datascienceisrael/projectTemplate) - cookicutter template for agile data science
@@ -9718,7 +9719,8 @@
 
 ## TSQL 
 
-- [LowlyDBA/dba-multitool](https://github.com/LowlyDBA/dba-multitool) - :hammer_and_wrench:  T-SQL scripts for the long haul: optimizing storage, on-the-fly documentation, and general administrative needs.
+- [janwangx/RelationalDB](https://github.com/janwangx/RelationalDB) - 
+- [lowlydba/dba-multitool](https://github.com/lowlydba/dba-multitool) - :hammer_and_wrench:  T-SQL scripts for the long haul: optimizing storage, on-the-fly documentation, and general administrative needs.
 - [amtwo/dba-database](https://github.com/amtwo/dba-database) - Database containing DBA helper code and open source software.
 - [DataResearchLabs/sql_scripts](https://github.com/DataResearchLabs/sql_scripts) - Useful sql scripts and snippets for MSSQL, Oracle, PostgreSQL, Greenplum, and MySQL
 - [Azure-Samples/azure-sql-db-ci-cd](https://github.com/Azure-Samples/azure-sql-db-ci-cd) - Azure SQL DB CI/CD Sample Solution
@@ -9927,7 +9929,6 @@
 - [mrmartineau/gatsby-theme-code-notes](https://github.com/mrmartineau/gatsby-theme-code-notes) - A Gatsby theme for publishing code-related notes to your website
 - [meshcloud/collie-cli](https://github.com/meshcloud/collie-cli) - Collie CLI allows you to manage your AWS, Azure & GCP cloud landscape through a single view.
 - [auth0/nextjs-auth0](https://github.com/auth0/nextjs-auth0) - Next.js SDK for signing in with Auth0
-- [mattwaler/next-ssr-starter](https://github.com/mattwaler/next-ssr-starter) - A starter project for using Next.js utilizing TailwindCSS and session-based SSR user modeling.
 - [dy-sh/obsidian-unique-attachments](https://github.com/dy-sh/obsidian-unique-attachments) - Obsidian plugin. Renames attachments, making their names unique.
 - [styxlab/next-cms-ghost](https://github.com/styxlab/next-cms-ghost) - Publish flaring fast blogs with Next.js and Ghost CMS
 - [mehulmpt/ghost-cms-nextjs](https://github.com/mehulmpt/ghost-cms-nextjs) - 
@@ -10033,6 +10034,7 @@
 - [microsoft/fluentui-react-native](https://github.com/microsoft/fluentui-react-native) - A react-native component library that implements the Fluent Design System.
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [witheve/Eve](https://github.com/witheve/Eve) - Better tools for thought
+- [visgl/react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A client side, offline-first, reactive database for JavaScript Applications
 - [googlemaps/google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
