@@ -1992,6 +1992,7 @@
 
 ## Java 
 
+- [pgjdbc/pgjdbc](https://github.com/pgjdbc/pgjdbc) - Postgresql JDBC Driver
 - [mhewedy/spwrap](https://github.com/mhewedy/spwrap) - Simple Stored Procedure call wrapper with no framework dependencies.
 - [mirkosertic/MogwaiERDesignerNG](https://github.com/mirkosertic/MogwaiERDesignerNG) - Java 2D & 3D visual entity relationship design & modeling (ERD,SQL) for Oracle,MSSQL,Postgres and MySQL
 - [dbfit/dbfit](https://github.com/dbfit/dbfit) - DbFit is a database testing framework that supports easy test-driven development of your database code.
@@ -4422,6 +4423,7 @@
 
 ## PLpgSQL 
 
+- [yogimehla/SQLtoPostgresMigrationScript](https://github.com/yogimehla/SQLtoPostgresMigrationScript) - 
 - [lockedata/mssql_ml_elf](https://github.com/lockedata/mssql_ml_elf) - Execution and Logging Framework (ELF) 🧝‍♀️ for ML models in SQL Server
 - [NikolayS/postgres_dba](https://github.com/NikolayS/postgres_dba) - The missing set of useful tools for Postgres DBAs and all engineers
 - [Azure-Samples/azure-sql-db-fullstack-serverless-kickstart](https://github.com/Azure-Samples/azure-sql-db-fullstack-serverless-kickstart) - Fullstack/Jamstack solution with Vue.js, Azure Functions, Azure Static Web apps and Azure SQL.
@@ -7180,7 +7182,7 @@
 - [Eflores89/nasadata](https://github.com/Eflores89/nasadata) - R package to interact with NASA API's :earth_americas: :earth_africa:
 - [Zoe0409/getDTeval](https://github.com/Zoe0409/getDTeval) - 
 - [Zoe0409/Insurance-Dashboard-with-Rshiny](https://github.com/Zoe0409/Insurance-Dashboard-with-Rshiny) - Source code for https://zoe0409.shinyapps.io/insurance-dashboard-with-rshiny/
-- [lockedata/cransays](https://github.com/lockedata/cransays) - Creates an Overview of CRAN Incoming Submissions :mailbox_with_mail:
+- [r-hub/cransays](https://github.com/r-hub/cransays) - Creates an Overview of CRAN Incoming Submissions :mailbox_with_mail:
 - [helske/changer](https://github.com/helske/changer) - Change R Package Name
 - [Appsilon/shiny.semantic-hackathon-2020](https://github.com/Appsilon/shiny.semantic-hackathon-2020) - Appsilon shiny.semantic hackathon 2020
 - [kwhitehall/Shiny_app_Azure](https://github.com/kwhitehall/Shiny_app_Azure) - End to end deployment of R Shiny in Azure using Docker, Azure Container Registry and Azure Web Apps
@@ -8390,7 +8392,7 @@
 - [mitchelloharawild/icons](https://github.com/mitchelloharawild/icons) - R package to easily insert web icons to RMarkdown
 - [krlmlr/fstplyr](https://github.com/krlmlr/fstplyr) - A dplyr interface to fst
 - [annakrystalli/metadatar](https://github.com/annakrystalli/metadatar) - Tools for creating metadata files for reproducible research.
-- [lockedata/optiRum](https://github.com/lockedata/optiRum) - R Package 📦 of useful helper functions from Optimum Credit :moneybag:
+- [jumpingrivers/optiRum](https://github.com/jumpingrivers/optiRum) - R Package 📦 of useful helper functions :moneybag:
 - [wallaceEcoMod/wallace](https://github.com/wallaceEcoMod/wallace) - an interactive, reproducible, expandible, instructional, and open-source GUI-based app for ecological niche modeling
 - [jennybc/foofactors](https://github.com/jennybc/foofactors) - Make Factors Less Aggravating
 - [dgarmat/expectdata](https://github.com/dgarmat/expectdata) - Test Expectations of a Data Frame
@@ -8616,7 +8618,7 @@
 - [bergant/finstr](https://github.com/bergant/finstr) - :chart_with_upwards_trend: Financial statements in R
 - [ropensci-archive/trackmd](https://github.com/ropensci-archive/trackmd) - :no_entry: ARCHIVED :no_entry: Tools for tracking changes in Markdown format within RStudio
 - [quanteda/readtext](https://github.com/quanteda/readtext) - an R package for reading text files
-- [lockedata/namer](https://github.com/lockedata/namer) - R package :package: for labelling chunks of RMarkdown files! :boom:
+- [jumpingrivers/namer](https://github.com/jumpingrivers/namer) - R package :package: for labelling chunks of RMarkdown files! :boom:
 - [datacarpentry/R-ecology-lesson](https://github.com/datacarpentry/R-ecology-lesson) - Data Analysis and Visualization in R for Ecologists
 - [tidyverse/googlesheets4](https://github.com/tidyverse/googlesheets4) - Google Spreadsheets R API (reboot of the googlesheets package)
 - [r-lib/desc](https://github.com/r-lib/desc) - Manipulate DESCRIPTION files
@@ -9719,6 +9721,7 @@
 
 ## TSQL 
 
+- [yogimehla/SQLServerToPostgresSQLUtility](https://github.com/yogimehla/SQLServerToPostgresSQLUtility) - 
 - [janwangx/RelationalDB](https://github.com/janwangx/RelationalDB) - 
 - [lowlydba/dba-multitool](https://github.com/lowlydba/dba-multitool) - :hammer_and_wrench:  T-SQL scripts for the long haul: optimizing storage, on-the-fly documentation, and general administrative needs.
 - [amtwo/dba-database](https://github.com/amtwo/dba-database) - Database containing DBA helper code and open source software.
