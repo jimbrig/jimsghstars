@@ -383,6 +383,7 @@
 
 ## C# # 
 
+- [SyncfusionExamples/export-data-to-excel-in-c-sharp](https://github.com/SyncfusionExamples/export-data-to-excel-in-c-sharp) - This repository contains Syncfusion Excel library examples that explain how to export data to Excel in C#, from the data table, collection of objects, database, Microsoft Grid controls, array, and CSV. This works without Microsoft Excel Interop.
 - [lowlydba/lowlydba.sqlserver](https://github.com/lowlydba/lowlydba.sqlserver) - :nut_and_bolt: Ansible collection using PowerShell to configure and maintain SQL Server.
 - [Visio-projects/Visio-Shape-Extract](https://github.com/Visio-projects/Visio-Shape-Extract) - :arrow_heading_down: This VSTO Add-In extracts the shape attributes' text from a Microsoft Visio file. It is written as VSTO in C#/VB.NET and VBA.
 - [saveenr/VisioAutomation](https://github.com/saveenr/VisioAutomation) - Automate Microsoft Visio with .NET
@@ -1068,7 +1069,6 @@
 - [codecheckers/register](https://github.com/codecheckers/register) - Register of CODECHECK certificates
 - [steren/awesome-cloudrun](https://github.com/steren/awesome-cloudrun) - 👓 ⏩ A curated list of resources about all things Cloud Run
 - [rstudio/r-docker](https://github.com/rstudio/r-docker) - Docker images for R
-- [rstudio/r-system-requirements](https://github.com/rstudio/r-system-requirements) - System requirements for R packages
 - [maxheld83/shinyapps](https://github.com/maxheld83/shinyapps) - GitHub Action for deploying to shinyapps.io
 - [r-hub/api.app](https://github.com/r-hub/api.app) - The R-hub API (work in progress)
 - [wch/r-debug](https://github.com/wch/r-debug) - Dockerfile with several builds of R for memory/thread debugging
@@ -2064,6 +2064,7 @@
 
 ## JavaScript 
 
+- [SyncfusionExamples/sqlserver-to-mysql-and-postgresql](https://github.com/SyncfusionExamples/sqlserver-to-mysql-and-postgresql) - 
 - [tot0/ObsidianPPV](https://github.com/tot0/ObsidianPPV) - PPV implementation for Obsidian
 - [lowlydba/expressdb.io](https://github.com/lowlydba/expressdb.io) - :books: Guides and references for SQL Server (Express)
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
@@ -2890,6 +2891,7 @@
 - [electraa/GoalKeeper](https://github.com/electraa/GoalKeeper) - R project for keeping track of the goals in a company environment, while constantly getting feedback and tips from colleagues or the project manager.
 - [galtenberg/evernote-random](https://github.com/galtenberg/evernote-random) - Use evernote API as a logged-in user - react and express project
 - [att/rcloud](https://github.com/att/rcloud) - Collaborative data analysis and visualization
+- [rstudio/r-system-requirements](https://github.com/rstudio/r-system-requirements) - System requirements for R packages
 - [adobe/brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
@@ -3648,7 +3650,7 @@
 - [builtbybel/CloneApp](https://github.com/builtbybel/CloneApp) - 📦Easily Backup & Restore Windows Programs Settings
 - [MajorGeek/MajorGeeks-Windows-Tweaks](https://github.com/MajorGeek/MajorGeeks-Windows-Tweaks) - MajorGeeks Windows Tweaks contains well over 200  registry, PowerShell, Visual Basic, and batch files to enable tweaks and hidden features in Windows 10, 8, and 7 for any skill level.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-- [fanfan54/dotfiles-windows](https://github.com/fanfan54/dotfiles-windows) - :gear: The dotfiles (configuration files) and Chocolatey packages I use on Windows environments, forked from the dotfiles of https://github.com/jayharris/dotfiles-windows. Built in PowerShell.
+- [e24zv55drn5og32gl3zdi4/dotfiles-windows](https://github.com/e24zv55drn5og32gl3zdi4/dotfiles-windows) - :gear: The dotfiles (configuration files) and Chocolatey packages I use on Windows environments, forked from the dotfiles of https://github.com/jayharris/dotfiles-windows. Built in PowerShell.
 - [scottdorman/microsoft-terminal-settings](https://github.com/scottdorman/microsoft-terminal-settings) - A collection of profiles, color schemes and other settings for Windows Terminal
 - [StefanScherer/windows-docker-desktop-box](https://github.com/StefanScherer/windows-docker-desktop-box) - Vagrant box to test Docker Desktop with Linux/Windows containers
 - [yosukes-dev/one-dark-windows-terminal](https://github.com/yosukes-dev/one-dark-windows-terminal) - One Dark Color Scheme for Windows Terminal inspired by Atom's One Dark and One Light theme.
@@ -4446,6 +4448,7 @@
 
 ## Perl 
 
+- [dalibo/sqlserver2pgsql](https://github.com/dalibo/sqlserver2pgsql) - Migration tool to convert a Microsoft SQL Server Database into a PostgreSQL database, as automatically as possible
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [trapd00r/ls--](https://github.com/trapd00r/ls--) - ls on steroids
 - [midenok/stuff-windows](https://github.com/midenok/stuff-windows) - Windows-related setup and utilities stuff: scripts, instructions, etc.
@@ -5251,7 +5254,7 @@
 - [AlexIoannides/py-package-template](https://github.com/AlexIoannides/py-package-template) - Python package template project for kick-starting new Python projects.
 - [oegedijk/explainerdashboard](https://github.com/oegedijk/explainerdashboard) - Quickly build Explainable AI dashboards that show the inner workings of so-called "blackbox" machine learning models.
 - [actuarial-tools/py-datatables](https://github.com/actuarial-tools/py-datatables) - Framework agnostic data tables using SQLAlchemy.
-- [stitchfix/hamilton](https://github.com/stitchfix/hamilton) - Library for creating dataframes from functions.
+- [stitchfix/hamilton](https://github.com/stitchfix/hamilton) - A scalable general purpose micro-framework for defining dataflows. You can use it to create dataframes, numpy matrices, python objects, ML models, etc.
 - [iemeka/actsciArchive-unilag](https://github.com/iemeka/actsciArchive-unilag) - A repository to store online study materials. Actuarial Science, University Of Lagos
 - [ets-labs/python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python
 - [shawnbrown/datatest](https://github.com/shawnbrown/datatest) - Tools for test driven data-wrangling and data validation.
@@ -5586,7 +5589,6 @@
 - [cascadium/wsl-windows-toolbar-launcher](https://github.com/cascadium/wsl-windows-toolbar-launcher) - Adds linux GUI application menu to a windows toolbar
 - [mortensteenrasmussen/docker-registry-manifest-cleanup](https://github.com/mortensteenrasmussen/docker-registry-manifest-cleanup) - Cleans up docker registry by removing untagged manifests from the registry
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [jorisroovers/gitlint](https://github.com/jorisroovers/gitlint) - Linting for your git commit messages
 - [jbernard/dotfiles](https://github.com/jbernard/dotfiles) - Dotfile management made easy
 - [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Opensource, compact, and material-designed cursor set.
@@ -5644,6 +5646,7 @@
 - [puneet29/cluttermanager](https://github.com/puneet29/cluttermanager) - Sort out your files into folders using Clutter Manager
 - [Geekdude/reorder](https://github.com/Geekdude/reorder) - Script to rename, reorder, add, and remove files in a directory with a numerical naming scheme.
 - [Dhirru12/Windows-File-Organizer](https://github.com/Dhirru12/Windows-File-Organizer) - Will sort files into folders based on file type
+- [qks1lver/filetracker](https://github.com/qks1lver/filetracker) - Super lightweight program to keep track of files you already have
 - [qks1lver/filetracker](https://github.com/qks1lver/filetracker) - Super lightweight program to keep track of files you already have
 - [smahesh29/File-Sorter](https://github.com/smahesh29/File-Sorter) - This is a python program for sorting files.
 - [westurner/pgs](https://github.com/westurner/pgs) - Serve a directory or a git revision over HTTP with Bottle and WSGI; and try_files $1.html https://pypi.python.org/pypi/pgs
@@ -9721,6 +9724,7 @@
 
 ## TSQL 
 
+- [LuanAlbuq/Database_Design](https://github.com/LuanAlbuq/Database_Design) - Projeto criado na linguagem SQL. O projeto contém:  Um modelo em T-SQL construído no Microsoft SQL server e um modelo em PostgreSQL construído no pgAdmin4
 - [yogimehla/SQLServerToPostgresSQLUtility](https://github.com/yogimehla/SQLServerToPostgresSQLUtility) - 
 - [janwangx/RelationalDB](https://github.com/janwangx/RelationalDB) - 
 - [lowlydba/dba-multitool](https://github.com/lowlydba/dba-multitool) - :hammer_and_wrench:  T-SQL scripts for the long haul: optimizing storage, on-the-fly documentation, and general administrative needs.
