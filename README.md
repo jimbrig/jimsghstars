@@ -782,6 +782,7 @@
 
 ## CSS 
 
+- [JPHaus/data-engineering-wiki](https://github.com/JPHaus/data-engineering-wiki) - The official wiki for the Data Engineering community.
 - [choonghyunryu/docker-shinyserver](https://github.com/choonghyunryu/docker-shinyserver) - Introduce shiny server with docker
 - [microsoft/techcasestudies](https://github.com/microsoft/techcasestudies) - A GitHub Pages repo used to document Microsoft solution evidences. TEs: Do not create pull requests here; see https://github.com/Microsoft/techcasestudies#hello.
 - [Rainbell129/Obsidian-Homepage](https://github.com/Rainbell129/Obsidian-Homepage) - A dashboard for your obsidian vault.
@@ -1787,6 +1788,7 @@
 - [daattali/daattali.github.io](https://github.com/daattali/daattali.github.io) - Dean Attali's website - R/Shiny Consultant
 - [epwalsh/docker-shiny](https://github.com/epwalsh/docker-shiny) - :whale: A Docker image for an R Shiny server with username + password authentication :closed_lock_with_key:
 - [marton-balazs-kovacs/tenzing](https://github.com/marton-balazs-kovacs/tenzing) - tenzing: documening contributorship with CRediT
+- [scibrokes/owner](https://github.com/scibrokes/owner) - Personal CV
 - [stisla/stisla](https://github.com/stisla/stisla) - Free Bootstrap Admin Template
 - [cobiwave/simplefolio](https://github.com/cobiwave/simplefolio) - ⚡️ A minimal portfolio template for Developers
 - [tclavelle/dplyr-tidyr-tutorial](https://github.com/tclavelle/dplyr-tidyr-tutorial) - Tutorial on dplyr and tidyr packages for Eco-Data-Sci group
@@ -2351,7 +2353,7 @@
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [APIDevTools/swagger-parser](https://github.com/APIDevTools/swagger-parser) - Swagger 2.0 and OpenAPI 3.0 parser/validator
 - [APIDevTools/swagger-cli](https://github.com/APIDevTools/swagger-cli) - Swagger 2.0 and OpenAPI 3.0 command-line tool
-- [lorenwest/node-config](https://github.com/lorenwest/node-config) - Node.js Application Configuration
+- [node-config/node-config](https://github.com/node-config/node-config) - Node.js Application Configuration
 - [timarney/react-app-rewired](https://github.com/timarney/react-app-rewired) - Override create-react-app webpack configs without ejecting
 - [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript) - Algorithms implemented in Javascript for beginners, following best practices.
 - [Make-Lemonade/iconicicons](https://github.com/Make-Lemonade/iconicicons) - Free “do wtf you want with” pixel-perfect icons.
@@ -2866,7 +2868,6 @@
 - [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
 - [wleepang/shiny-pager-ui](https://github.com/wleepang/shiny-pager-ui) - A paging input for R/Shiny applications
 - [lawalter/r-shiny-electron-app](https://github.com/lawalter/r-shiny-electron-app) - Guide to desktop app creation using R Shiny and Electron
-- [scibrokes/owner](https://github.com/scibrokes/owner) - Personal CV
 - [gyang274/ygdashboard](https://github.com/gyang274/ygdashboard) - A modified shinydashboard to incorporate more functionality from adminLTE
 - [caub/github-clean-forks](https://github.com/caub/github-clean-forks) - :octocat: Manage your unused forks
 - [hakanu/pervane](https://github.com/hakanu/pervane) - Plain text file based note taking and knowledge base building tool, markdown editor, simple browser IDE.
@@ -3083,6 +3084,7 @@
 
 ## Jsonnet 
 
+- [monitoringartist/grafana-aws-cloudwatch-dashboards](https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards) - :cloud: 30+ Grafana dashboards for AWS CloudWatch metrics: EC2, Lambda, S3, ELB, EMR, EBS, SNS, SES, SQS, RDS, EFS, ElastiCache, Billing, API Gateway, VPN, Step Functions, Route 53, CodeBuild, ...
 - [google/jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
 
 ## Julia 
@@ -3316,6 +3318,7 @@
 
 ## Others 
 
+- [Datavault-UK/dbtvault](https://github.com/Datavault-UK/dbtvault) - A free to use dbt package for creating and loading Data Vault 2.0 compliant Data Warehouses (powered by dbt, an open source data engineering tool,  registered trademark of dbt Labs)
 - [chenlexing/awesome-databases](https://github.com/chenlexing/awesome-databases) - 按分类记录与数据库相关的资料
 - [snird/awesome-data-engineering-learning](https://github.com/snird/awesome-data-engineering-learning) - Awesome list of data engineering learning materials by subject
 - [joshnh/Git-Commands](https://github.com/joshnh/Git-Commands) - A list of commonly used Git commands
@@ -5647,7 +5650,6 @@
 - [Geekdude/reorder](https://github.com/Geekdude/reorder) - Script to rename, reorder, add, and remove files in a directory with a numerical naming scheme.
 - [Dhirru12/Windows-File-Organizer](https://github.com/Dhirru12/Windows-File-Organizer) - Will sort files into folders based on file type
 - [qks1lver/filetracker](https://github.com/qks1lver/filetracker) - Super lightweight program to keep track of files you already have
-- [qks1lver/filetracker](https://github.com/qks1lver/filetracker) - Super lightweight program to keep track of files you already have
 - [smahesh29/File-Sorter](https://github.com/smahesh29/File-Sorter) - This is a python program for sorting files.
 - [westurner/pgs](https://github.com/westurner/pgs) - Serve a directory or a git revision over HTTP with Bottle and WSGI; and try_files $1.html https://pypi.python.org/pypi/pgs
 - [Keeper-Security/Commander](https://github.com/Keeper-Security/Commander) - Keeper Commander
@@ -5842,11 +5844,13 @@
 
 ## R 
 
+- [insightsengineering/r.pkg.template](https://github.com/insightsengineering/r.pkg.template) - An opinionated R package template with CI/CD built-in
+- [pharmaverse/admiral](https://github.com/pharmaverse/admiral) - ADaM in R Asset Library
 - [josephlewis/Defended_Small_Towns](https://github.com/josephlewis/Defended_Small_Towns) - 
 - [jimbrig/pkgdev](https://github.com/jimbrig/pkgdev) - Suite of Helpers for the R Package Developer
 - [Pakillo/grateful](https://github.com/Pakillo/grateful) - Facilitate citation of R packages
 - [lockedata/shiny.AADB2C](https://github.com/lockedata/shiny.AADB2C) - Provides Shiny helper functions for Azure Active Directory B2C authentication
-- [lockedata/opentrainingcontent](https://github.com/lockedata/opentrainingcontent) - An MIT & CC BY-NC 4.0 licensed repository of training materials from Locke Data
+- [lockedata/opentrainingcontent](https://github.com/lockedata/opentrainingcontent) - An MIT & CCBY4.0 licensed repository of training materials from Locke Data
 - [matloff/polyreg](https://github.com/matloff/polyreg) - 
 - [cran/RODBC](https://github.com/cran/RODBC) - :exclamation: This is a read-only mirror of the CRAN R package repository.  RODBC — ODBC Database Access
 - [jonkatz2/shinyAddOns](https://github.com/jonkatz2/shinyAddOns) - A collection of helper functions for RStudio's 'shiny' package
@@ -7226,7 +7230,7 @@
 - [asadpervez123/mandalorian](https://github.com/asadpervez123/mandalorian) - Analyzing the reviews of The Mandalorian: Season 1 using Natural Language Processing in R and providing recommendations to The Walt Disney Company for Season 2.
 - [datavizvg/vegviz](https://github.com/datavizvg/vegviz) - R tools for dataviz.vg
 - [easystats/insight](https://github.com/easystats/insight) - :crystal_ball: Easy access to model information for various model objects
-- [ColinFay/brochure](https://github.com/ColinFay/brochure) - [WIP - do not use] Natively Multipage Shiny Apps
+- [ColinFay/brochure](https://github.com/ColinFay/brochure) - [WIP] Natively Multipage Shiny Apps
 - [zumbov2/colorizer](https://github.com/zumbov2/colorizer) - An R wrapper for the DeOldify image colorization API on DeepAI.
 - [karlpolen/basicfinancial](https://github.com/karlpolen/basicfinancial) - 
 - [DataONEorg/rdataone](https://github.com/DataONEorg/rdataone) - R package for reading and writing data at DataONE data repositories
@@ -9224,6 +9228,7 @@
 
 ## Shell 
 
+- [calogica/dbt-expectations](https://github.com/calogica/dbt-expectations) - Port(ish) of Great Expectations to dbt test macros
 - [microsoft/appcenter](https://github.com/microsoft/appcenter) - Central repository for App Center open source resources and planning.
 - [richardtbell/zsh-twoLine-theme](https://github.com/richardtbell/zsh-twoLine-theme) - 
 - [presstofan/shinyproxy-docker-compose-demo](https://github.com/presstofan/shinyproxy-docker-compose-demo) - A template for deploying R Shiny apps with ShinyProxy and docker-compose
@@ -9695,6 +9700,7 @@
 
 ## Svelte 
 
+- [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Evidence enables analysts to deliver a polished business intelligence system using SQL and markdown
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [badarsebard/terraforge](https://github.com/badarsebard/terraforge) - Graphical Terraform configuration generator
 - [sw-yx/swyxdotio](https://github.com/sw-yx/swyxdotio) - swyxdotio
@@ -9820,6 +9826,8 @@
 
 ## TypeScript 
 
+- [tellery/tellery](https://github.com/tellery/tellery) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
+- [lightdash/lightdash](https://github.com/lightdash/lightdash) - An open source alternative to Looker built using dbt. Made for analysts ❤️
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [Mara-Li/obsidian-metacopy](https://github.com/Mara-Li/obsidian-metacopy) - A simple way to copy a frontmatter key in obsidian
 - [valentine195/obsidian-markdown-attributes](https://github.com/valentine195/obsidian-markdown-attributes) - Add attributes to elements in Obsidian
