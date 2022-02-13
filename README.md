@@ -1848,7 +1848,6 @@
 - [januz/drakepkg](https://github.com/januz/drakepkg) - Reproducible Research with a Packaged `drake` Workflow
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [jgm/pandoc-templates](https://github.com/jgm/pandoc-templates) - Templates for pandoc, tagged to release
-- [JohnCoene/firebase](https://github.com/JohnCoene/firebase) - Google FIrebase for shiny
 - [heggesethlab/ClusterLongCat-mirror](https://github.com/heggesethlab/ClusterLongCat-mirror) - 
 - [SurgicalInformatics/encryptr](https://github.com/SurgicalInformatics/encryptr) - Encrypt and decrypt data frame or tibble columns using the strong RSA public/private keys
 - [ProQuestionAsker/websiteSource](https://github.com/ProQuestionAsker/websiteSource) - The source files for my github/blogdown website
@@ -2146,7 +2145,7 @@
 - [julien-c/epub](https://github.com/julien-c/epub) - node.js epub reader
 - [seladb/StarTrack-js](https://github.com/seladb/StarTrack-js) - GitHub star history and stats - based on JavaScript only!
 - [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
-- [SkepticMystic/breadcrumbs](https://github.com/SkepticMystic/breadcrumbs) - Visualise a custom hierarchy in your Obsidian vault
+- [SkepticMystic/breadcrumbs](https://github.com/SkepticMystic/breadcrumbs) - Visualise a custom hierarchy in your Obsidian vault. API: https://skepticmystic.github.io/breadcrumbs/
 - [alexjv89/echoalex_com](https://github.com/alexjv89/echoalex_com) - Source code for echoalex.com
 - [switchless-io/docs](https://github.com/switchless-io/docs) - 
 - [alexjv89/markdown-it-obsidian](https://github.com/alexjv89/markdown-it-obsidian) - Convert obsidian wiki links to markdown links
@@ -3318,6 +3317,8 @@
 
 ## Others 
 
+- [willdebras/juliascripts](https://github.com/willdebras/juliascripts) - Scripts to teach myself Julia
+- [jjallaire/hopr](https://github.com/jjallaire/hopr) - This is the development site for Hands-On Programming with R, a book that teaches how to program in R, with hands-on examples. Read the book at https://rstudio-education.github.io/hopr.
 - [Datavault-UK/dbtvault](https://github.com/Datavault-UK/dbtvault) - A free to use dbt package for creating and loading Data Vault 2.0 compliant Data Warehouses (powered by dbt, an open source data engineering tool,  registered trademark of dbt Labs)
 - [chenlexing/awesome-databases](https://github.com/chenlexing/awesome-databases) - 按分类记录与数据库相关的资料
 - [snird/awesome-data-engineering-learning](https://github.com/snird/awesome-data-engineering-learning) - Awesome list of data engineering learning materials by subject
@@ -4465,6 +4466,7 @@
 
 ## PowerShell 
 
+- [microsoftgraph/powershell-intune-samples](https://github.com/microsoftgraph/powershell-intune-samples) - This repository of PowerShell sample scripts show how to access Intune service resources. They demonstrate this by making HTTPS RESTful API requests to the Microsoft Graph API from PowerShell.
 - [danielbohannon/Invoke-CradleCrafter](https://github.com/danielbohannon/Invoke-CradleCrafter) - PowerShell Remote Download Cradle Generator & Obfuscator
 - [sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio](https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio) - Microsoft Integration, Azure, Power Platform, Office 365 and much more Stencils Pack it’s a Visio package that contains fully resizable Visio shapes (symbols/icons) that will help you to visually represent On-premise, Cloud or Hybrid Integration and Enterprise architectures scenarios (BizTalk Server, API Management, Logic Apps, Service Bus, Event Hub…), solutions diagrams and features or systems that use Microsoft Azure and related cloud and on-premises technologies in Visio 2016/2013
 - [mikemaccana/powershell-profile](https://github.com/mikemaccana/powershell-profile) - Mike's Powershell Profile (and how to set up Windows console if you've been using *nix for 20 years)
@@ -5112,6 +5114,7 @@
 
 ## Python 
 
+- [seanbreckenridge/browserexport](https://github.com/seanbreckenridge/browserexport) - backup and parse browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
 - [app-generator/flask-react-soft-dashboard](https://github.com/app-generator/flask-react-soft-dashboard) - Flask React - Soft Dashboard (Open-source) | AppSeed.us
 - [v1a0/sqllex](https://github.com/v1a0/sqllex) - Better than sqlite3
 - [ssine/pptx2md](https://github.com/ssine/pptx2md) - a pptx to markdown converter
@@ -5808,7 +5811,7 @@
 - [renerocksai/sublimeless_zk](https://github.com/renerocksai/sublimeless_zk) - A note taking app, Markdown editor, and text browser, featuring ID based wiki style links, and #tags, intended for zettelkasten method users. Loaded with tons of features like sophisticated tag search, note transclusion, support for note templates, bibliography support, etc. to make working in your Zettelkasten a joy 😄
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [renerocksai/sublime_zk](https://github.com/renerocksai/sublime_zk) - A SublimeText3 package featuring ID based wiki style links, and #tags, intended for zettelkasten method users. Loaded with tons of features like inline image display, sophisticated tag search, note transclusion features, support for note templates, bibliography support, support for multiple panes, etc. to make working in your Zettelkasten a joy :smile:.
-- [brettkromkamp/contextualise](https://github.com/brettkromkamp/contextualise) - Contextualise is a simple but effective tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
+- [brettkromkamp/contextualise](https://github.com/brettkromkamp/contextualise) - Contextualise is an effective tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
 - [xutingting/two_phase_water_pricing_model](https://github.com/xutingting/two_phase_water_pricing_model) - This repository contains experiment code for paper "A two-phase model for trade matching and price setting in double auction water markets"
 - [joanbm/full-offline-backup-for-todoist](https://github.com/joanbm/full-offline-backup-for-todoist) - Small, dependency-less Python script to make a backup of all Todoist tasks and attachments that is accessible offline
 - [Cloud-Architects/cloudiscovery](https://github.com/Cloud-Architects/cloudiscovery) - The tool to help you discover resources in the cloud environment
@@ -5844,6 +5847,8 @@
 
 ## R 
 
+- [willdebras/uspsr](https://github.com/willdebras/uspsr) - quick packaged function to get status of usps tracking number
+- [willdebras/civiclookup](https://github.com/willdebras/civiclookup) - publishing base mobile app for pulling civic information
 - [insightsengineering/r.pkg.template](https://github.com/insightsengineering/r.pkg.template) - An opinionated R package template with CI/CD built-in
 - [pharmaverse/admiral](https://github.com/pharmaverse/admiral) - ADaM in R Asset Library
 - [josephlewis/Defended_Small_Towns](https://github.com/josephlewis/Defended_Small_Towns) - 
@@ -7931,6 +7936,7 @@
 - [r-lib/roxygen2](https://github.com/r-lib/roxygen2) - Generate R package documentation from inline R comments
 - [satijalab/seurat-wrappers](https://github.com/satijalab/seurat-wrappers) - Community-provided extensions to Seurat
 - [Bioconductor/BiocStyle](https://github.com/Bioconductor/BiocStyle) - Issues and pull requests for BiocStyle should go here.
+- [JohnCoene/firebase](https://github.com/JohnCoene/firebase) - Google FIrebase for shiny
 - [gluc/data.tree](https://github.com/gluc/data.tree) - General Purpose Hierarchical Data Structure for R
 - [jsta/nhdR](https://github.com/jsta/nhdR) - R interface to the National Hydrography Dataset :droplet:
 - [anngvu/DIVE](https://github.com/anngvu/DIVE) - R package
@@ -9826,6 +9832,7 @@
 
 ## TypeScript 
 
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [tellery/tellery](https://github.com/tellery/tellery) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
 - [lightdash/lightdash](https://github.com/lightdash/lightdash) - An open source alternative to Looker built using dbt. Made for analysts ❤️
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
