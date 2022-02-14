@@ -782,6 +782,7 @@
 
 ## CSS 
 
+- [A/obsidian-blog-theme](https://github.com/A/obsidian-blog-theme) - 
 - [JPHaus/data-engineering-wiki](https://github.com/JPHaus/data-engineering-wiki) - The official wiki for the Data Engineering community.
 - [choonghyunryu/docker-shinyserver](https://github.com/choonghyunryu/docker-shinyserver) - Introduce shiny server with docker
 - [microsoft/techcasestudies](https://github.com/microsoft/techcasestudies) - A GitHub Pages repo used to document Microsoft solution evidences. TEs: Do not create pull requests here; see https://github.com/Microsoft/techcasestudies#hello.
@@ -1444,7 +1445,7 @@
 - [meeuw/unattended-windows-10](https://github.com/meeuw/unattended-windows-10) - Packer templates to install Windows 10 Evaluation using the qemu/kvm builder.
 - [terraform-google-modules/terraform-google-bootstrap](https://github.com/terraform-google-modules/terraform-google-bootstrap) - A module for bootstrapping Terraform usage in a new GCP organization.
 - [dhoer/terraform_examples](https://github.com/dhoer/terraform_examples) - Terraform AWS Windows examples
-- [marcinbojko/hv-packer](https://github.com/marcinbojko/hv-packer) - Hyper-V Generation 2 Packer Templates for Windows 2016/2019, Windows Server and CentOS 7.x/AlmaLinux 8.x/RockyLinux 8.x
+- [marcinbojko/hv-packer](https://github.com/marcinbojko/hv-packer) - Hyper-V Generation 2 Packer Templates for Windows 2016/2019, Windows Server and CentOS 7.x/AlmaLinux 8.x/RockyLinux 8.x/OracleLinux 8.x
 - [GoogleCloudPlatform/solutions-terraform-cloudbuild-gitops](https://github.com/GoogleCloudPlatform/solutions-terraform-cloudbuild-gitops) - 
 - [ryboe/private-ip-cloud-sql-db](https://github.com/ryboe/private-ip-cloud-sql-db) - An example set of terraform files for deploying a Cloud SQL DB with a private IP address only
 - [robwleack/terraform-gcp-keys-example](https://github.com/robwleack/terraform-gcp-keys-example) - An example of how you could define cryptographic keys and bindings in a complex object using for_each
@@ -1462,6 +1463,7 @@
 
 ## HTML 
 
+- [A/shuvalov.info](https://github.com/A/shuvalov.info) - My blog
 - [r-devel/r-dev-web](https://github.com/r-devel/r-dev-web) - Mirror of the r-dev-web svn repository
 - [microsoft/MCW-Migrating-SQL-databases-to-Azure](https://github.com/microsoft/MCW-Migrating-SQL-databases-to-Azure) - MCW Migrating SQL databases to Azure
 - [lockedata/Data-Literacy](https://github.com/lockedata/Data-Literacy) - A free to re-use gentle introduction to data literacy and Power BI
@@ -1533,7 +1535,7 @@
 - [gtm19/renv-introduction](https://github.com/gtm19/renv-introduction) - A presentation introducing renv for R project environment management
 - [JennyLeeStat/CASwR](https://github.com/JennyLeeStat/CASwR) - Computational Actuarial Science with R
 - [alex21th/actuarial-finance](https://github.com/alex21th/actuarial-finance) - Notebooks y entregables de proyecto de las tareas de laboratorio realizadas en la asignatura Métodos Estadísticos para Finanzas y Seguros del Grado en Ciencia e Ingeniería de Datos. 📈
-- [JoeKnittel/joeknittel.github.io](https://github.com/JoeKnittel/joeknittel.github.io) - A Blog Documenting My Adventures in Actuarial Science (2021)
+- [JoeKnittel/joeknittel.github.io](https://github.com/JoeKnittel/joeknittel.github.io) - A Blog Documenting My Adventures in Actuarial Science (2021-2022)
 - [katrienantonio/workshop-loss-reserv-fraud](https://github.com/katrienantonio/workshop-loss-reserv-fraud) - Course material for a workshop on loss modelling, reserving and insurance fraud analytics
 - [robbie-sp/robbie-sp.github.io](https://github.com/robbie-sp/robbie-sp.github.io) - Rob's blog
 - [guillaumebriday/traefik-docker-ansible](https://github.com/guillaumebriday/traefik-docker-ansible) - 🐳 🐹  This is an Ansible playbook to install multiple Web applications on a single Ubuntu server with Docker and Traefik.
@@ -2065,6 +2067,8 @@
 
 ## JavaScript 
 
+- [spences10/settings](https://github.com/spences10/settings) - Settings, for when things die and you can't quite remember how things were 🙃
+- [d3/d3-force](https://github.com/d3/d3-force) - Force-directed graph layout using velocity Verlet integration.
 - [SyncfusionExamples/sqlserver-to-mysql-and-postgresql](https://github.com/SyncfusionExamples/sqlserver-to-mysql-and-postgresql) - 
 - [tot0/ObsidianPPV](https://github.com/tot0/ObsidianPPV) - PPV implementation for Obsidian
 - [lowlydba/expressdb.io](https://github.com/lowlydba/expressdb.io) - :books: Guides and references for SQL Server (Express)
@@ -3317,6 +3321,7 @@
 
 ## Others 
 
+- [Wabri/Daje](https://github.com/Wabri/Daje) - Stop using install.sh! Start using install.yml! DAJE...
 - [willdebras/juliascripts](https://github.com/willdebras/juliascripts) - Scripts to teach myself Julia
 - [jjallaire/hopr](https://github.com/jjallaire/hopr) - This is the development site for Hands-On Programming with R, a book that teaches how to program in R, with hands-on examples. Read the book at https://rstudio-education.github.io/hopr.
 - [Datavault-UK/dbtvault](https://github.com/Datavault-UK/dbtvault) - A free to use dbt package for creating and loading Data Vault 2.0 compliant Data Warehouses (powered by dbt, an open source data engineering tool,  registered trademark of dbt Labs)
@@ -4466,6 +4471,7 @@
 
 ## PowerShell 
 
+- [rkitover/windows-dev-guide](https://github.com/rkitover/windows-dev-guide) - Native Windows Development Environment Setup Guide for Linux Users.
 - [microsoftgraph/powershell-intune-samples](https://github.com/microsoftgraph/powershell-intune-samples) - This repository of PowerShell sample scripts show how to access Intune service resources. They demonstrate this by making HTTPS RESTful API requests to the Microsoft Graph API from PowerShell.
 - [danielbohannon/Invoke-CradleCrafter](https://github.com/danielbohannon/Invoke-CradleCrafter) - PowerShell Remote Download Cradle Generator & Obfuscator
 - [sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio](https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio) - Microsoft Integration, Azure, Power Platform, Office 365 and much more Stencils Pack it’s a Visio package that contains fully resizable Visio shapes (symbols/icons) that will help you to visually represent On-premise, Cloud or Hybrid Integration and Enterprise architectures scenarios (BizTalk Server, API Management, Logic Apps, Service Bus, Event Hub…), solutions diagrams and features or systems that use Microsoft Azure and related cloud and on-premises technologies in Visio 2016/2013
@@ -5114,6 +5120,7 @@
 
 ## Python 
 
+- [A/obsidian-blog](https://github.com/A/obsidian-blog) - Work-in-Progress static site/blog generator for obsidian.md
 - [seanbreckenridge/browserexport](https://github.com/seanbreckenridge/browserexport) - backup and parse browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
 - [app-generator/flask-react-soft-dashboard](https://github.com/app-generator/flask-react-soft-dashboard) - Flask React - Soft Dashboard (Open-source) | AppSeed.us
 - [v1a0/sqllex](https://github.com/v1a0/sqllex) - Better than sqlite3
@@ -5847,6 +5854,7 @@
 
 ## R 
 
+- [etiennebacher/example-shiny-callr](https://github.com/etiennebacher/example-shiny-callr) - 
 - [willdebras/uspsr](https://github.com/willdebras/uspsr) - quick packaged function to get status of usps tracking number
 - [willdebras/civiclookup](https://github.com/willdebras/civiclookup) - publishing base mobile app for pulling civic information
 - [insightsengineering/r.pkg.template](https://github.com/insightsengineering/r.pkg.template) - An opinionated R package template with CI/CD built-in
@@ -9832,6 +9840,7 @@
 
 ## TypeScript 
 
+- [A/repo-manager](https://github.com/A/repo-manager) - Opinionated wrapper around git clone, that keeps all your repos in structure
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [tellery/tellery](https://github.com/tellery/tellery) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
 - [lightdash/lightdash](https://github.com/lightdash/lightdash) - An open source alternative to Looker built using dbt. Made for analysts ❤️
@@ -10276,6 +10285,7 @@
 
 ## Vim script 
 
+- [A/.dotfiles](https://github.com/A/.dotfiles) - configs and utils
 - [rhysd/dogfiles](https://github.com/rhysd/dogfiles) - dog + dotfiles = dogfiles
 - [jakewies/.dotfiles](https://github.com/jakewies/.dotfiles) - My portable development environment
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
