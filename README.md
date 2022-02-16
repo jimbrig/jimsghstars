@@ -292,7 +292,7 @@
 - [rsa9000/regfanalysistools](https://github.com/rsa9000/regfanalysistools) - Low-level MS Windows registry files analysis tools
 - [janbodnar/Windows-API-examples](https://github.com/janbodnar/Windows-API-examples) - Sources from the ZetCode's Windows API tutorial
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
-- [EnterpriseDB/repmgr](https://github.com/EnterpriseDB/repmgr) - A lightweight replication manager for PostgreSQL (Postgres) - latest version 5.3.0 (2021-10-12)
+- [EnterpriseDB/repmgr](https://github.com/EnterpriseDB/repmgr) - A lightweight replication manager for PostgreSQL (Postgres) - latest version 5.3.1 (2022-02-15)
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
@@ -365,6 +365,7 @@
 - [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
 - [r-lib/gert](https://github.com/r-lib/gert) - Simple git client for R
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter, and the most universal runtime
+- [SwiftLaTeX/SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX) - SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor
 - [richfitz/thor](https://github.com/richfitz/thor) - :zap::computer::zap: R client for the Lightning Memory-Mapped Database
 - [ropensci/writexl](https://github.com/ropensci/writexl) - Portable, light-weight data frame to xlsx exporter for R
 - [r-lib/fs](https://github.com/r-lib/fs) - Provide cross platform file operations based on libuv.
@@ -383,6 +384,7 @@
 
 ## C# # 
 
+- [SocialExplorer/FastDBF](https://github.com/SocialExplorer/FastDBF) - A free and open source .net library for reading/writing DBF files. Fast and easy to use. Supports writing to forward-only streams which makes it easy to write dbf files in a web server environment.
 - [SyncfusionExamples/export-data-to-excel-in-c-sharp](https://github.com/SyncfusionExamples/export-data-to-excel-in-c-sharp) - This repository contains Syncfusion Excel library examples that explain how to export data to Excel in C#, from the data table, collection of objects, database, Microsoft Grid controls, array, and CSV. This works without Microsoft Excel Interop.
 - [lowlydba/lowlydba.sqlserver](https://github.com/lowlydba/lowlydba.sqlserver) - :nut_and_bolt: Ansible collection using PowerShell to configure and maintain SQL Server.
 - [Visio-projects/Visio-Shape-Extract](https://github.com/Visio-projects/Visio-Shape-Extract) - :arrow_heading_down: This VSTO Add-In extracts the shape attributes' text from a Microsoft Visio file. It is written as VSTO in C#/VB.NET and VBA.
@@ -756,7 +758,6 @@
 - [intel/hyperscan](https://github.com/intel/hyperscan) - High-performance regular expression matching library
 - [tidyverse/readxl](https://github.com/tidyverse/readxl) - Read excel files (.xls and .xlsx) into R 🖇
 - [ropensci/qpdf](https://github.com/ropensci/qpdf) - Split, Combine and Compress PDF files
-- [SwiftLaTeX/SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX) - SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor
 - [troldal/OpenXLSX](https://github.com/troldal/OpenXLSX) - A C++ library for reading, writing, creating and modifying Microsoft Excel® (.xlsx) files.
 - [paleolimbot/rlibpal](https://github.com/paleolimbot/rlibpal) - Label placement using libpal
 - [TysonStanley/tidyfast](https://github.com/TysonStanley/tidyfast) - Fast and efficient alternatives to tidyr functions built on data.table #rdatatable #rstats
@@ -802,6 +803,7 @@
 - [ericgregorich/Obsidian-Publish-CSS](https://github.com/ericgregorich/Obsidian-Publish-CSS) - My custom CSS for Obsidian Publish
 - [chad-bennett/obsidian-publish-css](https://github.com/chad-bennett/obsidian-publish-css) - the publish.css file for my personal website
 - [selfire1/obsidian-publish-css](https://github.com/selfire1/obsidian-publish-css) - The CSS for my Obsdian publish site.
+- [jimbrig/dotfiles](https://github.com/jimbrig/dotfiles) - 
 - [Mara-Li/Obsidian-Snippet-collection](https://github.com/Mara-Li/Obsidian-Snippet-collection) - A collection of snippet to customize obsidian
 - [virtualstaticvoid/virtualstaticvoid.github.io](https://github.com/virtualstaticvoid/virtualstaticvoid.github.io) - My Github Pages
 - [cloudyr/cloudyr.github.io](https://github.com/cloudyr/cloudyr.github.io) - the cloudyr project website
@@ -3167,7 +3169,6 @@
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [mml-book/mml-book.github.io](https://github.com/mml-book/mml-book.github.io) - Companion webpage to the book "Mathematics For Machine Learning"
 - [ramnathv/template-live-webinar-sql](https://github.com/ramnathv/template-live-webinar-sql) - 
-- [Non-Contradiction/JuliaCall](https://github.com/Non-Contradiction/JuliaCall) - Embed Julia in R
 - [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 Hugo Academic Theme 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify.
 - [jhrcook/academic-kickstart](https://github.com/jhrcook/academic-kickstart) - Personal website made user Academic & Hugo, hosted on Netlify
 - [DiscoveryDNA/team_neural_network](https://github.com/DiscoveryDNA/team_neural_network) - Neural Network of enhancer regions
@@ -3250,7 +3251,6 @@
 - [PostgresApp/PostgresApp](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac
 - [jnovack/git-checkout](https://github.com/jnovack/git-checkout) - Basic git checkout builder or side container for workflows.
 - [eddiejaoude/book-open-source-tips](https://github.com/eddiejaoude/book-open-source-tips) - Open Source book on Open Source Tips
-- [hrbrmstr/RSwitch](https://github.com/hrbrmstr/RSwitch) - 🎛 A small menubar app that allows you to switch between R versions quickly (if you have multiple versions of R framework installed).
 - [o2r-project/reference-implementation](https://github.com/o2r-project/reference-implementation) - A catch-all repository to run all o2r microservices and the user interface platform
 - [ComputationalProteomicsUnit/maker](https://github.com/ComputationalProteomicsUnit/maker) - Makefile for R packages
 - [hauselin/obsidian-alfred](https://github.com/hauselin/obsidian-alfred) - Alfred workflow for Obsidian note-taking app. Open vaults and files in Obsidian.
@@ -3376,7 +3376,7 @@
 - [fiatjaf/awesome-loginless](https://github.com/fiatjaf/awesome-loginless) - an awesome list of internet services that don't require logins or registrations
 - [scholer/zepto-markdown](https://github.com/scholer/zepto-markdown) - Package for parsing and converting Markdown documents. Features include YAML front-matter extraction, templating, and macros.
 - [sleepymurph/template_markdown_for_printing](https://github.com/sleepymurph/template_markdown_for_printing) - A markdown document with YAML header, for PDF output via Pandoc
-- [rainpole/vmware-stencils](https://github.com/rainpole/vmware-stencils) - VMware Stencils
+- [tenthirtyam/vmware-stencils](https://github.com/tenthirtyam/vmware-stencils) - VMware Stencils
 - [David-Summers/Azure-Design](https://github.com/David-Summers/Azure-Design) - My Azure stencil collection for Visio. Highly functional and always up to date.
 - [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 - [fly-apps/grafana](https://github.com/fly-apps/grafana) - Run Grafana on Fly
@@ -3453,7 +3453,7 @@
 - [amio/awesome-micro](https://github.com/amio/awesome-micro) - A collection of awesome things regarding zeit's micro.
 - [dslp/dslp](https://github.com/dslp/dslp) - The Data Science Lifecycle Process is a process for taking data science teams from Idea to Value repeatedly and sustainably. The process is documented in this repo.
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
-- [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Ethereum Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks.
+- [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Web3.0 Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks.
 - [davidski/database_connections](https://github.com/davidski/database_connections) - ⚙️Demonstration code to connect R on MacOS to various database flavors.
 - [jimsforks/rsvr](https://github.com/jimsforks/rsvr) - "reserver"
 - [mrmartineau/awesome-web-dev-resources](https://github.com/mrmartineau/awesome-web-dev-resources) - 👌 My collection of go-to web development resources
@@ -5120,6 +5120,8 @@
 
 ## Python 
 
+- [rnelsonchem/simpledbf](https://github.com/rnelsonchem/simpledbf) - A simple DBF file converter for Python3
+- [Mirko-r/dotfiles](https://github.com/Mirko-r/dotfiles) - Huge .files repo
 - [A/obsidian-blog](https://github.com/A/obsidian-blog) - Work-in-Progress static site/blog generator for obsidian.md
 - [seanbreckenridge/browserexport](https://github.com/seanbreckenridge/browserexport) - backup and parse browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
 - [app-generator/flask-react-soft-dashboard](https://github.com/app-generator/flask-react-soft-dashboard) - Flask React - Soft Dashboard (Open-source) | AppSeed.us
@@ -5215,7 +5217,7 @@
 - [hamidfzm/Flask-HTMLmin](https://github.com/hamidfzm/Flask-HTMLmin) - Flask html response minifier
 - [alejoar/Flask-Azure-Storage](https://github.com/alejoar/Flask-Azure-Storage) - Flask extension that provides integration with Azure Storage
 - [qiajigou/flask-zipkin](https://github.com/qiajigou/flask-zipkin) - a flask zipkin extension based on py_zipkin.
-- [getsentry/sentry-python](https://github.com/getsentry/sentry-python) - The new Python SDK for Sentry.io
+- [getsentry/sentry-python](https://github.com/getsentry/sentry-python) - The official Python SDK for Sentry.io
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [mattupstate/flask-rq](https://github.com/mattupstate/flask-rq) - RQ (Redis Queue) integration for Flask applications
 - [kvesteri/sqlalchemy-searchable](https://github.com/kvesteri/sqlalchemy-searchable) - Fulltext searchable models for SQLAlchemy. Only supports PostgreSQL
@@ -5813,7 +5815,7 @@
 - [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
 - [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
 - [bordaigorl/sublime-evernote](https://github.com/bordaigorl/sublime-evernote) - Open and Save Evernote notes from Sublime Text 3 using Markdown
-- [kmcgillivray/obsidian-lettersmith](https://github.com/kmcgillivray/obsidian-lettersmith) - 
+- [kmcgillivray/obsidian-lettersmith](https://github.com/kmcgillivray/obsidian-lettersmith) - Transform any Obsidian vault (or any folder of markdown files) into a backlink-powered static website using Lettersmith.
 - [perkinsben/obs_tools](https://github.com/perkinsben/obs_tools) - Various python tools/scripts to work with Obsidian data
 - [renerocksai/sublimeless_zk](https://github.com/renerocksai/sublimeless_zk) - A note taking app, Markdown editor, and text browser, featuring ID based wiki style links, and #tags, intended for zettelkasten method users. Loaded with tons of features like sophisticated tag search, note transclusion, support for note templates, bibliography support, etc. to make working in your Zettelkasten a joy 😄
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
@@ -5936,7 +5938,7 @@
 - [ketchbrookanalytics/covid_test_spotter](https://github.com/ketchbrookanalytics/covid_test_spotter) - Shiny web application for locating and reporting inventory of COVID-19 at-home test kits
 - [emilyriederer/demo-shiny-modules](https://github.com/emilyriederer/demo-shiny-modules) - A demo of and argument for using Shiny modules even for simple Shiny applications
 - [Azure/AzureStor](https://github.com/Azure/AzureStor) - R interface to Azure storage accounts
-- [mthomas-ketchbrook/migrate](https://github.com/mthomas-ketchbrook/migrate) - Repository associated with the materials for the R package {migrate}, developed by Ketchbrook Analytics
+- [mthomas-ketchbrook/migrate](https://github.com/mthomas-ketchbrook/migrate) - An R package for building state transition matrices
 - [duncantl/RIOSHealth](https://github.com/duncantl/RIOSHealth) - Read data from iPhone Health app
 - [N1h1l1sT/dbautojoinr](https://github.com/N1h1l1sT/dbautojoinr) - Automatically Read the SQL Database and join all tables to either the Main Tables or a 1-Joint-Table
 - [r-tmap/tmap](https://github.com/r-tmap/tmap) - R package for thematic maps
@@ -6553,7 +6555,7 @@
 - [adamlauretig/ny_r_talk](https://github.com/adamlauretig/ny_r_talk) - Slides and Code for NY R Users Meetup on January 9, 2020, "A Common Model, Separated by Two Disciplines: Bayesian Factorization Machines with Stan and R" presented by Adam Lauretig
 - [r-lib/brio](https://github.com/r-lib/brio) - Basic R Input Output
 - [rstudio/keras](https://github.com/rstudio/keras) - R Interface to Keras
-- [flujoo/gm](https://github.com/flujoo/gm) - R package to create music, and show musical scores and audio files in R Markdown documents, R Jupyter Notebooks and RStudio
+- [flujoo/gm](https://github.com/flujoo/gm) - R Package for Music Score and Audio Generation
 - [Envirometrix/plotKML](https://github.com/Envirometrix/plotKML) - plotKML: Visualization of Spatial and Spatio-Temporal Objects in Google Earth
 - [moodymudskipper/burglr](https://github.com/moodymudskipper/burglr) - Copy Functions from Other Packages Without Adding Them As Dependencies
 - [powwater/powpolished](https://github.com/powwater/powpolished) - Authentication and Administration for POW Shiny apps
@@ -7861,7 +7863,7 @@
 - [yonicd/basecamper](https://github.com/yonicd/basecamper) - Interact with basecamp api in R
 - [yonicd/shinycovr](https://github.com/yonicd/shinycovr) - 
 - [yonicd/captions](https://github.com/yonicd/captions) - 
-- [jokergoo/pkgndep](https://github.com/jokergoo/pkgndep) - Check the Heaviness of Package Dependencies
+- [jokergoo/pkgndep](https://github.com/jokergoo/pkgndep) - Analyzing Dependency Heaviness of R Packages
 - [Alipsa/xmlr](https://github.com/Alipsa/xmlr) - XML dom package for R similar to jdom implemented using Reference Classes
 - [langcog/tidyboot](https://github.com/langcog/tidyboot) - tidyverse-compatible bootstrapping
 - [easystats/easystats](https://github.com/easystats/easystats) - :milky_way: The R easystats-project
@@ -7902,6 +7904,7 @@
 - [ceefluz/radar](https://github.com/ceefluz/radar) - An interactive tool for rapid analysis of diagnostic and antimicrobial pattern in R using Shiny
 - [meysubb/cfbscrapR-archived](https://github.com/meysubb/cfbscrapR-archived) - CFB R Package
 - [choonghyunryu/dlookr](https://github.com/choonghyunryu/dlookr) - Tools for Data Diagnosis, Exploration, Transformation
+- [Non-Contradiction/JuliaCall](https://github.com/Non-Contradiction/JuliaCall) - Embed Julia in R
 - [radiant-rstats/radiant.design](https://github.com/radiant-rstats/radiant.design) - Code for the Design menu in Radiant
 - [spren9er/tidytuesday](https://github.com/spren9er/tidytuesday) - Code snippets for weekly #tidytuesday project
 - [juliendiot42/markdownInput](https://github.com/juliendiot42/markdownInput) - A R-Shiny module for markdown text input
@@ -8993,6 +8996,7 @@
 
 ## Ruby 
 
+- [infused/dbf](https://github.com/infused/dbf) - DBF is a small fast Ruby library for reading dBase, xBase, Clipper and FoxPro database files
 - [kastner/halo-stats](https://github.com/kastner/halo-stats) - Library for accessing Halo stats from Haloapi.com
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [jekyll/jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from) - :twisted_rightwards_arrows: Seamlessly specify multiple redirections URLs for your pages and posts.
@@ -9734,6 +9738,7 @@
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
 - [krzysztofzablocki/Sourcery](https://github.com/krzysztofzablocki/Sourcery) - Meta-programming for Swift, stop writing boilerplate code.
 - [djyde/WebShell](https://github.com/djyde/WebShell) - Bundle web apps to native OS X app
+- [hrbrmstr/RSwitch](https://github.com/hrbrmstr/RSwitch) - 🎛 A small menubar app that allows you to switch between R versions quickly (if you have multiple versions of R framework installed).
 - [dongyuwei/tagged-github-stars](https://github.com/dongyuwei/tagged-github-stars) - A native Mac App to manage your Github stars with custom tags, powered by SwiftUI and SQLite.
 - [pawello2222/AppIconGenerator](https://github.com/pawello2222/AppIconGenerator) - A library for creating App Icons from SwiftUI views.
 - [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - Offline Toolbox for Developers
