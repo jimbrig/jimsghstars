@@ -1505,7 +1505,6 @@
 - [MASTIN/Virtual-Locker](https://github.com/MASTIN/Virtual-Locker) - Personal property inventories for insurance and relocation purposes.
 - [davidstutz/bootstrap-multiselect](https://github.com/davidstutz/bootstrap-multiselect) - JQuery multiselect plugin based on Twitter Bootstrap.
 - [kaybenleroll/data_workshops](https://github.com/kaybenleroll/data_workshops) - This repository contains all the files for the various workshops created as part of Dublin R
-- [jimbrig/KaaS](https://github.com/jimbrig/KaaS) - KaaS - Knowledge as a Service
 - [cdnolan/Connecticut-Insurance-Complaints](https://github.com/cdnolan/Connecticut-Insurance-Complaints) - Analysis of complaints made against insurance companies licensed in Connecticut from January 2018 to October 2021. Google Data Analytics Capstone Project.
 - [SlaveToJavascript/DTB](https://github.com/SlaveToJavascript/DTB) - A fintech solution that serves as the intermediary one-stop platform between SMU tBank and insurance providers that allows customers to browse, compare and purchase insurance products conveniently.
 - [kasaai/gisadata](https://github.com/kasaai/gisadata) - 
@@ -2069,6 +2068,7 @@
 
 ## JavaScript 
 
+- [kristiandupont/schemalint](https://github.com/kristiandupont/schemalint) - Lint database schemas
 - [spences10/settings](https://github.com/spences10/settings) - Settings, for when things die and you can't quite remember how things were 🙃
 - [d3/d3-force](https://github.com/d3/d3-force) - Force-directed graph layout using velocity Verlet integration.
 - [SyncfusionExamples/sqlserver-to-mysql-and-postgresql](https://github.com/SyncfusionExamples/sqlserver-to-mysql-and-postgresql) - 
@@ -3104,6 +3104,7 @@
 
 ## Jupyter Notebook 
 
+- [MassStreetAnalytics/etl-framework](https://github.com/MassStreetAnalytics/etl-framework) - A framework for moving data into a data warehouse.
 - [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Free Data Engineering course!
 - [chanon-kr/Shared_Function](https://github.com/chanon-kr/Shared_Function) - Shared functions within my team
 - [tomaztk/Azure-Data-Studio-Notebooks](https://github.com/tomaztk/Azure-Data-Studio-Notebooks) - Notebooks for Microsoft Azure Data Studio
@@ -4430,6 +4431,7 @@
 
 ## PLSQL 
 
+- [dionatamsouza/PG-Utils](https://github.com/dionatamsouza/PG-Utils) - Views e procedures úteis para Postgres.
 - [oracle/db-sample-schemas](https://github.com/oracle/db-sample-schemas) - Oracle Database Sample Schemas
 
 ## PLpgSQL 
@@ -5852,10 +5854,11 @@
 
 ## QML 
 
-- [prateekmedia/Menu11](https://github.com/prateekmedia/Menu11) - A highly customizable launcher inspired from windows 11 menu. Fork of MenuZ for KDE Plasma
+- [prateekmedia/Menu11](https://github.com/prateekmedia/Menu11) - Deprecated, Suggested replacement: https://github.com/adhec/OnzeMenuKDE
 
 ## R 
 
+- [LTLA/SingleR](https://github.com/LTLA/SingleR) - Clone of the Bioconductor repository for the SingleR package.
 - [etiennebacher/example-shiny-callr](https://github.com/etiennebacher/example-shiny-callr) - 
 - [willdebras/uspsr](https://github.com/willdebras/uspsr) - quick packaged function to get status of usps tracking number
 - [willdebras/civiclookup](https://github.com/willdebras/civiclookup) - publishing base mobile app for pulling civic information
@@ -7336,7 +7339,7 @@
 - [ropensci/terrainr](https://github.com/ropensci/terrainr) - Get DEMs and orthoimagery from the USGS National Map, georeference your images and merge rasters, and visualize with Unity 3D
 - [jennahamlin/tinselR](https://github.com/jennahamlin/tinselR) - An Amazing Shiny App
 - [lvaudor/mixr](https://github.com/lvaudor/mixr) - 
-- [lvaudor/grimoireStat](https://github.com/lvaudor/grimoireStat) - http://perso.ens-lyon.fr/lise.vaudor/grimoireStat/_book/intro.html
+- [lvaudor/grimoireStat](https://github.com/lvaudor/grimoireStat) - Un grimoire concernant les stats avec R
 - [ycphs/openxlsx](https://github.com/ycphs/openxlsx) - openxlsx - a fast way to read and write complex xslx files
 - [feddelegrand7/fabricerin](https://github.com/feddelegrand7/fabricerin) - Create Easily Canvas in Shiny and RMarkdown Documents
 - [IndrajeetPatil/statsExpressions](https://github.com/IndrajeetPatil/statsExpressions) - Tidy Dataframes and Expressions with Statistical Details 📉 📜🔣✅
@@ -9701,6 +9704,7 @@
 
 ## Smarty 
 
+- [camposvinicius/aws-etl](https://github.com/camposvinicius/aws-etl) - This is an ETL application on AWS with general open sales and customer data that you can find here: https://github.com/camposvinicius/data/blob/main/AdventureWorks.zip, it's a zipped file with some .csvs inside that we will apply transformations.
 - [clayshek/ans-pve-win-provision](https://github.com/clayshek/ans-pve-win-provision) - Use Ansible to provision new Proxmox Windows VMs from template
 - [MarkEdmondson1234/edmonlytica-server-side-client](https://github.com/MarkEdmondson1234/edmonlytica-server-side-client) - Edmonlytica is a proof of concept for making your own digital analytics stream using GTM Server Side and BigQuery.
 - [MarkEdmondson1234/edmonlytica-browser-template](https://github.com/MarkEdmondson1234/edmonlytica-browser-template) - Edmonlytica is a proof of concept for making your own digital analytics stream using GTM Server Side and BigQuery.
@@ -9775,6 +9779,7 @@
 ## TeX 
 
 - [ewfrees/LDARcode](https://github.com/ewfrees/LDARcode) - R Code to Support the Loss Data Analytics Book
+- [jimbrig/KaaS](https://github.com/jimbrig/KaaS) - KaaS - Knowledge as a Service
 - [Sheing/SalesforceActuarial](https://github.com/Sheing/SalesforceActuarial) - Salesforce x Actuarial Mortality Table
 - [ewfrees/LossDataAnalyticsOverheads](https://github.com/ewfrees/LossDataAnalyticsOverheads) - This site provides overheads for the drafts of our Loss Data Analytics chapters.
 - [ewfrees/LifeCon](https://github.com/ewfrees/LifeCon) - This site contains lecture notes for Life Contingencies, also known as Actuarial Mathematics. It is part of the Open Actuarial Textbooks project.
@@ -9845,6 +9850,7 @@
 
 ## TypeScript 
 
+- [davish/obsidian-full-calendar](https://github.com/davish/obsidian-full-calendar) - Full Calendar integration for Obsidian
 - [A/repo-manager](https://github.com/A/repo-manager) - Opinionated wrapper around git clone, that keeps all your repos in structure
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [tellery/tellery](https://github.com/tellery/tellery) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
@@ -10290,6 +10296,7 @@
 
 ## Vim script 
 
+- [joshukraine/dotfiles](https://github.com/joshukraine/dotfiles) - :round_pushpin: My dotfiles for macOS using Fish/Zsh, Neovim, and Tmux
 - [A/.dotfiles](https://github.com/A/.dotfiles) - configs and utils
 - [rhysd/dogfiles](https://github.com/rhysd/dogfiles) - dog + dotfiles = dogfiles
 - [jakewies/.dotfiles](https://github.com/jakewies/.dotfiles) - My portable development environment
