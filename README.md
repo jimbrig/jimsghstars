@@ -386,7 +386,6 @@
 
 - [SocialExplorer/FastDBF](https://github.com/SocialExplorer/FastDBF) - A free and open source .net library for reading/writing DBF files. Fast and easy to use. Supports writing to forward-only streams which makes it easy to write dbf files in a web server environment.
 - [SyncfusionExamples/export-data-to-excel-in-c-sharp](https://github.com/SyncfusionExamples/export-data-to-excel-in-c-sharp) - This repository contains Syncfusion Excel library examples that explain how to export data to Excel in C#, from the data table, collection of objects, database, Microsoft Grid controls, array, and CSV. This works without Microsoft Excel Interop.
-- [lowlydba/lowlydba.sqlserver](https://github.com/lowlydba/lowlydba.sqlserver) - :nut_and_bolt: Ansible collection using PowerShell to configure and maintain SQL Server.
 - [Visio-projects/Visio-Shape-Extract](https://github.com/Visio-projects/Visio-Shape-Extract) - :arrow_heading_down: This VSTO Add-In extracts the shape attributes' text from a Microsoft Visio file. It is written as VSTO in C#/VB.NET and VBA.
 - [saveenr/VisioAutomation](https://github.com/saveenr/VisioAutomation) - Automate Microsoft Visio with .NET
 - [yorek/awesome-azure-sql](https://github.com/yorek/awesome-azure-sql) - An awesome list of Azure SQL samples for Developers of any Language and Platform
@@ -3322,6 +3321,7 @@
 
 ## Others 
 
+- [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
 - [Wabri/Daje](https://github.com/Wabri/Daje) - Stop using install.sh! Start using install.yml! DAJE...
 - [willdebras/juliascripts](https://github.com/willdebras/juliascripts) - Scripts to teach myself Julia
 - [jjallaire/hopr](https://github.com/jjallaire/hopr) - This is the development site for Hands-On Programming with R, a book that teaches how to program in R, with hands-on examples. Read the book at https://rstudio-education.github.io/hopr.
@@ -3418,7 +3418,7 @@
 - [nteetor/malt](https://github.com/nteetor/malt) - 
 - [tanho63/pc-setup](https://github.com/tanho63/pc-setup) - Documenting computer builds and setups
 - [hackjutsu/vim-cheatsheet](https://github.com/hackjutsu/vim-cheatsheet) - 📟 My personal vim cheatsheet
-- [cloudskew/cloudskew](https://github.com/cloudskew/cloudskew) - Create free cloud architecture diagrams
+- [cloudskew/cloudskew](https://github.com/cloudskew/cloudskew) - Online Diagram, Flowchart Maker
 - [ayoisaiah/scoop-bucket](https://github.com/ayoisaiah/scoop-bucket) - 
 - [khezen/compose-postgres](https://github.com/khezen/compose-postgres) - Postgresql & pgadmin4 powered by compose
 - [rstudio-education/deep-teaching](https://github.com/rstudio-education/deep-teaching) - This one day workshop introduces education best practices to programmers and data scientists.
@@ -3484,7 +3484,6 @@
 - [mickeyshi-syd/actuarial-hackathon-2019](https://github.com/mickeyshi-syd/actuarial-hackathon-2019) - 2019 Actuarial Hackathon
 - [agi-lab/reserving-multivariate-evolutionary-glm](https://github.com/agi-lab/reserving-multivariate-evolutionary-glm) - A multivariate evolutionary generalised linear model framework with adaptive estimation for claims reserving
 - [kasaai/wcrater](https://github.com/kasaai/wcrater) - wc rating api
-- [justin-vanwinkle/workflow-test](https://github.com/justin-vanwinkle/workflow-test) - 
 - [microsoft/sql-server-samples](https://github.com/microsoft/sql-server-samples) - Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge
 - [r-lib/ghurl](https://github.com/r-lib/ghurl) - 
 - [rnystrom/leadership](https://github.com/rnystrom/leadership) - [WIP] My thoughts, principles, and resources on leadership.
@@ -5132,6 +5131,7 @@
 - [dominodatalab/domino-research](https://github.com/dominodatalab/domino-research) - Projects developed by Domino's R&D team
 - [zsvoboda/dbd](https://github.com/zsvoboda/dbd) - dbd is a database prototyping tool that enables data analysts and engineers to quickly load and transform data in SQL databases.
 - [Zettelkasten-Team/Zettelkasten](https://github.com/Zettelkasten-Team/Zettelkasten) - Zettelkasten-Developer-Builds
+- [lowlydba/lowlydba.sqlserver](https://github.com/lowlydba/lowlydba.sqlserver) - :nut_and_bolt: Ansible collection using PowerShell to configure and maintain SQL Server.
 - [aschleg/pethub](https://github.com/aschleg/pethub) - Scripts and ETL for building Pet and Animal Related Database
 - [ilpersi/gsuite-domain-checker](https://github.com/ilpersi/gsuite-domain-checker) - A CLI tool that help you verify domains before you provision them in G Suite
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
@@ -5226,7 +5226,7 @@
 - [Lanseuo/flask-matomo](https://github.com/Lanseuo/flask-matomo) - Track requests to your Flask website with Matomo
 - [citruspi/Flask-Analytics](https://github.com/citruspi/Flask-Analytics) - Analytics snippets generator extension for the Flask framework.
 - [biosustain/potion](https://github.com/biosustain/potion) - Flask-Potion is a RESTful API framework for Flask and SQLAlchemy, Peewee or MongoEngine
-- [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard package for machine learning with label errors, finding mislabeled data, and uncertainty quantification. Works with most datasets and models.
+- [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard package for data-centric AI and machine learning with label errors, finding mislabeled data, and uncertainty quantification. Works with most datasets and models.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [Azure/azureml-previews](https://github.com/Azure/azureml-previews) - Azure Machine Learning previews
 - [Stratoscale/skipper](https://github.com/Stratoscale/skipper) - Easily dockerize your Git repository
@@ -5428,6 +5428,7 @@
 - [Enchufa2/docker-host-auth](https://github.com/Enchufa2/docker-host-auth) - Authenticating a docker container against host's Unix accounts
 - [Enchufa2/bspm](https://github.com/Enchufa2/bspm) - R Bridge to System Package Manager
 - [fdrennan/redditstack](https://github.com/fdrennan/redditstack) - 
+- [slimdevops/slim-containers](https://github.com/slimdevops/slim-containers) - Slim.AI Container of the Week Series and Examples
 - [jimdevops19/PythonCrashCourse](https://github.com/jimdevops19/PythonCrashCourse) - JimShapedCoding Python Crash Course 2021
 - [aacosta-milesius/financial-math](https://github.com/aacosta-milesius/financial-math) - Time value of money functions using actuarial methods
 - [Elsemary/Actuarial-calculator](https://github.com/Elsemary/Actuarial-calculator) - Functions for finding premium in several ways, calculating the reserve in an equivalence principle, and calculating the reserve in an Euler differential equation
@@ -5858,6 +5859,7 @@
 
 ## R 
 
+- [snowflakedb/dplyr-snowflakedb](https://github.com/snowflakedb/dplyr-snowflakedb) - SnowflakeDB backend for dplyr
 - [LTLA/SingleR](https://github.com/LTLA/SingleR) - Clone of the Bioconductor repository for the SingleR package.
 - [etiennebacher/example-shiny-callr](https://github.com/etiennebacher/example-shiny-callr) - 
 - [willdebras/uspsr](https://github.com/willdebras/uspsr) - quick packaged function to get status of usps tracking number
@@ -9249,6 +9251,7 @@
 
 ## Shell 
 
+- [gaurav-nelson/github-action-markdown-link-check](https://github.com/gaurav-nelson/github-action-markdown-link-check) - Check all links in markdown files if they are alive or dead. 🔗✔️
 - [calogica/dbt-expectations](https://github.com/calogica/dbt-expectations) - Port(ish) of Great Expectations to dbt test macros
 - [microsoft/appcenter](https://github.com/microsoft/appcenter) - Central repository for App Center open source resources and planning.
 - [richardtbell/zsh-twoLine-theme](https://github.com/richardtbell/zsh-twoLine-theme) - 
@@ -9322,7 +9325,6 @@
 - [elsenm/digital-garden](https://github.com/elsenm/digital-garden) - 🌱 My personal homegrown digital garden
 - [thomvaill/Makedockfile](https://github.com/thomvaill/Makedockfile) - A simple Makefile to build your Docker images 👌
 - [Enchufa2/test-devcontainers](https://github.com/Enchufa2/test-devcontainers) - 
-- [slimdevops/slim-containers](https://github.com/slimdevops/slim-containers) - Slim.AI Container of the Week Series and Examples
 - [gtm19/dotfiles](https://github.com/gtm19/dotfiles) - Default configuration for Le Wagon's students
 - [gtm19/r_docker](https://github.com/gtm19/r_docker) - A template for using R + Docker in VS Code
 - [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
@@ -10064,7 +10066,7 @@
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.
 - [jevakallio/git-notify](https://github.com/jevakallio/git-notify) - 🙉 📣 Communicate important updates to your team via git commit messages
 - [JasonEtco/create-an-issue](https://github.com/JasonEtco/create-an-issue) - A GitHub Action for creating a new issue from a template file.
-- [xiaoyang-sde/rocket-booster](https://github.com/xiaoyang-sde/rocket-booster) - Lightweight and scalable reverse proxy and load balancing library built for Cloudflare Workers
+- [xiaoyang-sde/reflare](https://github.com/xiaoyang-sde/reflare) - Lightweight and scalable reverse proxy and load balancing library built for Cloudflare Workers
 - [obsidian-userland/publish](https://github.com/obsidian-userland/publish) - Open source Obsidian Publish alternative
 - [skalnik/obsidian-readwise-sync](https://github.com/skalnik/obsidian-readwise-sync) - Sync Readwise Highlights to Obsidian
 - [jplattel/obsidian-query-language](https://github.com/jplattel/obsidian-query-language) - An Obsidian plugin allowing you to query your notes
