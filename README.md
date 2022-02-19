@@ -1995,6 +1995,8 @@
 
 ## Java 
 
+- [datacleaner/DataCleaner](https://github.com/datacleaner/DataCleaner) - The premier open source Data Quality solution
+- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [pgjdbc/pgjdbc](https://github.com/pgjdbc/pgjdbc) - Postgresql JDBC Driver
 - [mhewedy/spwrap](https://github.com/mhewedy/spwrap) - Simple Stored Procedure call wrapper with no framework dependencies.
 - [mirkosertic/MogwaiERDesignerNG](https://github.com/mirkosertic/MogwaiERDesignerNG) - Java 2D & 3D visual entity relationship design & modeling (ERD,SQL) for Oracle,MSSQL,Postgres and MySQL
@@ -3759,7 +3761,6 @@
 - [emilyriederer/dbtplyr](https://github.com/emilyriederer/dbtplyr) - dbt package mimicking dplyr select-helpers semantics
 - [rinproduction/docker-rweb](https://github.com/rinproduction/docker-rweb) - 
 - [icons8/lunacy-docs](https://github.com/icons8/lunacy-docs) - Documentation for Lunacy, Graphic Design Software with built-in assets
-- [r-devel/rcontribution](https://github.com/r-devel/rcontribution) - R Contribution Working Group: fostering a larger, more diverse community of contributors to R core development
 - [nathaneastwood/useful-postgres](https://github.com/nathaneastwood/useful-postgres) - A collection of useful PostgreSQL queries and snippets
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [reconhub/docker](https://github.com/reconhub/docker) - Various docker images for RECON
@@ -5859,6 +5860,7 @@
 
 ## R 
 
+- [andrie/gcalendr](https://github.com/andrie/gcalendr) - R package to read events from google calendar
 - [snowflakedb/dplyr-snowflakedb](https://github.com/snowflakedb/dplyr-snowflakedb) - SnowflakeDB backend for dplyr
 - [LTLA/SingleR](https://github.com/LTLA/SingleR) - Clone of the Bioconductor repository for the SingleR package.
 - [etiennebacher/example-shiny-callr](https://github.com/etiennebacher/example-shiny-callr) - 
@@ -6801,6 +6803,7 @@
 - [SchmidtPaul/CitaviR](https://github.com/SchmidtPaul/CitaviR) - A set of tools for dealing with Citavi data in R
 - [fdrennan/biggr2](https://github.com/fdrennan/biggr2) - The bigger better biggr
 - [r-assist/assignr](https://github.com/r-assist/assignr) - Tools for Educators Writing Assignments in RMarkdown
+- [r-devel/rcontribution](https://github.com/r-devel/rcontribution) - R Contribution Working Group: fostering a larger, more diverse community of contributors to R core development
 - [sol-eng/plumber-logging](https://github.com/sol-eng/plumber-logging) - An opinionated example for implementing logging in Plumber APIs
 - [CristianAbrante/ShinyVisualizationAssignments](https://github.com/CristianAbrante/ShinyVisualizationAssignments) - Repository for the visualization assignments using Shiny at the Big Data course on the EIT Digital data science master at UPM. 📚
 - [pachadotdev/cepiigeodist](https://github.com/pachadotdev/cepiigeodist) - GeoDist datasets in R
@@ -7294,7 +7297,6 @@
 - [yihui/animation](https://github.com/yihui/animation) - A gallery of animations in statistics and utilities to create animations
 - [yihui/mime](https://github.com/yihui/mime) - Map filenames to MIME types
 - [yihui/fun](https://github.com/yihui/fun) - Use R for Fun
-- [yihui/evaluate](https://github.com/yihui/evaluate) - A version of eval for R that returns more information about what happened
 - [EvaYiwenWang/PLSDAbatch](https://github.com/EvaYiwenWang/PLSDAbatch) - R package for batch effect correction
 - [feddelegrand7/flipdownr](https://github.com/feddelegrand7/flipdownr) - 📆📆📆 Implement a Countdown in RMarkdown Documents and Shiny Applications
 - [sparklyr/sparklyr](https://github.com/sparklyr/sparklyr) - R interface for Apache Spark
@@ -8071,7 +8073,7 @@
 - [vegawidget/vegawidget](https://github.com/vegawidget/vegawidget) - Htmlwidget renderer for Vega and Vega-Lite
 - [beanumber/etl](https://github.com/beanumber/etl) - R package to facilitate ETL operations
 - [flow-r/flowr](https://github.com/flow-r/flowr) - Robust and efficient workflows using a simple language agnostic approach
-- [vegawidget/vlbuildr](https://github.com/vegawidget/vlbuildr) - Build vega-lite specs in R
+- [vegawidget/vegabrite](https://github.com/vegawidget/vegabrite) - Build vega-lite specs in R
 - [yonicd/slackreprex](https://github.com/yonicd/slackreprex) - reprex + slack
 - [rubenarslan/formr](https://github.com/rubenarslan/formr) - The accompanying R package for the survey framework formr (see https://github.com/rubenarslan/formr.org and https://formr.org)
 - [ropensci-archive/opendata](https://github.com/ropensci-archive/opendata) - CRAN OpenData Task View
