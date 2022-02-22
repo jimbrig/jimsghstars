@@ -1760,6 +1760,7 @@
 - [rstudio4edu/rstudio4edu-book](https://github.com/rstudio4edu/rstudio4edu-book) - Organizing rstudio4edu project progress
 - [remche/zero-to-shinyproxy](https://github.com/remche/zero-to-shinyproxy) - Deploy Shinyproxy with Helm
 - [InsaneNaman/parcel-static-site-starterkit](https://github.com/InsaneNaman/parcel-static-site-starterkit) - A starter kit to get Advanced features like SASS support, Uglification, Hot Module Reload in Static Website
+- [radiant-rstats/docker](https://github.com/radiant-rstats/docker) - Use R, Rstudio, Shiny, Radiant, Python, and Jupyter in a Docker container
 - [egarpor/ShinyServer](https://github.com/egarpor/ShinyServer) - A served-oriented repository of Shiny apps and Rmd documents
 - [hbnordin2/spiralHeatMaps](https://github.com/hbnordin2/spiralHeatMaps) - Inspired by: https://bl.ocks.org/tomshanley/0a024581fd0b7c4e483203d5bff9631b
 - [rstudio/concept-maps](https://github.com/rstudio/concept-maps) - Concept maps for all things data science
@@ -2069,6 +2070,7 @@
 
 ## JavaScript 
 
+- [electron/apps](https://github.com/electron/apps) - A collection of apps built on Electron
 - [ravdy/nodejs-demo](https://github.com/ravdy/nodejs-demo) - 
 - [kristiandupont/schemalint](https://github.com/kristiandupont/schemalint) - Lint database schemas
 - [spences10/settings](https://github.com/spences10/settings) - Settings, for when things die and you can't quite remember how things were 🙃
@@ -5859,6 +5861,7 @@
 
 ## R 
 
+- [amitvkulkarni/ProjectManagement](https://github.com/amitvkulkarni/ProjectManagement) - This application was built and submitted as part of R Shiny competition 2020. It can be used for creation of projects and related tasks. The user will be able to carry out all the basic CRUD operations on the data and save the changes.
 - [andrie/gcalendr](https://github.com/andrie/gcalendr) - R package to read events from google calendar
 - [snowflakedb/dplyr-snowflakedb](https://github.com/snowflakedb/dplyr-snowflakedb) - SnowflakeDB backend for dplyr
 - [LTLA/SingleR](https://github.com/LTLA/SingleR) - Clone of the Bioconductor repository for the SingleR package.
@@ -6240,7 +6243,7 @@
 - [moj-analytical-services/s3tools](https://github.com/moj-analytical-services/s3tools) - Interact with files in s3 on the Analytical Platform
 - [sgaure/lfe](https://github.com/sgaure/lfe) - Source code repository for the R package lfe on CRAN.
 - [NearAndDistant/data_science_with_r](https://github.com/NearAndDistant/data_science_with_r) - Tidy Tuesday Projects (R)
-- [tanho63/office_hours](https://github.com/tanho63/office_hours) - 
+- [tanho63/tantorials](https://github.com/tanho63/tantorials) - 
 - [RafaelEduardoDiaz/plumber_logs](https://github.com/RafaelEduardoDiaz/plumber_logs) - Proyecto que muestra como guardar los logs en una API de plumber.
 - [jennybc/regexcite](https://github.com/jennybc/regexcite) - PACKAGE EXISTS FOR DEMONSTRATION PURPOSES ONLY! Make Regular Expressions More Exciting
 - [insightsengineering/thevalidatoR](https://github.com/insightsengineering/thevalidatoR) - Github Action that generates R Package Validation documentation 🏁
@@ -9317,7 +9320,6 @@
 - [Build5Nines/az-kung-fu](https://github.com/Build5Nines/az-kung-fu) - Repo for the Azure CLI Kung Fu series on Build5Nines.com
 - [paunin/images-builder](https://github.com/paunin/images-builder) - 
 - [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, sway, kitty, kakoune, zsh and more + scripted installation guide
-- [zainfathoni/dotfiles](https://github.com/zainfathoni/dotfiles) - My personal dotfiles • powered by yadm & zinit
 - [avinal/github-pages-deploy-action](https://github.com/avinal/github-pages-deploy-action) - Github Pages Deploy Action for Documentation and Static Site Generators
 - [Azure-Samples/compute-automation-configurations](https://github.com/Azure-Samples/compute-automation-configurations) - Supporting configuration examples for docs.microsoft.com articles that show how to automate Azure VM and VMSS deployments
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
@@ -9647,7 +9649,6 @@
 - [ahmetb/cloud-run-faq](https://github.com/ahmetb/cloud-run-faq) - Unofficial FAQ and everything you've been wondering about Google Cloud Run.
 - [ahmetb/serverless-url-redirect](https://github.com/ahmetb/serverless-url-redirect) - Simple click-to-deploy serverless URL redirect service
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
-- [radiant-rstats/docker](https://github.com/radiant-rstats/docker) - Use R, Rstudio, Shiny, Radiant, Python, and Jupyter in a Docker container
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [ow/ubuntu-windows-dotfiles](https://github.com/ow/ubuntu-windows-dotfiles) - Ubuntu on Windows dotfiles
 - [umutphp/github-action-dynamic-profile-page](https://github.com/umutphp/github-action-dynamic-profile-page) - GitHub Action to push updates to your special profile repository.
