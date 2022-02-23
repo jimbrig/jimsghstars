@@ -796,7 +796,7 @@
 - [Jekyll-Garden/jekyll-garden.github.io](https://github.com/Jekyll-Garden/jekyll-garden.github.io) - A Digital Garden Theme for Jekyll. Jekyll Garden lets you create a static HTML version of your markdown notes and publish via Github pages. Made for Obsidian users!
 - [secure-77/Perlite](https://github.com/secure-77/Perlite) - A webbased markdown viewer optimized for Obsidian
 - [Phantas0s/garden](https://github.com/Phantas0s/garden) - The garden where my ideas grow
-- [moj-analytical-services/shinyGovstyle](https://github.com/moj-analytical-services/shinyGovstyle) - Now up to GDS frontend version v3.13.0
+- [moj-analytical-services/shinyGovstyle](https://github.com/moj-analytical-services/shinyGovstyle) - Now up to GDS frontend version v4.0.0
 - [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
 - [microsoft/MCW-Cloud-native-applications](https://github.com/microsoft/MCW-Cloud-native-applications) - MCW Cloud-native applications
 - [ericgregorich/Obsidian-Publish-CSS](https://github.com/ericgregorich/Obsidian-Publish-CSS) - My custom CSS for Obsidian Publish
@@ -1557,6 +1557,7 @@
 - [Markavian/html-table-to-markdown-converter](https://github.com/Markavian/html-table-to-markdown-converter) - Converts HTML tables to Markdown. Paste in, click Convert.
 - [rtpsug/Meetups](https://github.com/rtpsug/Meetups) - Content from our Online and In-Person Meetups
 - [Duffney/duffney.io](https://github.com/Duffney/duffney.io) - 
+- [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE) - ⚡ Open GitHub repositories in online web IDE
 - [google/web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
 - [m8/refined.blog](https://github.com/m8/refined.blog) - curated list of personal blogs
 - [mdn/dom-examples](https://github.com/mdn/dom-examples) - Code examples that accompany various MDN DOM and Web API documentation pages
@@ -2070,6 +2071,9 @@
 
 ## JavaScript 
 
+- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+- [b-lavigne/fantasy-golf](https://github.com/b-lavigne/fantasy-golf) - Fantasy Golf App - MEAN stack
+- [edwardz8/rotolinks](https://github.com/edwardz8/rotolinks) - Fantasy Golf Draft App
 - [electron/apps](https://github.com/electron/apps) - A collection of apps built on Electron
 - [ravdy/nodejs-demo](https://github.com/ravdy/nodejs-demo) - 
 - [kristiandupont/schemalint](https://github.com/kristiandupont/schemalint) - Lint database schemas
@@ -3022,7 +3026,6 @@
 - [jquense/react-big-calendar](https://github.com/jquense/react-big-calendar) - gcal/outlook like calendar component
 - [sandoche/Darkmode.js](https://github.com/sandoche/Darkmode.js) - 🌓 Add a dark-mode / night-mode to your website in a few seconds
 - [ColinFay/golemize](https://github.com/ColinFay/golemize) - Example of turning apps to golem
-- [ColinFay/glouton](https://github.com/ColinFay/glouton) - 'JS-cookies' in Shiny
 - [StartBootstrap/startbootstrap-coming-soon](https://github.com/StartBootstrap/startbootstrap-coming-soon) - A coming soon theme with a video background for Bootstrap 4
 - [vfile/vfile-matter](https://github.com/vfile/vfile-matter) - utility to parse the YAML front matter in a vfile
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
@@ -3565,7 +3568,6 @@
 - [jahwi/Articles](https://github.com/jahwi/Articles) - A collection of articles written by me.
 - [Twigonometry/Cybersecurity-Notes](https://github.com/Twigonometry/Cybersecurity-Notes) - My Markdown notes for all things cybersecurity
 - [SysAdminDocs/gpg-docs](https://github.com/SysAdminDocs/gpg-docs) - GPG Documentation
-- [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE) - ⚡ Open GitHub repositories in online web IDE
 - [vitalets/awesome-browser-extensions-and-apps](https://github.com/vitalets/awesome-browser-extensions-and-apps) - :zap:A curated list of awesome resources for building browser extensions and apps
 - [cezaraugusto/github-template-guidelines](https://github.com/cezaraugusto/github-template-guidelines) - Guidelines for building GitHub templates.
 - [melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates) - Boilerplates for mobile and web apps
@@ -3681,7 +3683,7 @@
 - [Neolyon0101/MyFilesXProject](https://github.com/Neolyon0101/MyFilesXProject) - A new File Explorer with a new design based on Fluent Design and UWP, with most of the features of the Windows Native File Explorer!
 - [stemmlerjs/software-design-and-architecture-roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - 🧱 The software design and architecture roadmap for any developer
 - [Dmitriy-Shulha/obsidian-css-snippets](https://github.com/Dmitriy-Shulha/obsidian-css-snippets) - Most common appearance solutions for Obsidian now in a single place. Initially collected by Klaas: https://forum.obsidian.md/t/how-to-achieve-css-code-snippets/8474
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - 📕 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
 - [kidonng/sushi](https://github.com/kidonng/sushi) - 🍣 A tasty and inclusive Scoop bucket
 - [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 - [nickforr/rsetup](https://github.com/nickforr/rsetup) - Manage a list of R packages I find useful
@@ -3866,7 +3868,6 @@
 - [paeselhz/R-Tools-Google-Cloud-FollowUp](https://github.com/paeselhz/R-Tools-Google-Cloud-FollowUp) - This is a followup of the original document - RStudio and Shiny Server on GCP
 - [paeselhz/RStudio-Shiny-Server-on-GCP](https://github.com/paeselhz/RStudio-Shiny-Server-on-GCP) - The ultimate guide to deploy Rstudio Open Source and Shiny Server Open Source at Google Cloud Platform
 - [Azure/AKS](https://github.com/Azure/AKS) - Azure Kubernetes Service
-- [averygue/ProductivityTools](https://github.com/averygue/ProductivityTools) - 🎓  A list of Organizational / Productivity tools useful for Students and Startups
 - [cristobalcl/awesome-startup-stack](https://github.com/cristobalcl/awesome-startup-stack) - Curated list of technologies for your next startup
 - [jitenbansal/awesome-free-and-essential-products-for-startups](https://github.com/jitenbansal/awesome-free-and-essential-products-for-startups) - Curated list of free and essential products
 - [Ibexoft/awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list) - List of all tools (apps, services) that startups should use.
@@ -4707,7 +4708,6 @@
 - [MicrosoftDocs/windows-powershell-docs](https://github.com/MicrosoftDocs/windows-powershell-docs) - This repo is used to contribute to Windows 10, Windows Server 2016, and MDOP PowerShell module documentation.
 - [MicrosoftDocs/PowerShell-Docs](https://github.com/MicrosoftDocs/PowerShell-Docs) - The official PowerShell documentation sources
 - [MicrosoftDocs/msix-docs](https://github.com/MicrosoftDocs/msix-docs) - repository for msix content
-- [rafd123/Deployment](https://github.com/rafd123/Deployment) - 
 - [gbeal/fizzbuzz](https://github.com/gbeal/fizzbuzz) - why not...
 - [gbeal/Split-MonoRepo](https://github.com/gbeal/Split-MonoRepo) - Powershell script to split a git monolithic repository into smaller repositories
 - [gbeal/Copy-Files](https://github.com/gbeal/Copy-Files) - A stripped-down replacement for Microsoft's defunct RichCopy utility
@@ -5123,12 +5123,15 @@
 
 ## Python 
 
+- [seatgeek/druzhba](https://github.com/seatgeek/druzhba) - 
+- [edoconnor/combinations](https://github.com/edoconnor/combinations) - Fantasy golf combinations ⛳
+- [FredHutch/shiny-app-template](https://github.com/FredHutch/shiny-app-template) - Template for creating Shiny web applications
 - [rnelsonchem/simpledbf](https://github.com/rnelsonchem/simpledbf) - A simple DBF file converter for Python3
 - [Mirko-r/dotfiles](https://github.com/Mirko-r/dotfiles) - Huge .files repo
 - [A/obsidian-blog](https://github.com/A/obsidian-blog) - Work-in-Progress static site/blog generator for obsidian.md
 - [seanbreckenridge/browserexport](https://github.com/seanbreckenridge/browserexport) - backup and parse browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
 - [app-generator/flask-react-soft-dashboard](https://github.com/app-generator/flask-react-soft-dashboard) - Flask React - Soft Dashboard (Open-source) | AppSeed.us
-- [v1a0/sqllex](https://github.com/v1a0/sqllex) - Better than sqlite3
+- [v1a0/sqllex](https://github.com/v1a0/sqllex) - The most pythonic ORM (for SQLite and PostgreSQL). Seriously, try it out!
 - [ssine/pptx2md](https://github.com/ssine/pptx2md) - a pptx to markdown converter
 - [dominodatalab/domino-research](https://github.com/dominodatalab/domino-research) - Projects developed by Domino's R&D team
 - [zsvoboda/dbd](https://github.com/zsvoboda/dbd) - dbd is a database prototyping tool that enables data analysts and engineers to quickly load and transform data in SQL databases.
@@ -5861,6 +5864,9 @@
 
 ## R 
 
+- [randhyllcho/FantasyGolf](https://github.com/randhyllcho/FantasyGolf) - 
+- [ConnorDemorest/Fantasy-Golf-Analytics](https://github.com/ConnorDemorest/Fantasy-Golf-Analytics) - Using statistics to inform how to pick fantasy golfers each week.
+- [SebKrantz/shiny-data-portal](https://github.com/SebKrantz/shiny-data-portal) - A Shiny Application to Host, Filter, Aggregate and Download Data in Various Formats
 - [amitvkulkarni/ProjectManagement](https://github.com/amitvkulkarni/ProjectManagement) - This application was built and submitted as part of R Shiny competition 2020. It can be used for creation of projects and related tasks. The user will be able to carry out all the basic CRUD operations on the data and save the changes.
 - [andrie/gcalendr](https://github.com/andrie/gcalendr) - R package to read events from google calendar
 - [snowflakedb/dplyr-snowflakedb](https://github.com/snowflakedb/dplyr-snowflakedb) - SnowflakeDB backend for dplyr
@@ -6243,7 +6249,7 @@
 - [moj-analytical-services/s3tools](https://github.com/moj-analytical-services/s3tools) - Interact with files in s3 on the Analytical Platform
 - [sgaure/lfe](https://github.com/sgaure/lfe) - Source code repository for the R package lfe on CRAN.
 - [NearAndDistant/data_science_with_r](https://github.com/NearAndDistant/data_science_with_r) - Tidy Tuesday Projects (R)
-- [tanho63/tantorials](https://github.com/tanho63/tantorials) - 
+- [tanho63/tantorials](https://github.com/tanho63/tantorials) - code for tutorials, office hours, and other help i've given
 - [RafaelEduardoDiaz/plumber_logs](https://github.com/RafaelEduardoDiaz/plumber_logs) - Proyecto que muestra como guardar los logs en una API de plumber.
 - [jennybc/regexcite](https://github.com/jennybc/regexcite) - PACKAGE EXISTS FOR DEMONSTRATION PURPOSES ONLY! Make Regular Expressions More Exciting
 - [insightsengineering/thevalidatoR](https://github.com/insightsengineering/thevalidatoR) - Github Action that generates R Package Validation documentation 🏁
@@ -8331,6 +8337,7 @@
 - [yonicd/reactor](https://github.com/yonicd/reactor) - unit testing for shiny reactivity
 - [ColinFay/orderdiv](https://github.com/ColinFay/orderdiv) - 
 - [ColinFay/golemexample](https://github.com/ColinFay/golemexample) - An example app for illustrating golem features
+- [ColinFay/glouton](https://github.com/ColinFay/glouton) - 'JS-cookies' in Shiny
 - [ColinFay/darkmode](https://github.com/ColinFay/darkmode) - 'darkmode.js' for 'Shiny'
 - [MilesMcBain/wisegroup](https://github.com/MilesMcBain/wisegroup) - Now I am become death, destroyer of groups....
 - [tyluRp/vov](https://github.com/tyluRp/vov) - :sparkles: vov.css animations for shiny
@@ -8357,7 +8364,7 @@
 - [malcolmbarrett/mbmisc](https://github.com/malcolmbarrett/mbmisc) - :lion: :man: A personal R package with functions useful for data analysis, formatting, data visualization, and more.
 - [malcolmbarrett/dagtex](https://github.com/malcolmbarrett/dagtex) - lightly opinionated LaTeX DAGs in R
 - [malcolmbarrett/tidymeta](https://github.com/malcolmbarrett/tidymeta) - :evergreen_tree::evergreen_tree::evergreen_tree: Tidy and plot meta-analyses in R
-- [mdsumner/wmts](https://github.com/mdsumner/wmts) - 
+- [mdsumner/wmts](https://github.com/mdsumner/wmts) - PLEASE IGNORE, use hypertidy/gdalio instead
 - [burchill/catchr](https://github.com/burchill/catchr) - catchr: Flexible, useful tools for dealing with conditions in R, for new users and veterans
 - [tdhock/animint2](https://github.com/tdhock/animint2) - Animated interactive grammar of graphics
 - [r-dbi/bigrquery](https://github.com/r-dbi/bigrquery) - An interface to Google's BigQuery from R.
@@ -8396,7 +8403,6 @@
 - [nik01010/dashboardThemeSwitcher](https://github.com/nik01010/dashboardThemeSwitcher) - Live theme switcher for R Shinydashboard applications
 - [jienagu/DT-Editor](https://github.com/jienagu/DT-Editor) - This is a DT Editor Shiny app
 - [alekrutkowski/autoshiny](https://github.com/alekrutkowski/autoshiny) - R package for an automatic transformation of an R function into a Shiny app
-- [radmuzom/shiny_module_save_restore_state](https://github.com/radmuzom/shiny_module_save_restore_state) - A simple Shiny application to demonstrate the use of saving and restoring state using an RDS file.
 - [ModelOriented/modelDown](https://github.com/ModelOriented/modelDown) - modelDown generates a website with HTML summaries for predictive models
 - [NickCH-K/causalgraphs](https://github.com/NickCH-K/causalgraphs) - R code for causal graph animations
 - [mkearney/tfse](https://github.com/mkearney/tfse) - 🛠 Useful R functions for various things
@@ -9005,6 +9011,7 @@
 
 ## Ruby 
 
+- [mhing/fantasy_golf](https://github.com/mhing/fantasy_golf) - Web tool for fantasy golf performance tracking
 - [infused/dbf](https://github.com/infused/dbf) - DBF is a small fast Ruby library for reading dBase, xBase, Clipper and FoxPro database files
 - [kastner/halo-stats](https://github.com/kastner/halo-stats) - Library for accessing Halo stats from Haloapi.com
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
@@ -9255,6 +9262,7 @@
 
 ## Shell 
 
+- [cloudavail/aws-missing-tools](https://github.com/cloudavail/aws-missing-tools) - tools for managing AWS resources including EC2, EBS, RDS, IAM, CloudFormation and Route53.
 - [gaurav-nelson/github-action-markdown-link-check](https://github.com/gaurav-nelson/github-action-markdown-link-check) - Check all links in markdown files if they are alive or dead. 🔗✔️
 - [calogica/dbt-expectations](https://github.com/calogica/dbt-expectations) - Port(ish) of Great Expectations to dbt test macros
 - [microsoft/appcenter](https://github.com/microsoft/appcenter) - Central repository for App Center open source resources and planning.
@@ -9697,7 +9705,7 @@
 - [grssnbchr/rddj-template](https://github.com/grssnbchr/rddj-template) - A template for bootstrapping reproducible RMarkdown documents for data journalistic purposes.
 - [petervanderdoes/gitflow-avh](https://github.com/petervanderdoes/gitflow-avh) - AVH Edition of the git extensions to provide high-level repository operations for Vincent Driessen's branching model
 - [r-hub/sysreqsdb](https://github.com/r-hub/sysreqsdb) - SystemRequirements mappings for R packages
-- [strboul/dotfiles](https://github.com/strboul/dotfiles) - The workbench :toolbox:
+- [strboul/dotfiles](https://github.com/strboul/dotfiles) - My custom config files
 - [jcheng5/rhub-linux-builders](https://github.com/jcheng5/rhub-linux-builders) - Docker configuration for the Linux builders
 - [luong-komorebi/professional-programming](https://github.com/luong-komorebi/professional-programming) - A collection of full-stack resources for programmers.
 - [fresh2dev/ShinyStudio](https://github.com/fresh2dev/ShinyStudio) - A fully Dockerized, self-hosted development environment for teams. Develop where you serve.
@@ -9870,7 +9878,7 @@
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [saml-to/assume-aws-role-action](https://github.com/saml-to/assume-aws-role-action) - Assume AWS IAM Roles using SAML.to in GitHub Actions
 - [jscutlery/semver](https://github.com/jscutlery/semver) - Nx plugin to automate semantic versioning and CHANGELOG generation.
-- [ebullient/obsidian-task-collector](https://github.com/ebullient/obsidian-task-collector) - Plugin for [Obsidian.md](https://obsidian.md/) that assists with managing tasks within a document.
+- [ebullient/obsidian-task-collector](https://github.com/ebullient/obsidian-task-collector) - Plugin for https://obsidian.md/ that assists with managing tasks within a document.
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [valentine195/obsidian-leaflet-plugin](https://github.com/valentine195/obsidian-leaflet-plugin) - Adds interactive maps to Obsidian.md using Leaflet.js
 - [formio/resquel](https://github.com/formio/resquel) - Easily convert your SQL database into a REST API using Express.js
