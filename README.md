@@ -384,6 +384,7 @@
 
 ## C# # 
 
+- [fluentmigrator/fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) - Fluent migrations framework for .NET
 - [SocialExplorer/FastDBF](https://github.com/SocialExplorer/FastDBF) - A free and open source .net library for reading/writing DBF files. Fast and easy to use. Supports writing to forward-only streams which makes it easy to write dbf files in a web server environment.
 - [SyncfusionExamples/export-data-to-excel-in-c-sharp](https://github.com/SyncfusionExamples/export-data-to-excel-in-c-sharp) - This repository contains Syncfusion Excel library examples that explain how to export data to Excel in C#, from the data table, collection of objects, database, Microsoft Grid controls, array, and CSV. This works without Microsoft Excel Interop.
 - [Visio-projects/Visio-Shape-Extract](https://github.com/Visio-projects/Visio-Shape-Extract) - :arrow_heading_down: This VSTO Add-In extracts the shape attributes' text from a Microsoft Visio file. It is written as VSTO in C#/VB.NET and VBA.
@@ -623,6 +624,7 @@
 
 ## C++ 
 
+- [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [dotnetinstaller/dotnetinstaller](https://github.com/dotnetinstaller/dotnetinstaller) - A widely used, general-purpose setup bootstrapper for MS Windows.
 - [HerMajestyDrMona/Windows11DragAndDropToTaskbarFix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) - "Windows 11 Drag & Drop to the Taskbar (Fix)" fixes the missing "Drag & Drop to the Taskbar" support in Windows 11. It works with the new Windows 11 taskbar and does not require nasty changes like UndockingDisabled or restoration of the classic taskbar.
 - [dscharrer/innoextract](https://github.com/dscharrer/innoextract) - A tool to unpack installers created by Inno Setup
@@ -760,7 +762,7 @@
 - [troldal/OpenXLSX](https://github.com/troldal/OpenXLSX) - A C++ library for reading, writing, creating and modifying Microsoft Excel® (.xlsx) files.
 - [paleolimbot/rlibpal](https://github.com/paleolimbot/rlibpal) - Label placement using libpal
 - [TysonStanley/tidyfast](https://github.com/TysonStanley/tidyfast) - Fast and efficient alternatives to tidyr functions built on data.table #rdatatable #rstats
-- [hannesmuehleisen/miniparquet](https://github.com/hannesmuehleisen/miniparquet) - Library to read a subset of Parquet files
+- [hannes/miniparquet](https://github.com/hannes/miniparquet) - Library to read a subset of Parquet files
 - [hrbrmstr/spiderbar](https://github.com/hrbrmstr/spiderbar) - Lightweight R wrapper around rep-cpp for robot.txt (Robots Exclusion Protocol) parsing and path testing in R
 - [hrbrmstr/xattrs](https://github.com/hrbrmstr/xattrs) - 🗃 Work With Filesystem Object Extended Attributes — https://hrbrmstr.github.io/xattrs/index.html
 - [nacnudus/tidyxl](https://github.com/nacnudus/tidyxl) - Read untidy Excel files in R https://nacnudus.github.io/tidyxl/
@@ -1130,6 +1132,7 @@
 
 ## Go 
 
+- [kahing/goofys](https://github.com/kahing/goofys) - a high-performance, POSIX-ish Amazon S3 file system written in Go
 - [rstudio/rskey](https://github.com/rstudio/rskey) - Standalone encryption and secret key management for RStudio's Connect and Package Manager
 - [plusworx/gmin](https://github.com/plusworx/gmin) - A friendly Google Workspace administration CLI (command line interface)
 - [mergestat/mergestat](https://github.com/mergestat/mergestat) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
@@ -1842,7 +1845,6 @@
 - [tidymodels/tidymodels.org](https://github.com/tidymodels/tidymodels.org) - Source of tidymodels.org
 - [bansal/pattern.css](https://github.com/bansal/pattern.css) - CSS only library to fill empty background with beautiful patterns.
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
-- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
 - [dwyl/process-handbook](https://github.com/dwyl/process-handbook) - :green_book: Contains our processes, questions and journey to creating ateam
 - [data-edu/data-science-in-education](https://github.com/data-edu/data-science-in-education) - Repository for 'Data Science in Education Using R' by Emily A. Bovee, Ryan A. Estrellado, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez, Routledge 2020
 - [s-fleck/lgr](https://github.com/s-fleck/lgr) - A fully featured logging framework for R
@@ -1997,6 +1999,7 @@
 
 ## Java 
 
+- [gaul/s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
 - [datacleaner/DataCleaner](https://github.com/datacleaner/DataCleaner) - The premier open source Data Quality solution
 - [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [pgjdbc/pgjdbc](https://github.com/pgjdbc/pgjdbc) - Postgresql JDBC Driver
@@ -3329,6 +3332,9 @@
 
 ## Others 
 
+- [aginity/Documentation-for-Using-Aginity-Catalog-Packages](https://github.com/aginity/Documentation-for-Using-Aginity-Catalog-Packages) - All how to manuals for using the Aginity Catalog Items
+- [aginity/SQL-Server](https://github.com/aginity/SQL-Server) - Sample and community created SQL Server Aginity query packages available to download and use immediately in Aginity Pro or Team
+- [jimbrig/dbt_proj](https://github.com/jimbrig/dbt_proj) - Getting Started with Data Build Tool (dbt)
 - [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
 - [Wabri/Daje](https://github.com/Wabri/Daje) - Stop using install.sh! Start using install.yml! DAJE...
 - [willdebras/juliascripts](https://github.com/willdebras/juliascripts) - Scripts to teach myself Julia
@@ -3912,7 +3918,6 @@
 - [JayHoltslander/Structured-Data-JSON-LD](https://github.com/JayHoltslander/Structured-Data-JSON-LD) - Collection of structured data snippets in Google preferred JSON-LD format.
 - [MenaiAla/You-Dont-Know-UI](https://github.com/MenaiAla/You-Dont-Know-UI) - Learn how to build universal, modern and scalable user interfaces
 - [cole-brokamp/dockeR](https://github.com/cole-brokamp/dockeR) - 
-- [cole-brokamp/tmuxr](https://github.com/cole-brokamp/tmuxr) - Manage tmux from R
 - [tallguyjenks/tallguyjenks](https://github.com/tallguyjenks/tallguyjenks) - 
 - [integrations/slack](https://github.com/integrations/slack) - Bring your code to the conversations you care about with the GitHub and Slack integration
 - [bit101/wiki_example](https://github.com/bit101/wiki_example) - 
@@ -4378,6 +4383,7 @@
 
 ## PHP 
 
+- [doctrine/dbal](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer
 - [Chicago/metalicious](https://github.com/Chicago/metalicious) - An open source data dictionary which can be deployed to track the metadata of one or more databases.
 - [StephanMeijer/Apostolos](https://github.com/StephanMeijer/Apostolos) - Apostolos: bringing the Good Word of proper Time Tracking
 - [cebe/yii2-app-api](https://github.com/cebe/yii2-app-api) - OpenAPI Spec to API in 3, 2, 1... done!
@@ -5123,6 +5129,10 @@
 
 ## Python 
 
+- [monosidev/monosi](https://github.com/monosidev/monosi) - Open source data observability platform
+- [tokern/data-lineage](https://github.com/tokern/data-lineage) - Generate and Visualize Data Lineage from query history
+- [elementary-data/elementary](https://github.com/elementary-data/elementary) - Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data.
+- [amundsen-io/amundsen](https://github.com/amundsen-io/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
 - [seatgeek/druzhba](https://github.com/seatgeek/druzhba) - 
 - [edoconnor/combinations](https://github.com/edoconnor/combinations) - Fantasy golf combinations ⛳
 - [FredHutch/shiny-app-template](https://github.com/FredHutch/shiny-app-template) - Template for creating Shiny web applications
@@ -7241,8 +7251,6 @@
 - [rspatial/raster](https://github.com/rspatial/raster) - R raster package https://rspatial.github.io/raster/reference/raster-package.html
 - [r-lib/urlchecker](https://github.com/r-lib/urlchecker) - Run CRAN URL checks from older versions of R
 - [datascienceworkshops/tmuxr](https://github.com/datascienceworkshops/tmuxr) - Manage tmux from R
-- [cole-brokamp/bindertools](https://github.com/cole-brokamp/bindertools) - 
-- [cole-brokamp/pkg](https://github.com/cole-brokamp/pkg) - A fresh approach to package installation
 - [cole-brokamp/CB](https://github.com/cole-brokamp/CB) - My personal R package
 - [cole-brokamp/dep](https://github.com/cole-brokamp/dep) - Find, document, and deploy packages that an R project depends on
 - [cole-brokamp/mappp](https://github.com/cole-brokamp/mappp) - map in parallel with progress
@@ -8564,7 +8572,7 @@
 - [paulhendricks/anonymizer](https://github.com/paulhendricks/anonymizer) - Anonymize data containing Personally Identifiable Information (PII) in R
 - [mdlincoln/salty](https://github.com/mdlincoln/salty) - Turn Clean Data Into Messy Data
 - [ColinFay/handydandy](https://github.com/ColinFay/handydandy) - Easy CSS Styling for Shiny
-- [ColinFay/dockerfiler](https://github.com/ColinFay/dockerfiler) - Easy Dockerfile Creation from R
+- [ThinkR-open/dockerfiler](https://github.com/ThinkR-open/dockerfiler) - Easy Dockerfile Creation from R
 - [ColinFay/writing-r-extensions](https://github.com/ColinFay/writing-r-extensions) - "Writing R Extensions" manual as a bookdown
 - [daranzolin/ViewPipeSteps](https://github.com/daranzolin/ViewPipeSteps) - Create tabs of View() output for each chained pipe
 - [dokato/todor](https://github.com/dokato/todor) - TODOr - RStudio add-in for finding TODO, FIXME, CHANGED etc. comments in your code.
@@ -9221,6 +9229,7 @@
 - [f-prime/Blunt](https://github.com/f-prime/Blunt) - A CSS framework that helps with layouts and leaves your styling alone.
 - [gadenbuie/rsthemes](https://github.com/gadenbuie/rsthemes) - 🔮 Full RStudio IDE and Syntax Themes
 - [saeedalipoor/icono](https://github.com/saeedalipoor/icono) - One tag One icon, no font or svg, Pure CSS
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
 - [RinteRface/argonR](https://github.com/RinteRface/argonR) - R interface to argon HTML design
 - [rstudio/bslib](https://github.com/rstudio/bslib) - Tools for theming shiny and rmarkdown from R via Bootstrap (3 or 4) Sass.
 - [hafen/htmlwidgetsgallery](https://github.com/hafen/htmlwidgetsgallery) - 
