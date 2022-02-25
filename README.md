@@ -252,12 +252,14 @@
 
 ## C 
 
+- [nginx/nginx](https://github.com/nginx/nginx) - An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html
 - [libimobiledevice/idevicerestore](https://github.com/libimobiledevice/idevicerestore) - Restore/upgrade firmware of iOS devices
 - [LEDfan/httpuv](https://github.com/LEDfan/httpuv) - HTTP and WebSocket server package for R
 - [jeroen/gpg](https://github.com/jeroen/gpg) - Bindings to gpgme for R
 - [bwlewis/feathercache](https://github.com/bwlewis/feathercache) - Simple networked object cache
 - [bwlewis/lz4](https://github.com/bwlewis/lz4) - LZ4  Data Compression and Decompression for R
 - [z-shell/zinit](https://github.com/z-shell/zinit) - Please visit https://github.com/z-shell/zi. As this repository is no longer supported.
+- [graphbrain/graphbrain](https://github.com/graphbrain/graphbrain) - Language, Knowledge, Cognition
 - [jimhester/r-actions-test](https://github.com/jimhester/r-actions-test) - https://jimhester.github.io/r-actions-test/
 - [Enchufa2/r-flexiblas](https://github.com/Enchufa2/r-flexiblas) - FlexiBLAS API Interface for R
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
@@ -784,6 +786,7 @@
 
 ## CSS 
 
+- [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
 - [A/obsidian-blog-theme](https://github.com/A/obsidian-blog-theme) - 
 - [JPHaus/data-engineering-wiki](https://github.com/JPHaus/data-engineering-wiki) - The official wiki for the Data Engineering community.
 - [choonghyunryu/docker-shinyserver](https://github.com/choonghyunryu/docker-shinyserver) - Introduce shiny server with docker
@@ -977,6 +980,7 @@
 
 ## Common Lisp 
 
+- [dimitri/pgloader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
 - [miclill/next](https://github.com/miclill/next) - Next Browser - Be Productive.
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's power-browser.
 
@@ -1132,6 +1136,7 @@
 
 ## Go 
 
+- [SpectralOps/teller](https://github.com/SpectralOps/teller) - A secrets management tool for developers built in Go - never leave your command line for secrets.
 - [kahing/goofys](https://github.com/kahing/goofys) - a high-performance, POSIX-ish Amazon S3 file system written in Go
 - [rstudio/rskey](https://github.com/rstudio/rskey) - Standalone encryption and secret key management for RStudio's Connect and Package Manager
 - [plusworx/gmin](https://github.com/plusworx/gmin) - A friendly Google Workspace administration CLI (command line interface)
@@ -3332,6 +3337,7 @@
 
 ## Others 
 
+- [jsugarelli/refreshr](https://github.com/jsugarelli/refreshr) - Work with refreshable datasets that update their data automatically
 - [aginity/Documentation-for-Using-Aginity-Catalog-Packages](https://github.com/aginity/Documentation-for-Using-Aginity-Catalog-Packages) - All how to manuals for using the Aginity Catalog Items
 - [aginity/SQL-Server](https://github.com/aginity/SQL-Server) - Sample and community created SQL Server Aginity query packages available to download and use immediately in Aginity Pro or Team
 - [jimbrig/dbt_proj](https://github.com/jimbrig/dbt_proj) - Getting Started with Data Build Tool (dbt)
@@ -4708,7 +4714,6 @@
 - [Deyda/Microsoft](https://github.com/Deyda/Microsoft) - 
 - [Deyda/Documentation](https://github.com/Deyda/Documentation) - 
 - [Deyda/Evergreen-Script](https://github.com/Deyda/Evergreen-Script) - 
-- [michaeltlombardi/Puppet.Dsc](https://github.com/michaeltlombardi/Puppet.Dsc) - 
 - [michaeltlombardi/chocomatic-packages](https://github.com/michaeltlombardi/chocomatic-packages) - Chocolatey packages, automatically updated.
 - [MicrosoftDocs/windows-insider](https://github.com/MicrosoftDocs/windows-insider) - Technical documentation for the Windows Insider Program
 - [MicrosoftDocs/windows-powershell-docs](https://github.com/MicrosoftDocs/windows-powershell-docs) - This repo is used to contribute to Windows 10, Windows Server 2016, and MDOP PowerShell module documentation.
@@ -5436,7 +5441,6 @@
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [complexdb/zincbase](https://github.com/complexdb/zincbase) - A state of the art knowledge base
-- [graphbrain/graphbrain](https://github.com/graphbrain/graphbrain) - Language, Knowledge, Cognition
 - [davidski/infrastructure-lambdas](https://github.com/davidski/infrastructure-lambdas) - λ AWS Lambda infrastructure functions
 - [mortada/fredapi](https://github.com/mortada/fredapi) - Python API for FRED (Federal Reserve Economic Data) and ALFRED (Archival FRED)
 - [dome9/onboarding-scripts](https://github.com/dome9/onboarding-scripts) - A public repository with scripts and tools for mass / automated onboarding of cloud accounts (AWS,Azure,GCP)
@@ -5874,6 +5878,9 @@
 
 ## R 
 
+- [nflverse/pfr_scrapR](https://github.com/nflverse/pfr_scrapR) - scrape things
+- [maxto/qapi](https://github.com/maxto/qapi) - Low-level functions for quantitative analysis in R
+- [mfrasco/Metrics](https://github.com/mfrasco/Metrics) - An R package for common supervised machine learning metrics.
 - [randhyllcho/FantasyGolf](https://github.com/randhyllcho/FantasyGolf) - 
 - [ConnorDemorest/Fantasy-Golf-Analytics](https://github.com/ConnorDemorest/Fantasy-Golf-Analytics) - Using statistics to inform how to pick fantasy golfers each week.
 - [SebKrantz/shiny-data-portal](https://github.com/SebKrantz/shiny-data-portal) - A Shiny Application to Host, Filter, Aggregate and Download Data in Various Formats
@@ -9035,7 +9042,6 @@
 - [codervault/codervault](https://github.com/codervault/codervault) - An Open Source, Self-Hosted, Snippet Manager
 - [thoughtbot/parity](https://github.com/thoughtbot/parity) - Shell commands for development, staging, and production parity for Heroku apps
 - [copiousfreetime/launchy](https://github.com/copiousfreetime/launchy) - A helper for launching cross-platform applications in a fire and forget manner.
-- [michaeltlombardi/puppetlabs-powershell](https://github.com/michaeltlombardi/puppetlabs-powershell) - powershell provider for the Puppet exec resource type
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language [mirror]
 - [Homebrew/linuxbrew-core](https://github.com/Homebrew/linuxbrew-core) - 💀Formerly the core formulae for the Homebrew package manager on Linux
 - [chocolatey-community/puppet-chocolatey_server](https://github.com/chocolatey-community/puppet-chocolatey_server) - Chocolatey Simple Server Puppet Module
@@ -9103,6 +9109,7 @@
 
 ## Rust 
 
+- [timvisee/git-state](https://github.com/timvisee/git-state) - 🧪 Probe git repository state
 - [max-sixty/prql](https://github.com/max-sixty/prql) - PRQL is a modern language for transforming data — a simpler and more powerful SQL
 - [VladimirMarkelov/ttdl](https://github.com/VladimirMarkelov/ttdl) - TTDL - Terminal Todo List Manager
 - [dirs-dev/directories-rs](https://github.com/dirs-dev/directories-rs) - a mid-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows
@@ -9204,6 +9211,7 @@
 
 ## SCSS 
 
+- [Noovolari/leapp-website](https://github.com/Noovolari/leapp-website) - leapp site
 - [SlRvb/Obsidian--ITS-Theme](https://github.com/SlRvb/Obsidian--ITS-Theme) - Theme designed with readability and customizability in mind. Change it easily to your liking with the Style Settings plugin installed.
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [p-kostic/p-kostic.github.io](https://github.com/p-kostic/p-kostic.github.io) - Personal blog and knowledge base where I share stuff I couldn't find elsewhere. Live: https://blog.kostic.dev
@@ -9271,6 +9279,8 @@
 
 ## Shell 
 
+- [timvisee/send-docker-compose](https://github.com/timvisee/send-docker-compose) - :cloud: Basic Docker compose configuration for Send. https://gitlab.com/timvisee/send-docker-compose
+- [timvisee/docker-compose-mssql](https://github.com/timvisee/docker-compose-mssql) - :whale: Docker configuration for an Microsoft SQL server on Linux using docker-compose
 - [cloudavail/aws-missing-tools](https://github.com/cloudavail/aws-missing-tools) - tools for managing AWS resources including EC2, EBS, RDS, IAM, CloudFormation and Route53.
 - [gaurav-nelson/github-action-markdown-link-check](https://github.com/gaurav-nelson/github-action-markdown-link-check) - Check all links in markdown files if they are alive or dead. 🔗✔️
 - [calogica/dbt-expectations](https://github.com/calogica/dbt-expectations) - Port(ish) of Great Expectations to dbt test macros
@@ -9871,6 +9881,7 @@
 
 ## TypeScript 
 
+- [Noovolari/leapp](https://github.com/Noovolari/leapp) - Leapp is the DevTool to access your cloud
 - [davish/obsidian-full-calendar](https://github.com/davish/obsidian-full-calendar) - Full Calendar integration for Obsidian
 - [A/repo-manager](https://github.com/A/repo-manager) - Opinionated wrapper around git clone, that keeps all your repos in structure
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
@@ -10317,6 +10328,7 @@
 
 ## Vim script 
 
+- [timvisee/dotfiles](https://github.com/timvisee/dotfiles) - :octocat: Tim does dotfiles
 - [joshukraine/dotfiles](https://github.com/joshukraine/dotfiles) - :round_pushpin: My dotfiles for macOS using Fish/Zsh, Neovim, and Tmux
 - [A/.dotfiles](https://github.com/A/.dotfiles) - configs and utils
 - [rhysd/dogfiles](https://github.com/rhysd/dogfiles) - dog + dotfiles = dogfiles
