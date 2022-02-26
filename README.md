@@ -386,6 +386,7 @@
 
 ## C# # 
 
+- [fredatgithub/DeployApplication](https://github.com/fredatgithub/DeployApplication) - Deploy an application with Git
 - [fluentmigrator/fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) - Fluent migrations framework for .NET
 - [SocialExplorer/FastDBF](https://github.com/SocialExplorer/FastDBF) - A free and open source .net library for reading/writing DBF files. Fast and easy to use. Supports writing to forward-only streams which makes it easy to write dbf files in a web server environment.
 - [SyncfusionExamples/export-data-to-excel-in-c-sharp](https://github.com/SyncfusionExamples/export-data-to-excel-in-c-sharp) - This repository contains Syncfusion Excel library examples that explain how to export data to Excel in C#, from the data table, collection of objects, database, Microsoft Grid controls, array, and CSV. This works without Microsoft Excel Interop.
@@ -786,6 +787,7 @@
 
 ## CSS 
 
+- [sergey900553/obsidian_githublike_theme](https://github.com/sergey900553/obsidian_githublike_theme) - Obsidian dark theme
 - [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
 - [A/obsidian-blog-theme](https://github.com/A/obsidian-blog-theme) - 
 - [JPHaus/data-engineering-wiki](https://github.com/JPHaus/data-engineering-wiki) - The official wiki for the Data Engineering community.
@@ -1136,6 +1138,7 @@
 
 ## Go 
 
+- [qawatake/obsdconv](https://github.com/qawatake/obsdconv) - convert obsidian markdowns in multiple ways
 - [SpectralOps/teller](https://github.com/SpectralOps/teller) - A secrets management tool for developers built in Go - never leave your command line for secrets.
 - [kahing/goofys](https://github.com/kahing/goofys) - a high-performance, POSIX-ish Amazon S3 file system written in Go
 - [rstudio/rskey](https://github.com/rstudio/rskey) - Standalone encryption and secret key management for RStudio's Connect and Package Manager
@@ -1472,6 +1475,7 @@
 
 ## HTML 
 
+- [LuciferUchiha/Digital-Garden](https://github.com/LuciferUchiha/Digital-Garden) - My Digital Garden built from Obsidian notes
 - [A/shuvalov.info](https://github.com/A/shuvalov.info) - My blog
 - [r-devel/r-dev-web](https://github.com/r-devel/r-dev-web) - Mirror of the r-dev-web svn repository
 - [microsoft/MCW-Migrating-SQL-databases-to-Azure](https://github.com/microsoft/MCW-Migrating-SQL-databases-to-Azure) - MCW Migrating SQL databases to Azure
@@ -2079,6 +2083,8 @@
 
 ## JavaScript 
 
+- [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
+- [konhi/obsidian-community-list](https://github.com/konhi/obsidian-community-list) - 📃 • updated list of community themes & plugins for obsidian.md!
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [b-lavigne/fantasy-golf](https://github.com/b-lavigne/fantasy-golf) - Fantasy Golf App - MEAN stack
 - [edwardz8/rotolinks](https://github.com/edwardz8/rotolinks) - Fantasy Golf Draft App
@@ -2353,7 +2359,7 @@
 - [Rychillie/monorepo](https://github.com/Rychillie/monorepo) - 
 - [archit-p/editable-react-table](https://github.com/archit-p/editable-react-table) - React table built to resemble a database.
 - [explorableexplanations/explorableexplanations.github.io](https://github.com/explorableexplanations/explorableexplanations.github.io) - The Explorable Explanations Website
-- [khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
+- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 - [apiaryio/dredd](https://github.com/apiaryio/dredd) - Language-agnostic HTTP API Testing Tool
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
@@ -3119,6 +3125,7 @@
 
 ## Jupyter Notebook 
 
+- [ploomber/projects](https://github.com/ploomber/projects) - Sample projects using Ploomber.
 - [MassStreetAnalytics/etl-framework](https://github.com/MassStreetAnalytics/etl-framework) - A framework for moving data into a data warehouse.
 - [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Free Data Engineering course!
 - [chanon-kr/Shared_Function](https://github.com/chanon-kr/Shared_Function) - Shared functions within my team
@@ -3337,6 +3344,8 @@
 
 ## Others 
 
+- [timbaker-iex/excel-templates-and-tools](https://github.com/timbaker-iex/excel-templates-and-tools) - Handy excel templates I have developed over the years.
+- [kmaasrud/wsh](https://github.com/kmaasrud/wsh) - Get Wikipedia summaries from the command line
 - [jsugarelli/refreshr](https://github.com/jsugarelli/refreshr) - Work with refreshable datasets that update their data automatically
 - [aginity/Documentation-for-Using-Aginity-Catalog-Packages](https://github.com/aginity/Documentation-for-Using-Aginity-Catalog-Packages) - All how to manuals for using the Aginity Catalog Items
 - [aginity/SQL-Server](https://github.com/aginity/SQL-Server) - Sample and community created SQL Server Aginity query packages available to download and use immediately in Aginity Pro or Team
@@ -4473,6 +4482,7 @@
 
 ## Perl 
 
+- [bucardo/check_postgres](https://github.com/bucardo/check_postgres) - Nagios check_postgres plugin for checking status of PostgreSQL databases
 - [dalibo/sqlserver2pgsql](https://github.com/dalibo/sqlserver2pgsql) - Migration tool to convert a Microsoft SQL Server Database into a PostgreSQL database, as automatically as possible
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [trapd00r/ls--](https://github.com/trapd00r/ls--) - ls on steroids
@@ -4996,7 +5006,7 @@
 - [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) - 📦 The Extras bucket for Scoop.
 - [SegoCode/Reg-importer](https://github.com/SegoCode/Reg-importer) - Easy import registry configurations for new windows install - Json values to registry
 - [Metaljisawa/OptimizationWindowsV1](https://github.com/Metaljisawa/OptimizationWindowsV1) - Short script ps1 for remove the unnecessary part on Windows 10
-- [LeDragoX/Win10SmartDebloat](https://github.com/LeDragoX/Win10SmartDebloat) - This is an adapted version from https://github.com/W4RH4WK/Debloat-Windows-10. These scripts will Customize, Debloat and Improve Security/Performance on Windows 10+.
+- [LeDragoX/Win-10-Smart-Debloat-Tools](https://github.com/LeDragoX/Win-10-Smart-Debloat-Tools) - This is an adapted version from https://github.com/W4RH4WK/Debloat-Windows-10. These scripts will Customize, Debloat and Improve Security/Performance on Windows 10+.
 - [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
 - [canonical/ubuntu-cooker](https://github.com/canonical/ubuntu-cooker) - Ubuntu WSL UWP Builder
 - [Phil-Factor/SQLCloneFamily](https://github.com/Phil-Factor/SQLCloneFamily) - 
@@ -5134,6 +5144,9 @@
 
 ## Python 
 
+- [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A SQL linter and auto-formatter for Humans
+- [ramisedhom/obsidian-plugins-categorization](https://github.com/ramisedhom/obsidian-plugins-categorization) - The purpose of this project is to categorize the Obsidian.md community or third-party plugins. This effort is mainly to help myself and others to find the proper plugin for personal needs..
+- [Keeper-Security/secrets-manager](https://github.com/Keeper-Security/secrets-manager) - Keeper Secrets Manager is a fully managed cloud-based, zero-knowledge platform for securing infrastructure secrets such as API keys, database passwords, access keys, certificates and any type of confidential data.
 - [monosidev/monosi](https://github.com/monosidev/monosi) - Open source data observability platform
 - [tokern/data-lineage](https://github.com/tokern/data-lineage) - Generate and Visualize Data Lineage from query history
 - [elementary-data/elementary](https://github.com/elementary-data/elementary) - Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data.
@@ -5878,6 +5891,15 @@
 
 ## R 
 
+- [eugejoh/pgtools](https://github.com/eugejoh/pgtools) - Simple tools for writing tables to PostgreSQL from R
+- [ropensci/fingertipsR](https://github.com/ropensci/fingertipsR) - R package to interact with Public Health England’s Fingertips data tool
+- [aarong1/RshinyHelpers](https://github.com/aarong1/RshinyHelpers) - Helpers and elements to use in Rshiny
+- [bastianilso/finance-rshiny](https://github.com/bastianilso/finance-rshiny) - Aggregate expenses by monthly, yearly, weekly and daily cost.
+- [andrie/fractaltree](https://github.com/andrie/fractaltree) - Create fractal trees using R
+- [andrie/version.compare](https://github.com/andrie/version.compare) - R package that allows you to run R code in different versions of R and compare results
+- [andrie/rrd](https://github.com/andrie/rrd) - R package for working with .rrd files
+- [ketchbrookanalytics/shiny-custom-bscard](https://github.com/ketchbrookanalytics/shiny-custom-bscard) - Materials for the 2022 Appsilon Shiny Conference video tutorial, "Building Custom Bootstrap Cards with Shiny"
+- [JohnCoene/shiny-endpoints](https://github.com/JohnCoene/shiny-endpoints) - Endpoints in shiny
 - [nflverse/pfr_scrapR](https://github.com/nflverse/pfr_scrapR) - scrape things
 - [maxto/qapi](https://github.com/maxto/qapi) - Low-level functions for quantitative analysis in R
 - [mfrasco/Metrics](https://github.com/mfrasco/Metrics) - An R package for common supervised machine learning metrics.
@@ -9211,6 +9233,7 @@
 
 ## SCSS 
 
+- [akaalias/getquickdown](https://github.com/akaalias/getquickdown) - QuickDown – A better inbox for your ideas.
 - [Noovolari/leapp-website](https://github.com/Noovolari/leapp-website) - leapp site
 - [SlRvb/Obsidian--ITS-Theme](https://github.com/SlRvb/Obsidian--ITS-Theme) - Theme designed with readability and customizability in mind. Change it easily to your liking with the Style Settings plugin installed.
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
@@ -9881,6 +9904,14 @@
 
 ## TypeScript 
 
+- [aidenlx/obsidian-zotero-plugin](https://github.com/aidenlx/obsidian-zotero-plugin) - Obsidian.md plugin to integrate with Zotero, create literature notes and insert citations from a Zotero library.
+- [JulesGuesnon/obsidian-markdown-shortcuts](https://github.com/JulesGuesnon/obsidian-markdown-shortcuts) - Obsidian plugin that allows to write markdown from commands
+- [qawatake/obsidian-card-view-switcher-plugin](https://github.com/qawatake/obsidian-card-view-switcher-plugin) - An Obsidian plugin to provide a quick switcher with card view
+- [Richardsl/heatmap-calendar-obsidian](https://github.com/Richardsl/heatmap-calendar-obsidian) - A plugin for obsidian for displaying data in a year calendar similar to github activity calendar
+- [ganesshkumar/obsidian-bookmarklet-maker](https://github.com/ganesshkumar/obsidian-bookmarklet-maker) - A WebApp to make Obsidian Clippers or Bookmarklets - to capture webpages or data from the web.
+- [qawatake/obsidian-core-search-assistant-plugin](https://github.com/qawatake/obsidian-core-search-assistant-plugin) - An Obsidian plugin to enhance built-in search: keyboard interface, card preview, bigger preview
+- [ganesshkumar/obsidian-plugins-stats-ui](https://github.com/ganesshkumar/obsidian-plugins-stats-ui) - A tool to get plugin statistics of Obsidian plugin ecosystem.
+- [weichenw/obsidian-hypothesis-plugin](https://github.com/weichenw/obsidian-hypothesis-plugin) - An Obsidian.md plugin that syncs highlights from Hypothesis.
 - [Noovolari/leapp](https://github.com/Noovolari/leapp) - Leapp is the DevTool to access your cloud
 - [davish/obsidian-full-calendar](https://github.com/davish/obsidian-full-calendar) - Full Calendar integration for Obsidian
 - [A/repo-manager](https://github.com/A/repo-manager) - Opinionated wrapper around git clone, that keeps all your repos in structure
