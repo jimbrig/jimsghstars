@@ -681,7 +681,7 @@
 - [Ironholds/urltools](https://github.com/Ironholds/urltools) - Elegant URL handling in R
 - [plv8/plv8](https://github.com/plv8/plv8) - V8 Engine Javascript Procedural Language add-on for PostgreSQL
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
-- [CookingWithCale/AStartupCookbook](https://github.com/CookingWithCale/AStartupCookbook) - An book on how to invent, launch, and run a startup with Issue-driven Development and IMUL.
+- [AStarStartup/AStartupCookbook](https://github.com/AStarStartup/AStartupCookbook) - An book on how to invent, launch, and run a startup with Issue-driven Development and IMUL.
 - [wilkelab/isoband](https://github.com/wilkelab/isoband) - isoband: An R package to generate contour lines and polygons.
 - [google/libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 - [rstudio/rstudio-launcher-plugin-sdk](https://github.com/rstudio/rstudio-launcher-plugin-sdk) - The RStudio Launcher Plugin SDK is a software development kit used to create plugins that integrate orchestration tools with the RStudio Job Launcher.
@@ -3345,7 +3345,6 @@
 ## Others 
 
 - [timbaker-iex/excel-templates-and-tools](https://github.com/timbaker-iex/excel-templates-and-tools) - Handy excel templates I have developed over the years.
-- [kmaasrud/wsh](https://github.com/kmaasrud/wsh) - Get Wikipedia summaries from the command line
 - [jsugarelli/refreshr](https://github.com/jsugarelli/refreshr) - Work with refreshable datasets that update their data automatically
 - [aginity/Documentation-for-Using-Aginity-Catalog-Packages](https://github.com/aginity/Documentation-for-Using-Aginity-Catalog-Packages) - All how to manuals for using the Aginity Catalog Items
 - [aginity/SQL-Server](https://github.com/aginity/SQL-Server) - Sample and community created SQL Server Aginity query packages available to download and use immediately in Aginity Pro or Team
@@ -4684,7 +4683,7 @@
 - [thycotic/privmanapi-docs](https://github.com/thycotic/privmanapi-docs) - PrivMan Api Docs
 - [thycotic/API](https://github.com/thycotic/API) - Repository for API calls, and use automation scripts for Thycotic's Secret Server
 - [al-cheb/winget_install_script](https://github.com/al-cheb/winget_install_script) - 
-- [ALK222/Windows-Install-Script](https://github.com/ALK222/Windows-Install-Script) - Script using winget for easy windows setup
+- [ALK222/WIS](https://github.com/ALK222/WIS) - Script using winget for easy windows setup
 - [GruberMarkus/PowerShell-Choice](https://github.com/GruberMarkus/PowerShell-Choice) - Choice with timeout for PowerShell
 - [bdukes/PowerShellModules](https://github.com/bdukes/PowerShellModules) - A collection of PowerShell modules
 - [platinum4friends/PromptForChoice](https://github.com/platinum4friends/PromptForChoice) - A PowerShell module that prompts the user to select from a list of choices. It is a simple wrapper around the .NET function $Host.UI.PromptForChoice to simplify it's usage.
@@ -5144,6 +5143,7 @@
 
 ## Python 
 
+- [sqlparser/sqlflow_public](https://github.com/sqlparser/sqlflow_public) - Document, sample code and other materials for SQLFlow
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A SQL linter and auto-formatter for Humans
 - [ramisedhom/obsidian-plugins-categorization](https://github.com/ramisedhom/obsidian-plugins-categorization) - The purpose of this project is to categorize the Obsidian.md community or third-party plugins. This effort is mainly to help myself and others to find the proper plugin for personal needs..
 - [Keeper-Security/secrets-manager](https://github.com/Keeper-Security/secrets-manager) - Keeper Secrets Manager is a fully managed cloud-based, zero-knowledge platform for securing infrastructure secrets such as API keys, database passwords, access keys, certificates and any type of confidential data.
@@ -9302,6 +9302,7 @@
 
 ## Shell 
 
+- [kmaasrud/wsh](https://github.com/kmaasrud/wsh) - Get Wikipedia summaries from the command line
 - [timvisee/send-docker-compose](https://github.com/timvisee/send-docker-compose) - :cloud: Basic Docker compose configuration for Send. https://gitlab.com/timvisee/send-docker-compose
 - [timvisee/docker-compose-mssql](https://github.com/timvisee/docker-compose-mssql) - :whale: Docker configuration for an Microsoft SQL server on Linux using docker-compose
 - [cloudavail/aws-missing-tools](https://github.com/cloudavail/aws-missing-tools) - tools for managing AWS resources including EC2, EBS, RDS, IAM, CloudFormation and Route53.
@@ -9787,7 +9788,6 @@
 
 ## Swift 
 
-- [abeldemoz/Checklist](https://github.com/abeldemoz/Checklist) - 
 - [GitHawkApp/GitHawk](https://github.com/GitHawkApp/GitHawk) - The (second) best iOS app for GitHub.
 - [chenyun122/StepIndicator](https://github.com/chenyun122/StepIndicator) - StepIndicator is an iOS library that indicates steps in an animated way.
 - [Jinxiansen/Windows11](https://github.com/Jinxiansen/Windows11) - 💻 Windows 11 in SwiftUI.
