@@ -2084,6 +2084,7 @@
 ## JavaScript 
 
 - [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
+- [Richardsl/heatmap-calendar-obsidian](https://github.com/Richardsl/heatmap-calendar-obsidian) - A plugin for obsidian for displaying data in a year calendar similar to github activity calendar
 - [konhi/obsidian-community-list](https://github.com/konhi/obsidian-community-list) - 📃 • updated list of community themes & plugins for obsidian.md!
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [b-lavigne/fantasy-golf](https://github.com/b-lavigne/fantasy-golf) - Fantasy Golf App - MEAN stack
@@ -2495,7 +2496,7 @@
 - [timelyportfolio/mapshaper_htmlwidget](https://github.com/timelyportfolio/mapshaper_htmlwidget) - R htmlwidget for mapshaper
 - [nosir/cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing...
 - [JohnCoene/golem-cmd](https://github.com/JohnCoene/golem-cmd) - :bulb: A cli for golem
-- [JohnCoene/ambiorix-cli](https://github.com/JohnCoene/ambiorix-cli) - Command line interface for ambiorix
+- [devOpifex/ambiorix-cli](https://github.com/devOpifex/ambiorix-cli) - Command line interface for ambiorix
 - [atmist/snazzy-info-window](https://github.com/atmist/snazzy-info-window) - Customizable info windows using the Google Maps JavaScript API.
 - [wf9a5m75/snapshotcontrol](https://github.com/wf9a5m75/snapshotcontrol) - Generate static maps api url from Google Maps API v2 (not v3)
 - [zhenyanghua/MeasureTool-GoogleMaps-V3](https://github.com/zhenyanghua/MeasureTool-GoogleMaps-V3) - A mobile friendly measure tool for Google Maps JS API v3.
@@ -6923,7 +6924,7 @@
 - [hrbrmstr/swiftr](https://github.com/hrbrmstr/swiftr) - Seamless R and Swift Integration
 - [ginolhac/upnews](https://github.com/ginolhac/upnews) - Display news and update outdated github R packages
 - [clesiemo3/postgrestR](https://github.com/clesiemo3/postgrestR) - 
-- [JohnCoene/ambiorix.generator](https://github.com/JohnCoene/ambiorix.generator) - Generate templates for ambiorix applications
+- [devOpifex/ambiorix.generator](https://github.com/devOpifex/ambiorix.generator) - Generate templates for ambiorix applications
 - [JohnCoene/packer](https://github.com/JohnCoene/packer) - webpack + npm + R = ❤️
 - [Nirzaree/ShinyWebAppWithFormAndLeafletMap](https://github.com/Nirzaree/ShinyWebAppWithFormAndLeafletMap) - This repo contains the code to build a webapp for data collection and viewing the map on a leaflet map using R Shiny. The specific webapp that I built is aimed to collect data of sustainability practices of various eateries around the world, in the times of climate change.
 - [SymbolixAU/googlePolylines](https://github.com/SymbolixAU/googlePolylines) - R package for encoding objects using Google's Polyline Encoding Algorithm
@@ -7506,7 +7507,7 @@
 - [arf-berkeley/web_geochemistry](https://github.com/arf-berkeley/web_geochemistry) - R-Shiny project for visualizing XRF and NAA geochemistry concentrations
 - [JoachimGoedhart/VolcaNoseR](https://github.com/JoachimGoedhart/VolcaNoseR) - Shiny app for making and annotating Volcano plots
 - [Jinksi/cloudrun-helloworld-r](https://github.com/Jinksi/cloudrun-helloworld-r) - An example of creating serverless functions using R, plumber and Docker
-- [JohnCoene/ambiorix](https://github.com/JohnCoene/ambiorix) - 🖥️ Web framework for R
+- [devOpifex/ambiorix](https://github.com/devOpifex/ambiorix) - 🖥️ Web framework for R
 - [chainsawriot/oolong](https://github.com/chainsawriot/oolong) - oolong 🍵 : create and administrate validation tests for typical automated content analysis tools.
 - [moodymudskipper/typed](https://github.com/moodymudskipper/typed) - Support Types for Variables, Arguments, and Return Values
 - [daattali/shinyscreenshot](https://github.com/daattali/shinyscreenshot) - 📷 Capture screenshots of entire pages or parts of pages in Shiny apps
@@ -9131,6 +9132,7 @@
 
 ## Rust 
 
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - An elastic and reliable Modern Cloud Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
 - [timvisee/git-state](https://github.com/timvisee/git-state) - 🧪 Probe git repository state
 - [max-sixty/prql](https://github.com/max-sixty/prql) - PRQL is a modern language for transforming data — a simpler and more powerful SQL
 - [VladimirMarkelov/ttdl](https://github.com/VladimirMarkelov/ttdl) - TTDL - Terminal Todo List Manager
@@ -9907,7 +9909,6 @@
 - [aidenlx/obsidian-zotero-plugin](https://github.com/aidenlx/obsidian-zotero-plugin) - Obsidian.md plugin to integrate with Zotero, create literature notes and insert citations from a Zotero library.
 - [JulesGuesnon/obsidian-markdown-shortcuts](https://github.com/JulesGuesnon/obsidian-markdown-shortcuts) - Obsidian plugin that allows to write markdown from commands
 - [qawatake/obsidian-card-view-switcher-plugin](https://github.com/qawatake/obsidian-card-view-switcher-plugin) - An Obsidian plugin to provide a quick switcher with card view
-- [Richardsl/heatmap-calendar-obsidian](https://github.com/Richardsl/heatmap-calendar-obsidian) - A plugin for obsidian for displaying data in a year calendar similar to github activity calendar
 - [ganesshkumar/obsidian-bookmarklet-maker](https://github.com/ganesshkumar/obsidian-bookmarklet-maker) - A WebApp to make Obsidian Clippers or Bookmarklets - to capture webpages or data from the web.
 - [qawatake/obsidian-core-search-assistant-plugin](https://github.com/qawatake/obsidian-core-search-assistant-plugin) - An Obsidian plugin to enhance built-in search: keyboard interface, card preview, bigger preview
 - [ganesshkumar/obsidian-plugins-stats-ui](https://github.com/ganesshkumar/obsidian-plugins-stats-ui) - A tool to get plugin statistics of Obsidian plugin ecosystem.
