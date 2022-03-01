@@ -444,7 +444,7 @@
 - [davotronic5000/PowerShell_Credential_Manager](https://github.com/davotronic5000/PowerShell_Credential_Manager) - PowerShell Module to Read and Write Credentials from the Windows Credential Manager
 - [luandersonn/MyFTP](https://github.com/luandersonn/MyFTP) - A modern FTP client for Windows 11
 - [dongle-the-gadget/W11ISOPatcher](https://github.com/dongle-the-gadget/W11ISOPatcher) - Windows 11 ISO patcher
-- [ikas-mc/ContextMenuForWindows11](https://github.com/ikas-mc/ContextMenuForWindows11) - Add Context Menu For Windows11
+- [ikas-mc/ContextMenuForWindows11](https://github.com/ikas-mc/ContextMenuForWindows11) - Add Custom Context Menu For Windows11
 - [hahagu/WindowsThumbnailGenerator](https://github.com/hahagu/WindowsThumbnailGenerator) - 
 - [microsoft/Windows-appsample-customers-orders-database](https://github.com/microsoft/Windows-appsample-customers-orders-database) - This code demonstrates a working customer order database hosted on Azure, implemented in C# and XAML, and ready to form the basis of your Windows Store enterprise app.
 - [stnkl/EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - Everything integration for the Windows taskbar.
@@ -2424,7 +2424,7 @@
 - [mitcom/steal_cookie](https://github.com/mitcom/steal_cookie) - Chrome extension to copy authentication cookies from staging server which allow to login on localhost
 - [malsup/blockui](https://github.com/malsup/blockui) - jQuery BlockUI Plugin
 - [expo/expo-github-action](https://github.com/expo/expo-github-action) - Expo in your GitHub Actions workflow
-- [react-native-mapbox-gl/maps](https://github.com/react-native-mapbox-gl/maps) - A Mapbox GL react native module for creating custom maps
+- [rnmapbox/maps](https://github.com/rnmapbox/maps) - A Mapbox GL react native module for creating custom maps
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
 - [flexible-agency/react-native-map-link](https://github.com/flexible-agency/react-native-map-link) - 🗺 Open the map app of the user's choice.
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
@@ -3345,6 +3345,7 @@
 
 ## Others 
 
+- [count/sql-snippets](https://github.com/count/sql-snippets) - A curated collection of helpful SQL queries and functions, maintained by Count.
 - [timbaker-iex/excel-templates-and-tools](https://github.com/timbaker-iex/excel-templates-and-tools) - Handy excel templates I have developed over the years.
 - [jsugarelli/refreshr](https://github.com/jsugarelli/refreshr) - Work with refreshable datasets that update their data automatically
 - [aginity/Documentation-for-Using-Aginity-Catalog-Packages](https://github.com/aginity/Documentation-for-Using-Aginity-Catalog-Packages) - All how to manuals for using the Aginity Catalog Items
@@ -9343,6 +9344,7 @@
 - [many-passwords/many-passwords](https://github.com/many-passwords/many-passwords) - Default credentials list. 🐱‍💻 Leave a star if you like this project! (that motivates me)⭐️
 - [Phantas0s/ArchInstall](https://github.com/Phantas0s/ArchInstall) - :computer: Personnal install scripts for my development environment
 - [twright-msft/mssql-custom-app-image](https://github.com/twright-msft/mssql-custom-app-image) - An example of creating a container image from mssql-server-linux that will configure some server settings like a user role, login, create a database, and populate some schema, and test data into it
+- [jimbrig/KaaS](https://github.com/jimbrig/KaaS) - KaaS - Knowledge as a Service
 - [brooklyncentral/clocker](https://github.com/brooklyncentral/clocker) - Apache Brooklyn cloud native infrastructure blueprints
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [alexandregz/search-completion](https://github.com/alexandregz/search-completion) - bash completion to search (command s from  https://github.com/zquestz/s)
@@ -9835,7 +9837,6 @@
 ## TeX 
 
 - [ewfrees/LDARcode](https://github.com/ewfrees/LDARcode) - R Code to Support the Loss Data Analytics Book
-- [jimbrig/KaaS](https://github.com/jimbrig/KaaS) - KaaS - Knowledge as a Service
 - [Sheing/SalesforceActuarial](https://github.com/Sheing/SalesforceActuarial) - Salesforce x Actuarial Mortality Table
 - [ewfrees/LossDataAnalyticsOverheads](https://github.com/ewfrees/LossDataAnalyticsOverheads) - This site provides overheads for the drafts of our Loss Data Analytics chapters.
 - [ewfrees/LifeCon](https://github.com/ewfrees/LifeCon) - This site contains lecture notes for Life Contingencies, also known as Actuarial Mathematics. It is part of the Open Actuarial Textbooks project.
