@@ -213,7 +213,6 @@
 - [mhgschmidt/w10install](https://github.com/mhgschmidt/w10install) - Automated Windows installation and Telemetry removal.
 - [ITCMD/DISM-Manager](https://github.com/ITCMD/DISM-Manager) - Manage Dism and WinPE with this program!
 - [kuzi-moto/WinPEHelper](https://github.com/kuzi-moto/WinPEHelper) - Powershell modules that run without being in the Deployment and Imaging Tools environment
-- [Pernat1y/winpe_scripts](https://github.com/Pernat1y/winpe_scripts) - Scripts to work with WinPE images
 - [cmartinezone/DriveSanitizer](https://github.com/cmartinezone/DriveSanitizer) - DriveSanitizer Cleans multiple storage drives simultaneously and secure
 - [gdiaz384/ADKTools](https://github.com/gdiaz384/ADKTools) - ADKTools provides a set of windows scripts to help manage ADKs, WIM images and WinPE.
 - [semaluo/MakePE](https://github.com/semaluo/MakePE) - Scripts used to build WinPE 3, WinPE 5, and WinPE 10
@@ -284,7 +283,7 @@
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [paleolimbot/narrow](https://github.com/paleolimbot/narrow) - An R interface to the 'Apache Arrow' C API
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
-- [billziss-gh/sshfs-win](https://github.com/billziss-gh/sshfs-win) - SSHFS For Windows
+- [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win) - SSHFS For Windows
 - [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
 - [microsoft/Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples) - This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.
 - [ed10vi/msi-steelseries-led](https://github.com/ed10vi/msi-steelseries-led) - Control Keyboard backlight in MSI laptops with Steelseries Engine 3 and 2 Keyboards
@@ -334,7 +333,7 @@
 - [henkman/virgo](https://github.com/henkman/virgo) - :virgo::computer::computer::computer::computer: Virtual desktops for Windows
 - [soramimi/Guitar](https://github.com/soramimi/Guitar) - Git GUI Client
 - [hacksysteam/HackSysExtremeVulnerableDriver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver) - HackSys Extreme Vulnerable Windows Driver
-- [billziss-gh/winfsp](https://github.com/billziss-gh/winfsp) - Windows File System Proxy - FUSE for Windows
+- [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
 - [taviso/loadlibrary](https://github.com/taviso/loadlibrary) - Porting Windows Dynamic Link Libraries to Linux
 - [dokan-dev/dokany](https://github.com/dokan-dev/dokany) - User mode file system library for windows with FUSE Wrapper
 - [processhacker/processhacker](https://github.com/processhacker/processhacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
@@ -386,6 +385,7 @@
 
 ## C# # 
 
+- [noakesey/d365fo-entity-schema](https://github.com/noakesey/d365fo-entity-schema) - Visual Studio extension to generate entity relation schema for Dynamics 365 Finance Operations (D365FO)
 - [fredatgithub/DeployApplication](https://github.com/fredatgithub/DeployApplication) - Deploy an application with Git
 - [fluentmigrator/fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) - Fluent migrations framework for .NET
 - [SocialExplorer/FastDBF](https://github.com/SocialExplorer/FastDBF) - A free and open source .net library for reading/writing DBF files. Fast and easy to use. Supports writing to forward-only streams which makes it easy to write dbf files in a web server environment.
@@ -1138,6 +1138,7 @@
 
 ## Go 
 
+- [devOpifex/cmd](https://github.com/devOpifex/cmd) - Code generator to produce CLI from R packages
 - [qawatake/obsdconv](https://github.com/qawatake/obsdconv) - convert obsidian markdowns in multiple ways
 - [SpectralOps/teller](https://github.com/SpectralOps/teller) - A secrets management tool for developers built in Go - never leave your command line for secrets.
 - [kahing/goofys](https://github.com/kahing/goofys) - a high-performance, POSIX-ish Amazon S3 file system written in Go
@@ -1475,6 +1476,7 @@
 
 ## HTML 
 
+- [thomasp85/tidygraph](https://github.com/thomasp85/tidygraph) - A tidy API for graph manipulation
 - [LuciferUchiha/Digital-Garden](https://github.com/LuciferUchiha/Digital-Garden) - My Digital Garden built from Obsidian notes
 - [A/shuvalov.info](https://github.com/A/shuvalov.info) - My blog
 - [r-devel/r-dev-web](https://github.com/r-devel/r-dev-web) - Mirror of the r-dev-web svn repository
@@ -2008,6 +2010,8 @@
 
 ## Java 
 
+- [petersonjr/MetadataCrawler](https://github.com/petersonjr/MetadataCrawler) - A simple tool to extract metadata from relational databases
+- [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool
 - [gaul/s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
 - [datacleaner/DataCleaner](https://github.com/datacleaner/DataCleaner) - The premier open source Data Quality solution
 - [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
@@ -2083,6 +2087,8 @@
 
 ## JavaScript 
 
+- [aichholzer/modellr](https://github.com/aichholzer/modellr) - Database connection manager for Sequelize.
+- [krismorte/database-diagrams](https://github.com/krismorte/database-diagrams) - automatic database documentation solution using shemaspy
 - [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
 - [Richardsl/heatmap-calendar-obsidian](https://github.com/Richardsl/heatmap-calendar-obsidian) - A plugin for obsidian for displaying data in a year calendar similar to github activity calendar
 - [konhi/obsidian-community-list](https://github.com/konhi/obsidian-community-list) - 📃 • updated list of community themes & plugins for obsidian.md!
@@ -2262,8 +2268,7 @@
 - [Moyster/BaiGfe](https://github.com/Moyster/BaiGfe) - Remove Mandatory Login of Geforce Experience - [support: v3.14.x &lt;-&gt; v3.20.x]
 - [ritwickdey/live-server-web-extension](https://github.com/ritwickdey/live-server-web-extension) - It makes your existing server live. This is a browser extension that helps you to live reload feature for dynamic content (PHP, Node.js, ASP.NET -- Whatever, it doesn't matter)
 - [luzeadev/techbench-dump-web](https://github.com/luzeadev/techbench-dump-web) - An easy to use website to generate links for Microsoft products.
-- [luzeadev/google-drive-index-worker](https://github.com/luzeadev/google-drive-index-worker) - Modified version of maple3142/GDIndex.
-- [Lierrmm/Node-CallOfDuty](https://github.com/Lierrmm/Node-CallOfDuty) - Node Wrapper for the "private" Call Of Duty API.
+- [luzea-archive/google-drive-index-worker](https://github.com/luzea-archive/google-drive-index-worker) - Modified version of maple3142/GDIndex.
 - [silas/node-papi](https://github.com/silas/node-papi) - Library for building HTTP API clients
 - [whygareth/wzrand](https://github.com/whygareth/wzrand) - 
 - [knrt10/cloudinary-cli](https://github.com/knrt10/cloudinary-cli) - Manage files of cloudinary.com using your command line.
@@ -3126,6 +3131,7 @@
 
 ## Jupyter Notebook 
 
+- [Azure-Samples/serverless-full-stack-apps-azure-sql](https://github.com/Azure-Samples/serverless-full-stack-apps-azure-sql) - Full stack solution using Vue.js, Azure Static Web Apps, Azure Function, Azure SQL Database and a microservice architecture to monitor in real-time public transportation data, create a geofence and send notification when geofence is activated
 - [ploomber/projects](https://github.com/ploomber/projects) - Sample projects using Ploomber.
 - [MassStreetAnalytics/etl-framework](https://github.com/MassStreetAnalytics/etl-framework) - A framework for moving data into a data warehouse.
 - [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Free Data Engineering course!
@@ -5145,6 +5151,7 @@
 
 ## Python 
 
+- [Vanderhoof/PyDBML](https://github.com/Vanderhoof/PyDBML) - DBML parser for Python
 - [sqlparser/sqlflow_public](https://github.com/sqlparser/sqlflow_public) - Document, sample code and other materials for SQLFlow
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A SQL linter and auto-formatter for Humans
 - [ramisedhom/obsidian-plugins-categorization](https://github.com/ramisedhom/obsidian-plugins-categorization) - The purpose of this project is to categorize the Obsidian.md community or third-party plugins. This effort is mainly to help myself and others to find the proper plugin for personal needs..
@@ -5634,7 +5641,7 @@
 - [ardunn/dex](https://github.com/ardunn/dex) - an ultra-minimal productivity system
 - [ReneNyffenegger/about-sqlite](https://github.com/ReneNyffenegger/about-sqlite) - About sqlite
 - [ReneNyffenegger/about-python](https://github.com/ReneNyffenegger/about-python) - Small notes etc on python
-- [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Investigate Google emails and documents.
+- [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [lamyj/wsl-path-converter](https://github.com/lamyj/wsl-path-converter) - Convert between Linux and Windows path in WSL
 - [riag/wsltty-launcher](https://github.com/riag/wsltty-launcher) - launch Mintty as a terminal for WSL Linux
 - [not-kennethreitz/wsl-guide](https://github.com/not-kennethreitz/wsl-guide) - The Hitchhiker's Guide to Bash on Ubuntu on Windows!
@@ -5893,6 +5900,7 @@
 
 ## R 
 
+- [jangorecki/data.cube](https://github.com/jangorecki/data.cube) - OLAP cubes R data type
 - [eugejoh/pgtools](https://github.com/eugejoh/pgtools) - Simple tools for writing tables to PostgreSQL from R
 - [ropensci/fingertipsR](https://github.com/ropensci/fingertipsR) - R package to interact with Public Health England’s Fingertips data tool
 - [aarong1/RshinyHelpers](https://github.com/aarong1/RshinyHelpers) - Helpers and elements to use in Rshiny
@@ -9050,6 +9058,7 @@
 
 ## Ruby 
 
+- [caffkane/dbml_parser](https://github.com/caffkane/dbml_parser) - Parse DBML files with ease (Database Markup Language).
 - [mhing/fantasy_golf](https://github.com/mhing/fantasy_golf) - Web tool for fantasy golf performance tracking
 - [infused/dbf](https://github.com/infused/dbf) - DBF is a small fast Ruby library for reading dBase, xBase, Clipper and FoxPro database files
 - [kastner/halo-stats](https://github.com/kastner/halo-stats) - Library for accessing Halo stats from Haloapi.com
@@ -9133,6 +9142,7 @@
 
 ## Rust 
 
+- [saskenuba/dbml-language-server](https://github.com/saskenuba/dbml-language-server) - DBML code intelligence through the Language Server Protocol.
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - An elastic and reliable Modern Cloud Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
 - [timvisee/git-state](https://github.com/timvisee/git-state) - 🧪 Probe git repository state
 - [max-sixty/prql](https://github.com/max-sixty/prql) - PRQL is a modern language for transforming data — a simpler and more powerful SQL
@@ -9907,6 +9917,10 @@
 
 ## TypeScript 
 
+- [OfficeDev/generator-office](https://github.com/OfficeDev/generator-office) - Yeoman generator for building Microsoft Office related projects.
+- [cybertec-postgresql/react-database-diagram](https://github.com/cybertec-postgresql/react-database-diagram) - A react component to render nice database diagram using storm-react-diagrams
+- [IllusiveBagel/DBMLDocs](https://github.com/IllusiveBagel/DBMLDocs) - A Standalone Site for Displaying Database Documentation Based on DBML Files
+- [mattmeyers/vscode-dbml](https://github.com/mattmeyers/vscode-dbml) - VS Code language support for DBML
 - [aidenlx/obsidian-zotero-plugin](https://github.com/aidenlx/obsidian-zotero-plugin) - Obsidian.md plugin to integrate with Zotero, create literature notes and insert citations from a Zotero library.
 - [JulesGuesnon/obsidian-markdown-shortcuts](https://github.com/JulesGuesnon/obsidian-markdown-shortcuts) - Obsidian plugin that allows to write markdown from commands
 - [qawatake/obsidian-card-view-switcher-plugin](https://github.com/qawatake/obsidian-card-view-switcher-plugin) - An Obsidian plugin to provide a quick switcher with card view
@@ -10020,6 +10034,7 @@
 - [withastro/astro](https://github.com/withastro/astro) - Build fast websites, faster. 🚀🧑‍🚀✨
 - [umijs/umi](https://github.com/umijs/umi) - 🌋 Pluggable enterprise-level react application framework.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [Lierrmm/Node-CallOfDuty](https://github.com/Lierrmm/Node-CallOfDuty) - Node Wrapper for the "private" Call Of Duty API.
 - [4lch4/Lib-HN](https://github.com/4lch4/Lib-HN) - A library for interacting with the HackerNews API.
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
