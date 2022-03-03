@@ -1537,7 +1537,7 @@
 - [jbambrough/engineering](https://github.com/jbambrough/engineering) - All things software engineering. Coding practice, data structures, algorithms, various resources
 - [hackersandslackers/flask-jinja-tutorial](https://github.com/hackersandslackers/flask-jinja-tutorial) - :shinto_shrine: Serve dynamic web pages in Flask by mastering Flask's built-in templating engine.
 - [sfirke/packagemetrics](https://github.com/sfirke/packagemetrics) - A Package for Helping You Choose Which Package to Use
-- [IndrajeetPatil/awesome-r-pkgtools](https://github.com/IndrajeetPatil/awesome-r-pkgtools) - A curated list of awesome resources for R package development
+- [IndrajeetPatil/awesome-r-pkgtools](https://github.com/IndrajeetPatil/awesome-r-pkgtools) - A curated list of awesome tools for R package development
 - [berlotto/flask-app-template](https://github.com/berlotto/flask-app-template) - An complete Flask application template, with useful plugins.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
 - [corpsgeek/flask-form-handling](https://github.com/corpsgeek/flask-form-handling) - 
@@ -2087,6 +2087,9 @@
 
 ## JavaScript 
 
+- [mistermicheels/markdown-notes-tree](https://github.com/mistermicheels/markdown-notes-tree) - Generate Markdown trees that act as a table of contents for a folder structure with Markdown notes
+- [jbesw/askjames-s3uploader](https://github.com/jbesw/askjames-s3uploader) - A very simple Vue.JS project showing how to upload files from a web browser to an S3 bucket.
+- [heroku/heroku-pg-extras](https://github.com/heroku/heroku-pg-extras) - A heroku plugin for awesome pg:* commands that are also great and fun and super.
 - [aichholzer/modellr](https://github.com/aichholzer/modellr) - Database connection manager for Sequelize.
 - [krismorte/database-diagrams](https://github.com/krismorte/database-diagrams) - automatic database documentation solution using shemaspy
 - [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
@@ -2308,7 +2311,6 @@
 - [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [Rohithv07/Docker](https://github.com/Rohithv07/Docker) - My Workplay on Docker and Kubernetes. Ref : https://github.com/Rohithv07/DockerCasts
 - [mdn/data](https://github.com/mdn/data) - This repository contains general data for Web technologies
-- [mattwaler/next-ssr-starter](https://github.com/mattwaler/next-ssr-starter) - A starter project for using Next.js utilizing TailwindCSS and session-based SSR user modeling.
 - [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [fastify/fastify-nextjs](https://github.com/fastify/fastify-nextjs) - React server side rendering support for Fastify with Next
@@ -3333,7 +3335,7 @@
 
 ## Objective-C 
 
-- [schneelittchen/Diary](https://github.com/schneelittchen/Diary) - Windows 10/11 lock screen replica
+- [thatcluda/Diary](https://github.com/thatcluda/Diary) - Windows 10/11 lock screen replica
 - [programming-nu/nu](https://github.com/programming-nu/nu) - Nu is an interpreted Lisp that builds on the Objective-C runtime and Foundation framework.
 - [JustinFincher/GitHubContributionsiOS](https://github.com/JustinFincher/GitHubContributionsiOS) - Show off your GitHub contributions from your lock screen 📱
 - [R-macos/Mac-GUI](https://github.com/R-macos/Mac-GUI) - R GUI for macOS
@@ -3351,6 +3353,7 @@
 
 ## Others 
 
+- [dalibo/powa](https://github.com/dalibo/powa) - PostgreSQL Workload Analyzer
 - [count/sql-snippets](https://github.com/count/sql-snippets) - A curated collection of helpful SQL queries and functions, maintained by Count.
 - [timbaker-iex/excel-templates-and-tools](https://github.com/timbaker-iex/excel-templates-and-tools) - Handy excel templates I have developed over the years.
 - [jsugarelli/refreshr](https://github.com/jsugarelli/refreshr) - Work with refreshable datasets that update their data automatically
@@ -4489,6 +4492,7 @@
 
 ## Perl 
 
+- [gluefinance/pov](https://github.com/gluefinance/pov) - Take a snapshot or rollback all your stored procedures in your PostgreSQL database.
 - [bucardo/check_postgres](https://github.com/bucardo/check_postgres) - Nagios check_postgres plugin for checking status of PostgreSQL databases
 - [dalibo/sqlserver2pgsql](https://github.com/dalibo/sqlserver2pgsql) - Migration tool to convert a Microsoft SQL Server Database into a PostgreSQL database, as automatically as possible
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
@@ -5151,6 +5155,7 @@
 
 ## Python 
 
+- [perseas/Pyrseas](https://github.com/perseas/Pyrseas) - Provides utilities for Postgres database schema versioning.
 - [Vanderhoof/PyDBML](https://github.com/Vanderhoof/PyDBML) - DBML parser for Python
 - [sqlparser/sqlflow_public](https://github.com/sqlparser/sqlflow_public) - Document, sample code and other materials for SQLFlow
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A SQL linter and auto-formatter for Humans
@@ -5900,6 +5905,7 @@
 
 ## R 
 
+- [chrimaho/ExploringUndernourishment](https://github.com/chrimaho/ExploringUndernourishment) - Exploring data from the United Nations to better understand undernourishment
 - [jangorecki/data.cube](https://github.com/jangorecki/data.cube) - OLAP cubes R data type
 - [eugejoh/pgtools](https://github.com/eugejoh/pgtools) - Simple tools for writing tables to PostgreSQL from R
 - [ropensci/fingertipsR](https://github.com/ropensci/fingertipsR) - R package to interact with Public Health England’s Fingertips data tool
@@ -9315,6 +9321,7 @@
 
 ## Shell 
 
+- [jimbrig/KaaS](https://github.com/jimbrig/KaaS) - KaaS - Knowledge as a Service
 - [kmaasrud/wsh](https://github.com/kmaasrud/wsh) - Get Wikipedia summaries from the command line
 - [timvisee/send-docker-compose](https://github.com/timvisee/send-docker-compose) - :cloud: Basic Docker compose configuration for Send. https://gitlab.com/timvisee/send-docker-compose
 - [timvisee/docker-compose-mssql](https://github.com/timvisee/docker-compose-mssql) - :whale: Docker configuration for an Microsoft SQL server on Linux using docker-compose
@@ -9354,7 +9361,6 @@
 - [many-passwords/many-passwords](https://github.com/many-passwords/many-passwords) - Default credentials list. 🐱‍💻 Leave a star if you like this project! (that motivates me)⭐️
 - [Phantas0s/ArchInstall](https://github.com/Phantas0s/ArchInstall) - :computer: Personnal install scripts for my development environment
 - [twright-msft/mssql-custom-app-image](https://github.com/twright-msft/mssql-custom-app-image) - An example of creating a container image from mssql-server-linux that will configure some server settings like a user role, login, create a database, and populate some schema, and test data into it
-- [jimbrig/KaaS](https://github.com/jimbrig/KaaS) - KaaS - Knowledge as a Service
 - [brooklyncentral/clocker](https://github.com/brooklyncentral/clocker) - Apache Brooklyn cloud native infrastructure blueprints
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [alexandregz/search-completion](https://github.com/alexandregz/search-completion) - bash completion to search (command s from  https://github.com/zquestz/s)
@@ -10051,6 +10057,7 @@
 - [mrmartineau/gatsby-theme-code-notes](https://github.com/mrmartineau/gatsby-theme-code-notes) - A Gatsby theme for publishing code-related notes to your website
 - [meshcloud/collie-cli](https://github.com/meshcloud/collie-cli) - Collie CLI allows you to manage your AWS, Azure & GCP cloud landscape through a single view.
 - [auth0/nextjs-auth0](https://github.com/auth0/nextjs-auth0) - Next.js SDK for signing in with Auth0
+- [mattwaler/next-ssr-starter](https://github.com/mattwaler/next-ssr-starter) - A starter project for using Next.js utilizing TailwindCSS and session-based SSR user modeling.
 - [dy-sh/obsidian-unique-attachments](https://github.com/dy-sh/obsidian-unique-attachments) - Obsidian plugin. Renames attachments, making their names unique.
 - [styxlab/next-cms-ghost](https://github.com/styxlab/next-cms-ghost) - Publish flaring fast blogs with Next.js and Ghost CMS
 - [mehulmpt/ghost-cms-nextjs](https://github.com/mehulmpt/ghost-cms-nextjs) - 
