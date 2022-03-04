@@ -251,6 +251,8 @@
 
 ## C 
 
+- [pgaudit/pgaudit](https://github.com/pgaudit/pgaudit) - PostgreSQL Audit Extension
+- [eulerto/pgquarrel](https://github.com/eulerto/pgquarrel) - pgquarrel compares PostgreSQL database schemas (DDL)
 - [nginx/nginx](https://github.com/nginx/nginx) - An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html
 - [libimobiledevice/idevicerestore](https://github.com/libimobiledevice/idevicerestore) - Restore/upgrade firmware of iOS devices
 - [LEDfan/httpuv](https://github.com/LEDfan/httpuv) - HTTP and WebSocket server package for R
@@ -378,13 +380,14 @@
 - [ropensci/git2r](https://github.com/ropensci/git2r) - R bindings to the libgit2 library
 - [vubiostat/r-yaml](https://github.com/vubiostat/r-yaml) - R package for converting objects to and from YAML
 - [wrathematics/getPass](https://github.com/wrathematics/getPass) - Password function for R with masking (where supported)
-- [r-lib/processx](https://github.com/r-lib/processx) - Execute and Control Subrocesses from R
+- [r-lib/processx](https://github.com/r-lib/processx) - Execute and Control Subprocesses from R
 - [r-lib/vctrs](https://github.com/r-lib/vctrs) - Generic programming with typed R vectors
 - [r-lib/xml2](https://github.com/r-lib/xml2) - Bindings to libxml2
 - [r-dbi/RMySQL](https://github.com/r-dbi/RMySQL) - Legacy DBI interface for MySQL
 
 ## C# # 
 
+- [rdagumampan/yuniql](https://github.com/rdagumampan/yuniql) - Free and open source schema versioning and database migration made natively with .NET Core. NEW! v1.2.25 released!
 - [noakesey/d365fo-entity-schema](https://github.com/noakesey/d365fo-entity-schema) - Visual Studio extension to generate entity relation schema for Dynamics 365 Finance Operations (D365FO)
 - [fredatgithub/DeployApplication](https://github.com/fredatgithub/DeployApplication) - Deploy an application with Git
 - [fluentmigrator/fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) - Fluent migrations framework for .NET
@@ -557,7 +560,7 @@
 - [postprintum/devcomrade](https://github.com/postprintum/devcomrade) - DevComrade - A copy/paste/run productivity improvement utility for developers
 - [hishamco/ThisDevelopersLife](https://github.com/hishamco/ThisDevelopersLife) - Scott Hanselman "This Developer's Life" podcast using Razor Pages
 - [RehanSaeed/Schema.NET](https://github.com/RehanSaeed/Schema.NET) - Schema.org objects turned into strongly typed C# POCO classes for use in .NET. All classes can be serialized into JSON/JSON-LD and XML, typically used to represent structured data in the head section of html page.
-- [chaojian-zhang/Somewhere](https://github.com/chaojian-zhang/Somewhere) - A tag based file management system.
+- [Charles-Zhang-Somewhere/Somewhere](https://github.com/Charles-Zhang-Somewhere/Somewhere) - A tag based file management system.
 - [refactorsaurusrex/clippy](https://github.com/refactorsaurusrex/clippy) - "Copy as path"... but better
 - [garyng/wtfd](https://github.com/garyng/wtfd) - What This Folder Does? — Documentation for folders.
 - [DuAell/FolderBackup](https://github.com/DuAell/FolderBackup) - Backup folders and restore them easily using pre-defined path configurations
@@ -627,6 +630,8 @@
 
 ## C++ 
 
+- [oatpp/oatpp](https://github.com/oatpp/oatpp) - 🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
+- [oatpp/example-postgresql](https://github.com/oatpp/example-postgresql) - A complete example of a "CRUD" service (UserService) built with Oat++ and using oatpp ORM with PostgreSQL.
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [dotnetinstaller/dotnetinstaller](https://github.com/dotnetinstaller/dotnetinstaller) - A widely used, general-purpose setup bootstrapper for MS Windows.
 - [HerMajestyDrMona/Windows11DragAndDropToTaskbarFix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) - "Windows 11 Drag & Drop to the Taskbar (Fix)" fixes the missing "Drag & Drop to the Taskbar" support in Windows 11. It works with the new Windows 11 taskbar and does not require nasty changes like UndockingDisabled or restoration of the classic taskbar.
@@ -872,7 +877,6 @@
 - [insanum/obsidian_nord](https://github.com/insanum/obsidian_nord) - A nord theme for Obsidian
 - [Athari/CssGitHubWindows](https://github.com/Athari/CssGitHubWindows) - (UserStyle) GitHub Windows Edition [MIT]
 - [ColinFay/website](https://github.com/ColinFay/website) - Personnal Website
-- [rstudio/quillt](https://github.com/rstudio/quillt) - A pkgdown template for the R Markdown Ecosystem
 - [tidyverse/tidyeval](https://github.com/tidyverse/tidyeval) - A guide to tidy evaluation
 - [rcvd/obsidian_things](https://github.com/rcvd/obsidian_things) - A clean and minimal theme for obsidian, heavily inspired by Things.
 - [cannibalox/Obsdn-dark-rmx](https://github.com/cannibalox/Obsdn-dark-rmx) - a Theme for Obsidian.md - Light & Dark version
@@ -1138,6 +1142,8 @@
 
 ## Go 
 
+- [allaboutapps/integresql](https://github.com/allaboutapps/integresql) - IntegreSQL manages isolated PostgreSQL databases for your integration tests.
+- [openshift/origin](https://github.com/openshift/origin) - Conformance test suite for OpenShift
 - [devOpifex/cmd](https://github.com/devOpifex/cmd) - Code generator to produce CLI from R packages
 - [qawatake/obsdconv](https://github.com/qawatake/obsdconv) - convert obsidian markdowns in multiple ways
 - [SpectralOps/teller](https://github.com/SpectralOps/teller) - A secrets management tool for developers built in Go - never leave your command line for secrets.
@@ -1263,7 +1269,7 @@
 - [zmap/zdns](https://github.com/zmap/zdns) - Fast CLI DNS Lookup Tool
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
-- [apptainer/singularity](https://github.com/apptainer/singularity) - Singularity: Application containers for Linux
+- [apptainer/singularity](https://github.com/apptainer/singularity) - Singularity has been EOL'ed, see Apptainer
 - [paultyng/terraform-provider-gsuite](https://github.com/paultyng/terraform-provider-gsuite) - Terraform Provider for GSuite (currently Calendar and Sheets)
 - [tidwall/pretty](https://github.com/tidwall/pretty) - Efficient JSON beautifier and compactor for Go
 - [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
@@ -2010,6 +2016,7 @@
 
 ## Java 
 
+- [pgcodekeeper/pgcodekeeper](https://github.com/pgcodekeeper/pgcodekeeper) - pgCodeKeeper is a PostgreSQL schema management tool
 - [petersonjr/MetadataCrawler](https://github.com/petersonjr/MetadataCrawler) - A simple tool to extract metadata from relational databases
 - [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool
 - [gaul/s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
@@ -2087,6 +2094,7 @@
 
 ## JavaScript 
 
+- [HVF/franchise](https://github.com/HVF/franchise) - 🍟 a notebook sql client. what you get when have a lot of sequels.
 - [mistermicheels/markdown-notes-tree](https://github.com/mistermicheels/markdown-notes-tree) - Generate Markdown trees that act as a table of contents for a folder structure with Markdown notes
 - [jbesw/askjames-s3uploader](https://github.com/jbesw/askjames-s3uploader) - A very simple Vue.JS project showing how to upload files from a web browser to an S3 bucket.
 - [heroku/heroku-pg-extras](https://github.com/heroku/heroku-pg-extras) - A heroku plugin for awesome pg:* commands that are also great and fun and super.
@@ -4469,6 +4477,7 @@
 
 ## PLpgSQL 
 
+- [michelp/metagration](https://github.com/michelp/metagration) - Metagration: PostgreSQL Migrator in PostgreSQL
 - [yogimehla/SQLtoPostgresMigrationScript](https://github.com/yogimehla/SQLtoPostgresMigrationScript) - 
 - [lockedata/mssql_ml_elf](https://github.com/lockedata/mssql_ml_elf) - Execution and Logging Framework (ELF) 🧝‍♀️ for ML models in SQL Server
 - [NikolayS/postgres_dba](https://github.com/NikolayS/postgres_dba) - The missing set of useful tools for Postgres DBAs and all engineers
@@ -4492,6 +4501,7 @@
 
 ## Perl 
 
+- [sqitchers/sqitch](https://github.com/sqitchers/sqitch) - Sensible database change management
 - [gluefinance/pov](https://github.com/gluefinance/pov) - Take a snapshot or rollback all your stored procedures in your PostgreSQL database.
 - [bucardo/check_postgres](https://github.com/bucardo/check_postgres) - Nagios check_postgres plugin for checking status of PostgreSQL databases
 - [dalibo/sqlserver2pgsql](https://github.com/dalibo/sqlserver2pgsql) - Migration tool to convert a Microsoft SQL Server Database into a PostgreSQL database, as automatically as possible
@@ -5155,6 +5165,8 @@
 
 ## Python 
 
+- [bikeshedder/tusker](https://github.com/bikeshedder/tusker) - PostgreSQL migration management tool
+- [yandex/pgmigrate](https://github.com/yandex/pgmigrate) - Simple tool to evolve PostgreSQL schema easily.
 - [perseas/Pyrseas](https://github.com/perseas/Pyrseas) - Provides utilities for Postgres database schema versioning.
 - [Vanderhoof/PyDBML](https://github.com/Vanderhoof/PyDBML) - DBML parser for Python
 - [sqlparser/sqlflow_public](https://github.com/sqlparser/sqlflow_public) - Document, sample code and other materials for SQLFlow
@@ -5905,6 +5917,7 @@
 
 ## R 
 
+- [2DegreesInvesting/PACTA_analysis](https://github.com/2DegreesInvesting/PACTA_analysis) - Run the PACTA analysis on EQ & CB portfolios
 - [chrimaho/ExploringUndernourishment](https://github.com/chrimaho/ExploringUndernourishment) - Exploring data from the United Nations to better understand undernourishment
 - [jangorecki/data.cube](https://github.com/jangorecki/data.cube) - OLAP cubes R data type
 - [eugejoh/pgtools](https://github.com/eugejoh/pgtools) - Simple tools for writing tables to PostgreSQL from R
@@ -5915,7 +5928,6 @@
 - [andrie/version.compare](https://github.com/andrie/version.compare) - R package that allows you to run R code in different versions of R and compare results
 - [andrie/rrd](https://github.com/andrie/rrd) - R package for working with .rrd files
 - [ketchbrookanalytics/shiny-custom-bscard](https://github.com/ketchbrookanalytics/shiny-custom-bscard) - Materials for the 2022 Appsilon Shiny Conference video tutorial, "Building Custom Bootstrap Cards with Shiny"
-- [JohnCoene/shiny-endpoints](https://github.com/JohnCoene/shiny-endpoints) - Endpoints in shiny
 - [nflverse/pfr_scrapR](https://github.com/nflverse/pfr_scrapR) - scrape things
 - [maxto/qapi](https://github.com/maxto/qapi) - Low-level functions for quantitative analysis in R
 - [mfrasco/Metrics](https://github.com/mfrasco/Metrics) - An R package for common supervised machine learning metrics.
@@ -9064,6 +9076,7 @@
 
 ## Ruby 
 
+- [mbryzek/schema-evolution-manager](https://github.com/mbryzek/schema-evolution-manager) - Schema Evolution Manager makes it very simple for engineers to contribute schema changes to a postgresql database, managing the schema evolutions as proper source code. Schema changes are deployed as gzipped tarballs named with the corresponding git tag.
 - [caffkane/dbml_parser](https://github.com/caffkane/dbml_parser) - Parse DBML files with ease (Database Markup Language).
 - [mhing/fantasy_golf](https://github.com/mhing/fantasy_golf) - Web tool for fantasy golf performance tracking
 - [infused/dbf](https://github.com/infused/dbf) - DBF is a small fast Ruby library for reading dBase, xBase, Clipper and FoxPro database files
@@ -9195,7 +9208,7 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [chrisdickinson/tide-http-auth](https://github.com/chrisdickinson/tide-http-auth) - HTTP auth for tide! Pretty Basic, if you'll Bearer with me
 - [trashhalo/obsidian-extract-url](https://github.com/trashhalo/obsidian-extract-url) - Plugin to extract markdown out of urls
-- [comtrya/comtrya](https://github.com/comtrya/comtrya) - Configuration Management for Localhost
+- [comtrya/comtrya](https://github.com/comtrya/comtrya) - Configuration Management for Localhost / dotfiles
 - [extendr/extendr](https://github.com/extendr/extendr) - R extension library for rust designed to be familiar to R users.
 - [trashhalo/obsidian-rust-plugin](https://github.com/trashhalo/obsidian-rust-plugin) - 
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -9243,7 +9256,7 @@
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Open-Source Analytics API for Building Data Apps
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 
 ## SAS 
@@ -9269,6 +9282,7 @@
 - [nikvoronin/wtfcrt](https://github.com/nikvoronin/wtfcrt) - A personal wiki-like notebooks aka zettelkasten
 - [andybyers21/notes.ajb.app](https://github.com/andybyers21/notes.ajb.app) - This is the data for my Evergreen notes vault
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
+- [rstudio/quillt](https://github.com/rstudio/quillt) - A pkgdown template for the R Markdown Ecosystem
 - [jamiebrynes7/clair-de-lune-obsidian-theme](https://github.com/jamiebrynes7/clair-de-lune-obsidian-theme) - An obsidian.md theme inspired by the Moonlight family of themes
 - [forsigner/fexo](https://github.com/forsigner/fexo) - A minimalist design theme for hexo.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
@@ -9321,6 +9335,7 @@
 
 ## Shell 
 
+- [trustly/fdiff](https://github.com/trustly/fdiff) - 
 - [jimbrig/KaaS](https://github.com/jimbrig/KaaS) - KaaS - Knowledge as a Service
 - [kmaasrud/wsh](https://github.com/kmaasrud/wsh) - Get Wikipedia summaries from the command line
 - [timvisee/send-docker-compose](https://github.com/timvisee/send-docker-compose) - :cloud: Basic Docker compose configuration for Send. https://gitlab.com/timvisee/send-docker-compose
