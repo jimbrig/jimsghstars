@@ -1030,6 +1030,7 @@
 
 ## Dockerfile 
 
+- [cd17822/lambda-s3-pg-backup](https://github.com/cd17822/lambda-s3-pg-backup) - Automatic Postgres to S3 Backups Using Docker on Lambda
 - [phdax/docker-rserve-tls-selfsigned](https://github.com/phdax/docker-rserve-tls-selfsigned) - Rserve with TLS/SSL connection mode by self-signed certificate
 - [ormico/sqlpackage-docker](https://github.com/ormico/sqlpackage-docker) - SqlPackage in a Docker image
 - [alexmacarthur/local-docker-db](https://github.com/alexmacarthur/local-docker-db) - A bunch o' Docker Compose files used to quickly spin up local databases.
@@ -1648,7 +1649,6 @@
 - [jimbrig/jimstaskviews](https://github.com/jimbrig/jimstaskviews) - CRAN Task Views and Shiny App https://jimstaskviews.jimbrig.com
 - [angeligareta/ulltimate-calendar](https://github.com/angeligareta/ulltimate-calendar) - Example of landing page using the web technologies HTML, CSS, Javascript, Bootstrap, and Firebase.
 - [reconhub/drat](https://github.com/reconhub/drat) - :package::package::package: drat repository
-- [reconhub/reconhub.github.io](https://github.com/reconhub/reconhub.github.io) - Official website for RECON - The R Epidemics CONsortium
 - [smithjd/sql-pet](https://github.com/smithjd/sql-pet) - Exploring a realistic postgreSQL database with R via Docker
 - [Esri/bootstrap-map-js](https://github.com/Esri/bootstrap-map-js) - A light-weight JS/CSS extension for building awesome mapping apps with Bootstrap and ArcGIS.
 - [eodaGmbH/ready_for_production](https://github.com/eodaGmbH/ready_for_production) - Workshop materials from the RStudio and eoda Event Ready for Production
@@ -2016,6 +2016,7 @@
 
 ## Java 
 
+- [aws-samples/amazon-s3-object-lambda-default-configuration](https://github.com/aws-samples/amazon-s3-object-lambda-default-configuration) - Automate the configuration of S3 Object Lambda.
 - [pgcodekeeper/pgcodekeeper](https://github.com/pgcodekeeper/pgcodekeeper) - pgCodeKeeper is a PostgreSQL schema management tool
 - [petersonjr/MetadataCrawler](https://github.com/petersonjr/MetadataCrawler) - A simple tool to extract metadata from relational databases
 - [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool
@@ -2094,6 +2095,7 @@
 
 ## JavaScript 
 
+- [jameshy/pgdump-aws-lambda](https://github.com/jameshy/pgdump-aws-lambda) - Lambda function for executing pg_dump and streaming the output to s3.
 - [HVF/franchise](https://github.com/HVF/franchise) - 🍟 a notebook sql client. what you get when have a lot of sequels.
 - [mistermicheels/markdown-notes-tree](https://github.com/mistermicheels/markdown-notes-tree) - Generate Markdown trees that act as a table of contents for a folder structure with Markdown notes
 - [jbesw/askjames-s3uploader](https://github.com/jbesw/askjames-s3uploader) - A very simple Vue.JS project showing how to upload files from a web browser to an S3 bucket.
@@ -2805,6 +2807,7 @@
 - [kognise/pwnhost](https://github.com/kognise/pwnhost) - Simple and reliable personal hosting for any application
 - [kognise/bootstrap-next](https://github.com/kognise/bootstrap-next) - Quickly and easily bootstrap a Next.js project.
 - [drop-ice/dear-github-2.0](https://github.com/drop-ice/dear-github-2.0) - 📨 An open letter to GitHub from the maintainers of open source projects
+- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [kognise/vscode-upm](https://github.com/kognise/vscode-upm) - Repl.it's amazing package manager workflow in Visual Studio Code
 - [kognise/taut](https://github.com/kognise/taut) - The best selfbot for Slack
 - [argenos/itztli-md](https://github.com/argenos/itztli-md) - 
@@ -3361,6 +3364,7 @@
 
 ## Others 
 
+- [HenrikBengtsson/future.aws.lambda](https://github.com/HenrikBengtsson/future.aws.lambda) - R package: future.aws.lambda - A Future API for Parallel Processing on AWS Lambda
 - [dalibo/powa](https://github.com/dalibo/powa) - PostgreSQL Workload Analyzer
 - [count/sql-snippets](https://github.com/count/sql-snippets) - A curated collection of helpful SQL queries and functions, maintained by Count.
 - [timbaker-iex/excel-templates-and-tools](https://github.com/timbaker-iex/excel-templates-and-tools) - Handy excel templates I have developed over the years.
@@ -4218,7 +4222,6 @@
 - [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - ▶️ An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.
 - [kognise/dev.to](https://github.com/kognise/dev.to) - Where programmers share ideas and help each other grow
 - [kognise/oogle](https://github.com/kognise/oogle) - An open-source clone of the Google search engine and crawler infrastructure
-- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [objcio/articles](https://github.com/objcio/articles) - All current objc.io articles
 - [andymatuschak/reMarkable-typescript](https://github.com/andymatuschak/reMarkable-typescript) - A typescript reMarkable Cloud API
 - [julianenglert/Andy-Grove---High-Output-Management](https://github.com/julianenglert/Andy-Grove---High-Output-Management) - Summary of the book High Output Management by Andy Grove
@@ -4518,6 +4521,7 @@
 
 ## PowerShell 
 
+- [wsmelton/prompt](https://github.com/wsmelton/prompt) - Quick and easy prompt setup for PowerShell
 - [rkitover/windows-dev-guide](https://github.com/rkitover/windows-dev-guide) - Native Windows Development Environment Setup Guide for Linux Users.
 - [microsoftgraph/powershell-intune-samples](https://github.com/microsoftgraph/powershell-intune-samples) - This repository of PowerShell sample scripts show how to access Intune service resources. They demonstrate this by making HTTPS RESTful API requests to the Microsoft Graph API from PowerShell.
 - [danielbohannon/Invoke-CradleCrafter](https://github.com/danielbohannon/Invoke-CradleCrafter) - PowerShell Remote Download Cradle Generator & Obfuscator
@@ -5165,6 +5169,7 @@
 
 ## Python 
 
+- [bakdata/aws-lambda-r-runtime](https://github.com/bakdata/aws-lambda-r-runtime) - Serverless execution of R code on AWS Lambda
 - [bikeshedder/tusker](https://github.com/bikeshedder/tusker) - PostgreSQL migration management tool
 - [yandex/pgmigrate](https://github.com/yandex/pgmigrate) - Simple tool to evolve PostgreSQL schema easily.
 - [perseas/Pyrseas](https://github.com/perseas/Pyrseas) - Provides utilities for Postgres database schema versioning.
@@ -5917,6 +5922,10 @@
 
 ## R 
 
+- [gadenbuie/rsprefs](https://github.com/gadenbuie/rsprefs) - Manage and Sync Your RStudio Preferences
+- [lewinfox/levitate](https://github.com/lewinfox/levitate) - Fuzzy string matching in R. Inspired by Python's fuzzywuzzy (but without the Python).
+- [lewinfox/lambdar](https://github.com/lewinfox/lambdar) - Tools to help you run R on AWS Lambda.
+- [ramonmarrero/aws-cdk-r-container](https://github.com/ramonmarrero/aws-cdk-r-container) - 
 - [2DegreesInvesting/PACTA_analysis](https://github.com/2DegreesInvesting/PACTA_analysis) - Run the PACTA analysis on EQ & CB portfolios
 - [chrimaho/ExploringUndernourishment](https://github.com/chrimaho/ExploringUndernourishment) - Exploring data from the United Nations to better understand undernourishment
 - [jangorecki/data.cube](https://github.com/jangorecki/data.cube) - OLAP cubes R data type
@@ -6886,6 +6895,7 @@
 - [jbkunst/blog](https://github.com/jbkunst/blog) - Data, Code and Visualization
 - [wStockhausen/wtsUtilities](https://github.com/wStockhausen/wtsUtilities) - R package with various utility functions.
 - [wStockhausen/wtsGIS](https://github.com/wStockhausen/wtsGIS) - R package containing various GIS-related functions, RMD scripts, and datasets.
+- [reconhub/reconhub.github.io](https://github.com/reconhub/reconhub.github.io) - Official website for RECON - The R Epidemics CONsortium
 - [reconhub/aweek](https://github.com/reconhub/aweek) - Convert dates to arbitrary week definitions :calendar:
 - [reconhub/rfextras](https://github.com/reconhub/rfextras) - 
 - [reconverse/incidence2](https://github.com/reconverse/incidence2) - Compute and visualise incidence (reworking of the original incidence package)
@@ -9938,6 +9948,8 @@
 
 ## TypeScript 
 
+- [dobrovolsky/obsidain-structure](https://github.com/dobrovolsky/obsidain-structure) - 
+- [aws-samples/rds-db-schema-migrations-cicd](https://github.com/aws-samples/rds-db-schema-migrations-cicd) - Integrating RDS databases' schema migrations in the CI/CD pipeline.
 - [OfficeDev/generator-office](https://github.com/OfficeDev/generator-office) - Yeoman generator for building Microsoft Office related projects.
 - [cybertec-postgresql/react-database-diagram](https://github.com/cybertec-postgresql/react-database-diagram) - A react component to render nice database diagram using storm-react-diagrams
 - [IllusiveBagel/DBMLDocs](https://github.com/IllusiveBagel/DBMLDocs) - A Standalone Site for Displaying Database Documentation Based on DBML Files
