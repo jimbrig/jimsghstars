@@ -166,6 +166,7 @@
 
 ## Batchfile 
 
+- [erbanku/custom-search-engines-backup](https://github.com/erbanku/custom-search-engines-backup) - Import/Export Google Chrome or Microsoft Edge's custom search engines and sync (overwrite) between 2 browsers.
 - [netoffice/NetOffice-NuGet](https://github.com/netoffice/NetOffice-NuGet) - :package: NuGet Packages for NetOffice
 - [AveYo/LeanAndMean](https://github.com/AveYo/LeanAndMean) - snippets for power users
 - [abbodi1406/BatUtil](https://github.com/abbodi1406/BatUtil) - Collection of batch scripts utilities for Windows
@@ -630,6 +631,7 @@
 
 ## C++ 
 
+- [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [oatpp/oatpp](https://github.com/oatpp/oatpp) - 🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
 - [oatpp/example-postgresql](https://github.com/oatpp/example-postgresql) - A complete example of a "CRUD" service (UserService) built with Oat++ and using oatpp ORM with PostgreSQL.
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
@@ -792,6 +794,8 @@
 
 ## CSS 
 
+- [sqlitebrowser/dbhub_docs](https://github.com/sqlitebrowser/dbhub_docs) - Documentation for DBHub.io
+- [insanum/obsidian_gruvbox](https://github.com/insanum/obsidian_gruvbox) - A gruvbox theme for Obsidian
 - [sergey900553/obsidian_githublike_theme](https://github.com/sergey900553/obsidian_githublike_theme) - Obsidian dark theme
 - [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
 - [A/obsidian-blog-theme](https://github.com/A/obsidian-blog-theme) - 
@@ -1143,6 +1147,8 @@
 
 ## Go 
 
+- [sqlitebrowser/dbhub.io](https://github.com/sqlitebrowser/dbhub.io) - A "Cloud" for SQLite databases.  Collaborative development for your data. :)
+- [insanum/trellocli](https://github.com/insanum/trellocli) - Trello Command Line Interface
 - [allaboutapps/integresql](https://github.com/allaboutapps/integresql) - IntegreSQL manages isolated PostgreSQL databases for your integration tests.
 - [openshift/origin](https://github.com/openshift/origin) - Conformance test suite for OpenShift
 - [devOpifex/cmd](https://github.com/devOpifex/cmd) - Code generator to produce CLI from R packages
@@ -2016,6 +2022,7 @@
 
 ## Java 
 
+- [insanum/exchange-sync](https://github.com/insanum/exchange-sync) - Transfers Exchange data to various data sources (pluggable).  Currently supports Tasks (to Remember the Milk) and Appointments (to Google Calendar).  Can act as a replacement for Google Calendar Sync on non-Windows machines.
 - [aws-samples/amazon-s3-object-lambda-default-configuration](https://github.com/aws-samples/amazon-s3-object-lambda-default-configuration) - Automate the configuration of S3 Object Lambda.
 - [pgcodekeeper/pgcodekeeper](https://github.com/pgcodekeeper/pgcodekeeper) - pgCodeKeeper is a PostgreSQL schema management tool
 - [petersonjr/MetadataCrawler](https://github.com/petersonjr/MetadataCrawler) - A simple tool to extract metadata from relational databases
@@ -3364,6 +3371,7 @@
 
 ## Others 
 
+- [insanum/py-trello](https://github.com/insanum/py-trello) - Python API wrapper around Trello's API
 - [HenrikBengtsson/future.aws.lambda](https://github.com/HenrikBengtsson/future.aws.lambda) - R package: future.aws.lambda - A Future API for Parallel Processing on AWS Lambda
 - [dalibo/powa](https://github.com/dalibo/powa) - PostgreSQL Workload Analyzer
 - [count/sql-snippets](https://github.com/count/sql-snippets) - A curated collection of helpful SQL queries and functions, maintained by Count.
@@ -4521,6 +4529,7 @@
 
 ## PowerShell 
 
+- [StefanScherer/choco-archiver](https://github.com/StefanScherer/choco-archiver) - Archiver tool as Chocolatey package - Easily create and extract .zip, .tar, .tar.gz, .tar.bz2, .tar.xz, .tar.lz4, .tar.sz, and .rar (extract-only) files with Go
 - [wsmelton/prompt](https://github.com/wsmelton/prompt) - Quick and easy prompt setup for PowerShell
 - [rkitover/windows-dev-guide](https://github.com/rkitover/windows-dev-guide) - Native Windows Development Environment Setup Guide for Linux Users.
 - [microsoftgraph/powershell-intune-samples](https://github.com/microsoftgraph/powershell-intune-samples) - This repository of PowerShell sample scripts show how to access Intune service resources. They demonstrate this by making HTTPS RESTful API requests to the Microsoft Graph API from PowerShell.
@@ -5169,6 +5178,7 @@
 
 ## Python 
 
+- [insanum/sncli](https://github.com/insanum/sncli) - Simplenote CLI
 - [bakdata/aws-lambda-r-runtime](https://github.com/bakdata/aws-lambda-r-runtime) - Serverless execution of R code on AWS Lambda
 - [bikeshedder/tusker](https://github.com/bikeshedder/tusker) - PostgreSQL migration management tool
 - [yandex/pgmigrate](https://github.com/yandex/pgmigrate) - Simple tool to evolve PostgreSQL schema easily.
@@ -7789,6 +7799,7 @@
 - [r-lib/gmailr](https://github.com/r-lib/gmailr) - Access the Gmail RESTful API from R.
 - [r4fun/icongram](https://github.com/r4fun/icongram) - :v: Icongram for R
 - [HenrikBengtsson/revdepcheck.extras](https://github.com/HenrikBengtsson/revdepcheck.extras) - R package: revdepcheck.extras - Reverse-Dependency Checks from the Command Line (CLI)
+- [HenrikBengtsson/revdepcheck.extras](https://github.com/HenrikBengtsson/revdepcheck.extras) - R package: revdepcheck.extras - Reverse-Dependency Checks from the Command Line (CLI)
 - [tesselle/khroma](https://github.com/tesselle/khroma) - :art: Colour Schemes for Scientific Data Visualization
 - [johncassil/stringr.plus](https://github.com/johncassil/stringr.plus) - 
 - [softloud/parameterpal](https://github.com/softloud/parameterpal) - Parameters for beta distribution from interpretable conditions
@@ -8060,6 +8071,7 @@
 - [pmcharrison/cache](https://github.com/pmcharrison/cache) - cache - An R package for caching function outputs
 - [iqis/stash](https://github.com/iqis/stash) - Naive on-disk caching in R
 - [trestletech/RCache](https://github.com/trestletech/RCache) - Demonstration of package-wide caching variables in R packages.
+- [crowding/memo](https://github.com/crowding/memo) - An R package for In-memory caching.
 - [crowding/memo](https://github.com/crowding/memo) - An R package for In-memory caching.
 - [robertzk/cachemeifyoucan](https://github.com/robertzk/cachemeifyoucan) - An R caching layer
 - [Bioconductor/BiocFileCache](https://github.com/Bioconductor/BiocFileCache) - Manage Files Across Sessions
@@ -9171,6 +9183,7 @@
 
 ## Rust 
 
+- [insanum/reminders](https://github.com/insanum/reminders) - Notification Reminders
 - [saskenuba/dbml-language-server](https://github.com/saskenuba/dbml-language-server) - DBML code intelligence through the Language Server Protocol.
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - An elastic and reliable Modern Cloud Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
 - [timvisee/git-state](https://github.com/timvisee/git-state) - 🧪 Probe git repository state
@@ -9345,6 +9358,8 @@
 
 ## Shell 
 
+- [insanum/dotfiles](https://github.com/insanum/dotfiles) - My dotfiles!
+- [insanum/nostalgic](https://github.com/insanum/nostalgic) - Bash script for managing dotfiles with Git
 - [trustly/fdiff](https://github.com/trustly/fdiff) - 
 - [jimbrig/KaaS](https://github.com/jimbrig/KaaS) - KaaS - Knowledge as a Service
 - [kmaasrud/wsh](https://github.com/kmaasrud/wsh) - Get Wikipedia summaries from the command line
@@ -9948,6 +9963,7 @@
 
 ## TypeScript 
 
+- [ws1-finder/ws1-finder](https://github.com/ws1-finder/ws1-finder) - Launch applications to which you are entitled on Workspace ONE, right from your browser! Available for Firefox, Chrome and Microsoft Edge
 - [dobrovolsky/obsidain-structure](https://github.com/dobrovolsky/obsidain-structure) - 
 - [aws-samples/rds-db-schema-migrations-cicd](https://github.com/aws-samples/rds-db-schema-migrations-cicd) - Integrating RDS databases' schema migrations in the CI/CD pipeline.
 - [OfficeDev/generator-office](https://github.com/OfficeDev/generator-office) - Yeoman generator for building Microsoft Office related projects.
