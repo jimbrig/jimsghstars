@@ -141,6 +141,7 @@
 
 ## AutoHotkey 
 
+- [erbanku/awesome-autohotkey](https://github.com/erbanku/awesome-autohotkey) - Useful AutoHotkey scripts and commands that can increase your productivity, and make your life easier
 - [N1x0/Winconfig](https://github.com/N1x0/Winconfig) - Personal configuration for windows 10 (1903/1909)
 - [Ae3NerdGod/Windows11.Context.Menu.Hack](https://github.com/Ae3NerdGod/Windows11.Context.Menu.Hack) - Automatically opens the "show more" context menu in windows 11
 - [matarum/TuoGui](https://github.com/matarum/TuoGui) - graphic user interface for Tyrant Unleashed Optimizer
@@ -2061,6 +2062,7 @@
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
 - [react-native-svg/react-native-svg](https://github.com/react-native-svg/react-native-svg) - SVG library for React Native, React Native Web, and plain React web projects.
+- [rnmapbox/maps](https://github.com/rnmapbox/maps) - A Mapbox GL react native module for creating custom maps
 - [openkm/document-management-system](https://github.com/openkm/document-management-system) - OpenKM is a Open Source Document Management System
 - [miguelhincapie/CustomBottomSheetBehavior](https://github.com/miguelhincapie/CustomBottomSheetBehavior) - Custom BottomSheetBehavior for Android that mimic Google Maps behavior
 - [cesardeazevedo/react-native-bottom-sheet-behavior](https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior) - react-native wrapper for android BottomSheetBehavior
@@ -2102,6 +2104,10 @@
 
 ## JavaScript 
 
+- [Gisto/Gisto](https://github.com/Gisto/Gisto) - Gisto is a Cross-platform snippets management desktop application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists Infrastructure which means you can use all your existing snippets by connecting your GitHub account!  Gisto started as an attempt to fulfill the lack of a syntax highlighted and cloud synchronized code snippet solution.  You may thing of Gisto as Evernote for code.
+- [gabrielbarros/export-all-extensions](https://github.com/gabrielbarros/export-all-extensions) - Export name and url of all installed extensions in Google Chrome
+- [dstein64/workflows](https://github.com/dstein64/workflows) - ▶️ View the status of GitHub workflows.
+- [mrmartineau/snippet-generator](https://github.com/mrmartineau/snippet-generator) - ⚡ Sublime Text, Atom & VS Code snippet generator
 - [jameshy/pgdump-aws-lambda](https://github.com/jameshy/pgdump-aws-lambda) - Lambda function for executing pg_dump and streaming the output to s3.
 - [HVF/franchise](https://github.com/HVF/franchise) - 🍟 a notebook sql client. what you get when have a lot of sequels.
 - [mistermicheels/markdown-notes-tree](https://github.com/mistermicheels/markdown-notes-tree) - Generate Markdown trees that act as a table of contents for a folder structure with Markdown notes
@@ -2448,7 +2454,6 @@
 - [mitcom/steal_cookie](https://github.com/mitcom/steal_cookie) - Chrome extension to copy authentication cookies from staging server which allow to login on localhost
 - [malsup/blockui](https://github.com/malsup/blockui) - jQuery BlockUI Plugin
 - [expo/expo-github-action](https://github.com/expo/expo-github-action) - Expo in your GitHub Actions workflow
-- [rnmapbox/maps](https://github.com/rnmapbox/maps) - A Mapbox GL react native module for creating custom maps
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
 - [flexible-agency/react-native-map-link](https://github.com/flexible-agency/react-native-map-link) - 🗺 Open the map app of the user's choice.
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
@@ -3371,6 +3376,8 @@
 
 ## Others 
 
+- [marvinpinto/action-automatic-releases](https://github.com/marvinpinto/action-automatic-releases) - READONLY: Auto-generated mirror for https://github.com/marvinpinto/actions/tree/master/packages/automatic-releases
+- [erbanku/awesome](https://github.com/erbanku/awesome) - 🌟 My Awesome Repositories List,. Automatically updates by GitHub Actions on UTC 00:00 & 16:00
 - [insanum/py-trello](https://github.com/insanum/py-trello) - Python API wrapper around Trello's API
 - [HenrikBengtsson/future.aws.lambda](https://github.com/HenrikBengtsson/future.aws.lambda) - R package: future.aws.lambda - A Future API for Parallel Processing on AWS Lambda
 - [dalibo/powa](https://github.com/dalibo/powa) - PostgreSQL Workload Analyzer
@@ -4530,7 +4537,7 @@
 ## PowerShell 
 
 - [StefanScherer/choco-archiver](https://github.com/StefanScherer/choco-archiver) - Archiver tool as Chocolatey package - Easily create and extract .zip, .tar, .tar.gz, .tar.bz2, .tar.xz, .tar.lz4, .tar.sz, and .rar (extract-only) files with Go
-- [wsmelton/prompt](https://github.com/wsmelton/prompt) - Quick and easy prompt setup for PowerShell
+- [wsmelton/prompt](https://github.com/wsmelton/prompt) - Quick and easy prompt setup for PowerShell with Windows Terminal
 - [rkitover/windows-dev-guide](https://github.com/rkitover/windows-dev-guide) - Native Windows Development Environment Setup Guide for Linux Users.
 - [microsoftgraph/powershell-intune-samples](https://github.com/microsoftgraph/powershell-intune-samples) - This repository of PowerShell sample scripts show how to access Intune service resources. They demonstrate this by making HTTPS RESTful API requests to the Microsoft Graph API from PowerShell.
 - [danielbohannon/Invoke-CradleCrafter](https://github.com/danielbohannon/Invoke-CradleCrafter) - PowerShell Remote Download Cradle Generator & Obfuscator
@@ -5178,6 +5185,8 @@
 
 ## Python 
 
+- [aashutoshrathi/py-scripts](https://github.com/aashutoshrathi/py-scripts) - These are daily life scripts for windows users to make their day easy.
+- [urbanij/google_keep_takeout](https://github.com/urbanij/google_keep_takeout) - Export your Google Keep notes to a markdown or txt file
 - [insanum/sncli](https://github.com/insanum/sncli) - Simplenote CLI
 - [bakdata/aws-lambda-r-runtime](https://github.com/bakdata/aws-lambda-r-runtime) - Serverless execution of R code on AWS Lambda
 - [bikeshedder/tusker](https://github.com/bikeshedder/tusker) - PostgreSQL migration management tool
@@ -7799,7 +7808,6 @@
 - [r-lib/gmailr](https://github.com/r-lib/gmailr) - Access the Gmail RESTful API from R.
 - [r4fun/icongram](https://github.com/r4fun/icongram) - :v: Icongram for R
 - [HenrikBengtsson/revdepcheck.extras](https://github.com/HenrikBengtsson/revdepcheck.extras) - R package: revdepcheck.extras - Reverse-Dependency Checks from the Command Line (CLI)
-- [HenrikBengtsson/revdepcheck.extras](https://github.com/HenrikBengtsson/revdepcheck.extras) - R package: revdepcheck.extras - Reverse-Dependency Checks from the Command Line (CLI)
 - [tesselle/khroma](https://github.com/tesselle/khroma) - :art: Colour Schemes for Scientific Data Visualization
 - [johncassil/stringr.plus](https://github.com/johncassil/stringr.plus) - 
 - [softloud/parameterpal](https://github.com/softloud/parameterpal) - Parameters for beta distribution from interpretable conditions
@@ -8071,7 +8079,6 @@
 - [pmcharrison/cache](https://github.com/pmcharrison/cache) - cache - An R package for caching function outputs
 - [iqis/stash](https://github.com/iqis/stash) - Naive on-disk caching in R
 - [trestletech/RCache](https://github.com/trestletech/RCache) - Demonstration of package-wide caching variables in R packages.
-- [crowding/memo](https://github.com/crowding/memo) - An R package for In-memory caching.
 - [crowding/memo](https://github.com/crowding/memo) - An R package for In-memory caching.
 - [robertzk/cachemeifyoucan](https://github.com/robertzk/cachemeifyoucan) - An R caching layer
 - [Bioconductor/BiocFileCache](https://github.com/Bioconductor/BiocFileCache) - Manage Files Across Sessions
@@ -9963,6 +9970,7 @@
 
 ## TypeScript 
 
+- [erbanku/github-notion-star](https://github.com/erbanku/github-notion-star) - Sync GitHub Starred Repositories to Notion Database
 - [ws1-finder/ws1-finder](https://github.com/ws1-finder/ws1-finder) - Launch applications to which you are entitled on Workspace ONE, right from your browser! Available for Firefox, Chrome and Microsoft Edge
 - [dobrovolsky/obsidain-structure](https://github.com/dobrovolsky/obsidain-structure) - 
 - [aws-samples/rds-db-schema-migrations-cicd](https://github.com/aws-samples/rds-db-schema-migrations-cicd) - Integrating RDS databases' schema migrations in the CI/CD pipeline.
