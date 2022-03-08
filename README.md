@@ -1553,7 +1553,6 @@
 - [sfirke/packagemetrics](https://github.com/sfirke/packagemetrics) - A Package for Helping You Choose Which Package to Use
 - [IndrajeetPatil/awesome-r-pkgtools](https://github.com/IndrajeetPatil/awesome-r-pkgtools) - A curated list of awesome tools for R package development
 - [berlotto/flask-app-template](https://github.com/berlotto/flask-app-template) - An complete Flask application template, with useful plugins.
-- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
 - [corpsgeek/flask-form-handling](https://github.com/corpsgeek/flask-form-handling) - 
 - [imzjy/MyDiffTool](https://github.com/imzjy/MyDiffTool) - The missing comparing text tool for Mac, Windows and Linux.
 - [JSchelldorfer/DeepLearningWithActuarialApplications](https://github.com/JSchelldorfer/DeepLearningWithActuarialApplications) - Material for the 2-day block course "Deep Learning with Actuarial Applications in R"
@@ -2104,6 +2103,8 @@
 
 ## JavaScript 
 
+- [moj-analytical-services/s3browser](https://github.com/moj-analytical-services/s3browser) - A R Studio Addin that allows you to browse the files you have access to in S3
+- [serverless/examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
 - [Gisto/Gisto](https://github.com/Gisto/Gisto) - Gisto is a Cross-platform snippets management desktop application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists Infrastructure which means you can use all your existing snippets by connecting your GitHub account!  Gisto started as an attempt to fulfill the lack of a syntax highlighted and cloud synchronized code snippet solution.  You may thing of Gisto as Evernote for code.
 - [gabrielbarros/export-all-extensions](https://github.com/gabrielbarros/export-all-extensions) - Export name and url of all installed extensions in Google Chrome
 - [dstein64/workflows](https://github.com/dstein64/workflows) - ▶️ View the status of GitHub workflows.
@@ -2207,6 +2208,7 @@
 - [seladb/StarTrack-js](https://github.com/seladb/StarTrack-js) - GitHub star history and stats - based on JavaScript only!
 - [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
 - [SkepticMystic/breadcrumbs](https://github.com/SkepticMystic/breadcrumbs) - Visualise a custom hierarchy in your Obsidian vault. API: https://skepticmystic.github.io/breadcrumbs/
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
 - [alexjv89/echoalex_com](https://github.com/alexjv89/echoalex_com) - Source code for echoalex.com
 - [switchless-io/docs](https://github.com/switchless-io/docs) - 
 - [alexjv89/markdown-it-obsidian](https://github.com/alexjv89/markdown-it-obsidian) - Convert obsidian wiki links to markdown links
@@ -2282,6 +2284,7 @@
 - [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
+- [withastro/astro](https://github.com/withastro/astro) - Build fast websites, faster. 🚀🧑‍🚀✨
 - [abelljs/abell](https://github.com/abelljs/abell) - a Static-Site-Generator for JavaScript Developers. Build fast, vanilla websites in the syntax you almost already know. [In alpha] 🌀
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: A tool for managing JavaScript projects with multiple packages.
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
@@ -3376,6 +3379,10 @@
 
 ## Others 
 
+- [Appsilon/.github](https://github.com/Appsilon/.github) - 
+- [buithaibinh/serverless_examples](https://github.com/buithaibinh/serverless_examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
+- [aws-samples/csv-to-dynamodb](https://github.com/aws-samples/csv-to-dynamodb) - 
+- [prabhakar2020/insert_s3_csv_file_content_to_mysql_using_lambda](https://github.com/prabhakar2020/insert_s3_csv_file_content_to_mysql_using_lambda) - 
 - [marvinpinto/action-automatic-releases](https://github.com/marvinpinto/action-automatic-releases) - READONLY: Auto-generated mirror for https://github.com/marvinpinto/actions/tree/master/packages/automatic-releases
 - [erbanku/awesome](https://github.com/erbanku/awesome) - 🌟 My Awesome Repositories List,. Automatically updates by GitHub Actions on UTC 00:00 & 16:00
 - [insanum/py-trello](https://github.com/insanum/py-trello) - Python API wrapper around Trello's API
@@ -5185,6 +5192,12 @@
 
 ## Python 
 
+- [moj-analytical-services/etl_manager](https://github.com/moj-analytical-services/etl_manager) - A python package to create a database on the platform using our moj data warehousing framework
+- [Appsilon/r-lambda-workflow](https://github.com/Appsilon/r-lambda-workflow) - Runtime for running R on AWS Lambda.
+- [varunu28/S3-To-DynamoDB-AWS-Lambda-Function](https://github.com/varunu28/S3-To-DynamoDB-AWS-Lambda-Function) - An AWS Lambda function to send data from S3 bucket to DynamDB
+- [yai333/pythonserverlesssample](https://github.com/yai333/pythonserverlesssample) - Build a serverless data pipeline with AWS S3, Lamba and DynamoDB
+- [sathviksathu/S3_To_DynamoDB](https://github.com/sathviksathu/S3_To_DynamoDB) - This project contains code that can be used to ingest data from AWS S3 bucket into AWS DynamoDB table programatically via AWS Lambda function
+- [miztiik/s3-to-rds-with-glue](https://github.com/miztiik/s3-to-rds-with-glue) - Extract, transform, and load data for analytic processing using AWS Glue
 - [aashutoshrathi/py-scripts](https://github.com/aashutoshrathi/py-scripts) - These are daily life scripts for windows users to make their day easy.
 - [urbanij/google_keep_takeout](https://github.com/urbanij/google_keep_takeout) - Export your Google Keep notes to a markdown or txt file
 - [insanum/sncli](https://github.com/insanum/sncli) - Simplenote CLI
@@ -5214,7 +5227,7 @@
 - [dominodatalab/domino-research](https://github.com/dominodatalab/domino-research) - Projects developed by Domino's R&D team
 - [zsvoboda/dbd](https://github.com/zsvoboda/dbd) - dbd is a database prototyping tool that enables data analysts and engineers to quickly load and transform data in SQL databases.
 - [Zettelkasten-Team/Zettelkasten](https://github.com/Zettelkasten-Team/Zettelkasten) - Zettelkasten-Developer-Builds
-- [lowlydba/lowlydba.sqlserver](https://github.com/lowlydba/lowlydba.sqlserver) - :nut_and_bolt: Ansible collection using PowerShell to configure and maintain SQL Server.
+- [lowlydba/lowlydba.sqlserver](https://github.com/lowlydba/lowlydba.sqlserver) - :nut_and_bolt: A cross-platform Ansible collection using PowerShell to configure and maintain SQL Server.
 - [aschleg/pethub](https://github.com/aschleg/pethub) - Scripts and ETL for building Pet and Animal Related Database
 - [ilpersi/gsuite-domain-checker](https://github.com/ilpersi/gsuite-domain-checker) - A CLI tool that help you verify domains before you provision them in G Suite
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
@@ -5941,6 +5954,8 @@
 
 ## R 
 
+- [gersteinlab/shiny-dim-reduction](https://github.com/gersteinlab/shiny-dim-reduction) - This project applies dimensionality reduction to tabular data and generates applications for visualizing the results.
+- [jennaallen/dog_days](https://github.com/jennaallen/dog_days) - Using AWS RDS and S3 to store data about my dogs' vaccination and medical records. Creating an R shiny app to keep track of and share records with vets. :dog: :dog:
 - [gadenbuie/rsprefs](https://github.com/gadenbuie/rsprefs) - Manage and Sync Your RStudio Preferences
 - [lewinfox/levitate](https://github.com/lewinfox/levitate) - Fuzzy string matching in R. Inspired by Python's fuzzywuzzy (but without the Python).
 - [lewinfox/lambdar](https://github.com/lewinfox/lambdar) - Tools to help you run R on AWS Lambda.
@@ -9365,6 +9380,8 @@
 
 ## Shell 
 
+- [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+- [panubo/docker-sshd](https://github.com/panubo/docker-sshd) - Minimal Alpine Linux Docker image with sshd exposed and rsync installed
 - [insanum/dotfiles](https://github.com/insanum/dotfiles) - My dotfiles!
 - [insanum/nostalgic](https://github.com/insanum/nostalgic) - Bash script for managing dotfiles with Git
 - [trustly/fdiff](https://github.com/trustly/fdiff) - 
@@ -10088,7 +10105,6 @@
 - [alexobenauer/Cross-reference-Navigation-for-Obsidian](https://github.com/alexobenauer/Cross-reference-Navigation-for-Obsidian) - Cross-reference navigation through your Obsidian tags and notes
 - [jimbrig/dev-portfolio](https://github.com/jimbrig/dev-portfolio) - Developer Portfolio
 - [nothingislost/obsidian-workspaces-plus](https://github.com/nothingislost/obsidian-workspaces-plus) - Quickly switch and manage Obsidian workspaces
-- [withastro/astro](https://github.com/withastro/astro) - Build fast websites, faster. 🚀🧑‍🚀✨
 - [umijs/umi](https://github.com/umijs/umi) - 🌋 Pluggable enterprise-level react application framework.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [Lierrmm/Node-CallOfDuty](https://github.com/Lierrmm/Node-CallOfDuty) - Node Wrapper for the "private" Call Of Duty API.
@@ -10434,6 +10450,7 @@
 
 ## Vim script 
 
+- [preservim/vim-markdown](https://github.com/preservim/vim-markdown) - Markdown Vim Mode
 - [timvisee/dotfiles](https://github.com/timvisee/dotfiles) - :octocat: Tim does dotfiles
 - [joshukraine/dotfiles](https://github.com/joshukraine/dotfiles) - :round_pushpin: My dotfiles for macOS using Fish/Zsh, Neovim, and Tmux
 - [A/.dotfiles](https://github.com/A/.dotfiles) - configs and utils
