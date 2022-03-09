@@ -389,6 +389,7 @@
 
 ## C# # 
 
+- [aws/aws-lambda-dotnet](https://github.com/aws/aws-lambda-dotnet) - Libraries, samples and tools to help .NET Core developers develop AWS Lambda functions.
 - [rdagumampan/yuniql](https://github.com/rdagumampan/yuniql) - Free and open source schema versioning and database migration made natively with .NET Core. NEW! v1.2.25 released!
 - [noakesey/d365fo-entity-schema](https://github.com/noakesey/d365fo-entity-schema) - Visual Studio extension to generate entity relation schema for Dynamics 365 Finance Operations (D365FO)
 - [fredatgithub/DeployApplication](https://github.com/fredatgithub/DeployApplication) - Deploy an application with Git
@@ -2022,6 +2023,7 @@
 
 ## Java 
 
+- [awsdocs/aws-lambda-developer-guide](https://github.com/awsdocs/aws-lambda-developer-guide) - The AWS Lambda Developer Guide
 - [insanum/exchange-sync](https://github.com/insanum/exchange-sync) - Transfers Exchange data to various data sources (pluggable).  Currently supports Tasks (to Remember the Milk) and Appointments (to Google Calendar).  Can act as a replacement for Google Calendar Sync on non-Windows machines.
 - [aws-samples/amazon-s3-object-lambda-default-configuration](https://github.com/aws-samples/amazon-s3-object-lambda-default-configuration) - Automate the configuration of S3 Object Lambda.
 - [pgcodekeeper/pgcodekeeper](https://github.com/pgcodekeeper/pgcodekeeper) - pgCodeKeeper is a PostgreSQL schema management tool
@@ -2103,6 +2105,7 @@
 
 ## JavaScript 
 
+- [uhyo/please-star-first](https://github.com/uhyo/please-star-first) - GitHub Action that automatically closes issues opened by non-stargazers
 - [moj-analytical-services/s3browser](https://github.com/moj-analytical-services/s3browser) - A R Studio Addin that allows you to browse the files you have access to in S3
 - [serverless/examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
 - [Gisto/Gisto](https://github.com/Gisto/Gisto) - Gisto is a Cross-platform snippets management desktop application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists Infrastructure which means you can use all your existing snippets by connecting your GitHub account!  Gisto started as an attempt to fulfill the lack of a syntax highlighted and cloud synchronized code snippet solution.  You may thing of Gisto as Evernote for code.
@@ -2284,7 +2287,6 @@
 - [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
-- [withastro/astro](https://github.com/withastro/astro) - Build fast websites, faster. 🚀🧑‍🚀✨
 - [abelljs/abell](https://github.com/abelljs/abell) - a Static-Site-Generator for JavaScript Developers. Build fast, vanilla websites in the syntax you almost already know. [In alpha] 🌀
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: A tool for managing JavaScript projects with multiple packages.
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
@@ -3294,6 +3296,7 @@
 
 ## Makefile 
 
+- [yosukes-dev/AmazonWSL](https://github.com/yosukes-dev/AmazonWSL) - Amazon Linux as a WSL Instance. Supports multiple install.
 - [COVESA/vehicle_signal_specification](https://github.com/COVESA/vehicle_signal_specification) - Vehicle Signal Specification - standardized way to describe automotive data
 - [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
@@ -3379,6 +3382,7 @@
 
 ## Others 
 
+- [dbt-labs/dbt-project-maturity](https://github.com/dbt-labs/dbt-project-maturity) - 
 - [Appsilon/.github](https://github.com/Appsilon/.github) - 
 - [buithaibinh/serverless_examples](https://github.com/buithaibinh/serverless_examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
 - [aws-samples/csv-to-dynamodb](https://github.com/aws-samples/csv-to-dynamodb) - 
@@ -4543,6 +4547,7 @@
 
 ## PowerShell 
 
+- [damienvanrobaeys/Docker_Desktop_CE_Auto_Update_Service](https://github.com/damienvanrobaeys/Docker_Desktop_CE_Auto_Update_Service) - Auto update Docker Desktop for Windows even with no admin rights using a Windows Service
 - [StefanScherer/choco-archiver](https://github.com/StefanScherer/choco-archiver) - Archiver tool as Chocolatey package - Easily create and extract .zip, .tar, .tar.gz, .tar.bz2, .tar.xz, .tar.lz4, .tar.sz, and .rar (extract-only) files with Go
 - [wsmelton/prompt](https://github.com/wsmelton/prompt) - Quick and easy prompt setup for PowerShell with Windows Terminal
 - [rkitover/windows-dev-guide](https://github.com/rkitover/windows-dev-guide) - Native Windows Development Environment Setup Guide for Linux Users.
@@ -5078,7 +5083,7 @@
 - [Ash258/Scoop-JetBrains](https://github.com/Ash258/Scoop-JetBrains) - All JetBrains Utilities and IDEs
 - [Ash258/GithubActionsBucketForTesting](https://github.com/Ash258/GithubActionsBucketForTesting) - Test repo for https://github.com/shovel-org/GithubActions
 - [Ash258/Shovel-Ash258](https://github.com/Ash258/Shovel-Ash258) - Personal Shovel bucket with a wide variety of applications of all kinds.
-- [ScoopInstaller/Install](https://github.com/ScoopInstaller/Install) - 📥 WIP: Next-generation Scoop (un)installer
+- [ScoopInstaller/Install](https://github.com/ScoopInstaller/Install) - 📥 Next-generation Scoop (un)installer
 - [Ash258/Scoop-Core](https://github.com/Ash258/Scoop-Core) - Shovel. Alternative, more advanced, and user-friendly implementation of windows command-line installer scoop.
 - [darkoperator/Posh-VirusTotal](https://github.com/darkoperator/Posh-VirusTotal) - PowerShell Module to interact with VirusTotal
 - [darkoperator/powershell_scripts](https://github.com/darkoperator/powershell_scripts) - Powershell Scripts
@@ -9380,6 +9385,7 @@
 
 ## Shell 
 
+- [bowmanjd/docker-wsl](https://github.com/bowmanjd/docker-wsl) - 
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [panubo/docker-sshd](https://github.com/panubo/docker-sshd) - Minimal Alpine Linux Docker image with sshd exposed and rsync installed
 - [insanum/dotfiles](https://github.com/insanum/dotfiles) - My dotfiles!
@@ -9790,7 +9796,7 @@
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [chendaniely/computational-project-cookie-cutter](https://github.com/chendaniely/computational-project-cookie-cutter) - A cookie cutter to set up a folder structure for a computational project
-- [isair/dotfiles](https://github.com/isair/dotfiles) - 🖥️  Backup your packages, apps, and configurations directly to git in the form of profiles. Set up any new (virtual) machine using a profile in one line. Share profiles between multiple machines. Configure auto update, clean-up, and back-up. Works for all linux flavors, Mac OS, and Windows.
+- [isair/dotfiles](https://github.com/isair/dotfiles) - 🖥️  Backup your packages, apps, and configurations directly to git in the form of profiles. Set up any new machine using a profile in one line. Share profiles between multiple machines. Configure auto update, clean-up, and back-up. Works for all linux flavors, Mac OS, and Windows.
 - [radum/dotfiles](https://github.com/radum/dotfiles) - 🛠 Global apps, modules, packages, .files, sensible hacker defaults for macOS and Windows
 - [weikinhuang/dotfiles](https://github.com/weikinhuang/dotfiles) - Cross platform home directory settings
 - [jthegedus/dotfiles](https://github.com/jthegedus/dotfiles) - Dotfiles & Developer Environment. Supports Ubuntu2004+, macOS Catalina+, Windows 10 w WSL
@@ -10105,6 +10111,7 @@
 - [alexobenauer/Cross-reference-Navigation-for-Obsidian](https://github.com/alexobenauer/Cross-reference-Navigation-for-Obsidian) - Cross-reference navigation through your Obsidian tags and notes
 - [jimbrig/dev-portfolio](https://github.com/jimbrig/dev-portfolio) - Developer Portfolio
 - [nothingislost/obsidian-workspaces-plus](https://github.com/nothingislost/obsidian-workspaces-plus) - Quickly switch and manage Obsidian workspaces
+- [withastro/astro](https://github.com/withastro/astro) - Build fast websites, faster. 🚀🧑‍🚀✨
 - [umijs/umi](https://github.com/umijs/umi) - 🌋 Pluggable enterprise-level react application framework.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [Lierrmm/Node-CallOfDuty](https://github.com/Lierrmm/Node-CallOfDuty) - Node Wrapper for the "private" Call Of Duty API.
