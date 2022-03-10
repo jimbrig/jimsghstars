@@ -389,6 +389,8 @@
 
 ## C# # 
 
+- [murrayju/CreateProcessAsUser](https://github.com/murrayju/CreateProcessAsUser) - Creates a process in a different Windows session
+- [fanfeilong/exceltk](https://github.com/fanfeilong/exceltk) - Convert Excel sheet to markdown, json, tex, html, image and so on..
 - [aws/aws-lambda-dotnet](https://github.com/aws/aws-lambda-dotnet) - Libraries, samples and tools to help .NET Core developers develop AWS Lambda functions.
 - [rdagumampan/yuniql](https://github.com/rdagumampan/yuniql) - Free and open source schema versioning and database migration made natively with .NET Core. NEW! v1.2.25 released!
 - [noakesey/d365fo-entity-schema](https://github.com/noakesey/d365fo-entity-schema) - Visual Studio extension to generate entity relation schema for Dynamics 365 Finance Operations (D365FO)
@@ -633,6 +635,7 @@
 
 ## C++ 
 
+- [jarulraj/sqlcheck](https://github.com/jarulraj/sqlcheck) - Automatically identify anti-patterns in SQL queries
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [oatpp/oatpp](https://github.com/oatpp/oatpp) - 🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
 - [oatpp/example-postgresql](https://github.com/oatpp/example-postgresql) - A complete example of a "CRUD" service (UserService) built with Oat++ and using oatpp ORM with PostgreSQL.
@@ -1036,6 +1039,7 @@
 
 ## Dockerfile 
 
+- [mgramin/docker-postgres-up-from-dump](https://github.com/mgramin/docker-postgres-up-from-dump) - 
 - [cd17822/lambda-s3-pg-backup](https://github.com/cd17822/lambda-s3-pg-backup) - Automatic Postgres to S3 Backups Using Docker on Lambda
 - [phdax/docker-rserve-tls-selfsigned](https://github.com/phdax/docker-rserve-tls-selfsigned) - Rserve with TLS/SSL connection mode by self-signed certificate
 - [ormico/sqlpackage-docker](https://github.com/ormico/sqlpackage-docker) - SqlPackage in a Docker image
@@ -1149,6 +1153,11 @@
 
 ## Go 
 
+- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams. Public demo: https://demo.bytebase.com
+- [mgramin/pg_prompter](https://github.com/mgramin/pg_prompter) - 
+- [dimitri/regresql](https://github.com/dimitri/regresql) - Regression Testing your SQL queries
+- [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
 - [sqlitebrowser/dbhub.io](https://github.com/sqlitebrowser/dbhub.io) - A "Cloud" for SQLite databases.  Collaborative development for your data. :)
 - [insanum/trellocli](https://github.com/insanum/trellocli) - Trello Command Line Interface
 - [allaboutapps/integresql](https://github.com/allaboutapps/integresql) - IntegreSQL manages isolated PostgreSQL databases for your integration tests.
@@ -1190,7 +1199,7 @@
 - [GoogleCloudPlatform/buildpacks](https://github.com/GoogleCloudPlatform/buildpacks) - Builders and buildpacks designed to run on Google Cloud's container platforms
 - [doron-cohen/antidot](https://github.com/doron-cohen/antidot) - Cleans up your $HOME from those pesky dotfiles
 - [Yash-Handa/logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
-- [jackyzha0/hugo-obsidian](https://github.com/jackyzha0/hugo-obsidian) - simple GitHub action to parse Markdown Links into a .yaml file for Hugo
+- [jackyzha0/hugo-obsidian](https://github.com/jackyzha0/hugo-obsidian) - simple GitHub action to parse Markdown Links into a .json file for Hugo
 - [gesquive/git-user](https://github.com/gesquive/git-user) - Git plugin that allows you to save multiple user profiles and set them as project defaults
 - [erizocosmico/dotman](https://github.com/erizocosmico/dotman) - Super simple dotfiles manager
 - [Azure-Samples/functions-custom-handlers](https://github.com/Azure-Samples/functions-custom-handlers) - Sample code for Azure Functions custom handlers
@@ -1491,6 +1500,8 @@
 
 ## HTML 
 
+- [franchyze923/Code_From_Tutorials](https://github.com/franchyze923/Code_From_Tutorials) - Code from my YouTube Tutorials
+- [catherinedevlin/ddl-generator](https://github.com/catherinedevlin/ddl-generator) - Guesses table DDL based on data
 - [thomasp85/tidygraph](https://github.com/thomasp85/tidygraph) - A tidy API for graph manipulation
 - [LuciferUchiha/Digital-Garden](https://github.com/LuciferUchiha/Digital-Garden) - My Digital Garden built from Obsidian notes
 - [A/shuvalov.info](https://github.com/A/shuvalov.info) - My blog
@@ -2023,6 +2034,7 @@
 
 ## Java 
 
+- [mgramin/postgres-docker-integration-tests](https://github.com/mgramin/postgres-docker-integration-tests) - Example for maven integration test with Docker and Postgresql
 - [awsdocs/aws-lambda-developer-guide](https://github.com/awsdocs/aws-lambda-developer-guide) - The AWS Lambda Developer Guide
 - [insanum/exchange-sync](https://github.com/insanum/exchange-sync) - Transfers Exchange data to various data sources (pluggable).  Currently supports Tasks (to Remember the Milk) and Appointments (to Google Calendar).  Can act as a replacement for Google Calendar Sync on non-Windows machines.
 - [aws-samples/amazon-s3-object-lambda-default-configuration](https://github.com/aws-samples/amazon-s3-object-lambda-default-configuration) - Automate the configuration of S3 Object Lambda.
@@ -2105,6 +2117,10 @@
 
 ## JavaScript 
 
+- [openpracticelibrary/openpracticelibrary](https://github.com/openpracticelibrary/openpracticelibrary) - Practices and ideas that empower teams to collaborate and deliver iteratively
+- [batpigandme/highcharter-a11y-talk](https://github.com/batpigandme/highcharter-a11y-talk) - 
+- [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
+- [AndrewJByrne/Excel-Add-in-Markdown-TableMaker](https://github.com/AndrewJByrne/Excel-Add-in-Markdown-TableMaker) - This task pane add-in shows how to represent a range in a spreadsheet in GitHub flavored markdown so that it can be displayed as a table in a markdown file. It uses the JavaScript APIs in Excel 2016 to read the values in a range.
 - [uhyo/please-star-first](https://github.com/uhyo/please-star-first) - GitHub Action that automatically closes issues opened by non-stargazers
 - [moj-analytical-services/s3browser](https://github.com/moj-analytical-services/s3browser) - A R Studio Addin that allows you to browse the files you have access to in S3
 - [serverless/examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
@@ -3382,6 +3398,8 @@
 
 ## Others 
 
+- [mgramin/database-as-code](https://github.com/mgramin/database-as-code) - The "Database as Code" Manifesto
+- [t-kalinowski/r-iterator-ideas](https://github.com/t-kalinowski/r-iterator-ideas) - Imagining what a user-extensible iterator protocol for R might look like.
 - [dbt-labs/dbt-project-maturity](https://github.com/dbt-labs/dbt-project-maturity) - 
 - [Appsilon/.github](https://github.com/Appsilon/.github) - 
 - [buithaibinh/serverless_examples](https://github.com/buithaibinh/serverless_examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
@@ -4506,6 +4524,7 @@
 
 ## PLpgSQL 
 
+- [dbt-labs/dbt-external-tables](https://github.com/dbt-labs/dbt-external-tables) - dbt macros to stage external sources
 - [michelp/metagration](https://github.com/michelp/metagration) - Metagration: PostgreSQL Migrator in PostgreSQL
 - [yogimehla/SQLtoPostgresMigrationScript](https://github.com/yogimehla/SQLtoPostgresMigrationScript) - 
 - [lockedata/mssql_ml_elf](https://github.com/lockedata/mssql_ml_elf) - Execution and Logging Framework (ELF) 🧝‍♀️ for ML models in SQL Server
@@ -5197,6 +5216,8 @@
 
 ## Python 
 
+- [nschloe/tiptop](https://github.com/nschloe/tiptop) - :desktop_computer: Command-line system monitoring
+- [bitpicky/dbt-sugar](https://github.com/bitpicky/dbt-sugar) - dbt-sugar is a CLI tool that allows users of dbt to have fun and ease performing actions around dbt models
 - [moj-analytical-services/etl_manager](https://github.com/moj-analytical-services/etl_manager) - A python package to create a database on the platform using our moj data warehousing framework
 - [Appsilon/r-lambda-workflow](https://github.com/Appsilon/r-lambda-workflow) - Runtime for running R on AWS Lambda.
 - [varunu28/S3-To-DynamoDB-AWS-Lambda-Function](https://github.com/varunu28/S3-To-DynamoDB-AWS-Lambda-Function) - An AWS Lambda function to send data from S3 bucket to DynamDB
@@ -5976,7 +5997,7 @@
 - [andrie/version.compare](https://github.com/andrie/version.compare) - R package that allows you to run R code in different versions of R and compare results
 - [andrie/rrd](https://github.com/andrie/rrd) - R package for working with .rrd files
 - [ketchbrookanalytics/shiny-custom-bscard](https://github.com/ketchbrookanalytics/shiny-custom-bscard) - Materials for the 2022 Appsilon Shiny Conference video tutorial, "Building Custom Bootstrap Cards with Shiny"
-- [nflverse/pfr_scrapR](https://github.com/nflverse/pfr_scrapR) - scrape things
+- [nflverse/pfr_scrapR](https://github.com/nflverse/pfr_scrapR) - scrape things. data @ nflverse/nflverse-data
 - [maxto/qapi](https://github.com/maxto/qapi) - Low-level functions for quantitative analysis in R
 - [mfrasco/Metrics](https://github.com/mfrasco/Metrics) - An R package for common supervised machine learning metrics.
 - [randhyllcho/FantasyGolf](https://github.com/randhyllcho/FantasyGolf) - 
@@ -9096,7 +9117,7 @@
 
 ## ReScript 
 
-- [mobily/stacks](https://github.com/mobily/stacks) - ⚡ Build React Native layouts quickly with ease and fun.
+- [mobily/stacks](https://github.com/mobily/stacks) - ⚡ A set of useful components to help you build and maintain React Native (Web too) layouts with ease.
 
 ## Reason 
 
@@ -9385,6 +9406,7 @@
 
 ## Shell 
 
+- [dataegret/pg-utils](https://github.com/dataegret/pg-utils) - Useful PostgreSQL utilities
 - [bowmanjd/docker-wsl](https://github.com/bowmanjd/docker-wsl) - 
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [panubo/docker-sshd](https://github.com/panubo/docker-sshd) - Minimal Alpine Linux Docker image with sshd exposed and rsync installed
@@ -9863,6 +9885,7 @@
 
 ## Starlark 
 
+- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 - [googlemaps/js-samples](https://github.com/googlemaps/js-samples) - Samples for the Google Maps JavaScript v3 API
 
 ## Svelte 
@@ -9993,6 +10016,7 @@
 
 ## TypeScript 
 
+- [sportradar/aws-azure-login](https://github.com/sportradar/aws-azure-login) - Use Azure AD SSO to log into the AWS via CLI.
 - [erbanku/github-notion-star](https://github.com/erbanku/github-notion-star) - Sync GitHub Starred Repositories to Notion Database
 - [ws1-finder/ws1-finder](https://github.com/ws1-finder/ws1-finder) - Launch applications to which you are entitled on Workspace ONE, right from your browser! Available for Firefox, Chrome and Microsoft Edge
 - [dobrovolsky/obsidain-structure](https://github.com/dobrovolsky/obsidain-structure) - 
@@ -10533,7 +10557,7 @@
 
 ## Vue 
 
-- [halo-dev/halo-admin](https://github.com/halo-dev/halo-admin) - 🖥 Halo admin web client.
+- [halo-dev/halo-admin](https://github.com/halo-dev/halo-admin) - Halo admin web client.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [dale0525/ClipBroad](https://github.com/dale0525/ClipBroad) - Sync your clipboard across multiple platforms
 - [FrissAnalytics/shiny-vue-simple](https://github.com/FrissAnalytics/shiny-vue-simple) - simple example combining R shiny and vue.js
