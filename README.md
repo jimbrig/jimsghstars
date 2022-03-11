@@ -253,6 +253,7 @@
 
 ## C 
 
+- [hasura/skor](https://github.com/hasura/skor) - Now part of Hasura GraphQL Engine. Listen to postgres events and forward them as JSON payloads to a webhook
 - [pgaudit/pgaudit](https://github.com/pgaudit/pgaudit) - PostgreSQL Audit Extension
 - [eulerto/pgquarrel](https://github.com/eulerto/pgquarrel) - pgquarrel compares PostgreSQL database schemas (DDL)
 - [nginx/nginx](https://github.com/nginx/nginx) - An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html
@@ -635,6 +636,7 @@
 
 ## C++ 
 
+- [pgmodeler/pgmodeler](https://github.com/pgmodeler/pgmodeler) - Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you!
 - [jarulraj/sqlcheck](https://github.com/jarulraj/sqlcheck) - Automatically identify anti-patterns in SQL queries
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [oatpp/oatpp](https://github.com/oatpp/oatpp) - 🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
@@ -2117,8 +2119,10 @@
 
 ## JavaScript 
 
+- [OmniDB/OmniDB](https://github.com/OmniDB/OmniDB) - Web tool for database management
+- [okeeffed/developer-notes](https://github.com/okeeffed/developer-notes) - Published Developer Cheat Sheets
 - [openpracticelibrary/openpracticelibrary](https://github.com/openpracticelibrary/openpracticelibrary) - Practices and ideas that empower teams to collaborate and deliver iteratively
-- [batpigandme/highcharter-a11y-talk](https://github.com/batpigandme/highcharter-a11y-talk) - 
+- [batpigandme/highcharter-a11y-talk](https://github.com/batpigandme/highcharter-a11y-talk) - Slides from talk on using highcharter with the Highcharts accessibility module.
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [AndrewJByrne/Excel-Add-in-Markdown-TableMaker](https://github.com/AndrewJByrne/Excel-Add-in-Markdown-TableMaker) - This task pane add-in shows how to represent a range in a spreadsheet in GitHub flavored markdown so that it can be displayed as a table in a markdown file. It uses the JavaScript APIs in Excel 2016 to read the values in a range.
 - [uhyo/please-star-first](https://github.com/uhyo/please-star-first) - GitHub Action that automatically closes issues opened by non-stargazers
@@ -3177,6 +3181,7 @@
 
 ## Jupyter Notebook 
 
+- [owid/etl](https://github.com/owid/etl) - A compute graph for loading and transforming OWID's data
 - [Azure-Samples/serverless-full-stack-apps-azure-sql](https://github.com/Azure-Samples/serverless-full-stack-apps-azure-sql) - Full stack solution using Vue.js, Azure Static Web Apps, Azure Function, Azure SQL Database and a microservice architecture to monitor in real-time public transportation data, create a geofence and send notification when geofence is activated
 - [ploomber/projects](https://github.com/ploomber/projects) - Sample projects using Ploomber.
 - [MassStreetAnalytics/etl-framework](https://github.com/MassStreetAnalytics/etl-framework) - A framework for moving data into a data warehouse.
@@ -3398,6 +3403,7 @@
 
 ## Others 
 
+- [mulfok/periodic-note-templates](https://github.com/mulfok/periodic-note-templates) - A set a periodic note templates for Obsidian.md.
 - [mgramin/database-as-code](https://github.com/mgramin/database-as-code) - The "Database as Code" Manifesto
 - [t-kalinowski/r-iterator-ideas](https://github.com/t-kalinowski/r-iterator-ideas) - Imagining what a user-extensible iterator protocol for R might look like.
 - [dbt-labs/dbt-project-maturity](https://github.com/dbt-labs/dbt-project-maturity) - 
@@ -4463,6 +4469,7 @@
 
 ## PHP 
 
+- [okeeffed/cheat-sheets](https://github.com/okeeffed/cheat-sheets) - 
 - [doctrine/dbal](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer
 - [Chicago/metalicious](https://github.com/Chicago/metalicious) - An open source data dictionary which can be deployed to track the metadata of one or more databases.
 - [StephanMeijer/Apostolos](https://github.com/StephanMeijer/Apostolos) - Apostolos: bringing the Good Word of proper Time Tracking
@@ -4524,6 +4531,7 @@
 
 ## PLpgSQL 
 
+- [2ndQuadrant/audit-trigger](https://github.com/2ndQuadrant/audit-trigger) - Simple, easily customised trigger-based auditing for PostgreSQL (Postgres). See also pgaudit.
 - [dbt-labs/dbt-external-tables](https://github.com/dbt-labs/dbt-external-tables) - dbt macros to stage external sources
 - [michelp/metagration](https://github.com/michelp/metagration) - Metagration: PostgreSQL Migrator in PostgreSQL
 - [yogimehla/SQLtoPostgresMigrationScript](https://github.com/yogimehla/SQLtoPostgresMigrationScript) - 
@@ -4566,6 +4574,7 @@
 
 ## PowerShell 
 
+- [kasdali/pbila](https://github.com/kasdali/pbila) - Power BI Logs Analytics Starter Kit
 - [damienvanrobaeys/Docker_Desktop_CE_Auto_Update_Service](https://github.com/damienvanrobaeys/Docker_Desktop_CE_Auto_Update_Service) - Auto update Docker Desktop for Windows even with no admin rights using a Windows Service
 - [StefanScherer/choco-archiver](https://github.com/StefanScherer/choco-archiver) - Archiver tool as Chocolatey package - Easily create and extract .zip, .tar, .tar.gz, .tar.bz2, .tar.xz, .tar.lz4, .tar.sz, and .rar (extract-only) files with Go
 - [wsmelton/prompt](https://github.com/wsmelton/prompt) - Quick and easy prompt setup for PowerShell with Windows Terminal
@@ -5216,6 +5225,8 @@
 
 ## Python 
 
+- [awslabs/aws-lambda-powertools-python](https://github.com/awslabs/aws-lambda-powertools-python) - A suite of utilities for AWS Lambda Functions that makes tracing with AWS X-Ray, structured logging and creating custom metrics asynchronously easier
+- [andresriancho/enumerate-iam](https://github.com/andresriancho/enumerate-iam) - Enumerate the permissions associated with AWS credential set
 - [nschloe/tiptop](https://github.com/nschloe/tiptop) - :desktop_computer: Command-line system monitoring
 - [bitpicky/dbt-sugar](https://github.com/bitpicky/dbt-sugar) - dbt-sugar is a CLI tool that allows users of dbt to have fun and ease performing actions around dbt models
 - [moj-analytical-services/etl_manager](https://github.com/moj-analytical-services/etl_manager) - A python package to create a database on the platform using our moj data warehousing framework
@@ -5961,7 +5972,6 @@
 - [mdlincoln/printprob-db](https://github.com/mdlincoln/printprob-db) - Database and interface for Print and Probability project
 - [KevinMusgrave/easy-module-attribute-getter](https://github.com/KevinMusgrave/easy-module-attribute-getter) - Fetch and initialize objects in one line, without any if-statements or dictionaries. Merge and override complex config options at the command line.
 - [ctjacobs/git-rdm](https://github.com/ctjacobs/git-rdm) - A research data management plugin for the Git version control system.
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [airbnb/knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions.
 - [drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 - [6uhrmittag/taskbutler](https://github.com/6uhrmittag/taskbutler) - Create and add progress bars, Office365 Files and Dropbox Paper papers by labels and link them to your Todoist tasks.
@@ -5980,6 +5990,9 @@
 
 ## R 
 
+- [xiangli2pro/hbcm](https://github.com/xiangli2pro/hbcm) - hbcm
+- [lz100/spsUtil](https://github.com/lz100/spsUtil) - Utility functions of systemPipeShiny
+- [lz100/spsComps](https://github.com/lz100/spsComps) - 
 - [gersteinlab/shiny-dim-reduction](https://github.com/gersteinlab/shiny-dim-reduction) - This project applies dimensionality reduction to tabular data and generates applications for visualizing the results.
 - [jennaallen/dog_days](https://github.com/jennaallen/dog_days) - Using AWS RDS and S3 to store data about my dogs' vaccination and medical records. Creating an R shiny app to keep track of and share records with vets. :dog: :dog:
 - [gadenbuie/rsprefs](https://github.com/gadenbuie/rsprefs) - Manage and Sync Your RStudio Preferences
@@ -5997,7 +6010,7 @@
 - [andrie/version.compare](https://github.com/andrie/version.compare) - R package that allows you to run R code in different versions of R and compare results
 - [andrie/rrd](https://github.com/andrie/rrd) - R package for working with .rrd files
 - [ketchbrookanalytics/shiny-custom-bscard](https://github.com/ketchbrookanalytics/shiny-custom-bscard) - Materials for the 2022 Appsilon Shiny Conference video tutorial, "Building Custom Bootstrap Cards with Shiny"
-- [nflverse/pfr_scrapR](https://github.com/nflverse/pfr_scrapR) - scrape things. data @ nflverse/nflverse-data
+- [nflverse/pfr_scrapR](https://github.com/nflverse/pfr_scrapR) - builds pfr data for nflverse/nflverse-data
 - [maxto/qapi](https://github.com/maxto/qapi) - Low-level functions for quantitative analysis in R
 - [mfrasco/Metrics](https://github.com/mfrasco/Metrics) - An R package for common supervised machine learning metrics.
 - [randhyllcho/FantasyGolf](https://github.com/randhyllcho/FantasyGolf) - 
@@ -9327,7 +9340,7 @@
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence for Building Data Applications
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 
 ## SAS 
@@ -10016,6 +10029,8 @@
 
 ## TypeScript 
 
+- [FlohGro-dev/Craftcuts](https://github.com/FlohGro-dev/Craftcuts) - Craftcuts - a Shortcuts eXtension for Craft
+- [psake/psake-vscode](https://github.com/psake/psake-vscode) - Contains extensions for Visual Studio Code
 - [sportradar/aws-azure-login](https://github.com/sportradar/aws-azure-login) - Use Azure AD SSO to log into the AWS via CLI.
 - [erbanku/github-notion-star](https://github.com/erbanku/github-notion-star) - Sync GitHub Starred Repositories to Notion Database
 - [ws1-finder/ws1-finder](https://github.com/ws1-finder/ws1-finder) - Launch applications to which you are entitled on Workspace ONE, right from your browser! Available for Firefox, Chrome and Microsoft Edge
@@ -10441,6 +10456,7 @@
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [antvis/F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
 - [zendeskgarden/react-containers](https://github.com/zendeskgarden/react-containers) - :seedling: garden React (no-UI) containers
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [microsoft/SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
