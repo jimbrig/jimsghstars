@@ -167,6 +167,7 @@
 
 ## Batchfile 
 
+- [LordOfMice/hidusbf](https://github.com/LordOfMice/hidusbf) - USB Mice Overclocking Software (for Windows)
 - [erbanku/custom-search-engines-backup](https://github.com/erbanku/custom-search-engines-backup) - Import/Export Google Chrome or Microsoft Edge's custom search engines and sync (overwrite) between 2 browsers.
 - [netoffice/NetOffice-NuGet](https://github.com/netoffice/NetOffice-NuGet) - :package: NuGet Packages for NetOffice
 - [AveYo/LeanAndMean](https://github.com/AveYo/LeanAndMean) - snippets for power users
@@ -253,6 +254,14 @@
 
 ## C 
 
+- [brettlaforge/pg_redis_pubsub](https://github.com/brettlaforge/pg_redis_pubsub) - Redis Publish from PostgreSQL
+- [eulerto/pg_restrict](https://github.com/eulerto/pg_restrict) - restrict some SQL commands on PostgreSQL
+- [pgsentinel/pgsentinel](https://github.com/pgsentinel/pgsentinel) - postgresql extension providing Active session history
+- [petere/plsh](https://github.com/petere/plsh) - PL/sh is a procedural language handler for PostgreSQL that allows you to write stored procedures in a shell of your choice.
+- [petere/pguri](https://github.com/petere/pguri) - uri type for PostgreSQL
+- [tds-fdw/tds_fdw](https://github.com/tds-fdw/tds_fdw) - A PostgreSQL foreign data wrapper to connect to TDS databases (Sybase and Microsoft SQL Server)
+- [eulerto/pg_similarity](https://github.com/eulerto/pg_similarity) - set of functions and operators for executing similarity queries
+- [okbob/plpgsql_check](https://github.com/okbob/plpgsql_check) - plpgsql_check is linter tool for language PL/pgSQL (native language for PostgreSQL store procedures).
 - [hasura/skor](https://github.com/hasura/skor) - Now part of Hasura GraphQL Engine. Listen to postgres events and forward them as JSON payloads to a webhook
 - [pgaudit/pgaudit](https://github.com/pgaudit/pgaudit) - PostgreSQL Audit Extension
 - [eulerto/pgquarrel](https://github.com/eulerto/pgquarrel) - pgquarrel compares PostgreSQL database schemas (DDL)
@@ -695,7 +704,7 @@
 - [Ironholds/urltools](https://github.com/Ironholds/urltools) - Elegant URL handling in R
 - [plv8/plv8](https://github.com/plv8/plv8) - V8 Engine Javascript Procedural Language add-on for PostgreSQL
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
-- [AStarStartup/AStartupCookbook](https://github.com/AStarStartup/AStartupCookbook) - An book on how to invent, launch, and run a startup with Issue-driven Development and IMUL.
+- [AStarStartup/AStartupCookbook](https://github.com/AStarStartup/AStartupCookbook) - A guide on how to invent, document, launch, and run a startup on GitHub with Jekyll and I am You Language (IMUL).
 - [wilkelab/isoband](https://github.com/wilkelab/isoband) - isoband: An R package to generate contour lines and polygons.
 - [google/libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 - [rstudio/rstudio-launcher-plugin-sdk](https://github.com/rstudio/rstudio-launcher-plugin-sdk) - The RStudio Launcher Plugin SDK is a software development kit used to create plugins that integrate orchestration tools with the RStudio Job Launcher.
@@ -1155,6 +1164,14 @@
 
 ## Go 
 
+- [square/password-rotation-lambda](https://github.com/square/password-rotation-lambda) - Password rotation function for AWS Lambda and Secrets Manager
+- [trackit/trackit](https://github.com/trackit/trackit) - Trackit helps you understand and improve your use of AWS
+- [cubeFS/cubefs](https://github.com/cubeFS/cubefs) - CubeFS is a cloud native distributed file system and object store.
+- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
+- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
+- [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+- [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+- [minio/minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams. Public demo: https://demo.bytebase.com
 - [mgramin/pg_prompter](https://github.com/mgramin/pg_prompter) - 
@@ -1461,6 +1478,7 @@
 
 ## HCL 
 
+- [cloudposse/terraform-aws-rds](https://github.com/cloudposse/terraform-aws-rds) - Terraform module to provision AWS RDS instances
 - [dbt-labs/terraform-aws-dbt-cloud-single-tenant](https://github.com/dbt-labs/terraform-aws-dbt-cloud-single-tenant) - 
 - [rgl/windows-vagrant](https://github.com/rgl/windows-vagrant) - Windows 10/11/2016/2019/2022 Base Vagrant Box (https://app.vagrantup.com/rgl)
 - [cloudposse/terraform-aws-s3-bucket](https://github.com/cloudposse/terraform-aws-s3-bucket) - Terraform module that creates an S3 bucket with an optional IAM user for external CI/CD systems
@@ -1502,6 +1520,7 @@
 
 ## HTML 
 
+- [SebKrantz/Rblog](https://github.com/SebKrantz/Rblog) - Personal R blog, linked to r-bloggers.com
 - [franchyze923/Code_From_Tutorials](https://github.com/franchyze923/Code_From_Tutorials) - Code from my YouTube Tutorials
 - [catherinedevlin/ddl-generator](https://github.com/catherinedevlin/ddl-generator) - Guesses table DDL based on data
 - [thomasp85/tidygraph](https://github.com/thomasp85/tidygraph) - A tidy API for graph manipulation
@@ -2036,6 +2055,8 @@
 
 ## Java 
 
+- [aws-samples/aws-sam-java-rest](https://github.com/aws-samples/aws-sam-java-rest) - A sample REST application built on SAM and DynamoDB that demonstrates testing with DynamoDB Local.
+- [aws-samples/aws-dynamodb-examples](https://github.com/aws-samples/aws-dynamodb-examples) - DynamoDB Examples
 - [mgramin/postgres-docker-integration-tests](https://github.com/mgramin/postgres-docker-integration-tests) - Example for maven integration test with Docker and Postgresql
 - [awsdocs/aws-lambda-developer-guide](https://github.com/awsdocs/aws-lambda-developer-guide) - The AWS Lambda Developer Guide
 - [insanum/exchange-sync](https://github.com/insanum/exchange-sync) - Transfers Exchange data to various data sources (pluggable).  Currently supports Tasks (to Remember the Milk) and Appointments (to Google Calendar).  Can act as a replacement for Google Calendar Sync on non-Windows machines.
@@ -2119,6 +2140,10 @@
 
 ## JavaScript 
 
+- [trackit/trackit-client](https://github.com/trackit/trackit-client) - TrackIt WebUI repository
+- [jeremydaly/dynamodb-streams-processor](https://github.com/jeremydaly/dynamodb-streams-processor) - A simple tool to help process DynamoDB Streams
+- [justinram11/serverless-aws-batch](https://github.com/justinram11/serverless-aws-batch) - 
+- [OfficeDev/Office-Add-in-samples](https://github.com/OfficeDev/Office-Add-in-samples) - Code samples for Office Add-in development on the Microsoft 365 platform.
 - [OmniDB/OmniDB](https://github.com/OmniDB/OmniDB) - Web tool for database management
 - [okeeffed/developer-notes](https://github.com/okeeffed/developer-notes) - Published Developer Cheat Sheets
 - [openpracticelibrary/openpracticelibrary](https://github.com/openpracticelibrary/openpracticelibrary) - Practices and ideas that empower teams to collaborate and deliver iteratively
@@ -3403,6 +3428,8 @@
 
 ## Others 
 
+- [devteds/e7-cloudformation-docker](https://github.com/devteds/e7-cloudformation-docker) - Create AWS CloudFormation Stack and deploy Dockerized application. Devteds episode #7 https://devteds.com/episodes/7-create-aws-cloudformation-stack-for-ec2-rds-and-deploy-docker-app
+- [grofers/ansible-role-rds-alarms](https://github.com/grofers/ansible-role-rds-alarms) - Monitor Cloudwatch metrics for Amazon RDS instances.
 - [mulfok/periodic-note-templates](https://github.com/mulfok/periodic-note-templates) - A set a periodic note templates for Obsidian.md.
 - [mgramin/database-as-code](https://github.com/mgramin/database-as-code) - The "Database as Code" Manifesto
 - [t-kalinowski/r-iterator-ideas](https://github.com/t-kalinowski/r-iterator-ideas) - Imagining what a user-extensible iterator protocol for R might look like.
@@ -3412,7 +3439,7 @@
 - [aws-samples/csv-to-dynamodb](https://github.com/aws-samples/csv-to-dynamodb) - 
 - [prabhakar2020/insert_s3_csv_file_content_to_mysql_using_lambda](https://github.com/prabhakar2020/insert_s3_csv_file_content_to_mysql_using_lambda) - 
 - [marvinpinto/action-automatic-releases](https://github.com/marvinpinto/action-automatic-releases) - READONLY: Auto-generated mirror for https://github.com/marvinpinto/actions/tree/master/packages/automatic-releases
-- [erbanku/awesome](https://github.com/erbanku/awesome) - 🌟 My Awesome Repositories List,. Automatically updates by GitHub Actions on UTC 00:00 & 16:00
+- [erbanku/awesome](https://github.com/erbanku/awesome) - 🌟 My Awesome Repositories List. Automatically updates by GitHub Actions on UTC 00:00 & 16:00
 - [insanum/py-trello](https://github.com/insanum/py-trello) - Python API wrapper around Trello's API
 - [HenrikBengtsson/future.aws.lambda](https://github.com/HenrikBengtsson/future.aws.lambda) - R package: future.aws.lambda - A Future API for Parallel Processing on AWS Lambda
 - [dalibo/powa](https://github.com/dalibo/powa) - PostgreSQL Workload Analyzer
@@ -4469,6 +4496,7 @@
 
 ## PHP 
 
+- [kalcaddle/KodExplorer](https://github.com/kalcaddle/KodExplorer) - A web based file manager,web IDE / browser based code editor
 - [okeeffed/cheat-sheets](https://github.com/okeeffed/cheat-sheets) - 
 - [doctrine/dbal](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer
 - [Chicago/metalicious](https://github.com/Chicago/metalicious) - An open source data dictionary which can be deployed to track the metadata of one or more databases.
@@ -4531,6 +4559,14 @@
 
 ## PLpgSQL 
 
+- [aquametalabs/meta_triggers](https://github.com/aquametalabs/meta_triggers) - PostgreSQL Extension: Insert, update and delete triggers that make the meta extension writable
+- [splendiddata/session_variable](https://github.com/splendiddata/session_variable) - The session_variable Postgres database extension provides a way to create and maintain session scoped variables and constants, more or less like Oracle's global variables.
+- [aquameta/pg_meta](https://github.com/aquameta/pg_meta) - PostgreSQL Extension: More friendly system catalog for PostgreSQL
+- [hollobon/pagevis](https://github.com/hollobon/pagevis) - PostgreSQL data page visualisation
+- [m-martinez/pg-audit-json](https://github.com/m-martinez/pg-audit-json) - Simple, easily customised trigger-based auditing for PostgreSQL (Postgres). See also pgaudit.
+- [lacanoid/pgddl](https://github.com/lacanoid/pgddl) - DDL eXtractor functions for PostgreSQL (ddlx)
+- [pgRouting/pgrouting](https://github.com/pgRouting/pgrouting) - Repository contains pgRouting library. Development branch is "develop", stable branch is "master"
+- [chimpler/postgres-aws-s3](https://github.com/chimpler/postgres-aws-s3) - aws_s3 postgres extension to import/export data from/to s3 (compatible with aws_s3 extension on AWS RDS)
 - [2ndQuadrant/audit-trigger](https://github.com/2ndQuadrant/audit-trigger) - Simple, easily customised trigger-based auditing for PostgreSQL (Postgres). See also pgaudit.
 - [dbt-labs/dbt-external-tables](https://github.com/dbt-labs/dbt-external-tables) - dbt macros to stage external sources
 - [michelp/metagration](https://github.com/michelp/metagration) - Metagration: PostgreSQL Migrator in PostgreSQL
@@ -4557,6 +4593,7 @@
 
 ## Perl 
 
+- [alvar-freude/Posemo](https://github.com/alvar-freude/Posemo) - PostgreSQL Secure Monitoring
 - [sqitchers/sqitch](https://github.com/sqitchers/sqitch) - Sensible database change management
 - [gluefinance/pov](https://github.com/gluefinance/pov) - Take a snapshot or rollback all your stored procedures in your PostgreSQL database.
 - [bucardo/check_postgres](https://github.com/bucardo/check_postgres) - Nagios check_postgres plugin for checking status of PostgreSQL databases
@@ -4581,6 +4618,7 @@
 - [rkitover/windows-dev-guide](https://github.com/rkitover/windows-dev-guide) - Native Windows Development Environment Setup Guide for Linux Users.
 - [microsoftgraph/powershell-intune-samples](https://github.com/microsoftgraph/powershell-intune-samples) - This repository of PowerShell sample scripts show how to access Intune service resources. They demonstrate this by making HTTPS RESTful API requests to the Microsoft Graph API from PowerShell.
 - [danielbohannon/Invoke-CradleCrafter](https://github.com/danielbohannon/Invoke-CradleCrafter) - PowerShell Remote Download Cradle Generator & Obfuscator
+- [lowlydba/lowlydba.sqlserver](https://github.com/lowlydba/lowlydba.sqlserver) - :nut_and_bolt: A cross-platform Ansible collection using PowerShell to configure and maintain SQL Server.
 - [pihalve/c4model-visio-stencil](https://github.com/pihalve/c4model-visio-stencil) - Visio stencil with C4 Model shapes
 - [sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio](https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio) - Microsoft Integration, Azure, Power Platform, Office 365 and much more Stencils Pack it’s a Visio package that contains fully resizable Visio shapes (symbols/icons) that will help you to visually represent On-premise, Cloud or Hybrid Integration and Enterprise architectures scenarios (BizTalk Server, API Management, Logic Apps, Service Bus, Event Hub…), solutions diagrams and features or systems that use Microsoft Azure and related cloud and on-premises technologies in Visio 2016/2013
 - [mikemaccana/powershell-profile](https://github.com/mikemaccana/powershell-profile) - Mike's Powershell Profile (and how to set up Windows console if you've been using *nix for 20 years)
@@ -5225,6 +5263,10 @@
 
 ## Python 
 
+- [gabfl/bigquery_fdw](https://github.com/gabfl/bigquery_fdw) - BigQuery Foreign Data Wrapper for PostgreSQL
+- [aws-samples/amazon-cloudwatch-auto-alarms](https://github.com/aws-samples/amazon-cloudwatch-auto-alarms) - Automatically create and configure Amazon CloudWatch alarms for EC2 instances, RDS, and AWS Lambda using tags for standard and custom CloudWatch Metrics.
+- [RaRe-Technologies/smart_open](https://github.com/RaRe-Technologies/smart_open) - Utils for streaming large files (S3, HDFS, gzip, bz2...)
+- [spulec/moto](https://github.com/spulec/moto) - A library that allows you to easily mock out tests based on AWS infrastructure.
 - [awslabs/aws-lambda-powertools-python](https://github.com/awslabs/aws-lambda-powertools-python) - A suite of utilities for AWS Lambda Functions that makes tracing with AWS X-Ray, structured logging and creating custom metrics asynchronously easier
 - [andresriancho/enumerate-iam](https://github.com/andresriancho/enumerate-iam) - Enumerate the permissions associated with AWS credential set
 - [nschloe/tiptop](https://github.com/nschloe/tiptop) - :desktop_computer: Command-line system monitoring
@@ -5264,7 +5306,6 @@
 - [dominodatalab/domino-research](https://github.com/dominodatalab/domino-research) - Projects developed by Domino's R&D team
 - [zsvoboda/dbd](https://github.com/zsvoboda/dbd) - dbd is a database prototyping tool that enables data analysts and engineers to quickly load and transform data in SQL databases.
 - [Zettelkasten-Team/Zettelkasten](https://github.com/Zettelkasten-Team/Zettelkasten) - Zettelkasten-Developer-Builds
-- [lowlydba/lowlydba.sqlserver](https://github.com/lowlydba/lowlydba.sqlserver) - :nut_and_bolt: A cross-platform Ansible collection using PowerShell to configure and maintain SQL Server.
 - [aschleg/pethub](https://github.com/aschleg/pethub) - Scripts and ETL for building Pet and Animal Related Database
 - [ilpersi/gsuite-domain-checker](https://github.com/ilpersi/gsuite-domain-checker) - A CLI tool that help you verify domains before you provision them in G Suite
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
@@ -5990,6 +6031,9 @@
 
 ## R 
 
+- [SebKrantz/Data-Science-Programme](https://github.com/SebKrantz/Data-Science-Programme) - R Based Data Science Training Delivered to the Ugandan Ministry of Finance and Bureau of Statistics
+- [SebKrantz/collapse](https://github.com/SebKrantz/collapse) - Advanced and Fast Data Transformation in R
+- [DyfanJones/noctua](https://github.com/DyfanJones/noctua) - Connect R to Athena using paws SDK (DBI Interface)
 - [xiangli2pro/hbcm](https://github.com/xiangli2pro/hbcm) - hbcm
 - [lz100/spsUtil](https://github.com/lz100/spsUtil) - Utility functions of systemPipeShiny
 - [lz100/spsComps](https://github.com/lz100/spsComps) - 
@@ -9159,6 +9203,8 @@
 
 ## Ruby 
 
+- [eradman/pg-safeupdate](https://github.com/eradman/pg-safeupdate) - A simple extension to PostgreSQL that requires criteria for UPDATE and DELETE
+- [backup/backup](https://github.com/backup/backup) - Easy full stack backup operations on UNIX-like systems.
 - [mbryzek/schema-evolution-manager](https://github.com/mbryzek/schema-evolution-manager) - Schema Evolution Manager makes it very simple for engineers to contribute schema changes to a postgresql database, managing the schema evolutions as proper source code. Schema changes are deployed as gzipped tarballs named with the corresponding git tag.
 - [caffkane/dbml_parser](https://github.com/caffkane/dbml_parser) - Parse DBML files with ease (Database Markup Language).
 - [mhing/fantasy_golf](https://github.com/mhing/fantasy_golf) - Web tool for fantasy golf performance tracking
@@ -9244,6 +9290,7 @@
 
 ## Rust 
 
+- [dduan/tre](https://github.com/dduan/tre) - Tree command, improved.
 - [insanum/reminders](https://github.com/insanum/reminders) - Notification Reminders
 - [saskenuba/dbml-language-server](https://github.com/saskenuba/dbml-language-server) - DBML code intelligence through the Language Server Protocol.
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - An elastic and reliable Modern Cloud Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
@@ -9419,6 +9466,8 @@
 
 ## Shell 
 
+- [hartmut-co-uk/pg-repack-docker](https://github.com/hartmut-co-uk/pg-repack-docker) - Docker image for 'pg_repack' (PostgreSQL extension) to use 'client-side' to run/invoke the actual repack functionality for a PostgreSQL database with the extension installed.
+- [gshakir/ansible-recipes](https://github.com/gshakir/ansible-recipes) - A collection of recipes for building AWS service, ElasticSearch etc.
 - [dataegret/pg-utils](https://github.com/dataegret/pg-utils) - Useful PostgreSQL utilities
 - [bowmanjd/docker-wsl](https://github.com/bowmanjd/docker-wsl) - 
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
@@ -9933,6 +9982,7 @@
 
 ## TSQL 
 
+- [SQLadmin/tsqltools](https://github.com/SQLadmin/tsqltools) - Tsql stored procedures and scripts  to help the DBAs and Developers to make their job easier
 - [LuanAlbuq/Database_Design](https://github.com/LuanAlbuq/Database_Design) - Projeto criado na linguagem SQL. O projeto contém:  Um modelo em T-SQL construído no Microsoft SQL server e um modelo em PostgreSQL construído no pgAdmin4
 - [yogimehla/SQLServerToPostgresSQLUtility](https://github.com/yogimehla/SQLServerToPostgresSQLUtility) - 
 - [janwangx/RelationalDB](https://github.com/janwangx/RelationalDB) - 
@@ -10029,6 +10079,9 @@
 
 ## TypeScript 
 
+- [MikletNg/aws-serverless-wordpress](https://github.com/MikletNg/aws-serverless-wordpress) - 
+- [oslabs-beta/StratosDB](https://github.com/oslabs-beta/StratosDB) - :comet: :cloud:  An All-in-One GUI for Cloud SQL that can help users  design and test their AWS RDS Instances
+- [jeremydaly/dynamodb-toolbox](https://github.com/jeremydaly/dynamodb-toolbox) - A simple set of tools for working with Amazon DynamoDB and the DocumentClient
 - [FlohGro-dev/Craftcuts](https://github.com/FlohGro-dev/Craftcuts) - Craftcuts - a Shortcuts eXtension for Craft
 - [psake/psake-vscode](https://github.com/psake/psake-vscode) - Contains extensions for Visual Studio Code
 - [sportradar/aws-azure-login](https://github.com/sportradar/aws-azure-login) - Use Azure AD SSO to log into the AWS via CLI.
