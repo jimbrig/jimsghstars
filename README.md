@@ -254,6 +254,8 @@
 
 ## C 
 
+- [ZhengYang/odbc_fdw](https://github.com/ZhengYang/odbc_fdw) - PostgreSQL Foreign-data Wrapper for ODBC
+- [pgspider/dynamodb_fdw](https://github.com/pgspider/dynamodb_fdw) - 
 - [brettlaforge/pg_redis_pubsub](https://github.com/brettlaforge/pg_redis_pubsub) - Redis Publish from PostgreSQL
 - [eulerto/pg_restrict](https://github.com/eulerto/pg_restrict) - restrict some SQL commands on PostgreSQL
 - [pgsentinel/pgsentinel](https://github.com/pgsentinel/pgsentinel) - postgresql extension providing Active session history
@@ -1050,7 +1052,7 @@
 
 ## Dockerfile 
 
-- [mgramin/docker-postgres-up-from-dump](https://github.com/mgramin/docker-postgres-up-from-dump) - 
+- [mgramin/docker-postgres-up-from-dump](https://github.com/mgramin/docker-postgres-up-from-dump) - Postgres image with dump data
 - [cd17822/lambda-s3-pg-backup](https://github.com/cd17822/lambda-s3-pg-backup) - Automatic Postgres to S3 Backups Using Docker on Lambda
 - [phdax/docker-rserve-tls-selfsigned](https://github.com/phdax/docker-rserve-tls-selfsigned) - Rserve with TLS/SSL connection mode by self-signed certificate
 - [ormico/sqlpackage-docker](https://github.com/ormico/sqlpackage-docker) - SqlPackage in a Docker image
@@ -1489,8 +1491,8 @@
 - [ned1313/ado-labs-github-actions](https://github.com/ned1313/ado-labs-github-actions) - Demo files for the Azure DevOps Labs episode about GitHub Actions and Terraform
 - [ned1313/Deep-Dive-Terraform](https://github.com/ned1313/Deep-Dive-Terraform) - Exercise files for my Pluralsight course.
 - [ned1313/Getting-Started-Terraform](https://github.com/ned1313/Getting-Started-Terraform) - Exercise files for my Pluralsight course
-- [terraform-aws-modules/terraform-aws-rds](https://github.com/terraform-aws-modules/terraform-aws-rds) - Terraform module which creates RDS resources on AWS
-- [terraform-aws-modules/terraform-aws-s3-bucket](https://github.com/terraform-aws-modules/terraform-aws-s3-bucket) - Terraform module which creates S3 bucket resources on AWS
+- [terraform-aws-modules/terraform-aws-rds](https://github.com/terraform-aws-modules/terraform-aws-rds) - Terraform module which creates RDS resources on AWS 🇺🇦
+- [terraform-aws-modules/terraform-aws-s3-bucket](https://github.com/terraform-aws-modules/terraform-aws-s3-bucket) - Terraform module which creates S3 bucket resources on AWS 🇺🇦
 - [olevenkov/terraform-vpc](https://github.com/olevenkov/terraform-vpc) - How to Optimize Network Infrastructure code in Terraform.
 - [SebastianUA/terraform](https://github.com/SebastianUA/terraform) - The place to storing Terraform modules of many providers
 - [SebastianUA/terraform-aws-glue](https://github.com/SebastianUA/terraform-aws-glue) - Glue module for AWS provider
@@ -1520,6 +1522,8 @@
 
 ## HTML 
 
+- [jhudsl/ari](https://github.com/jhudsl/ari) - :dancers: The Automated R Instructor
+- [jhudsl/new-course](https://github.com/jhudsl/new-course) - 
 - [SebKrantz/Rblog](https://github.com/SebKrantz/Rblog) - Personal R blog, linked to r-bloggers.com
 - [franchyze923/Code_From_Tutorials](https://github.com/franchyze923/Code_From_Tutorials) - Code from my YouTube Tutorials
 - [catherinedevlin/ddl-generator](https://github.com/catherinedevlin/ddl-generator) - Guesses table DDL based on data
@@ -3428,6 +3432,9 @@
 
 ## Others 
 
+- [jtleek/data](https://github.com/jtleek/data) - Data resources created by the Leek group
+- [jtleek/alg-fairness-app-wireframe](https://github.com/jtleek/alg-fairness-app-wireframe) - Shiny app wireframe
+- [theory/dynamodb_fdw](https://github.com/theory/dynamodb_fdw) - 
 - [devteds/e7-cloudformation-docker](https://github.com/devteds/e7-cloudformation-docker) - Create AWS CloudFormation Stack and deploy Dockerized application. Devteds episode #7 https://devteds.com/episodes/7-create-aws-cloudformation-stack-for-ec2-rds-and-deploy-docker-app
 - [grofers/ansible-role-rds-alarms](https://github.com/grofers/ansible-role-rds-alarms) - Monitor Cloudwatch metrics for Amazon RDS instances.
 - [mulfok/periodic-note-templates](https://github.com/mulfok/periodic-note-templates) - A set a periodic note templates for Obsidian.md.
@@ -3877,7 +3884,7 @@
 - [lilin90/awesome-technical-communication](https://github.com/lilin90/awesome-technical-communication) - 😎 A curated list of awesome resources about technical communication
 - [bp4you/sadd](https://github.com/bp4you/sadd) - SADD makes it easier for Software Development Teams to create high qualitative solutions and products for the sake of well designed System and Software Architecture.  You'll no longer have to know all of world wide SW development methodologies so as they are incorporated in SADD.
 - [itsazzad/SRS](https://github.com/itsazzad/SRS) - Systems and software engineering — Life cycle processes — Requirements engineering
-- [CookingWithCale/MarkdownSoftwareEngineering](https://github.com/CookingWithCale/MarkdownSoftwareEngineering) - Software engineering markdown templates, including Requirements Analysis Document and Software Design Document.
+- [CookingWithCale/MarkdownSoftwareEngineering](https://github.com/CookingWithCale/MarkdownSoftwareEngineering) - Software engineering markdown Jekyll-ish templates, including Requirements Analysis Document and Software Design Document.
 - [leonardochang36/srsdoc](https://github.com/leonardochang36/srsdoc) - A software requirements specification is the basis for your entire project. It lays the framework that every team involved in development will follow. Here you can find an easy to use template.
 - [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems) - A curated list to learn about distributed systems
 - [emilyriederer/docs.getdbt.com](https://github.com/emilyriederer/docs.getdbt.com) - The code behind docs.getdbt.com
@@ -4559,6 +4566,15 @@
 
 ## PLpgSQL 
 
+- [pgspider/odbc_fdw](https://github.com/pgspider/odbc_fdw) - PostgreSQL Foreign-data Wrapper for ODBC
+- [pgspider/parquet_s3_fdw](https://github.com/pgspider/parquet_s3_fdw) - 
+- [theory/pg-semver](https://github.com/theory/pg-semver) - A semantic version data type for PostgreSQL
+- [supabase/supa_audit](https://github.com/supabase/supa_audit) - Generic Table Auditing
+- [supabase/cli](https://github.com/supabase/cli) - Supabase CLI
+- [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
+- [aiven/aiven-extras](https://github.com/aiven/aiven-extras) - Aiven PostgreSQL® extras
+- [duneanalytics/abstractions](https://github.com/duneanalytics/abstractions) - SQL views for Dune Analytics
+- [dverite/postgresql-functions](https://github.com/dverite/postgresql-functions) - Custom PostgreSQL functions and extensions
 - [aquametalabs/meta_triggers](https://github.com/aquametalabs/meta_triggers) - PostgreSQL Extension: Insert, update and delete triggers that make the meta extension writable
 - [splendiddata/session_variable](https://github.com/splendiddata/session_variable) - The session_variable Postgres database extension provides a way to create and maintain session scoped variables and constants, more or less like Oracle's global variables.
 - [aquameta/pg_meta](https://github.com/aquameta/pg_meta) - PostgreSQL Extension: More friendly system catalog for PostgreSQL
@@ -4618,7 +4634,6 @@
 - [rkitover/windows-dev-guide](https://github.com/rkitover/windows-dev-guide) - Native Windows Development Environment Setup Guide for Linux Users.
 - [microsoftgraph/powershell-intune-samples](https://github.com/microsoftgraph/powershell-intune-samples) - This repository of PowerShell sample scripts show how to access Intune service resources. They demonstrate this by making HTTPS RESTful API requests to the Microsoft Graph API from PowerShell.
 - [danielbohannon/Invoke-CradleCrafter](https://github.com/danielbohannon/Invoke-CradleCrafter) - PowerShell Remote Download Cradle Generator & Obfuscator
-- [lowlydba/lowlydba.sqlserver](https://github.com/lowlydba/lowlydba.sqlserver) - :nut_and_bolt: A cross-platform Ansible collection using PowerShell to configure and maintain SQL Server.
 - [pihalve/c4model-visio-stencil](https://github.com/pihalve/c4model-visio-stencil) - Visio stencil with C4 Model shapes
 - [sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio](https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio) - Microsoft Integration, Azure, Power Platform, Office 365 and much more Stencils Pack it’s a Visio package that contains fully resizable Visio shapes (symbols/icons) that will help you to visually represent On-premise, Cloud or Hybrid Integration and Enterprise architectures scenarios (BizTalk Server, API Management, Logic Apps, Service Bus, Event Hub…), solutions diagrams and features or systems that use Microsoft Azure and related cloud and on-premises technologies in Visio 2016/2013
 - [mikemaccana/powershell-profile](https://github.com/mikemaccana/powershell-profile) - Mike's Powershell Profile (and how to set up Windows console if you've been using *nix for 20 years)
@@ -5306,6 +5321,7 @@
 - [dominodatalab/domino-research](https://github.com/dominodatalab/domino-research) - Projects developed by Domino's R&D team
 - [zsvoboda/dbd](https://github.com/zsvoboda/dbd) - dbd is a database prototyping tool that enables data analysts and engineers to quickly load and transform data in SQL databases.
 - [Zettelkasten-Team/Zettelkasten](https://github.com/Zettelkasten-Team/Zettelkasten) - Zettelkasten-Developer-Builds
+- [lowlydba/lowlydba.sqlserver](https://github.com/lowlydba/lowlydba.sqlserver) - :nut_and_bolt: A cross-platform Ansible collection using PowerShell to configure and maintain SQL Server.
 - [aschleg/pethub](https://github.com/aschleg/pethub) - Scripts and ETL for building Pet and Animal Related Database
 - [ilpersi/gsuite-domain-checker](https://github.com/ilpersi/gsuite-domain-checker) - A CLI tool that help you verify domains before you provision them in G Suite
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
@@ -6027,10 +6043,14 @@
 
 ## QML 
 
-- [prateekmedia/Menu11](https://github.com/prateekmedia/Menu11) - Deprecated, Suggested replacement: https://github.com/adhec/OnzeMenuKDE
+- [prateekmedia/Menu11](https://github.com/prateekmedia/Menu11) - Deprecated, here is a Not so feature rich replacement: https://github.com/adhec/OnzeMenuKDE, contact me if you are interested in maintaining this.
 
 ## R 
 
+- [jhudsl/shinyauth](https://github.com/jhudsl/shinyauth) - Easily use oauth 2.0 authentication for arbitrary apis in your shiny apps.
+- [jhudsl/OTTR_Actions](https://github.com/jhudsl/OTTR_Actions) - 
+- [jhudsl/matahari](https://github.com/jhudsl/matahari) - 🔎 I Spy With My Little Eye
+- [jtleek/sva-devel](https://github.com/jtleek/sva-devel) - 
 - [SebKrantz/Data-Science-Programme](https://github.com/SebKrantz/Data-Science-Programme) - R Based Data Science Training Delivered to the Ugandan Ministry of Finance and Bureau of Statistics
 - [SebKrantz/collapse](https://github.com/SebKrantz/collapse) - Advanced and Fast Data Transformation in R
 - [DyfanJones/noctua](https://github.com/DyfanJones/noctua) - Connect R to Athena using paws SDK (DBI Interface)
@@ -10079,6 +10099,8 @@
 
 ## TypeScript 
 
+- [uniquerockrz/obsidian-code-embed](https://github.com/uniquerockrz/obsidian-code-embed) - Embed code and other text files in Obsidian notes with syntax highlighting and other magic.
+- [samwarnick/obsidian-simple-embeds](https://github.com/samwarnick/obsidian-simple-embeds) - A plugin for Obsidian that automatically turns links into embeds.
 - [MikletNg/aws-serverless-wordpress](https://github.com/MikletNg/aws-serverless-wordpress) - 
 - [oslabs-beta/StratosDB](https://github.com/oslabs-beta/StratosDB) - :comet: :cloud:  An All-in-One GUI for Cloud SQL that can help users  design and test their AWS RDS Instances
 - [jeremydaly/dynamodb-toolbox](https://github.com/jeremydaly/dynamodb-toolbox) - A simple set of tools for working with Amazon DynamoDB and the DocumentClient
@@ -10601,6 +10623,7 @@
 
 ## VimL 
 
+- [ZhengYang/oh-my-config](https://github.com/ZhengYang/oh-my-config) - My personal configuration files
 - [vim-scripts/Vim-R-plugin](https://github.com/vim-scripts/Vim-R-plugin) - Plugin to work with R
 
 ## Visual Basic 
