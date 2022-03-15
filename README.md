@@ -1845,7 +1845,6 @@
 - [cuttlebelle/cuttlebelle](https://github.com/cuttlebelle/cuttlebelle) - The react static site generator that separates editing and code concerns
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [aaronjfisher/interAdapt](https://github.com/aaronjfisher/interAdapt) - Shiny app for looking at the pros and cons of adaptive trial designs
-- [Tychobra/polished_example_apps](https://github.com/Tychobra/polished_example_apps) - Example Apps for Polished
 - [oscarbaruffa/BigBookofR](https://github.com/oscarbaruffa/BigBookofR) - The biggest collection of R books (and maybe later some other resources too)
 - [karthik/distill](https://github.com/karthik/distill) - 
 - [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
@@ -3740,7 +3739,6 @@
 - [statnmap/rocker-versioned2](https://github.com/statnmap/rocker-versioned2) - 
 - [statnmap/thinkr](https://github.com/statnmap/thinkr) - Some tools for cleaning up messy 'Excel' files to be suitable for R
 - [statnmap/namer](https://github.com/statnmap/namer) - R package :package: for labelling chunks of RMarkdown files! :boom:
-- [EdiWang/linux-cheatsheet-for-windows-users](https://github.com/EdiWang/linux-cheatsheet-for-windows-users) - For Windows folks like me who struggle to remember Linux commands
 - [samuelramox/awesome-javascript](https://github.com/samuelramox/awesome-javascript) - 
 - [samuelramox/dev-log](https://github.com/samuelramox/dev-log) - My logfile.
 - [Azure/AzureDatabricksBestPractices](https://github.com/Azure/AzureDatabricksBestPractices) - Version 1 of Technical Best Practices of Azure Databricks based on real world Customer and Technical SME inputs
@@ -7896,6 +7894,7 @@
 - [anthonynorth/rscodeio](https://github.com/anthonynorth/rscodeio) - An RStudio theme inspired by Visual Studio Code.
 - [RobertMyles/writeMDX](https://github.com/RobertMyles/writeMDX) - writes RMarkdown (.Rmd) files to MDX (.mdx) format. Used for R ➡️  RMarkdown ➡️ Markdown ➡️ MDX ➡️ JS ➡️ Gatsby blog
 - [REditorSupport/languageserver](https://github.com/REditorSupport/languageserver) - An implementation of the Language Server Protocol for R
+- [Tychobra/polished_example_apps](https://github.com/Tychobra/polished_example_apps) - Example Apps for Polished
 - [mitchelloharawild/distributional](https://github.com/mitchelloharawild/distributional) - Vectorised distributions for R
 - [decisionpatterns/sticky](https://github.com/decisionpatterns/sticky) - Persist attributes through data manipulations
 - [MangoTheCat/rmdshower](https://github.com/MangoTheCat/rmdshower) - R Markdown template for shower
@@ -10355,7 +10354,7 @@
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A client side, offline-first, reactive database for JavaScript Applications
 - [googlemaps/google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
-- [teambit/bit](https://github.com/teambit/bit) - A tool for component-driven application development.
+- [teambit/bit](https://github.com/teambit/bit) - A tool for composable application development.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [shd101wyy/mume](https://github.com/shd101wyy/mume) - Powerful markdown tool
 - [react-native-community/cli](https://github.com/react-native-community/cli) - React Native command line tools
