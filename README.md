@@ -254,6 +254,10 @@
 
 ## C 
 
+- [dimitri/prefix](https://github.com/dimitri/prefix) - Prefix Range module for PostgreSQL
+- [umitanuki/s3_fdw](https://github.com/umitanuki/s3_fdw) - foreign-data wrapper for Amazon S3
+- [laurenz/pgreplay](https://github.com/laurenz/pgreplay) - pgreplay reads a PostgreSQL log file (*not* a WAL file), extracts the SQL statements and executes them in the same order and relative time against a PostgreSQL database cluster.
+- [2ndQuadrant/pglogical](https://github.com/2ndQuadrant/pglogical) - Logical Replication extension for PostgreSQL 13, 12, 11, 10, 9.6, 9.5, 9.4 (Postgres), providing much faster replication than Slony, Bucardo or Londiste, as well as cross-version upgrades.
 - [ZhengYang/odbc_fdw](https://github.com/ZhengYang/odbc_fdw) - PostgreSQL Foreign-data Wrapper for ODBC
 - [pgspider/dynamodb_fdw](https://github.com/pgspider/dynamodb_fdw) - 
 - [brettlaforge/pg_redis_pubsub](https://github.com/brettlaforge/pg_redis_pubsub) - Redis Publish from PostgreSQL
@@ -812,6 +816,7 @@
 
 ## CSS 
 
+- [BootstrapDash/skydash-free-bootstrap-admin-template](https://github.com/BootstrapDash/skydash-free-bootstrap-admin-template) - free bootstrap admin template
 - [sqlitebrowser/dbhub_docs](https://github.com/sqlitebrowser/dbhub_docs) - Documentation for DBHub.io
 - [insanum/obsidian_gruvbox](https://github.com/insanum/obsidian_gruvbox) - A gruvbox theme for Obsidian
 - [sergey900553/obsidian_githublike_theme](https://github.com/sergey900553/obsidian_githublike_theme) - Obsidian dark theme
@@ -2143,6 +2148,8 @@
 
 ## JavaScript 
 
+- [mplewis/src2png](https://github.com/mplewis/src2png) - 📸💻 Turn your source code into beautiful syntax-highlighted images.
+- [mplewis/csvtomd-web](https://github.com/mplewis/csvtomd-web) - Generate Markdown tables from CSV data online.
 - [trackit/trackit-client](https://github.com/trackit/trackit-client) - TrackIt WebUI repository
 - [jeremydaly/dynamodb-streams-processor](https://github.com/jeremydaly/dynamodb-streams-processor) - A simple tool to help process DynamoDB Streams
 - [justinram11/serverless-aws-batch](https://github.com/justinram11/serverless-aws-batch) - 
@@ -3209,6 +3216,10 @@
 
 ## Jupyter Notebook 
 
+- [takahish/Data-Modeling-with-Postgres](https://github.com/takahish/Data-Modeling-with-Postgres) - 
+- [michalmiki/postgresql-etl](https://github.com/michalmiki/postgresql-etl) - Building Python ETL pipeline for PostgreSQL DB
+- [BrittaInData/Data_Engineering](https://github.com/BrittaInData/Data_Engineering) - All the lessons and projects finished during Udacity's Data Engineering program.
+- [gcbeltramini/etl-postgresql](https://github.com/gcbeltramini/etl-postgresql) - ETL pipeline that transfers data from local files into PostgreSQL tables.
 - [owid/etl](https://github.com/owid/etl) - A compute graph for loading and transforming OWID's data
 - [Azure-Samples/serverless-full-stack-apps-azure-sql](https://github.com/Azure-Samples/serverless-full-stack-apps-azure-sql) - Full stack solution using Vue.js, Azure Static Web Apps, Azure Function, Azure SQL Database and a microservice architecture to monitor in real-time public transportation data, create a geofence and send notification when geofence is activated
 - [ploomber/projects](https://github.com/ploomber/projects) - Sample projects using Ploomber.
@@ -3431,6 +3442,8 @@
 
 ## Others 
 
+- [rdagumampan/awesome-dotnet-core](https://github.com/rdagumampan/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
+- [pthom/northwind_psql](https://github.com/pthom/northwind_psql) - Northwind sample database for postgres
 - [jtleek/data](https://github.com/jtleek/data) - Data resources created by the Leek group
 - [jtleek/alg-fairness-app-wireframe](https://github.com/jtleek/alg-fairness-app-wireframe) - Shiny app wireframe
 - [theory/dynamodb_fdw](https://github.com/theory/dynamodb_fdw) - 
@@ -4564,6 +4577,8 @@
 
 ## PLpgSQL 
 
+- [cybertec-postgresql/pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - PostgreSQL metrics monitor/dashboard
+- [e-alizadeh/sample_dbt_project](https://github.com/e-alizadeh/sample_dbt_project) - Companion template repo for the blog post "dbt for Data Transformation - A Hands-on Tutorial" (https://ealizadeh.com/blog/dbt-tutorial)
 - [pgspider/odbc_fdw](https://github.com/pgspider/odbc_fdw) - PostgreSQL Foreign-data Wrapper for ODBC
 - [pgspider/parquet_s3_fdw](https://github.com/pgspider/parquet_s3_fdw) - 
 - [theory/pg-semver](https://github.com/theory/pg-semver) - A semantic version data type for PostgreSQL
@@ -4607,6 +4622,7 @@
 
 ## Perl 
 
+- [libwww-perl/URI-db](https://github.com/libwww-perl/URI-db) - Perl module representing database URIs
 - [alvar-freude/Posemo](https://github.com/alvar-freude/Posemo) - PostgreSQL Secure Monitoring
 - [sqitchers/sqitch](https://github.com/sqitchers/sqitch) - Sensible database change management
 - [gluefinance/pov](https://github.com/gluefinance/pov) - Take a snapshot or rollback all your stored procedures in your PostgreSQL database.
@@ -5277,6 +5293,11 @@
 
 ## Python 
 
+- [eligoenergy/s3csv_fdw](https://github.com/eligoenergy/s3csv_fdw) - S3 CSV Foreign Data Wrapper Using Multicorn
+- [mara/mara-example-project-1](https://github.com/mara/mara-example-project-1) - Runnable e-commerce mini data warehouse based on Python, PostgreSQL & Metabase, template for new projects
+- [mara/mara-pipelines](https://github.com/mara/mara-pipelines) - A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow
+- [bitdotioinc/simple-pipeline](https://github.com/bitdotioinc/simple-pipeline) - Example pipeline for bit.io
+- [datamill-co/target-postgres](https://github.com/datamill-co/target-postgres) - A Singer.io Target for Postgres
 - [gabfl/bigquery_fdw](https://github.com/gabfl/bigquery_fdw) - BigQuery Foreign Data Wrapper for PostgreSQL
 - [aws-samples/amazon-cloudwatch-auto-alarms](https://github.com/aws-samples/amazon-cloudwatch-auto-alarms) - Automatically create and configure Amazon CloudWatch alarms for EC2 instances, RDS, and AWS Lambda using tags for standard and custom CloudWatch Metrics.
 - [RaRe-Technologies/smart_open](https://github.com/RaRe-Technologies/smart_open) - Utils for streaming large files (S3, HDFS, gzip, bz2...)
@@ -6045,6 +6066,13 @@
 
 ## R 
 
+- [Appsilon/rhino](https://github.com/Appsilon/rhino) - 
+- [DavisVaughan/almanac](https://github.com/DavisVaughan/almanac) - Tools for Working with Recurrence Rules
+- [UchidaMizuki/dibble](https://github.com/UchidaMizuki/dibble) - Dimensional Data Frames
+- [ropensci/taxa](https://github.com/ropensci/taxa) - taxonomic classes for R
+- [ropensci/tesseract](https://github.com/ropensci/tesseract) - Bindings to Tesseract OCR engine for R
+- [pedrocoutinhosilva/UA-Refugee-Migration-Tracker](https://github.com/pedrocoutinhosilva/UA-Refugee-Migration-Tracker) - A dashboard in R/Shiny to track Ukrainian Refugees movement across the border and neighboring countries
+- [quantargo/datacleaner](https://github.com/quantargo/datacleaner) - 
 - [jhudsl/shinyauth](https://github.com/jhudsl/shinyauth) - Easily use oauth 2.0 authentication for arbitrary apis in your shiny apps.
 - [jhudsl/OTTR_Actions](https://github.com/jhudsl/OTTR_Actions) - 
 - [jhudsl/matahari](https://github.com/jhudsl/matahari) - 🔎 I Spy With My Little Eye
@@ -7063,7 +7091,7 @@
 - [h2oai/db-benchmark](https://github.com/h2oai/db-benchmark) - reproducible benchmark of database-like ops
 - [jangorecki/pg](https://github.com/jangorecki/pg) - Postgres utilities for R language
 - [krlmlr/misc](https://github.com/krlmlr/misc) - Doing away with unnamed RStudio tabs
-- [Exp-Micro-Ecol-Hub/dmdScheme](https://github.com/Exp-Micro-Ecol-Hub/dmdScheme) - Domain Meta Data Scheme package with structure indepandant functionality
+- [UZH-PEG/dmdScheme](https://github.com/UZH-PEG/dmdScheme) - Domain Meta Data Scheme package with structure indepandant functionality
 - [s-fleck/dint](https://github.com/s-fleck/dint) - A toolkit for working year-quarter and year-month dates
 - [gadenbuie/tidyjs-r](https://github.com/gadenbuie/tidyjs-r) - Tidy Data with JavaScript and tidy.js
 - [Pakillo/Rmarkdown_tutorial](https://github.com/Pakillo/Rmarkdown_tutorial) - Reproducible Research with Rmarkdown: data management, analysis, and reporting all-in-one
@@ -9466,6 +9494,7 @@
 
 ## Scala 
 
+- [Interana/eventsim](https://github.com/Interana/eventsim) - Event data simulator. Generates a stream of pseudo-random events from a set of users, designed to simulate web traffic.
 - [scala/scala](https://github.com/scala/scala) - Scala 2 compiler and standard library. For bugs, see scala/bug
 - [aferrandi/dbtarzan](https://github.com/aferrandi/dbtarzan) - To explore the tables of a database following their relations as defined in their foreign keys.
 - [kanuku/misc](https://github.com/kanuku/misc) - Repo for tutorials
@@ -9485,6 +9514,11 @@
 
 ## Shell 
 
+- [georgestagg/webR](https://github.com/georgestagg/webR) - This project aims to compile the statistical language R into WASM for use in a browser, via Emscripten.
+- [m-lab/etl-schema](https://github.com/m-lab/etl-schema) - All schema and views related to the etl pipeline and public bigquery tables.
+- [tmusabbir/glue-utils](https://github.com/tmusabbir/glue-utils) - Few AWS Glue Utility Scripts
+- [opencultureconsulting/openrefine-batch](https://github.com/opencultureconsulting/openrefine-batch) - Shell script to run OpenRefine in batch mode (import, transform, export). It orchestrates OpenRefine (server) and a python client that communicates with the OpenRefine API.
+- [julianodba/postgres-dba-scripts](https://github.com/julianodba/postgres-dba-scripts) - Daily scripts used on multi cluster environments with many hosts
 - [hartmut-co-uk/pg-repack-docker](https://github.com/hartmut-co-uk/pg-repack-docker) - Docker image for 'pg_repack' (PostgreSQL extension) to use 'client-side' to run/invoke the actual repack functionality for a PostgreSQL database with the extension installed.
 - [gshakir/ansible-recipes](https://github.com/gshakir/ansible-recipes) - A collection of recipes for building AWS service, ElasticSearch etc.
 - [dataegret/pg-utils](https://github.com/dataegret/pg-utils) - Useful PostgreSQL utilities
@@ -10001,6 +10035,7 @@
 
 ## TSQL 
 
+- [LegolasVzla/postgresql-useful-scripts](https://github.com/LegolasVzla/postgresql-useful-scripts) - This is a repository for useful dba scripts and sql querys
 - [SQLadmin/tsqltools](https://github.com/SQLadmin/tsqltools) - Tsql stored procedures and scripts  to help the DBAs and Developers to make their job easier
 - [LuanAlbuq/Database_Design](https://github.com/LuanAlbuq/Database_Design) - Projeto criado na linguagem SQL. O projeto contém:  Um modelo em T-SQL construído no Microsoft SQL server e um modelo em PostgreSQL construído no pgAdmin4
 - [yogimehla/SQLServerToPostgresSQLUtility](https://github.com/yogimehla/SQLServerToPostgresSQLUtility) - 
@@ -10098,6 +10133,7 @@
 
 ## TypeScript 
 
+- [quantargo/dashboards](https://github.com/quantargo/dashboards) - 
 - [uniquerockrz/obsidian-code-embed](https://github.com/uniquerockrz/obsidian-code-embed) - Embed code and other text files in Obsidian notes with syntax highlighting and other magic.
 - [samwarnick/obsidian-simple-embeds](https://github.com/samwarnick/obsidian-simple-embeds) - A plugin for Obsidian that automatically turns links into embeds.
 - [MikletNg/aws-serverless-wordpress](https://github.com/MikletNg/aws-serverless-wordpress) - 
@@ -10166,7 +10202,7 @@
 - [lst-codes/azuredatastudio-redshift](https://github.com/lst-codes/azuredatastudio-redshift) - azuredatastudio-postgresql is an extension for Azure Data Studio that enables you to work with PostgreSQL databases
 - [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - A plugin to edit and view Excalidraw drawings in Obsidian
 - [intuit/auto](https://github.com/intuit/auto) - Generate releases based on semantic version labels on pull requests.
-- [Taitava/obsidian-shellcommands](https://github.com/Taitava/obsidian-shellcommands) - Execute system commands via hotkeys or command palette in Obsidian (https://obsidian.md).
+- [Taitava/obsidian-shellcommands](https://github.com/Taitava/obsidian-shellcommands) - Execute system commands via hotkeys or command palette in Obsidian (https://obsidian.md). Some automated events are also supported.
 - [kzhovn/uri-commands-obsidian](https://github.com/kzhovn/uri-commands-obsidian) - Execute URIs from the command palette
 - [bobheadxi/sourcegraph-knowledge-bases](https://github.com/bobheadxi/sourcegraph-knowledge-bases) - 📎 Browse Markdown knowledge bases (e.g. Obsidian or Foam) in Sourcegraph
 - [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
@@ -10545,6 +10581,13 @@
 
 ## VBA 
 
+- [BriargateExcel/Personal_xlsb](https://github.com/BriargateExcel/Personal_xlsb) - Personal.xlsb
+- [BriargateExcel/Error_Handling](https://github.com/BriargateExcel/Error_Handling) - VBA code handling errors
+- [BriargateExcel/VBATableManagement](https://github.com/BriargateExcel/VBATableManagement) - Routines to move data between tables and VBA dictionaries
+- [hilkoc/vbaDeveloper](https://github.com/hilkoc/vbaDeveloper) - Tools for development and version control of vba code
+- [RelaxTools/RelaxTools-Addin](https://github.com/RelaxTools/RelaxTools-Addin) - RelaxTools Addin for Microsoft Excel 2010/2013/2016
+- [Azure/review-checklists](https://github.com/Azure/review-checklists) - This repo contains code and examples to operationalize spreadsheet-based checklists that can be used for Azure design reviews on multiple technologies.
+- [brucemcpherson/VbaGit](https://github.com/brucemcpherson/VbaGit) - VbaGit created by VbaGit automation
 - [cavo789/vba_excel_sql](https://github.com/cavo789/vba_excel_sql) - SQL Server to Microsoft Excel. VBA class for Excel to make easy to access records stored in SQL Server and output these data in an Excel sheet; keeping or not the link
 - [jimbrig/excel-config](https://github.com/jimbrig/excel-config) - Personalized Excel Setup and Configuration
 - [ReneNyffenegger/temp-COM](https://github.com/ReneNyffenegger/temp-COM) - 
@@ -10627,6 +10670,7 @@
 
 ## Visual Basic 
 
+- [apfernandes/excelToMarkdown](https://github.com/apfernandes/excelToMarkdown) - Converts the selected Excel range to a markdown table
 - [IvanBond/Power-Refresh-VBScript](https://github.com/IvanBond/Power-Refresh-VBScript) - Visual Basic Script Refresher for Excel files with Power Query and PowerPivot model
 - [IvanBond/Power-Refresh](https://github.com/IvanBond/Power-Refresh) - Schedule refresh of any Excel file using open-source scheduler & refresher written on VBA
 - [StatSilk/Excel-Data-Manager](https://github.com/StatSilk/Excel-Data-Manager) - Excel-based Data Manager for automatically importing / merging / consolidating data files with different structures into a unified structure. Especially useful for importing country or other geo-linked data.
