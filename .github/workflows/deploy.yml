@@ -29,8 +29,10 @@ jobs:
 
       - name: Authorize and deploy app
         run: |
-          automagic::install_deps_file('deps.yaml')
+          automagic::install_deps_file('deps.yaml')        
+        shell: Rscript get_github_stars.R
+        run: |
           rsconnect::setAccountInfo(${{ secrets.RSCONNECT_USER }}, ${{ secrets.RSCONNECT_TOKEN }}, ${{ secrets.RSCONNECT_SECRET }})
-          rsconnect::deployApp()
+          rsconnect::deployApp("app")
         shell: Rscript {0}
 
