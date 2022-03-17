@@ -20,14 +20,16 @@ jobs:
         with:
           use-public-rspm: true
 
-      - uses: r-lib/actions/setup-renv@v2
+      #- uses: r-lib/actions/setup-renv@v2
 
-      - name: Install rsconnect
-        run: install.packages("rsconnect")
+      - name: Install Build Packages
+        run: |
+          install.packages("rsconnect", "automagic")
         shell: Rscript {0}
 
       - name: Authorize and deploy app
         run: |
+          automagic::install_deps_file('deps.yaml')
           rsconnect::setAccountInfo(${{ secrets.RSCONNECT_USER }}, ${{ secrets.RSCONNECT_TOKEN }}, ${{ secrets.RSCONNECT_SECRET }})
           rsconnect::deployApp()
         shell: Rscript {0}
