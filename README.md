@@ -167,6 +167,8 @@
 
 ## Batchfile 
 
+- [franzageek/Cledge-Shell](https://github.com/franzageek/Cledge-Shell) - A simple shell made in Batch that simplify your daily actions.
+- [franzageek/Vapor](https://github.com/franzageek/Vapor) - A script which, with the help of ViVeTool, lets you to enable tabs in Windows 11's Explorer.
 - [LordOfMice/hidusbf](https://github.com/LordOfMice/hidusbf) - USB Mice Overclocking Software (for Windows)
 - [erbanku/custom-search-engines-backup](https://github.com/erbanku/custom-search-engines-backup) - Import/Export Google Chrome or Microsoft Edge's custom search engines and sync (overwrite) between 2 browsers.
 - [netoffice/NetOffice-NuGet](https://github.com/netoffice/NetOffice-NuGet) - :package: NuGet Packages for NetOffice
@@ -1380,7 +1382,7 @@
 - [git-time-metric/gtm](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git
 - [antham/chyle](https://github.com/antham/chyle) - Changelog generator : use a git repository and various data sources and publish the result on external services
 - [tmrts/boilr](https://github.com/tmrts/boilr) - :zap: boilerplate template manager that generates files or directories from template repositories
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker technologies, with real DevOps practice!
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
 - [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -1658,6 +1660,7 @@
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
 - [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization
 - [topepo/an-introduction-to-tidymodels](https://github.com/topepo/an-introduction-to-tidymodels) - Overview of our packages
+- [microsoft/datamations](https://github.com/microsoft/datamations) - 
 - [seankross/postcards](https://github.com/seankross/postcards) - 💌 Create simple, beautiful personal websites and landing pages using only R Markdown.
 - [jimbrig/obsidian_published](https://github.com/jimbrig/obsidian_published) - Using mkdocs to publish my obsidian vault. Main repo for the vault is https://github.com/jimbrig/obsidian_vault
 - [StefanoCecere/markdown_pandoc_book_template](https://github.com/StefanoCecere/markdown_pandoc_book_template) - a template to create pdf/ePub/html/docx books by Markdown via Pandoc
@@ -2466,7 +2469,6 @@
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [taher07/dockerized-react-native](https://github.com/taher07/dockerized-react-native) - This repo contains the files required for building a docker container to build an expo managed react native app
-- [microsoft/datamations](https://github.com/microsoft/datamations) - 
 - [GoogleCloudPlatform/cloud-code-custom-samples-example](https://github.com/GoogleCloudPlatform/cloud-code-custom-samples-example) - Example of configuring a Custom Samples repository for Cloud Code
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [APIDevTools/swagger-parser](https://github.com/APIDevTools/swagger-parser) - Swagger 2.0 and OpenAPI 3.0 parser/validator
@@ -4577,6 +4579,7 @@
 
 ## PLpgSQL 
 
+- [tanglebones/pg_history_tracking](https://github.com/tanglebones/pg_history_tracking) - History Tracking trigger for Postgresql
 - [cybertec-postgresql/pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - PostgreSQL metrics monitor/dashboard
 - [e-alizadeh/sample_dbt_project](https://github.com/e-alizadeh/sample_dbt_project) - Companion template repo for the blog post "dbt for Data Transformation - A Hands-on Tutorial" (https://ealizadeh.com/blog/dbt-tutorial)
 - [pgspider/odbc_fdw](https://github.com/pgspider/odbc_fdw) - PostgreSQL Foreign-data Wrapper for ODBC
@@ -5293,6 +5296,8 @@
 
 ## Python 
 
+- [artofhuman/django-pg-upsert](https://github.com/artofhuman/django-pg-upsert) - Support Postgres native upsert (INSERT ... ON CONFLICT) for django
+- [hyperqueryhq/whale](https://github.com/hyperqueryhq/whale) - 🐳 The stupidly simple CLI workspace for your data warehouse.
 - [eligoenergy/s3csv_fdw](https://github.com/eligoenergy/s3csv_fdw) - S3 CSV Foreign Data Wrapper Using Multicorn
 - [mara/mara-example-project-1](https://github.com/mara/mara-example-project-1) - Runnable e-commerce mini data warehouse based on Python, PostgreSQL & Metabase, template for new projects
 - [mara/mara-pipelines](https://github.com/mara/mara-pipelines) - A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow
@@ -6066,6 +6071,11 @@
 
 ## R 
 
+- [b-rodrigues/loud](https://github.com/b-rodrigues/loud) - 
+- [decisionpatterns/stitch](https://github.com/decisionpatterns/stitch) - Safe Left Joins
+- [jbryer/ShinyDemo](https://github.com/jbryer/ShinyDemo) - Package for running Shiny apps like R package demos
+- [decisionpatterns/sql.template](https://github.com/decisionpatterns/sql.template) - Light-weight, SQL Templates for R
+- [ggrothendieck/sqldf](https://github.com/ggrothendieck/sqldf) - Perform SQL Selects on R Data Frames
 - [Appsilon/rhino](https://github.com/Appsilon/rhino) - 
 - [DavisVaughan/almanac](https://github.com/DavisVaughan/almanac) - Tools for Working with Recurrence Rules
 - [UchidaMizuki/dibble](https://github.com/UchidaMizuki/dibble) - Dimensional Data Frames
@@ -10390,7 +10400,7 @@
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A client side, offline-first, reactive database for JavaScript Applications
 - [googlemaps/google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
-- [teambit/bit](https://github.com/teambit/bit) - A tool for composable application development.
+- [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [shd101wyy/mume](https://github.com/shd101wyy/mume) - Powerful markdown tool
 - [react-native-community/cli](https://github.com/react-native-community/cli) - React Native command line tools
