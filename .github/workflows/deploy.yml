@@ -24,7 +24,7 @@ jobs:
 
       - name: Install Build Packages
         run: |
-          install.packages("rsconnect", "automagic")
+          install.packages(c("rsconnect", "automagic"))
         shell: Rscript {0}
 
       - name: Authorize and deploy app
