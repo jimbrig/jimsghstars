@@ -1529,6 +1529,7 @@
 
 ## HTML 
 
+- [aws-samples/amazon-serverless-datalake-workshop](https://github.com/aws-samples/amazon-serverless-datalake-workshop) - A workshop demonstrating the capabilities of S3, Athena, Glue, Kinesis, and Quicksight.
 - [jhudsl/ari](https://github.com/jhudsl/ari) - :dancers: The Automated R Instructor
 - [jhudsl/new-course](https://github.com/jhudsl/new-course) - 
 - [SebKrantz/Rblog](https://github.com/SebKrantz/Rblog) - Personal R blog, linked to r-bloggers.com
@@ -6071,6 +6072,8 @@
 
 ## R 
 
+- [Displayr/flipStandardCharts](https://github.com/Displayr/flipStandardCharts) - HTMLwidget Charts with an Excel-like signature
+- [sol-eng/customer-tracker](https://github.com/sol-eng/customer-tracker) - R data products: Reports, Presentations, Apps, and API's
 - [b-rodrigues/loud](https://github.com/b-rodrigues/loud) - 
 - [decisionpatterns/stitch](https://github.com/decisionpatterns/stitch) - Safe Left Joins
 - [jbryer/ShinyDemo](https://github.com/jbryer/ShinyDemo) - Package for running Shiny apps like R package demos
@@ -6307,7 +6310,7 @@
 - [openanalytics/rjenkins](https://github.com/openanalytics/rjenkins) - 
 - [rerock/Claims_Reserving](https://github.com/rerock/Claims_Reserving) - 
 - [moj-analytical-services/Rdbtools](https://github.com/moj-analytical-services/Rdbtools) - Accessing Athena on the Analytical Platform
-- [derry-dev/Shiny_Desktop_App](https://github.com/derry-dev/Shiny_Desktop_App) - Quick and simple guide to packaging Shiny applications as a standalone Windows desktop program.
+- [derryleng/Shiny_Desktop_App](https://github.com/derryleng/Shiny_Desktop_App) - Quick and simple guide to packaging Shiny applications as a standalone Windows desktop program.
 - [jeroen/webp](https://github.com/jeroen/webp) - R bindings for libwebp
 - [jeroen/unix](https://github.com/jeroen/unix) - R bindings to system utilities found in most Unix systems
 - [jeroen/openssl](https://github.com/jeroen/openssl) - OpenSSL bindings for R
