@@ -851,7 +851,6 @@
 - [kinoute/typora-github-night-theme](https://github.com/kinoute/typora-github-night-theme) - Dark Typora themes that reproduce the new GitHub Dark Themes as much as possible.
 - [mil/markdown-tree](https://github.com/mil/markdown-tree) - A Sinatra script to serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown.
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
-- [89z/hearth](https://github.com/89z/hearth) - Personal config and docs
 - [ilham25/dotfiles-aether](https://github.com/ilham25/dotfiles-aether) - Here is my Aether theme for i3-gaps
 - [schorpy/ZorinX](https://github.com/schorpy/ZorinX) - Zorin OS Theme
 - [mshafer1/AHK-generator](https://github.com/mshafer1/AHK-generator) - A single page website to provide a UI for the 3 most common uses for AHK and defining custom hotstrings and hotkeys to trigger them
@@ -2315,7 +2314,7 @@
 - [rnystrom/issue-actions](https://github.com/rnystrom/issue-actions) - WIP actions to sync parent and child issues.
 - [rnystrom/create-child-issues](https://github.com/rnystrom/create-child-issues) - Action to generate child issues with labels.
 - [npm/node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses)
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Open-Source Backend Server for Web, Mobile & Flutter Developers 🚀
 - [inoda/ontrack](https://github.com/inoda/ontrack) - :money_with_wings: A simple self-hosted budgeting app
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - An open-source, self-hosted, low-code framework to build internal tools, web apps, admin panels, BI dashboards, workflows, and CRUD apps with YAML or JSON.
 - [exoframejs/exoframe-server](https://github.com/exoframejs/exoframe-server) - Exoframe is a self-hosted tool that allows simple one-command deployments using Docker
@@ -2357,6 +2356,7 @@
 - [MicrosoftDocs/office-docs-powershell](https://github.com/MicrosoftDocs/office-docs-powershell) - PowerShell Reference for Office Products - Short URL: aka.ms/office-powershell
 - [Moyster/BaiGfe](https://github.com/Moyster/BaiGfe) - Remove Mandatory Login of Geforce Experience - [support: v3.14.x &lt;-&gt; v3.20.x]
 - [ritwickdey/live-server-web-extension](https://github.com/ritwickdey/live-server-web-extension) - It makes your existing server live. This is a browser extension that helps you to live reload feature for dynamic content (PHP, Node.js, ASP.NET -- Whatever, it doesn't matter)
+- [89z/hearth](https://github.com/89z/hearth) - Personal config and docs
 - [luzeadev/techbench-dump-web](https://github.com/luzeadev/techbench-dump-web) - An easy to use website to generate links for Microsoft products.
 - [luzea-archive/google-drive-index-worker](https://github.com/luzea-archive/google-drive-index-worker) - Modified version of maple3142/GDIndex.
 - [silas/node-papi](https://github.com/silas/node-papi) - Library for building HTTP API clients
@@ -3445,6 +3445,7 @@
 
 ## Others 
 
+- [alexkaratarakis/gitattributes](https://github.com/alexkaratarakis/gitattributes) - A collection of useful .gitattributes templates
 - [rdagumampan/awesome-dotnet-core](https://github.com/rdagumampan/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
 - [pthom/northwind_psql](https://github.com/pthom/northwind_psql) - Northwind sample database for postgres
 - [jtleek/data](https://github.com/jtleek/data) - Data resources created by the Leek group
@@ -5801,7 +5802,7 @@
 - [ctuning/ck-env](https://github.com/ctuning/ck-env) - CK repository with components and automation actions to enable portable workflows across diverse platforms including Linux, Windows, MacOS and Android. It includes software detection plugins and meta packages (code, data sets, models, scripts, etc) with the possibility of multiple versions to co-exist in a user or system environment:
 - [dungwinux/Maid](https://github.com/dungwinux/Maid) - A package manager, written in Python 3.7, for Windows.
 - [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 📦 one CLI for all package managers
-- [electric-package-manager/electric](https://github.com/electric-package-manager/electric) - A fast, futuristic package manager for Windows.
+- [XtremeDevX/electric](https://github.com/XtremeDevX/electric) - A fast, futuristic package manager for Windows.
 - [rasa/scoop-directory](https://github.com/rasa/scoop-directory) - A searchable directory of buckets for the scoop package manager for Windows
 - [lepisma/pipwin](https://github.com/lepisma/pipwin) - Install compiled python libraries for windows provided by Christoph Gohlke
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
@@ -10062,7 +10063,6 @@
 - [tanyogeorgiev/Pastelin](https://github.com/tanyogeorgiev/Pastelin) - Azure Data Studio Dark Theme
 - [kevchant/sqlwatch](https://github.com/kevchant/sqlwatch) - SQL Server Performance Monitor
 - [twright-msft/mssql-test-scripts](https://github.com/twright-msft/mssql-test-scripts) - Some T-SQL scripts that can be used for testing.
-- [vladimir-aleyev/t-sql](https://github.com/vladimir-aleyev/t-sql) - useful t-sql scripts
 - [JocaPC/AzureDataStudio-Managed-Instance](https://github.com/JocaPC/AzureDataStudio-Managed-Instance) - Managed Instance extension for Azure Data Studio
 - [gompertzmakeham/hazardrates](https://github.com/gompertzmakeham/hazardrates) - Proactive methodological disclosure of a high resolution precision calibrated estimate of the Gompertz-Makeham Law of Mortality and general utilization hazard rates through lifespan interferometry against annual census data consolidated from the administrative data of all publicly funded healthcare provided in a single geopolitical jurisdiction.
 - [lob/pg_insights](https://github.com/lob/pg_insights) - A collection of convenient SQL for monitoring Postgres database health.
@@ -10182,7 +10182,7 @@
 - [nothingislost/obsidian-cm6-attributes](https://github.com/nothingislost/obsidian-cm6-attributes) - 
 - [MichaBrugger/booksidian_plugin](https://github.com/MichaBrugger/booksidian_plugin) - A plugin to connect your Goodreads shelves to your Obsidian vault.
 - [mo-seph/obsidian-note-from-template](https://github.com/mo-seph/obsidian-note-from-template) - Simple plugin to create Notes from a template, and fill in fields defined there
-- [fyears/remotely-save](https://github.com/fyears/remotely-save) - 
+- [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) - 
 - [nbelyh/VisioOnlineSpfxWebPart](https://github.com/nbelyh/VisioOnlineSpfxWebPart) - SharePoint SPFx web part to display Visio diagrams.
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [saml-to/assume-aws-role-action](https://github.com/saml-to/assume-aws-role-action) - Assume AWS IAM Roles using SAML.to in GitHub Actions
