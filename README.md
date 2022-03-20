@@ -851,6 +851,7 @@
 - [kinoute/typora-github-night-theme](https://github.com/kinoute/typora-github-night-theme) - Dark Typora themes that reproduce the new GitHub Dark Themes as much as possible.
 - [mil/markdown-tree](https://github.com/mil/markdown-tree) - A Sinatra script to serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown.
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
+- [89z/hearth](https://github.com/89z/hearth) - Personal config and docs
 - [ilham25/dotfiles-aether](https://github.com/ilham25/dotfiles-aether) - Here is my Aether theme for i3-gaps
 - [schorpy/ZorinX](https://github.com/schorpy/ZorinX) - Zorin OS Theme
 - [mshafer1/AHK-generator](https://github.com/mshafer1/AHK-generator) - A single page website to provide a UI for the 3 most common uses for AHK and defining custom hotstrings and hotkeys to trigger them
@@ -2159,6 +2160,7 @@
 - [OfficeDev/Office-Add-in-samples](https://github.com/OfficeDev/Office-Add-in-samples) - Code samples for Office Add-in development on the Microsoft 365 platform.
 - [OmniDB/OmniDB](https://github.com/OmniDB/OmniDB) - Web tool for database management
 - [okeeffed/developer-notes](https://github.com/okeeffed/developer-notes) - Published Developer Cheat Sheets
+- [mulfok/periodic-note-templates](https://github.com/mulfok/periodic-note-templates) - A set a periodic note templates for Obsidian.md.
 - [openpracticelibrary/openpracticelibrary](https://github.com/openpracticelibrary/openpracticelibrary) - Practices and ideas that empower teams to collaborate and deliver iteratively
 - [batpigandme/highcharter-a11y-talk](https://github.com/batpigandme/highcharter-a11y-talk) - Slides from talk on using highcharter with the Highcharts accessibility module.
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
@@ -2356,7 +2358,6 @@
 - [MicrosoftDocs/office-docs-powershell](https://github.com/MicrosoftDocs/office-docs-powershell) - PowerShell Reference for Office Products - Short URL: aka.ms/office-powershell
 - [Moyster/BaiGfe](https://github.com/Moyster/BaiGfe) - Remove Mandatory Login of Geforce Experience - [support: v3.14.x &lt;-&gt; v3.20.x]
 - [ritwickdey/live-server-web-extension](https://github.com/ritwickdey/live-server-web-extension) - It makes your existing server live. This is a browser extension that helps you to live reload feature for dynamic content (PHP, Node.js, ASP.NET -- Whatever, it doesn't matter)
-- [89z/hearth](https://github.com/89z/hearth) - Personal config and docs
 - [luzeadev/techbench-dump-web](https://github.com/luzeadev/techbench-dump-web) - An easy to use website to generate links for Microsoft products.
 - [luzea-archive/google-drive-index-worker](https://github.com/luzea-archive/google-drive-index-worker) - Modified version of maple3142/GDIndex.
 - [silas/node-papi](https://github.com/silas/node-papi) - Library for building HTTP API clients
@@ -3445,6 +3446,7 @@
 
 ## Others 
 
+- [casact/claim_sim](https://github.com/casact/claim_sim) - 
 - [alexkaratarakis/gitattributes](https://github.com/alexkaratarakis/gitattributes) - A collection of useful .gitattributes templates
 - [rdagumampan/awesome-dotnet-core](https://github.com/rdagumampan/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
 - [pthom/northwind_psql](https://github.com/pthom/northwind_psql) - Northwind sample database for postgres
@@ -3453,7 +3455,6 @@
 - [theory/dynamodb_fdw](https://github.com/theory/dynamodb_fdw) - 
 - [devteds/e7-cloudformation-docker](https://github.com/devteds/e7-cloudformation-docker) - Create AWS CloudFormation Stack and deploy Dockerized application. Devteds episode #7 https://devteds.com/episodes/7-create-aws-cloudformation-stack-for-ec2-rds-and-deploy-docker-app
 - [grofers/ansible-role-rds-alarms](https://github.com/grofers/ansible-role-rds-alarms) - Monitor Cloudwatch metrics for Amazon RDS instances.
-- [mulfok/periodic-note-templates](https://github.com/mulfok/periodic-note-templates) - A set a periodic note templates for Obsidian.md.
 - [mgramin/database-as-code](https://github.com/mgramin/database-as-code) - The "Database as Code" Manifesto
 - [t-kalinowski/r-iterator-ideas](https://github.com/t-kalinowski/r-iterator-ideas) - Imagining what a user-extensible iterator protocol for R might look like.
 - [dbt-labs/dbt-project-maturity](https://github.com/dbt-labs/dbt-project-maturity) - 
@@ -9736,7 +9737,7 @@
 - [selfire1/goodsidian](https://github.com/selfire1/goodsidian) - A Goodreads to Obsidian script
 - [vladgh/backup](https://github.com/vladgh/backup) - Vlad's Backup
 - [ivamluz/cloud-build-cloud-functions-pipeline](https://github.com/ivamluz/cloud-build-cloud-functions-pipeline) - A sample project showing how to automate the deployment of Cloud Functions with Cloud Build on Google Cloud Platform.
-- [ishchow/dotfiles](https://github.com/ishchow/dotfiles) - Personal dotfiles and stuff
+- [ishchow/dotfiles-old](https://github.com/ishchow/dotfiles-old) - Personal dotfiles and stuff
 - [rpeloff/WSL-dotfiles](https://github.com/rpeloff/WSL-dotfiles) - My dotfiles and other things for WSL 1.0 on a Windows machine.
 - [gbgabiola/dotfiles](https://github.com/gbgabiola/dotfiles) - @gbgabiola does dotfiles
 - [samuelramox/wsl-setup](https://github.com/samuelramox/wsl-setup) - WSL Ubuntu Dotfiles
