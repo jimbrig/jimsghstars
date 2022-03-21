@@ -256,6 +256,7 @@
 
 ## C 
 
+- [awslabs/pgbouncer-rr-patch](https://github.com/awslabs/pgbouncer-rr-patch) - Adds query routing and rewriting extensions to pgbouncer
 - [dimitri/prefix](https://github.com/dimitri/prefix) - Prefix Range module for PostgreSQL
 - [umitanuki/s3_fdw](https://github.com/umitanuki/s3_fdw) - foreign-data wrapper for Amazon S3
 - [laurenz/pgreplay](https://github.com/laurenz/pgreplay) - pgreplay reads a PostgreSQL log file (*not* a WAL file), extracts the SQL statements and executes them in the same order and relative time against a PostgreSQL database cluster.
@@ -407,6 +408,7 @@
 
 ## C# # 
 
+- [awslabs/aws-apigateway-lambda-authorizer-blueprints](https://github.com/awslabs/aws-apigateway-lambda-authorizer-blueprints) - Blueprints and examples for Lambda-based custom Authorizers for use in API Gateway.
 - [murrayju/CreateProcessAsUser](https://github.com/murrayju/CreateProcessAsUser) - Creates a process in a different Windows session
 - [fanfeilong/exceltk](https://github.com/fanfeilong/exceltk) - Convert Excel sheet to markdown, json, tex, html, image and so on..
 - [aws/aws-lambda-dotnet](https://github.com/aws/aws-lambda-dotnet) - Libraries, samples and tools to help .NET Core developers develop AWS Lambda functions.
@@ -1059,6 +1061,9 @@
 
 ## Dockerfile 
 
+- [chriswessells/awsgluepyspark](https://github.com/chriswessells/awsgluepyspark) - Container for testing AWS Glue pyspark scripts
+- [jnshubham/aws-glue-local-etl-docker](https://github.com/jnshubham/aws-glue-local-etl-docker) - Contains docker image for setting up the glue libraries locally for etl developments
+- [webysther/aws-glue-docker](https://github.com/webysther/aws-glue-docker) - 🐋 Docker image for AWS Glue Spark/Python
 - [mgramin/docker-postgres-up-from-dump](https://github.com/mgramin/docker-postgres-up-from-dump) - Postgres image with dump data
 - [cd17822/lambda-s3-pg-backup](https://github.com/cd17822/lambda-s3-pg-backup) - Automatic Postgres to S3 Backups Using Docker on Lambda
 - [phdax/docker-rserve-tls-selfsigned](https://github.com/phdax/docker-rserve-tls-selfsigned) - Rserve with TLS/SSL connection mode by self-signed certificate
@@ -1487,6 +1492,8 @@
 
 ## HCL 
 
+- [repostnetwork/action-aws-glue-deploy](https://github.com/repostnetwork/action-aws-glue-deploy) - 
+- [MitocGroup/terraform-aws-glue-dev-endpoint](https://github.com/MitocGroup/terraform-aws-glue-dev-endpoint) - Terraform code to create, update or delete AWS Glue dev endpoint(s)
 - [cloudposse/terraform-aws-rds](https://github.com/cloudposse/terraform-aws-rds) - Terraform module to provision AWS RDS instances
 - [dbt-labs/terraform-aws-dbt-cloud-single-tenant](https://github.com/dbt-labs/terraform-aws-dbt-cloud-single-tenant) - 
 - [rgl/windows-vagrant](https://github.com/rgl/windows-vagrant) - Windows 10/11/2016/2019/2022 Base Vagrant Box (https://app.vagrantup.com/rgl)
@@ -1529,6 +1536,7 @@
 
 ## HTML 
 
+- [aws-samples/bring-your-own-data-labs](https://github.com/aws-samples/bring-your-own-data-labs) - Bring your own data Labs: Build a serverless data pipeline based on your own data
 - [aws-samples/amazon-serverless-datalake-workshop](https://github.com/aws-samples/amazon-serverless-datalake-workshop) - A workshop demonstrating the capabilities of S3, Athena, Glue, Kinesis, and Quicksight.
 - [jhudsl/ari](https://github.com/jhudsl/ari) - :dancers: The Automated R Instructor
 - [jhudsl/new-course](https://github.com/jhudsl/new-course) - 
@@ -2152,6 +2160,7 @@
 
 ## JavaScript 
 
+- [awslabs/aws-api-gateway-developer-portal](https://github.com/awslabs/aws-api-gateway-developer-portal) - A Serverless Developer Portal for easily publishing and cataloging APIs
 - [mplewis/src2png](https://github.com/mplewis/src2png) - 📸💻 Turn your source code into beautiful syntax-highlighted images.
 - [mplewis/csvtomd-web](https://github.com/mplewis/csvtomd-web) - Generate Markdown tables from CSV data online.
 - [trackit/trackit-client](https://github.com/trackit/trackit-client) - TrackIt WebUI repository
@@ -3220,6 +3229,11 @@
 
 ## Jupyter Notebook 
 
+- [aws-samples/cloud-experiments](https://github.com/aws-samples/cloud-experiments) - Open innovation with 60 minute cloud experiments on AWS
+- [CloudaYolla/aws-serverless-data-lake-workshop](https://github.com/CloudaYolla/aws-serverless-data-lake-workshop) - This workshop is meant to give customers a hands-on experience with mentioned AWS services.  Serverless Data Lake workshop helps customers build a cloud-native and future-proof serverless data lake architecture.  It allows hands-on time with AWS big data and analytics services including Amazon Kinesis Services for streaming data ingestion and analytics, AWS Glue for ETL and Data Catalogue Management, Amazon Athena to query data lake.
+- [elifinspace/GlueETL](https://github.com/elifinspace/GlueETL) - AWS Glue Python scripts
+- [RealKinetic/aws-glue-pipeline-example](https://github.com/RealKinetic/aws-glue-pipeline-example) - An example CI/CD pipeline using GitHub Actions for doing continuous deployment of AWS Glue jobs built on PySpark and Jupyter Notebooks.
+- [daghanacay/AWS_GlueETL_workshop](https://github.com/daghanacay/AWS_GlueETL_workshop) - AWS_GlueETL_workshop
 - [takahish/Data-Modeling-with-Postgres](https://github.com/takahish/Data-Modeling-with-Postgres) - 
 - [michalmiki/postgresql-etl](https://github.com/michalmiki/postgresql-etl) - Building Python ETL pipeline for PostgreSQL DB
 - [BrittaInData/Data_Engineering](https://github.com/BrittaInData/Data_Engineering) - All the lessons and projects finished during Udacity's Data Engineering program.
@@ -3446,6 +3460,8 @@
 
 ## Others 
 
+- [aws-samples/aws-glue-job-status-email-report](https://github.com/aws-samples/aws-glue-job-status-email-report) - 
+- [awsdocs/aws-glue-developer-guide](https://github.com/awsdocs/aws-glue-developer-guide) - The open source version of the AWS Glue docs. You can submit feedback & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull request.
 - [casact/claim_sim](https://github.com/casact/claim_sim) - 
 - [alexkaratarakis/gitattributes](https://github.com/alexkaratarakis/gitattributes) - A collection of useful .gitattributes templates
 - [rdagumampan/awesome-dotnet-core](https://github.com/rdagumampan/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
@@ -4643,10 +4659,14 @@
 - [ReneNyffenegger/notes](https://github.com/ReneNyffenegger/notes) - 
 - [thoughtbot/rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management
 - [foswiki/distro](https://github.com/foswiki/distro) - START HERE!  This is the Foswiki project "Distribution".  It is a monolith repository with the core + default extensions.
+- [R-macos/recipes](https://github.com/R-macos/recipes) - System for building static dependent libraries for CRAN packages
 - [jimhester/analysis_framework](https://github.com/jimhester/analysis_framework) - A skeleton analysis framework for use with knitr and git.
 
 ## PowerShell 
 
+- [awslabs/aws-ecs-logs-collector-for-windows](https://github.com/awslabs/aws-ecs-logs-collector-for-windows) - The script will be used to collect general os logs as well as Docker and ecs-agent logs, it also support to enable debug mode for docker and ecs-agent in Windows 2016.
+- [awslabs/aws-powershell-extensions](https://github.com/awslabs/aws-powershell-extensions) - The extensions for AWS Tools for PowerShell provide workflow enhancements on top of the core AWSPowerShell module.
+- [awslabs/aws-image-builder-document-generator](https://github.com/awslabs/aws-image-builder-document-generator) - EC2 Image Builder Component Document Generator. A PowerShell module to convert your Bash and PowerShell scripts into EC2 Image Builder Component Documents.
 - [kasdali/pbila](https://github.com/kasdali/pbila) - Power BI Logs Analytics Starter Kit
 - [damienvanrobaeys/Docker_Desktop_CE_Auto_Update_Service](https://github.com/damienvanrobaeys/Docker_Desktop_CE_Auto_Update_Service) - Auto update Docker Desktop for Windows even with no admin rights using a Windows Service
 - [StefanScherer/choco-archiver](https://github.com/StefanScherer/choco-archiver) - Archiver tool as Chocolatey package - Easily create and extract .zip, .tar, .tar.gz, .tar.bz2, .tar.xz, .tar.lz4, .tar.sz, and .rar (extract-only) files with Go
@@ -5299,6 +5319,22 @@
 
 ## Python 
 
+- [awslabs/rds-snapshot-tool](https://github.com/awslabs/rds-snapshot-tool) - The Snapshot Tool for Amazon RDS automates the task of creating manual snapshots, copying them into a different account and a different region, and deleting them after a specified number of days
+- [awslabs/aws-glue-libs](https://github.com/awslabs/aws-glue-libs) - AWS Glue Libraries are additions and enhancements to Spark for ETL operations.
+- [awslabs/aws-well-architected-labs](https://github.com/awslabs/aws-well-architected-labs) - Hands on labs and code to help you learn, measure, and build using architectural best practices.
+- [aws-cloudformation/custom-resource-helper](https://github.com/aws-cloudformation/custom-resource-helper) - Simplify best practice Custom Resource creation, sending responses to CloudFormation and providing exception, timeout trapping, and detailed configurable logging.
+- [awslabs/aws-cloudformation-templates](https://github.com/awslabs/aws-cloudformation-templates) - A collection of useful CloudFormation templates
+- [vincentclaes/serverless_data_pipeline_example](https://github.com/vincentclaes/serverless_data_pipeline_example) - Build and Deploy A Serverless Data Pipeline on AWS
+- [sahays/serverless-analytics](https://github.com/sahays/serverless-analytics) - AWS Serverless Analytics using Amazon S3, Athena, Glue, and QuickSight
+- [akhilpatlolla/Generic_ETL_Utility_AWS_GLUE](https://github.com/akhilpatlolla/Generic_ETL_Utility_AWS_GLUE) - AWS Glue - Incremental Pull Script
+- [cevoaustralia/glue-vscode](https://github.com/cevoaustralia/glue-vscode) - Local Development of AWS Glue with Docker and Visual Studio Code
+- [avensolutions/cdc-in-aws-glue](https://github.com/avensolutions/cdc-in-aws-glue) - Source Change Detection and Capture using PySpark and AWS Glue
+- [garystafford/athena-glue-quicksight-demo](https://github.com/garystafford/athena-glue-quicksight-demo) - Source code for the post, 'Getting Started with Data Analysis on AWS, using S3, Glue, Amazon Athena, and QuickSight'
+- [purecloudlabs/aws_glue_etl_docker](https://github.com/purecloudlabs/aws_glue_etl_docker) - Helper library to run AWS Glue ETL scripts docker container for local testing of development in a Jupyter notebook
+- [furqanshahid85-python/AWS-Glue-Pyspark-ETL-Job](https://github.com/furqanshahid85-python/AWS-Glue-Pyspark-ETL-Job) - 
+- [1oglop1/aws-glue-monorepo-style](https://github.com/1oglop1/aws-glue-monorepo-style) - Example of AWS Glue Jobs and workflow deployment with terraform in monorepo style. Code here supports the miniseries of articles about AWS Glue and python.
+- [awslabs/aws-glue-blueprint-libs](https://github.com/awslabs/aws-glue-blueprint-libs) - 
+- [aws-samples/aws-glue-samples](https://github.com/aws-samples/aws-glue-samples) - AWS Glue code samples
 - [artofhuman/django-pg-upsert](https://github.com/artofhuman/django-pg-upsert) - Support Postgres native upsert (INSERT ... ON CONFLICT) for django
 - [hyperqueryhq/whale](https://github.com/hyperqueryhq/whale) - 🐳 The stupidly simple CLI workspace for your data warehouse.
 - [eligoenergy/s3csv_fdw](https://github.com/eligoenergy/s3csv_fdw) - S3 CSV Foreign Data Wrapper Using Multicorn
@@ -7309,7 +7345,7 @@
 - [meztez/bigrquerystorage](https://github.com/meztez/bigrquerystorage) - R Client for BigQuery Storage API
 - [meztez/renvwincachetest](https://github.com/meztez/renvwincachetest) - 
 - [rstudio/apis-plumber](https://github.com/rstudio/apis-plumber) - 
-- [CredibilityLab/groundhog](https://github.com/CredibilityLab/groundhog) - Reproducible R Scripts Via Version-Specific CRAN-Package Storing and Loading
+- [CredibilityLab/groundhog](https://github.com/CredibilityLab/groundhog) - Reproducible R Scripts Via Date Controlled Installing & Loading of CRAN & Git Packages
 - [mdneuzerling/getsysreqs](https://github.com/mdneuzerling/getsysreqs) - Determine system requirements from R packages using the RStudio Package Manager.  This is a weekend project, not a real package, so please think twice before using it for anything serious.
 - [bmewing/requirements](https://github.com/bmewing/requirements) - R package for managing requirements
 - [markvanderloo/simputation](https://github.com/markvanderloo/simputation) - Making imputation easy
@@ -8878,7 +8914,7 @@
 - [r-hub/sysreqs](https://github.com/r-hub/sysreqs) - R package to install system requirements
 - [r-lib/revdepcheck](https://github.com/r-lib/revdepcheck) - R package reverse dependency checking
 - [trinker/textreadr](https://github.com/trinker/textreadr) - Tools to uniformly read in text data including semi-structured transcripts
-- [MaximeWack/desctable](https://github.com/MaximeWack/desctable) - An R package to produce descriptive and comparative tables
+- [desctable/desctable](https://github.com/desctable/desctable) - An R package to produce descriptive and comparative tables
 - [r-lib/sessioninfo](https://github.com/r-lib/sessioninfo) - Print Session Information
 - [ropensci-archive/datapkg](https://github.com/ropensci-archive/datapkg) - Read and Write Data Packages
 - [zzawadz/customLayout](https://github.com/zzawadz/customLayout) - Simple extension of basic layout function from R.
@@ -9509,6 +9545,9 @@
 
 ## Scala 
 
+- [jhole89/aws-glue-sbt-quickstart](https://github.com/jhole89/aws-glue-sbt-quickstart) - Example of how to set SBT up for local development of AWS Glue Scripts
+- [awslabs/deequ](https://github.com/awslabs/deequ) - Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
+- [aws-samples/amazon-deequ-glue](https://github.com/aws-samples/amazon-deequ-glue) - Automated data quality suggestions and analysis with Deequ on AWS Glue
 - [Interana/eventsim](https://github.com/Interana/eventsim) - Event data simulator. Generates a stream of pseudo-random events from a set of users, designed to simulate web traffic.
 - [scala/scala](https://github.com/scala/scala) - Scala 2 compiler and standard library. For bugs, see scala/bug
 - [aferrandi/dbtarzan](https://github.com/aferrandi/dbtarzan) - To explore the tables of a database following their relations as defined in their foreign keys.
@@ -9972,7 +10011,6 @@
 - [nikitavoloboev/dotfiles](https://github.com/nikitavoloboev/dotfiles) - Zsh, Karabiner, VS Code, Sublime, Neovim, Nix
 - [ropensci/actions](https://github.com/ropensci/actions) - Some public GitHub actions
 - [gohugoio/hugoThemes](https://github.com/gohugoio/hugoThemes) - A curated directory of Hugo themes
-- [R-macos/recipes](https://github.com/R-macos/recipes) - System for building static dependent libraries for CRAN packages
 - [cgrima/rsync_backup](https://github.com/cgrima/rsync_backup) - Rsync incremental and rotating backups
 - [aip-dev/google.aip.dev](https://github.com/aip-dev/google.aip.dev) - API Improvement Proposals. https://aip.dev/
 - [r-windows/rtools-packages](https://github.com/r-windows/rtools-packages) - Toolchains and libraries for Rtools4
@@ -10147,6 +10185,8 @@
 
 ## TypeScript 
 
+- [awslabs/diagram-maker](https://github.com/awslabs/diagram-maker) - A library to display an interactive editor for any graph-like data.
+- [aws-samples/data-lake-as-code](https://github.com/aws-samples/data-lake-as-code) - Data Lake as Code, featuring ChEMBL and OpenTargets
 - [quantargo/dashboards](https://github.com/quantargo/dashboards) - 
 - [uniquerockrz/obsidian-code-embed](https://github.com/uniquerockrz/obsidian-code-embed) - Embed code and other text files in Obsidian notes with syntax highlighting and other magic.
 - [samwarnick/obsidian-simple-embeds](https://github.com/samwarnick/obsidian-simple-embeds) - A plugin for Obsidian that automatically turns links into embeds.
