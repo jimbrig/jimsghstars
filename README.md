@@ -256,6 +256,7 @@
 
 ## C 
 
+- [rsund/SurvoR](https://github.com/rsund/SurvoR) - Survo R is an open source version of the  general computing environment Survo developed by professor  Seppo Mustonen
 - [awslabs/pgbouncer-rr-patch](https://github.com/awslabs/pgbouncer-rr-patch) - Adds query routing and rewriting extensions to pgbouncer
 - [dimitri/prefix](https://github.com/dimitri/prefix) - Prefix Range module for PostgreSQL
 - [umitanuki/s3_fdw](https://github.com/umitanuki/s3_fdw) - foreign-data wrapper for Amazon S3
@@ -1546,7 +1547,7 @@
 - [thomasp85/tidygraph](https://github.com/thomasp85/tidygraph) - A tidy API for graph manipulation
 - [LuciferUchiha/Digital-Garden](https://github.com/LuciferUchiha/Digital-Garden) - My Digital Garden built from Obsidian notes
 - [A/shuvalov.info](https://github.com/A/shuvalov.info) - My blog
-- [r-devel/r-dev-web](https://github.com/r-devel/r-dev-web) - Mirror of the r-dev-web svn repository
+- [r-devel/r-dev-web](https://github.com/r-devel/r-dev-web) - Mirrors https://developer.r-project.org sources
 - [microsoft/MCW-Migrating-SQL-databases-to-Azure](https://github.com/microsoft/MCW-Migrating-SQL-databases-to-Azure) - MCW Migrating SQL databases to Azure
 - [lockedata/Data-Literacy](https://github.com/lockedata/Data-Literacy) - A free to re-use gentle introduction to data literacy and Power BI
 - [rstudio/environments.rstudio.com](https://github.com/rstudio/environments.rstudio.com) - Environment Management for R
@@ -1645,7 +1646,6 @@
 - [mdn/beginner-html-site](https://github.com/mdn/beginner-html-site) - A simple one page website created to help complete beginners learn HTML basics. This example is built up over the course of https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/HTML_basics
 - [mdn/interactive-examples](https://github.com/mdn/interactive-examples) - Home of the MDN live code editor interactive examples
 - [mdn/insights](https://github.com/mdn/insights) - The repo that powers MDN Web Docs Insights.
-- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [ivangeorgiev/dj-statuspage](https://github.com/ivangeorgiev/dj-statuspage) - System Status Page for Django
 - [kbroman/kbroman.github.io](https://github.com/kbroman/kbroman.github.io) - Karl Broman's website
 - [pbatard/pbatard.github.io](https://github.com/pbatard/pbatard.github.io) - Github pages
@@ -2160,6 +2160,7 @@
 
 ## JavaScript 
 
+- [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [awslabs/aws-api-gateway-developer-portal](https://github.com/awslabs/aws-api-gateway-developer-portal) - A Serverless Developer Portal for easily publishing and cataloging APIs
 - [mplewis/src2png](https://github.com/mplewis/src2png) - 📸💻 Turn your source code into beautiful syntax-highlighted images.
 - [mplewis/csvtomd-web](https://github.com/mplewis/csvtomd-web) - Generate Markdown tables from CSV data online.
@@ -2325,7 +2326,7 @@
 - [rnystrom/issue-actions](https://github.com/rnystrom/issue-actions) - WIP actions to sync parent and child issues.
 - [rnystrom/create-child-issues](https://github.com/rnystrom/create-child-issues) - Action to generate child issues with labels.
 - [npm/node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses)
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Open-Source Backend Server for Web, Mobile & Flutter Developers 🚀
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [inoda/ontrack](https://github.com/inoda/ontrack) - :money_with_wings: A simple self-hosted budgeting app
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - An open-source, self-hosted, low-code framework to build internal tools, web apps, admin panels, BI dashboards, workflows, and CRUD apps with YAML or JSON.
 - [exoframejs/exoframe-server](https://github.com/exoframejs/exoframe-server) - Exoframe is a self-hosted tool that allows simple one-command deployments using Docker
@@ -3410,6 +3411,7 @@
 ## Markdown 
 
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
+- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Mustache 
@@ -3502,7 +3504,6 @@
 - [llZektorll/OB_Template](https://github.com/llZektorll/OB_Template) - OB_Template is a vault template reference to be used on Obsidian.
 - [mikemahoney218/r-devel](https://github.com/mikemahoney218/r-devel) - A mirror of the R-Devel mailing list archives
 - [rstudio/rviews-community](https://github.com/rstudio/rviews-community) - RViews Community Site for Authors and Editors
-- [bhdicaire/visioStencils](https://github.com/bhdicaire/visioStencils) - My 2,600 visio :art: shapes, stencils, symbols, and icons collection to visually represent IT infrastructure
 - [PatrickCuba/thedatamustflow](https://github.com/PatrickCuba/thedatamustflow) - Visio stencils and artefacts related to data vault guru
 - [iamchetanks/Database-Design](https://github.com/iamchetanks/Database-Design) - Database design for e-learning platform
 - [oleg-agapov/data-engineering-book](https://github.com/oleg-agapov/data-engineering-book) - Accumulated knowledge and experience in the field of Data Engineering
@@ -9568,6 +9569,7 @@
 
 ## Shell 
 
+- [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles
 - [georgestagg/webR](https://github.com/georgestagg/webR) - This project aims to compile the statistical language R into WASM for use in a browser, via Emscripten.
 - [m-lab/etl-schema](https://github.com/m-lab/etl-schema) - All schema and views related to the etl pipeline and public bigquery tables.
 - [tmusabbir/glue-utils](https://github.com/tmusabbir/glue-utils) - Few AWS Glue Utility Scripts
@@ -9589,6 +9591,7 @@
 - [cloudavail/aws-missing-tools](https://github.com/cloudavail/aws-missing-tools) - tools for managing AWS resources including EC2, EBS, RDS, IAM, CloudFormation and Route53.
 - [gaurav-nelson/github-action-markdown-link-check](https://github.com/gaurav-nelson/github-action-markdown-link-check) - Check all links in markdown files if they are alive or dead. 🔗✔️
 - [calogica/dbt-expectations](https://github.com/calogica/dbt-expectations) - Port(ish) of Great Expectations to dbt test macros
+- [bhdicaire/visioStencils](https://github.com/bhdicaire/visioStencils) - My 2,600 visio :art: shapes, stencils, symbols, and icons collection to visually represent IT infrastructure
 - [microsoft/appcenter](https://github.com/microsoft/appcenter) - Central repository for App Center open source resources and planning.
 - [richardtbell/zsh-twoLine-theme](https://github.com/richardtbell/zsh-twoLine-theme) - 
 - [presstofan/shinyproxy-docker-compose-demo](https://github.com/presstofan/shinyproxy-docker-compose-demo) - A template for deploying R Shiny apps with ShinyProxy and docker-compose
@@ -10668,6 +10671,7 @@
 
 ## Vim script 
 
+- [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) - :star2: Terminal manager for (neo)vim
 - [preservim/vim-markdown](https://github.com/preservim/vim-markdown) - Markdown Vim Mode
 - [timvisee/dotfiles](https://github.com/timvisee/dotfiles) - :octocat: Tim does dotfiles
 - [joshukraine/dotfiles](https://github.com/joshukraine/dotfiles) - :round_pushpin: My dotfiles for macOS using Fish/Zsh, Neovim, and Tmux
