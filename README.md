@@ -210,7 +210,7 @@
 - [ArtanisInc/Post-Tweaks](https://github.com/ArtanisInc/Post-Tweaks) - A post-installation batch script for Windows
 - [NIKHIL0VERMA/Hacks_and_Tricks_for_Windows](https://github.com/NIKHIL0VERMA/Hacks_and_Tricks_for_Windows) - Hello there, This repo contains small scripts or something like that which will definitely help full for windows users. Just follow the instruction of respective Scripts to use them, they are completely free to use. Report bug if appears in any script
 - [SethuSenthil/WindowsHacks](https://github.com/SethuSenthil/WindowsHacks) - A collection of all Windows Hacks 💀!
-- [farag2/ADB-Debloating](https://github.com/farag2/ADB-Debloating) - Debloat MIUI 12.5 Enhanced and One UI 3.1 via ADB
+- [farag2/ADB-Debloating](https://github.com/farag2/ADB-Debloating) - Debloat MIUI 12.5 Enhanced and One UI 4 via ADB
 - [skrizzles/Device-Provisioning](https://github.com/skrizzles/Device-Provisioning) - Provisioning scripts and tools for devices I use (Windows, Mac, Android & iOS)
 - [Sporesirius/YAMS](https://github.com/Sporesirius/YAMS) - YAMS (Yet Another Multiboot System)
 - [joeldidier/Bootable-Windows-ISO-Creator](https://github.com/joeldidier/Bootable-Windows-ISO-Creator) - Create a bootable ISO (BIOS/UEFI) from Windows source installation files.
@@ -559,7 +559,6 @@
 - [GitCredentialManager/git-credential-manager](https://github.com/GitCredentialManager/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [Pscx/Pscx](https://github.com/Pscx/Pscx) - PowerShell Community Extensions module repository
 - [meteatamel/cloudrun-tutorial](https://github.com/meteatamel/cloudrun-tutorial) - A tutorial showing some of the features of Cloud Run
-- [microsoft/TemplateStudio](https://github.com/microsoft/TemplateStudio) - Template Studio accelerates the creation of new WinUI 3, WPF, and UWP apps using a wizard-based experience.
 - [microsoft/WinAppDriver](https://github.com/microsoft/WinAppDriver) - Windows Application Driver
 - [wslhub/WslQuery](https://github.com/wslhub/WslQuery) - This program is a utility that reads the internal information of Windows Subsystem for Linux from the system and outputs the data to a standard output device in JSON format.
 - [HanabishiRecca/WslShortcut](https://github.com/HanabishiRecca/WslShortcut) - Run WSL commands directly in Windows. Also allows to use WSL git/node/etc. in Visual Studio Code or another software.
@@ -2571,7 +2570,6 @@
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-staged, gluegun, hygen, hardhat, AWS Amplify, GitHub Actions Toolkit, @airbnb/nimbus, and many others! Please follow Enquirer's author: https://github.com/jonschlinkert
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [brh55/google-domain-verify](https://github.com/brh55/google-domain-verify) - :rocket: Quick way to verify domains and subdomains in order to begin working with Google webhook services
-- [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [abahmed/Deer](https://github.com/abahmed/Deer) - :pencil2:A modern, fast, beautiful note taking app, built on Electron and React
 - [jstrieb/urlpages](https://github.com/jstrieb/urlpages) - Create and view web pages stored entirely in the URL
 - [yeoman/yo](https://github.com/yeoman/yo) - CLI tool for running Yeoman generators
@@ -5182,7 +5180,7 @@
 - [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) - 📦 The Extras bucket for Scoop.
 - [SegoCode/Reg-importer](https://github.com/SegoCode/Reg-importer) - Easy import registry configurations for new windows install - Json values to registry
 - [Metaljisawa/OptimizationWindowsV1](https://github.com/Metaljisawa/OptimizationWindowsV1) - Short script ps1 for remove the unnecessary part on Windows 10
-- [LeDragoX/Win-10-Smart-Debloat-Tools](https://github.com/LeDragoX/Win-10-Smart-Debloat-Tools) - This is an adapted version from https://github.com/W4RH4WK/Debloat-Windows-10. These scripts will Customize, Debloat and Improve Security/Performance on Windows 10+.
+- [LeDragoX/Win-10-Smart-Debloat-Tools](https://github.com/LeDragoX/Win-10-Smart-Debloat-Tools) - This is an adapted version from https://github.com/W4RH4WK/Debloat-Windows-10. These scripts will Customize, Debloat and Improve Privacy/Performance on Windows 10+.
 - [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
 - [canonical/ubuntu-cooker](https://github.com/canonical/ubuntu-cooker) - Ubuntu WSL UWP Builder
 - [Phil-Factor/SQLCloneFamily](https://github.com/Phil-Factor/SQLCloneFamily) - 
@@ -5371,7 +5369,7 @@
 - [Keeper-Security/secrets-manager](https://github.com/Keeper-Security/secrets-manager) - Keeper Secrets Manager is a fully managed cloud-based, zero-knowledge platform for securing infrastructure secrets such as API keys, database passwords, access keys, certificates and any type of confidential data.
 - [monosidev/monosi](https://github.com/monosidev/monosi) - Open source data observability platform
 - [tokern/data-lineage](https://github.com/tokern/data-lineage) - Generate and Visualize Data Lineage from query history
-- [elementary-data/elementary](https://github.com/elementary-data/elementary) - Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data.
+- [elementary-data/elementary](https://github.com/elementary-data/elementary) - Open-source data observability for modern data teams
 - [amundsen-io/amundsen](https://github.com/amundsen-io/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
 - [seatgeek/druzhba](https://github.com/seatgeek/druzhba) - 
 - [edoconnor/combinations](https://github.com/edoconnor/combinations) - Fantasy golf combinations ⛳
@@ -9293,6 +9291,7 @@
 
 - [UCL-RITS/mkdocs-rc-docs](https://github.com/UCL-RITS/mkdocs-rc-docs) - Experimental Research Computing documentation generation using mkdocs
 - [AnthonyMastrean/chocolateypackages](https://github.com/AnthonyMastrean/chocolateypackages) - Application packages for Windows
+- [microsoft/TemplateStudio](https://github.com/microsoft/TemplateStudio) - Template Studio accelerates the creation of new WinUI 3, WPF, and UWP apps using a wizard-based experience.
 
 ## Roff 
 
@@ -9507,6 +9506,7 @@
 - [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
 - [hbctraining/Intro-to-R](https://github.com/hbctraining/Intro-to-R) - 
 - [jh3y/whirl](https://github.com/jh3y/whirl) - CSS loading animations with minimal effort!
+- [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [bencodezen/obsidian-night-owl-theme](https://github.com/bencodezen/obsidian-night-owl-theme) - An Obsidian theme inspired by the original Night Owl VS Code Theme by Sarah Drasner!
 - [lvalnegri/workshops-setup_cloud_analytics_machine](https://github.com/lvalnegri/workshops-setup_cloud_analytics_machine) - Tips and Tricks to setup a cloud machine for Analytics and Data Science with R, RStudio and Shiny Servers, Python and JupyterLab
 - [nikvoronin/wtfcrt](https://github.com/nikvoronin/wtfcrt) - A personal wiki-like notebooks aka zettelkasten
@@ -10198,7 +10198,7 @@
 - [jeremydaly/dynamodb-toolbox](https://github.com/jeremydaly/dynamodb-toolbox) - A simple set of tools for working with Amazon DynamoDB and the DocumentClient
 - [FlohGro-dev/Craftcuts](https://github.com/FlohGro-dev/Craftcuts) - Craftcuts - a Shortcuts eXtension for Craft
 - [psake/psake-vscode](https://github.com/psake/psake-vscode) - Contains extensions for Visual Studio Code
-- [sportradar/aws-azure-login](https://github.com/sportradar/aws-azure-login) - Use Azure AD SSO to log into the AWS via CLI.
+- [DTN-Public/aws-azure-login](https://github.com/DTN-Public/aws-azure-login) - Use Azure AD SSO to log into the AWS via CLI.
 - [erbanku/github-notion-star](https://github.com/erbanku/github-notion-star) - Sync GitHub Starred Repositories to Notion Database
 - [ws1-finder/ws1-finder](https://github.com/ws1-finder/ws1-finder) - Launch applications to which you are entitled on Workspace ONE, right from your browser! Available for Firefox, Chrome and Microsoft Edge
 - [dobrovolsky/obsidain-structure](https://github.com/dobrovolsky/obsidain-structure) - 
@@ -10327,7 +10327,7 @@
 - [eykrehbein/cook](https://github.com/eykrehbein/cook) - 👨‍🍳 CLI Tool to create universal boilerplates
 - [joshfarrant/shortcuts-js](https://github.com/joshfarrant/shortcuts-js) - A JavaScript iOS 12 Shortcuts creator
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
-- [FlorianWoelki/obsidian-icon-folder](https://github.com/FlorianWoelki/obsidian-icon-folder) - Simply add icons to your folders in Obsidian.
+- [FlorianWoelki/obsidian-icon-folder](https://github.com/FlorianWoelki/obsidian-icon-folder) - Simply add icons to your folders or files in Obsidian.
 - [koenverburg/site](https://github.com/koenverburg/site) - My slice of the internet built with Nextjs, TypeScript, and a whole lot more
 - [lynchjames/obsidian-mind-map](https://github.com/lynchjames/obsidian-mind-map) - An Obsidian plugin for displaying markdown notes as mind maps using Markmap.
 - [one-aalam/next-starter-kit](https://github.com/one-aalam/next-starter-kit) - Next.js with brilliant bells and useful whistles
