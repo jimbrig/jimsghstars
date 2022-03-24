@@ -1536,6 +1536,7 @@
 
 ## HTML 
 
+- [caiorss/bookmarklet-maker](https://github.com/caiorss/bookmarklet-maker) - Tool to create bookmarklet/ javascript apps to automate the web browser.
 - [aws-samples/bring-your-own-data-labs](https://github.com/aws-samples/bring-your-own-data-labs) - Bring your own data Labs: Build a serverless data pipeline based on your own data
 - [aws-samples/amazon-serverless-datalake-workshop](https://github.com/aws-samples/amazon-serverless-datalake-workshop) - A workshop demonstrating the capabilities of S3, Athena, Glue, Kinesis, and Quicksight.
 - [jhudsl/ari](https://github.com/jhudsl/ari) - :dancers: The Automated R Instructor
@@ -3228,6 +3229,7 @@
 
 ## Jupyter Notebook 
 
+- [areed1192/sigma_coding_youtube](https://github.com/areed1192/sigma_coding_youtube) - This is a collection of all the code that can be found on my YouTube channel Sigma Coding.
 - [aws-samples/cloud-experiments](https://github.com/aws-samples/cloud-experiments) - Open innovation with 60 minute cloud experiments on AWS
 - [CloudaYolla/aws-serverless-data-lake-workshop](https://github.com/CloudaYolla/aws-serverless-data-lake-workshop) - This workshop is meant to give customers a hands-on experience with mentioned AWS services.  Serverless Data Lake workshop helps customers build a cloud-native and future-proof serverless data lake architecture.  It allows hands-on time with AWS big data and analytics services including Amazon Kinesis Services for streaming data ingestion and analytics, AWS Glue for ETL and Data Catalogue Management, Amazon Athena to query data lake.
 - [elifinspace/GlueETL](https://github.com/elifinspace/GlueETL) - AWS Glue Python scripts
@@ -4593,7 +4595,7 @@
 ## PLSQL 
 
 - [dionatamsouza/PG-Utils](https://github.com/dionatamsouza/PG-Utils) - Views e procedures úteis para Postgres.
-- [oracle/db-sample-schemas](https://github.com/oracle/db-sample-schemas) - Oracle Database Sample Schemas
+- [oracle-samples/db-sample-schemas](https://github.com/oracle-samples/db-sample-schemas) - Oracle Database Sample Schemas
 
 ## PLpgSQL 
 
@@ -5410,7 +5412,7 @@
 - [Erotemic/mkinit](https://github.com/Erotemic/mkinit) - Auto-generate explicit readable __init__.py files without `import *`
 - [thuyetbao/python-pathway](https://github.com/thuyetbao/python-pathway) - Journey to collect the various collection of snapshots, notes, diagrams, and examples to learn and apply python
 - [dabapps/django-forms-dynamic](https://github.com/dabapps/django-forms-dynamic) - Resolve form field arguments dynamically when a form is instantiated
-- [pwwang/datar](https://github.com/pwwang/datar) - Port of dplyr and other related R packages in python, using pipda.
+- [pwwang/datar](https://github.com/pwwang/datar) - A Grammar of Data Manipulation in python
 - [Princekrampah/FlaskRESTFUL](https://github.com/Princekrampah/FlaskRESTFUL) - 
 - [abhisheksinha08/lambda-packs](https://github.com/abhisheksinha08/lambda-packs) - Precompiled packages for AWS Lambda
 - [Azure/autorest.azure-functions-python](https://github.com/Azure/autorest.azure-functions-python) - Python Code Generation for Azure Functions using Autorest
@@ -6657,7 +6659,7 @@
 - [ElianHugh/templater](https://github.com/ElianHugh/templater) - use and create R templates in vscode-r
 - [r-lib/liteq](https://github.com/r-lib/liteq) - Serverless R message queue using SQLite
 - [tanho63/fivestars](https://github.com/tanho63/fivestars) - ⭐⭐⭐⭐⭐ Generates HTML/CSS star ratings
-- [data-cleaning/dcmodifydb](https://github.com/data-cleaning/dcmodifydb) - 
+- [data-cleaning/dcmodifydb](https://github.com/data-cleaning/dcmodifydb) - Deterministic, documented correction rules on a database
 - [rpodcast/streamer_data](https://github.com/rpodcast/streamer_data) - 
 - [rpodcast/shinycal](https://github.com/rpodcast/shinycal) - The Data Science StreamRs Calendar!
 - [erossini/DeployShinyProxyAndApps](https://github.com/erossini/DeployShinyProxyAndApps) - Deploy ShinyApps with Azure and Docker
@@ -7752,7 +7754,6 @@
 - [eddelbuettel/NetRep](https://github.com/eddelbuettel/NetRep) - R package containing functions for assessing the replication/preservation of network topology for weighted gene coexpression network modules in one or more independent datasets through permutation testing.
 - [rpodcast/shinysaurus](https://github.com/rpodcast/shinysaurus) - Visualizing the datasauRus dozen in Shiny
 - [eliocamp/metamer](https://github.com/eliocamp/metamer) - Create data sets with identical statistics.
-- [EDIorg/data-package-best-practices](https://github.com/EDIorg/data-package-best-practices) - Best Practices for data packages. a gh-pages website, with sections for metadata concepts and aspects of data packaging
 - [DillonHammill/DataEditR](https://github.com/DillonHammill/DataEditR) - An Interactive R Package for Viewing, Entering Filtering and Editing Data
 - [arf-berkeley/web_geochemistry](https://github.com/arf-berkeley/web_geochemistry) - R-Shiny project for visualizing XRF and NAA geochemistry concentrations
 - [JoachimGoedhart/VolcaNoseR](https://github.com/JoachimGoedhart/VolcaNoseR) - Shiny app for making and annotating Volcano plots
@@ -9391,7 +9392,7 @@
 - [dduan/tre](https://github.com/dduan/tre) - Tree command, improved.
 - [insanum/reminders](https://github.com/insanum/reminders) - Notification Reminders
 - [saskenuba/dbml-language-server](https://github.com/saskenuba/dbml-language-server) - DBML code intelligence through the Language Server Protocol.
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - An elastic and reliable Modern Cloud Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A Modern Cloud Data Warehouse, have the Elasticity and Performance both on Object Storage
 - [timvisee/git-state](https://github.com/timvisee/git-state) - 🧪 Probe git repository state
 - [max-sixty/prql](https://github.com/max-sixty/prql) - PRQL is a modern language for transforming data — a simpler and more powerful SQL
 - [VladimirMarkelov/ttdl](https://github.com/VladimirMarkelov/ttdl) - TTDL - Terminal Todo List Manager
@@ -9414,7 +9415,7 @@
 - [ChristopherBiscardi/windows-screen-capture](https://github.com/ChristopherBiscardi/windows-screen-capture) - 
 - [ChristopherBiscardi/yarn-get-dep](https://github.com/ChristopherBiscardi/yarn-get-dep) - 
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
-- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud allows for simple, secure, distributed application development using WebAssembly actors and capability providers.
+- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - Project homepage. wasmCloud allows for simple, secure, distributed application development using WebAssembly actors and capability providers.
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
@@ -9591,7 +9592,7 @@
 - [cloudavail/aws-missing-tools](https://github.com/cloudavail/aws-missing-tools) - tools for managing AWS resources including EC2, EBS, RDS, IAM, CloudFormation and Route53.
 - [gaurav-nelson/github-action-markdown-link-check](https://github.com/gaurav-nelson/github-action-markdown-link-check) - Check all links in markdown files if they are alive or dead. 🔗✔️
 - [calogica/dbt-expectations](https://github.com/calogica/dbt-expectations) - Port(ish) of Great Expectations to dbt test macros
-- [bhdicaire/visioStencils](https://github.com/bhdicaire/visioStencils) - My 2,600 visio :art: shapes, stencils, symbols, and icons collection to visually represent IT infrastructure
+- [bhdicaire/visioStencils](https://github.com/bhdicaire/visioStencils) - My 2,700 visio :art: shapes, stencils, symbols, and icons collection to visually represent IT infrastructure
 - [microsoft/appcenter](https://github.com/microsoft/appcenter) - Central repository for App Center open source resources and planning.
 - [richardtbell/zsh-twoLine-theme](https://github.com/richardtbell/zsh-twoLine-theme) - 
 - [presstofan/shinyproxy-docker-compose-demo](https://github.com/presstofan/shinyproxy-docker-compose-demo) - A template for deploying R Shiny apps with ShinyProxy and docker-compose
@@ -10144,6 +10145,7 @@
 - [tallguyjenks/CV](https://github.com/tallguyjenks/CV) - :scroll: My Data Driven CV written with R, YAML, & LaTeX
 - [nuest/ten-simple-rules-dockerfiles](https://github.com/nuest/ten-simple-rules-dockerfiles) - Ten Simple Rules for Writing Dockerfiles for Reproducible Data Science
 - [nuest/rockerverse-paper](https://github.com/nuest/rockerverse-paper) - Scientific paper about everything related to containers and R
+- [EDIorg/data-package-best-practices](https://github.com/EDIorg/data-package-best-practices) - Best Practices for data packages. a gh-pages website, with sections for metadata concepts and aspects of data packaging
 - [mdahirel/PCItemplate](https://github.com/mdahirel/PCItemplate) - RMarkdown template for preprints recommended by one of the Peer Communities In
 - [svmiller/stevetemplates](https://github.com/svmiller/stevetemplates) - My collection of R Markdown templates, as an R package.
 - [yihui/knitr-examples](https://github.com/yihui/knitr-examples) - A collection of knitr examples
@@ -10751,7 +10753,7 @@
 ## Vue 
 
 - [halo-dev/halo-admin](https://github.com/halo-dev/halo-admin) - Halo admin web client.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres database into a collaborative spreadsheet with REST APIs.
 - [dale0525/ClipBroad](https://github.com/dale0525/ClipBroad) - Sync your clipboard across multiple platforms
 - [FrissAnalytics/shiny-vue-simple](https://github.com/FrissAnalytics/shiny-vue-simple) - simple example combining R shiny and vue.js
 - [timelyportfolio/vue-cli-r](https://github.com/timelyportfolio/vue-cli-r) - 
