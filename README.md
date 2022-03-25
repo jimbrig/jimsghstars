@@ -281,6 +281,7 @@
 - [jeroen/gpg](https://github.com/jeroen/gpg) - Bindings to gpgme for R
 - [bwlewis/feathercache](https://github.com/bwlewis/feathercache) - Simple networked object cache
 - [bwlewis/lz4](https://github.com/bwlewis/lz4) - LZ4  Data Compression and Decompression for R
+- [paleolimbot/geoarrow](https://github.com/paleolimbot/geoarrow) - Extension types for geospatial data for use with 'Arrow'
 - [z-shell/zinit](https://github.com/z-shell/zinit) - Please visit https://github.com/z-shell/zi. As this repository is no longer supported.
 - [graphbrain/graphbrain](https://github.com/graphbrain/graphbrain) - Language, Knowledge, Cognition
 - [jimhester/r-actions-test](https://github.com/jimhester/r-actions-test) - https://jimhester.github.io/r-actions-test/
@@ -409,6 +410,7 @@
 
 ## C# # 
 
+- [fernandreu/office-ribbonx-editor](https://github.com/fernandreu/office-ribbonx-editor) - An overhauled fork of the original Custom UI Editor for Microsoft Office, built with WPF
 - [awslabs/aws-apigateway-lambda-authorizer-blueprints](https://github.com/awslabs/aws-apigateway-lambda-authorizer-blueprints) - Blueprints and examples for Lambda-based custom Authorizers for use in API Gateway.
 - [murrayju/CreateProcessAsUser](https://github.com/murrayju/CreateProcessAsUser) - Creates a process in a different Windows session
 - [fanfeilong/exceltk](https://github.com/fanfeilong/exceltk) - Convert Excel sheet to markdown, json, tex, html, image and so on..
@@ -668,7 +670,6 @@
 - [IJHack/QtPass](https://github.com/IJHack/QtPass) - QtPass is a multi-platform GUI for pass, the standard unix password manager.
 - [farling42/RWoutput](https://github.com/farling42/RWoutput) - Tool to convert a Realm Works Output file into other formats.
 - [meganz/MEGAsync](https://github.com/meganz/MEGAsync) - Easy automated syncing between your computers and your MEGA Cloud Drive
-- [paleolimbot/geoarrow](https://github.com/paleolimbot/geoarrow) - Extension types for geospatial data for use with 'Arrow'
 - [meganz/MEGAcmd](https://github.com/meganz/MEGAcmd) - Command Line Interactive and Scriptable Application to access MEGA
 - [miraisolutions/winsendkeys](https://github.com/miraisolutions/winsendkeys) - Sendkeys R library for Windows
 - [intelligenate/dfc](https://github.com/intelligenate/dfc) - 
@@ -823,6 +824,7 @@
 - [BootstrapDash/skydash-free-bootstrap-admin-template](https://github.com/BootstrapDash/skydash-free-bootstrap-admin-template) - free bootstrap admin template
 - [sqlitebrowser/dbhub_docs](https://github.com/sqlitebrowser/dbhub_docs) - Documentation for DBHub.io
 - [insanum/obsidian_gruvbox](https://github.com/insanum/obsidian_gruvbox) - A gruvbox theme for Obsidian
+- [jimbrig/KaaS](https://github.com/jimbrig/KaaS) - KaaS - Knowledge as a Service
 - [sergey900553/obsidian_githublike_theme](https://github.com/sergey900553/obsidian_githublike_theme) - Obsidian dark theme
 - [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
 - [A/obsidian-blog-theme](https://github.com/A/obsidian-blog-theme) - 
@@ -1180,7 +1182,7 @@
 
 - [square/password-rotation-lambda](https://github.com/square/password-rotation-lambda) - Password rotation function for AWS Lambda and Secrets Manager
 - [trackit/trackit](https://github.com/trackit/trackit) - Trackit helps you understand and improve your use of AWS
-- [cubeFS/cubefs](https://github.com/cubeFS/cubefs) - CubeFS is a cloud native distributed file system and object store.
+- [cubeFS/cubefs](https://github.com/cubeFS/cubefs) - CubeFS(formerly ChubaoFS) is a cloud native distributed file system and object store.
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
@@ -6634,7 +6636,7 @@
 - [Enchufa2/universe](https://github.com/Enchufa2/universe) - Personal R-universe
 - [Enchufa2/dispatchS3dots](https://github.com/Enchufa2/dispatchS3dots) - 
 - [jimbrig/rsetup](https://github.com/jimbrig/rsetup) - What the Package Does (One Line, Title Case)
-- [rpodcast/shinylearning](https://github.com/rpodcast/shinylearning) - 
+- [rpodcast/shinybrain](https://github.com/rpodcast/shinybrain) - 
 - [fdrennan/biggr3](https://github.com/fdrennan/biggr3) - 
 - [fdrennan/productor](https://github.com/fdrennan/productor) - A stripped version of Redditor
 - [fdrennan/ndexie](https://github.com/fdrennan/ndexie) - R Application Based Code
@@ -9585,7 +9587,6 @@
 - [insanum/dotfiles](https://github.com/insanum/dotfiles) - My dotfiles!
 - [insanum/nostalgic](https://github.com/insanum/nostalgic) - Bash script for managing dotfiles with Git
 - [trustly/fdiff](https://github.com/trustly/fdiff) - 
-- [jimbrig/KaaS](https://github.com/jimbrig/KaaS) - KaaS - Knowledge as a Service
 - [kmaasrud/wsh](https://github.com/kmaasrud/wsh) - Get Wikipedia summaries from the command line
 - [timvisee/send-docker-compose](https://github.com/timvisee/send-docker-compose) - :cloud: Basic Docker compose configuration for Send. https://gitlab.com/timvisee/send-docker-compose
 - [timvisee/docker-compose-mssql](https://github.com/timvisee/docker-compose-mssql) - :whale: Docker configuration for an Microsoft SQL server on Linux using docker-compose
