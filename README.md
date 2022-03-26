@@ -739,6 +739,7 @@
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows.
 - [Eun/MoveToDesktop](https://github.com/Eun/MoveToDesktop) - Move windows using hotkeys or the system menu
 - [klmr/named-operator](https://github.com/klmr/named-operator) - Named operators for C++
+- [jobhope/TechnicalNote](https://github.com/jobhope/TechnicalNote) - Repository to store what we have studied. :book: We want everyone to get a job through TechnicalNote.
 - [palikar/dotfiles](https://github.com/palikar/dotfiles) - Almost full setup for my Debian system.
 - [ManuelGil/Reset-Windows-Update-Tool](https://github.com/ManuelGil/Reset-Windows-Update-Tool) - Troubleshooting Tool with Windows Updates (Developed in Dev-C++).
 - [YoukaiCat/QtSemanticNotes](https://github.com/YoukaiCat/QtSemanticNotes) - QtSemanticNotes is a personal knowledge base, personal wiki or just note taking application that features automatic linking, tree view and tags. Inspired by WikidPad and Zim.
@@ -1063,6 +1064,7 @@
 
 ## Dockerfile 
 
+- [sytone/obsidian-remote](https://github.com/sytone/obsidian-remote) - Run Obsidian.md in a browser via a docker container.
 - [chriswessells/awsgluepyspark](https://github.com/chriswessells/awsgluepyspark) - Container for testing AWS Glue pyspark scripts
 - [jnshubham/aws-glue-local-etl-docker](https://github.com/jnshubham/aws-glue-local-etl-docker) - Contains docker image for setting up the glue libraries locally for etl developments
 - [webysther/aws-glue-docker](https://github.com/webysther/aws-glue-docker) - 🐋 Docker image for AWS Glue Spark/Python
@@ -2077,6 +2079,7 @@
 
 ## Java 
 
+- [Azure/azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) - This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java.
 - [aws-samples/aws-sam-java-rest](https://github.com/aws-samples/aws-sam-java-rest) - A sample REST application built on SAM and DynamoDB that demonstrates testing with DynamoDB Local.
 - [aws-samples/aws-dynamodb-examples](https://github.com/aws-samples/aws-dynamodb-examples) - DynamoDB Examples
 - [mgramin/postgres-docker-integration-tests](https://github.com/mgramin/postgres-docker-integration-tests) - Example for maven integration test with Docker and Postgresql
@@ -2162,6 +2165,9 @@
 
 ## JavaScript 
 
+- [zubayrrr/wiki](https://github.com/zubayrrr/wiki) - 🌱  Personal Wiki / Digital Garden - powered by obsidian.md, gatsbyjs, github-pages
+- [Quorafind/Obsidian-Memos](https://github.com/Quorafind/Obsidian-Memos) - A quick capture plugin for Obsidian, all data from your daily notes.
+- [mspnp/template-building-blocks](https://github.com/mspnp/template-building-blocks) - A tool for deploying Azure infrastructure based on proven practices. Azure building blocks take advantage of the Azure CLI and Azure Resource Manager templates to provision collections of resources as logical units with production-ready settings.
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [awslabs/aws-api-gateway-developer-portal](https://github.com/awslabs/aws-api-gateway-developer-portal) - A Serverless Developer Portal for easily publishing and cataloging APIs
 - [mplewis/src2png](https://github.com/mplewis/src2png) - 📸💻 Turn your source code into beautiful syntax-highlighted images.
@@ -3464,6 +3470,7 @@
 
 ## Others 
 
+- [OfficeDev/office-fluent-ui-command-identifiers](https://github.com/OfficeDev/office-fluent-ui-command-identifiers) - Office Fluent User Interface Control Identifiers
 - [aws-samples/aws-glue-job-status-email-report](https://github.com/aws-samples/aws-glue-job-status-email-report) - 
 - [awsdocs/aws-glue-developer-guide](https://github.com/awsdocs/aws-glue-developer-guide) - The open source version of the AWS Glue docs. You can submit feedback & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull request.
 - [casact/claim_sim](https://github.com/casact/claim_sim) - 
@@ -4044,7 +4051,6 @@
 - [yonicd/tidyghql](https://github.com/yonicd/tidyghql) - create tidy outputs of open github issues and prs using graphql
 - [karlicoss/exobrain](https://github.com/karlicoss/exobrain) - My external brain 🧠
 - [KOVERcjm/Technical_Notes](https://github.com/KOVERcjm/Technical_Notes) - Personal technical summary notes
-- [jobhope/TechnicalNote](https://github.com/jobhope/TechnicalNote) - Repository to store what we have studied. :book: We want everyone to get a job through TechnicalNote.
 - [AthenaAI/community-search](https://github.com/AthenaAI/community-search) - A community-curated repository of 🔥 learning resources
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 - [nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) - A list of resources for those interested in getting started in bug bounties
@@ -9497,6 +9503,7 @@
 
 ## SCSS 
 
+- [ThatOtherAndrew/obsidian-digital-garden](https://github.com/ThatOtherAndrew/obsidian-digital-garden) - Static markdown site for notes.thatother.dev, linked to the Digital Garden Obsidian plugin
 - [akaalias/getquickdown](https://github.com/akaalias/getquickdown) - QuickDown – A better inbox for your ideas.
 - [Noovolari/leapp-website](https://github.com/Noovolari/leapp-website) - leapp site
 - [SlRvb/Obsidian--ITS-Theme](https://github.com/SlRvb/Obsidian--ITS-Theme) - Theme designed with readability and customizability in mind. Change it easily to your liking with the Style Settings plugin installed.
@@ -10191,6 +10198,7 @@
 
 ## TypeScript 
 
+- [MSzturc/obsidian-better-pdf-plugin](https://github.com/MSzturc/obsidian-better-pdf-plugin) - Goal of this Plugin in to implement a native PDF handling workflow in Obsidian
 - [awslabs/diagram-maker](https://github.com/awslabs/diagram-maker) - A library to display an interactive editor for any graph-like data.
 - [aws-samples/data-lake-as-code](https://github.com/aws-samples/data-lake-as-code) - Data Lake as Code, featuring ChEMBL and OpenTargets
 - [quantargo/dashboards](https://github.com/quantargo/dashboards) - 
@@ -10340,7 +10348,7 @@
 - [mrmartineau/gatsby-theme-code-notes](https://github.com/mrmartineau/gatsby-theme-code-notes) - A Gatsby theme for publishing code-related notes to your website
 - [meshcloud/collie-cli](https://github.com/meshcloud/collie-cli) - Collie CLI allows you to manage your AWS, Azure & GCP cloud landscape through a single view.
 - [auth0/nextjs-auth0](https://github.com/auth0/nextjs-auth0) - Next.js SDK for signing in with Auth0
-- [mattwaler/next-ssr-starter](https://github.com/mattwaler/next-ssr-starter) - A starter project for using Next.js utilizing TailwindCSS and session-based SSR user modeling.
+- [mattwaler/next-ssr-starter](https://github.com/mattwaler/next-ssr-starter) - A starter project for using Next.js utilizing sessions, TailwindCSS, TypeScript, MySQL, and Prisma!
 - [dy-sh/obsidian-unique-attachments](https://github.com/dy-sh/obsidian-unique-attachments) - Obsidian plugin. Renames attachments, making their names unique.
 - [styxlab/next-cms-ghost](https://github.com/styxlab/next-cms-ghost) - Publish flaring fast blogs with Next.js and Ghost CMS
 - [mehulmpt/ghost-cms-nextjs](https://github.com/mehulmpt/ghost-cms-nextjs) - 
