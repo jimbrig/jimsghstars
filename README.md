@@ -657,6 +657,7 @@
 
 ## C++ 
 
+- [Rprop/GitHubDownloader](https://github.com/Rprop/GitHubDownloader) - download a single folder or directory from a GitHub repository
 - [pgmodeler/pgmodeler](https://github.com/pgmodeler/pgmodeler) - Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you!
 - [jarulraj/sqlcheck](https://github.com/jarulraj/sqlcheck) - Automatically identify anti-patterns in SQL queries
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
@@ -2165,6 +2166,7 @@
 
 ## JavaScript 
 
+- [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) - Web App: Download just a sub directory from a GitHub repo.
 - [zubayrrr/wiki](https://github.com/zubayrrr/wiki) - 🌱  Personal Wiki / Digital Garden - powered by obsidian.md, gatsbyjs, github-pages
 - [Quorafind/Obsidian-Memos](https://github.com/Quorafind/Obsidian-Memos) - A quick capture plugin for Obsidian, all data from your daily notes.
 - [mspnp/template-building-blocks](https://github.com/mspnp/template-building-blocks) - A tool for deploying Azure infrastructure based on proven practices. Azure building blocks take advantage of the Azure CLI and Azure Resource Manager templates to provision collections of resources as logical units with production-ready settings.
@@ -4673,6 +4675,7 @@
 
 ## PowerShell 
 
+- [zurkon/windows-terminal-pwsh-101](https://github.com/zurkon/windows-terminal-pwsh-101) - Step-by-step tutorial to customize the Windows Terminal and Powershell Core
 - [awslabs/aws-ecs-logs-collector-for-windows](https://github.com/awslabs/aws-ecs-logs-collector-for-windows) - The script will be used to collect general os logs as well as Docker and ecs-agent logs, it also support to enable debug mode for docker and ecs-agent in Windows 2016.
 - [awslabs/aws-powershell-extensions](https://github.com/awslabs/aws-powershell-extensions) - The extensions for AWS Tools for PowerShell provide workflow enhancements on top of the core AWSPowerShell module.
 - [awslabs/aws-image-builder-document-generator](https://github.com/awslabs/aws-image-builder-document-generator) - EC2 Image Builder Component Document Generator. A PowerShell module to convert your Bash and PowerShell scripts into EC2 Image Builder Component Documents.
@@ -8434,7 +8437,7 @@
 - [tmakowski/sendeR](https://github.com/tmakowski/sendeR) - R package providing a simple interface for sending messages.
 - [joachim-gassen/ExPanDaR](https://github.com/joachim-gassen/ExPanDaR) - R Package for Interactive Panel Data Exploration
 - [benubah/r-community-explorer](https://github.com/benubah/r-community-explorer) - Data-Driven Exploration of the R Community
-- [jbullock35/Bullock](https://github.com/jbullock35/Bullock) - R package. Tools for table-making and miscellaneous utilities. Used in John Bullock's code.
+- [jbullock35/Bullock](https://github.com/jbullock35/Bullock) - R package. Tools for table-making and miscellaneous utilities. Used in my code.
 - [datasketch/shinypanels](https://github.com/datasketch/shinypanels) - Collapsible panels layout for r shiny apps
 - [tidyverse/reprex](https://github.com/tidyverse/reprex) - Render bits of R code for sharing, e.g., on GitHub or StackOverflow.
 - [vh-d/RETL](https://github.com/vh-d/RETL) - R package for ETL
@@ -9310,6 +9313,7 @@
 
 ## Ruby 
 
+- [sparklemotion/sqlite3-ruby](https://github.com/sparklemotion/sqlite3-ruby) - Ruby bindings for the SQLite3 embedded database
 - [eradman/pg-safeupdate](https://github.com/eradman/pg-safeupdate) - A simple extension to PostgreSQL that requires criteria for UPDATE and DELETE
 - [backup/backup](https://github.com/backup/backup) - Easy full stack backup operations on UNIX-like systems.
 - [mbryzek/schema-evolution-manager](https://github.com/mbryzek/schema-evolution-manager) - Schema Evolution Manager makes it very simple for engineers to contribute schema changes to a postgresql database, managing the schema evolutions as proper source code. Schema changes are deployed as gzipped tarballs named with the corresponding git tag.
@@ -9400,7 +9404,7 @@
 - [dduan/tre](https://github.com/dduan/tre) - Tree command, improved.
 - [insanum/reminders](https://github.com/insanum/reminders) - Notification Reminders
 - [saskenuba/dbml-language-server](https://github.com/saskenuba/dbml-language-server) - DBML code intelligence through the Language Server Protocol.
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A Modern Cloud Data Warehouse, have the Elasticity and Performance both on Object Storage
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A Modern Cloud Data Warehouse, have the Elasticity and Performance both on Object Storage,  an open-source alternative to Snowflake ❤️
 - [timvisee/git-state](https://github.com/timvisee/git-state) - 🧪 Probe git repository state
 - [max-sixty/prql](https://github.com/max-sixty/prql) - PRQL is a modern language for transforming data — a simpler and more powerful SQL
 - [VladimirMarkelov/ttdl](https://github.com/VladimirMarkelov/ttdl) - TTDL - Terminal Todo List Manager
@@ -9579,6 +9583,8 @@
 
 ## Shell 
 
+- [Decad/github-downloader](https://github.com/Decad/github-downloader) - Download folders and files from github without cloning.
+- [jimbrig/kali-config](https://github.com/jimbrig/kali-config) - Kali Linux specific ~/.dotfiles
 - [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles
 - [georgestagg/webR](https://github.com/georgestagg/webR) - This project aims to compile the statistical language R into WASM for use in a browser, via Emscripten.
 - [m-lab/etl-schema](https://github.com/m-lab/etl-schema) - All schema and views related to the etl pipeline and public bigquery tables.
