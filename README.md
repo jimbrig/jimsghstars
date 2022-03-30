@@ -256,6 +256,8 @@
 
 ## C 
 
+- [pbatard/libwdi](https://github.com/pbatard/libwdi) - Windows Driver Installer library for USB devices
+- [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [rsund/SurvoR](https://github.com/rsund/SurvoR) - Survo R is an open source version of the  general computing environment Survo developed by professor  Seppo Mustonen
 - [awslabs/pgbouncer-rr-patch](https://github.com/awslabs/pgbouncer-rr-patch) - Adds query routing and rewriting extensions to pgbouncer
 - [dimitri/prefix](https://github.com/dimitri/prefix) - Prefix Range module for PostgreSQL
@@ -410,6 +412,7 @@
 
 ## C# # 
 
+- [swilliams96/Excel-Flat-File-Converter](https://github.com/swilliams96/Excel-Flat-File-Converter) - A simple command-line tool to remove all formulas, database queries, external links, etc. from an Excel file, but maintaining formatting.
 - [fernandreu/office-ribbonx-editor](https://github.com/fernandreu/office-ribbonx-editor) - An overhauled fork of the original Custom UI Editor for Microsoft Office, built with WPF
 - [awslabs/aws-apigateway-lambda-authorizer-blueprints](https://github.com/awslabs/aws-apigateway-lambda-authorizer-blueprints) - Blueprints and examples for Lambda-based custom Authorizers for use in API Gateway.
 - [murrayju/CreateProcessAsUser](https://github.com/murrayju/CreateProcessAsUser) - Creates a process in a different Windows session
@@ -1065,6 +1068,7 @@
 
 ## Dockerfile 
 
+- [jimbrig/dockerfiles](https://github.com/jimbrig/dockerfiles) - 
 - [sytone/obsidian-remote](https://github.com/sytone/obsidian-remote) - Run Obsidian.md in a browser via a docker container.
 - [chriswessells/awsgluepyspark](https://github.com/chriswessells/awsgluepyspark) - Container for testing AWS Glue pyspark scripts
 - [jnshubham/aws-glue-local-etl-docker](https://github.com/jnshubham/aws-glue-local-etl-docker) - Contains docker image for setting up the glue libraries locally for etl developments
@@ -1541,6 +1545,7 @@
 
 ## HTML 
 
+- [ClaudioZandonella/trackdown](https://github.com/ClaudioZandonella/trackdown) - R package for collaborative writing and editing of R Markdown (or Sweave) documents in Google Docs.
 - [caiorss/bookmarklet-maker](https://github.com/caiorss/bookmarklet-maker) - Tool to create bookmarklet/ javascript apps to automate the web browser.
 - [aws-samples/bring-your-own-data-labs](https://github.com/aws-samples/bring-your-own-data-labs) - Bring your own data Labs: Build a serverless data pipeline based on your own data
 - [aws-samples/amazon-serverless-datalake-workshop](https://github.com/aws-samples/amazon-serverless-datalake-workshop) - A workshop demonstrating the capabilities of S3, Athena, Glue, Kinesis, and Quicksight.
@@ -2166,6 +2171,10 @@
 
 ## JavaScript 
 
+- [scottdurow/RibbonWorkbench](https://github.com/scottdurow/RibbonWorkbench) - Ribbon Workbench 2016 for Dynamics 365
+- [kufii/CodeSnap](https://github.com/kufii/CodeSnap) - 📸 Take beautiful screenshots of your code in VS Code!
+- [prezesp/scoop-viewer](https://github.com/prezesp/scoop-viewer) - A gui client for scoop.
+- [jimbrig/obsidian](https://github.com/jimbrig/obsidian) - Analyze Obsidian Vaults from R
 - [IonicaBizau/json2md](https://github.com/IonicaBizau/json2md) - :pushpin: A JSON to Markdown converter.
 - [yoksel/url-encoder](https://github.com/yoksel/url-encoder) - 🛸 Url-encoder, useful for SVG
 - [uwidev/life-disciplines-projects](https://github.com/uwidev/life-disciplines-projects) - Life-Disciplines-Projects (LDP) is a life-management framework built within Obsidian. Feel free to transform it for your own personal needs.
@@ -2500,7 +2509,7 @@
 - [APIDevTools/swagger-cli](https://github.com/APIDevTools/swagger-cli) - Swagger 2.0 and OpenAPI 3.0 command-line tool
 - [node-config/node-config](https://github.com/node-config/node-config) - Node.js Application Configuration
 - [timarney/react-app-rewired](https://github.com/timarney/react-app-rewired) - Override create-react-app webpack configs without ejecting
-- [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript) - Algorithms implemented in Javascript for beginners, following best practices.
+- [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript) - Algorithms implemented in JavaScript for beginners, following best practices.
 - [Make-Lemonade/iconicicons](https://github.com/Make-Lemonade/iconicicons) - Free “do wtf you want with” pixel-perfect icons.
 - [priyank-purohit/PostGUI](https://github.com/priyank-purohit/PostGUI) - A React web application to query and share any PostgreSQL database.
 - [thoughtbot/react-native-template](https://github.com/thoughtbot/react-native-template) - Template React Native project to be used with Cookiecutter
@@ -3362,7 +3371,7 @@
 
 - [GitSquared/dotfiles](https://github.com/GitSquared/dotfiles) - My personal dotfiles storage. Feel free to steal my vimrc!
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
-- [mrjones2014/dotfiles](https://github.com/mrjones2014/dotfiles) - Dotfiles for Neovim (0.7+), Fish shell, git, Kitty, etc.
+- [mrjones2014/dotfiles](https://github.com/mrjones2014/dotfiles) - Dotfiles for Neovim (0.7+), Fish shell, git, Kitty, tmux, and more.
 - [alexpearce/dotfiles](https://github.com/alexpearce/dotfiles) - My dotfiles.
 - [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 - [volllly/.dotfiles](https://github.com/volllly/.dotfiles) - Collection of my dotfiles.
@@ -3475,6 +3484,9 @@
 
 ## Others 
 
+- [feddelegrand7/shinysnip](https://github.com/feddelegrand7/shinysnip) - 👽 👽 👽 VSCode Extension for Generating Shiny Code Snippets.
+- [jimbrig/VBASuite](https://github.com/jimbrig/VBASuite) - Excel VBA Suite
+- [tallguyjenks/DevLog](https://github.com/tallguyjenks/DevLog) - 🌱️ My DevLog detailing my learnings in Tech 🌱️
 - [doanhthong/awesome-pkm](https://github.com/doanhthong/awesome-pkm) - 
 - [OfficeDev/office-fluent-ui-command-identifiers](https://github.com/OfficeDev/office-fluent-ui-command-identifiers) - Office Fluent User Interface Control Identifiers
 - [aws-samples/aws-glue-job-status-email-report](https://github.com/aws-samples/aws-glue-job-status-email-report) - 
@@ -3507,7 +3519,7 @@
 - [aginity/SQL-Server](https://github.com/aginity/SQL-Server) - Sample and community created SQL Server Aginity query packages available to download and use immediately in Aginity Pro or Team
 - [jimbrig/dbt_proj](https://github.com/jimbrig/dbt_proj) - Getting Started with Data Build Tool (dbt)
 - [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
-- [Wabri/Daje](https://github.com/Wabri/Daje) - Stop using install.sh! Start using install.yml! DAJE...
+- [Schrodinger-Hat/Daje](https://github.com/Schrodinger-Hat/Daje) - Stop using install.sh! Start using install.yml! DAJE...
 - [willdebras/juliascripts](https://github.com/willdebras/juliascripts) - Scripts to teach myself Julia
 - [jjallaire/hopr](https://github.com/jjallaire/hopr) - This is the development site for Hands-On Programming with R, a book that teaches how to program in R, with hands-on examples. Read the book at https://rstudio-education.github.io/hopr.
 - [Datavault-UK/dbtvault](https://github.com/Datavault-UK/dbtvault) - A free to use dbt package for creating and loading Data Vault 2.0 compliant Data Warehouses (powered by dbt, an open source data engineering tool,  registered trademark of dbt Labs)
@@ -5335,6 +5347,8 @@
 
 ## Python 
 
+- [Mara-Li/mkdocs_embed_file_plugins](https://github.com/Mara-Li/mkdocs_embed_file_plugins) - A way to embed a file present in your docs
+- [tallguyjenks/obsidian_cli](https://github.com/tallguyjenks/obsidian_cli) - A helpful tool to make creation of literature notes in obsidian all the easier with cli quick capture
 - [awslabs/rds-snapshot-tool](https://github.com/awslabs/rds-snapshot-tool) - The Snapshot Tool for Amazon RDS automates the task of creating manual snapshots, copying them into a different account and a different region, and deleting them after a specified number of days
 - [awslabs/aws-glue-libs](https://github.com/awslabs/aws-glue-libs) - AWS Glue Libraries are additions and enhancements to Spark for ETL operations.
 - [awslabs/aws-well-architected-labs](https://github.com/awslabs/aws-well-architected-labs) - Hands on labs and code to help you learn, measure, and build using architectural best practices.
@@ -6126,6 +6140,13 @@
 
 ## R 
 
+- [richfitz/redux](https://github.com/richfitz/redux) - :telephone_receiver::computer: Redis client for R
+- [r-dbi/RMariaDB](https://github.com/r-dbi/RMariaDB) - An R interface to MariaDB
+- [aryoda/tryCatchLog](https://github.com/aryoda/tryCatchLog) - R code for better error handling incl. logging with a full (!) stack trace incl. line numbers, post-mortem analysis and support for parallel processing
+- [feddelegrand7/css_shiny](https://github.com/feddelegrand7/css_shiny) - 
+- [s-u/RJDBC](https://github.com/s-u/RJDBC) - R interface to databases using JDBC
+- [ropensci-review-tools/pkgcheck-action](https://github.com/ropensci-review-tools/pkgcheck-action) - GitHub action for {pkgcheck}
+- [leedrake5/obsidianSource](https://github.com/leedrake5/obsidianSource) - App for sourcing obsidian
 - [Displayr/flipStandardCharts](https://github.com/Displayr/flipStandardCharts) - HTMLwidget Charts with an Excel-like signature
 - [sol-eng/customer-tracker](https://github.com/sol-eng/customer-tracker) - R data products: Reports, Presentations, Apps, and API's
 - [b-rodrigues/loud](https://github.com/b-rodrigues/loud) - 
@@ -9408,7 +9429,7 @@
 - [dduan/tre](https://github.com/dduan/tre) - Tree command, improved.
 - [insanum/reminders](https://github.com/insanum/reminders) - Notification Reminders
 - [saskenuba/dbml-language-server](https://github.com/saskenuba/dbml-language-server) - DBML code intelligence through the Language Server Protocol.
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance Cloud Data Warehouse, activate your Object Storage for sub-second analytics.
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for sub-second analytics.
 - [timvisee/git-state](https://github.com/timvisee/git-state) - 🧪 Probe git repository state
 - [max-sixty/prql](https://github.com/max-sixty/prql) - PRQL is a modern language for transforming data — a simpler and more powerful SQL
 - [VladimirMarkelov/ttdl](https://github.com/VladimirMarkelov/ttdl) - TTDL - Terminal Todo List Manager
@@ -9424,7 +9445,7 @@
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [gaborcsardi/rim](https://github.com/gaborcsardi/rim) - The R Installation Manager
 - [federico-terzi/modulo](https://github.com/federico-terzi/modulo) - Basic Cross-platform GUI Toolkit for Any Language
-- [mdzk-rs/mdzk](https://github.com/mdzk-rs/mdzk) - Plain text Zettelkasten based on mdBook
+- [mdzk-rs/mdzk](https://github.com/mdzk-rs/mdzk) - General-purpose interface to connected notes
 - [peap/git-global](https://github.com/peap/git-global) - Keep track of all your git repositories.
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
@@ -9587,6 +9608,8 @@
 
 ## Shell 
 
+- [Stephen-McDaniel/SmartManager-for-ShinyProxy](https://github.com/Stephen-McDaniel/SmartManager-for-ShinyProxy) - ShinyProxy with R, RStudio IDE and Monitoring by YakData SmartManager
+- [tallguyjenks/dotfiles](https://github.com/tallguyjenks/dotfiles) - 
 - [bashup/jqmd](https://github.com/bashup/jqmd) - Write and document your jq/shell scripts with markdown
 - [Decad/github-downloader](https://github.com/Decad/github-downloader) - Download folders and files from github without cloning.
 - [jimbrig/kali-config](https://github.com/jimbrig/kali-config) - Kali Linux specific ~/.dotfiles
@@ -10043,7 +10066,7 @@
 - [jimhester/aws-check](https://github.com/jimhester/aws-check) - 
 - [richelbilderbeek/R-CodingStandard](https://github.com/richelbilderbeek/R-CodingStandard) - Coding standard for R
 - [laurent22/rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync.
-- [maxpou/dotfiles](https://github.com/maxpou/dotfiles) - :computer: my dotfiles (Ubuntu&MacOS)
+- [maxpou/dotfiles](https://github.com/maxpou/dotfiles) - :computer: my dotfiles (MacOS)
 - [nicksp/dotfiles](https://github.com/nicksp/dotfiles) - My OS X environment
 - [vincentcox/bypass-firewalls-by-DNS-history](https://github.com/vincentcox/bypass-firewalls-by-DNS-history) - Firewall bypass script based on DNS history records. This script will search for DNS A history records and check if the server replies for that domain. Handy for bugbounty hunters.
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
@@ -10660,6 +10683,7 @@
 
 ## VBA 
 
+- [jimbrig/xl-config](https://github.com/jimbrig/xl-config) - Excel Configurations
 - [BriargateExcel/Personal_xlsb](https://github.com/BriargateExcel/Personal_xlsb) - Personal.xlsb
 - [BriargateExcel/Error_Handling](https://github.com/BriargateExcel/Error_Handling) - VBA code handling errors
 - [BriargateExcel/VBATableManagement](https://github.com/BriargateExcel/VBATableManagement) - Routines to move data between tables and VBA dictionaries
@@ -10676,6 +10700,7 @@
 
 ## VBScript 
 
+- [jimbrig/Snippets](https://github.com/jimbrig/Snippets) - Variety of Code Snippets
 - [Digressive/MDT-Files](https://github.com/Digressive/MDT-Files) - Files for Microsoft Deployment Toolkit
 - [farag2/Office](https://github.com/farag2/Office) - Download and setup Office 2019/2021/365
 - [rickstaa/todoist-global-shortcuts-WIN10](https://github.com/rickstaa/todoist-global-shortcuts-WIN10) - Since TODOIST its Windows 10 app doesn’t support global shortcuts at the moment. I made a little workaround for the "open TODOIST" global shortcut.
@@ -10750,6 +10775,7 @@
 
 ## Visual Basic 
 
+- [CalebSerafin/Combo-Link](https://github.com/CalebSerafin/Combo-Link) - Makes, links and syncs different data sheets into Summery sheets.
 - [apfernandes/excelToMarkdown](https://github.com/apfernandes/excelToMarkdown) - Converts the selected Excel range to a markdown table
 - [IvanBond/Power-Refresh-VBScript](https://github.com/IvanBond/Power-Refresh-VBScript) - Visual Basic Script Refresher for Excel files with Power Query and PowerPivot model
 - [IvanBond/Power-Refresh](https://github.com/IvanBond/Power-Refresh) - Schedule refresh of any Excel file using open-source scheduler & refresher written on VBA
@@ -10761,6 +10787,7 @@
 
 ## Visual Basic .NET 
 
+- [skuehlshelby/RibbonX-Builder](https://github.com/skuehlshelby/RibbonX-Builder) - A series of wrapper objects which provide a convenient .NET API for the MS Office Ribbon UI. Provides utilities for validating your ribbon modifications without the use of an MS Office host. Also provides tools to convert bitmaps to the OLE IPictureDisp interface, facilities for mocking user-interaction with an Office host application, and more!
 - [mjfii/TSQL-EnterpriseDataWarehouse-Framework](https://github.com/mjfii/TSQL-EnterpriseDataWarehouse-Framework) - Enterprise Data Warehouse Framework
 - [euzzeud/GetWindows11Utility](https://github.com/euzzeud/GetWindows11Utility) - A utility that allows you to download the ISO of the Windows 11!
 - [xBidoof/FileWatcher](https://github.com/xBidoof/FileWatcher) - FileWatcher application for Windows only
