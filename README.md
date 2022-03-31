@@ -141,6 +141,7 @@
 
 ## AutoHotkey 
 
+- [spences10/autohotkey](https://github.com/spences10/autohotkey) - 
 - [erbanku/awesome-autohotkey](https://github.com/erbanku/awesome-autohotkey) - Useful AutoHotkey scripts and commands that can increase your productivity, and make your life easier
 - [N1x0/Winconfig](https://github.com/N1x0/Winconfig) - Personal configuration for windows 10 (1903/1909)
 - [Ae3NerdGod/Windows11.Context.Menu.Hack](https://github.com/Ae3NerdGod/Windows11.Context.Menu.Hack) - Automatically opens the "show more" context menu in windows 11
@@ -412,6 +413,8 @@
 
 ## C# # 
 
+- [microsoft/MSIX-Toolkit](https://github.com/microsoft/MSIX-Toolkit) - MSIX toolkit is a collection of tools for users managing MSIX packages. The toolkit includes tools like appinstaller file generator, ComparePackage visualizer and frequently used PowerShell scripts.
+- [Alex-Butenko/OpenXML-for-VSTO](https://github.com/Alex-Butenko/OpenXML-for-VSTO) - Enable OpenXML for VSTO add-ins
 - [swilliams96/Excel-Flat-File-Converter](https://github.com/swilliams96/Excel-Flat-File-Converter) - A simple command-line tool to remove all formulas, database queries, external links, etc. from an Excel file, but maintaining formatting.
 - [fernandreu/office-ribbonx-editor](https://github.com/fernandreu/office-ribbonx-editor) - An overhauled fork of the original Custom UI Editor for Microsoft Office, built with WPF
 - [awslabs/aws-apigateway-lambda-authorizer-blueprints](https://github.com/awslabs/aws-apigateway-lambda-authorizer-blueprints) - Blueprints and examples for Lambda-based custom Authorizers for use in API Gateway.
@@ -682,7 +685,7 @@
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
 - [nx10/httpgd](https://github.com/nx10/httpgd) - Asynchronous http server graphics device for R.
 - [Enchufa2/Rtins](https://github.com/Enchufa2/Rtins) - Tools for Reading and Parsing Network Packet Capture (PCAP) Files in R
-- [turtiustrek/taskmanager](https://github.com/turtiustrek/taskmanager) - Draw bitmaps on a windows 10 task manager!
+- [turtiustrek/taskmanager](https://github.com/turtiustrek/taskmanager) - Draw bitmaps on a windows 10/11 task manager!
 - [mbedward/packcircles](https://github.com/mbedward/packcircles) - R package for circle packing
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [canonical/ubuntu-cooker-ingredients](https://github.com/canonical/ubuntu-cooker-ingredients) - Additional Resources for Ubuntu Cooker
@@ -1545,6 +1548,7 @@
 
 ## HTML 
 
+- [M-Scott-Lassiter/Excel-File-Cataloger](https://github.com/M-Scott-Lassiter/Excel-File-Cataloger) - Builds an easy to search webpage that tags and catalogs all the files and folders from a specified directory.
 - [ClaudioZandonella/trackdown](https://github.com/ClaudioZandonella/trackdown) - R package for collaborative writing and editing of R Markdown (or Sweave) documents in Google Docs.
 - [caiorss/bookmarklet-maker](https://github.com/caiorss/bookmarklet-maker) - Tool to create bookmarklet/ javascript apps to automate the web browser.
 - [aws-samples/bring-your-own-data-labs](https://github.com/aws-samples/bring-your-own-data-labs) - Bring your own data Labs: Build a serverless data pipeline based on your own data
@@ -2645,7 +2649,7 @@
 - [webfactory/ssh-agent](https://github.com/webfactory/ssh-agent) - GitHub Action to setup `ssh-agent` with a private key
 - [pjeby/hot-reload](https://github.com/pjeby/hot-reload) - Automatically reload Obsidian plugins in development when their files are changed
 - [appbaseio/reactivesearch](https://github.com/appbaseio/reactivesearch) - Search UI components for React and Vue: powered by appbase.io / Elasticsearch
-- [AliasIO/wappalyzer](https://github.com/AliasIO/wappalyzer) - Identify technology on websites.
+- [wappalyzer/wappalyzer](https://github.com/wappalyzer/wappalyzer) - Identify technology on websites.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
@@ -2860,6 +2864,7 @@
 - [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [DE-RSE/de-rse.github.io](https://github.com/DE-RSE/de-rse.github.io) - Web repository
 - [domitriusclark/mdnext](https://github.com/domitriusclark/mdnext) - The opinionated ecosystem for MDX powered NextJS apps for blogs, documentation, and more.
+- [WojciechMatuszewski/programming-notes](https://github.com/WojciechMatuszewski/programming-notes) - Programming notes. About anything really.
 - [mgsloan/todoist-shortcuts](https://github.com/mgsloan/todoist-shortcuts) - Comprehensive keyboard shortcuts for Todoist, via browser extension
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [westurner/tools](https://github.com/westurner/tools) - https://westurner.org/tools
@@ -3484,6 +3489,9 @@
 
 ## Others 
 
+- [spences10/vscode-vba-icons](https://github.com/spences10/vscode-vba-icons) - Simple VBA IDE icons theme for VSCode
+- [spences10/vba-snippets](https://github.com/spences10/vba-snippets) - VBA code snippets for Microsoft VSCode.
+- [M-Scott-Lassiter/github-issue-templates](https://github.com/M-Scott-Lassiter/github-issue-templates) - :symbols: A collection of GitHub issue and pull request templates
 - [feddelegrand7/shinysnip](https://github.com/feddelegrand7/shinysnip) - 👽 👽 👽 VSCode Extension for Generating Shiny Code Snippets.
 - [jimbrig/VBASuite](https://github.com/jimbrig/VBASuite) - Excel VBA Suite
 - [tallguyjenks/DevLog](https://github.com/tallguyjenks/DevLog) - 🌱️ My DevLog detailing my learnings in Tech 🌱️
@@ -4154,7 +4162,6 @@
 - [courtiol/Rguides](https://github.com/courtiol/Rguides) - Alternative cheat sheets for R
 - [datasnakes/awesome-reproducible-R](https://github.com/datasnakes/awesome-reproducible-R) - An awesome list of resources for reproducible research in R.  Includes a table of comparison for different tools.
 - [maxx1128/Webdev-Study-Notes](https://github.com/maxx1128/Webdev-Study-Notes) - Notebook on programming, web development, nonfiction, and some fiction (ARCHIVED)
-- [WojciechMatuszewski/programming-notes](https://github.com/WojciechMatuszewski/programming-notes) - Programming notes. About anything really.
 - [Aniruddha-Tapas/Operating-Systems-Notes](https://github.com/Aniruddha-Tapas/Operating-Systems-Notes) - :books: Compendium of all the important OS concepts and key points. https://applied-programming.github.io/Operating-Systems-Notes/
 - [yang/notes](https://github.com/yang/notes) - Gitit wiki notes on computer science and programming
 - [randyviandaputra/programming-notes](https://github.com/randyviandaputra/programming-notes) - Semua catatan tentang teknologi dan development 😎
@@ -4625,6 +4632,7 @@
 
 ## PLpgSQL 
 
+- [spences10/VBA-Import-Eport-to-SQL-Server](https://github.com/spences10/VBA-Import-Eport-to-SQL-Server) - Excel with validation for a SQL server backend
 - [tanglebones/pg_history_tracking](https://github.com/tanglebones/pg_history_tracking) - History Tracking trigger for Postgresql
 - [cybertec-postgresql/pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - PostgreSQL metrics monitor/dashboard
 - [e-alizadeh/sample_dbt_project](https://github.com/e-alizadeh/sample_dbt_project) - Companion template repo for the blog post "dbt for Data Transformation - A Hands-on Tutorial" (https://ealizadeh.com/blog/dbt-tutorial)
@@ -4665,6 +4673,9 @@
 
 ## Pascal 
 
+- [bovender/VstoAddinInstaller](https://github.com/bovender/VstoAddinInstaller) - Generic InnoSetup script to install VSTO add-ins.
+- [bovender/ExcelAddinInstaller](https://github.com/bovender/ExcelAddinInstaller) - InnoSetup script to install and activate Excel addins.
+- [v20100v/deploy-microsoft-office-extensions](https://github.com/v20100v/deploy-microsoft-office-extensions) - Helper to deploy Microsoft Office Extensions, like Excel or Word VBA macros, add custom actions in Office Ribbon, with InnoSetup. We use this solution in order to make easy installation and deployment of VBA macros stored in *.xlam or *.dotm files.
 - [delphidabbler/bdiff](https://github.com/delphidabbler/bdiff) - Binary diff and patch programs for the Windows command line
 - [miracle2k/ntfslink](https://github.com/miracle2k/ntfslink) - A set of Windows Shell Extensions, providing extended functionality for creating and using hard links and junction points on NTFS file systems.
 - [jrsoftware/issrc](https://github.com/jrsoftware/issrc) - Inno Setup is a free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.
@@ -4691,6 +4702,8 @@
 
 ## PowerShell 
 
+- [gwblok/garytown](https://github.com/gwblok/garytown) - GaryTown Scripts, Downloads, Etc
+- [12Knocksinna/Office365itpros](https://github.com/12Knocksinna/Office365itpros) - Office 365 for IT Pros PowerShell examples
 - [zurkon/windows-terminal-pwsh-101](https://github.com/zurkon/windows-terminal-pwsh-101) - Step-by-step tutorial to customize the Windows Terminal and Powershell Core
 - [awslabs/aws-ecs-logs-collector-for-windows](https://github.com/awslabs/aws-ecs-logs-collector-for-windows) - The script will be used to collect general os logs as well as Docker and ecs-agent logs, it also support to enable debug mode for docker and ecs-agent in Windows 2016.
 - [awslabs/aws-powershell-extensions](https://github.com/awslabs/aws-powershell-extensions) - The extensions for AWS Tools for PowerShell provide workflow enhancements on top of the core AWSPowerShell module.
@@ -5347,6 +5360,8 @@
 
 ## Python 
 
+- [oschuett/appmode](https://github.com/oschuett/appmode) - A Jupyter extensions that turns notebooks into web applications.
+- [Teraskull/pywizlight](https://github.com/Teraskull/pywizlight) - A python connector for WiZ devices
 - [Mara-Li/mkdocs_embed_file_plugins](https://github.com/Mara-Li/mkdocs_embed_file_plugins) - A way to embed a file present in your docs
 - [tallguyjenks/obsidian_cli](https://github.com/tallguyjenks/obsidian_cli) - A helpful tool to make creation of literature notes in obsidian all the easier with cli quick capture
 - [awslabs/rds-snapshot-tool](https://github.com/awslabs/rds-snapshot-tool) - The Snapshot Tool for Amazon RDS automates the task of creating manual snapshots, copying them into a different account and a different region, and deleting them after a specified number of days
@@ -8459,7 +8474,7 @@
 - [jimbrig/jimstools](https://github.com/jimbrig/jimstools) - Personal R Package
 - [dreamRs/shinybusy](https://github.com/dreamRs/shinybusy) - Minimal busy indicator for Shiny apps
 - [EvaMaeRey/flipbookr](https://github.com/EvaMaeRey/flipbookr) - Presenting code step-by-step and side-by-side with its output
-- [tmakowski/sendeR](https://github.com/tmakowski/sendeR) - R package providing a simple interface for sending messages.
+- [TymekDev/sendeR](https://github.com/TymekDev/sendeR) - R package providing a simple interface for sending messages.
 - [joachim-gassen/ExPanDaR](https://github.com/joachim-gassen/ExPanDaR) - R Package for Interactive Panel Data Exploration
 - [benubah/r-community-explorer](https://github.com/benubah/r-community-explorer) - Data-Driven Exploration of the R Community
 - [jbullock35/Bullock](https://github.com/jbullock35/Bullock) - R package. Tools for table-making and miscellaneous utilities. Used in my code.
@@ -10231,6 +10246,7 @@
 
 ## TypeScript 
 
+- [spences10/vscode-vba](https://github.com/spences10/vscode-vba) - VBA syntax highlighting and snippets for use in VSCode
 - [kometenstaub/obsidian-linked-data-vocabularies](https://github.com/kometenstaub/obsidian-linked-data-vocabularies) - Add linked data to the YAML of your Obsidian notes.
 - [MSzturc/obsidian-better-pdf-plugin](https://github.com/MSzturc/obsidian-better-pdf-plugin) - Goal of this Plugin in to implement a native PDF handling workflow in Obsidian
 - [awslabs/diagram-maker](https://github.com/awslabs/diagram-maker) - A library to display an interactive editor for any graph-like data.
@@ -10683,6 +10699,9 @@
 
 ## VBA 
 
+- [spences10/VBA-IDE-Code-Export](https://github.com/spences10/VBA-IDE-Code-Export) - Export & Import VBA code for use with Git (or any VCS)
+- [M-Scott-Lassiter/VBA-Directory-Manager](https://github.com/M-Scott-Lassiter/VBA-Directory-Manager) - Easily parse folders and files in your VBA scripts.
+- [M-Scott-Lassiter/Fred-the-Developer](https://github.com/M-Scott-Lassiter/Fred-the-Developer) - Enhance your projects with a standalone VBA development framework that provides debugging, source control, and Test Driven Development tools with 100% VBA.
 - [jimbrig/xl-config](https://github.com/jimbrig/xl-config) - Excel Configurations
 - [BriargateExcel/Personal_xlsb](https://github.com/BriargateExcel/Personal_xlsb) - Personal.xlsb
 - [BriargateExcel/Error_Handling](https://github.com/BriargateExcel/Error_Handling) - VBA code handling errors
@@ -10775,6 +10794,7 @@
 
 ## Visual Basic 
 
+- [spences10/vba-custom-calendar-control](https://github.com/spences10/vba-custom-calendar-control) - vba-custom-calendar-control
 - [CalebSerafin/Combo-Link](https://github.com/CalebSerafin/Combo-Link) - Makes, links and syncs different data sheets into Summery sheets.
 - [apfernandes/excelToMarkdown](https://github.com/apfernandes/excelToMarkdown) - Converts the selected Excel range to a markdown table
 - [IvanBond/Power-Refresh-VBScript](https://github.com/IvanBond/Power-Refresh-VBScript) - Visual Basic Script Refresher for Excel files with Power Query and PowerPivot model
