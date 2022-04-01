@@ -33,6 +33,7 @@
   - [Emacs Lisp](#emacs-lisp)
   - [Erlang](#erlang)
   - [F#](#f#)
+  - [Fortran](#fortran)
   - [FreeBasic](#freebasic)
   - [FreeMarker](#freemarker)
   - [Frege](#frege)
@@ -168,6 +169,7 @@
 
 ## Batchfile 
 
+- [cavo789/excel_ribbon](https://github.com/cavo789/excel_ribbon) - Programmer's guide to creating a Ribbon for MS Excel
 - [franzageek/Cledge-Shell](https://github.com/franzageek/Cledge-Shell) - A simple shell made in Batch that simplify your daily actions.
 - [franzageek/Vapor](https://github.com/franzageek/Vapor) - A script which, with the help of ViVeTool, lets you to enable tabs in Windows 11's Explorer.
 - [LordOfMice/hidusbf](https://github.com/LordOfMice/hidusbf) - USB Mice Overclocking Software (for Windows)
@@ -413,6 +415,8 @@
 
 ## C# # 
 
+- [jpcarrascal/ExcelAutoPaste](https://github.com/jpcarrascal/ExcelAutoPaste) - Excel add-in that monitors your clipboard and automatically pastes copied text into the active worksheet.
+- [gyokaynurvet/SierraLibrary](https://github.com/gyokaynurvet/SierraLibrary) - Excel custom functions add-in for SIERRA LMS.
 - [microsoft/MSIX-Toolkit](https://github.com/microsoft/MSIX-Toolkit) - MSIX toolkit is a collection of tools for users managing MSIX packages. The toolkit includes tools like appinstaller file generator, ComparePackage visualizer and frequently used PowerShell scripts.
 - [Alex-Butenko/OpenXML-for-VSTO](https://github.com/Alex-Butenko/OpenXML-for-VSTO) - Enable OpenXML for VSTO add-ins
 - [swilliams96/Excel-Flat-File-Converter](https://github.com/swilliams96/Excel-Flat-File-Converter) - A simple command-line tool to remove all formulas, database queries, external links, etc. from an Excel file, but maintaining formatting.
@@ -430,7 +434,7 @@
 - [Visio-projects/Visio-Shape-Extract](https://github.com/Visio-projects/Visio-Shape-Extract) - :arrow_heading_down: This VSTO Add-In extracts the shape attributes' text from a Microsoft Visio file. It is written as VSTO in C#/VB.NET and VBA.
 - [saveenr/VisioAutomation](https://github.com/saveenr/VisioAutomation) - Automate Microsoft Visio with .NET
 - [yorek/awesome-azure-sql](https://github.com/yorek/awesome-azure-sql) - An awesome list of Azure SQL samples for Developers of any Language and Platform
-- [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The next chapter of the Sophia Script project. A GUI app for fine-tuning and tweaking Windows 10 & Windows 11 (in the future)
+- [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerfull open source tweaker for fine-tuning Windows 10 & Windows 11. The next chapter of the Sophia Script project.
 - [microsoft/sqltoolsservice](https://github.com/microsoft/sqltoolsservice) - SQL Tools API service that provides SQL Server data management capabilities.
 - [branch-app/branch](https://github.com/branch-app/branch) - Advanced Halo Stats
 - [red-gate/spawn-demo](https://github.com/red-gate/spawn-demo) - Demo application to show how Spawn can be integrated in Development and CI
@@ -663,6 +667,7 @@
 
 ## C++ 
 
+- [Jaehui-Lee/CLI-Excel](https://github.com/Jaehui-Lee/CLI-Excel) - Excel program running in CLI environment
 - [Rprop/GitHubDownloader](https://github.com/Rprop/GitHubDownloader) - download a single folder or directory from a GitHub repository
 - [pgmodeler/pgmodeler](https://github.com/pgmodeler/pgmodeler) - Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you!
 - [jarulraj/sqlcheck](https://github.com/jarulraj/sqlcheck) - Automatically identify anti-patterns in SQL queries
@@ -818,7 +823,7 @@
 - [r-lib/later](https://github.com/r-lib/later) - Schedule an R function or formula to run after a specified period of time.
 - [r-dbi/odbc](https://github.com/r-dbi/odbc) - Connect to ODBC databases (using the DBI interface)
 - [ropensci/pdftools](https://github.com/ropensci/pdftools) - Text Extraction, Rendering and Converting of PDF Documents
-- [r-lib/vroom](https://github.com/r-lib/vroom) - Fast reading of delimited files
+- [tidyverse/vroom](https://github.com/tidyverse/vroom) - Fast reading of delimited files
 - [sdllc/Basic-Excel-R-Toolkit](https://github.com/sdllc/Basic-Excel-R-Toolkit) - 
 - [hadley/purrrlyr](https://github.com/hadley/purrrlyr) - Tools at the intersection of purrr and dplyr
 
@@ -1173,6 +1178,10 @@
 - [dotnet/fsharp](https://github.com/dotnet/fsharp) - The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio
 - [fsprojects/Paket](https://github.com/fsprojects/Paket) - A dependency manager for .NET with support for NuGet packages and Git repositories.
 
+## Fortran 
+
+- [wrf-model/WRF](https://github.com/wrf-model/WRF) - The official repository for the Weather Research and Forecasting (WRF) model
+
 ## FreeBasic 
 
 - [ReneNyffenegger/VBAModules](https://github.com/ReneNyffenegger/VBAModules) - Modules for Visualb Basic for Applications
@@ -1190,6 +1199,7 @@
 
 ## Go 
 
+- [supabase/cli](https://github.com/supabase/cli) - Supabase CLI
 - [square/password-rotation-lambda](https://github.com/square/password-rotation-lambda) - Password rotation function for AWS Lambda and Secrets Manager
 - [trackit/trackit](https://github.com/trackit/trackit) - Trackit helps you understand and improve your use of AWS
 - [cubeFS/cubefs](https://github.com/cubeFS/cubefs) - CubeFS(formerly ChubaoFS) is a cloud native distributed file system and object store.
@@ -1682,7 +1692,6 @@
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
 - [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization
 - [topepo/an-introduction-to-tidymodels](https://github.com/topepo/an-introduction-to-tidymodels) - Overview of our packages
-- [microsoft/datamations](https://github.com/microsoft/datamations) - 
 - [seankross/postcards](https://github.com/seankross/postcards) - 💌 Create simple, beautiful personal websites and landing pages using only R Markdown.
 - [jimbrig/obsidian_published](https://github.com/jimbrig/obsidian_published) - Using mkdocs to publish my obsidian vault. Main repo for the vault is https://github.com/jimbrig/obsidian_vault
 - [StefanoCecere/markdown_pandoc_book_template](https://github.com/StefanoCecere/markdown_pandoc_book_template) - a template to create pdf/ePub/html/docx books by Markdown via Pandoc
@@ -2507,6 +2516,7 @@
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [taher07/dockerized-react-native](https://github.com/taher07/dockerized-react-native) - This repo contains the files required for building a docker container to build an expo managed react native app
+- [microsoft/datamations](https://github.com/microsoft/datamations) - 
 - [GoogleCloudPlatform/cloud-code-custom-samples-example](https://github.com/GoogleCloudPlatform/cloud-code-custom-samples-example) - Example of configuring a Custom Samples repository for Cloud Code
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [APIDevTools/swagger-parser](https://github.com/APIDevTools/swagger-parser) - Swagger 2.0 and OpenAPI 3.0 parser/validator
@@ -4640,7 +4650,6 @@
 - [pgspider/parquet_s3_fdw](https://github.com/pgspider/parquet_s3_fdw) - 
 - [theory/pg-semver](https://github.com/theory/pg-semver) - A semantic version data type for PostgreSQL
 - [supabase/supa_audit](https://github.com/supabase/supa_audit) - Generic Table Auditing
-- [supabase/cli](https://github.com/supabase/cli) - Supabase CLI
 - [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
 - [aiven/aiven-extras](https://github.com/aiven/aiven-extras) - Aiven PostgreSQL® extras
 - [duneanalytics/abstractions](https://github.com/duneanalytics/abstractions) - SQL views for Dune Analytics
@@ -5360,6 +5369,8 @@
 
 ## Python 
 
+- [sevagas/macro_pack](https://github.com/sevagas/macro_pack) - macro_pack is a tool by @EmericNasi used to automatize obfuscation and generation of Office documents, VB scripts, shortcuts, and other formats for pentest, demo, and social engineering assessments. The goal of macro_pack is to simplify exploitation, antimalware bypass, and automatize the process from malicious macro and script generation to final document generation. It also provides a lot of helpful features useful for redteam or security research.
+- [airstrike/xlbuilder](https://github.com/airstrike/xlbuilder) - Parse annotated VBA modules and build a Microsoft Excel Add-In from the CLI
 - [oschuett/appmode](https://github.com/oschuett/appmode) - A Jupyter extensions that turns notebooks into web applications.
 - [Teraskull/pywizlight](https://github.com/Teraskull/pywizlight) - A python connector for WiZ devices
 - [Mara-Li/mkdocs_embed_file_plugins](https://github.com/Mara-Li/mkdocs_embed_file_plugins) - A way to embed a file present in your docs
@@ -7147,7 +7158,7 @@
 - [ropensci/osmextract](https://github.com/ropensci/osmextract) - Download and import OpenStreetMap data from Geofabrik and other providers
 - [kcuilla/Shiny_home_valuation_model](https://github.com/kcuilla/Shiny_home_valuation_model) - 
 - [kcuilla/swapir](https://github.com/kcuilla/swapir) - swapir package
-- [kcuilla/reactablefmtr](https://github.com/kcuilla/reactablefmtr) - Customize and Enhance Your Reactable Table
+- [kcuilla/reactablefmtr](https://github.com/kcuilla/reactablefmtr) - Streamlined Table Styling and Formatting for Reactable
 - [zonebuilders/zonebuilder](https://github.com/zonebuilders/zonebuilder) - Divide geographic space into discrete chunks
 - [jeroen/maketools](https://github.com/jeroen/maketools) - Exploring and Testing your Toolchain Configuration and System Packages
 - [SchmidtPaul/CitaviR](https://github.com/SchmidtPaul/CitaviR) - A set of tools for dealing with Citavi data in R
@@ -8046,6 +8057,7 @@
 - [amrrs/sample_revenue_dashboard_shiny](https://github.com/amrrs/sample_revenue_dashboard_shiny) - Code and Plots used in the article of Revenue Dashboard
 - [irworkshop/campfin](https://github.com/irworkshop/campfin) - R package to help wrangle campaign finance data 💸
 - [workflowr/workflowr](https://github.com/workflowr/workflowr) - Organize your project into a research website
+- [r-hub/r-builder](https://github.com/r-hub/r-builder) - Tools to build R
 - [snystrom/cmdfun](https://github.com/snystrom/cmdfun) - Framework for building R interfaces to shell commands
 - [r-prof/procmaps](https://github.com/r-prof/procmaps) - Portable Address Space Mapping in R
 - [geoffwlamb/checklist](https://github.com/geoffwlamb/checklist) - Create Checklists in RStudio
@@ -10062,7 +10074,6 @@
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [csgillespie/dotfiles](https://github.com/csgillespie/dotfiles) - My dotfiles
 - [rocker-org/rocker](https://github.com/rocker-org/rocker) - R configurations for Docker
-- [r-hub/r-builder](https://github.com/r-hub/r-builder) - Tools to build R
 - [iridakos/goto](https://github.com/iridakos/goto) - Alias and navigate to directories with tab completion in Linux
 - [2KAbhishek/ghpm](https://github.com/2KAbhishek/ghpm) - The GitHub Project Manager 👩‍💻⚙
 - [benwinding/dotfiles](https://github.com/benwinding/dotfiles) - ben's dotfiles
@@ -10246,6 +10257,7 @@
 
 ## TypeScript 
 
+- [xsoulspace/sheets_manager_excel_addin](https://github.com/xsoulspace/sheets_manager_excel_addin) - Web Addin for easy Excel sheets management
 - [spences10/vscode-vba](https://github.com/spences10/vscode-vba) - VBA syntax highlighting and snippets for use in VSCode
 - [kometenstaub/obsidian-linked-data-vocabularies](https://github.com/kometenstaub/obsidian-linked-data-vocabularies) - Add linked data to the YAML of your Obsidian notes.
 - [MSzturc/obsidian-better-pdf-plugin](https://github.com/MSzturc/obsidian-better-pdf-plugin) - Goal of this Plugin in to implement a native PDF handling workflow in Obsidian
@@ -10699,6 +10711,9 @@
 
 ## VBA 
 
+- [stanislavsabev/fx_toolbox_addin](https://github.com/stanislavsabev/fx_toolbox_addin) - Excel Add-In with Ribbon menu 'FX' to add useful functionalities
+- [brianferguson/excel-addins](https://github.com/brianferguson/excel-addins) - A collection of add-ins I use with Excel.
+- [pyscripter/XLRisk](https://github.com/pyscripter/XLRisk) - Excell addin for performing Monte Carlo simulation
 - [spences10/VBA-IDE-Code-Export](https://github.com/spences10/VBA-IDE-Code-Export) - Export & Import VBA code for use with Git (or any VCS)
 - [M-Scott-Lassiter/VBA-Directory-Manager](https://github.com/M-Scott-Lassiter/VBA-Directory-Manager) - Easily parse folders and files in your VBA scripts.
 - [M-Scott-Lassiter/Fred-the-Developer](https://github.com/M-Scott-Lassiter/Fred-the-Developer) - Enhance your projects with a standalone VBA development framework that provides debugging, source control, and Test Driven Development tools with 100% VBA.
@@ -10719,6 +10734,7 @@
 
 ## VBScript 
 
+- [cavo789/vbs_xls_list_references](https://github.com/cavo789/vbs_xls_list_references) - Retrieve the list of references used in an Excel file (.xlam files f.i.) and display them on the console. Loop and process all Excel files in the current folder
 - [jimbrig/Snippets](https://github.com/jimbrig/Snippets) - Variety of Code Snippets
 - [Digressive/MDT-Files](https://github.com/Digressive/MDT-Files) - Files for Microsoft Deployment Toolkit
 - [farag2/Office](https://github.com/farag2/Office) - Download and setup Office 2019/2021/365
@@ -10794,6 +10810,7 @@
 
 ## Visual Basic 
 
+- [yakenohara/ExcelVBA-CellSearchingUtility](https://github.com/yakenohara/ExcelVBA-CellSearchingUtility) - 
 - [spences10/vba-custom-calendar-control](https://github.com/spences10/vba-custom-calendar-control) - vba-custom-calendar-control
 - [CalebSerafin/Combo-Link](https://github.com/CalebSerafin/Combo-Link) - Makes, links and syncs different data sheets into Summery sheets.
 - [apfernandes/excelToMarkdown](https://github.com/apfernandes/excelToMarkdown) - Converts the selected Excel range to a markdown table
