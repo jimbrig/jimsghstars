@@ -415,6 +415,8 @@
 
 ## C# # 
 
+- [github/gh-gei](https://github.com/github/gh-gei) - 
+- [Excel-DNA/ExcelDna](https://github.com/Excel-DNA/ExcelDna) - Excel-DNA - Free and easy .NET for Excel. This repository contains the core Excel-DNA library.
 - [jpcarrascal/ExcelAutoPaste](https://github.com/jpcarrascal/ExcelAutoPaste) - Excel add-in that monitors your clipboard and automatically pastes copied text into the active worksheet.
 - [gyokaynurvet/SierraLibrary](https://github.com/gyokaynurvet/SierraLibrary) - Excel custom functions add-in for SIERRA LMS.
 - [microsoft/MSIX-Toolkit](https://github.com/microsoft/MSIX-Toolkit) - MSIX toolkit is a collection of tools for users managing MSIX packages. The toolkit includes tools like appinstaller file generator, ComparePackage visualizer and frequently used PowerShell scripts.
@@ -1199,6 +1201,27 @@
 
 ## Go 
 
+- [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines
+- [benbjohnson/postlite](https://github.com/benbjohnson/postlite) - Postgres wire compatible SQLite proxy.
+- [joaom00/gh-discussion](https://github.com/joaom00/gh-discussion) - GitHub CLI extension for fuzzy finding discussions
+- [einride/gh-dependabot](https://github.com/einride/gh-dependabot) - GitHub CLI extension for reviewing Dependabot PRs.
+- [vilmibm/gh-oblique](https://github.com/vilmibm/gh-oblique) - a gh extension that prints out an oblique strategy
+- [meiji163/gh-search](https://github.com/meiji163/gh-search) - GitHub CLI extension to search for repositories
+- [rsese/gh-actions-status](https://github.com/rsese/gh-actions-status) - 
+- [gennaro-tedesco/gh-i](https://github.com/gennaro-tedesco/gh-i) - 🔎 search your github issues interactively
+- [vilmibm/gh-contribute](https://github.com/vilmibm/gh-contribute) - Small gh extension that suggests issues to work on in a given GitHub repository
+- [johnmanjiro13/gh-bump](https://github.com/johnmanjiro13/gh-bump) - gh extension for bumping version of a repository
+- [samcoe/gh-repo-explore](https://github.com/samcoe/gh-repo-explore) - GitHub CLI extension to interactively explore a repo without cloning
+- [heaths/gh-label](https://github.com/heaths/gh-label) - GitHub CLI extension for label management
+- [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 a CLI app can send pretty HTTP & API requests with TUI
+- [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches
+- [vilmibm/gh-user-status](https://github.com/vilmibm/gh-user-status) - set and get github user statuses
+- [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
+- [k1LoW/gh-grep](https://github.com/k1LoW/gh-grep) - :octocat: Print lines matching a pattern in repositories using GitHub API
+- [vilmibm/gh-screensaver](https://github.com/vilmibm/gh-screensaver) - full terminal animations
+- [gennaro-tedesco/gh-s](https://github.com/gennaro-tedesco/gh-s) - 🔎 search github repositories interactively
+- [barthr/redo](https://github.com/barthr/redo) - Redo is the ultimate tool to create aliases from your history in an interactive way
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - gh cli extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
 - [supabase/cli](https://github.com/supabase/cli) - Supabase CLI
 - [square/password-rotation-lambda](https://github.com/square/password-rotation-lambda) - Password rotation function for AWS Lambda and Secrets Manager
 - [trackit/trackit](https://github.com/trackit/trackit) - Trackit helps you understand and improve your use of AWS
@@ -1558,6 +1581,8 @@
 
 ## HTML 
 
+- [devOpifex/titan](https://github.com/devOpifex/titan) - Prometheus monitoring for shiny applications, plumber APIs, and other R web services
+- [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [M-Scott-Lassiter/Excel-File-Cataloger](https://github.com/M-Scott-Lassiter/Excel-File-Cataloger) - Builds an easy to search webpage that tags and catalogs all the files and folders from a specified directory.
 - [ClaudioZandonella/trackdown](https://github.com/ClaudioZandonella/trackdown) - R package for collaborative writing and editing of R Markdown (or Sweave) documents in Google Docs.
 - [caiorss/bookmarklet-maker](https://github.com/caiorss/bookmarklet-maker) - Tool to create bookmarklet/ javascript apps to automate the web browser.
@@ -1692,6 +1717,7 @@
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
 - [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization
 - [topepo/an-introduction-to-tidymodels](https://github.com/topepo/an-introduction-to-tidymodels) - Overview of our packages
+- [microsoft/datamations](https://github.com/microsoft/datamations) - 
 - [seankross/postcards](https://github.com/seankross/postcards) - 💌 Create simple, beautiful personal websites and landing pages using only R Markdown.
 - [jimbrig/obsidian_published](https://github.com/jimbrig/obsidian_published) - Using mkdocs to publish my obsidian vault. Main repo for the vault is https://github.com/jimbrig/obsidian_vault
 - [StefanoCecere/markdown_pandoc_book_template](https://github.com/StefanoCecere/markdown_pandoc_book_template) - a template to create pdf/ePub/html/docx books by Markdown via Pandoc
@@ -2516,7 +2542,6 @@
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [taher07/dockerized-react-native](https://github.com/taher07/dockerized-react-native) - This repo contains the files required for building a docker container to build an expo managed react native app
-- [microsoft/datamations](https://github.com/microsoft/datamations) - 
 - [GoogleCloudPlatform/cloud-code-custom-samples-example](https://github.com/GoogleCloudPlatform/cloud-code-custom-samples-example) - Example of configuring a Custom Samples repository for Cloud Code
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [APIDevTools/swagger-parser](https://github.com/APIDevTools/swagger-parser) - Swagger 2.0 and OpenAPI 3.0 parser/validator
@@ -2543,7 +2568,7 @@
 - [sqorn/sqorn](https://github.com/sqorn/sqorn) - A Javascript library for building SQL queries
 - [sqlpad/sqlpad](https://github.com/sqlpad/sqlpad) - Web-based SQL editor run in your own private cloud. Supports MySQL, Postgres, SQL Server, Vertica, Crate, ClickHouse, Trino, Presto, SAP HANA, Cassandra, Snowflake, BigQuery, SQLite, and more with ODBC
 - [brianc/node-postgres](https://github.com/brianc/node-postgres) - PostgreSQL client for node.js.
-- [mndaniel/MpesaLNMApp-UITemplate](https://github.com/mndaniel/MpesaLNMApp-UITemplate) - Fullstack MpesaC2BIntegration | NodeJs & MongoDB | Frontend Boilerplate code
+- [studiolima/MpesaLNMApp-UITemplate](https://github.com/studiolima/MpesaLNMApp-UITemplate) - Fullstack MpesaC2BIntegration | NodeJs & MongoDB | Frontend Boilerplate code
 - [thatfiredev/mpesa-node-api](https://github.com/thatfiredev/mpesa-node-api) - NodeJS library for M-Pesa API (🇲🇿 Mozambique)
 - [kamikazechaser/mpesa-mwitu](https://github.com/kamikazechaser/mpesa-mwitu) - 📲 A simple personal M-Pesa API gateway accesible via REST (PoC)
 - [paymentsds/mpesa-js-sdk](https://github.com/paymentsds/mpesa-js-sdk) - A JavaScript library aiming to help developers integrating their products with M-Pesa Platform
@@ -3499,6 +3524,7 @@
 
 ## Others 
 
+- [yu1hpa/awesome-gh](https://github.com/yu1hpa/awesome-gh) - awesome-gh
 - [spences10/vscode-vba-icons](https://github.com/spences10/vscode-vba-icons) - Simple VBA IDE icons theme for VSCode
 - [spences10/vba-snippets](https://github.com/spences10/vba-snippets) - VBA code snippets for Microsoft VSCode.
 - [M-Scott-Lassiter/github-issue-templates](https://github.com/M-Scott-Lassiter/github-issue-templates) - :symbols: A collection of GitHub issue and pull request templates
@@ -3895,7 +3921,7 @@
 - [imjasonh/gcping](https://github.com/imjasonh/gcping) - 
 - [ivan-curada/Awesome-GCP](https://github.com/ivan-curada/Awesome-GCP) - Xyza's Notes about Google Cloud Platform
 - [hrvolapeter/awesome-gcp](https://github.com/hrvolapeter/awesome-gcp) - A curated list of awesome Google Cloud Platform (GCP) libraries, open source repos, guides, blogs, and other resources.
-- [gnkr8/awesome-gcp](https://github.com/gnkr8/awesome-gcp) - A curated list of Google Cloud Platform
+- [k8nx/awesome-gcp](https://github.com/k8nx/awesome-gcp) - A curated list of Google Cloud Platform
 - [osamaqarem/reactnative-fastlane-appcenter](https://github.com/osamaqarem/reactnative-fastlane-appcenter) - 🚀 A fastlane step-by-step guide for signing, building and uploading new React Native apps to visual studio app center.
 - [r-darwish/msft-terminal-config](https://github.com/r-darwish/msft-terminal-config) - Microsoft Terminal Configuration
 - [TypeFox/R-Examples](https://github.com/TypeFox/R-Examples) - 
@@ -4711,6 +4737,7 @@
 
 ## PowerShell 
 
+- [AdmiringWorm/chocolatey-packages](https://github.com/AdmiringWorm/chocolatey-packages) - AdmiringWorm's automatic chocolatey packages using AU
 - [gwblok/garytown](https://github.com/gwblok/garytown) - GaryTown Scripts, Downloads, Etc
 - [12Knocksinna/Office365itpros](https://github.com/12Knocksinna/Office365itpros) - Office 365 for IT Pros PowerShell examples
 - [zurkon/windows-terminal-pwsh-101](https://github.com/zurkon/windows-terminal-pwsh-101) - Step-by-step tutorial to customize the Windows Terminal and Powershell Core
@@ -5231,7 +5258,7 @@
 - [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) - 📦 The Extras bucket for Scoop.
 - [SegoCode/Reg-importer](https://github.com/SegoCode/Reg-importer) - Easy import registry configurations for new windows install - Json values to registry
 - [Metaljisawa/OptimizationWindowsV1](https://github.com/Metaljisawa/OptimizationWindowsV1) - Short script ps1 for remove the unnecessary part on Windows 10
-- [LeDragoX/Win-10-Smart-Debloat-Tools](https://github.com/LeDragoX/Win-10-Smart-Debloat-Tools) - This is an adapted version from https://github.com/W4RH4WK/Debloat-Windows-10. These scripts will Customize, Debloat and Improve Privacy/Performance on Windows 10+.
+- [LeDragoX/Win-10-Smart-Debloat-Tools](https://github.com/LeDragoX/Win-10-Smart-Debloat-Tools) - These scripts will Customize, Debloat and Improve Privacy/Performance and System Responsiveness on Windows 10+.
 - [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
 - [canonical/ubuntu-cooker](https://github.com/canonical/ubuntu-cooker) - Ubuntu WSL UWP Builder
 - [Phil-Factor/SQLCloneFamily](https://github.com/Phil-Factor/SQLCloneFamily) - 
@@ -5369,6 +5396,8 @@
 
 ## Python 
 
+- [Azure-Samples/azure-opensource-labs](https://github.com/Azure-Samples/azure-opensource-labs) - Azure Open Source Labs
+- [GAM-team/GAM](https://github.com/GAM-team/GAM) - command line management for Google Workspace
 - [sevagas/macro_pack](https://github.com/sevagas/macro_pack) - macro_pack is a tool by @EmericNasi used to automatize obfuscation and generation of Office documents, VB scripts, shortcuts, and other formats for pentest, demo, and social engineering assessments. The goal of macro_pack is to simplify exploitation, antimalware bypass, and automatize the process from malicious macro and script generation to final document generation. It also provides a lot of helpful features useful for redteam or security research.
 - [airstrike/xlbuilder](https://github.com/airstrike/xlbuilder) - Parse annotated VBA modules and build a Microsoft Excel Add-In from the CLI
 - [oschuett/appmode](https://github.com/oschuett/appmode) - A Jupyter extensions that turns notebooks into web applications.
@@ -6166,6 +6195,12 @@
 
 ## R 
 
+- [analythium/rconfig](https://github.com/analythium/rconfig) - Manage R Configuration at the Command Line
+- [abhiamishra/ggshakeR](https://github.com/abhiamishra/ggshakeR) - An analysis and visualization R package that works with publicly available soccer data
+- [armcn/maybe](https://github.com/armcn/maybe) - The Maybe Monad in R
+- [anthonynorth/dot-files](https://github.com/anthonynorth/dot-files) - My dot files
+- [b-rodrigues/r_to_sql](https://github.com/b-rodrigues/r_to_sql) - 
+- [b-rodrigues/chronicler](https://github.com/b-rodrigues/chronicler) - 
 - [richfitz/redux](https://github.com/richfitz/redux) - :telephone_receiver::computer: Redis client for R
 - [r-dbi/RMariaDB](https://github.com/r-dbi/RMariaDB) - An R interface to MariaDB
 - [aryoda/tryCatchLog](https://github.com/aryoda/tryCatchLog) - R code for better error handling incl. logging with a full (!) stack trace incl. line numbers, post-mortem analysis and support for parallel processing
@@ -9453,6 +9488,7 @@
 
 ## Rust 
 
+- [KOBA789/gh-sql](https://github.com/KOBA789/gh-sql) - Query GitHub Projects (beta) with SQL
 - [dduan/tre](https://github.com/dduan/tre) - Tree command, improved.
 - [insanum/reminders](https://github.com/insanum/reminders) - Notification Reminders
 - [saskenuba/dbml-language-server](https://github.com/saskenuba/dbml-language-server) - DBML code intelligence through the Language Server Protocol.
@@ -9635,6 +9671,40 @@
 
 ## Shell 
 
+- [jimbrig/rdevcontainer](https://github.com/jimbrig/rdevcontainer) - 
+- [anmalkov/gh-timer](https://github.com/anmalkov/gh-timer) - GitHub CLI extension that runs a timer or stopwatch
+- [ericwb/gh-alerts](https://github.com/ericwb/gh-alerts) - GitHub CLI extension to display security alerts
+- [bruxisma/gh-update-branch](https://github.com/bruxisma/gh-update-branch) - GitHub CLI extension that can call the update-branch preview API
+- [sheepla/gh-fzrepo](https://github.com/sheepla/gh-fzrepo) - 🚀 An extension for GitHub CLI to browse repositories with fzf
+- [maximousblk/gh-fire](https://github.com/maximousblk/gh-fire) - 🔥 Save Your Code in an Emergency
+- [VildMedPap/gh-orgstats](https://github.com/VildMedPap/gh-orgstats) - Organisation specific extension for gh cli to retrieve different statistics
+- [mislav/gh-repo-collab](https://github.com/mislav/gh-repo-collab) - GitHub CLI extension to manage repository collaborators
+- [yuler/gh-download](https://github.com/yuler/gh-download) - [GitHub CLI] extension for download folders/files
+- [yuler/gh-todo](https://github.com/yuler/gh-todo) - [GitHub CLI] extension for todo list manager via GitHub issues
+- [rethab/gh-project](https://github.com/rethab/gh-project) - github cli extension to work with projects
+- [kentaro-m/gh-lspr](https://github.com/kentaro-m/gh-lspr) - gh-lspr is GitHub CLI extension to help you to check pull requests to which you need to respond.
+- [maggie-j-liu/gh-star](https://github.com/maggie-j-liu/gh-star) - ⭐️ A Github CLI extension for starring repos.
+- [jongio/gh-setup-git-credential-helper](https://github.com/jongio/gh-setup-git-credential-helper) - GitHub CLI Extension to add gh as a gitcredentials helper
+- [mattn/gh-star](https://github.com/mattn/gh-star) - 
+- [mislav/gh-delete-repo](https://github.com/mislav/gh-delete-repo) - [Deprecated] GitHub CLI extension for deleting GitHub repositories
+- [kavinvalli/gh-repo-fzf](https://github.com/kavinvalli/gh-repo-fzf) - A Github CLI extension to fuzzy search your repositories and do an action with it
+- [kawarimidoll/gh-q](https://github.com/kawarimidoll/gh-q) - A gh extension to clone GitHub repositories using fzf and ghq.
+- [hashue/gh-fuzzyclone](https://github.com/hashue/gh-fuzzyclone) - 
+- [samcoe/gh-triage](https://github.com/samcoe/gh-triage) - GitHub CLI extension for triaging issues
+- [mislav/gh-contrib](https://github.com/mislav/gh-contrib) - GitHub CLI extension to render your contribution graph in the terminal
+- [rnorth/gh-combine-prs](https://github.com/rnorth/gh-combine-prs) - A `gh` extension for combining multiple PRs (e.g. Dependabot PRs) into one.
+- [sheepla/gh-userfetch](https://github.com/sheepla/gh-userfetch) - 👨‍💻 An extension for GitHub CLI to show user profile pretty like Neofetch
+- [matt-bartel/gh-clone-org](https://github.com/matt-bartel/gh-clone-org) - A github-cli extension script to clone all repositories in an organization, optionally filtering by topic.
+- [mislav/gh-cp](https://github.com/mislav/gh-cp) - GitHub CLI extension to copy a file from a GitHub repository locally without cloning the repository.
+- [meiji163/gh-notify](https://github.com/meiji163/gh-notify) - GitHub CLI extension to display GitHub notifications
+- [korosuke613/gh-user-stars](https://github.com/korosuke613/gh-user-stars) - Displays an interactive and searchable list of your GitHub starred repositories
+- [mattn/gh-ost](https://github.com/mattn/gh-ost) - gh extension to meet ghost.
+- [kawarimidoll/gh-graph](https://github.com/kawarimidoll/gh-graph) - GitHub contribution graph in your terminal
+- [gennaro-tedesco/gh-f](https://github.com/gennaro-tedesco/gh-f) - 🔎 the ultimate compact fzf gh extension
+- [Link-/gh-token](https://github.com/Link-/gh-token) - Create an installation access token for a GitHub app from your terminal 💻
+- [redraw/gh-install](https://github.com/redraw/gh-install) - install GitHub release binaries from the CLI interactively
+- [davidraviv/gh-clean-branches](https://github.com/davidraviv/gh-clean-branches) - Safely deletes local branches with no upstream and no un-pushed commits
+- [mislav/gh-branch](https://github.com/mislav/gh-branch) - GitHub CLI extension for fuzzy finding, quickly switching between and deleting branches.
 - [Stephen-McDaniel/SmartManager-for-ShinyProxy](https://github.com/Stephen-McDaniel/SmartManager-for-ShinyProxy) - ShinyProxy with R, RStudio IDE and Monitoring by YakData SmartManager
 - [tallguyjenks/dotfiles](https://github.com/tallguyjenks/dotfiles) - 
 - [bashup/jqmd](https://github.com/bashup/jqmd) - Write and document your jq/shell scripts with markdown
@@ -10257,6 +10327,7 @@
 
 ## TypeScript 
 
+- [carlsberg/gh-releaser](https://github.com/carlsberg/gh-releaser) - GitHub CLI extension to simplify starting and closing releases in GitFlow-based projects.
 - [xsoulspace/sheets_manager_excel_addin](https://github.com/xsoulspace/sheets_manager_excel_addin) - Web Addin for easy Excel sheets management
 - [spences10/vscode-vba](https://github.com/spences10/vscode-vba) - VBA syntax highlighting and snippets for use in VSCode
 - [kometenstaub/obsidian-linked-data-vocabularies](https://github.com/kometenstaub/obsidian-linked-data-vocabularies) - Add linked data to the YAML of your Obsidian notes.
@@ -10836,6 +10907,7 @@
 
 ## Vue 
 
+- [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX.
 - [halo-dev/halo-admin](https://github.com/halo-dev/halo-admin) - Halo admin web client.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres database into a collaborative spreadsheet with REST APIs.
 - [dale0525/ClipBroad](https://github.com/dale0525/ClipBroad) - Sync your clipboard across multiple platforms
