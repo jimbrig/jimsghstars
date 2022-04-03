@@ -259,6 +259,7 @@
 
 ## C 
 
+- [brodieG/fapply](https://github.com/brodieG/fapply) - Experimental and Limited R to C Conversion and Execution
 - [pbatard/libwdi](https://github.com/pbatard/libwdi) - Windows Driver Installer library for USB devices
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [rsund/SurvoR](https://github.com/rsund/SurvoR) - Survo R is an open source version of the  general computing environment Survo developed by professor  Seppo Mustonen
@@ -415,6 +416,7 @@
 
 ## C# # 
 
+- [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [github/gh-gei](https://github.com/github/gh-gei) - 
 - [Excel-DNA/ExcelDna](https://github.com/Excel-DNA/ExcelDna) - Excel-DNA - Free and easy .NET for Excel. This repository contains the core Excel-DNA library.
 - [jpcarrascal/ExcelAutoPaste](https://github.com/jpcarrascal/ExcelAutoPaste) - Excel add-in that monitors your clipboard and automatically pastes copied text into the active worksheet.
@@ -1220,7 +1222,7 @@
 - [k1LoW/gh-grep](https://github.com/k1LoW/gh-grep) - :octocat: Print lines matching a pattern in repositories using GitHub API
 - [vilmibm/gh-screensaver](https://github.com/vilmibm/gh-screensaver) - full terminal animations
 - [gennaro-tedesco/gh-s](https://github.com/gennaro-tedesco/gh-s) - 🔎 search github repositories interactively
-- [barthr/redo](https://github.com/barthr/redo) - Redo is the ultimate tool to create aliases from your history in an interactive way
+- [barthr/redo](https://github.com/barthr/redo) - Redo is the ultimate tool to create reusable functions from your history in an interactive way
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - gh cli extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
 - [supabase/cli](https://github.com/supabase/cli) - Supabase CLI
 - [square/password-rotation-lambda](https://github.com/square/password-rotation-lambda) - Password rotation function for AWS Lambda and Secrets Manager
@@ -1655,6 +1657,7 @@
 - [sfirke/packagemetrics](https://github.com/sfirke/packagemetrics) - A Package for Helping You Choose Which Package to Use
 - [IndrajeetPatil/awesome-r-pkgtools](https://github.com/IndrajeetPatil/awesome-r-pkgtools) - A curated list of awesome tools for R package development
 - [berlotto/flask-app-template](https://github.com/berlotto/flask-app-template) - An complete Flask application template, with useful plugins.
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
 - [corpsgeek/flask-form-handling](https://github.com/corpsgeek/flask-form-handling) - 
 - [imzjy/MyDiffTool](https://github.com/imzjy/MyDiffTool) - The missing comparing text tool for Mac, Windows and Linux.
 - [JSchelldorfer/DeepLearningWithActuarialApplications](https://github.com/JSchelldorfer/DeepLearningWithActuarialApplications) - Material for the 2-day block course "Deep Learning with Actuarial Applications in R"
@@ -2210,6 +2213,8 @@
 
 ## JavaScript 
 
+- [DIYgod/APlayer](https://github.com/DIYgod/APlayer) - :lollipop: Wow, such a beautiful HTML5 music player
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀
 - [scottdurow/RibbonWorkbench](https://github.com/scottdurow/RibbonWorkbench) - Ribbon Workbench 2016 for Dynamics 365
 - [kufii/CodeSnap](https://github.com/kufii/CodeSnap) - 📸 Take beautiful screenshots of your code in VS Code!
 - [prezesp/scoop-viewer](https://github.com/prezesp/scoop-viewer) - A gui client for scoop.
@@ -2342,7 +2347,6 @@
 - [seladb/StarTrack-js](https://github.com/seladb/StarTrack-js) - GitHub star history and stats - based on JavaScript only!
 - [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
 - [SkepticMystic/breadcrumbs](https://github.com/SkepticMystic/breadcrumbs) - Visualise a custom hierarchy in your Obsidian vault. API: https://skepticmystic.github.io/breadcrumbs/
-- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
 - [alexjv89/echoalex_com](https://github.com/alexjv89/echoalex_com) - Source code for echoalex.com
 - [switchless-io/docs](https://github.com/switchless-io/docs) - 
 - [alexjv89/markdown-it-obsidian](https://github.com/alexjv89/markdown-it-obsidian) - Convert obsidian wiki links to markdown links
@@ -3524,6 +3528,7 @@
 
 ## Others 
 
+- [cgaddis36/cgaddis36](https://github.com/cgaddis36/cgaddis36) - 
 - [yu1hpa/awesome-gh](https://github.com/yu1hpa/awesome-gh) - awesome-gh
 - [spences10/vscode-vba-icons](https://github.com/spences10/vscode-vba-icons) - Simple VBA IDE icons theme for VSCode
 - [spences10/vba-snippets](https://github.com/spences10/vba-snippets) - VBA code snippets for Microsoft VSCode.
@@ -4136,7 +4141,7 @@
 - [shanselman/WindowsTerminalHere](https://github.com/shanselman/WindowsTerminalHere) - a .inf file for a right click Explorer "windows terminal here" for Windows Terminal until it's supported directly
 - [shanselman/devcomrade](https://github.com/shanselman/devcomrade) - DevComrade - A copy/paste/run productivity improvement utility for developers
 - [codeverland/bookmarks](https://github.com/codeverland/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.land
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [jtommaney/blog](https://github.com/jtommaney/blog) - notes on parallel analytic operators
 - [mkorenkov/tools](https://github.com/mkorenkov/tools) - GitHub issues import has moved to other repo
 - [JayHoltslander/Structured-Data-JSON-LD](https://github.com/JayHoltslander/Structured-Data-JSON-LD) - Collection of structured data snippets in Google preferred JSON-LD format.
@@ -4737,6 +4742,14 @@
 
 ## PowerShell 
 
+- [okieselbach/Intune](https://github.com/okieselbach/Intune) - Intune Scripts and Helpers.
+- [The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool) - The script and configuration files in this repository provide an easy method to customize and apply performance related settings to virtual desktop environments.
+- [dsccommunity/CommonTasks](https://github.com/dsccommunity/CommonTasks) - DSC Configuration (Composite Resource) for demo DSC and Datum
+- [microsoft/MCW-Hybrid-identity](https://github.com/microsoft/MCW-Hybrid-identity) - MCW Hybrid identity
+- [asjimene/GetMSIInfo](https://github.com/asjimene/GetMSIInfo) - Adds a right click context menu to grab information for MSI files.
+- [asjimene/OSDBuilder-Import-Tool](https://github.com/asjimene/OSDBuilder-Import-Tool) - Imports install.wim files updated using the OSDBuilder Powershell tool
+- [asjimene/CMPackager](https://github.com/asjimene/CMPackager) - Creates ConfigMgr Applications using XML Recipe Files
+- [OSDeploy/OSD](https://github.com/OSDeploy/OSD) - OSD Shared Functions
 - [AdmiringWorm/chocolatey-packages](https://github.com/AdmiringWorm/chocolatey-packages) - AdmiringWorm's automatic chocolatey packages using AU
 - [gwblok/garytown](https://github.com/gwblok/garytown) - GaryTown Scripts, Downloads, Etc
 - [12Knocksinna/Office365itpros](https://github.com/12Knocksinna/Office365itpros) - Office 365 for IT Pros PowerShell examples
@@ -5396,6 +5409,7 @@
 
 ## Python 
 
+- [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [Azure-Samples/azure-opensource-labs](https://github.com/Azure-Samples/azure-opensource-labs) - Azure Open Source Labs
 - [GAM-team/GAM](https://github.com/GAM-team/GAM) - command line management for Google Workspace
 - [sevagas/macro_pack](https://github.com/sevagas/macro_pack) - macro_pack is a tool by @EmericNasi used to automatize obfuscation and generation of Office documents, VB scripts, shortcuts, and other formats for pentest, demo, and social engineering assessments. The goal of macro_pack is to simplify exploitation, antimalware bypass, and automatize the process from malicious macro and script generation to final document generation. It also provides a lot of helpful features useful for redteam or security research.
@@ -5748,7 +5762,7 @@
 - [joshfriend/flask-restful-demo](https://github.com/joshfriend/flask-restful-demo) - A simple Flask-RESTful demo application
 - [imooc-course/docker-cloud-flask-demo](https://github.com/imooc-course/docker-cloud-flask-demo) - 
 - [mkleehammer/pyodbc](https://github.com/mkleehammer/pyodbc) - Python ODBC bridge
-- [pallets/flask-sqlalchemy](https://github.com/pallets/flask-sqlalchemy) - Adds SQLAlchemy support to Flask
+- [pallets-eco/flask-sqlalchemy](https://github.com/pallets-eco/flask-sqlalchemy) - Adds SQLAlchemy support to Flask
 - [googlecolab/colabtools](https://github.com/googlecolab/colabtools) - Python libraries for Google Colaboratory
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
@@ -6195,6 +6209,8 @@
 
 ## R 
 
+- [rstudio/shinytest2](https://github.com/rstudio/shinytest2) - 
+- [PirateGrunt/MeyersMCMC](https://github.com/PirateGrunt/MeyersMCMC) - Reformat and streamline code from Glenn Meyers monograph
 - [analythium/rconfig](https://github.com/analythium/rconfig) - Manage R Configuration at the Command Line
 - [abhiamishra/ggshakeR](https://github.com/abhiamishra/ggshakeR) - An analysis and visualization R package that works with publicly available soccer data
 - [armcn/maybe](https://github.com/armcn/maybe) - The Maybe Monad in R
@@ -10782,6 +10798,10 @@
 
 ## VBA 
 
+- [rubberduck-vba/examples](https://github.com/rubberduck-vba/examples) - Example code from RD News blog articles
+- [VBA-tools/vba-test](https://github.com/VBA-tools/vba-test) - Add testing and TDD to VBA on Windows and Mac
+- [sancarn/stdVBA](https://github.com/sancarn/stdVBA) - VBA Standard Library - A Collection of libraries to form a common standard layer for modern VBA applications.
+- [SSlinky/VBA-ExtendedDictionary](https://github.com/SSlinky/VBA-ExtendedDictionary) - Dictionary object that extends the Scripting.Dictionary
 - [stanislavsabev/fx_toolbox_addin](https://github.com/stanislavsabev/fx_toolbox_addin) - Excel Add-In with Ribbon menu 'FX' to add useful functionalities
 - [brianferguson/excel-addins](https://github.com/brianferguson/excel-addins) - A collection of add-ins I use with Excel.
 - [pyscripter/XLRisk](https://github.com/pyscripter/XLRisk) - Excell addin for performing Monte Carlo simulation
@@ -10909,7 +10929,7 @@
 
 - [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX.
 - [halo-dev/halo-admin](https://github.com/halo-dev/halo-admin) - Halo admin web client.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres database into a collaborative spreadsheet with REST APIs.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a spreadsheet with REST APIs.
 - [dale0525/ClipBroad](https://github.com/dale0525/ClipBroad) - Sync your clipboard across multiple platforms
 - [FrissAnalytics/shiny-vue-simple](https://github.com/FrissAnalytics/shiny-vue-simple) - simple example combining R shiny and vue.js
 - [timelyportfolio/vue-cli-r](https://github.com/timelyportfolio/vue-cli-r) - 
@@ -10936,7 +10956,7 @@
 - [lusaxweb/devAwesome](https://github.com/lusaxweb/devAwesome) - 🐣 Upload your own sites as portfolio or projects of your github
 - [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
 - [zpj80231/znote](https://github.com/zpj80231/znote) - 🎈VuePress 静态布局 Blog，清新+ 简洁+。
-- [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 
 ## WebAssembly 
