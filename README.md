@@ -169,6 +169,7 @@
 
 ## Batchfile 
 
+- [ontes/win-scripts](https://github.com/ontes/win-scripts) - Windows scripts, tricks and hacks
 - [cavo789/excel_ribbon](https://github.com/cavo789/excel_ribbon) - Programmer's guide to creating a Ribbon for MS Excel
 - [franzageek/Cledge-Shell](https://github.com/franzageek/Cledge-Shell) - A simple shell made in Batch that simplify your daily actions.
 - [franzageek/Vapor](https://github.com/franzageek/Vapor) - A script which, with the help of ViVeTool, lets you to enable tabs in Windows 11's Explorer.
@@ -2213,6 +2214,8 @@
 
 ## JavaScript 
 
+- [jcv8000/Codex](https://github.com/jcv8000/Codex) - A free note-taking software for programmers and Computer Science students
+- [theowenyoung/gatsby-theme-primer-wiki](https://github.com/theowenyoung/gatsby-theme-primer-wiki) - A Gatsby Theme for Wiki/Docs/Knowledge Base, which using Primer style as the UI theme, can work well with Foam or Obsibian or just markdown files.
 - [DIYgod/APlayer](https://github.com/DIYgod/APlayer) - :lollipop: Wow, such a beautiful HTML5 music player
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀
 - [scottdurow/RibbonWorkbench](https://github.com/scottdurow/RibbonWorkbench) - Ribbon Workbench 2016 for Dynamics 365
@@ -3126,7 +3129,6 @@
 - [huyingjie/Awesome-shiny-apps-for-statistics](https://github.com/huyingjie/Awesome-shiny-apps-for-statistics) - 🌟 A curated list of Awesome Shiny Apps for Statistics (ASAS)🌟
 - [rstudio/shinyvalidate](https://github.com/rstudio/shinyvalidate) - Input validation package for the Shiny web framework
 - [AntoineGuillot2/D3partitionR](https://github.com/AntoineGuillot2/D3partitionR) - R package to visualise interactively hierarchical data.
-- [davidruvolo51/shiny-parcel-template](https://github.com/davidruvolo51/shiny-parcel-template) - An example setup for Shiny applications that use Parcel
 - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
 - [lukeed/watchlist](https://github.com/lukeed/watchlist) - Recursively watch a list of directories & run a command on any file system changes
 - [bryanph/GeistMap](https://github.com/bryanph/GeistMap) - An experimental personal knowledge base with a focus on connections
@@ -4742,6 +4744,8 @@
 
 ## PowerShell 
 
+- [faesel/terminal-profile](https://github.com/faesel/terminal-profile) - Contains my Windows Terminal Powershell profile with shortcuts that I use day-to-day, feel free to copy it to get my shortcuts
+- [ili101/Join-Object](https://github.com/ili101/Join-Object) - PowerShell Join-Object LINQ Edition
 - [okieselbach/Intune](https://github.com/okieselbach/Intune) - Intune Scripts and Helpers.
 - [The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool) - The script and configuration files in this repository provide an easy method to customize and apply performance related settings to virtual desktop environments.
 - [dsccommunity/CommonTasks](https://github.com/dsccommunity/CommonTasks) - DSC Configuration (Composite Resource) for demo DSC and Datum
@@ -5409,6 +5413,8 @@
 
 ## Python 
 
+- [Mara-Li/mkdocs_obsidian_publish](https://github.com/Mara-Li/mkdocs_obsidian_publish) - Publish your obsidian vault through a python script
+- [agronholm/sqlacodegen](https://github.com/agronholm/sqlacodegen) - Automatic model code generator for SQLAlchemy
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [Azure-Samples/azure-opensource-labs](https://github.com/Azure-Samples/azure-opensource-labs) - Azure Open Source Labs
 - [GAM-team/GAM](https://github.com/GAM-team/GAM) - command line management for Google Workspace
@@ -8187,6 +8193,7 @@
 - [ColinFay/minifyr](https://github.com/ColinFay/minifyr) - Wrapper around node-minify NodeJS module
 - [AnisaMath/workflowr-spotify](https://github.com/AnisaMath/workflowr-spotify) - Workflowr Tutorial
 - [rte-antares-rpackage/leaflet.minicharts](https://github.com/rte-antares-rpackage/leaflet.minicharts) - Minicharts for dynamic leaflet maps
+- [davidruvolo51/shiny-parcel-template](https://github.com/davidruvolo51/shiny-parcel-template) - An example setup for Shiny applications that use Parcel
 - [davidruvolo51/browsertools](https://github.com/davidruvolo51/browsertools) - R functions for executing specific JavaScript functions from Shiny
 - [timelyportfolio/dataui](https://github.com/timelyportfolio/dataui) - data-ui for R
 - [JohnCoene/linne](https://github.com/JohnCoene/linne) - 🌊 Write CSS in R
@@ -8564,7 +8571,7 @@
 - [ropensci/mapscanner](https://github.com/ropensci/mapscanner) - R package to print maps, draw on them, and scan them back in
 - [rstudio-conf-2020/build-tidy-tools](https://github.com/rstudio-conf-2020/build-tidy-tools) - Materials for the Building Tidy Tools workshop at rstudio::conf 2020
 - [yanlesin/ylhelper](https://github.com/yanlesin/ylhelper) - Yan's Wrappers for openxlsx Package
-- [nik01010/dashboardthemes](https://github.com/nik01010/dashboardthemes) - Now on CRAN: custom theme support for R Shinydashboard applications.
+- [nik01010/dashboardthemes](https://github.com/nik01010/dashboardthemes) - Custom theme support for R Shinydashboard applications.
 - [jumpingrivers/meetingsR](https://github.com/jumpingrivers/meetingsR) - A list of R conferences and user groups
 - [EmilHvitfeldt/bookdown-github-actions-netlify](https://github.com/EmilHvitfeldt/bookdown-github-actions-netlify) - Example of using Github Actions to deploy bookdown on Netlify
 - [ianmcook/queryparser](https://github.com/ianmcook/queryparser) - Translate SQL queries into R expressions
@@ -10343,6 +10350,13 @@
 
 ## TypeScript 
 
+- [franciskafieh/obsidian-list-modified](https://github.com/franciskafieh/obsidian-list-modified) - 🪨 A simple obsidian plugin that links all modified files meeting certain criteria to a daily note
+- [cristianvasquez/obsidian-snippets-plugin](https://github.com/cristianvasquez/obsidian-snippets-plugin) - 
+- [SamLewis0602/obsidian-custom-js](https://github.com/SamLewis0602/obsidian-custom-js) - An Obsidian plugin to allow users to reuse code blocks across all devices and OSes
+- [macstories/obsidian-shortcut-launcher](https://github.com/macstories/obsidian-shortcut-launcher) - Trigger shortcuts in Apple's Shortcuts app from Obsidian with custom commands.
+- [xpgo/obsidian-folder-note-plugin](https://github.com/xpgo/obsidian-folder-note-plugin) - Plugin to add description note to a folder for Obsidian.
+- [IdreesInc/Waypoint](https://github.com/IdreesInc/Waypoint) - Obsidian plugin that gives you the power to generate dynamic MOCs in your folder notes. Enables folders to show up in the graph view and removes the need for messy tags!
+- [manogna4/obsidian-koncham-workspace](https://github.com/manogna4/obsidian-koncham-workspace) - obsidian workspace enhancement
 - [carlsberg/gh-releaser](https://github.com/carlsberg/gh-releaser) - GitHub CLI extension to simplify starting and closing releases in GitFlow-based projects.
 - [xsoulspace/sheets_manager_excel_addin](https://github.com/xsoulspace/sheets_manager_excel_addin) - Web Addin for easy Excel sheets management
 - [spences10/vscode-vba](https://github.com/spences10/vscode-vba) - VBA syntax highlighting and snippets for use in VSCode
