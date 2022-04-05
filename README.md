@@ -839,6 +839,7 @@
 
 ## CSS 
 
+- [prp1277/Excel](https://github.com/prp1277/Excel) - Excel Files, Notes, Tutorials etc.
 - [BootstrapDash/skydash-free-bootstrap-admin-template](https://github.com/BootstrapDash/skydash-free-bootstrap-admin-template) - free bootstrap admin template
 - [sqlitebrowser/dbhub_docs](https://github.com/sqlitebrowser/dbhub_docs) - Documentation for DBHub.io
 - [insanum/obsidian_gruvbox](https://github.com/insanum/obsidian_gruvbox) - A gruvbox theme for Obsidian
@@ -1204,6 +1205,7 @@
 
 ## Go 
 
+- [Azure/aztfy](https://github.com/Azure/aztfy) - A tool to bring existing Azure resources under Terraform's management
 - [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines
 - [benbjohnson/postlite](https://github.com/benbjohnson/postlite) - Postgres wire compatible SQLite proxy.
 - [joaom00/gh-discussion](https://github.com/joaom00/gh-discussion) - GitHub CLI extension for fuzzy finding discussions
@@ -1584,6 +1586,7 @@
 
 ## HTML 
 
+- [LesFerch/DesktopPic](https://github.com/LesFerch/DesktopPic) - Display or stamp images on your Windows desktop wallpaper
 - [devOpifex/titan](https://github.com/devOpifex/titan) - Prometheus monitoring for shiny applications, plumber APIs, and other R web services
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [M-Scott-Lassiter/Excel-File-Cataloger](https://github.com/M-Scott-Lassiter/Excel-File-Cataloger) - Builds an easy to search webpage that tags and catalogs all the files and folders from a specified directory.
@@ -2534,7 +2537,7 @@
 - [archit-p/editable-react-table](https://github.com/archit-p/editable-react-table) - React table built to resemble a database.
 - [explorableexplanations/explorableexplanations.github.io](https://github.com/explorableexplanations/explorableexplanations.github.io) - The Explorable Explanations Website
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
-- [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
+- [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [apiaryio/dredd](https://github.com/apiaryio/dredd) - Language-agnostic HTTP API Testing Tool
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [tevix/seneca-gcloudpubsub-transport](https://github.com/tevix/seneca-gcloudpubsub-transport) - Google Pub/Sub transport for seneca services
@@ -3297,6 +3300,7 @@
 
 ## Jupyter Notebook 
 
+- [prabhupavitra/Financial-Modeling](https://github.com/prabhupavitra/Financial-Modeling) - Financial Models using vba script and Python
 - [areed1192/sigma_coding_youtube](https://github.com/areed1192/sigma_coding_youtube) - This is a collection of all the code that can be found on my YouTube channel Sigma Coding.
 - [aws-samples/cloud-experiments](https://github.com/aws-samples/cloud-experiments) - Open innovation with 60 minute cloud experiments on AWS
 - [CloudaYolla/aws-serverless-data-lake-workshop](https://github.com/CloudaYolla/aws-serverless-data-lake-workshop) - This workshop is meant to give customers a hands-on experience with mentioned AWS services.  Serverless Data Lake workshop helps customers build a cloud-native and future-proof serverless data lake architecture.  It allows hands-on time with AWS big data and analytics services including Amazon Kinesis Services for streaming data ingestion and analytics, AWS Glue for ETL and Data Catalogue Management, Amazon Athena to query data lake.
@@ -3530,6 +3534,11 @@
 
 ## Others 
 
+- [AllenMattson/VBA-and-Excel-Books-and-PDFs](https://github.com/AllenMattson/VBA-and-Excel-Books-and-PDFs) - Personal collection of vb.net, .net, vba and other books regarding vb programming
+- [Marlond25/VBA-cool-userform1](https://github.com/Marlond25/VBA-cool-userform1) - I created a simple userform to register some information into an Excel spreadsheet
+- [ctechhindi/Excel-VBA-Examples](https://github.com/ctechhindi/Excel-VBA-Examples) - Excel VBA Script Documentation and Examples
+- [Lana42/VBA-Portfolio](https://github.com/Lana42/VBA-Portfolio) - Collection of macros written in visual basic for applications
+- [evoingram/docmanagement](https://github.com/evoingram/docmanagement) - vba code samples for managing Office documents/workflow/transcription
 - [cgaddis36/cgaddis36](https://github.com/cgaddis36/cgaddis36) - 
 - [yu1hpa/awesome-gh](https://github.com/yu1hpa/awesome-gh) - awesome-gh
 - [spences10/vscode-vba-icons](https://github.com/spences10/vscode-vba-icons) - Simple VBA IDE icons theme for VSCode
@@ -4584,7 +4593,7 @@
 - [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
 - [pawl/awesome-etl](https://github.com/pawl/awesome-etl) - A curated list of awesome ETL frameworks, libraries, and software.
 - [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) - A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
-- [pavopax/new-project-template](https://github.com/pavopax/new-project-template) - Simple directory structure for data science projects (Python, R, both, other).
+- [plpxsk/new-project-template](https://github.com/plpxsk/new-project-template) - Simple directory structure for data science projects (Python, R, both, other).
 - [IBMDataScience/watson-studio-shiny-apps](https://github.com/IBMDataScience/watson-studio-shiny-apps) - 
 - [kbroman/RStudioConf2019Slides](https://github.com/kbroman/RStudioConf2019Slides) - Links to slides for rstudio::conf 2019
 - [openbiox/spack-cache](https://github.com/openbiox/spack-cache) - Cache files of spack package manager.
@@ -4744,6 +4753,8 @@
 
 ## PowerShell 
 
+- [charliehoward/NorthPoint-Installer](https://github.com/charliehoward/NorthPoint-Installer) - A PowerShell GUI powered by Chocolately for installing various user-selected software and options for new Windows 10 & 11 installs.
+- [jdhitsolutions/PSProjectStatus](https://github.com/jdhitsolutions/PSProjectStatus) - A PowerShell module for managing project status.
 - [faesel/terminal-profile](https://github.com/faesel/terminal-profile) - Contains my Windows Terminal Powershell profile with shortcuts that I use day-to-day, feel free to copy it to get my shortcuts
 - [ili101/Join-Object](https://github.com/ili101/Join-Object) - PowerShell Join-Object LINQ Edition
 - [okieselbach/Intune](https://github.com/okieselbach/Intune) - Intune Scripts and Helpers.
@@ -5909,7 +5920,7 @@
 - [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team
 - [GoogleCloudPlatform/datacatalog-connectors-rdbms](https://github.com/GoogleCloudPlatform/datacatalog-connectors-rdbms) - Sample code with integration between Data Catalog and RDBMS data sources.
 - [dogsheep/pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite) - Create a SQLite database containing data from your Pocket account
-- [pavopax/gists](https://github.com/pavopax/gists) - Easily find my gists
+- [plpxsk/gists](https://github.com/plpxsk/gists) - Easily find my gists
 - [goldfiglabs/introspector](https://github.com/goldfiglabs/introspector) - A schema and set of tools for using SQL to query cloud infrastructure.
 - [sammy007-debug/checkers](https://github.com/sammy007-debug/checkers) - 
 - [gmplot/gmplot](https://github.com/gmplot/gmplot) - Plot data on Google Maps, the easy way.
@@ -6215,6 +6226,8 @@
 
 ## R 
 
+- [TimTeaFan/loopurrr](https://github.com/TimTeaFan/loopurrr) - Translate purrr functions into regular for loops
+- [ropenscilabs/deposits](https://github.com/ropenscilabs/deposits) - R Client for access to multiple data repository services
 - [rstudio/shinytest2](https://github.com/rstudio/shinytest2) - 
 - [PirateGrunt/MeyersMCMC](https://github.com/PirateGrunt/MeyersMCMC) - Reformat and streamline code from Glenn Meyers monograph
 - [analythium/rconfig](https://github.com/analythium/rconfig) - Manage R Configuration at the Command Line
@@ -8072,7 +8085,7 @@
 - [neuhausi/canvasXpress](https://github.com/neuhausi/canvasXpress) - JavaScript VisualizationTools
 - [ropensci/lightr](https://github.com/ropensci/lightr) - Import spectral data and related metadata in R
 - [ropensci/tarchetypes](https://github.com/ropensci/tarchetypes) - Archetypes for targets and pipelines
-- [jdblischak/reproducible-research-ctv](https://github.com/jdblischak/reproducible-research-ctv) - CRAN Task View: Reproducible Research
+- [jdblischak/reproducible-research-ctv](https://github.com/jdblischak/reproducible-research-ctv) - **Archived** CRAN Task View: Reproducible Research
 - [dgkf/scriptgloss](https://github.com/dgkf/scriptgloss) - dynamically reconstruct static code for shiny outputs
 - [rubenarslan/repro_web_stack](https://github.com/rubenarslan/repro_web_stack) - The stack I use to make reproducible reports of my statistical analyses
 - [benmarwick/researchcompendium](https://github.com/benmarwick/researchcompendium) - NOTE: This repo is archived. Please see https://github.com/benmarwick/rrtools for my current approach
@@ -10812,6 +10825,13 @@
 
 ## VBA 
 
+- [DecimalTurn/Excel-Pomodoro-Timer](https://github.com/DecimalTurn/Excel-Pomodoro-Timer) - Excel Pomodoro Timer
+- [SonyaNadesan/ReusablePerformanceOptimisedVBAFunctions](https://github.com/SonyaNadesan/ReusablePerformanceOptimisedVBAFunctions) - Complex, Re-Usable, Performance-Optimised VBA Functions (2017 - 2019).
+- [bskinn/excel-csvexporter](https://github.com/bskinn/excel-csvexporter) - Lightweight tool to export ranges within an Excel sheet to CSV
+- [Beakerboy/VBA-SQL-Library](https://github.com/Beakerboy/VBA-SQL-Library) - Object-based Database Interaction for VBA. Create SQL Statements with VBA objects instead of string concatination.
+- [DaanV2/Vba-Standard-Files](https://github.com/DaanV2/Vba-Standard-Files) - These are my standard files that I use for programming in Vba for Excel/Word/Solidworks/etc most of them are used to create a more Vb.net feel to them then everything
+- [neginhemati/EXCELing](https://github.com/neginhemati/EXCELing) - Visual Basic Applications (VBA) modules written by myself (or credited to others in-comment) to increase the speed and accuracy of data cleansing/manipulation and office tasks in Excel
+- [Rabadash8820/VbaModuleManager](https://github.com/Rabadash8820/VbaModuleManager) - A VBA macro that facilitates version control by automatically importing/exporting other VBA macros in Office documents.
 - [rubberduck-vba/examples](https://github.com/rubberduck-vba/examples) - Example code from RD News blog articles
 - [VBA-tools/vba-test](https://github.com/VBA-tools/vba-test) - Add testing and TDD to VBA on Windows and Mac
 - [sancarn/stdVBA](https://github.com/sancarn/stdVBA) - VBA Standard Library - A Collection of libraries to form a common standard layer for modern VBA applications.
@@ -10839,6 +10859,7 @@
 
 ## VBScript 
 
+- [cavo789/vba_excel_export_code](https://github.com/cavo789/vba_excel_export_code) - Just like me, you write Excel macros and you want a simple way to export your code as text files to your hard disk so that you can manage versions and load the code into e. g. GitHub? My vba_excel_export_code script is made for you. From now on it also manages the export of your ribbon.
 - [cavo789/vbs_xls_list_references](https://github.com/cavo789/vbs_xls_list_references) - Retrieve the list of references used in an Excel file (.xlam files f.i.) and display them on the console. Loop and process all Excel files in the current folder
 - [jimbrig/Snippets](https://github.com/jimbrig/Snippets) - Variety of Code Snippets
 - [Digressive/MDT-Files](https://github.com/Digressive/MDT-Files) - Files for Microsoft Deployment Toolkit
@@ -10915,6 +10936,11 @@
 
 ## Visual Basic 
 
+- [fizban99/RRunner](https://github.com/fizban99/RRunner) - Execute R Scripts from within Excel
+- [mattpalermo/VBA-Import-Export](https://github.com/mattpalermo/VBA-Import-Export) - Export & Import VBA code for use with Git (or any VCS)
+- [michaelneu/webxcel](https://github.com/michaelneu/webxcel) - 🤔 A REST backend built with plain VBA Microsoft Excel macros. Yes. Macros.
+- [carvetighter/VBA-Code-Library](https://github.com/carvetighter/VBA-Code-Library) - A series of Visual Basic Applications (VBA) methods I wrote, mostly for Excel, to increase the speed and accuracy in working with data, charts and databases.
+- [AllenMattson/VBA](https://github.com/AllenMattson/VBA) - Code Blocks relating to everything VBA
 - [yakenohara/ExcelVBA-CellSearchingUtility](https://github.com/yakenohara/ExcelVBA-CellSearchingUtility) - 
 - [spences10/vba-custom-calendar-control](https://github.com/spences10/vba-custom-calendar-control) - vba-custom-calendar-control
 - [CalebSerafin/Combo-Link](https://github.com/CalebSerafin/Combo-Link) - Makes, links and syncs different data sheets into Summery sheets.
@@ -10929,6 +10955,7 @@
 
 ## Visual Basic .NET 
 
+- [Zadigo/vba_codes](https://github.com/Zadigo/vba_codes) - VBA snippets and code library
 - [skuehlshelby/RibbonX-Builder](https://github.com/skuehlshelby/RibbonX-Builder) - A series of wrapper objects which provide a convenient .NET API for the MS Office Ribbon UI. Provides utilities for validating your ribbon modifications without the use of an MS Office host. Also provides tools to convert bitmaps to the OLE IPictureDisp interface, facilities for mocking user-interaction with an Office host application, and more!
 - [mjfii/TSQL-EnterpriseDataWarehouse-Framework](https://github.com/mjfii/TSQL-EnterpriseDataWarehouse-Framework) - Enterprise Data Warehouse Framework
 - [euzzeud/GetWindows11Utility](https://github.com/euzzeud/GetWindows11Utility) - A utility that allows you to download the ISO of the Windows 11!
