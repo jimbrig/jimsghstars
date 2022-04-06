@@ -95,6 +95,7 @@
   - [SCSS](#scss)
   - [SQL](#sql)
   - [SQLPL](#sqlpl)
+  - [SVG](#svg)
   - [Sass](#sass)
   - [Scala](#scala)
   - [Scheme](#scheme)
@@ -550,7 +551,7 @@
 - [mgarrettm/serverless-prototype](https://github.com/mgarrettm/serverless-prototype) - This is a prototype of a serverless platform built in .NET using Microsoft Azure and Windows Containers.
 - [Sphinkie/RegFineViewer](https://github.com/Sphinkie/RegFineViewer) - RegFineViewer is an utility to visualize and navigate easily the Windows Registry
 - [jchomarat/wttop](https://github.com/jchomarat/wttop) - System monitor for the new Windows Terminal
-- [gerardog/gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows - run elevated without spawning a new Console Host Window
+- [gerardog/gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows
 - [dockpanelsuite/dockpanelsuite](https://github.com/dockpanelsuite/dockpanelsuite) - DockPanel Suite - The Visual Studio inspired docking library for .NET WinForms
 - [cairoshell/cairoshell](https://github.com/cairoshell/cairoshell) - Cairo is a customizable, intuitive desktop environment for Windows.
 - [TanayParikh/Moneta](https://github.com/TanayParikh/Moneta) - Moneta - Financial Management for Freelancers
@@ -1146,7 +1147,6 @@
 - [maxheld83/shinyapps](https://github.com/maxheld83/shinyapps) - GitHub Action for deploying to shinyapps.io
 - [r-hub/api.app](https://github.com/r-hub/api.app) - The R-hub API (work in progress)
 - [wch/r-debug](https://github.com/wch/r-debug) - Dockerfile with several builds of R for memory/thread debugging
-- [r-hub/r-minimal](https://github.com/r-hub/r-minimal) - Minimal Docker images for R
 
 ## Elixir 
 
@@ -1542,6 +1542,7 @@
 
 ## HCL 
 
+- [russmckendrick/DevOpsTerraformPipeline](https://github.com/russmckendrick/DevOpsTerraformPipeline) - This repo accompanies my Azure DevOps Terraform Pipeline blog post. Now updated to included cost tracking.
 - [repostnetwork/action-aws-glue-deploy](https://github.com/repostnetwork/action-aws-glue-deploy) - 
 - [MitocGroup/terraform-aws-glue-dev-endpoint](https://github.com/MitocGroup/terraform-aws-glue-dev-endpoint) - Terraform code to create, update or delete AWS Glue dev endpoint(s)
 - [cloudposse/terraform-aws-rds](https://github.com/cloudposse/terraform-aws-rds) - Terraform module to provision AWS RDS instances
@@ -2217,6 +2218,7 @@
 
 ## JavaScript 
 
+- [Borrus-sudo/awesome-stack](https://github.com/Borrus-sudo/awesome-stack) - ⚡ Github README stats  for your favourite web dev stack
 - [jcv8000/Codex](https://github.com/jcv8000/Codex) - A free note-taking software for programmers and Computer Science students
 - [theowenyoung/gatsby-theme-primer-wiki](https://github.com/theowenyoung/gatsby-theme-primer-wiki) - A Gatsby Theme for Wiki/Docs/Knowledge Base, which using Primer style as the UI theme, can work well with Foam or Obsibian or just markdown files.
 - [DIYgod/APlayer](https://github.com/DIYgod/APlayer) - :lollipop: Wow, such a beautiful HTML5 music player
@@ -3482,6 +3484,7 @@
 
 ## Markdown 
 
+- [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - 👩‍💻👨‍💻 Improve your README.md profile with these amazing badges.
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -3534,6 +3537,8 @@
 
 ## Others 
 
+- [gilbarbara/logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
+- [jdevstatic/hacking-the-github-stats](https://github.com/jdevstatic/hacking-the-github-stats) - if you are new or you don't know this and if you just really want to get the A++ rank or higher, read this
 - [AllenMattson/VBA-and-Excel-Books-and-PDFs](https://github.com/AllenMattson/VBA-and-Excel-Books-and-PDFs) - Personal collection of vb.net, .net, vba and other books regarding vb programming
 - [Marlond25/VBA-cool-userform1](https://github.com/Marlond25/VBA-cool-userform1) - I created a simple userform to register some information into an Excel spreadsheet
 - [ctechhindi/Excel-VBA-Examples](https://github.com/ctechhindi/Excel-VBA-Examples) - Excel VBA Script Documentation and Examples
@@ -4621,6 +4626,7 @@
 
 ## PHP 
 
+- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
 - [kalcaddle/KodExplorer](https://github.com/kalcaddle/KodExplorer) - A web based file manager,web IDE / browser based code editor
 - [okeeffed/cheat-sheets](https://github.com/okeeffed/cheat-sheets) - 
 - [doctrine/dbal](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer
@@ -5424,6 +5430,8 @@
 
 ## Python 
 
+- [petemc89/craXcel-cli](https://github.com/petemc89/craXcel-cli) - Command line application to unlock Microsoft Office password protected files.
+- [pyexcel/pyexcel-cli](https://github.com/pyexcel/pyexcel-cli) - A command utility to read and write data into csv, tsv, xls, xlsx and ods format.
 - [Mara-Li/mkdocs_obsidian_publish](https://github.com/Mara-Li/mkdocs_obsidian_publish) - Publish your obsidian vault through a python script
 - [agronholm/sqlacodegen](https://github.com/agronholm/sqlacodegen) - Automatic model code generator for SQLAlchemy
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
@@ -5997,7 +6005,7 @@
 - [lggruspe/slipbox](https://github.com/lggruspe/slipbox) - A static site generator for Zettelkasten notes
 - [djplaner/memex](https://github.com/djplaner/memex) - Nascent attempt at using Foam to curate and leverage a personal memex
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge framework (CK) provides a common set of automation recipes, APIs and meta descriptions to enable collaborative, reproducible and unified benchmarking and optimization of ML Systems across continuously changing models, data sets, software and hardware:
+- [mlcommons/ck](https://github.com/mlcommons/ck) - This Python toolkit helps you share artifacts, knowledge and experience in a more reusable, automated, portable and reproducible way. It transforms Git repositories, Docker containers, Jupyter notebooks and zip/tar files into an open database of reusable artifacts and automations with a unified API and extensible meta descriptions.
 - [bhrigu123/classifier](https://github.com/bhrigu123/classifier) - Organize files in your directory instantly, by classifying them into different folders
 - [mcharleb/gittagstats](https://github.com/mcharleb/gittagstats) - 
 - [jctanner/ansible-tools](https://github.com/jctanner/ansible-tools) - 
@@ -6019,7 +6027,7 @@
 - [douban/linguist](https://github.com/douban/linguist) - Language Savant, Python clone of github/linguist.
 - [getsentry/sentry-kubernetes](https://github.com/getsentry/sentry-kubernetes) - Kubernetes event reporter for Sentry
 - [plotly/dash-pivottable](https://github.com/plotly/dash-pivottable) - react-pivottable in Dash
-- [ze-kel/DayOne-JSON-to-MD](https://github.com/ze-kel/DayOne-JSON-to-MD) - Converts jsons from Day One app to Markdown. Intended for transferring from DayOne to Obsidian but should work with everything else.
+- [ze-kel/DayOne-JSON-to-MD](https://github.com/ze-kel/DayOne-JSON-to-MD) - Converts jsons from Day One app to Markdown. Intended for transferring from DayOne to Obsidian but should work with everything else.   =====UPDATE=====: I made it to solve my specific need, and not really interested in working on it any further. Check out forks though, there seems to be a few improved implementations.
 - [arsalanj123/Python-auto-folder-organise](https://github.com/arsalanj123/Python-auto-folder-organise) - Automatically organise your windows folders according to extensions
 - [jan25/move-my-files](https://github.com/jan25/move-my-files) - mmf is a CLI tool to organise files on your computer
 - [arturmark/PC-Automation](https://github.com/arturmark/PC-Automation) - Anything what helps to improve productivity with work on PC.
@@ -6226,6 +6234,7 @@
 
 ## R 
 
+- [r-lib/backports](https://github.com/r-lib/backports) - Reimplementations of Functions Introduced Since R-3.0.0
 - [TimTeaFan/loopurrr](https://github.com/TimTeaFan/loopurrr) - Translate purrr functions into regular for loops
 - [ropenscilabs/deposits](https://github.com/ropenscilabs/deposits) - R Client for access to multiple data repository services
 - [rstudio/shinytest2](https://github.com/rstudio/shinytest2) - 
@@ -9678,6 +9687,10 @@
 
 - [dmorgan26/dartsviz-compose](https://github.com/dmorgan26/dartsviz-compose) - Shiny app, postgres database & plumber API deployed using docker-compose
 
+## SVG 
+
+- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨
+
 ## Sass 
 
 - [PippoRJ/hugo-refresh](https://github.com/PippoRJ/hugo-refresh) - 
@@ -9707,6 +9720,7 @@
 
 ## Shell 
 
+- [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [jimbrig/rdevcontainer](https://github.com/jimbrig/rdevcontainer) - 
 - [anmalkov/gh-timer](https://github.com/anmalkov/gh-timer) - GitHub CLI extension that runs a timer or stopwatch
 - [ericwb/gh-alerts](https://github.com/ericwb/gh-alerts) - GitHub CLI extension to display security alerts
@@ -10203,6 +10217,7 @@
 - [vincentcox/bypass-firewalls-by-DNS-history](https://github.com/vincentcox/bypass-firewalls-by-DNS-history) - Firewall bypass script based on DNS history records. This script will search for DNS A history records and check if the server replies for that domain. Handy for bugbounty hunters.
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [dmedri/roaster](https://github.com/dmedri/roaster) - R - Fetch, build and deploy.
+- [r-hub/r-minimal](https://github.com/r-hub/r-minimal) - Minimal Docker images for R
 - [grssnbchr/rddj-template](https://github.com/grssnbchr/rddj-template) - A template for bootstrapping reproducible RMarkdown documents for data journalistic purposes.
 - [petervanderdoes/gitflow-avh](https://github.com/petervanderdoes/gitflow-avh) - AVH Edition of the git extensions to provide high-level repository operations for Vincent Driessen's branching model
 - [r-hub/sysreqsdb](https://github.com/r-hub/sysreqsdb) - SystemRequirements mappings for R packages
@@ -10363,6 +10378,7 @@
 
 ## TypeScript 
 
+- [get-icon/geticon](https://github.com/get-icon/geticon) - Web / IT project stack / tool / technique icon / logo collection & markdown / HTML generator :electron:🚀
 - [franciskafieh/obsidian-list-modified](https://github.com/franciskafieh/obsidian-list-modified) - 🪨 A simple obsidian plugin that links all modified files meeting certain criteria to a daily note
 - [cristianvasquez/obsidian-snippets-plugin](https://github.com/cristianvasquez/obsidian-snippets-plugin) - 
 - [SamLewis0602/obsidian-custom-js](https://github.com/SamLewis0602/obsidian-custom-js) - An Obsidian plugin to allow users to reuse code blocks across all devices and OSes
