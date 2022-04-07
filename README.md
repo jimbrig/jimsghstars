@@ -1627,11 +1627,12 @@
 - [bwlewis/tir](https://github.com/bwlewis/tir) - Example time in range computation
 - [jimbrig/self-insurance-kpi-app](https://github.com/jimbrig/self-insurance-kpi-app) - Proof of Concept Demo Shiny Application for Tracking KPIs related to P&C Self Insurance
 - [sanjan/flask_swagger](https://github.com/sanjan/flask_swagger) - Boilerplate to build a flask API with swagger ui documentation
-- [jhelvy/jhelvy.com](https://github.com/jhelvy/jhelvy.com) - Source files for my personal website, built using the {distill} R package and deployed with netlify
+- [jhelvy/jhelvy_distill](https://github.com/jhelvy/jhelvy_distill) - Source files for my personal website, built using the {distill} R package and deployed with netlify
 - [problemofpoints/noncat-modeling](https://github.com/problemofpoints/noncat-modeling) - Sample non-cat exposure model and simulation calculations
 - [nhs-r-community/Conference_2020](https://github.com/nhs-r-community/Conference_2020) - This repository holds the content for the NHS-R Community conference, November 2020.  Plenary session and lightning talk material will be shared in the relevant folders, and workshop details are below
 - [samarth-p/College-ERP](https://github.com/samarth-p/College-ERP) - A college management system built using Django framework. It is designed for interactions between students and teachers. Features include attendance, marks and time table.
 - [hashicorp/learn-terraform-cloudflare-static-website](https://github.com/hashicorp/learn-terraform-cloudflare-static-website) - 
+- [jdhitsolutions/GitDevTest](https://github.com/jdhitsolutions/GitDevTest) - A practice and scratch Git repository.
 - [demophoon/obsidian-export-action](https://github.com/demophoon/obsidian-export-action) - Export Obsidian Vault with Github Actions
 - [Mara-Li/yet-another-free-publish-alternative](https://github.com/Mara-Li/yet-another-free-publish-alternative) - A Jekyll digital garden template, optimized for integration with Obsidian. It aims to enhance discoverability and help you build a personal knowledge base that can scale with time.
 - [re-data/re-data](https://github.com/re-data/re-data) - re_data - fix data issues before your users & CEO would discover them 😊
@@ -4863,7 +4864,6 @@
 - [jdhitsolutions/WindowsSandboxTools](https://github.com/jdhitsolutions/WindowsSandboxTools) - :camel: My PowerShell scripts and tools for setting up and configuring the Windows Sandbox
 - [jdhitsolutions/MySQLite](https://github.com/jdhitsolutions/MySQLite) - A small set of PowerShell commands for working with SQLite database files.
 - [jdhitsolutions/WTToolbox](https://github.com/jdhitsolutions/WTToolbox) - :computer: A set of PowerShell commands for managing and using the Windows Terminal application.
-- [jdhitsolutions/GitDevTest](https://github.com/jdhitsolutions/GitDevTest) - A practice and scratch Git repository.
 - [jdhitsolutions/PSSessionExport](https://github.com/jdhitsolutions/PSSessionExport) - A PowerShell proof-of-concept module to export and import a PowerShell console session.
 - [jdhitsolutions/PSTeachingTools](https://github.com/jdhitsolutions/PSTeachingTools) - :mortar_board: A set of commands and tools for teaching PowerShell. The module should work in Windows PowerShell, PowerShell 7.x and run cross-platform.
 - [jdhitsolutions/myTickle](https://github.com/jdhitsolutions/myTickle) - :date: A PowerShell and SQL Server-based reminder system
@@ -5430,6 +5430,7 @@
 
 ## Python 
 
+- [altairbow/django-db-connection-pool](https://github.com/altairbow/django-db-connection-pool) - Persistent database connection backends for Django
 - [petemc89/craXcel-cli](https://github.com/petemc89/craXcel-cli) - Command line application to unlock Microsoft Office password protected files.
 - [pyexcel/pyexcel-cli](https://github.com/pyexcel/pyexcel-cli) - A command utility to read and write data into csv, tsv, xls, xlsx and ods format.
 - [Mara-Li/mkdocs_obsidian_publish](https://github.com/Mara-Li/mkdocs_obsidian_publish) - Publish your obsidian vault through a python script
@@ -6098,7 +6099,7 @@
 - [Rilfanayasmin/Raven-coding](https://github.com/Rilfanayasmin/Raven-coding) - Practice programming with R and Python on all data science algorithms
 - [datasnakes/rinse](https://github.com/datasnakes/rinse) - A configurable installer CLI for installing R from source   (sudo and non-sudo).
 - [nosarthur/gita](https://github.com/nosarthur/gita) - Manage many git repos with sanity 从容管理多个git库
-- [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.
+- [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [ofek/hatch](https://github.com/ofek/hatch) - Modern, extensible Python project management
 - [mhagger/git-imerge](https://github.com/mhagger/git-imerge) - Incremental merge for git
 - [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images
@@ -6234,6 +6235,7 @@
 
 ## R 
 
+- [dkulp2/Google-Sign-In](https://github.com/dkulp2/Google-Sign-In) - Simple Example of Shiny App Using Google Sign-In API
 - [r-lib/backports](https://github.com/r-lib/backports) - Reimplementations of Functions Introduced Since R-3.0.0
 - [TimTeaFan/loopurrr](https://github.com/TimTeaFan/loopurrr) - Translate purrr functions into regular for loops
 - [ropenscilabs/deposits](https://github.com/ropenscilabs/deposits) - R Client for access to multiple data repository services
@@ -10513,7 +10515,7 @@
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [eggheadio/egghead-next](https://github.com/eggheadio/egghead-next) - The frontend for egghead.io.
-- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)
+- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (Preview)
 - [nexus-uw/vscode-gtm](https://github.com/nexus-uw/vscode-gtm) - 
 - [blogody/api-client](https://github.com/blogody/api-client) - Blogody API Client for your JavaScript/TypeScript projects
 - [blogody/export](https://github.com/blogody/export) - Easily export all your Blogody data
