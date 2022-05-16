@@ -178,7 +178,6 @@
 - [netoffice/NetOffice-NuGet](https://github.com/netoffice/NetOffice-NuGet) - :package: NuGet Packages for NetOffice
 - [AveYo/LeanAndMean](https://github.com/AveYo/LeanAndMean) - snippets for power users
 - [abbodi1406/BatUtil](https://github.com/abbodi1406/BatUtil) - Collection of batch scripts utilities for Windows
-- [whatever127/offlineinsiderenroll](https://github.com/whatever127/offlineinsiderenroll) - OfflineInsiderEnroll - A script to enable access to the Windows Insider Program on machines not signed in with Microsoft Account
 - [uwuowouwu420/ufws](https://github.com/uwuowouwu420/ufws) - ufws (UnFuck Windows Setup)
 - [ItzLevvie/RegisterToInsiderOffline](https://github.com/ItzLevvie/RegisterToInsiderOffline) - This project was created from Batch which allows people to register their device to the Windows Insider Program without using an account.
 - [voletro/wsa-toolbox](https://github.com/voletro/wsa-toolbox) - A Windows 11 application to easily install and use the Windows Subsystem For Android™ package on your computer.
@@ -259,7 +258,7 @@
 - [dimitri/pgcopydb](https://github.com/dimitri/pgcopydb) - Copy a Postgres database to a target Postgres server (pg_dump | pg_restore on steroids)
 - [yandex/odyssey](https://github.com/yandex/odyssey) - Scalable PostgreSQL connection pooler
 - [atheriel/fluent-bit-rsconnect](https://github.com/atheriel/fluent-bit-rsconnect) - A Fluent Bit filter plugin for use with RStudio Connect.
-- [brodieG/fapply](https://github.com/brodieG/fapply) - Experimental and Limited R to C Conversion and Execution
+- [brodieG/r2c](https://github.com/brodieG/r2c) - Experimental and Limited R to C Conversion and Execution
 - [pbatard/libwdi](https://github.com/pbatard/libwdi) - Windows Driver Installer library for USB devices
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [rsund/SurvoR](https://github.com/rsund/SurvoR) - Survo R is an open source version of the  general computing environment Survo developed by professor  Seppo Mustonen
@@ -1925,7 +1924,7 @@
 - [thebioengineer/validation](https://github.com/thebioengineer/validation) - Repository for Validation of R Packages
 - [JohnCoene/javascript-for-r](https://github.com/JohnCoene/javascript-for-r) - 📚 JavaScript for R CRC Book
 - [yihui/xran](https://github.com/yihui/xran) - Xie's R Archive Network (experimental and for my personal interest only)
-- [w01fgang/webhook-logger](https://github.com/w01fgang/webhook-logger) - 
+- [w01fgang/webhook-logger](https://github.com/w01fgang/webhook-logger) - Simple webhook logger
 - [louislow81/louislow81.github.io](https://github.com/louislow81/louislow81.github.io) - My personal and portfolio website
 - [ianw/bottomupcs](https://github.com/ianw/bottomupcs) - Bottom Up Computer Science
 - [rust-lang/compiler-team](https://github.com/rust-lang/compiler-team) - A home for compiler team planning documents, meeting minutes, and other such things.
@@ -2264,7 +2263,7 @@
 - [miguelhincapie/CustomBottomSheetBehavior](https://github.com/miguelhincapie/CustomBottomSheetBehavior) - Custom BottomSheetBehavior for Android that mimic Google Maps behavior
 - [cesardeazevedo/react-native-bottom-sheet-behavior](https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior) - react-native wrapper for android BottomSheetBehavior
 - [airbnb/AirMapView](https://github.com/airbnb/AirMapView) - A view abstraction to provide a map user interface with various underlying map providers
-- [jrvansuita/MaterialAbout](https://github.com/jrvansuita/MaterialAbout) - It's a material-design about screen to use on your Android apps. A developer profile and application information easy to integrate. 🔖
+- [jrvansuita/MaterialAbout](https://github.com/jrvansuita/MaterialAbout) - 🔖 It's a material-design about screen to use on your Android apps. A developer profile and application information easy to integrate.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [apolloconfig/apollo](https://github.com/apolloconfig/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
@@ -3646,7 +3645,7 @@
 
 ## Objective-C 
 
-- [thatcluda/Diary](https://github.com/thatcluda/Diary) - Windows 10/11 lock screen replica
+- [Traurige/Diary](https://github.com/Traurige/Diary) - Windows 10/11 lock screen replica
 - [programming-nu/nu](https://github.com/programming-nu/nu) - Nu is an interpreted Lisp that builds on the Objective-C runtime and Foundation framework.
 - [JustinFincher/GitHubContributionsiOS](https://github.com/JustinFincher/GitHubContributionsiOS) - Show off your GitHub contributions from your lock screen 📱
 - [R-macos/Mac-GUI](https://github.com/R-macos/Mac-GUI) - R GUI for macOS
@@ -4290,7 +4289,7 @@
 - [oholovko/git-crypt-windows](https://github.com/oholovko/git-crypt-windows) - Auto build AGWA/git-crypt for Windows.
 - [cderv/pins-board](https://github.com/cderv/pins-board) - To share data using the pins package
 - [tidyverse/tidy-dev-day](https://github.com/tidyverse/tidy-dev-day) - Tidyverse developer day
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - 🤓 Build your own (insert technology here)
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [rubymorillo/pocket-tech-writing-list](https://github.com/rubymorillo/pocket-tech-writing-list) - A small but formidable list of technical writing resources for developers
 - [bennyxguo/theme-obsidian-doc](https://github.com/bennyxguo/theme-obsidian-doc) - Documentation for theme `Obisidian`
 - [tallguyjenks/template](https://github.com/tallguyjenks/template) - My Template Repo
@@ -4726,7 +4725,6 @@
 - [zabbix/zabbix](https://github.com/zabbix/zabbix) - Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
 - [dereckson/ObsidianWorkspaces](https://github.com/dereckson/ObsidianWorkspaces) - Obsidian Workspaces
 - [FOGProject/fogproject](https://github.com/FOGProject/fogproject) - An open source computer cloning & management system
-- [uup-dump/api](https://github.com/uup-dump/api) - UUP dump API code
 - [ksdev-pl/Gist-List](https://github.com/ksdev-pl/Gist-List) - Clear Organization of Your Gists
 - [sagebind/windows-registry](https://github.com/sagebind/windows-registry) - A small library for accessing and manipulating the Windows registry.
 - [petitpress/gps-messenger-bundle](https://github.com/petitpress/gps-messenger-bundle) - The bundle provides a simple implementation of Google Pub/Sub transport for Symfony Messenger.
@@ -6440,6 +6438,7 @@
 
 ## R 
 
+- [jimbrig/configR](https://github.com/jimbrig/configR) - R Configuration Package
 - [lz100/gen242_shiny_template](https://github.com/lz100/gen242_shiny_template) - Shiny template for GEN242 class
 - [hrbrmstr/udpprobe](https://github.com/hrbrmstr/udpprobe) - 🔎 Send User Datagram Protocol ('UDP') Probes and Receive Responses in R
 - [socialresearchcentre/testdat](https://github.com/socialresearchcentre/testdat) - Data Unit Testing for R
@@ -10317,7 +10316,6 @@
 - [calledtoconstruct/devbuntu](https://github.com/calledtoconstruct/devbuntu) - Scripts for creating and using a custom Ubuntu Live Image for software development, kubernetes, service mesh, and beyond.
 - [Mexit/MultiOS-USB](https://github.com/Mexit/MultiOS-USB) - Boot operating systems directly from ISO files
 - [ValdikSS/windows2usb](https://github.com/ValdikSS/windows2usb) - Windows 7/8/8.1/10/11 ISO to Flash Drive burning utility for Linux (MBR/GPT, BIOS/UEFI, FAT32/NTFS)
-- [uup-dump/converter](https://github.com/uup-dump/converter) - Multiplatform UUP converter
 - [jimscratch/obsidian-test-sync-vault](https://github.com/jimscratch/obsidian-test-sync-vault) - 
 - [logseq/git-auto](https://github.com/logseq/git-auto) - A Simple Shell Script To Do Git Commit And Push Automatically
 - [udacity/create-your-own-adventure](https://github.com/udacity/create-your-own-adventure) - This is example repo illustrates the concept of a "Pull Request", created as part of the course How to Use Git and GitHub
