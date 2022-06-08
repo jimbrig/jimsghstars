@@ -31,7 +31,7 @@ jobs:
         run: |
           install.packages(c("rsconnect", "automagic"))
           setwd(Sys.getenv("WORK_DIR"))
-          automagic::install_deps_file('app/deps.yaml')        
+          automagic::install_deps_file('app')        
           source("get_github_stars.R")
         shell: Rscript {0}
 
