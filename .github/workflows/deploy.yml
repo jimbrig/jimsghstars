@@ -27,12 +27,15 @@ jobs:
 
       #- uses: r-lib/actions/setup-renv@v2
 
-      - name: Install Build Packages
+      - name: Install Package Dependencies
         run: |
           install.packages(c("rsconnect", "automagic"))
           setwd(Sys.getenv("WORK_DIR"))
-          automagic::install_deps_file('app')
-          install.packages(c("magrittr", "gh", "purrr", "tibble", "dplyr", "qs", "fs"))
+          automagic::install_deps_file()
+        shell: Rscript {0}
+
+      - name: Retrieve GitHub Stars Data
+        run: |
           source("get_github_stars.R")
         shell: Rscript {0}
 

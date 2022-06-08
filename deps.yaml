@@ -34,3 +34,9 @@
 - Package: lubridate
   Repository: CRAN
   Version: 1.8.0
+- Package: config
+  Repository: CRAN
+  Version: 0.3.1
+- Package: automagic
+  Repository: CRAN
+  Version: 0.5.1

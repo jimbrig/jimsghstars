@@ -36,5 +36,8 @@ out <- tibble::tibble(
 
 fs::dir_create("data")
 
-qs::qsave(out, paste0("data/", Sys.Date(), "-jimbrig-github-starred-repos.qs"))
+out_file <- paste0("data/", Sys.Date(), "-jimbrig-github-starred-repos.qs")
+shiny_file <- "app/data/stars-latest.qs"
 
+qs::qsave(out, out_file)
+qs::qsave(out, shiny_file)
