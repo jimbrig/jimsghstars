@@ -14,6 +14,7 @@ jobs:
         working-directory: ${{ github.workspace }}
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+      WORK_DIR: ${{ github.workspace }}
       
     steps:
       - uses: actions/checkout@v2
@@ -29,6 +30,7 @@ jobs:
       - name: Install Build Packages
         run: |
           install.packages(c("rsconnect", "automagic"))
+          setwd(Sys.getenv("WORK_DIR"))
           automagic::install_deps_file('app/deps.yaml')        
           source("get_github_stars.R")
         shell: Rscript {0}
