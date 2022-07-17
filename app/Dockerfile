@@ -4,7 +4,7 @@
 # WORKDIR /home/shinyusr
 # RUN Rscript generate_stars.R
 
-FROM rocker/shiny:latest
+FROM rocker/shiny:4
 RUN install2.r rsconnect
 COPY . /home/shinyusr/
 WORKDIR /home/shinyusr
