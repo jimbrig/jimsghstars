@@ -17,7 +17,7 @@ jobs:
       SHINY_ACCOUNT: ${{ secrets.SHINY_ACCOUNT }}
       SHINY_TOKEN: ${{ secrets.SHINY_TOKEN }}
       SHINY_SECRET: ${{ secrets.SHINY_SECRET }}
-      WORK_DIR: ${{ github.workspace }}      
+      WORK_DIR: ${{ github.workspace }}
     steps:
       - uses: actions/checkout@v2
       - uses: r-lib/actions/setup-pandoc@v2
