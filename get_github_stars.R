@@ -5,6 +5,7 @@ library(tibble)
 library(dplyr)
 library(qs)
 library(fs)
+library(lubridate)
 
 mystars <- gh::gh("/users/:username/starred", username = "jimbrig", .limit = Inf)
 
