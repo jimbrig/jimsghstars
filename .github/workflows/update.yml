@@ -1,0 +1,33 @@
+name: Update Data
+
+on:
+  schedule:
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+  
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+    - uses: actions/checkout@v3
+    - uses: r-lib/actions/setup-r@v2
+      with:
+        use-public-rspm: true
+    - name: Install Packages
+      run: |
+        install.packages(c("rsconnect", "automagic", "gh", "magrittr", "purrr", "tibble", "dplyr", "qs", "fs"))
+      shell: Rscript {0}
+    - name: Update Data
+      run: |
+        source("get_github_stars.R")
+      shell: Rscript {0}
+    - name: Commit
+      run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add --all
+          git commit -am "add data"
+          git push 
+    
