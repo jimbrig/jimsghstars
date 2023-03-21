@@ -17,7 +17,7 @@ jobs:
         use-public-rspm: true
     - name: Install Packages
       run: |
-        install.packages(c("rsconnect", "automagic", "gh", "magrittr", "purrr", "tibble", "dplyr", "qs", "fs", "lubridate"))
+        install.packages(c("rsconnect", "automagic", "gh", "magrittr", "purrr", "tibble", "dplyr", "qs", "fs", "lubridate", "stringr"))
       shell: Rscript {0}
     - name: Update Data
       run: |
