@@ -5,7 +5,10 @@ account: jimsshinyapps
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 6450709
-bundleId: 5988060
+bundleId: 6989970
 url: https://jimsshinyapps.shinyapps.io/jimsghstars/
-when: 1654666847.17899
-lastSyncTime: 1654666847.17901
+when: 1679447870.29177
+lastSyncTime: 1679447870.2918
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Dockerfile
