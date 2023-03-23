@@ -1009,6 +1009,7 @@
 - [blueswen/mkdocs-swagger-ui-tag](https://github.com/blueswen/mkdocs-swagger-ui-tag) - A MkDocs plugin supports for add Swagger UI in page.
 - [yorubadeveloper/flask-admin-boilerplate](https://github.com/yorubadeveloper/flask-admin-boilerplate) - Flask Admin Boilerplate with MongoDB
 - [app-generator/flask-star-admin](https://github.com/app-generator/flask-star-admin) - Star Admin - Open-Source Flask Dashboard | AppSeed
+- [app-generator/boilerplate-code-flask-dashboard](https://github.com/app-generator/boilerplate-code-flask-dashboard) - Boilerplate Code - Flask Dashboard Template project | AppSeed
 - [app-generator/flask-datta-able](https://github.com/app-generator/flask-datta-able) - Datta Able - Open-Source Flask Dashboard | AppSeed
 - [app-generator/flask-black-dashboard](https://github.com/app-generator/flask-black-dashboard) - Flask Black Dashboard - Open-source seed project | AppSeed
 - [jimmybow/Flask_template_auth_with_Dash](https://github.com/jimmybow/Flask_template_auth_with_Dash) - Flask_template_auth_with_Dash
@@ -1415,6 +1416,7 @@
 
 ## Go 
 
+- [Azure/terraform-verified-module](https://github.com/Azure/terraform-verified-module) - A template for verified Terraform module.
 - [jackyzha0/nanoDB](https://github.com/jackyzha0/nanoDB) - 💾 a simple, easy, and debuggable document database for prototyping and hackathons
 - [minamijoyo/tfupdate](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform configurations
 - [minamijoyo/tfedit](https://github.com/minamijoyo/tfedit) - A refactoring tool for Terraform
@@ -1655,7 +1657,6 @@
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [techschool/simplebank](https://github.com/techschool/simplebank) - Backend master class: build a simple bank service in Go
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
-- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [vfarcic/gke-autopilot-demo](https://github.com/vfarcic/gke-autopilot-demo) - 
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white 
@@ -4161,7 +4162,7 @@
 - [hexylena/dotfiles](https://github.com/hexylena/dotfiles) - My rubbish dotfiles repo
 - [Eggbertx/awesome-config](https://github.com/Eggbertx/awesome-config) - My awesome (window manager) configuration setup
 - [theasp/awesome-config](https://github.com/theasp/awesome-config) - Configuration GUI and plugin API for the Awesome window manager
-- [onodera-punpun/dotfiles](https://github.com/onodera-punpun/dotfiles) - My dotfiles and themes.
+- [CamilleScholtz/dotfiles](https://github.com/CamilleScholtz/dotfiles) - My dotfiles and themes.
 - [sile-typesetter/sile](https://github.com/sile-typesetter/sile) - Simon’s Improved Layout Engine
 - [pandoc/lua-filters](https://github.com/pandoc/lua-filters) - A collection of lua filters for pandoc
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
@@ -5683,6 +5684,7 @@
 
 ## PowerShell 
 
+- [PsCustomObject/PowerShell-Functions](https://github.com/PsCustomObject/PowerShell-Functions) - A repository containing all functions usually part of my modules
 - [ninmonkey/ninMonkQuery-examples](https://github.com/ninmonkey/ninMonkQuery-examples) - Power Query Examples, with a bit of monkey business.
 - [ninmonkey/Ninmonkey.Powershell](https://github.com/ninmonkey/Ninmonkey.Powershell) - Miscellaneous utility functions
 - [ninmonkey/VSCode-ConfigSnippets](https://github.com/ninmonkey/VSCode-ConfigSnippets) - These are mini VS Code config files by topic, instead of dumping an entire user.js profile
@@ -6989,7 +6991,7 @@
 - [Engineer152/pycodapi](https://github.com/Engineer152/pycodapi) - Asynchronous, object-oriented Python wrapper for the Call of Duty API.
 - [TodoLodo/cod-python-api](https://github.com/TodoLodo/cod-python-api) - Call Of Duty API Library for python
 - [techjacker/dynamodbtocsv](https://github.com/techjacker/dynamodbtocsv) - Downloads an AWS DynamoDB table and exports to CSV
-- [travistrle/export-dynamodb](https://github.com/travistrle/export-dynamodb) - Export Amazon DynamoDb to CSV or JSON
+- [truongleswe/export-dynamodb](https://github.com/truongleswe/export-dynamodb) - Export Amazon DynamoDb to CSV or JSON
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [frajdouglas/Data-Catalogger](https://github.com/frajdouglas/Data-Catalogger) - Create a File Metadata Summary for your Azure File Shares
 - [InfuseAI/piperider](https://github.com/InfuseAI/piperider) - Code review for data in dbt
@@ -7150,6 +7152,7 @@
 - [aws-samples/aws-glue-samples](https://github.com/aws-samples/aws-glue-samples) - AWS Glue code samples
 - [artofhuman/django-pg-upsert](https://github.com/artofhuman/django-pg-upsert) - Support Postgres native upsert (INSERT ... ON CONFLICT) for django
 - [hyperqueryhq/whale](https://github.com/hyperqueryhq/whale) - 🐳 The stupidly simple CLI workspace for your data warehouse.
+- [Azure/review-checklists](https://github.com/Azure/review-checklists) - This repo contains code and examples to operationalize spreadsheet-based checklists that can be used for Azure design reviews on multiple technologies.
 - [eligoenergy/s3csv_fdw](https://github.com/eligoenergy/s3csv_fdw) - S3 CSV Foreign Data Wrapper Using Multicorn
 - [mara/mara-example-project-1](https://github.com/mara/mara-example-project-1) - Runnable e-commerce mini data warehouse based on Python, PostgreSQL & Metabase, template for new projects
 - [mara/mara-pipelines](https://github.com/mara/mara-pipelines) - A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow
@@ -11599,7 +11602,7 @@
 - [blainehansen/postgres_migrator](https://github.com/blainehansen/postgres_migrator) - A postgres migration generator and runner that uses raw declarative sql.
 - [fabianlindfors/reshape](https://github.com/fabianlindfors/reshape) - An easy-to-use, zero-downtime schema migration tool for Postgres
 - [sbdchd/squawk](https://github.com/sbdchd/squawk) - 🐘 linter for PostgreSQL, focused on migrations
-- [sigoden/argc](https://github.com/sigoden/argc) - Easily create a feature-rich command-line application in Bash.
+- [sigoden/argc](https://github.com/sigoden/argc) - An elegant command-line options, arguments and sub-commands parser for bash.
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - RisingWave: A Distributed SQL Database for Stream Processing
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [Zaplib/zaplib](https://github.com/Zaplib/zaplib) - ⚡ Zaplib is an open-source library for speeding up web applications using Rust and WebAssembly.
@@ -11714,7 +11717,6 @@
 - [OAI/Documentation](https://github.com/OAI/Documentation) - OpenAPI - Getting started, and the specification explained
 - [app-generator/devtool-flask-api-generator](https://github.com/app-generator/devtool-flask-api-generator) - Flask API Generator - Open-Source Tool for Developers | AppSeed
 - [app-generator/boilerplate-code-flask](https://github.com/app-generator/boilerplate-code-flask) - Boilerplate Code - Flask Template project | AppSeed
-- [app-generator/boilerplate-code-flask-dashboard](https://github.com/app-generator/boilerplate-code-flask-dashboard) - Boilerplate Code - Flask Dashboard Template project | AppSeed
 - [app-generator/flask-argon-dashboard](https://github.com/app-generator/flask-argon-dashboard) - Flask Dashboard - Argon Design | AppSeed
 - [app-generator/flask-material-dashboard](https://github.com/app-generator/flask-material-dashboard) - Flask Dashboard - Material Design | AppSeed
 - [repo-helper/dependency-dash](https://github.com/repo-helper/dependency-dash) - A fully Open Source dependency dashboard.
@@ -12705,7 +12707,7 @@
 - [aidenlx/alx-folder-note](https://github.com/aidenlx/alx-folder-note) - Add description, summary, and more info to folders with folder notes.
 - [phibr0/obsidian-customizable-sidebar](https://github.com/phibr0/obsidian-customizable-sidebar) - This Plugin allows you to add every Command to Obsidian's Sidebar Ribbon and add Custom Icons.
 - [TfTHacker/obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat) - BRAT - Beta Reviewer's Auto-update Tool for Obsidian. Part of the Obsidian42 family of plugins.
-- [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) - A plugin to easily publish note to github using a frontmatter state entry
+- [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) - Github Publisher helps you to publish your notes on a preconfigured GitHub repository, for free, and more!
 - [bramses/obsidian-stack-overflow](https://github.com/bramses/obsidian-stack-overflow) - Fetch Stack Oveflow answers and copy paste them directly into Obsidian
 - [cumany/obsidian-echarts](https://github.com/cumany/obsidian-echarts) - Render echarts in obsidian,[Apache ECharts](https://echarts.apache.org/en/index.html) An Open Source JavaScript Visualization Library
 - [ntawileh/obsidian-google-lookup](https://github.com/ntawileh/obsidian-google-lookup) - Obsidian plugin that pulls contact and calendar event information from your Google account
@@ -13042,6 +13044,7 @@
 - [chramos/react-native-skeleton-placeholder](https://github.com/chramos/react-native-skeleton-placeholder) - SkeletonPlaceholder is a React Native library to easily create an amazing loading effect.
 - [expo/create-react-native-app](https://github.com/expo/create-react-native-app) - Create React Native apps that run on iOS, Android, and web
 - [react-native-toolkit/react-native-responsive-dimensions](https://github.com/react-native-toolkit/react-native-responsive-dimensions) - Resposive fontSize, height and width for react-native components, that automatically adjusts itself based on screen-size of the device.
+- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [akaalias/obsidian-extract-pdf-highlights](https://github.com/akaalias/obsidian-extract-pdf-highlights) - Extract highlights, underlines and annotations from your PDFs into Obsidian
 - [eva-design/eva](https://github.com/eva-design/eva) - :dizzy:Customizable Design System easily adaptable to your Brand.
 - [software-mansion/react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native.
@@ -13493,7 +13496,6 @@
 - [BriargateExcel/VBATableManagement](https://github.com/BriargateExcel/VBATableManagement) - Routines to move data between tables and VBA dictionaries
 - [hilkoc/vbaDeveloper](https://github.com/hilkoc/vbaDeveloper) - Tools for development and version control of vba code
 - [RelaxTools/RelaxTools-Addin](https://github.com/RelaxTools/RelaxTools-Addin) - RelaxTools Addin for Microsoft Excel 2010/2013/2016
-- [Azure/review-checklists](https://github.com/Azure/review-checklists) - This repo contains code and examples to operationalize spreadsheet-based checklists that can be used for Azure design reviews on multiple technologies.
 - [brucemcpherson/VbaGit](https://github.com/brucemcpherson/VbaGit) - VbaGit created by VbaGit automation
 - [cavo789/vba_excel_sql](https://github.com/cavo789/vba_excel_sql) - SQL Server to Microsoft Excel. VBA class for Excel to make easy to access records stored in SQL Server and output these data in an Excel sheet; keeping or not the link
 - [IvanBond/Power-Refresh](https://github.com/IvanBond/Power-Refresh) - Schedule refresh of any Excel file using open-source scheduler & refresher written on VBA
