@@ -281,6 +281,7 @@
 
 ## Bicep 
 
+- [ThorstenHans/azure-container-apps-samples](https://github.com/ThorstenHans/azure-container-apps-samples) - A collection of Azure Container Apps samples
 - [RomanFaust0v/flaskAppDemo](https://github.com/RomanFaust0v/flaskAppDemo) - 
 - [erudinsky/Azure-Bicep-Workshop](https://github.com/erudinsky/Azure-Bicep-Workshop) - 💪 Azure Bicep Workshop: Deploy a full stack application to Azure using Bicep templates. The goal of the workshop us to learn Azure Bicep lang deploying azure landing zone and infrastructure for full s
 - [Azure/data-product-batch](https://github.com/Azure/data-product-batch) - Template to deploy a Data Product for Batch data processing into a Data Landing Zone of the Data Management & Analytics Scenario (former Enterprise-Scale Analytics). The Data Product template can be u
@@ -753,7 +754,6 @@
 - [b3coded/file-organizer](https://github.com/b3coded/file-organizer) - :rocket: Organize your files faster with a few clicks.
 - [saulojoab/Quick-File-Organizer](https://github.com/saulojoab/Quick-File-Organizer) - :rocket: Quickly organize files in a folder with a few clicks.
 - [webprofusion/certify](https://github.com/webprofusion/certify) - Professional TLS/SSL Certificate Manager UI for Windows, powered by Let's Encrypt and compatible with all ACME v2 CAs. Download from certifytheweb.com
-- [RickStrahl/MarkdownMonster](https://github.com/RickStrahl/MarkdownMonster) - An extensible Markdown Editor, Viewer and Weblog Publisher for Windows
 - [LazoCoder/Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - Creative and unusual things that can be done with the Windows API.
 - [lucasg/Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
 - [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
@@ -1007,6 +1007,7 @@
 
 ## CSS 
 
+- [gitpitch/the-template](https://github.com/gitpitch/the-template) - GitPitch - Modern Slide Design Markdown Templates
 - [kasuken/stone.css](https://github.com/kasuken/stone.css) - CSS styles for HTML elements for your next Proof of Concept project
 - [juniors90/Flask-FomanticUI](https://github.com/juniors90/Flask-FomanticUI) - Flask extension to allow easy embedding of Fomantic-UI CSS Framework.
 - [app-generator/sample-flask-custom-command](https://github.com/app-generator/sample-flask-custom-command) - Flask Command-Line - Open-source Sample (Blueprints) | AppSeed
@@ -1303,7 +1304,7 @@
 - [jnshubham/aws-glue-local-etl-docker](https://github.com/jnshubham/aws-glue-local-etl-docker) - Contains docker image for setting up the glue libraries locally for etl developments
 - [webysther/aws-glue-docker](https://github.com/webysther/aws-glue-docker) - 🐋 Docker image for AWS Glue Spark/Python
 - [mgramin/docker-postgres-up-from-dump](https://github.com/mgramin/docker-postgres-up-from-dump) - Postgres image with dump data
-- [cd17822/lambda-s3-pg-backup](https://github.com/cd17822/lambda-s3-pg-backup) - Automatic Postgres to S3 Backups Using Docker on Lambda
+- [chardigio/lambda-s3-pg-backup](https://github.com/chardigio/lambda-s3-pg-backup) - Automatic Postgres to S3 Backups Using Docker on Lambda
 - [phdax/docker-rserve-tls-selfsigned](https://github.com/phdax/docker-rserve-tls-selfsigned) - Rserve with TLS/SSL connection mode by self-signed certificate
 - [ormico/sqlpackage-docker](https://github.com/ormico/sqlpackage-docker) - SqlPackage in a Docker image
 - [microsoft/mssql-docker](https://github.com/microsoft/mssql-docker) - Official Microsoft repository for SQL Server in Docker resources
@@ -1408,6 +1409,7 @@
 
 ## FreeBasic 
 
+- [PopovGP/Export-MS-Project-to-MS-Excel](https://github.com/PopovGP/Export-MS-Project-to-MS-Excel) - Export tasks, Gantt chart and resources from MS Project to MS Excel. No additional software or installation required. Using build-in MS Project features (VBA).
 - [ReneNyffenegger/VBAModules](https://github.com/ReneNyffenegger/VBAModules) - Modules for Visualb Basic for Applications
 - [ReneNyffenegger/about-VBA](https://github.com/ReneNyffenegger/about-VBA) - about VBA
 - [ReneNyffenegger/about-MS-Office-object-model](https://github.com/ReneNyffenegger/about-MS-Office-object-model) - About the MS Office objet model
@@ -1423,6 +1425,9 @@
 
 ## Go 
 
+- [avinor/tau](https://github.com/avinor/tau) - Tau is a thin wrapper on top of terraform to manage multiple deployments, dependencies and secrets.
+- [Azure/terraform-module-test-helper](https://github.com/Azure/terraform-module-test-helper) - 
+- [rfalias/terraform-provider-powershell](https://github.com/rfalias/terraform-provider-powershell) - 
 - [conradludgate/terraform-provider-spotify](https://github.com/conradludgate/terraform-provider-spotify) - Terraform provider for spotify
 - [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
 - [cyrilgdn/terraform-provider-postgresql](https://github.com/cyrilgdn/terraform-provider-postgresql) - Terraform PostgreSQL provider
@@ -1847,6 +1852,13 @@
 
 ## HCL 
 
+- [avinor/terraform-azuread-service-principal](https://github.com/avinor/terraform-azuread-service-principal) - Terraform module to create service principal credentials and assign it access to resources
+- [avinor/terraform-azurerm-key-vault](https://github.com/avinor/terraform-azurerm-key-vault) - Terraform module to create a Key Vault in Azure
+- [avinor/terraform-azuread-application](https://github.com/avinor/terraform-azuread-application) - Terraform module to create an application in Azure AD.
+- [avinor/terraform-azurerm-remote-backend](https://github.com/avinor/terraform-azurerm-remote-backend) - Terraform module to deploy a remote backend storage for Azure
+- [jakewalsh90/Terraform-Tips](https://github.com/jakewalsh90/Terraform-Tips) - Tips and Tricks I've picked up from working with Terraform.
+- [env0/terratag](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
+- [avinor/terraform-azurerm-container-registry](https://github.com/avinor/terraform-azurerm-container-registry) - Terraform module to create a docker container registry in Azure
 - [RichieBzzzt/terraform-azure-sql-pester](https://github.com/RichieBzzzt/terraform-azure-sql-pester) - 
 - [lukeorellana/terraform-azure-testing](https://github.com/lukeorellana/terraform-azure-testing) - A guide on how to test Terraform code.
 - [kunduso/AzureDevOps-Terraform-AWS-VPC-Integration](https://github.com/kunduso/AzureDevOps-Terraform-AWS-VPC-Integration) - A repo to store terraform configurations to provision an AWS VPC and two subnets that are provisioned using Azure DevOps and Powershell.
@@ -2308,7 +2320,7 @@
 - [GShotwell/easyMake](https://github.com/GShotwell/easyMake) - Automatically generate Makefiles for R projects
 - [ScottHands/ScottHands.github.io](https://github.com/ScottHands/ScottHands.github.io) - Portfolio
 - [arthrp/quick-skeleton-templates](https://github.com/arthrp/quick-skeleton-templates) - Templates for quick-skeleton scaffolding engine
-- [malcolmbarrett/causal_inference_r_workshop](https://github.com/malcolmbarrett/causal_inference_r_workshop) - Causal Inference in R Workshop
+- [r-causal/causal_inference_r_workshop](https://github.com/r-causal/causal_inference_r_workshop) - Causal Inference in R Workshop
 - [HarrisJT/web-launch-checklist](https://github.com/HarrisJT/web-launch-checklist) - :clipboard: A simple website launch checklist to keep track of the most important enrichment possibilities for a website.
 - [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [martinctc/parallaxr](https://github.com/martinctc/parallaxr) - Generate a parallax scroll document in R with YAML and Markdown
@@ -2330,6 +2342,7 @@
 - [foambubble/foam-template](https://github.com/foambubble/foam-template) - Foam workpace template
 - [byrnereese/mkdocs-bootstrap4](https://github.com/byrnereese/mkdocs-bootstrap4) - Bootstrap 4.0+ theme for MkDocs
 - [raghudotcc/scratchpad](https://github.com/raghudotcc/scratchpad) - As the name suggests, this is my scratchpad to try out code to understand a concept or try out new ideas
+- [RickStrahl/MarkdownMonster](https://github.com/RickStrahl/MarkdownMonster) - An extensible Markdown Editor, Viewer and Weblog Publisher for Windows
 - [xfirefly/Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) - Airplay Receiver SDK supports Airplay Mirroring and AirPlay Casting to a receiver device.
 - [r4ds/bookclub-rpkgs-old](https://github.com/r4ds/bookclub-rpkgs-old) - 
 - [gadenbuie/garrickadenbuie-com](https://github.com/gadenbuie/garrickadenbuie-com) - My personal website
@@ -4351,6 +4364,9 @@
 
 ## Others 
 
+- [avinor/azure-pipelines-templates](https://github.com/avinor/azure-pipelines-templates) - Azure Pipeline templates for building various projects with Azure Devops Pipelines
+- [jimbrig/terraform-azure-modules-fork](https://github.com/jimbrig/terraform-azure-modules-fork) - Azure verified modules for Terraform
+- [Azure/terraform-azure-modules](https://github.com/Azure/terraform-azure-modules) - Azure verified modules for Terraform
 - [ArielLomoctos/vba-projects](https://github.com/ArielLomoctos/vba-projects) - This repository contains all projects, coding standards, boilerplate, and best practices. This is intended to share my experience and expertise so everyone can fork or download everything from this re
 - [jimbrig/snips](https://github.com/jimbrig/snips) - Code snippets ( ~/.snips )
 - [ImkeF/M-Guide](https://github.com/ImkeF/M-Guide) - Collection of native M functions with unexpected behaviour and their workarounds.
@@ -4789,7 +4805,7 @@
 - [joelhans/ssdnodes-ansible-provision](https://github.com/joelhans/ssdnodes-ansible-provision) - A basic Ansible playbook to provision bare servers with SSH keys, iptables, and fail2ban. Built for SSD Nodes.
 - [tborychowski/self-hosted-cookbook](https://github.com/tborychowski/self-hosted-cookbook) - A cookbook, for docker-compose based recipes, for self-hosted applications and services.
 - [zeroday0619/WindowsTerminal-Configuration](https://github.com/zeroday0619/WindowsTerminal-Configuration) - Windows Terminal Configuration
-- [apsolut-resources/dotwindows-deprecated](https://github.com/apsolut-resources/dotwindows-deprecated) - windows configuration files - my list for fast transfer to new windows machine
+- [apsolut-archive/dotwindows-deprecated](https://github.com/apsolut-archive/dotwindows-deprecated) - windows configuration files - my list for fast transfer to new windows machine
 - [MilanAryal/config](https://github.com/MilanAryal/config) - Personal checklist for setting up a new Mac's dev environment.
 - [davidxia/gpg-conf](https://github.com/davidxia/gpg-conf) - ~/.gnupg/gpg.conf best practices
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
@@ -5762,6 +5778,19 @@
 
 ## PowerShell 
 
+- [EliiseS/terraform-pester-devcontainer-example](https://github.com/EliiseS/terraform-pester-devcontainer-example) - 
+- [psadmin-io/ps-terraform](https://github.com/psadmin-io/ps-terraform) - Terraform scripts to build PeopleSoft Images on different cloud providers
+- [giuliov/terraform-fun](https://github.com/giuliov/terraform-fun) - Hacks, notes and experiments with HashiCorp Terraform
+- [echuvyrov/terraform101](https://github.com/echuvyrov/terraform101) - 
+- [jimbrig/PSGitFiles](https://github.com/jimbrig/PSGitFiles) - PowerShell Module for generating and managing git files (`.gitignore`, `.gitattributes`, etc.)
+- [devblackops/psake.module.tasks](https://github.com/devblackops/psake.module.tasks) - Example of hosting psake tasks inside a standalone PowerShell module and invoking those tasks within a psake script
+- [azsk/AzTS-docs](https://github.com/azsk/AzTS-docs) - 
+- [azsk/DevOpsKit](https://github.com/azsk/DevOpsKit) - 
+- [devblackops/POSHOrigin](https://github.com/devblackops/POSHOrigin) - PowerShell framework for defining and invoking custom DSC resources to provision infrastructure.
+- [devblackops/watchmen](https://github.com/devblackops/watchmen) - Infrastructure test runner using Pester and OVF modules
+- [devblackops/AzSpeedTest](https://github.com/devblackops/AzSpeedTest) - Azure speed test tool for PowerShell
+- [devblackops/advent-of-code](https://github.com/devblackops/advent-of-code) - 
+- [devblackops/github-action-psscriptanalyzer](https://github.com/devblackops/github-action-psscriptanalyzer) - GitHub Action to run PSScriptAnalyzer static code analysis
 - [JackedProgrammer/CSV-Split](https://github.com/JackedProgrammer/CSV-Split) - Splitting CSV files in powershell
 - [JackedProgrammer/AutomatingAD](https://github.com/JackedProgrammer/AutomatingAD) - Automating Active Directory with PowerShell
 - [JackedProgrammer/MultipleFormGUI-PowerShell](https://github.com/JackedProgrammer/MultipleFormGUI-PowerShell) - 
@@ -6793,6 +6822,8 @@
 
 ## Python 
 
+- [jumanjihouse/pre-commit-hook-yamlfmt](https://github.com/jumanjihouse/pre-commit-hook-yamlfmt) - YAML formatter for http://pre-commit.com
+- [saadmk11/github-actions-version-updater](https://github.com/saadmk11/github-actions-version-updater) - A GitHub Action that Updates All GitHub Actions in a Repository and Creates a Pull Request with the Updates
 - [OpenLiberty/guides-common](https://github.com/OpenLiberty/guides-common) - Common Guide files
 - [nanit/j2g](https://github.com/nanit/j2g) - convert json schema to aws glue schema for terraform
 - [ganesshkumar/jake](https://github.com/ganesshkumar/jake) - CLI for personal tools
@@ -8031,6 +8062,10 @@
 
 ## R 
 
+- [Appsilon/rhino-showcase](https://github.com/Appsilon/rhino-showcase) - An example app built with Rhino to showcase its features
+- [StreamlineDataScience/str.rdev](https://github.com/StreamlineDataScience/str.rdev) - Take Home Package for R Developer
+- [jonthegeek/api2r](https://github.com/jonthegeek/api2r) - Rapidly Scaffold API Client Packages
+- [ThinkR-open/ghooks](https://github.com/ThinkR-open/ghooks) - 'Golem' Hooks for Standard 'Shiny' Apps
 - [MCodrescu/octopus](https://github.com/MCodrescu/octopus) - R Package for Interacting with Databases
 - [Rotifer/MYR](https://github.com/Rotifer/MYR) - R scripts
 - [mab923/https-github.com-datadicts-Intro-to-R-V2](https://github.com/mab923/https-github.com-datadicts-Intro-to-R-V2) - 
@@ -8115,7 +8150,6 @@
 - [HenrikBengtsson/trackers](https://github.com/HenrikBengtsson/trackers) - PROTOTYPE: trackers - Track Changes in R
 - [JanMarvin/openxlsx2](https://github.com/JanMarvin/openxlsx2) - openxlsx2 - read, write and modify xlsx files
 - [lionel-/codegrip](https://github.com/lionel-/codegrip) - Reshaping and navigation commands for R code
-- [paleolimbot/datafusion](https://github.com/paleolimbot/datafusion) - Experimental R Bindings to Datafusion
 - [mrparker909/rdict](https://github.com/mrparker909/rdict) - R package implementing a Dictionary data structure.
 - [mosesotieno/datalabels](https://github.com/mosesotieno/datalabels) - Labels a Dataset from Data Dictionary
 - [dbosak01/logr](https://github.com/dbosak01/logr) - An R package to write logs.
@@ -11713,6 +11747,7 @@
 - [untitaker/quickenv](https://github.com/untitaker/quickenv) - An unintrusive environment manager
 - [carlos-rian/pysqlx-core](https://github.com/carlos-rian/pysqlx-core) - A fast and async SQL database wrapper for Python, with support for MySQL, PostgreSQL, SQLite and MS SQL Server.
 - [wslutilities/wslcfg](https://github.com/wslutilities/wslcfg) - A tool to help configure `wsl.conf` for your WSL distribution.
+- [paleolimbot/datafusion](https://github.com/paleolimbot/datafusion) - Experimental R Bindings to Datafusion
 - [devmatteini/dra](https://github.com/devmatteini/dra) - A command line tool to download release assets from GitHub
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [jhandguy/aws-mfa](https://github.com/jhandguy/aws-mfa) - Authenticate to AWS with MFA 🔐
@@ -11916,6 +11951,7 @@
 
 ## Scala 
 
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [carta/exscalabur](https://github.com/carta/exscalabur) - Templated excel generation
 - [jhole89/aws-glue-sbt-quickstart](https://github.com/jhole89/aws-glue-sbt-quickstart) - Example of how to set SBT up for local development of AWS Glue Scripts
 - [awslabs/deequ](https://github.com/awslabs/deequ) - Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
@@ -12733,6 +12769,8 @@
 
 ## TypeScript 
 
+- [chinthakagodawita/autoupdate](https://github.com/chinthakagodawita/autoupdate) - A GitHub Action that auto-updates pull requests branches, whenever changes are pushed to their destination branch.
+- [hashhar/vscode-gitattributes](https://github.com/hashhar/vscode-gitattributes) - A simple extension that lets you pull .gitattribute files from https://github.com/alexkaratarakis/gitattributes and create a combined .gitattribute file.
 - [getmatterapp/obsidian-matter](https://github.com/getmatterapp/obsidian-matter) - The Matter Obsidian plugin
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 - [ganesshkumar/ganesshkumar.github.io](https://github.com/ganesshkumar/ganesshkumar.github.io) - Personal Blog
@@ -13437,6 +13475,7 @@
 
 ## VBA 
 
+- [x-vba/xplus](https://github.com/x-vba/xplus) - Excel Function Library
 - [airstrike/loopr](https://github.com/airstrike/loopr) - Excel VBA code for looping through scenarios
 - [Rotifer/VBA_SQL_GENERATOR](https://github.com/Rotifer/VBA_SQL_GENERATOR) - 
 - [Rotifer/VBA_GAS_UDFs](https://github.com/Rotifer/VBA_GAS_UDFs) - General utility functions for Excel and Google Sheets
@@ -13577,7 +13616,6 @@
 - [FeatherFire/vba-aws-sqs](https://github.com/FeatherFire/vba-aws-sqs) - VBA example code to request messages from Amazon Web Services SQS queue, using version 4 signing for the request
 - [todar/vba-project](https://github.com/todar/vba-project) - 💾 A Template for exporting VBA code into source folders. This makes integrating VBA with GIT version control a breeze.
 - [todar/vba-project-with-packages](https://github.com/todar/vba-project-with-packages) - 🚀 A template for writing VBA code. This includes exporting Source code, and a bunch of standard libraries.
-- [PopovGP/Export-MS-Project-to-MS-Excel](https://github.com/PopovGP/Export-MS-Project-to-MS-Excel) - Export tasks, Gantt chart and resources from MS Project to MS Excel. No additional software or installation required. Using build-in MS Project features (VBA).
 - [pchemguy/SecureADODB-Fork](https://github.com/pchemguy/SecureADODB-Fork) - Modified SecureADODB example
 - [cristianbuse/VBA-MemoryTools](https://github.com/cristianbuse/VBA-MemoryTools) - Native memory manipulation in VBA
 - [sancarn/stdVBA-Inspiration](https://github.com/sancarn/stdVBA-Inspiration) - Sample VB6 and VBA code used for inspiration of syntax/algorithms for usage in the stdVBA library
