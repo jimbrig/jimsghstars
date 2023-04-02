@@ -467,6 +467,7 @@
 
 ## C# # 
 
+- [cloudxeus/Azure-Dev](https://github.com/cloudxeus/Azure-Dev) - 
 - [Colectica/cogs](https://github.com/Colectica/cogs) - Convention-based Ontology Generation System
 - [Colectica/ColecticaSdkSamples](https://github.com/Colectica/ColecticaSdkSamples) - 
 - [kasuken/countrush](https://github.com/kasuken/countrush) - A visitor counter for your GitHub Readme
@@ -1007,6 +1008,8 @@
 
 ## CSS 
 
+- [Lithou/Sandbox](https://github.com/Lithou/Sandbox) - Testing and Experimentation for Obsidian and CSS
+- [stubailo/meteor-markdown-templating](https://github.com/stubailo/meteor-markdown-templating) - Make Meteor templates in .md files!
 - [gitpitch/the-template](https://github.com/gitpitch/the-template) - GitPitch - Modern Slide Design Markdown Templates
 - [kasuken/stone.css](https://github.com/kasuken/stone.css) - CSS styles for HTML elements for your next Proof of Concept project
 - [juniors90/Flask-FomanticUI](https://github.com/juniors90/Flask-FomanticUI) - Flask extension to allow easy embedding of Fomantic-UI CSS Framework.
@@ -1283,6 +1286,8 @@
 
 ## Dockerfile 
 
+- [cloudwise-devops/terraform-deployer-container](https://github.com/cloudwise-devops/terraform-deployer-container) - Custom Terraform image packaged with alll needed for deployments to work
+- [cloudwise-devops/terraform-deployer](https://github.com/cloudwise-devops/terraform-deployer) - 
 - [microsoft/code-with-engineering-playbook](https://github.com/microsoft/code-with-engineering-playbook) - This is the playbook for "code-with" customer or partner engagements
 - [techno-tim/launchpad](https://github.com/techno-tim/launchpad) - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
 - [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 90+ open-source web apps with one Docker command
@@ -1852,6 +1857,9 @@
 
 ## HCL 
 
+- [cloudwise-devops/testing-with-terraform-module](https://github.com/cloudwise-devops/testing-with-terraform-module) - 
+- [cloudwise-devops/testing-with-terraform-env-config](https://github.com/cloudwise-devops/testing-with-terraform-env-config) - 
+- [cloudxeus/terraform-azure](https://github.com/cloudxeus/terraform-azure) - 
 - [avinor/terraform-azuread-service-principal](https://github.com/avinor/terraform-azuread-service-principal) - Terraform module to create service principal credentials and assign it access to resources
 - [avinor/terraform-azurerm-key-vault](https://github.com/avinor/terraform-azurerm-key-vault) - Terraform module to create a Key Vault in Azure
 - [avinor/terraform-azuread-application](https://github.com/avinor/terraform-azuread-application) - Terraform module to create an application in Azure AD.
@@ -3630,7 +3638,6 @@
 - [timelyportfolio/rCharts_d3_sankey](https://github.com/timelyportfolio/rCharts_d3_sankey) - rCharts implementation of d3 sankey plugin
 - [benlcollins/apps_script](https://github.com/benlcollins/apps_script) - 
 - [jonasschmedtmann/complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course) - Starter files, final projects, and FAQ for my Complete JavaScript course
-- [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [kentcdodds/react-fundamentals](https://github.com/kentcdodds/react-fundamentals) - Material for my React Fundamentals Workshop
 - [b3nsn0w/koa-easy-ws](https://github.com/b3nsn0w/koa-easy-ws) - Simple Koa middleware for websocket handling
 - [egoist/devdocs-desktop](https://github.com/egoist/devdocs-desktop) - 🗂 A full-featured desktop app for DevDocs.io.
@@ -4364,6 +4371,7 @@
 
 ## Others 
 
+- [PurpleBooth/a-good-readme-template](https://github.com/PurpleBooth/a-good-readme-template) - A template to make good README.md
 - [avinor/azure-pipelines-templates](https://github.com/avinor/azure-pipelines-templates) - Azure Pipeline templates for building various projects with Azure Devops Pipelines
 - [jimbrig/terraform-azure-modules-fork](https://github.com/jimbrig/terraform-azure-modules-fork) - Azure verified modules for Terraform
 - [Azure/terraform-azure-modules](https://github.com/Azure/terraform-azure-modules) - Azure verified modules for Terraform
@@ -5125,7 +5133,7 @@
 - [kbariotis/templates](https://github.com/kbariotis/templates) - A set of standard document templates.
 - [shanselman/PrettyWindowsTerminalThings](https://github.com/shanselman/PrettyWindowsTerminalThings) - A place for how to make your Windows Terminal Pretty
 - [shanselman/shanselman](https://github.com/shanselman/shanselman) - 
-- [beerisgood/Windows11_Hardening](https://github.com/beerisgood/Windows11_Hardening) - A collection about Windows 11
+- [beerisgood/Windows11_Hardening](https://github.com/beerisgood/Windows11_Hardening) - a collection about Windows 11
 - [markvanderloo/maic](https://github.com/markvanderloo/maic) - Mark's Attempt to Imitate CRAN
 - [paeselhz/R-Tools-Google-Cloud-FollowUp](https://github.com/paeselhz/R-Tools-Google-Cloud-FollowUp) - This is a followup of the original document - RStudio and Shiny Server on GCP
 - [paeselhz/RStudio-Shiny-Server-on-GCP](https://github.com/paeselhz/RStudio-Shiny-Server-on-GCP) - The ultimate guide to deploy Rstudio Open Source and Shiny Server Open Source at Google Cloud Platform
@@ -5778,6 +5786,18 @@
 
 ## PowerShell 
 
+- [ticketmaster/poshspec](https://github.com/ticketmaster/poshspec) - Infrastructure Testing DSL running in Pester
+- [PowerShell/Operation-Validation-Framework](https://github.com/PowerShell/Operation-Validation-Framework) - 
+- [FriedrichWeinmann/Refactor](https://github.com/FriedrichWeinmann/Refactor) - PowerShell Code analysis and refactoring framework
+- [FriedrichWeinmann/Azure.Function.Tools](https://github.com/FriedrichWeinmann/Azure.Function.Tools) - 
+- [FriedrichWeinmann/PSInfernal](https://github.com/FriedrichWeinmann/PSInfernal) - Wrapper Module to get the latest versions of Fred's most commonly used PowerShell utilities & tools
+- [PowershellFrameworkCollective/PSModuleDevelopment](https://github.com/PowershellFrameworkCollective/PSModuleDevelopment) - Provides tools that help with module development
+- [FriedrichWeinmann/AutoRest](https://github.com/FriedrichWeinmann/AutoRest) - 
+- [techthoughts2/PoshNotify](https://github.com/techthoughts2/PoshNotify) - PowerShell application powered by Azure Functions that sends PowerShell news to Slack
+- [Azure/benchpress](https://github.com/Azure/benchpress) - Azure Testing Framework/Library project
+- [gscales/Powershell-Scripts](https://github.com/gscales/Powershell-Scripts) - 
+- [thedavecarroll/Workshop](https://github.com/thedavecarroll/Workshop) - My workshop - a place for things I'm working on
+- [thedavecarroll/IronScripterSolutions](https://github.com/thedavecarroll/IronScripterSolutions) - 
 - [EliiseS/terraform-pester-devcontainer-example](https://github.com/EliiseS/terraform-pester-devcontainer-example) - 
 - [psadmin-io/ps-terraform](https://github.com/psadmin-io/ps-terraform) - Terraform scripts to build PeopleSoft Images on different cloud providers
 - [giuliov/terraform-fun](https://github.com/giuliov/terraform-fun) - Hacks, notes and experiments with HashiCorp Terraform
@@ -6822,6 +6842,7 @@
 
 ## Python 
 
+- [Azure/autorest.az](https://github.com/Azure/autorest.az) - Azure CLI Code Generator
 - [jumanjihouse/pre-commit-hook-yamlfmt](https://github.com/jumanjihouse/pre-commit-hook-yamlfmt) - YAML formatter for http://pre-commit.com
 - [saadmk11/github-actions-version-updater](https://github.com/saadmk11/github-actions-version-updater) - A GitHub Action that Updates All GitHub Actions in a Repository and Creates a Pull Request with the Updates
 - [OpenLiberty/guides-common](https://github.com/OpenLiberty/guides-common) - Common Guide files
@@ -9802,7 +9823,7 @@
 - [umr1283/CARoT](https://github.com/umr1283/CARoT) - Centralised and Automated RepOrting Tools
 - [mcanouil/resume-template](https://github.com/mcanouil/resume-template) - Curriculum Vitae based on "pagedown::html_resume"
 - [mcanouil/clere](https://github.com/mcanouil/clere) - Simultaneous Variables Clustering and Regression
-- [mcanouil/DEV](https://github.com/mcanouil/DEV) - Some functions/utils in development ...
+- [mcanouil/miscellaneous-old-dev](https://github.com/mcanouil/miscellaneous-old-dev) - Some functions/utils in development ...
 - [mcanouil/rshiny](https://github.com/mcanouil/rshiny) - Introduction to the 'shiny' package
 - [umr1283/rain](https://github.com/umr1283/rain) - Reference-based Ancestry INference
 - [mcanouil/insane](https://github.com/mcanouil/insane) - An Interactive Web Application for Quality Control and Analysis of Insulin Secretion from Pancreatic Beta Cells
@@ -12769,6 +12790,10 @@
 
 ## TypeScript 
 
+- [Azure/autorest.powershell](https://github.com/Azure/autorest.powershell) - AutoRest PowerShell Generator
+- [anpigon/obsidian-book-search-plugin](https://github.com/anpigon/obsidian-book-search-plugin) - Obsidian plugin that automatically creates notes by searching for books
+- [trey-wallis/obsidian-notion-like-tables](https://github.com/trey-wallis/obsidian-notion-like-tables) - Your premiere tool for creating and managing tabular data in Obsidian.md
+- [yiglas/obsidian-file-publisher](https://github.com/yiglas/obsidian-file-publisher) - 
 - [chinthakagodawita/autoupdate](https://github.com/chinthakagodawita/autoupdate) - A GitHub Action that auto-updates pull requests branches, whenever changes are pushed to their destination branch.
 - [hashhar/vscode-gitattributes](https://github.com/hashhar/vscode-gitattributes) - A simple extension that lets you pull .gitattribute files from https://github.com/alexkaratarakis/gitattributes and create a combined .gitattribute file.
 - [getmatterapp/obsidian-matter](https://github.com/getmatterapp/obsidian-matter) - The Matter Obsidian plugin
@@ -13381,6 +13406,7 @@
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
+- [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [firebase/firebase-tools](https://github.com/firebase/firebase-tools) - The Firebase Command Line Tools
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [natemoo-re/natemoo-re](https://github.com/natemoo-re/natemoo-re) - 
