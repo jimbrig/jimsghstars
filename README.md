@@ -467,6 +467,9 @@
 
 ## C# # 
 
+- [TranslucentTB/Tools](https://github.com/TranslucentTB/Tools) - Various tools
+- [torchgm/RoundedTB](https://github.com/torchgm/RoundedTB) - Add margins, rounded corners and segments to your taskbars!
+- [karlospn/tf-azuredevops-pipelines-provisioner](https://github.com/karlospn/tf-azuredevops-pipelines-provisioner) - This repository contains a Terraform provider to create builds on classic mode with Azure DevOps. It creates opinionated builds based on a few parameters.
 - [cloudxeus/Azure-Dev](https://github.com/cloudxeus/Azure-Dev) - 
 - [Colectica/cogs](https://github.com/Colectica/cogs) - Convention-based Ontology Generation System
 - [Colectica/ColecticaSdkSamples](https://github.com/Colectica/ColecticaSdkSamples) - 
@@ -1857,6 +1860,8 @@
 
 ## HCL 
 
+- [hashicorp/hashicat-azure](https://github.com/hashicorp/hashicat-azure) - Sample app for Terraform workshops
+- [karlospn/bootstrapping-azure-subscription-and-azdo-project-for-terraform](https://github.com/karlospn/bootstrapping-azure-subscription-and-azdo-project-for-terraform) - This repository contains a script used to bootstrap an Azure subscription and an Azure DevOps project to start deploying infrastructure as code to Azure with Terraform.
 - [cloudwise-devops/testing-with-terraform-module](https://github.com/cloudwise-devops/testing-with-terraform-module) - 
 - [cloudwise-devops/testing-with-terraform-env-config](https://github.com/cloudwise-devops/testing-with-terraform-env-config) - 
 - [cloudxeus/terraform-azure](https://github.com/cloudxeus/terraform-azure) - 
@@ -1976,6 +1981,8 @@
 
 ## HTML 
 
+- [rich-iannone/pointblank-workshop](https://github.com/rich-iannone/pointblank-workshop) - A workshop to learn lots about the pointblank R package
+- [inadarei/rfc-healthcheck](https://github.com/inadarei/rfc-healthcheck) - Health Check Response RFC Draft for HTTP APIs
 - [mcgrory/ExcelArchivalTool](https://github.com/mcgrory/ExcelArchivalTool) - A VBS script for automatically converting Excel files
 - [neodexter/azdo-python-flask-webapp](https://github.com/neodexter/azdo-python-flask-webapp) - 
 - [neurogenomics/rworkflows](https://github.com/neurogenomics/rworkflows) - Continuous integration for R packages. Automates testing, documentation website building,     and containerised deployment.
@@ -2261,6 +2268,7 @@
 - [darekkay/dev-tools](https://github.com/darekkay/dev-tools) - Developer tools
 - [darekkay/config-files](https://github.com/darekkay/config-files) - My collection of .dotfiles, settings and snippets.
 - [smach/R4JournalismBook](https://github.com/smach/R4JournalismBook) - Companion site for my book Practical R for Mass Communication & Journalism, part of the CRC Press R Series
+- [SymbolixAU/googlePolylines](https://github.com/SymbolixAU/googlePolylines) - R package for encoding objects using Google's Polyline Encoding Algorithm
 - [SymbolixAU/mapdeck](https://github.com/SymbolixAU/mapdeck) - R interface to Deck.gl and Mapbox
 - [Appsilon/data.validator](https://github.com/Appsilon/data.validator) - validate your data and create nice reports straight from R
 - [ColoradoDemography/shiny-landing-page](https://github.com/ColoradoDemography/shiny-landing-page) - 
@@ -2763,6 +2771,7 @@
 
 ## JavaScript 
 
+- [rdavidhall3/r-pharma-js-toolchain-2022](https://github.com/rdavidhall3/r-pharma-js-toolchain-2022) - Repository of materials for the 2022 R/Pharma workshop on using a complete JavaScript toolchain
 - [Colectica/curation](https://github.com/Colectica/curation) - The Colectica Curation Tools allow data archives to structure the curation workflow.
 - [statgarten/statgarten](https://github.com/statgarten/statgarten) - Easily install and load packages from the statgarten
 - [zarathucorp/shiny-electron-template-m1-2023](https://github.com/zarathucorp/shiny-electron-template-m1-2023) - 
@@ -5786,6 +5795,11 @@
 
 ## PowerShell 
 
+- [oracle-quickstart/oci-prerequisites](https://github.com/oracle-quickstart/oci-prerequisites) - Instructions to get your environment ready to deploy OCI Quick Start examples
+- [KevinMarquette/PSGraph](https://github.com/KevinMarquette/PSGraph) - A set of utilities for working with Graphviz in Powershell
+- [pearcec/Invoke-Terraform](https://github.com/pearcec/Invoke-Terraform) - A cross-platform PowerShell module for downloading and invoking terraform binaries.
+- [JamesKovacs/scripts](https://github.com/JamesKovacs/scripts) - PowerShell Scripts
+- [psake/psake-contrib](https://github.com/psake/psake-contrib) - Contrib project for psake extensions
 - [ticketmaster/poshspec](https://github.com/ticketmaster/poshspec) - Infrastructure Testing DSL running in Pester
 - [PowerShell/Operation-Validation-Framework](https://github.com/PowerShell/Operation-Validation-Framework) - 
 - [FriedrichWeinmann/Refactor](https://github.com/FriedrichWeinmann/Refactor) - PowerShell Code analysis and refactoring framework
@@ -6842,6 +6856,7 @@
 
 ## Python 
 
+- [Colin-b/healthpy](https://github.com/Colin-b/healthpy) - Health Check for HTTP APIs (RFC implementation)
 - [Azure/autorest.az](https://github.com/Azure/autorest.az) - Azure CLI Code Generator
 - [jumanjihouse/pre-commit-hook-yamlfmt](https://github.com/jumanjihouse/pre-commit-hook-yamlfmt) - YAML formatter for http://pre-commit.com
 - [saadmk11/github-actions-version-updater](https://github.com/saadmk11/github-actions-version-updater) - A GitHub Action that Updates All GitHub Actions in a Repository and Creates a Pull Request with the Updates
@@ -6882,7 +6897,7 @@
 - [anthonywritescode/azure-sample-application](https://github.com/anthonywritescode/azure-sample-application) - sample flask app running in azure, provisioned with terraform
 - [Krishna2709/DataEngineering](https://github.com/Krishna2709/DataEngineering) - AWS | Azure | GCP | Docker | Terraform | Postgres
 - [nikhilakki/azure-devops-terraform-example](https://github.com/nikhilakki/azure-devops-terraform-example) - Repo for Azure DevOps example setup, CI/CD for Python app on Azure cloud
-- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) - Terravision visualises Terraform code as near-real time Professional Cloud Architecture Diagrams by analysing the code dynamically. Supports AWS, Google and Azure.
+- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) - Terravision visualises Terraform code as live Professional Cloud Architecture Diagrams by analysing the code dynamically. Supports AWS, Google and Azure.
 - [wujenny15/Build-CI-CD-Pipeline](https://github.com/wujenny15/Build-CI-CD-Pipeline) - Azure CI/CD pipeline, Makefile, Python, Azure App Service
 - [ezra-buckingham/terry-the-terraformer](https://github.com/ezra-buckingham/terry-the-terraformer) - A CLI for deploying red team infrastructure across mutliple cloud providers, all integrated with a virtual Nebula network, and full ELK integration
 - [mazen160/tfquery](https://github.com/mazen160/tfquery) - tfquery: Run SQL queries on your Terraform infrastructure.  Query resources and analyze its configuration using a SQL-powered framework.
@@ -9534,7 +9549,6 @@
 - [devOpifex/ambiorix.generator](https://github.com/devOpifex/ambiorix.generator) - Generate templates for ambiorix applications
 - [JohnCoene/packer](https://github.com/JohnCoene/packer) - webpack + npm + R = ❤️
 - [Nirzaree/ShinyWebAppWithFormAndLeafletMap](https://github.com/Nirzaree/ShinyWebAppWithFormAndLeafletMap) - This repo contains the code to build a webapp for data collection and viewing the map on a leaflet map using R Shiny. The specific webapp that I built is aimed to collect data of sustainability practi
-- [SymbolixAU/googlePolylines](https://github.com/SymbolixAU/googlePolylines) - R package for encoding objects using Google's Polyline Encoding Algorithm
 - [ropensci/roadoi](https://github.com/ropensci/roadoi) - Use Unpaywall with R
 - [emkoch/sfs-num-analysis](https://github.com/emkoch/sfs-num-analysis) - An R program for numerically computing the expected site frequency spectrum in a single population.
 - [rich-iannone/omsvg](https://github.com/rich-iannone/omsvg) - SVGs in R
@@ -11996,6 +12010,7 @@
 
 ## Shell 
 
+- [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
 - [gorosz/asdf-topgrade](https://github.com/gorosz/asdf-topgrade) - asdf plugin for topgrade install
 - [LinuxGamer/lingrade](https://github.com/LinuxGamer/lingrade) - A topgrade alternative
 - [nodenv/nodenv](https://github.com/nodenv/nodenv) - Manage multiple NodeJS versions.
@@ -12263,7 +12278,6 @@
 - [git-time-metric/gtm-terminal-plugin](https://github.com/git-time-metric/gtm-terminal-plugin) - Plugin for Bash or ZSH to be used with the Git Time Metric platform
 - [ventoy/wimiso](https://github.com/ventoy/wimiso) - This is an iso template for Ventoy to boot WIM file.
 - [pabloariasal/zfm](https://github.com/pabloariasal/zfm) - Zsh Fuzzy Marks
-- [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [s-p-k/foxy](https://github.com/s-p-k/foxy) - A simple script that handles bookmarks stored in a txt file.
 - [tj/bm](https://github.com/tj/bm) - CLI bookmarks -- dropbox persisted bookmarks in your terminal - view screenshots in your browser
