@@ -1433,6 +1433,7 @@
 
 ## Go 
 
+- [kirsle/configdir](https://github.com/kirsle/configdir) - A cross-platform Go library to get configuration and cache directories.
 - [avinor/tau](https://github.com/avinor/tau) - Tau is a thin wrapper on top of terraform to manage multiple deployments, dependencies and secrets.
 - [Azure/terraform-module-test-helper](https://github.com/Azure/terraform-module-test-helper) - 
 - [rfalias/terraform-provider-powershell](https://github.com/rfalias/terraform-provider-powershell) - 
@@ -2771,6 +2772,7 @@
 
 ## JavaScript 
 
+- [folder/xdg](https://github.com/folder/xdg) - Get cross-platform XDG Base Directories or their equivalents. Works with Linux, Windows, or MacOS.
 - [rdavidhall3/r-pharma-js-toolchain-2022](https://github.com/rdavidhall3/r-pharma-js-toolchain-2022) - Repository of materials for the 2022 R/Pharma workshop on using a complete JavaScript toolchain
 - [Colectica/curation](https://github.com/Colectica/curation) - The Colectica Curation Tools allow data archives to structure the curation workflow.
 - [statgarten/statgarten](https://github.com/statgarten/statgarten) - Easily install and load packages from the statgarten
@@ -4058,6 +4060,7 @@
 
 ## Jupyter Notebook 
 
+- [theyashmishra/Healthcare-claim-data-analysis](https://github.com/theyashmishra/Healthcare-claim-data-analysis) - AGBI Hackathon
 - [opendatazurich/quality-checks](https://github.com/opendatazurich/quality-checks) - A set of scripts to ensure and check the quality of data and metadata
 - [entbappy/cnnClassifier](https://github.com/entbappy/cnnClassifier) - 
 - [RhinoDBA/SQL911](https://github.com/RhinoDBA/SQL911) - 
@@ -5367,7 +5370,7 @@
 - [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
 - [agarrharr/awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services) - 📄 🛠 A curated list of awesome static websites services
 - [bnb/awesome-awesome-nodejs](https://github.com/bnb/awesome-awesome-nodejs) - 🐢🚀 An Awesome list of Awesome lists related to Node.js.
-- [JefMari/awesome-wysiwyg](https://github.com/JefMari/awesome-wysiwyg) - A curated list of awesome WYSIWYG editors.
+- [JefMari/awesome-wysiwyg-editors](https://github.com/JefMari/awesome-wysiwyg-editors) - A curated list of awesome WYSIWYG Editors.
 - [zero-equals-false/awesome-programming-books](https://github.com/zero-equals-false/awesome-programming-books) - 📚 A curated list of awesome programming books (Algorithms and data structures, Artificial intelligence, Software Architecture, Human–computer interaction, Operating Systems, Database Systems, IT Secur
 - [rShetty/awesome-distributed-systems](https://github.com/rShetty/awesome-distributed-systems) - Awesome list of distributed systems resources
 - [rob-med/awesome-TS-anomaly-detection](https://github.com/rob-med/awesome-TS-anomaly-detection) - List of tools & datasets for anomaly detection on time-series data.
@@ -6768,7 +6771,7 @@
 - [vors/ZLocation](https://github.com/vors/ZLocation) - ZLocation is the new Jump-Location
 - [jimbrig/winsetup](https://github.com/jimbrig/winsetup) - Windows 10 Setup
 - [asears/WindowsSetup](https://github.com/asears/WindowsSetup) - Apps for Windows
-- [pratyakshm/WinRice](https://github.com/pratyakshm/WinRice) - WinRice is a tool that uses PowerShell automation to setup your Windows devices.
+- [pratyakshm/WinRice](https://github.com/pratyakshm/WinRice) - WinRice makes setting up a new Windows device a child's play. Lay back and relax while it does some of the most common things that people usually do to setup a brand new device. It's all automatic ✨
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [Daksh777/windows10-debloat](https://github.com/Daksh777/windows10-debloat) - Collection of various scripts and apps to debloat Windows 10 for better privacy, performance and optimization.
 - [gordonbay/Windows-On-Reins](https://github.com/gordonbay/Windows-On-Reins) - Wor is a Powershell script to harden, debloat, optimize, enhance privacy, avoid fingerprinting and improve performance on Windows 10 and 11.
@@ -6938,7 +6941,7 @@
 - [dpgaspar/fab_addon_audit](https://github.com/dpgaspar/fab_addon_audit) - AddOn for Flask-AppBuilder. Will add audit to your ModelView's
 - [goldmann/docker-squash](https://github.com/goldmann/docker-squash) - Docker image squashing tool
 - [nuvic/flask_for_startups](https://github.com/nuvic/flask_for_startups) - Flask boilerplate using a services oriented structure
-- [Wizock/SuperiorPattern](https://github.com/Wizock/SuperiorPattern) - 
+- [Wizock/SuperiorPattern](https://github.com/Wizock/SuperiorPattern) - The Superior Pattern for Flask for Highly scalable structure to produce enterprise level applications
 - [wael34218/python_openapi_generator](https://github.com/wael34218/python_openapi_generator) - This library facilitates creating OpenAPI (Swagger) document for Python projects.
 - [maximdanilchenko/aiohttp-apispec](https://github.com/maximdanilchenko/aiohttp-apispec) - Build and document REST APIs with aiohttp and apispec
 - [klen/flask-restler](https://github.com/klen/flask-restler) - Yet another REST library for Flask
@@ -9966,7 +9969,7 @@
 - [yihui/animation](https://github.com/yihui/animation) - A gallery of animations in statistics and utilities to create animations
 - [yihui/mime](https://github.com/yihui/mime) - Map filenames to MIME types
 - [yihui/fun](https://github.com/yihui/fun) - Use R for Fun
-- [EvaYiwenWang/PLSDAbatch](https://github.com/EvaYiwenWang/PLSDAbatch) - R package for batch effect correction
+- [EvaYiwenWang/PLSDAbatch_workflow](https://github.com/EvaYiwenWang/PLSDAbatch_workflow) - R package for batch effect correction
 - [feddelegrand7/flipdownr](https://github.com/feddelegrand7/flipdownr) - 📆📆📆 Implement a Countdown in RMarkdown Documents and Shiny Applications
 - [sparklyr/sparklyr](https://github.com/sparklyr/sparklyr) - R interface for Apache Spark
 - [rstudio/forge](https://github.com/rstudio/forge) - forge: Casting values into shape
@@ -12010,6 +12013,7 @@
 
 ## Shell 
 
+- [lime-desu/dootsfile](https://github.com/lime-desu/dootsfile) - 🏠 - Personal Dotfiles (Managed by GNU Stow)
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
 - [gorosz/asdf-topgrade](https://github.com/gorosz/asdf-topgrade) - asdf plugin for topgrade install
 - [LinuxGamer/lingrade](https://github.com/LinuxGamer/lingrade) - A topgrade alternative
@@ -12658,7 +12662,7 @@
 - [Lierrmm/CodAPILandingPage](https://github.com/Lierrmm/CodAPILandingPage) - COD API landing page [Sept 2022]
 - [proofrock/pupcloud](https://github.com/proofrock/pupcloud) - [SUSPENDED] A portable web file manager and gallery
 - [liamcain/obsidian-calendar-ui](https://github.com/liamcain/obsidian-calendar-ui) - The UI that powers the obsidian-calendar-plugin
-- [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Evidence enables you to deliver a polished business intelligence system using SQL and markdown
+- [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Evidence is BI-as-code: It renders SQL and markdown pages into a data website.
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [badarsebard/terraforge](https://github.com/badarsebard/terraforge) - Graphical Terraform configuration generator
 - [sw-yx/swyxdotio](https://github.com/sw-yx/swyxdotio) - This is the repo for swyx's blog - Blog content is created in github issues, then posted on swyx.io as blog pages! Comment/watch to follow along my blog within GitHub
@@ -12693,6 +12697,7 @@
 
 ## TSQL 
 
+- [kevchant/GitHub-AzureSQLDatabase](https://github.com/kevchant/GitHub-AzureSQLDatabase) - Template to perform CI/CD for Azure SQL Database using GitHub Actions
 - [arvindshmicrosoft/azure-sql-devops](https://github.com/arvindshmicrosoft/azure-sql-devops) - Demos for Azure SQL DevOps presentation
 - [arvindshmicrosoft/azure-sql-action-test](https://github.com/arvindshmicrosoft/azure-sql-action-test) - Just a test for doing CI/CD with Azure SQL and GitHub Actions
 - [AhmadSabbirChowdhury/Microsoft-AdventureWorks-Database-Analysis-Visualization-with-PowerBI](https://github.com/AhmadSabbirChowdhury/Microsoft-AdventureWorks-Database-Analysis-Visualization-with-PowerBI) - I chose 'AdventureWorksLT2019.bak' and 'AdventureWorksLT2017.bak' data for analysis & visualization. The query editing was done in 'Microsoft SQL Server Management Studio' and the visualization part w
@@ -12804,6 +12809,7 @@
 
 ## TypeScript 
 
+- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [Azure/autorest.powershell](https://github.com/Azure/autorest.powershell) - AutoRest PowerShell Generator
 - [anpigon/obsidian-book-search-plugin](https://github.com/anpigon/obsidian-book-search-plugin) - Obsidian plugin that automatically creates notes by searching for books
 - [trey-wallis/obsidian-notion-like-tables](https://github.com/trey-wallis/obsidian-notion-like-tables) - Your premiere tool for creating and managing tabular data in Obsidian.md
