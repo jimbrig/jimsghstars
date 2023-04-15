@@ -822,6 +822,7 @@
 
 ## C++ 
 
+- [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
 - [apiaryio/drafter](https://github.com/apiaryio/drafter) - API Blueprint Parser (C++)
 - [timomax/pyactuary](https://github.com/timomax/pyactuary) - C++ actuarial library
 - [velofrog/readxlsb](https://github.com/velofrog/readxlsb) - Import Excel binary (.xlsb) spreadsheets into R
@@ -1993,6 +1994,8 @@
 
 ## HTML 
 
+- [problemofpoints/clrs-2018-reservetestr](https://github.com/problemofpoints/clrs-2018-reservetestr) - Presentation at 2018 CAS Loss Reserve Seminar
+- [problemofpoints/viz-uncertainty-presentation](https://github.com/problemofpoints/viz-uncertainty-presentation) - Communicating uncertainty - An Impossible Task??
 - [ehfeng/react-flask-app](https://github.com/ehfeng/react-flask-app) - 
 - [ybsuen/Flask-Leaflet-ChartJS](https://github.com/ybsuen/Flask-Leaflet-ChartJS) - This demonstration was inspired by a Python Flask and ChartJS tutorial hosted on pythonspot.com titled "Flask and great looking charts using Chart.js". What I added was the Leaflet map and MySQL integ
 - [UCSB-MEDS/EDS430-Shiny](https://github.com/UCSB-MEDS/EDS430-Shiny) - a 2-day hands-on coding workshop on building shiny apps & dashboards
@@ -2797,6 +2800,7 @@
 
 ## JavaScript 
 
+- [problemofpoints/problemofpoints](https://github.com/problemofpoints/problemofpoints) - Capital allocation in an uncertain world
 - [browserify/browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
 - [requirejs/requirejs](https://github.com/requirejs/requirejs) - A file and module loader for JavaScript
 - [app-generator/sample-flask-charts-js](https://github.com/app-generator/sample-flask-charts-js) - Flask Charts - Flask-RestX and Charts.JS | AppSeed
@@ -4099,6 +4103,7 @@
 
 ## Jupyter Notebook 
 
+- [arijitsaha/FloodRisk](https://github.com/arijitsaha/FloodRisk) - Study & assessment of probable impact of catastrophic flood events & manage flood risk with a first order flood-fill model developed using Python geospatial libraries
 - [andersbogsnes/pydata-copenhagen-2022-sqlalchemy-tutorial](https://github.com/andersbogsnes/pydata-copenhagen-2022-sqlalchemy-tutorial) - My SQLAlchemy tutorial for the Pydata Copenhagen Meetup
 - [andersbogsnes/pydata-london-2022-sqlalchemy-tutorial](https://github.com/andersbogsnes/pydata-london-2022-sqlalchemy-tutorial) - My tutorial on SQLAlchemy for Pydata London 2022 Conference
 - [SOA-ILEC-Demo/ILECTools](https://github.com/SOA-ILEC-Demo/ILECTools) - 
@@ -5851,6 +5856,7 @@
 
 ## PowerShell 
 
+- [Marvin700/Windows_Optimisation_Pack](https://github.com/Marvin700/Windows_Optimisation_Pack) - Debloat & Optimise your Windows
 - [omrsafetyo/PowerShellSnippets](https://github.com/omrsafetyo/PowerShellSnippets) - 
 - [Hugoberry/pbi2md](https://github.com/Hugoberry/pbi2md) - Summarise Power BI files into Markdown documents
 - [StartAutomating/Benchpress](https://github.com/StartAutomating/Benchpress) - Easy Benchmarking with PowerShell
@@ -6916,6 +6922,9 @@
 
 ## Python 
 
+- [omry/omegaconf](https://github.com/omry/omegaconf) - Flexible Python configuration system. The last one you will ever need.
+- [OasisLMF/ODS_Tools](https://github.com/OasisLMF/ODS_Tools) - Python package supporting ODS OpenDataStandards (OED / ORD)
+- [OasisLMF/OasisPiWind](https://github.com/OasisLMF/OasisPiWind) - Toy UK windstorm model
 - [sponsfreixes/jinja2-fragments](https://github.com/sponsfreixes/jinja2-fragments) - Render Jinja2 template block as HTML page fragments on Python web frameworks.
 - [Martlark/flask-serialize](https://github.com/Martlark/flask-serialize) - Read / Write JSON serialization of models for Flask applications using SQLAlchemy
 - [0b01001001/spectree](https://github.com/0b01001001/spectree) - API spec validator and  OpenAPI document generator for Python web frameworks.
@@ -8208,6 +8217,9 @@
 
 ## R 
 
+- [problemofpoints/popformatting](https://github.com/problemofpoints/popformatting) - Formatting Functions
+- [problemofpoints/buybackmath](https://github.com/problemofpoints/buybackmath) - Miscellaneous calculations related to share buybacks
+- [duckdblabs/db-benchmark](https://github.com/duckdblabs/db-benchmark) - reproducible benchmark of database-like ops
 - [djnavarro/webr-automata](https://github.com/djnavarro/webr-automata) - 
 - [rpodcast/prod-shiny-workshop](https://github.com/rpodcast/prod-shiny-workshop) - 
 - [EkremBayar/Formula-1-App](https://github.com/EkremBayar/Formula-1-App) - 
@@ -12038,6 +12050,7 @@
 
 ## SCSS 
 
+- [ovh/design-system](https://github.com/ovh/design-system) - A collection of assets, guidelines and UI components for building consistent user experiences across OVHcloud products.
 - [kasuken/screenhive.app](https://github.com/kasuken/screenhive.app) - A simple web screen recorder
 - [trussworks/trussels-guide](https://github.com/trussworks/trussels-guide) - 
 - [trussworks/research-design-playbook](https://github.com/trussworks/research-design-playbook) - Research and Design Playbook https://trussworks.github.io/research-design-playbook/
@@ -12137,6 +12150,9 @@
 
 ## Shell 
 
+- [Bhupesh-V/dotman](https://github.com/Bhupesh-V/dotman) - dotman is a simple, elegant & easy to use dotfiles manager 🖖🏽
+- [ovh/docs](https://github.com/ovh/docs) - Official repository containing all docs & guides of OVH Group
+- [OpenDRR/riskprofiler](https://github.com/OpenDRR/riskprofiler) - Web Application to Support Disaster Resilience / Application web pour soutenir la résilience aux catastrophes
 - [fdehau/dotfiles](https://github.com/fdehau/dotfiles) - @fdehau does dotfiles
 - [huyng/bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
 - [lime-desu/dootsfile](https://github.com/lime-desu/dootsfile) - 🏠 - Personal Dotfiles (Managed by GNU Stow)
@@ -14041,6 +14057,7 @@
 
 ## Vue 
 
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [julie-ng/cloud-architecture-review](https://github.com/julie-ng/cloud-architecture-review) - Cloud Architecture Review App
 - [testdrivenio/flask-vue-crud](https://github.com/testdrivenio/flask-vue-crud) - Single Page App with Flask and Vue.js
 - [TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) - Open-Source Implementation of the great dbdiagram.io
