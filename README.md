@@ -2800,6 +2800,8 @@
 
 ## JavaScript 
 
+- [ohm-en/obsidian-plugin-manager](https://github.com/ohm-en/obsidian-plugin-manager) - Allows better management of Obsidian.md plugins.
+- [lnilya/scto_obsidian](https://github.com/lnilya/scto_obsidian) - 
 - [problemofpoints/problemofpoints](https://github.com/problemofpoints/problemofpoints) - Capital allocation in an uncertain world
 - [browserify/browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
 - [requirejs/requirejs](https://github.com/requirejs/requirejs) - A file and module loader for JavaScript
@@ -7258,7 +7260,7 @@
 - [ricardolsmendes/datacatalog-custom-model-manager](https://github.com/ricardolsmendes/datacatalog-custom-model-manager) - Python package to load user-specified metadata models into Google Cloud Data Catalog, comprising Custom Entries, Tag Templates, and Tags
 - [tiangolo/meinheld-gunicorn-flask-docker](https://github.com/tiangolo/meinheld-gunicorn-flask-docker) - Docker image with Meinheld and Gunicorn for Flask applications in Python. Optionally with Alpine Linux.
 - [tylerwmarrs/dotfiles](https://github.com/tylerwmarrs/dotfiles) - Various Linux configs
-- [iterative/gto](https://github.com/iterative/gto) - Git Tag Ops. Turn your Git repository into Artifact Registry.
+- [iterative/gto](https://github.com/iterative/gto) - 🏷️ Git Tag Ops. Turn your Git repository into Artifact Registry of Model Registry.
 - [Novartis/habitat](https://github.com/Novartis/habitat) - "Where files live" - Simple object management system using AWS S3 and Elasticsearch Service to manage objects and their metadata
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [rstemmer/musicdb](https://github.com/rstemmer/musicdb) - 🎧 A music manager with focus on remote access to your music by having a WebUI and providing an audio stream.
@@ -8062,7 +8064,7 @@
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Version Control | Git for Data & Models | ML Experiments Management
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [nolte/gitlab-bulkcheckout](https://github.com/nolte/gitlab-bulkcheckout) - Gitlab Bulkcheckout
 - [apenwarr/redo](https://github.com/apenwarr/redo) - Smaller, easier, more powerful, and more reliable than make.  An implementation of djb's redo.
@@ -12992,7 +12994,7 @@
 - [aws-samples/aws-usage-queries](https://github.com/aws-samples/aws-usage-queries) - This application bootstraps everything needed to query the AWS Cost and Usage reports through Amazon Athena. It also includes reference data and preconfigured SQL queries.
 - [marc0l92/obsidian-jira-issue](https://github.com/marc0l92/obsidian-jira-issue) - This plugin allows you to track the progress of Atlassian Jira issues from your Obsidian notes.
 - [BOCOVO/vscode-dbml-preview](https://github.com/BOCOVO/vscode-dbml-preview) - DBML code preview extension for Vscode
-- [iterative/dvc.org](https://github.com/iterative/dvc.org) - 🔗 DVC website and documentation
+- [iterative/dvc.org](https://github.com/iterative/dvc.org) - ✨ DVC website and documentation
 - [optilude/xlsx-template](https://github.com/optilude/xlsx-template) - A NodeJS module to generate Excel files in .xlsx format from a template created with Excel itself
 - [alonrbar/easy-template-x](https://github.com/alonrbar/easy-template-x) - Generate docx documents from templates, in Node or in the browser.
 - [avallete/yt-playlists-delete-enhancer](https://github.com/avallete/yt-playlists-delete-enhancer) - Add a button to remove videos watched with more than X percent from watch later playlist.
