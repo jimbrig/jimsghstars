@@ -616,7 +616,7 @@
 - [fullstackhero/dotnet-webapi-boilerplate](https://github.com/fullstackhero/dotnet-webapi-boilerplate) - Clean Architecture Template for .NET 7.0 WebApi built with Multitenancy Support.
 - [c0dycode/WindowsDefenderEasyExceptionAdder](https://github.com/c0dycode/WindowsDefenderEasyExceptionAdder) - Minimalistic utility to manage Windows Defender Exclusions
 - [jofultz/mlservertemplates](https://github.com/jofultz/mlservertemplates) - 
-- [microsoft/PowerApps-Samples](https://github.com/microsoft/PowerApps-Samples) - Sample code for Power Apps, including Dataverse, model-driven apps, canvas apps, Power Apps component framework, portals, and ai-builder.
+- [microsoft/PowerApps-Samples](https://github.com/microsoft/PowerApps-Samples) - Sample code for Power Apps, including Dataverse, model-driven apps, canvas apps, Power Apps component framework, portals, and AI Builder.
 - [microsoft/PSRule](https://github.com/microsoft/PSRule) - Validate infrastructure as code (IaC) and objects using PowerShell rules.
 - [Hofknecht/SystemTrayMenu](https://github.com/Hofknecht/SystemTrayMenu) - SystemTrayMenu - Browse and open your files easily
 - [SeeminglyScience/PSStringTemplate](https://github.com/SeeminglyScience/PSStringTemplate) - Create and render templates using the StringTemplate template engine.
@@ -1017,6 +1017,7 @@
 
 ## CSS 
 
+- [daattali/attalitech](https://github.com/daattali/attalitech) - AttaliTech Ltd
 - [level09/enferno](https://github.com/level09/enferno) - A Python framework based on Flask microframework, with preconfigured user accounts, registration,authentication, caching, Redis, Celery, and best practices in mind.
 - [Surelinkinvestments/cleansite.github.io](https://github.com/Surelinkinvestments/cleansite.github.io) - http://surelinkinvestiments.com
 - [Lithou/Sandbox](https://github.com/Lithou/Sandbox) - Testing and Experimentation for Obsidian and CSS
@@ -1879,6 +1880,7 @@
 
 ## HCL 
 
+- [futurice/terraform-examples](https://github.com/futurice/terraform-examples) - Terraform samples for all the major clouds you can copy and paste. The future, co-created.
 - [cloudposse/terraform-example-module](https://github.com/cloudposse/terraform-example-module) - Example Terraform Module Scaffolding
 - [hashicorp/hashicat-azure](https://github.com/hashicorp/hashicat-azure) - Sample app for Terraform workshops
 - [karlospn/bootstrapping-azure-subscription-and-azdo-project-for-terraform](https://github.com/karlospn/bootstrapping-azure-subscription-and-azdo-project-for-terraform) - This repository contains a script used to bootstrap an Azure subscription and an Azure DevOps project to start deploying infrastructure as code to Azure with Terraform.
@@ -2000,6 +2002,7 @@
 
 ## HTML 
 
+- [TwilioDevEd/introduction-to-apis-notes](https://github.com/TwilioDevEd/introduction-to-apis-notes) - Introduction to APIs - v2
 - [healthchecks/dashboard](https://github.com/healthchecks/dashboard) - A standalone dashboard page showing the status of the checks in your Healthchecks.io account.
 - [ActPersp/RModel](https://github.com/ActPersp/RModel) - Blogdown website for actuarial modeling with Rgogo
 - [abilian/slapos-flask-sample](https://github.com/abilian/slapos-flask-sample) - Sample Flask project for Slapos
@@ -2813,6 +2816,8 @@
 
 ## JavaScript 
 
+- [spsanderson/steveondata](https://github.com/spsanderson/steveondata) - Repository for R and SQL tips and tricks for @steveondata every Friday
+- [shuowu/yi-note](https://github.com/shuowu/yi-note) - YiNote browser extension - online video note taking tool
 - [nicoandrade/healthchecks-front](https://github.com/nicoandrade/healthchecks-front) - Beautiful dashboard to use with Healthchecks.io
 - [timwis/csv-schema](https://github.com/timwis/csv-schema) - Analyzes a CSV file and generates database table schema, all within the browser
 - [Parallels/rq-dashboard](https://github.com/Parallels/rq-dashboard) - Flask-based web front-end for monitoring RQ queues
@@ -4452,6 +4457,11 @@
 
 ## Others 
 
+- [futurice/QA-best-practices](https://github.com/futurice/QA-best-practices) - This is a summary of QA practices Futurice uses and recommends to be used.
+- [futurice/backend-best-practices](https://github.com/futurice/backend-best-practices) - An evolving description of general best practices for backend development.
+- [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
+- [dendronhq/awesome-dendron](https://github.com/dendronhq/awesome-dendron) - A big list of Dendron docs, talks, tools, examples, articles, extensions, vaults, showcases, and more that the internet has to offer.
+- [HariAcidReign/JavaScript-A-Z-Notes](https://github.com/HariAcidReign/JavaScript-A-Z-Notes) - Trying to document all of my knowledge about Javascript for future reference. Get your JS fundas in lucid English right here!
 - [actuarial-tools/IntegrationModel](https://github.com/actuarial-tools/IntegrationModel) - Analytical application using Django and Dash
 - [actuarial-tools/PyDjangoDash](https://github.com/actuarial-tools/PyDjangoDash) - Analytical Web Application using Python, Django and Dash
 - [moodymudskipper/realquick](https://github.com/moodymudskipper/realquick) - One line object summaries
@@ -6144,7 +6154,7 @@
 - [Maelstromage/Log4jSherlock](https://github.com/Maelstromage/Log4jSherlock) - 
 - [awarre/Optimize-WsusServer](https://github.com/awarre/Optimize-WsusServer) - Comprehensive Windows Server Update Services (WSUS) cleanup, optimization, maintenance, and configuration PowerShell script.
 - [colebermudez/Windows-Deployment](https://github.com/colebermudez/Windows-Deployment) - 
-- [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption,  Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
+- [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
 - [kavun/ps-cli](https://github.com/kavun/ps-cli) - Example of a CLI written in Powershell
 - [wayanlw/scoopInstall](https://github.com/wayanlw/scoopInstall) - 
 - [cocreators-ee/aperture-control-example](https://github.com/cocreators-ee/aperture-control-example) - Example for a standard development environment setup via Aperture Control
@@ -6949,6 +6959,7 @@
 
 ## Python 
 
+- [haranrk/YTPO](https://github.com/haranrk/YTPO) - YTPO - YouTube Playlist Organizer
 - [nickjj/docker-flask-example](https://github.com/nickjj/docker-flask-example) - A production ready example Flask app that's using Docker and Docker Compose.
 - [healthchecks/hchk](https://github.com/healthchecks/hchk) - A CLI interface to healthchecks.io
 - [toddbirchard/pythonmyadmin](https://github.com/toddbirchard/pythonmyadmin) - 🐍🖥 Lightweight GUI for modifying database tables.
@@ -7406,7 +7417,7 @@
 - [certik/theoretical-physics](https://github.com/certik/theoretical-physics) - Source code of the Theoretical Physics Reference online book
 - [miguelgrinberg/flasky](https://github.com/miguelgrinberg/flasky) - Companion code to my O'Reilly book "Flask Web Development", second edition.
 - [backblaze-b2-samples/b2-python-s3-sample](https://github.com/backblaze-b2-samples/b2-python-s3-sample) - B2 Quick Start Sample App using Python (boto3) and B2 S3 Compatible API.  First in series. This sample app integrates with a pre-staged B2 bucket. See README.md for details.
-- [meltano/meltano](https://github.com/meltano/meltano) - Extract & Load /with joy/ — CLI & version control for ELT without limitations. No more black box. Let your creativity flow.
+- [meltano/meltano](https://github.com/meltano/meltano) - Extract & Load with joy — CLI & version control for ELT without limitations. No more black box. Let your creativity flow.
 - [polynimbus/polynimbus](https://github.com/polynimbus/polynimbus) - Multi-cloud infrastructure inventory and management tool, supporting AWS, Google Cloud, Azure, Oracle Cloud, Rackspace Cloud, Hetzner Cloud, Alibaba Cloud, e24cloud.com, Linode, Cloudflare, GoDaddy an
 - [sibblegp/b2blaze](https://github.com/sibblegp/b2blaze) - b2blaze
 - [odwyersoftware/mega.py](https://github.com/odwyersoftware/mega.py) - Python library for the https://mega.nz/ API.
@@ -8268,6 +8279,8 @@
 
 ## R 
 
+- [R-package/styledtable](https://github.com/R-package/styledtable) - Convert your R data.frame into a fully styled table that can be exported to LaTeX and Excel
+- [spsanderson/random_r_projects](https://github.com/spsanderson/random_r_projects) - Random R Scripts and projects that are small enough to lump together
 - [ActPersp/LTValuation](https://github.com/ActPersp/LTValuation) - Rgogo Sample Project: Level Term Valuation
 - [moodymudskipper/dot3](https://github.com/moodymudskipper/dot3) - Tools to Manipulate the Ellipsis Object
 - [moodymudskipper/opt](https://github.com/moodymudskipper/opt) - Set Options Conveniently
@@ -11652,7 +11665,6 @@
 - [r-lib/tidyselect](https://github.com/r-lib/tidyselect) - A backend for functions taking tidyverse selections
 - [datawookie/emayili](https://github.com/datawookie/emayili) - An R package for sending email messages.
 - [rstudio/htmltools](https://github.com/rstudio/htmltools) - Tools for HTML generation and output
-- [ropensci/dev_guide](https://github.com/ropensci/dev_guide) - rOpenSci Packages: Development, Maintenance, and Peer Review
 - [rstudio/shinythemes](https://github.com/rstudio/shinythemes) - Themes for Shiny
 - [emitanaka/rtodoist](https://github.com/emitanaka/rtodoist) - R interface to todoist.com
 - [bergant/airtabler](https://github.com/bergant/airtabler) - R interface to the Airtable API
@@ -13008,6 +13020,7 @@
 - [ThinkR-open/engineering-shiny-book](https://github.com/ThinkR-open/engineering-shiny-book) - Engineering Production-Grade Shiny Apps — Published in the R Series
 - [rstudio/rticles](https://github.com/rstudio/rticles) - LaTeX Journal Article Templates for R Markdown
 - [lervag/vimtex](https://github.com/lervag/vimtex) - VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
+- [ropensci/dev_guide](https://github.com/ropensci/dev_guide) - rOpenSci Packages: Development, Maintenance, and Peer Review
 - [csgillespie/efficientR](https://github.com/csgillespie/efficientR) - Efficient R programming: a book
 - [hadley/adv-r](https://github.com/hadley/adv-r) - Advanced R: a book
 - [INWTlab/ireports](https://github.com/INWTlab/ireports) - R package with RMarkdown Business Reports
@@ -13015,6 +13028,7 @@
 
 ## TypeScript 
 
+- [devcontainers/cli](https://github.com/devcontainers/cli) - A reference implementation for the specification that can create and configure a dev container from a devcontainer.json.
 - [retorquere/zotero-storage-scanner](https://github.com/retorquere/zotero-storage-scanner) - A Zotero plugin to remove the broken & duplicate attachment link of the bibliography
 - [retorquere/zotero-folder-import](https://github.com/retorquere/zotero-folder-import) - 
 - [cdloh/obsidian-cron](https://github.com/cdloh/obsidian-cron) - Obsidian cron / schedular plugin to schedule automatic execution of commands
