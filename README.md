@@ -2821,6 +2821,7 @@
 
 ## JavaScript 
 
+- [schloerke/actions](https://github.com/schloerke/actions) - GitHub Actions for the R community
 - [mara/mara-data-explorer](https://github.com/mara/mara-data-explorer) - Flask based UI for displaying & segmenting a single database table
 - [lalitkapoor/github-changes](https://github.com/lalitkapoor/github-changes) - Generate a changelog based on merged pull requests or commit messages
 - [hrbrmstr/vite-webr-glitch](https://github.com/hrbrmstr/vite-webr-glitch) - 🧪 🕸️ WebR + Vite + Glitch: Fully In-browser WebR App Development
@@ -6981,6 +6982,7 @@
 
 ## Python 
 
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [magogate/ETLProject](https://github.com/magogate/ETLProject) - ETL Project of Georgia Tech
 - [mrf345/flask_minify](https://github.com/mrf345/flask_minify) - A Flask extension to minify request's response for html, js, css and less.
 - [rmed/akamatsu](https://github.com/rmed/akamatsu) - My small CMS made in Flask
@@ -10879,7 +10881,7 @@
 - [ropensci/taxadb](https://github.com/ropensci/taxadb) - :package: Taxonomic Database
 - [OHDSI/CdmMetadata](https://github.com/OHDSI/CdmMetadata) - An R Package / Shiny App to Prototype CDM Metadata Tables
 - [massimoaria/bibliometrix](https://github.com/massimoaria/bibliometrix) - An R-tool for comprehensive science mapping analysis. A package for quantitative research in scientometrics and bibliometrics.
-- [rstudio/markdown](https://github.com/rstudio/markdown) - The first generation of Markdown rendering for R (born in 2012). Originally based on the C library sundown. Now based on commonmark. Note that this package is markdown, *not* rmarkdown.
+- [rstudio/markdown](https://github.com/rstudio/markdown) - The first generation of Markdown rendering for R (born in 2012). Originally based on the C library sundown. Now based on commonmark. Note that this package is markdown, not *rmarkdown*.
 - [hadley/stringb](https://github.com/hadley/stringb) - A dependency-free version of stringr
 - [rstudio/tufte](https://github.com/rstudio/tufte) - Tufte Styles for R Markdown Documents
 - [r-lib/roxygen2](https://github.com/r-lib/roxygen2) - Generate R package documentation from inline R comments
@@ -12346,7 +12348,7 @@
 - [KKRainbow/zsh-command-note.plugin](https://github.com/KKRainbow/zsh-command-note.plugin) - OH-MY-ZSH Plugin: A simple command reminder tool
 - [koenrh/dnscontrol-action](https://github.com/koenrh/dnscontrol-action) - Deploy your DNS configuration using GitHub Actions using DNSControl.
 - [elgohr/Github-Release-Action](https://github.com/elgohr/Github-Release-Action) - Publish Github releases in an action
-- [joshjohanning/dotfiles](https://github.com/joshjohanning/dotfiles) - 
+- [joshjohanning/dotfiles](https://github.com/joshjohanning/dotfiles) - My dotfiles repository synced to Codespaces
 - [trickytank/dotfiles](https://github.com/trickytank/dotfiles) - dotfiles for systems
 - [DevInsideYou/install-powerlevel10k](https://github.com/DevInsideYou/install-powerlevel10k) - 
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper Scripts
@@ -13489,7 +13491,6 @@
 - [mrmartineau/gatsby-theme-code-notes](https://github.com/mrmartineau/gatsby-theme-code-notes) - A Gatsby theme for publishing code-related notes to your website
 - [meshcloud/collie-cli](https://github.com/meshcloud/collie-cli) - Collie CLI allows you to manage your AWS, Azure & GCP cloud landscape through a single view.
 - [auth0/nextjs-auth0](https://github.com/auth0/nextjs-auth0) - Next.js SDK for signing in with Auth0
-- [mattwaler/next-ssr-starter](https://github.com/mattwaler/next-ssr-starter) - A starter project for using Next.js utilizing sessions, TailwindCSS, TypeScript, PostgreSQL, and Prisma!
 - [dy-sh/obsidian-unique-attachments](https://github.com/dy-sh/obsidian-unique-attachments) - Obsidian plugin. Renames attachments, making their names unique.
 - [styxlab/next-cms-ghost](https://github.com/styxlab/next-cms-ghost) - Publish flaring fast blogs with Next.js and Ghost CMS
 - [mehulmpt/ghost-cms-nextjs](https://github.com/mehulmpt/ghost-cms-nextjs) - 
