@@ -1658,7 +1658,7 @@
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [dkaslovsky/textnote](https://github.com/dkaslovsky/textnote) - Simple tool for creating and organizing daily notes on the command line
 - [muesli/gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull & push changes
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A blazing fast cross platform/shell prompt renderer
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The snappy and most customisable cross platform/shell prompt renderer
 - [BlackReloaded/wsl2-ssh-pageant](https://github.com/BlackReloaded/wsl2-ssh-pageant) - bridge between windows pageant and wsl2
 - [securitywithoutborders/hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
 - [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
@@ -8215,7 +8215,7 @@
 - [mingrammer/awesome-finder](https://github.com/mingrammer/awesome-finder) - :sunglasses: Search the awesome curated list without browser
 - [pimutils/vdirsyncer](https://github.com/pimutils/vdirsyncer) - 📇 Synchronize calendars and contacts.
 - [insanum/gcalcli](https://github.com/insanum/gcalcli) - Google Calendar Command Line Interface
-- [VitaliyRodnenko/geeknote](https://github.com/VitaliyRodnenko/geeknote) - Console client for Evernote.
+- [vitalyrodnenko/geeknote](https://github.com/vitalyrodnenko/geeknote) - Console client for Evernote.
 - [larose/utt](https://github.com/larose/utt) - Ultimate Time Tracker - A simple command-line time tracker written in Python
 - [TailorDev/Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time!
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
@@ -8331,6 +8331,7 @@
 
 ## R 
 
+- [s-fleck/shed](https://github.com/s-fleck/shed) - A *shiny* csv edtior
 - [wch/staticimports](https://github.com/wch/staticimports) - Statically import R functions into packages and projects
 - [pharmaverse/admiraltemplate](https://github.com/pharmaverse/admiraltemplate) - Recommended Structure for admiral R package extensions
 - [hrbrmstr/hrbrmisc](https://github.com/hrbrmstr/hrbrmisc) - personal R pkg
