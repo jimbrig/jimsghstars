@@ -71,6 +71,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mustache](#mustache)
+- [NWScript](#nwscript)
 - [Nim](#nim)
 - [Nix](#nix)
 - [Nu](#nu)
@@ -474,7 +475,7 @@
 - [Mimetis/Dotmim.Sync](https://github.com/Mimetis/Dotmim.Sync) - A brand new database synchronization framework, multi platform, multi databases, developed on top of .Net Standard 2.0. https://dotmimsync.readthedocs.io/
 - [CommunityToolkit/Labs-Windows](https://github.com/CommunityToolkit/Labs-Windows) - A safe space to collaborate and engineer solutions from the prototyping stage all the way through polished finalized component for the Windows Community Toolkit.
 - [TranslucentTB/Tools](https://github.com/TranslucentTB/Tools) - Various tools
-- [torchgm/RoundedTB](https://github.com/torchgm/RoundedTB) - Add margins, rounded corners and segments to your taskbars!
+- [Erisa/RoundedTB](https://github.com/Erisa/RoundedTB) - Add margins, rounded corners and segments to your taskbars!
 - [karlospn/tf-azuredevops-pipelines-provisioner](https://github.com/karlospn/tf-azuredevops-pipelines-provisioner) - This repository contains a Terraform provider to create builds on classic mode with Azure DevOps. It creates opinionated builds based on a few parameters.
 - [cloudxeus/Azure-Dev](https://github.com/cloudxeus/Azure-Dev) - 
 - [Colectica/cogs](https://github.com/Colectica/cogs) - Convention-based Ontology Generation System
@@ -1042,7 +1043,6 @@
 - [r-VBA-Moderation/vba-subreddit-config](https://github.com/r-VBA-Moderation/vba-subreddit-config) - Mod files for /r/VBA
 - [OfficeDev/Office-Add-in-UX-Design-Patterns-Code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code) - [ARCHIVED] Implementations in HTML and CSS of the design patterns in the repo Office-Add-in-UX-Design-Patterns
 - [d4software/the-process](https://github.com/d4software/the-process) - How we build software at D4 - our open source end-to-end project process
-- [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 - [luisramirez-m/capi-docs](https://github.com/luisramirez-m/capi-docs) - Documentation for https://github.com/lierrmm/node-callofduty
 - [soumilshah1995/Smart-way-to-Capture-Jobs-and-Process-Meta-Data-Using-DynamoDB-Project-Demo-Python-Templates](https://github.com/soumilshah1995/Smart-way-to-Capture-Jobs-and-Process-Meta-Data-Using-DynamoDB-Project-Demo-Python-Templates) - Smart way to Capture Jobs and Process Meta Data Using DynamoDB | Project Demo | Python Templates
 - [deathau/Notation-for-Obsidian](https://github.com/deathau/Notation-for-Obsidian) - A theme for Obsidian, inspired by and borrowing elements from Notion
@@ -2002,6 +2002,7 @@
 
 ## HTML 
 
+- [jimdevops19/FlaskBaseApp](https://github.com/jimdevops19/FlaskBaseApp) - This is a basic Flask Application
 - [rmed/flask-discussion](https://github.com/rmed/flask-discussion) - Flask extension that adds integration for several comment systems
 - [nielslerches/flask-parcel-starter](https://github.com/nielslerches/flask-parcel-starter) - Starter for Flask apps using parcel-bundler for bundling.
 - [level09/landing-page](https://github.com/level09/landing-page) - A starter template powered by Tailwind CSS utility-first framework.
@@ -2821,6 +2822,8 @@
 
 ## JavaScript 
 
+- [jrybicki-jsc/flasknpm](https://github.com/jrybicki-jsc/flasknpm) - Simple project on enabling npm in Flask applications by using webpack
+- [briancappello/flask-unchained-react-spa](https://github.com/briancappello/flask-unchained-react-spa) - A boilerplate built with Python 3, Flask Unchained and ES6 React/Redux
 - [schloerke/actions](https://github.com/schloerke/actions) - GitHub Actions for the R community
 - [mara/mara-data-explorer](https://github.com/mara/mara-data-explorer) - Flask based UI for displaying & segmenting a single database table
 - [lalitkapoor/github-changes](https://github.com/lalitkapoor/github-changes) - Generate a changelog based on merged pull requests or commit messages
@@ -3246,7 +3249,7 @@
 - [rnystrom/create-child-issues](https://github.com/rnystrom/create-child-issues) - Action to generate child issues with labels.
 - [npm/node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses)
 - [inoda/ontrack](https://github.com/inoda/ontrack) - :money_with_wings: A simple self-hosted budgeting app
-- [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - An open-source, self-hosted, low-code framework to build internal tools, web apps, admin panels, BI dashboards, workflows, and CRUD apps with YAML or JSON.
+- [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The easiest config web stack on top of Next.js - build internal tools, web apps, admin panels, BI dashboards, web sites, and CRUD apps with YAML or JSON.
 - [exoframejs/exoframe-server](https://github.com/exoframejs/exoframe-server) - Exoframe is a self-hosted tool that allows simple one-command deployments using Docker
 - [exoframejs/exoframe](https://github.com/exoframejs/exoframe) - Exoframe is a self-hosted tool that allows simple one-command deployments using Docker
 - [kanishka-linux/reminiscence](https://github.com/kanishka-linux/reminiscence) - Self-Hosted Bookmark And Archive Manager
@@ -4416,6 +4419,10 @@
 
 - [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
+
+## NWScript 
+
+- [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 
 ## Nim 
 
@@ -6982,6 +6989,25 @@
 
 ## Python 
 
+- [briancappello/flask-api-bundle](https://github.com/briancappello/flask-api-bundle) - DEPRECATED: The api bundle is now included with Flask Unchained.
+- [Flask-Middleware/flask-security](https://github.com/Flask-Middleware/flask-security) - Quick and simple security for Flask applications
+- [LaunchPlatform/wtforms-bootstrap5](https://github.com/LaunchPlatform/wtforms-bootstrap5) - Simple library for rendering WTForms in HTML as Bootstrap 5 form controls
+- [wtforms/wtforms-sqlalchemy](https://github.com/wtforms/wtforms-sqlalchemy) - WTForms integration for SQLAlchemy
+- [pylover/sqlalchemy-media](https://github.com/pylover/sqlalchemy-media) - Another attachment extension for SqlAlchemy to manage assets which are associated with database models but you don't want to store them into the database
+- [cs91chris/vbcore](https://github.com/cs91chris/vbcore) - common components for my personal projects
+- [juliotrigo/sqlalchemy-filters](https://github.com/juliotrigo/sqlalchemy-filters) - Filter, sort and paginate SQLAlchemy query objects. Ideal for exposing these actions over a REST API.
+- [cs91chris/flask_autocrud](https://github.com/cs91chris/flask_autocrud) - Automatically generate a RESTful API service for CRUD operation on database and advanced search
+- [cs91chris/flask_template_support](https://github.com/cs91chris/flask_template_support) - Template support for flask application
+- [cs91chris/flask_logify](https://github.com/cs91chris/flask_logify) - Advanced Logging configuration for flask application based on configuration file (json, yaml), disable logging for route with filters and log message as json
+- [cs91chris/flask_response_builder](https://github.com/cs91chris/flask_response_builder) - Implementations of flask response in many formats like: json, xml, html...
+- [aiscenblue/flask-starter-kit](https://github.com/aiscenblue/flask-starter-kit) - Flask application boilerplate for microservice
+- [briancappello/flask-unchained](https://github.com/briancappello/flask-unchained) - The quickest and easiest way to build large web apps and APIs with Flask
+- [ericdaat/flask-template](https://github.com/ericdaat/flask-template) - Template for a Python Flask web application along with sqlalchemy, docker, circle-ci and sphinx.
+- [abstractkitchen/flask-backbone](https://github.com/abstractkitchen/flask-backbone) - [2023] Modern Flask Boilerplate with a well-organised structure.
+- [cs91chris/flask_errors_handler](https://github.com/cs91chris/flask_errors_handler) - Default errors handler for flask application and blueprints. ApiProblem compliant
+- [aiscenblue/flask-blueprint](https://github.com/aiscenblue/flask-blueprint) - blueprint maker for flask application
+- [choyiny/flask-api-starter](https://github.com/choyiny/flask-api-starter) - Boilerplate for building REST APIs in Flask
+- [python-openapi/openapi-core](https://github.com/python-openapi/openapi-core) - OpenAPI core
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [magogate/ETLProject](https://github.com/magogate/ETLProject) - ETL Project of Georgia Tech
 - [mrf345/flask_minify](https://github.com/mrf345/flask_minify) - A Flask extension to minify request's response for html, js, css and less.
@@ -7414,7 +7440,7 @@
 - [kobus-v-schoor/dotgit](https://github.com/kobus-v-schoor/dotgit) - A comprehensive solution to managing your dotfiles
 - [best-of-lists/best-of-generator](https://github.com/best-of-lists/best-of-generator) - 🏆 Generates a ranked list of awesome libraries and tools.
 - [AlexandreKempf/automacdoc](https://github.com/AlexandreKempf/automacdoc) - Automatic generation of documentation for mkdocs
-- [pawamoy/best-of-mkdocs](https://github.com/pawamoy/best-of-mkdocs) - :trophy: :books: A ranked list of awesome MkDocs projects and plugins.
+- [mkdocs/best-of-mkdocs](https://github.com/mkdocs/best-of-mkdocs) - :trophy: :books: A ranked list of awesome MkDocs projects and plugins.
 - [soumilshah1995/AthenaUsageExtractor](https://github.com/soumilshah1995/AthenaUsageExtractor) - Athena usage is simple python library that allows you to extract all usage information for given date range and for given workgroup
 - [soumilshah1995/learn-aws-step-functions](https://github.com/soumilshah1995/learn-aws-step-functions) - learn-aws-step-functions
 - [soumilshah1995/multi-region-api-gateway-dynamodb](https://github.com/soumilshah1995/multi-region-api-gateway-dynamodb) - multi-region-api-gateway-dynamodb
@@ -8331,6 +8357,16 @@
 
 ## R 
 
+- [machow/dbpath](https://github.com/machow/dbpath) - R library for for connecting to databases via URL.
+- [s-fleck/joblog](https://github.com/s-fleck/joblog) - Log job statuses with lgr
+- [s-fleck/sifr](https://github.com/s-fleck/sifr) - Sarch and replace in files
+- [frictionlessdata/datapackage-r](https://github.com/frictionlessdata/datapackage-r) - An R package for working with Data Package.
+- [s-fleck/dsinfo](https://github.com/s-fleck/dsinfo) - A metadata standard for R Objects
+- [s-fleck/tabde](https://github.com/s-fleck/tabde) - Work with table designs (col_names, col_types) in csv format
+- [s-fleck/exceptions](https://github.com/s-fleck/exceptions) - 
+- [s-fleck/sfmisc](https://github.com/s-fleck/sfmisc) - A collection of private utility functions
+- [s-fleck/hammr](https://github.com/s-fleck/hammr) - Assorted utility functions [experimental]
+- [s-fleck/rotor](https://github.com/s-fleck/rotor) - Rotate logfiles (and other files) from R
 - [s-fleck/shed](https://github.com/s-fleck/shed) - A *shiny* csv edtior
 - [wch/staticimports](https://github.com/wch/staticimports) - Statically import R functions into packages and projects
 - [pharmaverse/admiraltemplate](https://github.com/pharmaverse/admiraltemplate) - Recommended Structure for admiral R package extensions
@@ -12280,6 +12316,8 @@
 
 ## Shell 
 
+- [cs91chris/sysdev](https://github.com/cs91chris/sysdev) - personal environment configuration for development
+- [ericdaat/dotfiles](https://github.com/ericdaat/dotfiles) - My dotfiles, defaults for macos, but there is a linux branch as well.
 - [Sumukh/machina](https://github.com/Sumukh/machina) - Setup scripts for personal development machines (OSX, Ubuntu)
 - [openservicebrokerapi/servicebroker](https://github.com/openservicebrokerapi/servicebroker) - Open Service Broker API Specification
 - [cyxou/wsl-bootstrap](https://github.com/cyxou/wsl-bootstrap) - Opinionated WSL bootstrap with Ansible
@@ -13457,7 +13495,7 @@
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [rnystrom/status-checklists](https://github.com/rnystrom/status-checklists) - Action to that updates Issue state with checklists
 - [joeyuping/quick_latex_obsidian](https://github.com/joeyuping/quick_latex_obsidian) - 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
 - [mandarons/yadd](https://github.com/mandarons/yadd) - Yet Another Dashboard (Dockerized) - homepage for your services
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
