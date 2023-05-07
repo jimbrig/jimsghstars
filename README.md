@@ -162,7 +162,6 @@
 
 - [deanhouseholder/AutoGTD](https://github.com/deanhouseholder/AutoGTD) - Powerful macros to master your inbox
 - [spences10/autohotkey](https://github.com/spences10/autohotkey) - 
-- [erbanku/awesome-autohotkey](https://github.com/erbanku/awesome-autohotkey) - Useful AutoHotkey scripts and commands that can increase your productivity, and make your life easier
 - [N1x0/Winconfig](https://github.com/N1x0/Winconfig) - Personal configuration for windows 10 (1903/1909)
 - [matarum/TuoGui](https://github.com/matarum/TuoGui) - graphic user interface for Tyrant Unleashed Optimizer
 - [ferventcoder/chocolateyautomaticpackages](https://github.com/ferventcoder/chocolateyautomaticpackages) - Deprecated - use https://github.com/ferventcoder/chocolatey-packages now
@@ -1486,7 +1485,7 @@
 - [KarnerTh/mermerd](https://github.com/KarnerTh/mermerd) - Create Mermaid-Js ERD diagrams from existing tables
 - [ngonghi/athena_s3_sample](https://github.com/ngonghi/athena_s3_sample) - Use Amazon AWS SDK to upload data to S3 bucket and query by Athena Sample Program
 - [pluveto/upgit](https://github.com/pluveto/upgit) - Another upload hub that supports clipboard. It works well with Typora, Snipaste, VSCode.
-- [Yakitrak/obsidian-cli](https://github.com/Yakitrak/obsidian-cli) - This CLI tool will let you interact with Obsidian using the terminal. You are able to open, search, create, update and move notes!
+- [Yakitrak/obsidian-cli](https://github.com/Yakitrak/obsidian-cli) - Interact with Obsidian in the terminal. Open, search, create, update, move and delete notes!
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [attic-labs/noms](https://github.com/attic-labs/noms) - The versioned, forkable, syncable database
 - [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - Data-Centric Pipelines and Data Versioning
@@ -1926,7 +1925,7 @@
 - [kvz/json2hcl](https://github.com/kvz/json2hcl) - Convert JSON to HCL, and vice versa. We don't use json2hcl anymore ourselves, so we can't invest time into it. However, we're still welcoming PRs.
 - [naturalett/terragrunt](https://github.com/naturalett/terragrunt) - Terragrunt Infra Deployment
 - [trussworks/terraform-layout-example](https://github.com/trussworks/terraform-layout-example) - Example of a Truss Terraform project
-- [GoogleCloudPlatform/cloud-foundation-fabric](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric) - End-to-end modular samples for Terraform on GCP.
+- [GoogleCloudPlatform/cloud-foundation-fabric](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric) - End-to-end modular samples and landing zones toolkit for Terraform on GCP.
 - [tsrob50/TerraformExamples](https://github.com/tsrob50/TerraformExamples) - Repo for Terraform Examples from the YouTube channel
 - [thomast1906/thomasthorntoncloud-examples](https://github.com/thomast1906/thomasthorntoncloud-examples) - 
 - [aldenso/terraform-pipeline-test](https://github.com/aldenso/terraform-pipeline-test) - Test repo for terraform jenkins pipelines
@@ -2003,6 +2002,7 @@
 
 ## HTML 
 
+- [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [MHaringa/MHaringa.github.io](https://github.com/MHaringa/MHaringa.github.io) - my website
 - [spsanderson/bmhmc-sql](https://github.com/spsanderson/bmhmc-sql) - sql
 - [jimdevops19/FlaskBaseApp](https://github.com/jimdevops19/FlaskBaseApp) - This is a basic Flask Application
@@ -2422,6 +2422,7 @@
 - [aswansyahputra/mytalk](https://github.com/aswansyahputra/mytalk) - Curated repository of materials for talks and workshops
 - [thtang/Business-Analytics-Using-Statistical-Modeling](https://github.com/thtang/Business-Analytics-Using-Statistical-Modeling) - BASM - 2017 Spring
 - [m-jahn/WeightedTreemaps](https://github.com/m-jahn/WeightedTreemaps) - Create Voronoi and Sunburst Treemaps from Hierarchical data
+- [mca91/EconometricsWithR](https://github.com/mca91/EconometricsWithR) - 📖An interactive companion to the well-received textbook 'Introduction to Econometrics' by Stock & Watson (2015)
 - [o2r-project/o2r-substituter](https://github.com/o2r-project/o2r-substituter) - Create a new compendium based on existing compendia
 - [geocontainers/dockerfiles](https://github.com/geocontainers/dockerfiles) - Dockerfiles for geo/spatial applications, services, and libraries
 - [richelbilderbeek/R](https://github.com/richelbilderbeek/R) - My notes on the R programming language
@@ -2824,6 +2825,9 @@
 
 ## JavaScript 
 
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (December 2022)
+- [Mimetis/ESM](https://github.com/Mimetis/ESM) - Boilerplate to show how ESM are working today, both on browsers or from NodeJS. Use Rollup to bundle the modules in a compatible bundle for non ESM browser.
+- [Shihara-Dilshan/John-Keells-App-Revamp](https://github.com/Shihara-Dilshan/John-Keells-App-Revamp) - John keells mobile app revamp using React Native and Flask with MongoDB.
 - [Appsilon/weighted-picker-input](https://github.com/Appsilon/weighted-picker-input) - 
 - [jrybicki-jsc/flasknpm](https://github.com/jrybicki-jsc/flasknpm) - Simple project on enabling npm in Flask applications by using webpack
 - [briancappello/flask-unchained-react-spa](https://github.com/briancappello/flask-unchained-react-spa) - A boilerplate built with Python 3, Flask Unchained and ES6 React/Redux
@@ -4142,6 +4146,7 @@
 
 ## Jupyter Notebook 
 
+- [duarteocarmo/automation-post](https://github.com/duarteocarmo/automation-post) - 📝 A blog post about report generation and automation in python
 - [BloomTech-Labs/CS10-medical-dashboard](https://github.com/BloomTech-Labs/CS10-medical-dashboard) - 
 - [arijitsaha/FloodRisk](https://github.com/arijitsaha/FloodRisk) - Study & assessment of probable impact of catastrophic flood events & manage flood risk with a first order flood-fill model developed using Python geospatial libraries
 - [andersbogsnes/pydata-copenhagen-2022-sqlalchemy-tutorial](https://github.com/andersbogsnes/pydata-copenhagen-2022-sqlalchemy-tutorial) - My SQLAlchemy tutorial for the Pydata Copenhagen Meetup
@@ -4316,6 +4321,7 @@
 
 ## Lua 
 
+- [jalvesaq/cmp-nvim-r](https://github.com/jalvesaq/cmp-nvim-r) - 
 - [chrisgrieser/.config](https://github.com/chrisgrieser/.config) - pseudometa's dotfiles
 - [latipun7/dotfiles](https://github.com/latipun7/dotfiles) - 🏡 Home sweet ~/.
 - [ChrisTitusTech/neovim](https://github.com/ChrisTitusTech/neovim) - 
@@ -4360,6 +4366,7 @@
 
 ## Makefile 
 
+- [duarteocarmo/boilerplate](https://github.com/duarteocarmo/boilerplate) - 
 - [JarvusInnovations/infra-components](https://github.com/JarvusInnovations/infra-components) - A collection of reusable infrastructure-as-code components
 - [trussworks/terraform-module-template](https://github.com/trussworks/terraform-module-template) - Template repo with Terraform module basics
 - [samrocketman/docker-production-ready-flask](https://github.com/samrocketman/docker-production-ready-flask) - This is an example app meant to package a Flask REST API in Docker meant for running in production contexts.
@@ -4476,6 +4483,8 @@
 
 ## Others 
 
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [aneagoie/ztm-python-cheat-sheet](https://github.com/aneagoie/ztm-python-cheat-sheet) - 
 - [yosriady/awesome-api-devtools](https://github.com/yosriady/awesome-api-devtools) - :books: A collection of useful resources for building RESTful HTTP+JSON APIs.
 - [NajiElKotob/Awesome-PowerQuery](https://github.com/NajiElKotob/Awesome-PowerQuery) - Awesome Power Query
 - [rstudio/shiny-workflows](https://github.com/rstudio/shiny-workflows) - GitHub Actions workflows for Shiny and related packages
@@ -4821,7 +4830,6 @@
 - [data-solution-automation-engine/data-solution-famework](https://github.com/data-solution-automation-engine/data-solution-famework) - A library for data warehouse and data integration pattern and architecture documentation.
 - [igorbarinov/awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) - A curated list of data engineering tools for software developers
 - [johngagefaulkner/cheatsheets](https://github.com/johngagefaulkner/cheatsheets) - Cheatsheets for everything from Creating a Custom Windows 11 image to Web Design with TailwindCSS.
-- [halodotapi/haloapi-node](https://github.com/halodotapi/haloapi-node) - A Node.js wrapper to consume Cryptum (Halo API) endpoints
 - [open-insurance/todogroup.guides](https://github.com/open-insurance/todogroup.guides) - TODO Group Guides
 - [The-Open-Insurance-Initiative/Open-Insurance-Initiative-whitepaper](https://github.com/The-Open-Insurance-Initiative/Open-Insurance-Initiative-whitepaper) - The first whitepaper which was released in August 2018
 - [dformoso/machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
@@ -5352,7 +5360,6 @@
 - [rubymorillo/pocket-tech-writing-list](https://github.com/rubymorillo/pocket-tech-writing-list) - A small but formidable list of technical writing resources for developers
 - [bennyxguo/theme-obsidian-doc](https://github.com/bennyxguo/theme-obsidian-doc) - Documentation for theme `Obisidian`
 - [StefanoCecere/BuboLibro_RegaloSpeciale](https://github.com/StefanoCecere/BuboLibro_RegaloSpeciale) - il LibroGame da regalare ad un fratellino di 5 anni
-- [Bryan-Jenks-Home-Lab/template](https://github.com/Bryan-Jenks-Home-Lab/template) - My Template Repo
 - [tallguyjenks/RWorkflow](https://github.com/tallguyjenks/RWorkflow) - :bookmark_tabs: My approach to an analysis or product produced with R
 - [BryanJenksCommunity/RPackageReviews](https://github.com/BryanJenksCommunity/RPackageReviews) - My List of my most commonly used R packages, what they're used for and my review video on them
 - [gmgyan/Personal-Activity-Predictor](https://github.com/gmgyan/Personal-Activity-Predictor) - The goal of this project is to use data from accelerometers on the belt, forearm, arm, and dumbbell of 6 participants to predict the manner in which they did the exercise
@@ -6039,7 +6046,7 @@
 - [jimbrig/System](https://github.com/jimbrig/System) - Tweaks, options, configurations, installations, and various personalizations for Windows.
 - [Romanitho/Winget-Install-GUI](https://github.com/Romanitho/Winget-Install-GUI) - WiGui is a tool to search, select and install Apps at once with Winget package manager
 - [Romanitho/Winget-AutoUpdate](https://github.com/Romanitho/Winget-AutoUpdate) - WAU daily updates apps as system and notify connected users. (Allowlist and Blocklist support)
-- [couleur-tweak-tips/utils](https://github.com/couleur-tweak-tips/utils) - 🧧 Compilation of all of my delicious scripts, designed to be ran remotely via PowerShell
+- [couleur-tweak-tips/utils](https://github.com/couleur-tweak-tips/utils) - 🧧 CTT's Scoop bucket, and some legacy PowerShell scripts
 - [couleur-tweak-tips/TweakList](https://github.com/couleur-tweak-tips/TweakList) - ✨Centralized tweaking/fine-tuning PowerShell module, importable with a single command!
 - [couleur-tweak-tips/CTT](https://github.com/couleur-tweak-tips/CTT) - Converts webhooks into .MD for synchronized documentation on CTT's Discord and GitHub pages
 - [abbgrade/PsMermaidTools](https://github.com/abbgrade/PsMermaidTools) - PowerShell Module to create Mermaid diagrams.
@@ -6999,6 +7006,15 @@
 
 ## Python 
 
+- [duarteocarmo/my-personal-zen](https://github.com/duarteocarmo/my-personal-zen) - 👓 A gathering of notes and highlights from my readings
+- [duarteocarmo/flask_hackernews](https://github.com/duarteocarmo/flask_hackernews) - 🐍 A Hackernews clone in flask + python + sqlalchemy
+- [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines) - Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playground. Especially designed for education and practical experience purposes.
+- [relations-dil/python-relations-restx](https://github.com/relations-dil/python-relations-restx) - 
+- [apryor6/flaskerize](https://github.com/apryor6/flaskerize) - Python CLI build/dev tool for templated code generation and project modification. Think Angular schematics for Python.
+- [apryor6/flask_api_example](https://github.com/apryor6/flask_api_example) - A demonstration of best practices for a large Flask API project
+- [progala/ttl255.com](https://github.com/progala/ttl255.com) - ttl255.com - Resources
+- [christabor/flask_extras](https://github.com/christabor/flask_extras) - Assorted generic flask views, blueprints, Jinja2 filters, macros, forms and more.
+- [stevemar/code-reference-in-readme](https://github.com/stevemar/code-reference-in-readme) - A quick sample repo that shows how to reference code in markdown
 - [cisco-open/stacks](https://github.com/cisco-open/stacks) - Stacks, the Terraform code pre-processor
 - [demoskp/flask-class-based-views](https://github.com/demoskp/flask-class-based-views) - 
 - [demoskp/python-dotenv-tutorial](https://github.com/demoskp/python-dotenv-tutorial) - 
@@ -7837,7 +7853,7 @@
 - [johnwheeler/flask-ask](https://github.com/johnwheeler/flask-ask) - Alexa Skills Kit for Python
 - [alisaifee/flask-limiter](https://github.com/alisaifee/flask-limiter) - Rate Limiting extension for Flask
 - [maxcountryman/flask-bcrypt](https://github.com/maxcountryman/flask-bcrypt) - Flask-Bcrypt is a Flask extension that provides bcrypt hashing utilities for your application.
-- [fengsp/flask-session](https://github.com/fengsp/flask-session) - Server side session extension for Flask
+- [pallets-eco/flask-session](https://github.com/pallets-eco/flask-session) - Server side session extension for Flask
 - [pallets-eco/flask-caching](https://github.com/pallets-eco/flask-caching) - A caching extension for Flask
 - [flask-api/flask-api](https://github.com/flask-api/flask-api) - Browsable web APIs for Flask.
 - [corydolphin/flask-cors](https://github.com/corydolphin/flask-cors) - Cross Origin Resource Sharing ( CORS ) support for Flask
@@ -8376,6 +8392,8 @@
 
 ## R 
 
+- [trinostics/IBNR](https://github.com/trinostics/IBNR) - ChainLadder GenIns MurphyMethod ClaimDetail
+- [trinostics/excelRio](https://github.com/trinostics/excelRio) - Excel - R Input - Output
 - [jonathancornelissen/highfrequency](https://github.com/jonathancornelissen/highfrequency) - The highfrequency package contains an extensive toolkit for the use of highfrequency financial data in R. It contains functionality to manage, clean and match highfrequency trades and quotes data. Fur
 - [imanuelcostigan/fmdates](https://github.com/imanuelcostigan/fmdates) - Financial Market Date Calculations
 - [pegeler/metapackage](https://github.com/pegeler/metapackage) - Personal R Meta-package
@@ -8447,7 +8465,7 @@
 - [jsugarelli/tempconvertr](https://github.com/jsugarelli/tempconvertr) - Temperature converter (example R package for article in 'Informatik Aktuell')
 - [Appsilon/rhino-showcase](https://github.com/Appsilon/rhino-showcase) - An example app built with Rhino to showcase its features
 - [StreamlineDataScience/str.rdev](https://github.com/StreamlineDataScience/str.rdev) - Take Home Package for R Developer
-- [jonthegeek/api2r](https://github.com/jonthegeek/api2r) - Rapidly Scaffold API Client Packages
+- [jonthegeek/beekeeper](https://github.com/jonthegeek/beekeeper) - Rapidly Scaffold API Client Packages
 - [ThinkR-open/ghooks](https://github.com/ThinkR-open/ghooks) - 'Golem' Hooks for Standard 'Shiny' Apps
 - [MCodrescu/octopus](https://github.com/MCodrescu/octopus) - R Package for Interacting with Databases
 - [Rotifer/MYR](https://github.com/Rotifer/MYR) - R scripts
@@ -9863,7 +9881,7 @@
 - [ropensci/osfr](https://github.com/ropensci/osfr) - R interface to the Open Science Framework (OSF)
 - [bionitio-team/bionitio-r](https://github.com/bionitio-team/bionitio-r) - Demonstrating best practices for bioinformatics command line tools
 - [r-lib/cachem](https://github.com/r-lib/cachem) - Key-value caches for R
-- [Appsilon/shiny.telemetry](https://github.com/Appsilon/shiny.telemetry) - Shiny app usability logs and statistics
+- [Appsilon/shiny.telemetry](https://github.com/Appsilon/shiny.telemetry) - Easy logging of users activity and session events of your Shiny App
 - [pedrocoutinhosilva/shiny.grid](https://github.com/pedrocoutinhosilva/shiny.grid) - CSS grid implementation for R/shiny
 - [jdtrat/shinymarkdown](https://github.com/jdtrat/shinymarkdown) - Packages JavaScript's Toast UI Markdown Editor for use in R with Shiny.
 - [mine-cetinkaya-rundel/asa-shiny-essentials](https://github.com/mine-cetinkaya-rundel/asa-shiny-essentials) - 
@@ -10431,7 +10449,6 @@
 - [tomaztk/List_of_R_packages_for_Data_scientist](https://github.com/tomaztk/List_of_R_packages_for_Data_scientist) - List of useful R packages for data scientists
 - [chicago-joe/Option-Pricing-via-Levy-Models-in-R](https://github.com/chicago-joe/Option-Pricing-via-Levy-Models-in-R) - using the Inverse-Transform method to speed up options pricing simulations in R
 - [StevenMMortimer/salesforcer](https://github.com/StevenMMortimer/salesforcer) - This R package connects the Salesforce APIs from R using tidy principles.
-- [mca91/EconometricsWithR](https://github.com/mca91/EconometricsWithR) - 📖An interactive companion to the well-received textbook 'Introduction to Econometrics' by Stock & Watson (2015)
 - [dev-sandarbh/R-Programming-](https://github.com/dev-sandarbh/R-Programming-) - This repo will hold all the basic R Programming tutorials.
 - [inbo/effectclass](https://github.com/inbo/effectclass) - Interpret effects and visualise uncertainty
 - [seabbs/prettypublisher](https://github.com/seabbs/prettypublisher) - R package to help in formatting R markdown documents into a publishable format
@@ -12119,6 +12136,7 @@
 
 ## Rust 
 
+- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [sebglazebrook/aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
@@ -12556,7 +12574,7 @@
 - [marlonrichert/zsh-edit](https://github.com/marlonrichert/zsh-edit) - 🛠 Better command line editing tools for Zsh
 - [marlonrichert/zsh-launchpad](https://github.com/marlonrichert/zsh-launchpad) - 🚀 Simple, educational dotfiles template to get started with Zsh and learn about its features
 - [daviwil/dotfiles](https://github.com/daviwil/dotfiles) - The path to GNUrvana
-- [jeroen/rstudio-server](https://github.com/jeroen/rstudio-server) - Repack of rstudio-server
+- [opencpu/rstudio-server](https://github.com/opencpu/rstudio-server) - Repack of rstudio-server
 - [prateeknischal/fzf-pass](https://github.com/prateeknischal/fzf-pass) - fzf based fuzzy finder password extension for pass(1)
 - [drduh/pwd.sh](https://github.com/drduh/pwd.sh) - GPG symmetric password manager
 - [redhat-cop/gitops-catalog](https://github.com/redhat-cop/gitops-catalog) - Tools and technologies that are hosted on an OpenShift cluster
@@ -12885,6 +12903,7 @@
 - [trestletech/rdeps](https://github.com/trestletech/rdeps) - 
 - [kevinushey/etc](https://github.com/kevinushey/etc) - Scripts, dot files, and other things that make my programming life a happy one
 - [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
+- [Bryan-Jenks-Home-Lab/template](https://github.com/Bryan-Jenks-Home-Lab/template) - My Template Repo
 - [tallguyjenks/BusinessCard](https://github.com/tallguyjenks/BusinessCard) - 💳 My curl-able business card
 - [nuest/mro-docker](https://github.com/nuest/mro-docker) - Docker image for Microsoft R Open
 - [eddelbuettel/r-travis](https://github.com/eddelbuettel/r-travis) - Tools for using R with Travis, GitHub Actions and other CI backends
@@ -12956,6 +12975,7 @@
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [csgillespie/dotfiles](https://github.com/csgillespie/dotfiles) - My dotfiles
 - [rocker-org/rocker](https://github.com/rocker-org/rocker) - R configurations for Docker
+- [zpj80231/znote](https://github.com/zpj80231/znote) - 🎈VuePress 静态布局 Blog，清新+ 简洁+。
 - [iridakos/goto](https://github.com/iridakos/goto) - Alias and navigate to directories with tab completion in Linux
 - [2KAbhishek/ghpm](https://github.com/2KAbhishek/ghpm) - The GitHub Project Manager 👩‍💻⚙
 - [benwinding/dotfiles](https://github.com/benwinding/dotfiles) - ben's dotfiles
@@ -13055,6 +13075,8 @@
 
 ## TSQL 
 
+- [hazardland/app.sql](https://github.com/hazardland/app.sql) - PostgreSQL database template for fresh project start
+- [RadoslavGatev/SSDT-Continuous-Deployment-Project-Template](https://github.com/RadoslavGatev/SSDT-Continuous-Deployment-Project-Template) - A project template aiming for easy Continuous Deployment of SSDT projects.
 - [kevchant/GitHub-AzureSQLDatabase](https://github.com/kevchant/GitHub-AzureSQLDatabase) - Template to perform CI/CD for Azure SQL Database using GitHub Actions
 - [arvindshmicrosoft/azure-sql-devops](https://github.com/arvindshmicrosoft/azure-sql-devops) - Demos for Azure SQL DevOps presentation
 - [arvindshmicrosoft/azure-sql-action-test](https://github.com/arvindshmicrosoft/azure-sql-action-test) - Just a test for doing CI/CD with Azure SQL and GitHub Actions
@@ -13169,6 +13191,7 @@
 
 ## TypeScript 
 
+- [almariah/embed-code-file](https://github.com/almariah/embed-code-file) - 
 - [lukasbach/obsidian-code-files](https://github.com/lukasbach/obsidian-code-files) - Plugin for ObsidianMD to show and edit code files along other notes.
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [dcode-youtube/builder-pattern-ts](https://github.com/dcode-youtube/builder-pattern-ts) - Builder pattern implemented in TypeScript, taken from my YouTube video
@@ -13806,7 +13829,7 @@
 - [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static) - Scaffolding utility for vanilla-js
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [freeCodeCamp/chapter](https://github.com/freeCodeCamp/chapter) - A self-hosted event management tool for nonprofits
-- [hyperupcall/tails](https://github.com/hyperupcall/tails) - tails enables you to view, edit, and organize all your programming projects in one place
+- [fox-archives/tails](https://github.com/fox-archives/tails) - tails enables you to view, edit, and organize all your programming projects in one place
 - [andymatuschak/reMarkable-typescript](https://github.com/andymatuschak/reMarkable-typescript) - A typescript reMarkable Cloud API
 - [deathau/sliding-panes-obsidian](https://github.com/deathau/sliding-panes-obsidian) - Andy Matuschak Mode as a plugin
 - [kortina/vscode-markdown-notes](https://github.com/kortina/vscode-markdown-notes) - Install from: https://ark.dance/md-notes
@@ -14137,6 +14160,7 @@
 
 ## Vim Script 
 
+- [jamespeapen/Nvim-R](https://github.com/jamespeapen/Nvim-R) - Vim plugin to work with R
 - [JackStouffer/dotfiles](https://github.com/JackStouffer/dotfiles) - a backup of my config files, I would not recommend using these
 - [tlvince/neovim-config](https://github.com/tlvince/neovim-config) - My Neovim setup
 - [tomtom/workbook_vim](https://github.com/tomtom/workbook_vim) - Interactively work with interpreteted languages (R etc.)
@@ -14317,7 +14341,6 @@
 - [zzetao/awesome-github-profile](https://github.com/zzetao/awesome-github-profile) - 🌐  A website of awesome Github Profile READMEs
 - [lusaxweb/devAwesome](https://github.com/lusaxweb/devAwesome) - 🐣 Upload your own sites as portfolio or projects of your github
 - [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - This repository is outdated and no longer maintained. A new version of massCode is available! https://github.com/massCodeIO/massCode. A free and open source code snippets manager for developers.
-- [zpj80231/znote](https://github.com/zpj80231/znote) - 🎈VuePress 静态布局 Blog，清新+ 简洁+。
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 
 ## WebAssembly 
