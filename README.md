@@ -472,6 +472,7 @@
 
 ## C# # 
 
+- [SimonCropp/MarkdownSnippets](https://github.com/SimonCropp/MarkdownSnippets) - Extracts snippets from code files and merges them into markdown documents.
 - [marcinotorowski/MSIX-Hero](https://github.com/marcinotorowski/MSIX-Hero) - MSIX Hero - Open source MSIX manager and toolkit
 - [Azure-Samples/azure-sql-db-sync-api-change-tracking](https://github.com/Azure-Samples/azure-sql-db-sync-api-change-tracking) - Using Azure SQL Change Tracking API to Sync mobile Apps data with the Cloud
 - [Mimetis/Dotmim.Sync](https://github.com/Mimetis/Dotmim.Sync) - A brand new database synchronization framework, multi platform, multi databases, developed on top of .Net Standard 2.0. https://dotmimsync.readthedocs.io/
@@ -912,7 +913,7 @@
 - [Ironholds/urltools](https://github.com/Ironholds/urltools) - Elegant URL handling in R
 - [plv8/plv8](https://github.com/plv8/plv8) - V8 Engine Javascript Procedural Language add-on for PostgreSQL
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
-- [AStarStartup/AStartupCookbook](https://github.com/AStarStartup/AStartupCookbook) - A guide on how to invent, document, launch, and run a startup on GitHub with Jekyll and I am You Language (IMUL).
+- [AStarStartup/AStartupCookbook](https://github.com/AStarStartup/AStartupCookbook) - A guide on how to invent, document, launch, and run a startup on GitHub with the AStartup Toolkit and I am You Language (IMUL).
 - [r-lib/isoband](https://github.com/r-lib/isoband) - isoband: An R package to generate contour lines and polygons.
 - [google/libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 - [rstudio/rstudio-launcher-plugin-sdk](https://github.com/rstudio/rstudio-launcher-plugin-sdk) - The RStudio Launcher Plugin SDK is a software development kit used to create plugins that integrate orchestration tools with the RStudio Job Launcher.
@@ -2011,6 +2012,7 @@
 
 ## HTML 
 
+- [gdemin/comprehenr](https://github.com/gdemin/comprehenr) - List comprehensions in R
 - [madyankin/postcss-modules-example](https://github.com/madyankin/postcss-modules-example) - How to use postcss-modules plugin
 - [MicrosoftEdge/MSEdgeExplainers](https://github.com/MicrosoftEdge/MSEdgeExplainers) - Home for explainer documents originated by the Microsoft Edge team
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
@@ -2835,6 +2837,12 @@
 
 ## JavaScript 
 
+- [fahey252/ReactPowerBI](https://github.com/fahey252/ReactPowerBI) - Sample NodeJS application to authenticate to Azure Active Directory, get a PowerBI Embed Token and embed PowerBI into a React app via proxy user.
+- [Captmoonshot/data-bore](https://github.com/Captmoonshot/data-bore) - A Django REST API with an embedded ML model for sentiment analysis of movie reviews.
+- [AtlasPublicPolicy/power-bi-embedded](https://github.com/AtlasPublicPolicy/power-bi-embedded) - Use Power BI Embedded to embed dashboards, reports, report visuals, Q&A, and tiles in your WordPress website.
+- [Sayantanmukherjee6/FlaskAPI-for-PowerBI](https://github.com/Sayantanmukherjee6/FlaskAPI-for-PowerBI) - A simple Python based Flask API for PowerBI.
+- [snobu/powerbi-embed-v2](https://github.com/snobu/powerbi-embed-v2) - Power BI Embedded with Custom Controls PoC
+- [raindropio/app](https://github.com/raindropio/app) - 
 - [yeoman/update-notifier](https://github.com/yeoman/update-notifier) - Update notifications for your CLI app
 - [andrewhayward/js-config-store](https://github.com/andrewhayward/js-config-store) - JavaScript config lookup
 - [madyankin/postcss-modules](https://github.com/madyankin/postcss-modules) - PostCSS plugin to use CSS Modules everywhere
@@ -4049,7 +4057,6 @@
 - [DataTables/Dist-DataTables-SearchPanes](https://github.com/DataTables/Dist-DataTables-SearchPanes) - 
 - [RConsortium/project-analysis](https://github.com/RConsortium/project-analysis) - Data-Driven Discovery and Tracking of R Consortium Activities
 - [ryanbthomas/rethinking-workflows](https://github.com/ryanbthomas/rethinking-workflows) - 
-- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [maxogden/hexbin](https://github.com/maxogden/hexbin) - community curated list of hexagon logos
 - [ctlab/shiny-graph](https://github.com/ctlab/shiny-graph) - Graph module for R Shiny
 - [nstrayer/shinyswipr](https://github.com/nstrayer/shinyswipr) - An R Shiny module to put swiping interfaces in your app!
@@ -4501,6 +4508,8 @@
 
 ## Others 
 
+- [joerncodes/code-snippets](https://github.com/joerncodes/code-snippets) - 
+- [Anagha8702/PowerBI-CarDataAnalysis](https://github.com/Anagha8702/PowerBI-CarDataAnalysis) - Real-time Power BI Report embedded into Web Application with Python Flask backend.
 - [DmytroLitvinov/awesome-flake8-extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions) - :octocat: A curated awesome list of flake8 extensions. Feel free to contribute! :mortar_board:
 - [css-modules/css-modules](https://github.com/css-modules/css-modules) - Documentation about css-modules
 - [eeiriksson/Excel2SQL](https://github.com/eeiriksson/Excel2SQL) - Excel integration in SQL Server
@@ -4836,7 +4845,7 @@
 - [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
 - [willdebras/juliascripts](https://github.com/willdebras/juliascripts) - Scripts to teach myself Julia
 - [jjallaire/hopr](https://github.com/jjallaire/hopr) - Hands on Programming with R (https://jjallaire.github.io/hopr)
-- [Datavault-UK/dbtvault](https://github.com/Datavault-UK/dbtvault) - A free to use dbt package for creating and loading Data Vault 2.0 compliant Data Warehouses (powered by dbt, an open source data engineering tool,  registered trademark of dbt Labs)
+- [Datavault-UK/automate-dv](https://github.com/Datavault-UK/automate-dv) - A free to use dbt package for creating and loading Data Vault 2.0 compliant Data Warehouses (powered by dbt, an open source data engineering tool,  registered trademark of dbt Labs)
 - [chenlexing/awesome-databases](https://github.com/chenlexing/awesome-databases) - 按分类记录与数据库相关的资料
 - [snird/awesome-data-engineering-learning](https://github.com/snird/awesome-data-engineering-learning) - Awesome list of data engineering learning materials by subject
 - [joshnh/Git-Commands](https://github.com/joshnh/Git-Commands) - A list of commonly used Git commands
@@ -5956,6 +5965,7 @@
 
 ## PowerShell 
 
+- [an-dr/Env](https://github.com/an-dr/Env) - Powershell module to simple setting up your environment from the .environment folder content
 - [b4keSn4ke/Invoke-WinSATBypass](https://github.com/b4keSn4ke/Invoke-WinSATBypass) - Powershell UAC Bypass script leveraging WinSAT.exe
 - [hak5/bashbunny-payloads](https://github.com/hak5/bashbunny-payloads) - The Official Bash Bunny Payload Repository
 - [mendhak/automated-wsl-dev-setup](https://github.com/mendhak/automated-wsl-dev-setup) - Scripts to automate WSL, Ubuntu, Docker, Permissions/Tweaks setup
@@ -7027,6 +7037,9 @@
 
 ## Python 
 
+- [pocketgems/embed-markdown](https://github.com/pocketgems/embed-markdown) - Embeds source code in markdown files
+- [N-SPEC/FlaskApp](https://github.com/N-SPEC/FlaskApp) - API Handler & PowerBI Integration
+- [gbourniq/bank-statement-analysis](https://github.com/gbourniq/bank-statement-analysis) - Flask application generating interactive visualisations from bank statements PDF documents
 - [OrkoHunter/keep](https://github.com/OrkoHunter/keep) - A Meta CLI toolkit : Personal shell command keeper and snippets manager
 - [Dowwie/marshmallow_recipes](https://github.com/Dowwie/marshmallow_recipes) - Recipes for use with the Marshmallow serialization library
 - [podhmo/swagger-marshmallow-codegen](https://github.com/podhmo/swagger-marshmallow-codegen) - generating marshmallow's schema from swagger definition file
@@ -8264,7 +8277,6 @@
 - [jimbrig/jimbrig](https://github.com/jimbrig/jimbrig) - Github Homepage
 - [chinanf-boy/explain-starred](https://github.com/chinanf-boy/explain-starred) - manager your star ,simple py run, explain to you
 - [khast3x/github-starmap](https://github.com/khast3x/github-starmap) - Python utility to export a user's starred repositories list into a CSV file
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [JeffCarpenter/export-stars](https://github.com/JeffCarpenter/export-stars) - Export (your) GitHub stars to a CSV file
 - [sourabhjagtap95/AwesomePythonScripts](https://github.com/sourabhjagtap95/AwesomePythonScripts) - [Show some :heart: by giving :stars:], A place to post your python scripts which you think are awesome
 - [mingrammer/python-web-framework-stars](https://github.com/mingrammer/python-web-framework-stars) - ⭐️ Web frameworks for Python, most starred on Github
@@ -8449,6 +8461,9 @@
 
 ## R 
 
+- [gdemin/maditr](https://github.com/gdemin/maditr) - Fast Data Aggregation, Modification, and Filtering
+- [b-rodrigues/brotools](https://github.com/b-rodrigues/brotools) - 
+- [Elnaz-Khaveh/shiny_insurance](https://github.com/Elnaz-Khaveh/shiny_insurance) - 
 - [actuarialopensource/lossrx](https://github.com/actuarialopensource/lossrx) - An R package, plumber API, database, and Shiny App for Actuarial Loss Development and Reserving Workflows.
 - [trinostics/IBNR](https://github.com/trinostics/IBNR) - ChainLadder GenIns MurphyMethod ClaimDetail
 - [trinostics/excelRio](https://github.com/trinostics/excelRio) - Excel - R Input - Output
@@ -11870,6 +11885,7 @@
 - [r-lib/tidyselect](https://github.com/r-lib/tidyselect) - A backend for functions taking tidyverse selections
 - [datawookie/emayili](https://github.com/datawookie/emayili) - An R package for sending email messages.
 - [rstudio/htmltools](https://github.com/rstudio/htmltools) - Tools for HTML generation and output
+- [ropensci/dev_guide](https://github.com/ropensci/dev_guide) - rOpenSci Packages: Development, Maintenance, and Peer Review
 - [rstudio/shinythemes](https://github.com/rstudio/shinythemes) - Themes for Shiny
 - [emitanaka/rtodoist](https://github.com/emitanaka/rtodoist) - R interface to todoist.com
 - [bergant/airtabler](https://github.com/bergant/airtabler) - R interface to the Airtable API
@@ -13245,7 +13261,6 @@
 - [ThinkR-open/engineering-shiny-book](https://github.com/ThinkR-open/engineering-shiny-book) - Engineering Production-Grade Shiny Apps — Published in the R Series
 - [rstudio/rticles](https://github.com/rstudio/rticles) - LaTeX Journal Article Templates for R Markdown
 - [lervag/vimtex](https://github.com/lervag/vimtex) - VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
-- [ropensci/dev_guide](https://github.com/ropensci/dev_guide) - rOpenSci Packages: Development, Maintenance, and Peer Review
 - [csgillespie/efficientR](https://github.com/csgillespie/efficientR) - Efficient R programming: a book
 - [hadley/adv-r](https://github.com/hadley/adv-r) - Advanced R: a book
 - [INWTlab/ireports](https://github.com/INWTlab/ireports) - R package with RMarkdown Business Reports
@@ -13963,6 +13978,7 @@
 - [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [kubernetes-client/javascript](https://github.com/kubernetes-client/javascript) - Javascript client
+- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [y-lohse/inkjs](https://github.com/y-lohse/inkjs) - A javascript port of inkle's ink scripting language.
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [antvis/F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
