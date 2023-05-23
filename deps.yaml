@@ -40,3 +40,15 @@
 - Package: automagic
   Repository: CRAN
   Version: 0.5.1
+- Package: formattable
+  Repository: CRAN
+  Version: 0.2.1
+- Package: reactR
+  Repository: CRAN
+  Version: 0.4.4
+- Package: reactable
+  Repository: CRAN
+  Version: 0.4.4
+- Package: shinycustomloader
+  Repository: CRAN
+  Version: 0.9.0
