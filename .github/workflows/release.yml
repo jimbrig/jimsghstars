@@ -4,6 +4,7 @@ on:
     # Sequence of patterns matched against refs/tags
     tags:
       - 'v*' # Push events to matching v*, i.e. v1.0, v0.4.4
+  workflow_dispatch:
 
 jobs:
   release:
