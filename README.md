@@ -364,7 +364,7 @@
 - [ponylang/ponyc](https://github.com/ponylang/ponyc) - :horse: Pony is an open-source, actor-model, capabilities-secure, high performance programming language
 - [micropython/micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter
-- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
+- [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [gearsix/bfme2-installer](https://github.com/gearsix/bfme2-installer) - An ISO install wrapper for (specifically for Lord of the Rings: Battle for Middle-Earth 2). It mounts .iso files, runs the installer (on disc) and applies the no cd crack so that you don't need to re-
 - [rprichard/altdrag](https://github.com/rprichard/altdrag) - :file_folder: Easily drag windows when pressing the alt key. (Windows)
 - [hkneptune/CopyHandler](https://github.com/hkneptune/CopyHandler) - A Copy of Copy Handler Source Code. This repository is just a mirror of the Copy Handler source code. Please do not send pull requests.
@@ -381,7 +381,7 @@
 - [rsa9000/regfanalysistools](https://github.com/rsa9000/regfanalysistools) - Low-level MS Windows registry files analysis tools
 - [janbodnar/Windows-API-examples](https://github.com/janbodnar/Windows-API-examples) - Sources from the ZetCode's Windows API tutorial
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
-- [EnterpriseDB/repmgr](https://github.com/EnterpriseDB/repmgr) - A lightweight replication manager for PostgreSQL (Postgres) - latest version 5.3.3 (2022-10-17)
+- [EnterpriseDB/repmgr](https://github.com/EnterpriseDB/repmgr) - A lightweight replication manager for PostgreSQL (Postgres)
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
@@ -474,6 +474,20 @@
 
 ## C# # 
 
+- [dotnet/Open-XML-SDK](https://github.com/dotnet/Open-XML-SDK) - Open XML SDK by Microsoft
+- [ExcelDataReader/ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files
+- [bilal-fazlani/commanddotnet](https://github.com/bilal-fazlani/commanddotnet) - A modern framework for building modern CLI apps
+- [youngcm2/CsvHelper.Excel](https://github.com/youngcm2/CsvHelper.Excel) - 
+- [dotnet/Docker.DotNet](https://github.com/dotnet/Docker.DotNet) - :whale: .NET (C#) Client Library for Docker API
+- [PowerShell/CompletionPredictor](https://github.com/PowerShell/CompletionPredictor) - 
+- [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
+- [gus33000/UUPMediaCreator](https://github.com/gus33000/UUPMediaCreator) - An utility to create Windows Media files (.ISO, .WIM, .VHD) from Unified Update Platform files
+- [fireflycons/PSCloudFormation](https://github.com/fireflycons/PSCloudFormation) - Easy CloudFormation deployments from PowerShell command line. Exports CloudFormation Stacks to Terraform
+- [trimble-oss/dba-dash](https://github.com/trimble-oss/dba-dash) - DBA Dash - SQL Server Monitoring Tool
+- [builtbybel/BloatyNosy](https://github.com/builtbybel/BloatyNosy) - Experience Windows 11 in your way
+- [microsoft/devhomegithubextension](https://github.com/microsoft/devhomegithubextension) - 
+- [builtbybel/JunkCtrl](https://github.com/builtbybel/JunkCtrl) - Decluttering bot
+- [ricardodemauro/Health-Check-Series](https://github.com/ricardodemauro/Health-Check-Series) - 
 - [microsoft/devhome](https://github.com/microsoft/devhome) - Windows Dev Home Application
 - [SimonCropp/MarkdownSnippets](https://github.com/SimonCropp/MarkdownSnippets) - Extracts snippets from code files and merges them into markdown documents.
 - [marcinotorowski/MSIX-Hero](https://github.com/marcinotorowski/MSIX-Hero) - MSIX Hero - Open source MSIX manager and toolkit
@@ -538,7 +552,7 @@
 - [dataplat/AzureDataPipelineTools](https://github.com/dataplat/AzureDataPipelineTools) - A collection of Azure Function to make building Azure Data Factory pipeline simpler and easier.
 - [nea/MarkdownViewerPlusPlus](https://github.com/nea/MarkdownViewerPlusPlus) - A Notepad++ Plugin to view a Markdown file rendered on-the-fly
 - [sergey-su/logjoint](https://github.com/sergey-su/logjoint) - LogJoint log viewer core. Viewer plugins for publicly-available domains.
-- [ZiggyCreatures/FusionCache](https://github.com/ZiggyCreatures/FusionCache) - FusionCache is an easy to use, high performance and robust cache with an optional distributed 2nd layer and some advanced features.
+- [ZiggyCreatures/FusionCache](https://github.com/ZiggyCreatures/FusionCache) - FusionCache is an easy to use, fast and robust cache with advanced resiliency features and an optional distributed 2nd layer.
 - [oblily/excel-aws-add-in-visualstudio](https://github.com/oblily/excel-aws-add-in-visualstudio) - 
 - [gsimardnet/PowerQueryNet](https://github.com/gsimardnet/PowerQueryNet) - Run M Language (Power Query Formula Language) from anywhere.
 - [ctigeek/InvokeQueryPowershellModule](https://github.com/ctigeek/InvokeQueryPowershellModule) - A Powershell module of Cmdlets for querying most types of databases.
@@ -751,7 +765,7 @@
 - [xoofx/markdig](https://github.com/xoofx/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET
 - [PowerShell/Pager](https://github.com/PowerShell/Pager) - Project for console pager, which is published as a NuGet package Microsoft.PowerShell.Pager
 - [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine) - A bash inspired readline implementation for PowerShell
-- [PowerShell/PowerShellGet](https://github.com/PowerShell/PowerShellGet) - PowerShellGet is the package manager for PowerShell
+- [PowerShell/PSResourceGet](https://github.com/PowerShell/PSResourceGet) - PSResourceGet is the package manager for PowerShell
 - [tkellogg/Jump-Location](https://github.com/tkellogg/Jump-Location) - Powershell `cd` that reads your mind
 - [microsoft/RTVS](https://github.com/microsoft/RTVS) - R Tools for Visual Studio.
 - [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer.
@@ -1023,6 +1037,9 @@
 
 ## CSS 
 
+- [sanogotech/flask-now-ui-dashboard](https://github.com/sanogotech/flask-now-ui-dashboard) - Flask Dashboard NowUI - Open-Source Admin Panel | AppSeed
+- [stla/cascadeSelect](https://github.com/stla/cascadeSelect) - A cascade select widget for Shiny.
+- [jimbrig/codefolio](https://github.com/jimbrig/codefolio) - CodersRank Example Site
 - [ebullient/obsidian-theme-ebullientworks](https://github.com/ebullient/obsidian-theme-ebullientworks) - Theme for Obsidian.md (https://obsidian.md)
 - [efemkay/obsidian-modular-css-layout](https://github.com/efemkay/obsidian-modular-css-layout) - CSS Layout hack for Obsidian.md
 - [app-generator/copier-jinja](https://github.com/app-generator/copier-jinja) - Copier Template - Simple Flask/Jinja Starter | AppSeed
@@ -1176,6 +1193,7 @@
 - [toridoriv/pensieve](https://github.com/toridoriv/pensieve) - My notes using loosely the Zettelkasten method and the app Obsidian
 - [lucasrla/obsidian-css-tweaks](https://github.com/lucasrla/obsidian-css-tweaks) - CSS snippet for Obsidian – just a few tweaks to kepano's Minimal theme
 - [joshwingreene/Obsidian-JG-Method](https://github.com/joshwingreene/Obsidian-JG-Method) - A starter kit that follows how I use Obsidian to manage my goals, tasks, notes, and software development knowledge base.
+- [obsidianmd/obsidian-help](https://github.com/obsidianmd/obsidian-help) - Help documentation for Obsidian.
 - [gillesbertaux/bootsy](https://github.com/gillesbertaux/bootsy) - Bootstrap small projects and keep them organized with a simple folder structure.
 - [Beachnad/shinyInputs](https://github.com/Beachnad/shinyInputs) - 
 - [jpmarindiaz/shinysteps](https://github.com/jpmarindiaz/shinysteps) - 
@@ -1212,7 +1230,7 @@
 - [DataTables/Dist-DataTables-SearchPanes-Bootstrap4](https://github.com/DataTables/Dist-DataTables-SearchPanes-Bootstrap4) - 
 - [DataTables/Dist-DataTables-SearchPanes-Bootstrap](https://github.com/DataTables/Dist-DataTables-SearchPanes-Bootstrap) - 
 - [reprohack/reprohack-template-shiny](https://github.com/reprohack/reprohack-template-shiny) - 
-- [tyluRp/shinytemplate](https://github.com/tyluRp/shinytemplate) - :sparkles: A personal template for shiny dashboards
+- [tylerlittlefield/shinytemplate](https://github.com/tylerlittlefield/shinytemplate) - :sparkles: A personal template for shiny dashboards
 - [dkilfoyle/shiny-explorer](https://github.com/dkilfoyle/shiny-explorer) - Shiny based data explorer with report templates based on field selection
 - [devcows/hugo-universal-theme](https://github.com/devcows/hugo-universal-theme) - Universal theme for Hugo, it stands out with its clean design and elegant typography.
 - [JesseVent/shiny-components](https://github.com/JesseVent/shiny-components) - Work in Progress of custom shiny widgets for use in dashboards
@@ -1311,7 +1329,6 @@
 - [microsoft/code-with-engineering-playbook](https://github.com/microsoft/code-with-engineering-playbook) - This is the playbook for "code-with" customer or partner engagements
 - [techno-tim/launchpad](https://github.com/techno-tim/launchpad) - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
 - [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 90+ open-source web apps with one Docker command
-- [portainer/templates](https://github.com/portainer/templates) - App Templates used by Portainer
 - [trussworks/docker-nuker](https://github.com/trussworks/docker-nuker) - A docker image to nuke an AWS account and its contents via AWS-Nuke.
 - [robpco/docker-nginx-uwsgi-flask-mssql](https://github.com/robpco/docker-nginx-uwsgi-flask-mssql) - Docker image for Python Flask Apps with official Microsoft SQL Driver, NGINX and uWSGI
 - [mame/docker-quine](https://github.com/mame/docker-quine) - A Docker image that prints Dockerfile that generated the image iself
@@ -1319,7 +1336,7 @@
 - [dany1468/mssql-cli-tools](https://github.com/dany1468/mssql-cli-tools) - mssql-tools and mssql-cli and sqlpackage
 - [markhobson/docker-sqlpackage](https://github.com/markhobson/docker-sqlpackage) - Docker image for sqlpackage
 - [glin/r-docker](https://github.com/glin/r-docker) - Docker images for R
-- [tyluRp/pirate](https://github.com/tyluRp/pirate) - :pirate_flag: A personal platform for R programming
+- [tylerlittlefield/pirate](https://github.com/tylerlittlefield/pirate) - :pirate_flag: A personal platform for R programming
 - [Atemu/backblaze-personal-wine-container](https://github.com/Atemu/backblaze-personal-wine-container) - Run the Backblaze personal backup client in a container
 - [bcgov/SchemaSpy](https://github.com/bcgov/SchemaSpy) - 
 - [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) - Documentation and Examples of base container modifications
@@ -1361,6 +1378,7 @@
 - [GoogleCloudPlatform/cloud-sdk-docker](https://github.com/GoogleCloudPlatform/cloud-sdk-docker) - Google Cloud CLI Docker Image - Docker Image containing the gcloud CLI and its bundled components.
 - [mdneuzerling/plumber-on-k8s](https://github.com/mdneuzerling/plumber-on-k8s) - Run a `plumber` API on Kubernetes
 - [RaccoonDev/push-docker-gcr](https://github.com/RaccoonDev/push-docker-gcr) - Github Workflow Action to push a docker image to Google Container Registry
+- [maxheld83/AzureAppService](https://github.com/maxheld83/AzureAppService) - Deploy shiny applications and other R workloads to Azure App Service
 - [MangoTheCat/docker-docker-gcpsdk](https://github.com/MangoTheCat/docker-docker-gcpsdk) - Docker-in-Docker with GCP SDK
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [MangoTheCat/docker-buildr](https://github.com/MangoTheCat/docker-buildr) - An r-ver image with extra build dependencies
@@ -1392,7 +1410,7 @@
 ## Elixir 
 
 - [Arp-G/csv2sql](https://github.com/Arp-G/csv2sql) - A blazing fast fully-automated CSV to database importer
-- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
+- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
 - [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) - A toolkit for data mapping and language integrated query.
 - [peburrows/goth](https://github.com/peburrows/goth) - Elixir package for Oauth authentication via Google Cloud APIs
 - [supabase/realtime](https://github.com/supabase/realtime) - Broadcast, Presence, and Postgres Changes via WebSockets
@@ -1457,6 +1475,16 @@
 
 ## Go 
 
+- [gideaworx/terraform-exporter](https://github.com/gideaworx/terraform-exporter) - 
+- [terramate-io/terramate](https://github.com/terramate-io/terramate) - Terramate adds powerful capabilities such as code generation, stacks, orchestration, change detection, data sharing and more to Terraform.
+- [GitJournal/git-auto-sync](https://github.com/GitJournal/git-auto-sync) - Automatically Sync Git Repos
+- [timoknapp/soundcloud-cli](https://github.com/timoknapp/soundcloud-cli) - 🔊☁️ Simple CLI to fetch SoundCloud tracks
+- [stateful/runme](https://github.com/stateful/runme) - Execute commands inside your runbooks, docs, and READMEs.
+- [terraform-linters/tflint-ruleset-azurerm](https://github.com/terraform-linters/tflint-ruleset-azurerm) - TFLint ruleset for terraform-provider-azurerm
+- [coder/coder](https://github.com/coder/coder) - A tool that provisions remote development environments via Terraform
+- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
+- [codersrank-org/repo_info_extractor](https://github.com/codersrank-org/repo_info_extractor) - Use this script to extract data from your private repo. This data is used to calculate your score. https://codersrank.io
+- [tmccombs/hcl2json](https://github.com/tmccombs/hcl2json) - Convert hcl2 to json
 - [Azure/terraform-provider-azapi](https://github.com/Azure/terraform-provider-azapi) - Terraform provider for Azure Resource Manager Rest API
 - [aztfmod/terraform-provider-azurecaf](https://github.com/aztfmod/terraform-provider-azurecaf) - Terraform provider for Cloud Adoption Framework for Azure
 - [Azure/terratest-terraform-fluent](https://github.com/Azure/terratest-terraform-fluent) - Go module for Terraform module testing with fluent assertions
@@ -1590,7 +1618,7 @@
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database CI/CD for DevOps teams. https://www.bytebase.com
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database DevOps and CI/CD for teams. https://www.bytebase.com
 - [mgramin/pg_prompter](https://github.com/mgramin/pg_prompter) - 
 - [dimitri/regresql](https://github.com/dimitri/regresql) - Regression Testing your SQL queries
 - [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
@@ -1679,7 +1707,7 @@
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [dkaslovsky/textnote](https://github.com/dkaslovsky/textnote) - Simple tool for creating and organizing daily notes on the command line
 - [muesli/gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull & push changes
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The snappy and most customisable cross platform/shell prompt renderer
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [BlackReloaded/wsl2-ssh-pageant](https://github.com/BlackReloaded/wsl2-ssh-pageant) - bridge between windows pageant and wsl2
 - [securitywithoutborders/hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
 - [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
@@ -1822,7 +1850,7 @@
 - [go-survey/survey](https://github.com/go-survey/survey) - A golang library for building interactive and accessible prompts with full support for windows and posix terminals.
 - [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
-- [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform network tool. 一个跨平台网络工具.
+- [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool. 一个跨平台可编程网络工具.
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [buptczq/WinCryptSSHAgent](https://github.com/buptczq/WinCryptSSHAgent) - Using a Yubikey for SSH Authentication on Windows Seamlessly
@@ -1901,6 +1929,19 @@
 
 ## HCL 
 
+- [claranet/terraform-azurerm-db-sql](https://github.com/claranet/terraform-azurerm-db-sql) - Terraform module composition (feature) for Azure SQL Database (SQLServer based)
+- [kumarvna/terraform-azurerm-storage](https://github.com/kumarvna/terraform-azurerm-storage) - Terraform Module to create Azure storage account resources.
+- [Azure/caf-terraform-landingzones](https://github.com/Azure/caf-terraform-landingzones) - Cloud Adoption Framework for Azure - Terraform landing zones
+- [klahnakoski/terraform-parser](https://github.com/klahnakoski/terraform-parser) - Parse terraform scripts into JSON
+- [kumarvna/terraform-azurerm-dashboard](https://github.com/kumarvna/terraform-azurerm-dashboard) - Terraform module to create a focused and organised view of the cloud resources in the Azure portal.
+- [infracloudio/terraform-generation-tools](https://github.com/infracloudio/terraform-generation-tools) - 
+- [terramate-io/terramate-example-code-generation](https://github.com/terramate-io/terramate-example-code-generation) - An code generation example for Terramate.
+- [Azure/azure-data-labs](https://github.com/Azure/azure-data-labs) - Terraform templates to deploy Azure Data resources
+- [microsoft/terraform-azure-devops-starter](https://github.com/microsoft/terraform-azure-devops-starter) - A starter project for Azure DevOps Pipelines deploying resources on Terraform.
+- [antonputra/tutorials](https://github.com/antonputra/tutorials) - DevOps Tutorials
+- [cloudposse/terraform-null-label](https://github.com/cloudposse/terraform-null-label) - Terraform Module to define a consistent naming convention by (namespace, stage, name, [attributes])
+- [buildstar-online/azure-tf-starter](https://github.com/buildstar-online/azure-tf-starter) - Simple guide for a modular Azure cloud starter project using Terraform
+- [LinkedInLearning/advanced-terraform-2823489](https://github.com/LinkedInLearning/advanced-terraform-2823489) - Advanced Terraform
 - [claranet/terraform-azurerm-storage-account](https://github.com/claranet/terraform-azurerm-storage-account) - Terraform module for Azure Storage
 - [hashicorp/terraform-azurerm-terraform-enterprise](https://github.com/hashicorp/terraform-azurerm-terraform-enterprise) - A Terraform module for deploying Terraform Enterprise on Azure.
 - [Azure-Samples/container-apps-azapi-terraform](https://github.com/Azure-Samples/container-apps-azapi-terraform) - This sample shows how to deploy a Dapr application to Azure Container Apps using Terraform with the AzAPI Provider.
@@ -1936,7 +1977,6 @@
 - [julie-ng/service-principal-keyvault-demo](https://github.com/julie-ng/service-principal-keyvault-demo) - Infra as Code example of creating an Azure service principal and storing its credentials in Key Vault.
 - [DanLauerman/azure-app-config-testing](https://github.com/DanLauerman/azure-app-config-testing) - A demo app to help see the impact of using Azure key vault secrets as app service config values
 - [Azure/terraform-azurerm-network-security-group](https://github.com/Azure/terraform-azurerm-network-security-group) - Terraform module to create a network security group and assign it to the specified subnet
-- [HoussemDellai/terraform-course](https://github.com/HoussemDellai/terraform-course) - Full course for deploying Infrastructure to the Cloud using Terraform
 - [terraform-google-modules/terraform-example-foundation](https://github.com/terraform-google-modules/terraform-example-foundation) - Shows how the CFT modules can be composed to build a secure cloud foundation
 - [GarethOates/terraform](https://github.com/GarethOates/terraform) - Playing around with terraform with Azure
 - [antonbabenko/terraform-best-practices-workshop](https://github.com/antonbabenko/terraform-best-practices-workshop) - Terraform Best Practices - workshop materials
@@ -2031,6 +2071,8 @@
 
 ## HTML 
 
+- [datastorm-open/shinymodules](https://github.com/datastorm-open/shinymodules) - This package provides shiny modules to build quickly an ergonomic tool to explore a table
+- [nolimits4web/personal-website-with-widgets](https://github.com/nolimits4web/personal-website-with-widgets) - Personal developer website made with CodersRank widgets
 - [Joscelinrocha/resouRces](https://github.com/Joscelinrocha/resouRces) - Here you can find a list of resources that have and continue helping me in my process of learning/ teaching R.
 - [carpentries/workbench](https://github.com/carpentries/workbench) - Repository for Discussions and Materials about The Carpentries Workbench
 - [pachadotdev/databases.pacha.dev](https://github.com/pachadotdev/databases.pacha.dev) - 
@@ -2117,7 +2159,6 @@
 - [windows-admins/Wiki](https://github.com/windows-admins/Wiki) - wiki.winadmins.io
 - [RamiKrispin/deploy-flex-actions](https://github.com/RamiKrispin/deploy-flex-actions) - Deploying flexdashboard on Github Pages with Docker and Github Actions
 - [amtwo/Data-Blogger-Resource-Kit](https://github.com/amtwo/Data-Blogger-Resource-Kit) - Includes resources for use by bloggers, microbloggers, vloggers, and origami enthusiasts who focus on SQL Server, Data, and related topics.
-- [hnasr/nginx-course](https://github.com/hnasr/nginx-course) - 
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [jimbrig/firefox-config](https://github.com/jimbrig/firefox-config) - Personal Firefox Developer Edition Preferences and Configuration
 - [aws-samples/aws-dbs-refarch-datalake](https://github.com/aws-samples/aws-dbs-refarch-datalake) - Reference Architectures for Datalakes on AWS
@@ -2234,6 +2275,7 @@
 - [nteetor/zeppelin](https://github.com/nteetor/zeppelin) - A copy of nteetor/hyderogen tailored for yonder
 - [mammykins/App-cherry_picker](https://github.com/mammykins/App-cherry_picker) - A Shiny app for mapping School specific variables by Local Education Authority with Leaflet in R
 - [open-science-promoters/contibutor_manager](https://github.com/open-science-promoters/contibutor_manager) - Using a software to manage scientific publications author list, the same way reference managers work.
+- [moj-analytical-services/IntroRTraining](https://github.com/moj-analytical-services/IntroRTraining) - Introductory R training
 - [moj-analytical-services/our-coding-standards](https://github.com/moj-analytical-services/our-coding-standards) - DASD's coding principles for analytical projects
 - [jbambrough/engineering](https://github.com/jbambrough/engineering) - All things software engineering. Coding practice, data structures, algorithms, various resources
 - [hackersandslackers/flask-jinja-tutorial](https://github.com/hackersandslackers/flask-jinja-tutorial) - :shinto_shrine: Serve dynamic web pages in Flask by mastering Flask's built-in templating engine.
@@ -2415,6 +2457,7 @@
 - [holtzy/R-Markdown-Parallax](https://github.com/holtzy/R-Markdown-Parallax) - How to use parallax on your R Markdown output
 - [mcanouil/rpackages](https://github.com/mcanouil/rpackages) - A short introduction on building R-packages
 - [mcanouil/rstartup](https://github.com/mcanouil/rstartup) - Tips to start working with R
+- [jpgmv1998/reproducible_paper_template](https://github.com/jpgmv1998/reproducible_paper_template) - Template repository for starting a new empirical paper project implementing good practices for reproducibility using R
 - [GShotwell/easyMake](https://github.com/GShotwell/easyMake) - Automatically generate Makefiles for R projects
 - [ScottHands/ScottHands.github.io](https://github.com/ScottHands/ScottHands.github.io) - Portfolio
 - [arthrp/quick-skeleton-templates](https://github.com/arthrp/quick-skeleton-templates) - Templates for quick-skeleton scaffolding engine
@@ -2458,7 +2501,6 @@
 - [aswansyahputra/mytalk](https://github.com/aswansyahputra/mytalk) - Curated repository of materials for talks and workshops
 - [thtang/Business-Analytics-Using-Statistical-Modeling](https://github.com/thtang/Business-Analytics-Using-Statistical-Modeling) - BASM - 2017 Spring
 - [m-jahn/WeightedTreemaps](https://github.com/m-jahn/WeightedTreemaps) - Create Voronoi and Sunburst Treemaps from Hierarchical data
-- [mca91/EconometricsWithR](https://github.com/mca91/EconometricsWithR) - 📖An interactive companion to the well-received textbook 'Introduction to Econometrics' by Stock & Watson (2015)
 - [o2r-project/o2r-substituter](https://github.com/o2r-project/o2r-substituter) - Create a new compendium based on existing compendia
 - [geocontainers/dockerfiles](https://github.com/geocontainers/dockerfiles) - Dockerfiles for geo/spatial applications, services, and libraries
 - [richelbilderbeek/R](https://github.com/richelbilderbeek/R) - My notes on the R programming language
@@ -2571,7 +2613,6 @@
 - [data-edu/data-science-in-education](https://github.com/data-edu/data-science-in-education) - Repository for 'Data Science in Education Using R' by Emily A. Bovee, Ryan A. Estrellado, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez, Routledge 2020
 - [s-fleck/lgr](https://github.com/s-fleck/lgr) - A fully featured logging framework for R
 - [rfordatascience/tidytuesday](https://github.com/rfordatascience/tidytuesday) - Official repo for the #tidytuesday project
-- [aursiber/fitdistrplus](https://github.com/aursiber/fitdistrplus) - Help to Fit of a Parametric Distribution to Non-Censored or Censored Data
 - [jthomasmock/pdftools-guide](https://github.com/jthomasmock/pdftools-guide) - Vignette to using pdftools from ropensci
 - [jperkel/mymanuscript](https://github.com/jperkel/mymanuscript) - Demo manuscript using Manubot
 - [januz/drakepkg](https://github.com/januz/drakepkg) - Reproducible Research with a Packaged `drake` Workflow
@@ -2734,6 +2775,7 @@
 
 ## Java 
 
+- [gideaworx/terraform-exporter-plugin](https://github.com/gideaworx/terraform-exporter-plugin) - 
 - [Swagger2Markup/swagger2markup](https://github.com/Swagger2Markup/swagger2markup) - A Swagger to AsciiDoc or Markdown converter to simplify the generation of an up-to-date RESTful API documentation by combining documentation that’s been hand-written with auto-generated API documentat
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [structurizr/lite](https://github.com/structurizr/lite) - Structurizr Lite
@@ -2863,6 +2905,14 @@
 
 ## JavaScript 
 
+- [s-blu/obsidian_things](https://github.com/s-blu/obsidian_things) - Resources and snippets of all sort for Obsidian.md https://obsidian.md/
+- [s-blu/obsidian_dataview_example_vault](https://github.com/s-blu/obsidian_dataview_example_vault) - A example vault to collect and showcase various dataview queries. Created on behalf of AB1908
+- [Websoft9/docker-library](https://github.com/Websoft9/docker-library) - 100+ open source application installation of Docker Compose powered by Websoft9
+- [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
+- [jonalxh/Flask-Admin-Dashboard](https://github.com/jonalxh/Flask-Admin-Dashboard) - Flask Admin customized using AdminLTE bootstrap template and flask security to offer a better Dashboard UX
+- [iann0036/former2](https://github.com/iann0036/former2) - Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources.
+- [rsquaredacademy/standby](https://github.com/rsquaredacademy/standby) - Loading screens, alerts and notifications for Shiny
+- [RhoInc/web-codebook](https://github.com/RhoInc/web-codebook) - A web-based version of the codebook, which generates a concise summary of every variable in a dataset.
 - [Reocin/obsidian-markdown-formatting-assistant-plugin](https://github.com/Reocin/obsidian-markdown-formatting-assistant-plugin) - This Plugin provides a simple WYSIWYG Editor for Markdown and in addition a command line interface. The command line interface facilitate a faster workflow.
 - [benytzlich/obsidian-extract-pdf](https://github.com/benytzlich/obsidian-extract-pdf) - Extract PDFs to Markdown within Obsidian
 - [nothingislost/obsidian-codemirror-options](https://github.com/nothingislost/obsidian-codemirror-options) - Obsidian plugin with options to customize the behavior of CodeMirror
@@ -2900,12 +2950,10 @@
 - [shuowu/yi-note](https://github.com/shuowu/yi-note) - YiNote browser extension - online video note taking tool
 - [nicoandrade/healthchecks-front](https://github.com/nicoandrade/healthchecks-front) - Beautiful dashboard to use with Healthchecks.io
 - [timwis/csv-schema](https://github.com/timwis/csv-schema) - Analyzes a CSV file and generates database table schema, all within the browser
-- [Parallels/rq-dashboard](https://github.com/Parallels/rq-dashboard) - Flask-based web front-end for monitoring RQ queues
 - [uxsolutions/bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker) - A datepicker for twitter bootstrap (@twbs)
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [edwarddistel/yahoo-fantasy-baseball-reader](https://github.com/edwarddistel/yahoo-fantasy-baseball-reader) - Download your fantasy baseball data from the Yahoo API.
 - [bwiernik/zotero-shortdoi](https://github.com/bwiernik/zotero-shortdoi) - Zotero extension to retrieve and validate DOIs and shortDOIs
-- [ohm-en/obsidian-plugin-manager](https://github.com/ohm-en/obsidian-plugin-manager) - Allows better management of Obsidian.md plugins.
 - [lnilya/scto_obsidian](https://github.com/lnilya/scto_obsidian) - 
 - [problemofpoints/problemofpoints](https://github.com/problemofpoints/problemofpoints) - Capital allocation in an uncertain world
 - [browserify/browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
@@ -3006,7 +3054,6 @@
 - [d4software/QueryTree](https://github.com/d4software/QueryTree) - Data reporting and visualization for your app
 - [dragonwocky/obsidian-tray](https://github.com/dragonwocky/obsidian-tray) - Run Obsidian from the system tray for customisable window management & global quick notes
 - [metruzanca/lastfm-github-readme](https://github.com/metruzanca/lastfm-github-readme) - lastfm-github-readme
-- [Appsilon/shiny.emptystate](https://github.com/Appsilon/shiny.emptystate) - Empty state components for Shiny
 - [microsoft/Windows-universal-samples](https://github.com/microsoft/Windows-universal-samples) - API samples for the Universal Windows Platform.
 - [NCEAS/metacatui](https://github.com/NCEAS/metacatui) - MetacatUI: A client-side web interface for DataONE data repositories
 - [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
@@ -3433,7 +3480,7 @@
 - [PacktPublishing/Hands-On-Kubernetes-on-Windows](https://github.com/PacktPublishing/Hands-On-Kubernetes-on-Windows) - Hands-On Kubernetes on Windows, published by Packt
 - [StefanScherer/dockerfiles-windows](https://github.com/StefanScherer/dockerfiles-windows) - Various Dockerfiles for Windows Containers
 - [omidnikrah/WTC](https://github.com/omidnikrah/WTC) - ⏱💰Working Time Calculator app for remote workers.
-- [renative-org/renative](https://github.com/renative-org/renative) - 🚀🚀🚀 Unified Development Platform for iOS, tvOS, Android, Android TV, Android Wear, Web, Tizen TV, Tizen Watch, Tizen Mobile, LG webOS, macOS/OSX, Windows, KaiOS, FirefoxOS Firefox TV platforms
+- [flexn-io/renative](https://github.com/flexn-io/renative) - 🚀🚀🚀 Unified Development Platform for iOS, tvOS, Android, Android TV, Android Wear, Web, Tizen TV, Tizen Watch, Tizen Mobile, LG webOS, macOS/OSX, Windows, KaiOS, FirefoxOS Firefox TV platforms
 - [thumbsup/thumbsup](https://github.com/thumbsup/thumbsup) - Generate static HTML photo / video galleries
 - [mckeever02/tryingtowork](https://github.com/mckeever02/tryingtowork) - A collection of free spaces to work online
 - [luckyshot/freelance-timetracker](https://github.com/luckyshot/freelance-timetracker) - Free and super-simple web-based timetracking system in JavaScript and PHP.
@@ -3479,6 +3526,7 @@
 - [vikrantnegi/react-native-location-tracking](https://github.com/vikrantnegi/react-native-location-tracking) - Track User location and draws the path you have taken
 - [paaatrick/playball](https://github.com/paaatrick/playball) - Watch MLB games from the comfort of your own terminal
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
+- [garrylachman/ElectroCRUD](https://github.com/garrylachman/ElectroCRUD) - Database CRUD Application Built on Electron | MySQL, Postgres, SQLite
 - [sqorn/sqorn](https://github.com/sqorn/sqorn) - A Javascript library for building SQL queries
 - [sqlpad/sqlpad](https://github.com/sqlpad/sqlpad) - Web-based SQL editor. Legacy project in maintenance mode.
 - [brianc/node-postgres](https://github.com/brianc/node-postgres) - PostgreSQL client for node.js.
@@ -3892,7 +3940,7 @@
 - [szepeviktor/windows-workstation](https://github.com/szepeviktor/windows-workstation) - Prepare my Windows 10 workstation
 - [noamross/juicer](https://github.com/noamross/juicer) - A thin wrapper for in-lining CSS styles into HTML
 - [noamross/redirectr-ff](https://github.com/noamross/redirectr-ff) - 
-- [rstudio-education/datascience-box](https://github.com/rstudio-education/datascience-box) - Data Science Course in a Box
+- [tidyverse/datascience-box](https://github.com/tidyverse/datascience-box) - Data Science Course in a Box
 - [chrisvel/wreeto_official](https://github.com/chrisvel/wreeto_official) - Wreeto is an open source note-taking, knowledge management and wiki system.
 - [ColinFay/mdlinks](https://github.com/ColinFay/mdlinks) - A Google Chrome extension to create Markdown links for the current page
 - [whitwort/vectorInput](https://github.com/whitwort/vectorInput) - A shiny input widget that returns a (possibly named) vector of values.
@@ -4203,6 +4251,7 @@
 
 ## Jupyter Notebook 
 
+- [dfinke/openai-powershell-samples](https://github.com/dfinke/openai-powershell-samples) - 
 - [OpenLiberty/cloud-hosted-guides](https://github.com/OpenLiberty/cloud-hosted-guides) - 
 - [unskript/Awesome-CloudOps-Automation](https://github.com/unskript/Awesome-CloudOps-Automation) - Cloud-ops automation runbooks that are ready to use. Build your own automations using the hundreds of drag and drop actions included in the repository.  Built on Jupyter Notebooks, our automation plat
 - [microsoft/bobsql](https://github.com/microsoft/bobsql) - demos, scripts, samples, and code from the two bobs who work at Microsoft on SQL Server
@@ -4395,6 +4444,7 @@
 - [GitSquared/dotfiles](https://github.com/GitSquared/dotfiles) - My personal dotfiles storage. Feel free to steal my vimrc!
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 - [mrjones2014/dotfiles](https://github.com/mrjones2014/dotfiles) - ❄️ My dotfiles for NixOS and macOS as a Nix flake. Neovim, Fish shell, Wezterm, etc.
+- [fredrikaverpil/dotfiles](https://github.com/fredrikaverpil/dotfiles) - My dotfiles
 - [alexpearce/dotfiles](https://github.com/alexpearce/dotfiles) - My dotfiles.
 - [Optixal/neovim-init.vim](https://github.com/Optixal/neovim-init.vim) - :izakaya_lantern: A hybrid Neovim configuration for productive developers who want a functional yet aesthetic Vim experience :izakaya_lantern:
 - [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
@@ -4432,6 +4482,7 @@
 - [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema I-D sources
 - [duarteocarmo/boilerplate](https://github.com/duarteocarmo/boilerplate) - 
 - [JarvusInnovations/infra-components](https://github.com/JarvusInnovations/infra-components) - A collection of reusable infrastructure-as-code components
+- [portainer/templates](https://github.com/portainer/templates) - App Templates used by Portainer
 - [trussworks/terraform-module-template](https://github.com/trussworks/terraform-module-template) - Template repo with Terraform module basics
 - [samrocketman/docker-production-ready-flask](https://github.com/samrocketman/docker-production-ready-flask) - This is an example app meant to package a Flask REST API in Docker meant for running in production contexts.
 - [rochacbruno/python-project-template](https://github.com/rochacbruno/python-project-template) - DO NOT FORK, CLICK ON "Use this template" - A github template to start a Python Project - this uses github actions to generate your project based on the template.
@@ -4471,7 +4522,7 @@
 - [susam/gitpr](https://github.com/susam/gitpr) - Quick reference guide on fork and pull request workflow
 - [roboyoshi/datacurator-filetree](https://github.com/roboyoshi/datacurator-filetree) - a standard filetree for /r/datacurator [ and r/datahoarder ]
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [Accio/demo-linking-native](https://github.com/Accio/demo-linking-native) - Demo of linking native routines in other packages in R
 - [sellorm/awesome-blogdown](https://github.com/sellorm/awesome-blogdown) - An awesome curated list of blogs built using blogdown
 
@@ -4487,7 +4538,6 @@
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [raphamorim/awesome-canvas](https://github.com/raphamorim/awesome-canvas) - A curated list of awesome HTML5 Canvas with examples, related articles and posts.
 - [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.
-- [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open source documentation of Microsoft Azure
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Mustache 
@@ -4507,7 +4557,7 @@
 ## Nix 
 
 - [BenDHarvey/configuration](https://github.com/BenDHarvey/configuration) - This is all my personal workstation config.
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [lionello/onedrive-cli](https://github.com/lionello/onedrive-cli) - Command line interface for OneDrive
 
 ## Nu 
@@ -4548,10 +4598,12 @@
 
 ## Others 
 
+- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
+- [jfromaniello/pswatch](https://github.com/jfromaniello/pswatch) - Powershell cmdlet to monitor file changes in a directory tree.
 - [skills/introduction-to-github](https://github.com/skills/introduction-to-github) - Get started using GitHub in less than an hour.
 - [RehanSaeed/EditorConfig](https://github.com/RehanSaeed/EditorConfig) - A very generic .editorconfig file supporting .NET, C#, VB and web technologies.
 - [digdeeproots/provable-refactorings](https://github.com/digdeeproots/provable-refactorings) - A collection of refactoring recipes that are provably safe. They never accidentally introduce nor fix a bug, including one that you don't know exists. They maintain all behavior, including unknown or 
-- [jpontdia/devops-pipelines](https://github.com/jpontdia/devops-pipelines) - 
+- [jpontdia/mulesoft-pipeline](https://github.com/jpontdia/mulesoft-pipeline) - 
 - [PacktPublishing/Extending-Excel-with-Python-and-R](https://github.com/PacktPublishing/Extending-Excel-with-Python-and-R) - Extending Excel with Python and R, published by Packt
 - [jonthegeek/wapir](https://github.com/jonthegeek/wapir) - Web APIs with R
 - [actuarialopensource/.github](https://github.com/actuarialopensource/.github) - 
@@ -4584,6 +4636,7 @@
 - [abilian/.github](https://github.com/abilian/.github) - Public GitHub profile
 - [thisissoon/Handbook](https://github.com/thisissoon/Handbook) - Our Developer handbook - covering our best practices and language specific guidelines
 - [lkrimphove/knowledge](https://github.com/lkrimphove/knowledge) - My personal knowledge base
+- [ohm-en/obsidian-plugin-manager](https://github.com/ohm-en/obsidian-plugin-manager) - Allows better management of Obsidian.md plugins.
 - [andersbogsnes/oop](https://github.com/andersbogsnes/oop) - Workshop slides
 - [arcanecode/VSCode_User_Snippets](https://github.com/arcanecode/VSCode_User_Snippets) - 
 - [nanxstats/awesome-webr](https://github.com/nanxstats/awesome-webr) - 😎 A curated list of awesome resources for learning WebR, a version of the statistical language R compiled for the browser and Node.js using WebAssembly.
@@ -4732,7 +4785,6 @@
 - [CDCgov/template](https://github.com/CDCgov/template) - Template repository with rules, practices, and privacy, license, records notices to help people use the CDCgov GitHub organization.
 - [openbridge/s3-sftp-gateway](https://github.com/openbridge/s3-sftp-gateway) - Openbridge SFTP S3 Gateway: A broad feature set you would expect from mature, enterprise-focused SFTP service
 - [iaolo/iA-Fonts](https://github.com/iaolo/iA-Fonts) - Free variable writing fonts from iA
-- [ChrisTitusTech/ntlite-configs](https://github.com/ChrisTitusTech/ntlite-configs) - NTLite XML Configuration Files
 - [Xray-App/tutorial-test-case-importer](https://github.com/Xray-App/tutorial-test-case-importer) - Tutorials for importing tests (e.g., from CSV) to Xray using Test Case Importer
 - [devimam/django-gallery](https://github.com/devimam/django-gallery) - Complete guide for learning Django - a python web framework.
 - [amoeba/dataspice-example](https://github.com/amoeba/dataspice-example) - example repo for dataspice
@@ -4786,7 +4838,6 @@
 - [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 - [Duffney/smart-notes](https://github.com/Duffney/smart-notes) - Physical slip-box converted into Obsidian
 - [Azure/AppConfiguration](https://github.com/Azure/AppConfiguration) - Questions, feedback and samples for Azure App Configuration service
-- [jakepricedev/espanso-config](https://github.com/jakepricedev/espanso-config) - Personal Espanso Configuration Files.
 - [angelorpt/espanso-git](https://github.com/angelorpt/espanso-git) - Improve your git experience using this snippets triggers, become a faster developer at cli.
 - [not-AMM/gitpanso](https://github.com/not-AMM/gitpanso) - espanso package for quickly writing Git commands.
 - [PhictionalOne/espanso-custom-packages](https://github.com/PhictionalOne/espanso-custom-packages) - A collection of some packages I modified for my own use
@@ -5201,6 +5252,7 @@
 - [stemmlerjs/software-design-and-architecture-roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - 🧱 The software design and architecture roadmap for any developer
 - [Dmytro-Shulha/obsidian-css-snippets](https://github.com/Dmytro-Shulha/obsidian-css-snippets) - Most common appearance solutions for Obsidian now in a single place. Initially collected by Klaas: https://forum.obsidian.md/t/how-to-achieve-css-code-snippets/8474
 - [kidonng/sushi](https://github.com/kidonng/sushi) - [Unmaintained] 🍣 A tasty and inclusive Scoop bucket
+- [hrbrmstr/weekly-dmarc-grabber](https://github.com/hrbrmstr/weekly-dmarc-grabber) - Weekly DMARC Grabs of the Rapid7 1500
 - [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 - [nickforr/rsetup](https://github.com/nickforr/rsetup) - Manage a list of R packages I find useful
 - [imjasonh/gcping](https://github.com/imjasonh/gcping) - 
@@ -5261,6 +5313,7 @@
 - [lilin90/awesome-technical-communication](https://github.com/lilin90/awesome-technical-communication) - 😎 A curated list of awesome resources about technical communication
 - [bp4you/sadd](https://github.com/bp4you/sadd) - SADD makes it easier for Software Development Teams to create high qualitative solutions and products for the sake of well designed System and Software Architecture.  You'll no longer have to know all
 - [itsazzad/SRS](https://github.com/itsazzad/SRS) - Systems and software engineering — Life cycle processes — Requirements engineering
+- [CookingWithCale/MarkdownSoftwareEngineering](https://github.com/CookingWithCale/MarkdownSoftwareEngineering) - Software engineering markdown Jekyll-ish templates, including Requirements Analysis Document and Software Design Document.
 - [leonardochang36/srsdoc](https://github.com/leonardochang36/srsdoc) - A software requirements specification is the basis for your entire project. It lays the framework that every team involved in development will follow. Here you can find an easy to use template.
 - [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems) - A curated list to learn about distributed systems
 - [emilyriederer/dbtplyr](https://github.com/emilyriederer/dbtplyr) - dbt package mimicking dplyr select-helpers semantics
@@ -5656,7 +5709,6 @@
 - [julianenglert/Andy-Grove---High-Output-Management](https://github.com/julianenglert/Andy-Grove---High-Output-Management) - Summary of the book High Output Management by Andy Grove
 - [ShannaSeigel/slipbox](https://github.com/ShannaSeigel/slipbox) - knowledgebase sharing experiment
 - [tekacs/editorial-obsidian](https://github.com/tekacs/editorial-obsidian) - Editorial scripts for Obsidian (unofficial)
-- [obsidianmd/obsidian-help](https://github.com/obsidianmd/obsidian-help) - Help documentation for Obsidian.
 - [ahmetb/kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - Example recipes for Kubernetes Network Policies that you can just copy paste
 - [RMHogervorst/scheduling_r_scripts](https://github.com/RMHogervorst/scheduling_r_scripts) - 
 - [deanmarchiori/analysis-flow](https://github.com/deanmarchiori/analysis-flow) - Data Analysis Workflows & Reproducibility Learning Resources
@@ -5664,6 +5716,7 @@
 - [ahkscript/awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) - A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.
 - [KevinColemanInc/awesome-productivity](https://github.com/KevinColemanInc/awesome-productivity) - 
 - [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) - A curated list of delightful productivity resources.
+- [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open source documentation of Microsoft Azure
 - [andrews1022/web-development-course-list](https://github.com/andrews1022/web-development-course-list) - A list of Udemy courses from Brad Traversy's Web Development 2021 video
 - [chetanraj/awesome-github-badges](https://github.com/chetanraj/awesome-github-badges) - A curated list of awesome github README.md badges
 - [Hack-with-Github/Awesome-Security-Gists](https://github.com/Hack-with-Github/Awesome-Security-Gists) - A collection of various GitHub gists for hackers, pentesters and security researchers
@@ -5675,6 +5728,7 @@
 - [timoxley/best-practices](https://github.com/timoxley/best-practices) - Tidbits of developer best practices from around the web
 - [thomasdavis/best-practices](https://github.com/thomasdavis/best-practices) - This is a fork of timoxley - Tidbits of best practices information from around the web
 - [chrisjacob/grandmaster](https://github.com/chrisjacob/grandmaster) - Setup GitHub Pages "gh-pages" branch and "master" branch as subfolders of a "grandmaster" (aka parent) project folder
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [noamross/rmd-rant](https://github.com/noamross/rmd-rant) - 
 - [noamross/zero-dependency-problems](https://github.com/noamross/zero-dependency-problems) - Real-world code problems in R, without dependencies
 - [genomicsclass/windows](https://github.com/genomicsclass/windows) - Guide to setting up R and RStudio on Windows
@@ -5904,7 +5958,7 @@
 - [sformisano/obsidian](https://github.com/sformisano/obsidian) - A WordPress starter kit for the modern web.
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 - [Siphon880gh/tutorials-using-git](https://github.com/Siphon880gh/tutorials-using-git) - By Weng Fei Fung. This is a walkthrough tutorial generator and reader for git repos by leveraging the power of git diff and git notes. You can get your team up to speed or personally review how to set
-- [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a lean project management system for non-project managers. Designed to help you manage your projects from ideation to delivery.
+- [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a strategic project management system for non-project managers.
 - [TarekJor/Shaarli](https://github.com/TarekJor/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [TarekJor/SemanticScuttle](https://github.com/TarekJor/SemanticScuttle) - SemanticScuttle is a social bookmarking tool experimenting new features like structured tags and collaborative tag descriptions. Report bugs on sourceforge.
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
@@ -5924,7 +5978,6 @@
 - [Eventador/cookiecutter-rest-api](https://github.com/Eventador/cookiecutter-rest-api) - Cookiecutter template for flask restful, including JWT auth, cli, tests and more
 - [panoramichq/fdq-templates](https://github.com/panoramichq/fdq-templates) - initial SQL and YAML mapping/modeling of third party managed data sources
 - [devrimgunduz/pagila](https://github.com/devrimgunduz/pagila) - PostgreSQL Sample Database
-- [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
 - [Rotifer/PostgreSQL_Applications](https://github.com/Rotifer/PostgreSQL_Applications) - Shiny Apps with PostgreSQL back-end.
 - [purcell/postgresql-migrations](https://github.com/purcell/postgresql-migrations) - Simple Schema Migrations for PostgreSQL
 - [andreystepanov/hashids.sql](https://github.com/andreystepanov/hashids.sql) - PL/pgSQL implementation of hashids library
@@ -5972,7 +6025,7 @@
 - [jonathanneve/copycat](https://github.com/jonathanneve/copycat) - 
 - [bovender/VstoAddinInstaller](https://github.com/bovender/VstoAddinInstaller) - Generic InnoSetup script to install VSTO add-ins.
 - [bovender/ExcelAddinInstaller](https://github.com/bovender/ExcelAddinInstaller) - InnoSetup script to install and activate Excel addins.
-- [v20100v/deploy-microsoft-office-extensions](https://github.com/v20100v/deploy-microsoft-office-extensions) - Helper to deploy Microsoft Office Extensions, like Excel or Word VBA macros, add custom actions in Office Ribbon, with InnoSetup. We use this solution in order to make easy installation and deployment
+- [6i-software/deploy-microsoft-office-extensions](https://github.com/6i-software/deploy-microsoft-office-extensions) - Helper to deploy Microsoft Office Extensions, like Excel or Word VBA macros, add custom actions in Office Ribbon, with InnoSetup. We use this solution in order to make easy installation and deployment
 - [delphidabbler/bdiff](https://github.com/delphidabbler/bdiff) - Binary diff and patch programs for the Windows command line
 - [miracle2k/ntfslink](https://github.com/miracle2k/ntfslink) - A set of Windows Shell Extensions, providing extended functionality for creating and using hard links and junction points on NTFS file systems.
 - [jrsoftware/issrc](https://github.com/jrsoftware/issrc) - Inno Setup is a free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.
@@ -6010,6 +6063,18 @@
 
 ## PowerShell 
 
+- [wardbox/spotishell](https://github.com/wardbox/spotishell) - A powershell module used to interact with the Spotify API
+- [BryanSoltis/CloudAdoptionFramework](https://github.com/BryanSoltis/CloudAdoptionFramework) - Code samples and extended documentation to support the guidance provided in the Microsoft Cloud Adoption Framework
+- [patevs/powershell-template](https://github.com/patevs/powershell-template) - A Basic PowerShell repository and script template.
+- [OSDeploy/PwshHub](https://github.com/OSDeploy/PwshHub) - 
+- [ajf8729/Toolbox](https://github.com/ajf8729/Toolbox) - Miscellaneous scripts and utility functions for various purposes
+- [adamdriscoll/pwsh-github-actions](https://github.com/adamdriscoll/pwsh-github-actions) - Examples of using PowerShell in GitHub actions
+- [mmims/PSConsoleTheme](https://github.com/mmims/PSConsoleTheme) - PowerShell module to manage Windows console colors and PSReadline token colors.
+- [adamrushuk/PowerShell-Misc](https://github.com/adamrushuk/PowerShell-Misc) - Miscellaneous PowerShell
+- [adamrushuk/devops-lab](https://github.com/adamrushuk/devops-lab) - This is the main repo where I test and use DevOps tools and processes.
+- [AdminVin/Scripts](https://github.com/AdminVin/Scripts) - Windows BAT, VBS, and PowerShell scripts.
+- [xadozuk/terramorph](https://github.com/xadozuk/terramorph) - Terraform version manager for PowerShell
+- [MertSenel/azure-usage-and-cost-tracking](https://github.com/MertSenel/azure-usage-and-cost-tracking) - Sample Azure Native Serverless Cloud Solution, Usage and Cost tracker using Azure Durable Functions(Powershell), Azure Storage, Sendgrid(Email)
 - [dsccommunity/NetworkingDsc](https://github.com/dsccommunity/NetworkingDsc) - DSC resources for configuring settings related to networking.
 - [p0w3rsh3ll/AutoRuns](https://github.com/p0w3rsh3ll/AutoRuns) - 🚀AutoRuns is a PowerShell module that will help do live incident response and enumerate autoruns artifacts that may be used by legitimate programs as well as malware to achieve persistence.
 - [anongitmous/PingIt](https://github.com/anongitmous/PingIt) - 
@@ -6110,7 +6175,7 @@
 - [Jaykul/RequiredModules](https://github.com/Jaykul/RequiredModules) - A simpler tool for installing dependencies
 - [russellds/ProxyLog](https://github.com/russellds/ProxyLog) - PowerShell Logging Module
 - [SQLBitsOrg/SQLBitsPS](https://github.com/SQLBitsOrg/SQLBitsPS) - For SQLBits Schedule PowerShell
-- [EsOsO/Logging](https://github.com/EsOsO/Logging) - Powershell Logging Module
+- [RootITUp/Logging](https://github.com/RootITUp/Logging) - Powershell Logging Module
 - [farag2/NVidia-Driver-Downloader](https://github.com/farag2/NVidia-Driver-Downloader) - Update NVidia driver easily than ever
 - [KingLinkTiger/Invoke-CleanDriverStore](https://github.com/KingLinkTiger/Invoke-CleanDriverStore) - PowerShell Function/Module to Remove unwanted/unneeded files from a driver folder.
 - [ninmonkey/Ninmonkey.PowerQueryLib](https://github.com/ninmonkey/Ninmonkey.PowerQueryLib) - Custom functions for Power BI
@@ -6243,6 +6308,7 @@
 - [ZeroInfinite/NuGetTemplate](https://github.com/ZeroInfinite/NuGetTemplate) - A sample template for creating NuGet packages
 - [jimbrig/PSWindowsTroubleshooters](https://github.com/jimbrig/PSWindowsTroubleshooters) - PowerShell Module for running windows troubleshooting packs
 - [PureRandom/AzureDevOpsYamlMerge-ps](https://github.com/PureRandom/AzureDevOpsYamlMerge-ps) - PowerShell merging Azure DevOps YAML Tamplates
+- [ChrisTitusTech/ntlite-configs](https://github.com/ChrisTitusTech/ntlite-configs) - NTLite XML Configuration Files
 - [jimbrig/PSEdgeKeywords](https://github.com/jimbrig/PSEdgeKeywords) - PowerShell Core Module for Configuring, Backing Up, and Managing Microsoft Edge Search Engine "Keywords"
 - [markallisongit/mssql-docker-demo](https://github.com/markallisongit/mssql-docker-demo) - 
 - [TomerAdmon/Power-DB](https://github.com/TomerAdmon/Power-DB) - manage MSSQL using powershell
@@ -6351,7 +6417,6 @@
 - [Seidlm/PowerShell-Backup-Script](https://github.com/Seidlm/PowerShell-Backup-Script) - PowerShell Backup Script
 - [MS-LUF/Poor.Backup.System](https://github.com/MS-LUF/Poor.Backup.System) - blazing stupid backup solution for Windows & Linux
 - [luzkenin/VSCodeBackup](https://github.com/luzkenin/VSCodeBackup) - 
-- [dbafromthecold/dockerdeepdive](https://github.com/dbafromthecold/dockerdeepdive) - Slides and code for my Docker Deep Dive presentation
 - [vinijmoura/Azure-DevOps](https://github.com/vinijmoura/Azure-DevOps) - Data extraction and Power BI report that generate management informations about your Azure DevOps organization. Using Azure DevOps CLI and Azure DevOps REST API, PowerShell scripts extract data from A
 - [hak5/omg-payloads](https://github.com/hak5/omg-payloads) - Official payload library for the O.MG line of products from Mischief Gadgets
 - [I-Am-Jakoby/PowerShell-for-Hackers](https://github.com/I-Am-Jakoby/PowerShell-for-Hackers) - This repository is a collection of powershell functions every hacker should know
@@ -6656,8 +6721,7 @@
 - [ixi-your-face/Useful-Windows-11-Scripts](https://github.com/ixi-your-face/Useful-Windows-11-Scripts) - Repo to store some useful Windows 11 scripts and documentation
 - [WinTweakers/WindowsToolbox](https://github.com/WinTweakers/WindowsToolbox) - A powerful but simple, easy to use toolbox for Windows 10 / 11.
 - [JosephM101/Force-Windows-11-Install](https://github.com/JosephM101/Force-Windows-11-Install) - Modifies Windows 11 installation ISO to bypass compatibility checks both pre and post installation
-- [Damokless/Windows11-Optimization](https://github.com/Damokless/Windows11-Optimization) - Community repository, to improve security and performance of Windows 10 and windows 11 with tweaks, commands, scripts, registry keys, configuration, tutorials and more
-- [kyaulabs/win11tweak](https://github.com/kyaulabs/win11tweak) - A full installation guide and set of template-based automated scripts to debloat, disable telemetry and then reconfigure a Windows 11 environment fit for a power user.
+- [kyaulabs/win11tweak](https://github.com/kyaulabs/win11tweak) - A set of template-based automated scripts to debloat, disable telemetry and then reconfigure Windows 11 to be fit for a power-user.
 - [JMOrbegoso/Dotfiles-for-Windows-11](https://github.com/JMOrbegoso/Dotfiles-for-Windows-11) - Dotfiles script to setup a development environment in Microsoft Windows 11.
 - [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) - Optimize and debloat Windows 10 and Windows 11 deployments according to best practices for maximum performance and privacy. The ultimate script for enhancing your Windows experience.
 - [simeononsecurity/Automate-Sysmon](https://github.com/simeononsecurity/Automate-Sysmon) - Automate Sysmon Deployment and Configuration
@@ -6792,7 +6856,7 @@
 - [InfiniteLoopIO/WindowsImageCapture](https://github.com/InfiniteLoopIO/WindowsImageCapture) - Minimal unattend.xml templates to capture various Microsoft OSs
 - [Hivos/windows-kvm-unattend](https://github.com/Hivos/windows-kvm-unattend) - scripts and howto for unattended windows server installs on kvm platform
 - [pldmgg/ProgramManagement](https://github.com/pldmgg/ProgramManagement) - This Module makes it easier to Install/Uninstall programs on Windows, regardless of the method of installation (PSGet, Chocolatey CmdLine, .msi, etc)
-- [damienvanrobaeys/Run-in-Sandbox](https://github.com/damienvanrobaeys/Run-in-Sandbox) - Run PS1, VBS, EXE, MSI in Windows Sandbox very quickly just from a right-click
+- [damienvanrobaeys/Run-in-Sandbox](https://github.com/damienvanrobaeys/Run-in-Sandbox) - Run PS1, VBS, CMD, EXE, MSI, Intunewin, MSIX, or extract ISO, ZIP in Windows Sandbox very quickly just from a right-click
 - [scriptman-de/windows-resetstick](https://github.com/scriptman-de/windows-resetstick) - Scripts to Add a Reset functionality to a Windows NativeBoot Environment
 - [tikabu/TikabuPSModuleTemplate](https://github.com/tikabu/TikabuPSModuleTemplate) - Plaster template to scaffold PowerShell Modules
 - [MicrosoftDocs/Virtualization-Documentation](https://github.com/MicrosoftDocs/Virtualization-Documentation) - Place to store our documentation, code samples, etc for public consumption.
@@ -6804,7 +6868,6 @@
 - [redaxscript/redaxscript-powershell](https://github.com/redaxscript/redaxscript-powershell) - A powerful collection of setup routines for Windows
 - [0x4F776C/Windows-OS](https://github.com/0x4F776C/Windows-OS) - Windows OS setup guide
 - [daijro/amelio](https://github.com/daijro/amelio) - Windows debloater and optimizer (not maintained)
-- [CJavierSaldana/MS-Config](https://github.com/CJavierSaldana/MS-Config) - Initial configuration of working environment for windows.
 - [z0ph/ansible-win-install](https://github.com/z0ph/ansible-win-install) - Automate your post-windows Installation with Ansible & Chocolatey
 - [meteoritt/Win10-Initial-Setup-Script-Debloater](https://github.com/meteoritt/Win10-Initial-Setup-Script-Debloater) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019. Links to disable telemetry, remove bloat pre-installed apps.
 - [jetersen/setup](https://github.com/jetersen/setup) - Personal setup
@@ -6833,7 +6896,7 @@
 - [claustromaniac/Compare-UserJS](https://github.com/claustromaniac/Compare-UserJS) - PowerShell script for comparing user.js (or prefs.js) files.
 - [nickrod518/Create-EXEFromPS1](https://github.com/nickrod518/Create-EXEFromPS1) - Takes one PowerShell script and any number of supplementary files or even a directory and creates an exe using Windows's built in iexpress program. The exe will run on any machine with PowerShell 2.0+
 - [lazywinadmin/LazyTS](https://github.com/lazywinadmin/LazyTS) - PowerShell Script (GUI) to manage Terminal Sessions
-- [aaronparker/intune](https://github.com/aaronparker/intune) - Various scripts for use with Microsoft Intune, including Proactive Remediations
+- [aaronparker/intune](https://github.com/aaronparker/intune) - Scripts and tools for use with Microsoft Intune
 - [Micke-K/IntuneManagement](https://github.com/Micke-K/IntuneManagement) - Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and ed
 - [VikasSukhija/Downloads](https://github.com/VikasSukhija/Downloads) - AD Health Check, Send HTML Email,  Ping machines, Encrypt Password,Bulk Password,Microsoft Teams,Monitor Certificate expiry, Monitor cert expiry, AD attributes, IP to Hostname, Export AD group, CSV to
 - [scriptrunner/ActionPacks](https://github.com/scriptrunner/ActionPacks) - Public PowerShell script gallery for ScriptRunner.
@@ -7051,7 +7114,6 @@
 - [wikijm/PowerShell-AdminScripts](https://github.com/wikijm/PowerShell-AdminScripts) - PowerShell Administration scripts
 - [instantdreams/DuplicateFolders](https://github.com/instantdreams/DuplicateFolders) - Duplicate the contents of one folder to another
 - [microsoft/windows-dev-box-setup-scripts](https://github.com/microsoft/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [JanDeDobbeleer/oh-my-posh2](https://github.com/JanDeDobbeleer/oh-my-posh2) - A prompt theming engine for Powershell
 - [shalvah/dotfiles](https://github.com/shalvah/dotfiles) - PowerShell scripts I use for setting up and configuring my Windows machine(s)
 - [ralish/PSDotFiles](https://github.com/ralish/PSDotFiles) - Bringing simple dotfiles management to Windows with PowerShell
@@ -7088,6 +7150,21 @@
 
 ## Python 
 
+- [Mr-Un1k0d3r/PowerLessShell](https://github.com/Mr-Un1k0d3r/PowerLessShell) - Run PowerShell command without invoking powershell.exe
+- [gvivster/wsl-friendly-file-path-copier](https://github.com/gvivster/wsl-friendly-file-path-copier) - Copy Windows file paths in native or Unix format with an addition to your context menu. Also works for parent folder paths.
+- [vastevenson/flask-on-gcp-free](https://github.com/vastevenson/flask-on-gcp-free) - 
+- [jramiroz98/Flask-Starter](https://github.com/jramiroz98/Flask-Starter) - This is a basic Flask app with a Login, Logout, Register and Change Password
+- [wtc-cloud-eng/mkdocs-terraform-monorepo-plugin](https://github.com/wtc-cloud-eng/mkdocs-terraform-monorepo-plugin) - Adds config syntax to mkdocs nav to include terrafrom monorepo docs
+- [starhawking/python-terrascript](https://github.com/starhawking/python-terrascript) - Create Terraform files using Python scripts.
+- [er1c-zh/dotbot-secret](https://github.com/er1c-zh/dotbot-secret) - Dotbot plugins for decrypt private file.
+- [Duranzno/dotbot-espanso](https://github.com/Duranzno/dotbot-espanso) - Install espanso packages with dotbot
+- [bryant1410/dotbot-apt](https://github.com/bryant1410/dotbot-apt) - Dotbot APT plugin
+- [Duranzno/dotbot-yarn](https://github.com/Duranzno/dotbot-yarn) - Install npm packages with yarn
+- [fundor333/dotbot-gh-extension](https://github.com/fundor333/dotbot-gh-extension) - Plugin for DotBot for GH Extension
+- [sobolevn/dotbot-pip](https://github.com/sobolevn/dotbot-pip) - Install pip packages with dotbot
+- [pyopenapi/pyswagger](https://github.com/pyopenapi/pyswagger) - An OpenAPI (fka Swagger) client & converter in python, which is type-safe, dynamic, spec-compliant.
+- [pycob/flask-quickstart](https://github.com/pycob/flask-quickstart) - 
+- [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [claranet/terraform-wrapper](https://github.com/claranet/terraform-wrapper) - Claranet France Terraform Wrapper
 - [weswalla/kindle-clippings-to-obsidian](https://github.com/weswalla/kindle-clippings-to-obsidian) - A python script to extract clippings (highlights and notes) from 'My Clippings.txt', and to store them in a markdown file for each book/article. Made with Obsidian (note-taking app) in mind.
 - [divanov11/Simple-REST-API-with-Flask](https://github.com/divanov11/Simple-REST-API-with-Flask) - 
@@ -7171,6 +7248,7 @@
 - [christabor/flask_extras](https://github.com/christabor/flask_extras) - Assorted generic flask views, blueprints, Jinja2 filters, macros, forms and more.
 - [stevemar/code-reference-in-readme](https://github.com/stevemar/code-reference-in-readme) - A quick sample repo that shows how to reference code in markdown
 - [cisco-open/stacks](https://github.com/cisco-open/stacks) - Stacks, the Terraform code pre-processor
+- [decalage2/oletools](https://github.com/decalage2/oletools) - oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging.
 - [demoskp/flask-class-based-views](https://github.com/demoskp/flask-class-based-views) - 
 - [demoskp/python-dotenv-tutorial](https://github.com/demoskp/python-dotenv-tutorial) - 
 - [demoskp/flask-migrate-tutorial](https://github.com/demoskp/flask-migrate-tutorial) - 
@@ -7229,6 +7307,7 @@
 - [nickjj/docker-flask-example](https://github.com/nickjj/docker-flask-example) - A production ready example Flask app that's using Docker and Docker Compose.
 - [healthchecks/hchk](https://github.com/healthchecks/hchk) - A CLI interface to healthchecks.io
 - [toddbirchard/pythonmyadmin](https://github.com/toddbirchard/pythonmyadmin) - 🐍🖥 Lightweight GUI for modifying database tables.
+- [Parallels/rq-dashboard](https://github.com/Parallels/rq-dashboard) - Flask-based web front-end for monitoring RQ queues
 - [abilian/buildstr](https://github.com/abilian/buildstr) - 
 - [abilian/sqla2uml](https://github.com/abilian/sqla2uml) - Generate UML model from SQLAlchemy ORM models
 - [abilian/asciicast](https://github.com/abilian/asciicast) - Easily create terminal screencast. Based on asciinema.
@@ -7241,7 +7320,7 @@
 - [abilian/abilian-developer-guide](https://github.com/abilian/abilian-developer-guide) - 
 - [kvesteri/wtforms-alchemy](https://github.com/kvesteri/wtforms-alchemy) - Tools for creating wtforms from sqlalchemy models
 - [hynek/structlog](https://github.com/hynek/structlog) - Simple, powerful, and fast logging for Python.
-- [abilian/flask-vite](https://github.com/abilian/flask-vite) - 
+- [abilian/flask-vite](https://github.com/abilian/flask-vite) - Plugin to simplify use of Vite from Flask.
 - [tiangolo/blog-posts](https://github.com/tiangolo/blog-posts) - Blog posts and related code by Sebastián Ramírez (@tiangolo)
 - [tiangolo/poetry-version-plugin](https://github.com/tiangolo/poetry-version-plugin) - Poetry plugin for dynamically extracting the package version from a __version__ variable or a Git tag.
 - [tiangolo/pydantic-sqlalchemy](https://github.com/tiangolo/pydantic-sqlalchemy) - Tools to convert SQLAlchemy models to Pydantic models
@@ -7289,8 +7368,8 @@
 - [demoskp/flask-restful-api](https://github.com/demoskp/flask-restful-api) - 
 - [demoskp/flask-config-file](https://github.com/demoskp/flask-config-file) - 
 - [fpgmaas/cookiecutter-poetry](https://github.com/fpgmaas/cookiecutter-poetry) - A modern cookiecutter template for Python projects that use Poetry for dependency management
-- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python & Django
-- [knucklesuganda/py_assimilator](https://github.com/knucklesuganda/py_assimilator) - Py Assimilator allows you to quickly create patterns from DDD, Event-Based Systems, CRUD. If you want great code without issues - install PyAssimilator
+- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
+- [knucklesuganda/py_assimilator](https://github.com/knucklesuganda/py_assimilator) - Python Domain-Driven Design, Event-Based Systems, CRUD patterns
 - [PrettyPrinted/flask_basic_organization](https://github.com/PrettyPrinted/flask_basic_organization) - 
 - [PrettyPrinted/member_api](https://github.com/PrettyPrinted/member_api) - 
 - [PrettyPrinted/python_requests_get](https://github.com/PrettyPrinted/python_requests_get) - Getting Started With Python Requests - GET Requests
@@ -7630,7 +7709,7 @@
 - [kobus-v-schoor/dotgit](https://github.com/kobus-v-schoor/dotgit) - A comprehensive solution to managing your dotfiles
 - [best-of-lists/best-of-generator](https://github.com/best-of-lists/best-of-generator) - 🏆 Generates a ranked list of awesome libraries and tools.
 - [AlexandreKempf/automacdoc](https://github.com/AlexandreKempf/automacdoc) - Automatic generation of documentation for mkdocs
-- [mkdocs/best-of-mkdocs](https://github.com/mkdocs/best-of-mkdocs) - :trophy: :books: A ranked list of awesome MkDocs projects and plugins.
+- [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins.
 - [soumilshah1995/AthenaUsageExtractor](https://github.com/soumilshah1995/AthenaUsageExtractor) - Athena usage is simple python library that allows you to extract all usage information for given date range and for given workgroup
 - [soumilshah1995/learn-aws-step-functions](https://github.com/soumilshah1995/learn-aws-step-functions) - learn-aws-step-functions
 - [soumilshah1995/multi-region-api-gateway-dynamodb](https://github.com/soumilshah1995/multi-region-api-gateway-dynamodb) - multi-region-api-gateway-dynamodb
@@ -7671,7 +7750,7 @@
 - [microsoft/mssql-scripter](https://github.com/microsoft/mssql-scripter) - Repository for the new SQL cross-platform command line tools
 - [johndeyrup/postgresql-excel](https://github.com/johndeyrup/postgresql-excel) - An interactive GUI designed to allow communication between a postgresql database, a gui for data entry, and excel spreadsheets for data entry
 - [ycd/manage-fastapi](https://github.com/ycd/manage-fastapi) - :rocket: CLI tool for FastAPI. Generating new FastAPI projects & boilerplates made easy.
-- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
+- [unifyai/ivy](https://github.com/unifyai/ivy) - Unified AI
 - [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [pygae/clifford](https://github.com/pygae/clifford) - Geometric Algebra for Python
 - [HussainAther/physics](https://github.com/HussainAther/physics) - mechanics, statistical mechanics, fluid dynamics, thermodynamics, quantum mechanics, electromagnetism
@@ -7706,6 +7785,7 @@
 - [tanrax/terminal-AdvancedNewFile](https://github.com/tanrax/terminal-AdvancedNewFile) - Fast creation of files and directories. Mimics the operation of AdvancedNewFile (Vim plugin)
 - [rcaloras/bashhub-client](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 - [VEINHORN/pgdocs](https://github.com/VEINHORN/pgdocs) - Generate well formed docs from your database metadata
+- [ChristianLempa/scripts](https://github.com/ChristianLempa/scripts) - This is my personal script collection. Here you'll find bash, and python scripts for various tools, and technologies.
 - [gocardless/airflow-dbt](https://github.com/gocardless/airflow-dbt) - Apache Airflow integration for dbt
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [rdilweb/mkdocs-plugin-progress](https://github.com/rdilweb/mkdocs-plugin-progress) - A plugin for MkDocs that lets you know exactly what is happening during the build.
@@ -7746,7 +7826,7 @@
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [nigo81/tools-for-auditor](https://github.com/nigo81/tools-for-auditor) - As an auditor, we often face repeated boring data processing problems. Here are some of the problems I have solved. I hope that this project will have more people to fork and help more auditors.
 - [abraham-ai/eden](https://github.com/abraham-ai/eden) - Eden converts your python function into a hosted endpoint with minimal changes to your existing code :mage_man:
-- [altairbow/django-db-connection-pool](https://github.com/altairbow/django-db-connection-pool) - Persistent database connection pool backends for Django
+- [altairbow/django-db-connection-pool](https://github.com/altairbow/django-db-connection-pool) - Database connection pool component library for Django
 - [petemc89/craXcel-cli](https://github.com/petemc89/craXcel-cli) - Command line application to unlock Microsoft Office password protected files.
 - [pyexcel/pyexcel-cli](https://github.com/pyexcel/pyexcel-cli) - A command utility to read and write data into csv, tsv, xls, xlsx and ods format.
 - [ObsidianPublisher/obsidian-mkdocs-publisher-python](https://github.com/ObsidianPublisher/obsidian-mkdocs-publisher-python) - Publish your obsidian vault through a python script
@@ -8063,7 +8143,6 @@
 - [seanharr11/etlalchemy](https://github.com/seanharr11/etlalchemy) - Extract, Transform, Load: Any SQL Database in 4 lines of Code.
 - [facebook/prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 - [fredrikaverpil/sqlalchemy-orm](https://github.com/fredrikaverpil/sqlalchemy-orm) - 
-- [fredrikaverpil/dotfiles](https://github.com/fredrikaverpil/dotfiles) - My dotfiles
 - [jmespath/jp](https://github.com/jmespath/jp) - Command line interface to JMESPath - http://jmespath.org
 - [dvershinin/lastversion](https://github.com/dvershinin/lastversion) - Find the latest release version of an arbitrary project
 - [KuSi833/espanso-obsidian-in-colour](https://github.com/KuSi833/espanso-obsidian-in-colour) - Espanso package for bring color into Obsidian note-taking.
@@ -8545,6 +8624,25 @@
 
 ## R 
 
+- [briandconnelly/ami](https://github.com/briandconnelly/ami) - Checks for Various Computing Environments
+- [joshuaulrich/rfimport](https://github.com/joshuaulrich/rfimport) - getSymbols() reboot
+- [shikokuchuo/mirai.promises](https://github.com/shikokuchuo/mirai.promises) - mirai.promises - Make 'Mirai' 'Promises'
+- [ppatrzyk/lastfmR](https://github.com/ppatrzyk/lastfmR) - R package for getting last.fm data
+- [statnmap/squirrels.fusen](https://github.com/statnmap/squirrels.fusen) - An example of use for {fusen} along with presentation
+- [JfrAziz/r-plumber](https://github.com/JfrAziz/r-plumber) - Rplumber: Rest API witth R. a boilerplate to setup a new project with R plumber
+- [fractal-dynamics/r-plumber-nix](https://github.com/fractal-dynamics/r-plumber-nix) - 
+- [datasketch/plumber-demo](https://github.com/datasketch/plumber-demo) - 
+- [analythium/tryr](https://github.com/analythium/tryr) - Try/catch Mechanisms for Plumber APIs
+- [cloudyr/AzureAuth](https://github.com/cloudyr/AzureAuth) - OAuth 2.0 authentication with Azure Active Directory. Submit issues and PRs at https://github.com/Azure/AzureAuth
+- [Azure/AzureKeyVault](https://github.com/Azure/AzureKeyVault) - R interface to Azure Key Vault
+- [moodymudskipper/pkg](https://github.com/moodymudskipper/pkg) - Package Objects
+- [moodymudskipper/private](https://github.com/moodymudskipper/private) - private closures for closures
+- [moodymudskipper/replace](https://github.com/moodymudskipper/replace) - Replace Variable Names in R Scripts
+- [moodymudskipper/devtag](https://github.com/moodymudskipper/devtag) - Restrict Help Files to Development
+- [neurogenomics/templateR](https://github.com/neurogenomics/templateR) - Self-updating template for developing R packages.
+- [darwin-eu-dev/PaRe](https://github.com/darwin-eu-dev/PaRe) - PaRe (Package Reviewer) is the successor of the DependencyReviewer package.
+- [DavZim/dataverifyr](https://github.com/DavZim/dataverifyr) - A Lightweight, Flexible, and Fast Data Validation Package that Can Handle All Sizes of Data
+- [OHDSI/OhdsiShinyModules](https://github.com/OHDSI/OhdsiShinyModules) - An R package containing Shiny modules used by various OHDSI Shiny apps
 - [dgkf/devutils](https://github.com/dgkf/devutils) - Utilities for common package development patterns
 - [tidymodels/multilevelmod](https://github.com/tidymodels/multilevelmod) - Parsnip wrappers for mixed-level and hierarchical models
 - [dgkf/riddlr](https://github.com/dgkf/riddlr) - Tools for building coding challenges in R
@@ -8554,7 +8652,7 @@
 - [Sage-Bionetworks/data_curator](https://github.com/Sage-Bionetworks/data_curator) - Data and metadata ingress app
 - [ofcat/shiny-aws](https://github.com/ofcat/shiny-aws) - Running R Shiny dashboard on AWS Fargate and GIthub worklows
 - [ewenme/vinylspotting](https://github.com/ewenme/vinylspotting) - web app for exploring Discogs collections
-- [edgararuiz/chattr](https://github.com/edgararuiz/chattr) - 
+- [mlverse/chattr](https://github.com/mlverse/chattr) - 
 - [spsanderson/Extending-Excel-with-Python-and-R](https://github.com/spsanderson/Extending-Excel-with-Python-and-R) - Extending Excel with Python and R, published by Packt
 - [MichaelChirico/r-mailing-list-archive](https://github.com/MichaelChirico/r-mailing-list-archive) - Plaintext back-up of r-devel and r-package-devel archives
 - [jimbrig/shinymde](https://github.com/jimbrig/shinymde) - A shiny interface to mde, the missing data explorer R package.  Deployed at https://nelson-gon.shinyapps.io/shinymde
@@ -8668,7 +8766,7 @@
 - [nrennie/shinytweet](https://github.com/nrennie/shinytweet) - Dashboard to explore my recently liked tweets, and give links to resources.
 - [woali/RatemakingLossReserve](https://github.com/woali/RatemakingLossReserve) - 
 - [brianrice2/actuarial](https://github.com/brianrice2/actuarial) - A few small functions to collect interest rates relevant to actuarial valuations.
-- [GuillaumeBiessy/WH](https://github.com/GuillaumeBiessy/WH) - A Modern Take on Whittaker-Henderson smoothing
+- [GuillaumeBiessy/WH](https://github.com/GuillaumeBiessy/WH) - Revisiting Whittaker-Henderson Smoothing
 - [pharmaverse/admiraldev](https://github.com/pharmaverse/admiraldev) - Development Tools for the admiral family
 - [Appsilon/quake_explorer_app](https://github.com/Appsilon/quake_explorer_app) - Application for shiny.fluent + imola blog post.  The app let the user explore the occurrence of earthquakes.
 - [emilyriederer/Rtistic](https://github.com/emilyriederer/Rtistic) - A hackathon-in-a-box / "cookbook" to help build an R package with custom RMarkdown themes and ggplot2 themes & palettes. This looks like a package but it is not intended to be installed as-is. It is a
@@ -8746,6 +8844,7 @@
 - [DoctorBJones/datadictionary](https://github.com/DoctorBJones/datadictionary) - R data dictionary
 - [epicentre-msf/datadict](https://github.com/epicentre-msf/datadict) - 
 - [ropensci/daiquiri](https://github.com/ropensci/daiquiri) - Data quality reporting for temporal datasets.
+- [Appsilon/shiny.emptystate](https://github.com/Appsilon/shiny.emptystate) - Empty state components for Shiny
 - [ropensci/postdoc](https://github.com/ropensci/postdoc) - Simple HTML package documentation
 - [MaxMLang/FinancialDashboard](https://github.com/MaxMLang/FinancialDashboard) - This is a shiny application displaying key indices, stocks, cryptocurrencies and much more. The data is from Yahoo Finance.
 - [sol-eng/largemedclaims](https://github.com/sol-eng/largemedclaims) - 
@@ -8984,7 +9083,7 @@
 - [jimbrig/rhino](https://github.com/jimbrig/rhino) - 
 - [JoaquinAuza/DetLifeInsurance](https://github.com/JoaquinAuza/DetLifeInsurance) - Life Insurance Premium and Reserves Valuation
 - [jla-data/TVM](https://github.com/jla-data/TVM) - Time Value of Money = fifty shades of Cash Flow discounting
-- [shikokuchuo/mirai](https://github.com/shikokuchuo/mirai) - mirai R package - minimalist async evaluation framework for R
+- [shikokuchuo/mirai](https://github.com/shikokuchuo/mirai) - mirai - minimalist async evaluation framework for R
 - [pedrocoutinhosilva/imola](https://github.com/pedrocoutinhosilva/imola) - Easy CSS layouts (grid and Flexbox) for R/shiny dashboards
 - [jchrom/trelloR](https://github.com/jchrom/trelloR) - R API client for Trello
 - [truecluster/ff](https://github.com/truecluster/ff) - An R package for Memory-Efficient Storage of Large Data on Disk and Fast Access Functions
@@ -8993,7 +9092,7 @@
 - [ropensci/readODS](https://github.com/ropensci/readODS) - read ODS files into R as data.frames
 - [merlinoa/ark_tsla_model](https://github.com/merlinoa/ark_tsla_model) - Shiny app implementation of ARK Invest's TSLA model
 - [johnmackintosh/cusumcharter](https://github.com/johnmackintosh/cusumcharter) - Easier CUSUM control charts.  Returns simple CUSUM statistics,  CUSUMs with control limit calculations, and function to generate faceted CUSUM Control Charts
-- [globalgov/manydata](https://github.com/globalgov/manydata) - An R portal for ensembled global governance data
+- [globalgov/manydata](https://github.com/globalgov/manydata) - The portal for global governance data
 - [bearloga/wikipediapreview-r](https://github.com/bearloga/wikipediapreview-r) - R package for using Wikipedia Preview context cards in R Markdown documents
 - [hoga-it/leafdown](https://github.com/hoga-it/leafdown) - leafdown: drilldown functionality for leaflet choropleths
 - [MilesMcBain/portal](https://github.com/MilesMcBain/portal) - move data between R processes
@@ -9175,7 +9274,7 @@
 - [arendsee/rmonad](https://github.com/arendsee/rmonad) - Pipelines you can compute on
 - [FAIRDataPipeline/rDataPipeline](https://github.com/FAIRDataPipeline/rDataPipeline) - R implementation of the FAIR Data Pipeline API
 - [rbertolusso/intubate](https://github.com/rbertolusso/intubate) - &lt;||&gt; Interfaces to Popular R Functions for Data Science Pipelines, and More
-- [USGS-R/ds-pipeline-demo](https://github.com/USGS-R/ds-pipeline-demo) - 
+- [DOI-USGS/ds-pipeline-demo](https://github.com/DOI-USGS/ds-pipeline-demo) - 
 - [thierrygosselin/stackr](https://github.com/thierrygosselin/stackr) - stackr: an R package to run stacks software pipeline
 - [wlandau/targets-shiny](https://github.com/wlandau/targets-shiny) - Example Shiny app containing a targets pipeline.
 - [Kaggle/pipelinehelpers](https://github.com/Kaggle/pipelinehelpers) - 
@@ -9435,7 +9534,6 @@
 - [moj-analytical-services/rshiny-xoen-kaniko-test](https://github.com/moj-analytical-services/rshiny-xoen-kaniko-test) - Testing kaniko to build Docker images
 - [moj-analytical-services/rmarkdown-vegawidget-template](https://github.com/moj-analytical-services/rmarkdown-vegawidget-template) - A template for a deployed app that renders a markdown report
 - [moj-analytical-services/shiny-headers-demo](https://github.com/moj-analytical-services/shiny-headers-demo) - 
-- [moj-analytical-services/IntroRTraining](https://github.com/moj-analytical-services/IntroRTraining) - Introductory R training
 - [moj-analytical-services/pq-tool](https://github.com/moj-analytical-services/pq-tool) - Tool to analyse past parliamentary questions with visualisation in RShiny
 - [moj-analytical-services/dbtools](https://github.com/moj-analytical-services/dbtools) - Basic wrapper functions to query data using boto3 and Athena
 - [moj-analytical-services/s3tools](https://github.com/moj-analytical-services/s3tools) - Interact with files in s3 on the Analytical Platform
@@ -9455,7 +9553,7 @@
 - [terraref/traitvis-webapp](https://github.com/terraref/traitvis-webapp) - Shiny application for visualizing trait data
 - [pramitghosh/openEO.R.UDF](https://github.com/pramitghosh/openEO.R.UDF) - PoC implementation for running User-defined functions (UDFs) in R on EO data in cloud back-ends
 - [Open-EO/openeo-r-udf](https://github.com/Open-EO/openeo-r-udf) - PoC implementation for running User-defined functions (UDFs) in R on EO data in cloud back-ends
-- [tyluRp/r-stack](https://github.com/tyluRp/r-stack) - :boom: RStudio, Shiny, NGINX
+- [tylerlittlefield/r-stack](https://github.com/tylerlittlefield/r-stack) - :boom: RStudio, Shiny, NGINX
 - [bryaneadams/rstudio-postgres](https://github.com/bryaneadams/rstudio-postgres) - This is a simple docker-compose.yaml for deploying RStudio with a postgres DB. The intent is to provide an easy way for users to learn how to interact with a DB.
 - [Lakshya3190/docker-SQL-MongoDB-RestfulAPIs](https://github.com/Lakshya3190/docker-SQL-MongoDB-RestfulAPIs) - This repository contains an operational and deployable set of MySQL, MongoDB and a sample RESTful API containers. The containers can be deployed with a docker-compose file also included in this reposi
 - [vigenere23/R-docker-template](https://github.com/vigenere23/R-docker-template) - A minimal template for using R with renv inside a Docker image.
@@ -9586,7 +9684,7 @@
 - [Haoen-Cui/SOA-Exam-PA-R-Package-Documentation](https://github.com/Haoen-Cui/SOA-Exam-PA-R-Package-Documentation) - R Package Documentation for SOA Exam PA
 - [caijun/ggcorrplot2](https://github.com/caijun/ggcorrplot2) - Implementation of corrplot using ggplot2
 - [lgnbhl/polyglot](https://github.com/lgnbhl/polyglot) - 🎓Use the R Console as an interactive learning environment
-- [shikokuchuo/ichimoku](https://github.com/shikokuchuo/ichimoku) - ichimoku R package - Visualization and Tools for Ichimoku Kinko Hyo Strategies
+- [shikokuchuo/ichimoku](https://github.com/shikokuchuo/ichimoku) - ichimoku - Visualization and Tools for Ichimoku Kinko Hyo Strategies
 - [t-kalinowski/knitr.regression](https://github.com/t-kalinowski/knitr.regression) - 
 - [eco4cast/neon4cast](https://github.com/eco4cast/neon4cast) - A helper R package for the neon4cast challenge
 - [jimbrig/loss_development_app](https://github.com/jimbrig/loss_development_app) - Boilerplate Actuarial Reserving Loss Development R Shiny Application
@@ -9648,7 +9746,7 @@
 - [statnmap/parsermd](https://github.com/statnmap/parsermd) - 
 - [statnmap/thinkr](https://github.com/statnmap/thinkr) - Some tools for cleaning up messy 'Excel' files to be suitable for R
 - [statnmap/namer](https://github.com/statnmap/namer) - R package :package: for labelling chunks of RMarkdown files! :boom:
-- [statnmap/arpr](https://github.com/statnmap/arpr) - Advanced R Pipes
+- [ThinkR-open/arpr](https://github.com/ThinkR-open/arpr) - Advanced R Pipes
 - [stla/NestedMenu](https://github.com/stla/NestedMenu) - 
 - [stla/gfiUltra](https://github.com/stla/gfiUltra) - Generalized fiducial inference for ultrahigh-dimensional regression.
 - [stla/syt](https://github.com/stla/syt) - R package for standard Young tableaux
@@ -9717,7 +9815,6 @@
 - [atheriel/httpproblems](https://github.com/atheriel/httpproblems) - Report errors from R APIs using "Problem Details" (RFC 7807)
 - [andybega/plumber.pack](https://github.com/andybega/plumber.pack) - Minimal example of a R package backing a plumber API
 - [r-lib/gargle](https://github.com/r-lib/gargle) - Infrastructure for calling Google APIs from R, including auth
-- [hrbrmstr/weekly-dmarc-grabber](https://github.com/hrbrmstr/weekly-dmarc-grabber) - Weekly DMARC Grabs of the Rapid7 1500
 - [startyourlab/r-project-template](https://github.com/startyourlab/r-project-template) - A template to start R projects with R Studio, using version control via Git and GitHub by default.
 - [sahirbhatnagar/manhattanly](https://github.com/sahirbhatnagar/manhattanly) - 
 - [cderv/demo-rstrap](https://github.com/cderv/demo-rstrap) - EXPERIMENTAL - R Markdown without Bootstrap dependency
@@ -9965,7 +10062,6 @@
 - [capiaas/ShinyServicebot](https://github.com/capiaas/ShinyServicebot) - This package integrates the servicebot payment ( stripe ) framework for R shiny
 - [stan-dev/cmdstanr](https://github.com/stan-dev/cmdstanr) - CmdStanR: the R interface to CmdStan
 - [tisseuil/salesmanager](https://github.com/tisseuil/salesmanager) - A Shiny App to manages clients and sales using CRUD functionalities
-- [maxheld83/AzureAppService](https://github.com/maxheld83/AzureAppService) - Deploy shiny applications and other R workloads to Azure App Service
 - [maxheld83/shinycaas](https://github.com/maxheld83/shinycaas) - Deploying shiny apps to container as a service (CaaS) products on public cloud vendors.
 - [PredictiveEcology/Require](https://github.com/PredictiveEcology/Require) - Simple R package to install and load packages conducive to a reproducible workflow
 - [jmcphers/rsrecovr](https://github.com/jmcphers/rsrecovr) - RsRecovr: Recover unsaved files from RStudio sessions
@@ -10103,7 +10199,7 @@
 - [koaning/demopkg](https://github.com/koaning/demopkg) - a demo pkg in R with github actions
 - [cloudyr/aws.signature](https://github.com/cloudyr/aws.signature) - Amazon Web Services Request Signatures
 - [holistics/holistics-r](https://github.com/holistics/holistics-r) - R package to interact with Holistics API
-- [extendr/rextendr](https://github.com/extendr/rextendr) - 
+- [extendr/rextendr](https://github.com/extendr/rextendr) - An R package that helps scaffolding extendr-enabled packages or compiling Rust code dynamically
 - [datasketch/dsvizopts](https://github.com/datasketch/dsvizopts) - 
 - [datasketch/homodatum](https://github.com/datasketch/homodatum) - 
 - [alandipert/html2r](https://github.com/alandipert/html2r) - Convert HTML to R
@@ -10381,7 +10477,6 @@
 - [umr1283/rain](https://github.com/umr1283/rain) - Reference-based Ancestry INference
 - [mcanouil/insane](https://github.com/mcanouil/insane) - An Interactive Web Application for Quality Control and Analysis of Insulin Secretion from Pancreatic Beta Cells
 - [franzbischoff/rstudio_mybinder_env](https://github.com/franzbischoff/rstudio_mybinder_env) - This is a template environment, pre-configured to run Github Classroom assessments.
-- [jpgmv1998/reproducible_paper_template](https://github.com/jpgmv1998/reproducible_paper_template) - Template repository for starting a new empirical paper project implementing good practices for reproducibility using R
 - [rOpenGov/template](https://github.com/rOpenGov/template) - rOpenGov minimal package template
 - [epicentre-msf/project_template](https://github.com/epicentre-msf/project_template) - Everything you need to start a new project, based on Rmarkdown, and publish it as a website
 - [virtualstaticvoid/heroku-shiny-app](https://github.com/virtualstaticvoid/heroku-shiny-app) - Example R Shiny Application on Heroku
@@ -10629,6 +10724,7 @@
 - [tomaztk/List_of_R_packages_for_Data_scientist](https://github.com/tomaztk/List_of_R_packages_for_Data_scientist) - List of useful R packages for data scientists
 - [chicago-joe/Option-Pricing-via-Levy-Models-in-R](https://github.com/chicago-joe/Option-Pricing-via-Levy-Models-in-R) - using the Inverse-Transform method to speed up options pricing simulations in R
 - [StevenMMortimer/salesforcer](https://github.com/StevenMMortimer/salesforcer) - This R package connects the Salesforce APIs from R using tidy principles.
+- [mca91/EconometricsWithR](https://github.com/mca91/EconometricsWithR) - 📖An interactive companion to the well-received textbook 'Introduction to Econometrics' by Stock & Watson (2015)
 - [dev-sandarbh/R-Programming-](https://github.com/dev-sandarbh/R-Programming-) - This repo will hold all the basic R Programming tutorials.
 - [inbo/effectclass](https://github.com/inbo/effectclass) - Interpret effects and visualise uncertainty
 - [seabbs/prettypublisher](https://github.com/seabbs/prettypublisher) - R package to help in formatting R markdown documents into a publishable format
@@ -10668,7 +10764,7 @@
 - [JoachimGoedhart/VolcaNoseR](https://github.com/JoachimGoedhart/VolcaNoseR) - Shiny app for making and annotating Volcano plots
 - [Jinksi/cloudrun-helloworld-r](https://github.com/Jinksi/cloudrun-helloworld-r) - An example of creating serverless functions using R, plumber and Docker
 - [devOpifex/ambiorix](https://github.com/devOpifex/ambiorix) - 🖥️ Web framework for R
-- [chainsawriot/oolong](https://github.com/chainsawriot/oolong) - oolong 🍵 : create and administrate validation tests for typical automated content analysis tools.
+- [chainsawriot/oolong](https://github.com/chainsawriot/oolong) - oolong 🍵 : create and administrate validation tests for automated content analysis tools.
 - [moodymudskipper/typed](https://github.com/moodymudskipper/typed) - Support Types for Variables, Arguments, and Return Values
 - [daattali/shinyscreenshot](https://github.com/daattali/shinyscreenshot) - 📷 Capture screenshots of entire pages or parts of pages in Shiny apps
 - [noamross/nyhackr-docker-talk](https://github.com/noamross/nyhackr-docker-talk) - Slides, Code, and Links to Resources from "Docker for the User," delivered at nyhackr 2018-07-11
@@ -11032,7 +11128,7 @@
 - [MayaGans/phishr](https://github.com/MayaGans/phishr) - An R API Wrapper for phish.net
 - [gadenbuie/ermoji](https://github.com/gadenbuie/ermoji) - :man_shrugging: RStudio Addin to Search and Copy Emoji
 - [rstudio-education/shiny-sdss18](https://github.com/rstudio-education/shiny-sdss18) - Materials for the "Shiny Essentials" workshop at SDSS 2018
-- [rstudio-education/dsbox](https://github.com/rstudio-education/dsbox) - Companion R package to Data Science Course in a Box
+- [tidyverse/dsbox](https://github.com/tidyverse/dsbox) - Companion R package to Data Science Course in a Box
 - [rstudio-education/2019-03-01_SPCC_Reproducible-R](https://github.com/rstudio-education/2019-03-01_SPCC_Reproducible-R) - Class materials for Reproducible Research with RStudio, a workshop at the 2019 Statistical Practice in Cancer Conference
 - [rstudio-education/shiny-wsds18](https://github.com/rstudio-education/shiny-wsds18) - Materials for the "Apps and Dashboards with Shiny " workshop at WSDS 2018
 - [OpenIntroStat/openintro](https://github.com/OpenIntroStat/openintro) - 📦 R package for data and supplemental functions for OpenIntro resources
@@ -11121,7 +11217,6 @@
 - [radiant-rstats/radiant.design](https://github.com/radiant-rstats/radiant.design) - Code for the Design menu in Radiant
 - [spren9er/tidytuesday](https://github.com/spren9er/tidytuesday) - Code snippets for weekly #tidytuesday project
 - [juliendiot42/markdownInput](https://github.com/juliendiot42/markdownInput) - A R-Shiny module for markdown text input
-- [zadrafi/concurve](https://github.com/zadrafi/concurve) - A repository for the 'concurve' R package which generates confidence distributions and likelihood functions. Includes documentation on how to do produce similar graphs for Stata.
 - [datagistips/geosparklines](https://github.com/datagistips/geosparklines) - An R Package to put SparkLines on a Map
 - [coolbutuseless/dplyr-cli](https://github.com/coolbutuseless/dplyr-cli) - Manipulate CSV files on the command line using dplyr
 - [coolbutuseless/flagon](https://github.com/coolbutuseless/flagon) - Flags of the World
@@ -11142,6 +11237,7 @@
 - [quanteda/quanteda](https://github.com/quanteda/quanteda) - An R package for the Quantitative Analysis of Textual Data
 - [tomwenseleers/export](https://github.com/tomwenseleers/export) - R package for streamlined export of graphs and data tables.
 - [jcheng5/shadowdom](https://github.com/jcheng5/shadowdom) - An experimental R package for protecting HTML content from unwanted CSS styling, via Shadow DOM
+- [aursiber/fitdistrplus](https://github.com/aursiber/fitdistrplus) - Help to Fit of a Parametric Distribution to Non-Censored or Censored Data
 - [kalimu/shinyEventLogger](https://github.com/kalimu/shinyEventLogger) - Logging Events in Complex Shiny Apps
 - [lebebr01/SPSStoR](https://github.com/lebebr01/SPSStoR) - R package to convert SPSS syntax to R code
 - [reconhub/projections](https://github.com/reconhub/projections) - Projections of future incidence
@@ -11533,7 +11629,7 @@
 - [ColinFay/glouton](https://github.com/ColinFay/glouton) - 'JS-cookies' in Shiny
 - [ColinFay/darkmode](https://github.com/ColinFay/darkmode) - 'darkmode.js' for 'Shiny'
 - [MilesMcBain/wisegroup](https://github.com/MilesMcBain/wisegroup) - Now I am become death, destroyer of groups....
-- [tyluRp/vov](https://github.com/tyluRp/vov) - :sparkles: vov.css animations for shiny
+- [tylerlittlefield/vov](https://github.com/tylerlittlefield/vov) - :sparkles: vov.css animations for shiny
 - [js229/Vennerable](https://github.com/js229/Vennerable) - Vennerable provides Venn diagrams in R. It displays Venn and Euler diagrams for up to 9 different sets and using a variety of geometries. It allows the display of area-weighted Venn diagrams and allow
 - [timelyportfolio/leaftime](https://github.com/timelyportfolio/leaftime) - Leaflet.timeline for R leaflet
 - [rstudio/sortable](https://github.com/rstudio/sortable) - R htmlwidget for Sortable.js
@@ -12197,7 +12293,6 @@
 
 ## Rich Text Format 
 
-- [decalage2/oletools](https://github.com/decalage2/oletools) - oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging.
 - [UCL-RITS/mkdocs-rc-docs](https://github.com/UCL-RITS/mkdocs-rc-docs) - Experimental Research Computing documentation generation using mkdocs
 - [AnthonyMastrean/chocolateypackages](https://github.com/AnthonyMastrean/chocolateypackages) - Application packages for Windows
 - [microsoft/TemplateStudio](https://github.com/microsoft/TemplateStudio) - Template Studio accelerates the creation of new WinUI 3, WPF, and UWP apps using a wizard-based experience.
@@ -12213,6 +12308,7 @@
 
 ## Ruby 
 
+- [ledermann/docker-rails](https://github.com/ledermann/docker-rails) - Dockerize Rails 7 with ActionCable, Webpacker, Stimulus, Elasticsearch, Sidekiq
 - [On-y-va/onyva_be](https://github.com/On-y-va/onyva_be) - Module 3 consultancy group project
 - [srolandmarshall/probable_pitchers](https://github.com/srolandmarshall/probable_pitchers) - ruby app, gets list of urls searching for probable pitchers for yahoo fantasy baseball
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
@@ -12319,12 +12415,13 @@
 
 ## Rust 
 
+- [mfenniak/WSL-Hello-sudo](https://github.com/mfenniak/WSL-Hello-sudo) - Let's sudo by face recognition of Windows Hello on Windows Subsystem for Linux (WSL). It runs on both WSL 1 and WSL 2. This is a PAM module for Linux on WSL.
 - [out-of-cheese-error/the-way](https://github.com/out-of-cheese-error/the-way) - A code snippets manager for your terminal.
 - [dgkf/R](https://github.com/dgkf/R) - An experimental implementation of R
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
 - [tim-weis/ovba-cli](https://github.com/tim-weis/ovba-cli) - 
 - [tim-weis/ovba](https://github.com/tim-weis/ovba) - An Office VBA project parser written in 100% safe Rust.
-- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [sebglazebrook/aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
@@ -12353,7 +12450,7 @@
 - [fabianlindfors/reshape](https://github.com/fabianlindfors/reshape) - An easy-to-use, zero-downtime schema migration tool for Postgres
 - [sbdchd/squawk](https://github.com/sbdchd/squawk) - 🐘 linter for PostgreSQL, focused on migrations
 - [sigoden/argc](https://github.com/sigoden/argc) - An elegant command-line options, arguments and sub-commands parser for bash.
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - RisingWave: A Distributed SQL Database for Stream Processing
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - 🚀SQL stream processing with Postgres-like experience. 🪄More than a modern alternative to Apache Flink.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [Zaplib/zaplib](https://github.com/Zaplib/zaplib) - ⚡ Zaplib is an open-source library for speeding up web applications using Rust and WebAssembly.
 - [KOBA789/gh-sql](https://github.com/KOBA789/gh-sql) - Query GitHub Projects with SQL
@@ -12463,6 +12560,7 @@
 
 ## SCSS 
 
+- [app-generator/flask-now-ui-dashboard](https://github.com/app-generator/flask-now-ui-dashboard) - Flask Dashboard - Now UI Design | AppSeed
 - [forwards/website_source](https://github.com/forwards/website_source) - source for blogdown website
 - [ovh/design-system](https://github.com/ovh/design-system) - A collection of assets, guidelines and UI components for building consistent user experiences across OVHcloud products.
 - [kasuken/screenhive.app](https://github.com/kasuken/screenhive.app) - A simple web screen recorder
@@ -12539,6 +12637,7 @@
 
 ## Scala 
 
+- [pureconfig/pureconfig](https://github.com/pureconfig/pureconfig) - A boilerplate-free library for loading configuration files
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [carta/exscalabur](https://github.com/carta/exscalabur) - Templated excel generation
 - [jhole89/aws-glue-sbt-quickstart](https://github.com/jhole89/aws-glue-sbt-quickstart) - Example of how to set SBT up for local development of AWS Glue Scripts
@@ -12563,6 +12662,10 @@
 
 ## Shell 
 
+- [fundor333/dotfiles](https://github.com/fundor333/dotfiles) - My personal DotFiles
+- [Azure/caf-terraform-landingzones-platform-starter](https://github.com/Azure/caf-terraform-landingzones-platform-starter) - CAF Terraform landing zone - platform configuration starter kit
+- [branneman/dotfiles](https://github.com/branneman/dotfiles) - 
+- [paulirish/github-email](https://github.com/paulirish/github-email) - Get a GitHub user's email. :sunglasses: Use this responsibly.
 - [Gavinok/scripts](https://github.com/Gavinok/scripts) - a collection of scripts I use
 - [devcontainers/templates](https://github.com/devcontainers/templates) - Repository for Dev Container Templates that are managed by Dev Container spec maintainers. See https://github.com/devcontainers/template-starter to create your own!
 - [dreamsofcode-io/dotfiles](https://github.com/dreamsofcode-io/dotfiles) - 
@@ -12617,7 +12720,7 @@
 - [chr4/shellrc](https://github.com/chr4/shellrc) - Shell dotfiles, conf.d stype, for multiple shells (bash, zsh)
 - [smatsushima1/rc_files](https://github.com/smatsushima1/rc_files) - RC files for linux and windows environments.
 - [folke/dot](https://github.com/folke/dot) - ☕️   My Dot Files
-- [zhaoshenzhai/dotfiles](https://github.com/zhaoshenzhai/dotfiles) - My dotfiles for Xmonad/Arch.
+- [zhaoshenzhai/dotfiles](https://github.com/zhaoshenzhai/dotfiles) - My dotfiles for Arch Linux on Xmonad.
 - [ehmicky/dev-tasks](https://github.com/ehmicky/dev-tasks) - Automated development tasks for my own projects
 - [iterative/example-repos-dev](https://github.com/iterative/example-repos-dev) - Source code and generator scripts for example DVC projects used in https://dvc.org/doc/
 - [ddnomad/dotfiles](https://github.com/ddnomad/dotfiles) - dd's personal dotfiles monorepo
@@ -12644,6 +12747,7 @@
 - [KKRainbow/zsh-command-note.plugin](https://github.com/KKRainbow/zsh-command-note.plugin) - OH-MY-ZSH Plugin: A simple command reminder tool
 - [koenrh/dnscontrol-action](https://github.com/koenrh/dnscontrol-action) - Deploy your DNS configuration using GitHub Actions using DNSControl.
 - [elgohr/Github-Release-Action](https://github.com/elgohr/Github-Release-Action) - Publish Github releases in an action
+- [hnasr/nginx-course](https://github.com/hnasr/nginx-course) - 
 - [joshjohanning/dotfiles](https://github.com/joshjohanning/dotfiles) - My dotfiles repository synced to Codespaces
 - [trickytank/dotfiles](https://github.com/trickytank/dotfiles) - dotfiles for systems
 - [DevInsideYou/install-powerlevel10k](https://github.com/DevInsideYou/install-powerlevel10k) - 
@@ -12672,6 +12776,7 @@
 - [dominiksalvet/gitpack](https://github.com/dominiksalvet/gitpack) - Git-based package manager written in POSIX shell
 - [aaossa/git-activity](https://github.com/aaossa/git-activity) - Display an activity graph (like the contribution graph on GitHub) for the  current git repository and branch
 - [n-murray/wsl-automated-setup](https://github.com/n-murray/wsl-automated-setup) - The WSL automated setup project is designed to make creating your own WSL distro using a combination of Dockerfiles and scripts.
+- [dbafromthecold/dockerdeepdive](https://github.com/dbafromthecold/dockerdeepdive) - Slides and code for my Docker Deep Dive presentation
 - [LeDragoX/linux-script](https://github.com/LeDragoX/linux-script) - Script that configure my Linux post-install.
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [neverrend/AutoSSL](https://github.com/neverrend/AutoSSL) - Bash script automating some common SSL checks.
@@ -12679,9 +12784,9 @@
 - [jimbrig/wsldotz](https://github.com/jimbrig/wsldotz) - 
 - [belak/zsh-utils](https://github.com/belak/zsh-utils) - A minimal, opinionated set of ZSH plugins designed to be small, simple, and focused.
 - [gustavohellwig/gh-zsh](https://github.com/gustavohellwig/gh-zsh) - 
-- [ChristianLempa/scripts](https://github.com/ChristianLempa/scripts) - This is my personal script collection. Here you'll find bash, and python scripts for various tools, and technologies.
 - [ChristianLempa/dotfiles](https://github.com/ChristianLempa/dotfiles) - This contain my personal config files. Here you'll find configs, customizations, themes, and whatever I need to personalize my Linux and mac OS experience.
 - [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
+- [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
 - [mpadge/dotfiles](https://github.com/mpadge/dotfiles) - dot dot dotfiles
 - [numeract/aws-lambda-r](https://github.com/numeract/aws-lambda-r) - Using R on AWS Lambda
 - [jbkunst/dev-setup](https://github.com/jbkunst/dev-setup) - Some texts for "how to do it and don't forget! and if you forget it read it again"
@@ -13233,6 +13338,7 @@
 
 ## Svelte 
 
+- [Blumed/make-bookmarklets](https://github.com/Blumed/make-bookmarklets) - Code for make-bookmarklets.com
 - [marcusolsson/obsidian-projects](https://github.com/marcusolsson/obsidian-projects) - Plain text project planning in Obsidian
 - [Lierrmm/CodAPILandingPage](https://github.com/Lierrmm/CodAPILandingPage) - COD API landing page [Sept 2022]
 - [proofrock/pupcloud](https://github.com/proofrock/pupcloud) - [SUSPENDED] A portable web file manager and gallery
@@ -13364,6 +13470,7 @@
 - [josephwright/beamer](https://github.com/josephwright/beamer) - A LaTeX class for producing presentations and slides
 - [yonicd/paperpile](https://github.com/yonicd/paperpile) - 
 - [matloff/TidyverseSkeptic](https://github.com/matloff/TidyverseSkeptic) - An opinionated view of the Tidyverse "dialect" of the R language.
+- [zadrafi/concurve](https://github.com/zadrafi/concurve) - A repository for the 'concurve' R package which generates confidence distributions and likelihood functions. Includes documentation on how to do produce similar graphs for Stata.
 - [dfalster/baad](https://github.com/dfalster/baad) - BAAD: a Biomass And Allometry Database for woody plants
 - [hebrewseniorlife/memor](https://github.com/hebrewseniorlife/memor) - rmarkdown template that supports customizable logo, company info, etc.
 - [karthik/ddd](https://github.com/karthik/ddd) - data, data, data paper
@@ -13387,6 +13494,10 @@
 
 ## TypeScript 
 
+- [ahzhezhe/terraform-generator](https://github.com/ahzhezhe/terraform-generator) - Generate Terraform configurations with Node.js.
+- [formkit/formkit](https://github.com/formkit/formkit) - Vue Forms ⚡️ Supercharged
+- [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
+- [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - An open-source ChatGPT app with a voice
 - [graydon/obsidian-dangling-links](https://github.com/graydon/obsidian-dangling-links) - obsidian plugin for displaying dangling links
 - [cschomburg/obsidian-dynasync](https://github.com/cschomburg/obsidian-dynasync) - A plugin for Obsidian to sync selected files with Dynalist
 - [zombie110year/obsidian-bundler](https://github.com/zombie110year/obsidian-bundler) - 
@@ -13401,7 +13512,7 @@
 - [readwiseio/obsidian-readwise](https://github.com/readwiseio/obsidian-readwise) - Official Readwise plugin for Obsidian
 - [valentine195/obsidian-block-drag](https://github.com/valentine195/obsidian-block-drag) - 
 - [TfTHacker/obsidian42-text-transporter](https://github.com/TfTHacker/obsidian42-text-transporter) - Text Transporter - advanced text management for Obsidian. Part of the Obisidan42 family of Obsidian plugins.
-- [Zachatoo/obsidian-css-editor](https://github.com/Zachatoo/obsidian-css-editor) - Edit CSS files in Obsidian.
+- [Zachatoo/obsidian-css-editor](https://github.com/Zachatoo/obsidian-css-editor) - Edit CSS snippets in Obsidian.
 - [omnivore-app/obsidian-omnivore](https://github.com/omnivore-app/obsidian-omnivore) - Obsidian plugin to fetch articles and highlights from Omnivore
 - [notmike101/obsidian-azure-blob-sync](https://github.com/notmike101/obsidian-azure-blob-sync) - Allows sync of vault to Azure Blob Storage
 - [toramameseven/vbe-client-mini](https://github.com/toramameseven/vbe-client-mini) - Vba module export, import extension for vscode.
@@ -13454,7 +13565,7 @@
 - [tillahoffmann/obsidian-jupyter](https://github.com/tillahoffmann/obsidian-jupyter) - 
 - [42Crunch/vscode-openapi](https://github.com/42Crunch/vscode-openapi) - VisualStudio Code OpenAPI tools
 - [Redocly/redocly-cli](https://github.com/Redocly/redocly-cli) - ⚒️ Redocly CLI (fka OpenAPI CLI) tools with extensive validation rules to lint your API and bundle your API.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [codeshifu/parse-dotenv](https://github.com/codeshifu/parse-dotenv) - Zero dependency .env to javascript object parser
 - [codeshifu/sync-dotenv](https://github.com/codeshifu/sync-dotenv) - Keep your .env in sync with .env.example
 - [MichaelParascandolo/project-manager-react-flask](https://github.com/MichaelParascandolo/project-manager-react-flask) - An Internal scheduler / records system for Quality Electric Services (Group Project)
@@ -13716,7 +13827,7 @@
 - [markmap/markmap](https://github.com/markmap/markmap) - Visualize your Markdown as mindmaps with Markmap.
 - [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
 - [ozntel/file-tree-alternative](https://github.com/ozntel/file-tree-alternative) - This Obsidian Plugin allows users to have a different file explorer experience.
-- [Azure/azure-resource-manager-schemas](https://github.com/Azure/azure-resource-manager-schemas) - Schemas used to author and validate Resource Manager Templates
+- [Azure/azure-resource-manager-schemas](https://github.com/Azure/azure-resource-manager-schemas) - Schemas used to author and validate Resource Manager Templates. These schemas power the intellisense and syntax completion in our ARM Tools VSCode extension, as well as the Export Template API
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [allianz/ng-aquila](https://github.com/allianz/ng-aquila) - Angular UI Component library for the Open Insurance Platform
 - [PiyushSuthar/Windows-11-Web](https://github.com/PiyushSuthar/Windows-11-Web) - Awe-amazing Windows 11 clone. Oh wait, Not for your Computer, but for the web! ⚡
@@ -13877,7 +13988,6 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
-- [garrylachman/ElectroCRUD](https://github.com/garrylachman/ElectroCRUD) - Database CRUD Application Built on Electron | MySQL, Postgres, SQLite
 - [gajus/slonik](https://github.com/gajus/slonik) - A Node.js PostgreSQL client with runtime and build time type safety, and composable SQL.
 - [kriasoft/relay-starter-kit](https://github.com/kriasoft/relay-starter-kit) - 💥  Monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, Relay, Material UI.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
@@ -13894,7 +14004,7 @@
 - [chramos/react-native-skeleton-placeholder](https://github.com/chramos/react-native-skeleton-placeholder) - SkeletonPlaceholder is a React Native library to easily create an amazing loading effect.
 - [expo/create-react-native-app](https://github.com/expo/create-react-native-app) - Create React Native apps that run on iOS, Android, and web
 - [react-native-toolkit/react-native-responsive-dimensions](https://github.com/react-native-toolkit/react-native-responsive-dimensions) - Resposive fontSize, height and width for react-native components, that automatically adjusts itself based on screen-size of the device.
-- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
+- [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [akaalias/obsidian-extract-pdf-highlights](https://github.com/akaalias/obsidian-extract-pdf-highlights) - Extract highlights, underlines and annotations from your PDFs into Obsidian
 - [eva-design/eva](https://github.com/eva-design/eva) - :dizzy:Customizable Design System easily adaptable to your Brand.
 - [software-mansion/react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native.
@@ -13936,7 +14046,7 @@
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [witheve/Eve](https://github.com/witheve/Eve) - Better tools for thought
 - [visgl/react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive Database for JavaScript Applications https://rxdb.info/
 - [sql-formatter-org/sql-formatter](https://github.com/sql-formatter-org/sql-formatter) - A whitespace formatter for different query languages
 - [googlemaps/google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
@@ -14358,7 +14468,6 @@
 - [IvanBond/Power-Refresh](https://github.com/IvanBond/Power-Refresh) - Schedule refresh of any Excel file using open-source scheduler & refresher written on VBA
 - [Vitosh/VBA_personal](https://github.com/Vitosh/VBA_personal) - Library with VBA, used in multiple projects.
 - [jimbrig/excel-config](https://github.com/jimbrig/excel-config) - Personalized Excel Setup and Configuration
-- [dragokas/hijackthis](https://github.com/dragokas/hijackthis) - A free utility that finds malware, adware and other security threats
 - [jimbrig/xl-macros](https://github.com/jimbrig/xl-macros) - My Personal Excel Workbook's Macros
 - [ivankokan/Excel2LaTeX](https://github.com/ivankokan/Excel2LaTeX) - The Excel add-in for creating LaTeX tables
 
@@ -14381,7 +14490,7 @@
 
 ## Vala 
 
-- [alainm23/planner](https://github.com/alainm23/planner) - Task manager with Todoist support designed for GNU/Linux 🚀
+- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist support designed for GNU/Linux 🚀
 - [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
 
 ## Vim Script 
@@ -14532,9 +14641,12 @@
 - [EduardoVB/ComponentDocumenter](https://github.com/EduardoVB/ComponentDocumenter) - For documenting ActiveX components
 - [OlimilO1402/DB_SmartADB](https://github.com/OlimilO1402/DB_SmartADB) - beta-version, small address database, with file in step-format,
 - [Planet-Source-Code/sql-server-utils__1-14711](https://github.com/Planet-Source-Code/sql-server-utils__1-14711) - 
+- [dragokas/hijackthis](https://github.com/dragokas/hijackthis) - A free utility that finds malware, adware and other security threats
 
 ## Vue 
 
+- [s-blu/basic-dataview-query-builder](https://github.com/s-blu/basic-dataview-query-builder) - A webpage that allows to build basic queries for the obsidian community plugin dataview based on a questionnaire
+- [faizanxmulla/flask-blog-app-v2](https://github.com/faizanxmulla/flask-blog-app-v2) - A web application where users can register, login, create and manage posts, comment on other users' posts, follow and unfollow other users, and search for other users. Additional features include : Ba
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [julie-ng/cloud-architecture-review](https://github.com/julie-ng/cloud-architecture-review) - Cloud Architecture Review App
 - [testdrivenio/flask-vue-crud](https://github.com/testdrivenio/flask-vue-crud) - Single Page App with Flask and Vue.js
