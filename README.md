@@ -474,6 +474,7 @@
 
 ## C# # 
 
+- [PowerShell/MarkdownRender](https://github.com/PowerShell/MarkdownRender) - 
 - [dotnet/Open-XML-SDK](https://github.com/dotnet/Open-XML-SDK) - Open XML SDK by Microsoft
 - [ExcelDataReader/ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files
 - [bilal-fazlani/commanddotnet](https://github.com/bilal-fazlani/commanddotnet) - A modern framework for building modern CLI apps
@@ -485,10 +486,10 @@
 - [fireflycons/PSCloudFormation](https://github.com/fireflycons/PSCloudFormation) - Easy CloudFormation deployments from PowerShell command line. Exports CloudFormation Stacks to Terraform
 - [trimble-oss/dba-dash](https://github.com/trimble-oss/dba-dash) - DBA Dash - SQL Server Monitoring Tool
 - [builtbybel/BloatyNosy](https://github.com/builtbybel/BloatyNosy) - Experience Windows 11 in your way
-- [microsoft/devhomegithubextension](https://github.com/microsoft/devhomegithubextension) - 
+- [microsoft/devhomegithubextension](https://github.com/microsoft/devhomegithubextension) - Dev Home GitHub Extension
 - [builtbybel/JunkCtrl](https://github.com/builtbybel/JunkCtrl) - Decluttering bot
 - [ricardodemauro/Health-Check-Series](https://github.com/ricardodemauro/Health-Check-Series) - 
-- [microsoft/devhome](https://github.com/microsoft/devhome) - Windows Dev Home Application
+- [microsoft/devhome](https://github.com/microsoft/devhome) - Windows Dev Home Experience
 - [SimonCropp/MarkdownSnippets](https://github.com/SimonCropp/MarkdownSnippets) - Extracts snippets from code files and merges them into markdown documents.
 - [marcinotorowski/MSIX-Hero](https://github.com/marcinotorowski/MSIX-Hero) - MSIX Hero - Open source MSIX manager and toolkit
 - [Azure-Samples/azure-sql-db-sync-api-change-tracking](https://github.com/Azure-Samples/azure-sql-db-sync-api-change-tracking) - Using Azure SQL Change Tracking API to Sync mobile Apps data with the Cloud
@@ -843,6 +844,7 @@
 
 ## C++ 
 
+- [FranciscoNabas/WindowsUtils](https://github.com/FranciscoNabas/WindowsUtils) - PowerShell module to aid Windows computers administration.
 - [kanzure/vba-linux](https://github.com/kanzure/vba-linux) - VBA emulator (GB/GBC/GBA) for Linux, forked from vba-rerecording v23.5
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
 - [apiaryio/drafter](https://github.com/apiaryio/drafter) - API Blueprint Parser (C++)
@@ -1095,7 +1097,6 @@
 - [A/obsidian-blog-theme](https://github.com/A/obsidian-blog-theme) - 
 - [data-engineering-community/data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki) - The best place to learn data engineering. Built and maintained by the data engineering community.
 - [choonghyunryu/docker-shinyserver](https://github.com/choonghyunryu/docker-shinyserver) - Introduce shiny server with docker
-- [microsoft/techcasestudies](https://github.com/microsoft/techcasestudies) - A GitHub Pages repo used to document Microsoft solution evidences. TEs: Do not create pull requests here; see https://github.com/Microsoft/techcasestudies#hello.
 - [twbs/ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
 - [nathansmith/960-Grid-System](https://github.com/nathansmith/960-Grid-System) - The 960 Grid System is an effort to streamline web development workflow.
 - [app-generator/flask-pixel](https://github.com/app-generator/flask-pixel) - Flask Pixel UI Kit - Open-Source web app coded in Flask | AppSeed
@@ -1378,7 +1379,7 @@
 - [GoogleCloudPlatform/cloud-sdk-docker](https://github.com/GoogleCloudPlatform/cloud-sdk-docker) - Google Cloud CLI Docker Image - Docker Image containing the gcloud CLI and its bundled components.
 - [mdneuzerling/plumber-on-k8s](https://github.com/mdneuzerling/plumber-on-k8s) - Run a `plumber` API on Kubernetes
 - [RaccoonDev/push-docker-gcr](https://github.com/RaccoonDev/push-docker-gcr) - Github Workflow Action to push a docker image to Google Container Registry
-- [maxheld83/AzureAppService](https://github.com/maxheld83/AzureAppService) - Deploy shiny applications and other R workloads to Azure App Service
+- [dataheld/azureappservice](https://github.com/dataheld/azureappservice) - Deploy shiny applications and other R workloads to Azure App Service
 - [MangoTheCat/docker-docker-gcpsdk](https://github.com/MangoTheCat/docker-docker-gcpsdk) - Docker-in-Docker with GCP SDK
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [MangoTheCat/docker-buildr](https://github.com/MangoTheCat/docker-buildr) - An r-ver image with extra build dependencies
@@ -2071,6 +2072,7 @@
 
 ## HTML 
 
+- [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [datastorm-open/shinymodules](https://github.com/datastorm-open/shinymodules) - This package provides shiny modules to build quickly an ergonomic tool to explore a table
 - [nolimits4web/personal-website-with-widgets](https://github.com/nolimits4web/personal-website-with-widgets) - Personal developer website made with CodersRank widgets
 - [Joscelinrocha/resouRces](https://github.com/Joscelinrocha/resouRces) - Here you can find a list of resources that have and continue helping me in my process of learning/ teaching R.
@@ -2934,7 +2936,7 @@
 - [madyankin/postcss-modules](https://github.com/madyankin/postcss-modules) - PostCSS plugin to use CSS Modules everywhere
 - [css-modules/webpack-demo](https://github.com/css-modules/webpack-demo) - Working demo of CSS Modules, using Webpack's css-loader in module mode
 - [leoforfree/cz-customizable](https://github.com/leoforfree/cz-customizable) - A standalone commit message helper or customizable commitizen adapter for https://github.com/commitizen/cz-cli
-- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (December 2022)
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (June 2023)
 - [Mimetis/ESM](https://github.com/Mimetis/ESM) - Boilerplate to show how ESM are working today, both on browsers or from NodeJS. Use Rollup to bundle the modules in a compatible bundle for non ESM browser.
 - [Shihara-Dilshan/John-Keells-App-Revamp](https://github.com/Shihara-Dilshan/John-Keells-App-Revamp) - John keells mobile app revamp using React Native and Flask with MongoDB.
 - [Appsilon/weighted-picker-input](https://github.com/Appsilon/weighted-picker-input) - 
@@ -3598,7 +3600,6 @@
 - [yeoman/yo](https://github.com/yeoman/yo) - CLI tool for running Yeoman generators
 - [snapappointments/bootstrap-select](https://github.com/snapappointments/bootstrap-select) - :rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
 - [RobinHerbots/Inputmask](https://github.com/RobinHerbots/Inputmask) - Input Mask plugin
-- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [meliorence/react-native-snap-carousel](https://github.com/meliorence/react-native-snap-carousel) - Swiper/carousel component for React Native featuring previews, multiple layouts, parallax images, performant handling of huge numbers of items, and more. Compatible with Android & iOS.
 - [UDST/vizicities](https://github.com/UDST/vizicities) - A framework for 3D geospatial visualization in the browser
 - [bencodezen/bens-obsidian-boilerplate](https://github.com/bencodezen/bens-obsidian-boilerplate) - An opinionated kit to provide people some inspiration and ideas for their own workflows.
@@ -4217,7 +4218,7 @@
 
 ## Jinja 
 
-- [TurnipGuy30/Flask](https://github.com/TurnipGuy30/Flask) - Web App Project - Yr. 10 2022
+- [silvncr/Flask](https://github.com/silvncr/Flask) - Web App Project - Yr. 10 2022
 - [joaopalmeiro/copier-cli](https://github.com/joaopalmeiro/copier-cli) - Copier template for Python CLIs with Click and Poetry.
 - [aws-ia/copier-terraform-repo-template](https://github.com/aws-ia/copier-terraform-repo-template) - 
 - [Appsilon/ansible-rstudio-package-manager](https://github.com/Appsilon/ansible-rstudio-package-manager) - 
@@ -4251,6 +4252,7 @@
 
 ## Jupyter Notebook 
 
+- [LastAncientOne/Stock_Analysis_For_Quant](https://github.com/LastAncientOne/Stock_Analysis_For_Quant) - Different Types of Stock Analysis in Excel, Matlab, Power BI, Python, R, and Tableau
 - [dfinke/openai-powershell-samples](https://github.com/dfinke/openai-powershell-samples) - 
 - [OpenLiberty/cloud-hosted-guides](https://github.com/OpenLiberty/cloud-hosted-guides) - 
 - [unskript/Awesome-CloudOps-Automation](https://github.com/unskript/Awesome-CloudOps-Automation) - Cloud-ops automation runbooks that are ready to use. Build your own automations using the hundreds of drag and drop actions included in the repository.  Built on Jupyter Notebooks, our automation plat
@@ -4598,6 +4600,7 @@
 
 ## Others 
 
+- [PowerShell/Community-Blog](https://github.com/PowerShell/Community-Blog) - Submissions for posts to the PowerShell Community Blog -https://devblogs.microsoft.com/powershell-community
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [jfromaniello/pswatch](https://github.com/jfromaniello/pswatch) - Powershell cmdlet to monitor file changes in a directory tree.
 - [skills/introduction-to-github](https://github.com/skills/introduction-to-github) - Get started using GitHub in less than an hour.
@@ -4667,7 +4670,6 @@
 - [dev-onejun/dev-onejun](https://github.com/dev-onejun/dev-onejun) - CV
 - [okfn/coding-standards](https://github.com/okfn/coding-standards) - Open Knowledge coding standards and style guide.
 - [datasets/awesome-data](https://github.com/datasets/awesome-data) - Awesome datasets curated. By topic and for core data https://datahub.io/docs/core-data
-- [SpocWeb/Obsidian.Elements](https://github.com/SpocWeb/Obsidian.Elements) - 
 - [HoussemDellai/azure-devops-pipelines-samples](https://github.com/HoussemDellai/azure-devops-pipelines-samples) - Demoing how to use Matrix and Each definitions in Azure DevOps YAML pipelines.
 - [HoussemDellai/azure-pipelines-secrets-key-vault](https://github.com/HoussemDellai/azure-pipelines-secrets-key-vault) - Demoing how to use Azure Key Vault Secrets from within Azure DevOps Pipelines.
 - [epety/100-shell-script-examples](https://github.com/epety/100-shell-script-examples) - Collection of shell scripts found on the internet
@@ -5624,7 +5626,7 @@
 - [danielecook/Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) - A curated list of awesome Bioinformatics libraries and software.
 - [the-akira/Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources) - A list of resources in different fields of Computer Science
 - [desireevl/awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing) - A curated list of awesome quantum computing learning and developing resources.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [toplap/awesome-livecoding](https://github.com/toplap/awesome-livecoding) - All things livecoding
 - [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
@@ -6063,6 +6065,12 @@
 
 ## PowerShell 
 
+- [sangafabrice/reg-cli](https://github.com/sangafabrice/reg-cli) - Set of helper functions for updating applications on the Windows Platform in a way that avoids writing to the registry as much as possible.
+- [jedieaston/WinGetHelpers](https://github.com/jedieaston/WinGetHelpers) - A PowerShell (5.1+) module with several helper functions for writing and updating WinGet manifests.
+- [StartAutomating/Patchy](https://github.com/StartAutomating/Patchy) - Patchy is a PowerShell module that helps smooth out the chop of maintaining Windows Updates
+- [JustinGrote/WindowsCredentialManager](https://github.com/JustinGrote/WindowsCredentialManager) - 
+- [dfinke/PSAdvantage](https://github.com/dfinke/PSAdvantage) - GitHub Actions at your Fingertips! ✨ - via PowerShell
+- [JanDeDobbeleer/posh-with](https://github.com/JanDeDobbeleer/posh-with) - Command prefixing for continuous workflow using a single tool.
 - [wardbox/spotishell](https://github.com/wardbox/spotishell) - A powershell module used to interact with the Spotify API
 - [BryanSoltis/CloudAdoptionFramework](https://github.com/BryanSoltis/CloudAdoptionFramework) - Code samples and extended documentation to support the guidance provided in the Microsoft Cloud Adoption Framework
 - [patevs/powershell-template](https://github.com/patevs/powershell-template) - A Basic PowerShell repository and script template.
@@ -6357,7 +6365,7 @@
 - [cocreators-ee/aperture-control-example](https://github.com/cocreators-ee/aperture-control-example) - Example for a standard development environment setup via Aperture Control
 - [cocreators-ee/aperture-control](https://github.com/cocreators-ee/aperture-control) - Windows environment automation tool
 - [S3cur3Th1sSh1t/PowerSharpPack](https://github.com/S3cur3Th1sSh1t/PowerSharpPack) - 
-- [mandiant/flare-vm](https://github.com/mandiant/flare-vm) - 
+- [mandiant/flare-vm](https://github.com/mandiant/flare-vm) - A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.
 - [MicrosoftDocs/memdocs](https://github.com/MicrosoftDocs/memdocs) - Enable Public Contributions
 - [specterops/at-ps](https://github.com/specterops/at-ps) - Adversary Tactics - PowerShell Training
 - [MaxOffice/MOVBA](https://github.com/MaxOffice/MOVBA) - A PowerShell module to manage VBA macro libraries.
@@ -7150,6 +7158,7 @@
 
 ## Python 
 
+- [voxel51/fiftyone-docs-search](https://github.com/voxel51/fiftyone-docs-search) - Search docs.voxel51.com with an LLM!
 - [Mr-Un1k0d3r/PowerLessShell](https://github.com/Mr-Un1k0d3r/PowerLessShell) - Run PowerShell command without invoking powershell.exe
 - [gvivster/wsl-friendly-file-path-copier](https://github.com/gvivster/wsl-friendly-file-path-copier) - Copy Windows file paths in native or Unix format with an addition to your context menu. Also works for parent folder paths.
 - [vastevenson/flask-on-gcp-free](https://github.com/vastevenson/flask-on-gcp-free) - 
@@ -7745,7 +7754,6 @@
 - [mixxorz/DSLR](https://github.com/mixxorz/DSLR) - Take lightning fast snapshots of your local Postgres databases.
 - [AuFeld/Data_Engineering_Projects](https://github.com/AuFeld/Data_Engineering_Projects) - A collection of data engineering projects: data modeling, ETL pipelines, data lakes, infrastructure configuration on AWS, data warehousing, containerization, and a dashboard to monitor data pipeline K
 - [PacktPublishing/Data-Engineering-with-AWS](https://github.com/PacktPublishing/Data-Engineering-with-AWS) - Data Engineering with AWS, Published by Packt
-- [Teemo19/Excel_SQL_SERVER](https://github.com/Teemo19/Excel_SQL_SERVER) - Extract data from an Excel file and upload it to Database in SQL Server
 - [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
 - [microsoft/mssql-scripter](https://github.com/microsoft/mssql-scripter) - Repository for the new SQL cross-platform command line tools
 - [johndeyrup/postgresql-excel](https://github.com/johndeyrup/postgresql-excel) - An interactive GUI designed to allow communication between a postgresql database, a gui for data entry, and excel spreadsheets for data entry
@@ -12318,7 +12326,7 @@
 - [Xray-App/xray-offline-results](https://github.com/Xray-App/xray-offline-results) - Report testing results offline using Excel/CSV
 - [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts) - 🖋 Casks of Ｆ🅾𝓝𝐓𝚂
 - [jcraigk/phishin](https://github.com/jcraigk/phishin) - An archive of live Phish audio
-- [bkuhlmann/xdg](https://github.com/bkuhlmann/xdg) - An XDG Base Directory Specification implementation.
+- [bkuhlmann/xdg](https://github.com/bkuhlmann/xdg) - A XDG Base Directory Specification implementation.
 - [diogob/postgres-copy](https://github.com/diogob/postgres-copy) - Simple PostgreSQL's COPY command support in ActiveRecord models
 - [MatthewLaFalce/schema_to_md](https://github.com/MatthewLaFalce/schema_to_md) - :zap: Generate beautiful markdown documentation for your PostgreSQL Database from schema.rb files.
 - [kputnam/piggly](https://github.com/kputnam/piggly) - PL/pgSQL stored procedure code coverage tool
@@ -12577,6 +12585,7 @@
 - [ThatOtherAndrew/obsidian-digital-garden](https://github.com/ThatOtherAndrew/obsidian-digital-garden) - Static markdown site for notes.thatother.dev, linked to the Digital Garden Obsidian plugin
 - [akaalias/getquickdown](https://github.com/akaalias/getquickdown) - QuickDown – A better inbox for your ideas.
 - [Noovolari/leapp-website](https://github.com/Noovolari/leapp-website) - leapp site
+- [microsoft/techcasestudies](https://github.com/microsoft/techcasestudies) - A GitHub Pages repo used to document Microsoft solution evidences. TEs: Do not create pull requests here; see https://github.com/Microsoft/techcasestudies#hello.
 - [SlRvb/Obsidian--ITS-Theme](https://github.com/SlRvb/Obsidian--ITS-Theme) - Theme designed with readability and customizability in mind. Change it easily to your liking with the Style Settings plugin installed.
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
@@ -13083,7 +13092,7 @@
 - [larsxschneider/scotty](https://github.com/larsxschneider/scotty) - Helper scripts for GitHub Enterprise admins
 - [github/scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Set of boilerplate scripts describing the normalized script pattern that GitHub uses in its projects.
 - [github/platform-samples](https://github.com/github/platform-samples) - A public place for all platform sample projects.
-- [satackey/action-google-drive](https://github.com/satackey/action-google-drive) - GitHub Action to interact with Google Drive
+- [satackey/action-google-drive](https://github.com/satackey/action-google-drive) - [CAUTION] This repository is not actively maintained. / GitHub Action to interact with Google Drive
 - [keeporsweep/keeporsweep.net](https://github.com/keeporsweep/keeporsweep.net) - 💻🔀🗑️ Randomly declutter your digital life!
 - [bntzio/wipe-modules](https://github.com/bntzio/wipe-modules) - 🗑️ Easily remove the node_modules folder of non-active projects
 - [SymbolixAU/gke-mongodb-demo](https://github.com/SymbolixAU/gke-mongodb-demo) - Demo project showing how to deploy MongoDB on the Google Container Engine (GKE) with Kubernetes
@@ -13494,6 +13503,7 @@
 
 ## TypeScript 
 
+- [pester/vscode-adapter](https://github.com/pester/vscode-adapter) - Run PowerShell Pester Tests with Visual Studio Code
 - [ahzhezhe/terraform-generator](https://github.com/ahzhezhe/terraform-generator) - Generate Terraform configurations with Node.js.
 - [formkit/formkit](https://github.com/formkit/formkit) - Vue Forms ⚡️ Supercharged
 - [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
@@ -13704,7 +13714,7 @@
 - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [kolberszymon/NextJS-AWSS3](https://github.com/kolberszymon/NextJS-AWSS3) - 
 - [botpress/cdk-postgresql](https://github.com/botpress/cdk-postgresql) - AWS CDK Constructs for PostgreSQL
-- [meilisearch/instant-meilisearch](https://github.com/meilisearch/instant-meilisearch) - The search client to use Meilisearch with InstantSearch.
+- [meilisearch/meilisearch-js-plugins](https://github.com/meilisearch/meilisearch-js-plugins) - The search client to use Meilisearch with InstantSearch.
 - [pyramation/skitch](https://github.com/pyramation/skitch) - build versioned PostgreSQL apps fast
 - [andywer/pg-listen](https://github.com/andywer/pg-listen) - 📡 PostgreSQL LISTEN &  NOTIFY for node.js that finally works.
 - [andywer/plow](https://github.com/andywer/plow) - 👨‍🌾 Postgres migrations and seeding made easy
@@ -14066,7 +14076,7 @@
 - [doc-sys/cli](https://github.com/doc-sys/cli) - Comand Line Interface to configure and deploy
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [JLChnToZ/uniterm](https://github.com/JLChnToZ/uniterm) - 🚧Universal Terminal Emulator, might be a great toy terminal front-end for geeks.
-- [satackey/action-docker-layer-caching](https://github.com/satackey/action-docker-layer-caching) - 🐳  Enable Docker layer caching in GitHub Actions
+- [satackey/action-docker-layer-caching](https://github.com/satackey/action-docker-layer-caching) - [CAUTION] This repository is not actively maintained.
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
 - [phibr0/obsidian-charts](https://github.com/phibr0/obsidian-charts) - Charts - Obsidian Plugin | Create editable, interactive and animated Charts in Obsidian via Chart.js
 - [PicGo/PicGo-Core](https://github.com/PicGo/PicGo-Core) - :zap:A tool for pictures uploading. Both CLI & API supports.
