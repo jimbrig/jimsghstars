@@ -474,6 +474,8 @@
 
 ## C# # 
 
+- [mmaitre314/PowerShellGet-Test-Binary-Module](https://github.com/mmaitre314/PowerShellGet-Test-Binary-Module) - Example of PowerShellGet Binary Module
+- [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 - [PowerShell/MarkdownRender](https://github.com/PowerShell/MarkdownRender) - 
 - [dotnet/Open-XML-SDK](https://github.com/dotnet/Open-XML-SDK) - Open XML SDK by Microsoft
 - [ExcelDataReader/ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files
@@ -697,7 +699,7 @@
 - [builtbybel/ReadySunValley](https://github.com/builtbybel/ReadySunValley) - Replacement for Microsoft  PC Health Check app
 - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11
 - [EdiWang/Tracing-UWP](https://github.com/EdiWang/Tracing-UWP) - Tracing (描图) App for Windows 10
-- [EdiWang/Azure-Blob-Backup](https://github.com/EdiWang/Azure-Blob-Backup) - Backup files in Azure Blob Storage to local file system.
+- [EdiWang/Azure-Blob-Sync](https://github.com/EdiWang/Azure-Blob-Sync) - Sync files in Azure Blob Storage to local file system.
 - [monchack/WinIsoBurn](https://github.com/monchack/WinIsoBurn) - Simple ISO writing application for Windows
 - [nkdAgility/azure-devops-migration-tools](https://github.com/nkdAgility/azure-devops-migration-tools) - Azure DevOps Migration Tools allow you to migrate Teams, Backlogs, Tasks, Test Cases, and Plans & Suits from one Project to another in Azure DevOps / TFS both within the same Organisation, and between
 - [geluk/pass-winmenu](https://github.com/geluk/pass-winmenu) - An easy-to-use password manager for Windows, compatible with pass.
@@ -981,7 +983,7 @@
 - [Bazzadwarf/makefolders](https://github.com/Bazzadwarf/makefolders) - It makes folders
 - [gagolews/stringi](https://github.com/gagolews/stringi) - Fast and portable character string processing in R (with the Unicode ICU)
 - [rstudio/sass](https://github.com/rstudio/sass) - Sass compiler package for R
-- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
+- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [r-lib/cpp11](https://github.com/r-lib/cpp11) - cpp11 helps you to interact with R objects using C++ code.
 - [vspinu/timechange](https://github.com/vspinu/timechange) - Efficient Updating of Date-Times
 - [rprichard/winpty](https://github.com/rprichard/winpty) - A Windows software package providing an interface similar to a Unix pty-master for communicating with Windows console programs.
@@ -1496,7 +1498,6 @@
 - [lawrencegripper/azbrowse](https://github.com/lawrencegripper/azbrowse) - An interactive CLI for browsing Azure, inspired by http://resources.azure.com/
 - [tokuhirom/git-xlsx-textconv](https://github.com/tokuhirom/git-xlsx-textconv) - 
 - [hrbrmstr/extip](https://github.com/hrbrmstr/extip) - ℁ Retrieve your external IP address via DNS
-- [Duffney/everything-i-know-about-go](https://github.com/Duffney/everything-i-know-about-go) - Golang notes and code samples, written by someone without a CS degree. 🙂
 - [kristofferahl/terraform-provider-healthchecksio](https://github.com/kristofferahl/terraform-provider-healthchecksio) - Terraform Provider for healthchecks.io
 - [ublue-os/fleek](https://github.com/ublue-os/fleek) - Own your $HOME
 - [jrnxf/gh-eco](https://github.com/jrnxf/gh-eco) - 🦎 gh cli extension to explore the ecosystem
@@ -1869,7 +1870,7 @@
 - [gbrlsnchs/pilgo](https://github.com/gbrlsnchs/pilgo) - Configuration-based dotfiles manager
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [GoAdminGroup/go-admin](https://github.com/GoAdminGroup/go-admin) - A golang framework helps gopher to build a data visualization and admin panel in ten minutes
-- [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
+- [GrantBirki/hub](https://github.com/GrantBirki/hub) - A command-line tool that makes git easier to use with GitHub.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers
 - [Trendyol/docker-shell](https://github.com/Trendyol/docker-shell) - A simple interactive prompt for docker
@@ -2907,6 +2908,9 @@
 
 ## JavaScript 
 
+- [retypeapp/retype](https://github.com/retypeapp/retype) - Retype is an ✨ ultra-high-performance✨ static site generator that builds a website based on simple text files.
+- [BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync) - Keep multiple browsers & devices in sync when building websites. http://browsersync.io
+- [MobileFirstLLC/extension-cli](https://github.com/MobileFirstLLC/extension-cli) - Command line tool for building extensions/add-ons for chromium based browsers.
 - [s-blu/obsidian_things](https://github.com/s-blu/obsidian_things) - Resources and snippets of all sort for Obsidian.md https://obsidian.md/
 - [s-blu/obsidian_dataview_example_vault](https://github.com/s-blu/obsidian_dataview_example_vault) - A example vault to collect and showcase various dataview queries. Created on behalf of AB1908
 - [Websoft9/docker-library](https://github.com/Websoft9/docker-library) - 100+ open source application installation of Docker Compose powered by Websoft9
@@ -3125,7 +3129,6 @@
 - [2KAbhishek/projects](https://github.com/2KAbhishek/projects) - Showcase All Your Projects 🛍️🎇
 - [auberginehill/firefox-customization-files](https://github.com/auberginehill/firefox-customization-files) - Alters the Mozilla Firefox behaviour extensively and holistically with Firefox customization file(s). The main focus in this project is on privacy and security.
 - [rstudio/shinyuieditor](https://github.com/rstudio/shinyuieditor) - A GUI for laying out a Shiny application that generates clean and human-readable UI code
-- [rstudio/py-shiny](https://github.com/rstudio/py-shiny) - Shiny for Python
 - [leroi-marketing/excel-to-database](https://github.com/leroi-marketing/excel-to-database) - Solution to synchronize small tables between Excel and a database
 - [beet/page-headings-obsidian-plugin](https://github.com/beet/page-headings-obsidian-plugin) - Obsidian plugin to populate page headings
 - [chenyukang/obweb](https://github.com/chenyukang/obweb) - ObWeb = Obsidian on Mobile + Flomo + Rss Reader
@@ -3147,7 +3150,7 @@
 - [filipakkad/react-shiny-template](https://github.com/filipakkad/react-shiny-template) - React - Shiny Template
 - [unverbuggt/mkdocs-encryptcontent-plugin](https://github.com/unverbuggt/mkdocs-encryptcontent-plugin) - A MkDocs plugin that encrypt/decrypt markdown content with AES
 - [09x09/vba-blockly](https://github.com/09x09/vba-blockly) - blockly based application for vba
-- [infracost/actions](https://github.com/infracost/actions) - A set of GitHub actions for Infracost.  See cloud cost estimates for Terraform in pull requests. 💰📉 Love your cloud bill!
+- [infracost/actions](https://github.com/infracost/actions) - GitHub Action for Infracost.  See cloud cost estimates for Terraform in pull requests. 💰📉 Love your cloud bill!
 - [r-spatial/leafem](https://github.com/r-spatial/leafem) - leaflet extensions for mapview
 - [TenSoja/clear-cache](https://github.com/TenSoja/clear-cache) - Add-on to clear browser cache with a single click or via the F9 key.
 - [evilpie/add-custom-search-engine](https://github.com/evilpie/add-custom-search-engine) - Add a custom search engine to the list of available search engines in Firefox
@@ -3542,7 +3545,6 @@
 - [glin/shiny-react-example](https://github.com/glin/shiny-react-example) - Example of a Shiny app with a React front-end
 - [majgis/npm-bundle](https://github.com/majgis/npm-bundle) - npm pack with dependencies included
 - [edgararuiz-zz/databases-w-r](https://github.com/edgararuiz-zz/databases-w-r) - Databases with R, the latest - rstudio::conf2019
-- [vonovak/react-navigation-header-buttons](https://github.com/vonovak/react-navigation-header-buttons) - Easily render header buttons for react-navigation.
 - [ardaogulcan/react-native-keyboard-accessory](https://github.com/ardaogulcan/react-native-keyboard-accessory) - A React Native Keyboard Accessory (View, Navigation) Component. Sticky views on keyboard.
 - [CodingGarden/travel-log](https://github.com/CodingGarden/travel-log) - A full stack application to store / list places you have traveled.
 - [magus/next-magic-auth](https://github.com/magus/next-magic-auth) - magic authentication with just your email, no third parties required
@@ -3600,6 +3602,7 @@
 - [yeoman/yo](https://github.com/yeoman/yo) - CLI tool for running Yeoman generators
 - [snapappointments/bootstrap-select](https://github.com/snapappointments/bootstrap-select) - :rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
 - [RobinHerbots/Inputmask](https://github.com/RobinHerbots/Inputmask) - Input Mask plugin
+- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [meliorence/react-native-snap-carousel](https://github.com/meliorence/react-native-snap-carousel) - Swiper/carousel component for React Native featuring previews, multiple layouts, parallax images, performant handling of huge numbers of items, and more. Compatible with Android & iOS.
 - [UDST/vizicities](https://github.com/UDST/vizicities) - A framework for 3D geospatial visualization in the browser
 - [bencodezen/bens-obsidian-boilerplate](https://github.com/bencodezen/bens-obsidian-boilerplate) - An opinionated kit to provide people some inspiration and ideas for their own workflows.
@@ -4142,6 +4145,7 @@
 - [DataTables/Dist-DataTables-SearchPanes](https://github.com/DataTables/Dist-DataTables-SearchPanes) - 
 - [RConsortium/project-analysis](https://github.com/RConsortium/project-analysis) - Data-Driven Discovery and Tracking of R Consortium Activities
 - [ryanbthomas/rethinking-workflows](https://github.com/ryanbthomas/rethinking-workflows) - 
+- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [maxogden/hexbin](https://github.com/maxogden/hexbin) - community curated list of hexagon logos
 - [ctlab/shiny-graph](https://github.com/ctlab/shiny-graph) - Graph module for R Shiny
 - [nstrayer/shinyswipr](https://github.com/nstrayer/shinyswipr) - An R Shiny module to put swiping interfaces in your app!
@@ -4633,6 +4637,7 @@
 - [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
 - [dendronhq/awesome-dendron](https://github.com/dendronhq/awesome-dendron) - A big list of Dendron docs, talks, tools, examples, articles, extensions, vaults, showcases, and more that the internet has to offer.
 - [HariAcidReign/JavaScript-A-Z-Notes](https://github.com/HariAcidReign/JavaScript-A-Z-Notes) - Trying to document all of my knowledge about Javascript for future reference. Get your JS fundas in lucid English right here!
+- [Duffney/effortless-golang](https://github.com/Duffney/effortless-golang) - Golang notes and code samples, written by someone without a CS degree. 🙂
 - [actuarial-tools/IntegrationModel](https://github.com/actuarial-tools/IntegrationModel) - Analytical application using Django and Dash
 - [actuarial-tools/PyDjangoDash](https://github.com/actuarial-tools/PyDjangoDash) - Analytical Web Application using Python, Django and Dash
 - [moodymudskipper/realquick](https://github.com/moodymudskipper/realquick) - One line object summaries
@@ -6065,6 +6070,7 @@
 
 ## PowerShell 
 
+- [andrewmatveychuk/powershell.sample-module](https://github.com/andrewmatveychuk/powershell.sample-module) - Sample CI/CD pipeline for PowerShell module
 - [sangafabrice/reg-cli](https://github.com/sangafabrice/reg-cli) - Set of helper functions for updating applications on the Windows Platform in a way that avoids writing to the registry as much as possible.
 - [jedieaston/WinGetHelpers](https://github.com/jedieaston/WinGetHelpers) - A PowerShell (5.1+) module with several helper functions for writing and updating WinGet manifests.
 - [StartAutomating/Patchy](https://github.com/StartAutomating/Patchy) - Patchy is a PowerShell module that helps smooth out the chop of maintaining Windows Updates
@@ -7158,6 +7164,7 @@
 
 ## Python 
 
+- [GoogleChromeLabs/extension-manifest-converter](https://github.com/GoogleChromeLabs/extension-manifest-converter) - 
 - [voxel51/fiftyone-docs-search](https://github.com/voxel51/fiftyone-docs-search) - Search docs.voxel51.com with an LLM!
 - [Mr-Un1k0d3r/PowerLessShell](https://github.com/Mr-Un1k0d3r/PowerLessShell) - Run PowerShell command without invoking powershell.exe
 - [gvivster/wsl-friendly-file-path-copier](https://github.com/gvivster/wsl-friendly-file-path-copier) - Copy Windows file paths in native or Unix format with an addition to your context menu. Also works for parent folder paths.
@@ -7756,6 +7763,7 @@
 - [PacktPublishing/Data-Engineering-with-AWS](https://github.com/PacktPublishing/Data-Engineering-with-AWS) - Data Engineering with AWS, Published by Packt
 - [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
 - [microsoft/mssql-scripter](https://github.com/microsoft/mssql-scripter) - Repository for the new SQL cross-platform command line tools
+- [rstudio/py-shiny](https://github.com/rstudio/py-shiny) - Shiny for Python
 - [johndeyrup/postgresql-excel](https://github.com/johndeyrup/postgresql-excel) - An interactive GUI designed to allow communication between a postgresql database, a gui for data entry, and excel spreadsheets for data entry
 - [ycd/manage-fastapi](https://github.com/ycd/manage-fastapi) - :rocket: CLI tool for FastAPI. Generating new FastAPI projects & boilerplates made easy.
 - [unifyai/ivy](https://github.com/unifyai/ivy) - Unified AI
@@ -13503,6 +13511,7 @@
 
 ## TypeScript 
 
+- [HiDeoo/npm-package-manager-extension](https://github.com/HiDeoo/npm-package-manager-extension) - Browser extension adding support for multiple package managers to npmjs.com.
 - [pester/vscode-adapter](https://github.com/pester/vscode-adapter) - Run PowerShell Pester Tests with Visual Studio Code
 - [ahzhezhe/terraform-generator](https://github.com/ahzhezhe/terraform-generator) - Generate Terraform configurations with Node.js.
 - [formkit/formkit](https://github.com/formkit/formkit) - Vue Forms ⚡️ Supercharged
@@ -14008,6 +14017,7 @@
 - [googlemaps/js-samples](https://github.com/googlemaps/js-samples) - Samples for the Google Maps JavaScript v3 API
 - [HEmile/obsidian-neo4j-stream](https://github.com/HEmile/obsidian-neo4j-stream) - 
 - [eugenehp/react-native-uuid](https://github.com/eugenehp/react-native-uuid) - UUID generation for react-native.
+- [vonovak/react-navigation-header-buttons](https://github.com/vonovak/react-navigation-header-buttons) - Easily render header buttons for react-navigation.
 - [atlassian/stricter](https://github.com/atlassian/stricter) - A project-wide js-linting tool
 - [pinterest/querybook](https://github.com/pinterest/querybook) - Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface.
 - [callstack/react-native-pager-view](https://github.com/callstack/react-native-pager-view) - React Native wrapper for the Android ViewPager and iOS UIPageViewController.
@@ -14240,7 +14250,6 @@
 - [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [kubernetes-client/javascript](https://github.com/kubernetes-client/javascript) - Javascript client
-- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [y-lohse/inkjs](https://github.com/y-lohse/inkjs) - A javascript port of inkle's ink scripting language.
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [antvis/F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
