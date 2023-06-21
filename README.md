@@ -68,6 +68,7 @@
 - [Lua](#lua)
 - [M4](#m4)
 - [MATLAB](#matlab)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mustache](#mustache)
@@ -476,6 +477,7 @@
 
 ## C# # 
 
+- [MishaProductions/WindowsPackageDownloader](https://github.com/MishaProductions/WindowsPackageDownloader) - An open source alternative to UUPDump (WIP)
 - [NiceAesth/2pacalypse](https://github.com/NiceAesth/2pacalypse) - 2pac 4 lyfe
 - [mmaitre314/PowerShellGet-Test-Binary-Module](https://github.com/mmaitre314/PowerShellGet-Test-Binary-Module) - Example of PowerShellGet Binary Module
 - [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
@@ -2087,6 +2089,8 @@
 
 ## HTML 
 
+- [protiumx/blog](https://github.com/protiumx/blog) - My personal blog, automatically published to Medium and Dev.to
+- [shahednasser/awesome-resources](https://github.com/shahednasser/awesome-resources) - :sunglasses: List of helpful resources added by the community for the community!
 - [gustavelson/2PacTribute](https://github.com/gustavelson/2PacTribute) - Tributo - 2Pac Shakur
 - [Heric-Olier/2Pac-Tribute-Page-FCC](https://github.com/Heric-Olier/2Pac-Tribute-Page-FCC) - 2Pac Tribute Page | FreecodeCamp
 - [Azure-Samples/azure-media-player-samples](https://github.com/Azure-Samples/azure-media-player-samples) - Code samples for embedding Azure Media Player
@@ -2114,6 +2118,7 @@
 - [ActPersp/RModel](https://github.com/ActPersp/RModel) - Blogdown website for actuarial modeling with Rgogo
 - [abilian/slapos-flask-sample](https://github.com/abilian/slapos-flask-sample) - Sample Flask project for Slapos
 - [AmineDjeghri/AwesomeWindows11](https://github.com/AmineDjeghri/AwesomeWindows11) - Some windows tips to improve your UX experience when using windows 11 (including WSL2 & development tools)
+- [ovh/docs](https://github.com/ovh/docs) - Official repository containing all docs & guides of OVH Group
 - [problemofpoints/clrs-2018-reservetestr](https://github.com/problemofpoints/clrs-2018-reservetestr) - Presentation at 2018 CAS Loss Reserve Seminar
 - [problemofpoints/viz-uncertainty-presentation](https://github.com/problemofpoints/viz-uncertainty-presentation) - Communicating uncertainty - An Impossible Task??
 - [ehfeng/react-flask-app](https://github.com/ehfeng/react-flask-app) - 
@@ -2926,6 +2931,14 @@
 
 ## JavaScript 
 
+- [pavanjadhaw/mdm](https://github.com/pavanjadhaw/mdm) - 📝 Publish your markdown to medium, from cli
+- [0x48piraj/medium-cli](https://github.com/0x48piraj/medium-cli) - CLI for medium.
+- [shahednasser/cross-post](https://github.com/shahednasser/cross-post) - Cross Post a blog to multiple websites
+- [giuliachiola/super-blog-content](https://github.com/giuliachiola/super-blog-content) - Blog markdown content where documentation rules 📚
+- [integrateme-co/integrate-io](https://github.com/integrateme-co/integrate-io) - Cross-Post your blogs between dev.to, Medium and Hashnode 🔀
+- [JedWatson/classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together
+- [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (228B) utility for constructing `className` strings conditionally.
+- [aarongustafson/btconf-pwa-workshop](https://github.com/aarongustafson/btconf-pwa-workshop) - 
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A full-stack application that turns any documents into an intelligent chatbot with a sleek UI and easier way to manage your workspaces.
 - [Shopify/shopify-marketplaces-buyer-app](https://github.com/Shopify/shopify-marketplaces-buyer-app) - 
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
@@ -3148,14 +3161,12 @@
 - [2KAbhishek/projects](https://github.com/2KAbhishek/projects) - Showcase All Your Projects 🛍️🎇
 - [auberginehill/firefox-customization-files](https://github.com/auberginehill/firefox-customization-files) - Alters the Mozilla Firefox behaviour extensively and holistically with Firefox customization file(s). The main focus in this project is on privacy and security.
 - [rstudio/shinyuieditor](https://github.com/rstudio/shinyuieditor) - A GUI for laying out a Shiny application that generates clean and human-readable UI code
-- [rstudio/py-shiny](https://github.com/rstudio/py-shiny) - Shiny for Python
 - [leroi-marketing/excel-to-database](https://github.com/leroi-marketing/excel-to-database) - Solution to synchronize small tables between Excel and a database
 - [beet/page-headings-obsidian-plugin](https://github.com/beet/page-headings-obsidian-plugin) - Obsidian plugin to populate page headings
 - [chenyukang/obweb](https://github.com/chenyukang/obweb) - ObWeb = Obsidian on Mobile + Flomo + Rss Reader
 - [jimbrig/Template-Vault](https://github.com/jimbrig/Template-Vault) - Template Obsidian.md Vault
 - [danhellem/github-actions-issue-to-work-item](https://github.com/danhellem/github-actions-issue-to-work-item) - GitHub Action that creates a Azure DevOps work item when an Issue is created
 - [meganz/web-extension](https://github.com/meganz/web-extension) - mega.nz browser extensions
-- [abhith/abhith.net](https://github.com/abhith/abhith.net) - Personal website and blog running on Gatsby. Contains a collection of developer stories, videos, snippets, and tools grouped by topics.
 - [wayanlw/obsidian-osint-templates](https://github.com/wayanlw/obsidian-osint-templates) - These templates are suggestions of how the Obsidian notetaking tool can be used during an OSINT investigation. The example data in those files should allow you to make some connections (see what I did
 - [microsoft/vscode-recipes](https://github.com/microsoft/vscode-recipes) - 
 - [brentvollebregt/auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe) - Converts .py to .exe using a simple graphical interface
@@ -3861,6 +3872,7 @@
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [GregTrevellick/ReadMeSynchronizer](https://github.com/GregTrevellick/ReadMeSynchronizer) - Keeps badges in ReadMe files across all my repos in sync.
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [cecilesauder/tripdown](https://github.com/cecilesauder/tripdown) - travel blogdown package
 - [timelyportfolio/rCharts_d3_sankey](https://github.com/timelyportfolio/rCharts_d3_sankey) - rCharts implementation of d3 sankey plugin
@@ -4488,6 +4500,7 @@
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
 - [dotfile/awesome](https://github.com/dotfile/awesome) - Awesome WM dotfiles
 - [Mic92/awesome-dotfiles](https://github.com/Mic92/awesome-dotfiles) - Configuration files of the window manager awesome
+- [Parth/dotfiles](https://github.com/Parth/dotfiles) - 
 - [benmarwick/pandanusisotopes](https://github.com/benmarwick/pandanusisotopes) - Research compendium
 
 ## M4 
@@ -4500,6 +4513,10 @@
 - [charl-potgieter/SampleFinancialDataGenerator](https://github.com/charl-potgieter/SampleFinancialDataGenerator) - Sample Financial Data
 - [mogulargmbh/powerquerysnippets](https://github.com/mogulargmbh/powerquerysnippets) - Collection of Power Query snippets as shown on powerqueryformatter.com
 - [MBB-team/VBA-toolbox](https://github.com/MBB-team/VBA-toolbox) - The VBA toolbox
+
+## MDX 
+
+- [abhith/abhith.net](https://github.com/abhith/abhith.net) - Personal website and blog running on Gatsby. Contains a collection of developer stories, videos, snippets, and tools grouped by topics.
 
 ## Makefile 
 
@@ -4590,6 +4607,7 @@
 
 ## Nunjucks 
 
+- [giuliachiola/super-blog-11ty](https://github.com/giuliachiola/super-blog-11ty) - Blog built using 11ty static site generator, based on super-styleguide
 - [jamstack/jamstack.org](https://github.com/jamstack/jamstack.org) - The official Jamstack site
 - [5t3ph/smolcss](https://github.com/5t3ph/smolcss) - Minimal snippets for modern CSS layouts and components
 - [xdesro/personalsit.es](https://github.com/xdesro/personalsit.es) - 📇 A little directory of people's personal sites
@@ -4622,6 +4640,8 @@
 
 ## Others 
 
+- [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
+- [alan2207/awesome-codebases](https://github.com/alan2207/awesome-codebases) - A collection of awesome open-source codebases worth exploring.
 - [tupactime/secondssincetupac.com](https://github.com/tupactime/secondssincetupac.com) - Seconds Since Tupac (2pac time)
 - [abergs/ubuntuonwindows](https://github.com/abergs/ubuntuonwindows) - Resources, tips, known issues etc for "Bash On Ubuntu On Windows"
 - [lencx/awesome-ai](https://github.com/lencx/awesome-ai) - 🤖 Awesome AI
@@ -6096,6 +6116,7 @@
 
 ## PowerShell 
 
+- [UniverseCitiz3n/Intune-App-Sandbox](https://github.com/UniverseCitiz3n/Intune-App-Sandbox) - 
 - [Azure/enterprise-azure-policy-as-code](https://github.com/Azure/enterprise-azure-policy-as-code) - Enterprise-ready Azure Policy-as-Code (PaC) solution (includes Az DevOps pipeline)
 - [pugbg/psmodules](https://github.com/pugbg/psmodules) - PowerShell Modules
 - [Stephanevg/PSClassUtils](https://github.com/Stephanevg/PSClassUtils) - A set of utilities to work with Powershell Classes
@@ -7817,6 +7838,7 @@
 - [PacktPublishing/Data-Engineering-with-AWS](https://github.com/PacktPublishing/Data-Engineering-with-AWS) - Data Engineering with AWS, Published by Packt
 - [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
 - [microsoft/mssql-scripter](https://github.com/microsoft/mssql-scripter) - Repository for the new SQL cross-platform command line tools
+- [rstudio/py-shiny](https://github.com/rstudio/py-shiny) - Shiny for Python
 - [johndeyrup/postgresql-excel](https://github.com/johndeyrup/postgresql-excel) - An interactive GUI designed to allow communication between a postgresql database, a gui for data entry, and excel spreadsheets for data entry
 - [ycd/manage-fastapi](https://github.com/ycd/manage-fastapi) - :rocket: CLI tool for FastAPI. Generating new FastAPI projects & boilerplates made easy.
 - [unifyai/ivy](https://github.com/unifyai/ivy) - Unified AI
@@ -12763,7 +12785,6 @@
 - [tiangolo/github-actions-sandbox](https://github.com/tiangolo/github-actions-sandbox) - Not useful for you. It's just a sandbox GitHub repo for me to try out stuff and develop GitHub Actions.
 - [LSYS/dotfiles](https://github.com/LSYS/dotfiles) - 🚧🛠️ .files and setup configs - to help overcome my fear of setting up a new machine
 - [Bhupesh-V/dotman](https://github.com/Bhupesh-V/dotman) - dotman is a simple, elegant & easy to use dotfiles manager 🖖🏽
-- [ovh/docs](https://github.com/ovh/docs) - Official repository containing all docs & guides of OVH Group
 - [OpenDRR/riskprofiler](https://github.com/OpenDRR/riskprofiler) - Web Application to Support Disaster Resilience / Application web pour soutenir la résilience aux catastrophes
 - [fdehau/dotfiles](https://github.com/fdehau/dotfiles) - @fdehau does dotfiles
 - [huyng/bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
@@ -13570,11 +13591,16 @@
 
 ## TypeScript 
 
+- [maximegel/blogster](https://github.com/maximegel/blogster) - Crosspost to Medium and Dev.to automagically from the CLI
+- [bespoyasov/frontend-clean-architecture](https://github.com/bespoyasov/frontend-clean-architecture) - React + TypeScript app built using the clean architecture principles in a more functional way · 🧼 🏛 🍪
+- [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
+- [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
+- [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [eob/ai-gpt3-chatbot-example](https://github.com/eob/ai-gpt3-chatbot-example) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text generator is a handy plugin for Obsidian that helps you generate text content using GPT-3 (OpenAI).
 - [KnowledgeCanvas/knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it 🧠
 - [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
@@ -14236,7 +14262,6 @@
 - [felixrieseberg/windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - :package: Install C++ Build Tools for Windows using npm
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
@@ -14622,7 +14647,6 @@
 - [ntkzwane/kickassdotfiles](https://github.com/ntkzwane/kickassdotfiles) - Dotfiles (configuration files) for various dev tools e.g editors, window managers, themes etc.
 - [antoniosarosi/dotfiles](https://github.com/antoniosarosi/dotfiles) - My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.
 - [willwm/dotfiles](https://github.com/willwm/dotfiles) - My default Linux/macOS/Windows configuration
-- [Parth/dotfiles](https://github.com/Parth/dotfiles) - 
 - [vim-pandoc/vim-rmarkdown](https://github.com/vim-pandoc/vim-rmarkdown) - Rmarkdown support for vim
 - [jimhester/dotfiles](https://github.com/jimhester/dotfiles) - 
 - [vim-scripts/Vim-R-plugin](https://github.com/vim-scripts/Vim-R-plugin) - Plugin to work with R
