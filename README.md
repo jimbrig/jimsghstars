@@ -481,6 +481,7 @@
 - [NiceAesth/2pacalypse](https://github.com/NiceAesth/2pacalypse) - 2pac 4 lyfe
 - [mmaitre314/PowerShellGet-Test-Binary-Module](https://github.com/mmaitre314/PowerShellGet-Test-Binary-Module) - Example of PowerShellGet Binary Module
 - [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
+- [FranciscoNabas/WindowsUtils](https://github.com/FranciscoNabas/WindowsUtils) - PowerShell module to aid Windows computers administration.
 - [PowerShell/MarkdownRender](https://github.com/PowerShell/MarkdownRender) - 
 - [dotnet/Open-XML-SDK](https://github.com/dotnet/Open-XML-SDK) - Open XML SDK by Microsoft
 - [ExcelDataReader/ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files
@@ -852,7 +853,6 @@
 ## C++ 
 
 - [epoupon/fileshelter](https://github.com/epoupon/fileshelter) - FileShelter is a “one-click” file sharing web application
-- [FranciscoNabas/WindowsUtils](https://github.com/FranciscoNabas/WindowsUtils) - PowerShell module to aid Windows computers administration.
 - [kanzure/vba-linux](https://github.com/kanzure/vba-linux) - VBA emulator (GB/GBC/GBA) for Linux, forked from vba-rerecording v23.5
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
 - [apiaryio/drafter](https://github.com/apiaryio/drafter) - API Blueprint Parser (C++)
@@ -1230,7 +1230,6 @@
 - [rileytwo/darkstudio](https://github.com/rileytwo/darkstudio) - darkstudio. A dark grey alternative to RStudio's default dark theme.
 - [sjl/d](https://github.com/sjl/d) - Markdown files to documentation.  Nothing else.
 - [RinteRface/argonDash](https://github.com/RinteRface/argonDash) - argon dashboard template
-- [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
 - [no-types/RagGrid](https://github.com/no-types/RagGrid) - R interface to ag-grid.
 - [tidyverts/tidy-forecasting-principles](https://github.com/tidyverts/tidy-forecasting-principles) - Exploration of tidy standards for time series forecasting
 - [DataTables/Dist-DataTables-SearchPanes-SemanticUI](https://github.com/DataTables/Dist-DataTables-SearchPanes-SemanticUI) - 
@@ -1861,7 +1860,6 @@
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [go-survey/survey](https://github.com/go-survey/survey) - A golang library for building interactive and accessible prompts with full support for windows and posix terminals.
 - [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
-- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool. 一个跨平台可编程网络工具.
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -2931,6 +2929,7 @@
 
 ## JavaScript 
 
+- [edwarddistel/yahoo-fantasy-baseball-automater](https://github.com/edwarddistel/yahoo-fantasy-baseball-automater) - Automatically start an optimal lineup for your Yahoo Fantasy Baseball team.
 - [pavanjadhaw/mdm](https://github.com/pavanjadhaw/mdm) - 📝 Publish your markdown to medium, from cli
 - [0x48piraj/medium-cli](https://github.com/0x48piraj/medium-cli) - CLI for medium.
 - [shahednasser/cross-post](https://github.com/shahednasser/cross-post) - Cross Post a blog to multiple websites
@@ -4272,6 +4271,7 @@
 
 ## Julia 
 
+- [nequals30/FantasyBaseballTools.jl](https://github.com/nequals30/FantasyBaseballTools.jl) - Some tools useful for fantasy baseball
 - [JuliaActuary/MortalityTables.jl](https://github.com/JuliaActuary/MortalityTables.jl) - Easily Reference and use Actuarial Mortality Tables
 - [JuliaActuary/LifeContingencies.jl](https://github.com/JuliaActuary/LifeContingencies.jl) - Life Actuarial Maths
 - [cljmdc/IbnrClaims.jl](https://github.com/cljmdc/IbnrClaims.jl) - 
@@ -4286,6 +4286,7 @@
 
 ## Jupyter Notebook 
 
+- [pecamp/fantasyBaseballTools](https://github.com/pecamp/fantasyBaseballTools) - This repo is for a collection of fantasy baseball tools to be used alongside Yahoo Fantasy Sports API
 - [gkamradt/langchain-tutorials](https://github.com/gkamradt/langchain-tutorials) - Overview and tutorial of the LangChain Library
 - [LastAncientOne/Stock_Analysis_For_Quant](https://github.com/LastAncientOne/Stock_Analysis_For_Quant) - Various Types of Stock Analysis in Excel, Matlab, Power BI, Python, R, and Tableau
 - [dfinke/openai-powershell-samples](https://github.com/dfinke/openai-powershell-samples) - 
@@ -4517,6 +4518,7 @@
 ## MDX 
 
 - [abhith/abhith.net](https://github.com/abhith/abhith.net) - Personal website and blog running on Gatsby. Contains a collection of developer stories, videos, snippets, and tools grouped by topics.
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 
 ## Makefile 
 
@@ -4640,6 +4642,7 @@
 
 ## Others 
 
+- [firasdib/Regex101](https://github.com/firasdib/Regex101) - This repository is currently only used for issue tracking for www.regex101.com
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [alan2207/awesome-codebases](https://github.com/alan2207/awesome-codebases) - A collection of awesome open-source codebases worth exploring.
 - [tupactime/secondssincetupac.com](https://github.com/tupactime/secondssincetupac.com) - Seconds Since Tupac (2pac time)
@@ -6116,6 +6119,11 @@
 
 ## PowerShell 
 
+- [jimbrig/PSRegEx-Irregular-](https://github.com/jimbrig/PSRegEx-Irregular-) - Regular Expressions made Strangely Simple
+- [StartAutomating/ShowDemo](https://github.com/StartAutomating/ShowDemo) - A simple tool to showcase your scripts.
+- [janviudapi/PowerShell](https://github.com/janviudapi/PowerShell) - This is demo repo for vCloud-lab.com
+- [dverbern/paradoxical-fermi](https://github.com/dverbern/paradoxical-fermi) - A repository of the scripts I've written to simplify my working life ... or just for my own enjoyment.
+- [Duncan1106/DownloadsSort](https://github.com/Duncan1106/DownloadsSort) - Script to sort the windows 10/11 Downloads Folder a user defined folder structure
 - [UniverseCitiz3n/Intune-App-Sandbox](https://github.com/UniverseCitiz3n/Intune-App-Sandbox) - 
 - [Azure/enterprise-azure-policy-as-code](https://github.com/Azure/enterprise-azure-policy-as-code) - Enterprise-ready Azure Policy-as-Code (PaC) solution (includes Az DevOps pipeline)
 - [pugbg/psmodules](https://github.com/pugbg/psmodules) - PowerShell Modules
@@ -6633,7 +6641,7 @@
 - [unkn0wnvariable/PowerShell-WindowsAdmin](https://github.com/unkn0wnvariable/PowerShell-WindowsAdmin) - A collection of scripts I've created over the years to administer things.
 - [glenrobinson72/Tableau-Powershell-Scripts](https://github.com/glenrobinson72/Tableau-Powershell-Scripts) - Repository of Powershell Scripts for Tableau
 - [mpb10/PowerShell-Youtube-dl](https://github.com/mpb10/PowerShell-Youtube-dl) - A PowerShell script interface used to operate the youtube-dl command line program.
-- [YurinDoctrine/Fresh](https://github.com/YurinDoctrine/Fresh) - A tweaker script works on Windows 10 , Windows 11
+- [YurinDoctrine/Fresh-Script](https://github.com/YurinDoctrine/Fresh-Script) - A tuner script works on Windows 10 and Windows 11
 - [bajicdusan/Windows11Debloater](https://github.com/bajicdusan/Windows11Debloater) - Windows 11 Debloater
 - [ItzLevvie/RegisterToInsiderOffline](https://github.com/ItzLevvie/RegisterToInsiderOffline) - This project was created from PowerShell which allows people to register their device to the Windows Insider Program without using an account.
 - [AlexNabokikh/windows-playbook](https://github.com/AlexNabokikh/windows-playbook) - Windows setup and configuration via Ansible.
@@ -7224,6 +7232,19 @@
 
 ## Python 
 
+- [nequals30/MDcalendar](https://github.com/nequals30/MDcalendar) - A calendar in markdown
+- [nequals30/home-server](https://github.com/nequals30/home-server) - Some scripts I run on my server
+- [conneroisu/Auto-GPT-Obsidian](https://github.com/conneroisu/Auto-GPT-Obsidian) - Plugin for Auto-GPT integration with Obsidian Vaults.
+- [rohanbatrain/Second-Brain-Tools-2022](https://github.com/rohanbatrain/Second-Brain-Tools-2022) - This is a repository holding tools for second brain project.
+- [lucasrla/remarks](https://github.com/lucasrla/remarks) - Extract annotations (highlights and scribbles) from PDF, EPUB, and notebooks marked with reMarkable tablets. Export to Markdown, PDF, PNG, SVG
+- [natelandau/obsidian-metadata](https://github.com/natelandau/obsidian-metadata) - Batch updates to metadata in an Obsidian vault
+- [Flybell/web_to_obsidian](https://github.com/Flybell/web_to_obsidian) - A Python 3 script that scrapes an html/xml page to extract text, then creates markdown files for Obsidian & the dataview plugin
+- [orbikm/mkdocs-ezlinks-plugin](https://github.com/orbikm/mkdocs-ezlinks-plugin) - Plugin for mkdocs which enables easier linking between pages
+- [J-E-J-S/autograph-obsidian](https://github.com/J-E-J-S/autograph-obsidian) - Automatic knowledge graph generation for Obsidian.md
+- [tobiasvl/reddit-saved-saver](https://github.com/tobiasvl/reddit-saved-saver) - Converts saved Reddit submissions into Markdown files with YAML frontmatter
+- [techleadhd/chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval) - 
+- [daveOarch/ArchVault](https://github.com/daveOarch/ArchVault) - Architecture Repository Obsidian Vault
+- [aaomidi/certbot-dns-google-domains](https://github.com/aaomidi/certbot-dns-google-domains) - Google Domains plugin for Certbot.
 - [mohit2152sharma/rewiser-gpt](https://github.com/mohit2152sharma/rewiser-gpt) - Revise your daily devlogs with openai's gpt
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [amido/stacks-azure-data](https://github.com/amido/stacks-azure-data) - 
@@ -7769,6 +7790,7 @@
 - [aws-samples/aws-glue-databrew-eventdriven-dq-checks](https://github.com/aws-samples/aws-glue-databrew-eventdriven-dq-checks) - 
 - [intake/intake](https://github.com/intake/intake) - Intake is a lightweight package for finding, investigating, loading and disseminating data.
 - [piotrlaczkowski/data-science-template](https://github.com/piotrlaczkowski/data-science-template) - Documentation available at: [dockbook](https://piotrlaczkowski.github.io/data-science-template/)
+- [doitintl/cloud-catalog](https://github.com/doitintl/cloud-catalog) - Extract categories and services (as unified JSON) for major public cloud services.
 - [niaid/cloudwatcher](https://github.com/niaid/cloudwatcher) - A tool for monitoring AWS CloudWatch metrics and logs
 - [wjwillemse/solvency2-data](https://github.com/wjwillemse/solvency2-data) - Package for reading the Solvency 2 Risk-Free Interest Rate Term Structures and deriving the term structures for alternative extrapolations
 - [pynamodb/PynamoDB](https://github.com/pynamodb/PynamoDB) - A pythonic interface to Amazon's DynamoDB
@@ -8715,6 +8737,7 @@
 
 ## R 
 
+- [nequals30/baseball_closer](https://github.com/nequals30/baseball_closer) - A script which pulls in current closer depth chart and compares it to what is held in your Yahoo Fantasy league.
 - [myominnoo/rhino-app](https://github.com/myominnoo/rhino-app) - Rhnio-app tutorial from Appsilon
 - [briandconnelly/ami](https://github.com/briandconnelly/ami) - Checks for Various Computing Environments
 - [joshuaulrich/rfimport](https://github.com/joshuaulrich/rfimport) - getSymbols() reboot
@@ -12507,6 +12530,7 @@
 
 ## Rust 
 
+- [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library for generating regular expressions from user-provided test cases
 - [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
@@ -12693,7 +12717,7 @@
 - [rstudio/quillt](https://github.com/rstudio/quillt) - A pkgdown template for the R Markdown Ecosystem
 - [jamiebrynes7/clair-de-lune-obsidian-theme](https://github.com/jamiebrynes7/clair-de-lune-obsidian-theme) - An obsidian.md theme inspired by the Moonlight family of themes
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
-- [forsigner/fexo](https://github.com/forsigner/fexo) - A minimalist design theme for hexo.
+- [0xZion/fexo](https://github.com/0xZion/fexo) - A minimalist design theme for hexo.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
 - [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
@@ -12707,6 +12731,7 @@
 - [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 创建在线课程，学术简历或初创网站。#OpenScience
 - [RinteRface/argonR](https://github.com/RinteRface/argonR) - R interface to argon HTML design
 - [rstudio/bslib](https://github.com/rstudio/bslib) - Tools for theming Shiny and R Markdown via Bootstrap 3, 4, or 5.
+- [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
 - [hafen/htmlwidgetsgallery](https://github.com/hafen/htmlwidgetsgallery) - 
 - [dreamRs/fresh](https://github.com/dreamRs/fresh) - Fresh shiny themes
 - [travis-ci/docs-travis-ci-com](https://github.com/travis-ci/docs-travis-ci-com) - The Travis CI Documentation
@@ -12825,7 +12850,6 @@
 - [devcontainers/template-starter](https://github.com/devcontainers/template-starter) - A template explaining how to author custom dev container Templates
 - [rocker-org/devcontainer-templates](https://github.com/rocker-org/devcontainer-templates) - Dev Container Templates to use Rocker based Dev Containers. Useful Templates for using R in GitHub Codespaces, etc.
 - [maxheld83/ghpages](https://github.com/maxheld83/ghpages) - Deploy arbitrary static assets through GitHub Actions
-- [doitintl/cloud-catalog](https://github.com/doitintl/cloud-catalog) - Extract categories and services (as unified JSON) for major public cloud services.
 - [GoogleCloudPlatform/blueprints](https://github.com/GoogleCloudPlatform/blueprints) - Sample blueprints for Google Cloud
 - [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
 - [garystafford/dbt-redshift-demo](https://github.com/garystafford/dbt-redshift-demo) - dbt / Amazon Redshift Demonstration Project
