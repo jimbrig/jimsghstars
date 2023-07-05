@@ -304,6 +304,8 @@
 
 ## C 
 
+- [Biswa96/WSLInstall](https://github.com/Biswa96/WSLInstall) - Install any GNU/Linux userspace in WSL
+- [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) - Samples for CUDA Developers which demonstrates features in CUDA Toolkit
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [esnet/iperf](https://github.com/esnet/iperf) - iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
 - [sandboxie/sandboxie](https://github.com/sandboxie/sandboxie) - The Sandboxie application
@@ -481,6 +483,7 @@
 
 ## C# # 
 
+- [Gitii/community.wsl.sdk](https://github.com/Gitii/community.wsl.sdk) - SDK for Windows Subsystem for Linux for .NET 6
 - [rix0rrr/WindowsPathEditor](https://github.com/rix0rrr/WindowsPathEditor) - PATH editor for people who use a lot of "unixy" tools on Windows
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 - [Killeroo/PowerPing](https://github.com/Killeroo/PowerPing) - Advanced command-line ping tool
@@ -1494,6 +1497,7 @@
 
 ## Go 
 
+- [int128/wslexec](https://github.com/int128/wslexec) - A wrapper to run Linux command inside WSL (Windows Subsystem for Linux) from native apps
 - [curusarn/resh](https://github.com/curusarn/resh) - RESH ❯❯ Contextual shell history for zsh and bash
 - [dim-an/cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/fish/zsh
 - [ok-borg/borg](https://github.com/ok-borg/borg) - Search and save shell snippets without leaving your terminal
@@ -1639,7 +1643,7 @@
 - [supabase/cli](https://github.com/supabase/cli) - Supabase CLI
 - [square/password-rotation-lambda](https://github.com/square/password-rotation-lambda) - Password rotation function for AWS Lambda and Secrets Manager
 - [trackit/trackit](https://github.com/trackit/trackit) - Trackit helps you understand and improve your use of AWS
-- [cubefs/cubefs](https://github.com/cubefs/cubefs) - CubeFS is a cloud native file storage
+- [cubefs/cubefs](https://github.com/cubefs/cubefs) - CubeFS is a cloud native distributed storage platform
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
@@ -2105,6 +2109,8 @@
 
 ## HTML 
 
+- [secretGeek/today-i-learned](https://github.com/secretGeek/today-i-learned) - My notes from continual learning 🤔💡📗
+- [skolo-online/chat-gpt-starter](https://github.com/skolo-online/chat-gpt-starter) - This is a Python Flask starter pack for a ChatGPT project that uses OpenAI API to create a ChatGPT chatbox.
 - [jaantollander/Markdown-Templates](https://github.com/jaantollander/Markdown-Templates) - Templates for creating scientific, academic and technical documents using Markdown and Pandoc that support equations, code blocks, citations, Unicode symbols and vector graphics.
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [tomjoht/tomjoht.github.io](https://github.com/tomjoht/tomjoht.github.io) - blog for I'd Rather Be Writing
@@ -3216,7 +3222,7 @@
 - [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
 - [madzadev/kanboard](https://github.com/madzadev/kanboard) - 📃 KanBoard - Your personal project management tool
 - [zross/dataviz_templates](https://github.com/zross/dataviz_templates) - 
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop 
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [theowenyoung/wiki](https://github.com/theowenyoung/wiki) - Everything I Know by Owen, A Personal Knowledge Base Wiki,
 - [theowenyoung/obsidian-template-gatsby-theme-primer-wiki](https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki) - 
 - [Azure/webapps-deploy](https://github.com/Azure/webapps-deploy) - Enable GitHub developers to deploy to Azure WebApps using GitHub Actions
@@ -4277,6 +4283,7 @@
 
 ## Jinja 
 
+- [jasonwc/setup](https://github.com/jasonwc/setup) - Ansible Playbooks for setting up WSL/Multipass VMs
 - [silvncr/Flask](https://github.com/silvncr/Flask) - Web App Project - Yr. 10 2022
 - [joaopalmeiro/copier-cli](https://github.com/joaopalmeiro/copier-cli) - Copier template for Python CLIs with Click and Poetry.
 - [aws-ia/copier-terraform-repo-template](https://github.com/aws-ia/copier-terraform-repo-template) - 
@@ -4312,6 +4319,7 @@
 
 ## Jupyter Notebook 
 
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [pecamp/fantasyBaseballTools](https://github.com/pecamp/fantasyBaseballTools) - This repo is for a collection of fantasy baseball tools to be used alongside Yahoo Fantasy Sports API
 - [gkamradt/langchain-tutorials](https://github.com/gkamradt/langchain-tutorials) - Overview and tutorial of the LangChain Library
 - [LastAncientOne/Stock_Analysis_For_Quant](https://github.com/LastAncientOne/Stock_Analysis_For_Quant) - Various Types of Stock Analysis in Excel, Matlab, Power BI, Python, R, and Tableau
@@ -6116,6 +6124,7 @@
 
 ## Pascal 
 
+- [emeric-martineau/wsl-gui-tool](https://github.com/emeric-martineau/wsl-gui-tool) - Manage WSL (Windows Subsystem for Linux) with a graphical application
 - [segovoni/sqlcmdcli](https://github.com/segovoni/sqlcmdcli) - sqlcmdcli is written in Delphi RAD Studio and lets you connect to a SQL Server instance and run specific commands!
 - [jonathanneve/copycat](https://github.com/jonathanneve/copycat) - 
 - [bovender/VstoAddinInstaller](https://github.com/bovender/VstoAddinInstaller) - Generic InnoSetup script to install VSTO add-ins.
@@ -6158,6 +6167,9 @@
 
 ## PowerShell 
 
+- [secretGeek/today-i-learned-staging](https://github.com/secretGeek/today-i-learned-staging) - the markdown source of today-i-learned
+- [secretGeek/ok-ps](https://github.com/secretGeek/ok-ps) - .ok folder profiles for Powershell
+- [codenewa/helpful-alias-powershell](https://github.com/codenewa/helpful-alias-powershell) - Useful powershell alias
 - [andrew-s-taylor/public](https://github.com/andrew-s-taylor/public) - Public Scripts and Apps
 - [gunnarhaslinger/Microsoft-Edge-based-on-Chromium-Scripts](https://github.com/gunnarhaslinger/Microsoft-Edge-based-on-Chromium-Scripts) - Scripts for (new) Microsoft Edge (based on Chromium): Backup Favorites / Bookmarks, Modify Settings, ...
 - [Jaykul/BoxStarter-Boxes](https://github.com/Jaykul/BoxStarter-Boxes) - BoxStarter and Chocolatey Scripts for setting up my computers
@@ -7316,6 +7328,7 @@
 
 ## Python 
 
+- [lsblakk/tools](https://github.com/lsblakk/tools) - tools
 - [makecodes/django-dbml](https://github.com/makecodes/django-dbml) - This app can generate a DBML output for all installed models.
 - [NunaInc/sql_tools](https://github.com/NunaInc/sql_tools) - Python libraries for helping developers produce and maintain data analysis projects
 - [Kludex/dbml](https://github.com/Kludex/dbml) - Convert SQLAlchemy/SQLModel into DBML, and the other way around! :tada:
@@ -7333,7 +7346,7 @@
 - [nequals30/MDcalendar](https://github.com/nequals30/MDcalendar) - A calendar in markdown
 - [nequals30/home-server](https://github.com/nequals30/home-server) - Some scripts I run on my server
 - [conneroisu/Auto-GPT-Obsidian](https://github.com/conneroisu/Auto-GPT-Obsidian) - Plugin for Auto-GPT integration with Obsidian Vaults.
-- [rohanbatrain/Second-Brain-Tools-2022](https://github.com/rohanbatrain/Second-Brain-Tools-2022) - This is a repository holding tools for second brain project.
+- [rohanbatrain/second-brain-tools-2022](https://github.com/rohanbatrain/second-brain-tools-2022) - This is a repository holding tools for second brain project.
 - [lucasrla/remarks](https://github.com/lucasrla/remarks) - Extract annotations (highlights and scribbles) from PDF, EPUB, and notebooks marked with reMarkable tablets. Export to Markdown, PDF, PNG, SVG
 - [natelandau/obsidian-metadata](https://github.com/natelandau/obsidian-metadata) - Batch updates to metadata in an Obsidian vault
 - [Flybell/web_to_obsidian](https://github.com/Flybell/web_to_obsidian) - A Python 3 script that scrapes an html/xml page to extract text, then creates markdown files for Obsidian & the dataview plugin
@@ -7647,7 +7660,6 @@
 - [camptocamp/QGIS-SpreadSheetLayers](https://github.com/camptocamp/QGIS-SpreadSheetLayers) - QGIS plugin to load layers from spreadsheet files (*.ods, *.xls, *.xlsx)
 - [camptocamp/operator-shared-config-manager](https://github.com/camptocamp/operator-shared-config-manager) - 
 - [gitpitch/gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
-- [angeuwase/celery-application-factory](https://github.com/angeuwase/celery-application-factory) - Using celery for background tasks in a flask app structured using the application factory pattern
 - [angeuwase/production-flask-app-setup](https://github.com/angeuwase/production-flask-app-setup) - Setting up a production grade flask application
 - [gofynd/flask-full](https://github.com/gofynd/flask-full) - starter/boilerplate flask application with celery, mongoengine, signals, shell commands, swagger api docs and sphinx docs integration
 - [dimmg/flusk](https://github.com/dimmg/flusk) - Boilerplate API on how to structure big Flask applications (includes SQLAlchemy, Docker, nginx)
@@ -7677,7 +7689,7 @@
 - [dpgaspar/fab_addon_audit](https://github.com/dpgaspar/fab_addon_audit) - AddOn for Flask-AppBuilder. Will add audit to your ModelView's
 - [goldmann/docker-squash](https://github.com/goldmann/docker-squash) - Docker image squashing tool
 - [nuvic/flask_for_startups](https://github.com/nuvic/flask_for_startups) - Flask boilerplate using a services oriented structure
-- [Wizock/SuperiorPattern](https://github.com/Wizock/SuperiorPattern) - The Superior Pattern for Flask for Highly scalable structure to produce enterprise level applications
+- [crushr3sist/SuperiorPattern](https://github.com/crushr3sist/SuperiorPattern) - The Superior Pattern for Flask for Highly scalable structure to produce enterprise level applications
 - [wael34218/python_openapi_generator](https://github.com/wael34218/python_openapi_generator) - This library facilitates creating OpenAPI (Swagger) document for Python projects.
 - [maximdanilchenko/aiohttp-apispec](https://github.com/maximdanilchenko/aiohttp-apispec) - Build and document REST APIs with aiohttp and apispec
 - [klen/flask-restler](https://github.com/klen/flask-restler) - Yet another REST library for Flask
@@ -12885,6 +12897,8 @@
 
 ## Shell 
 
+- [Noriller/my-ansible](https://github.com/Noriller/my-ansible) - Use Ansible to provide your personal Linux with apps, configs, shortcuts...
+- [diablodale/pinentry-wsl-ps1](https://github.com/diablodale/pinentry-wsl-ps1) - GUI for GPG within Windows WSL for passwords, pinentry, etc.
 - [majk1/shellrc](https://github.com/majk1/shellrc) - Script collection and custom prompt for various shells and architectures
 - [cal2195/q](https://github.com/cal2195/q) - q - vim like macro registers for your bash and zsh shell!
 - [jamesob/desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
@@ -13727,6 +13741,7 @@
 
 ## TypeScript 
 
+- [mjessome/obsidian-global-hotkeys](https://github.com/mjessome/obsidian-global-hotkeys) - Global hotkey support for Obsidian.md
 - [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [statsfm/spotify.js](https://github.com/statsfm/spotify.js) - Statically typed SDK for the Spotify Web API
 - [statsfm/apple-music-node](https://github.com/statsfm/apple-music-node) - Node.js Client for Apple Music built with TypeScript
@@ -13748,7 +13763,7 @@
 - [eob/ai-gpt3-chatbot-example](https://github.com/eob/ai-gpt3-chatbot-example) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text generator is a handy plugin for Obsidian that helps you generate text content using GPT-3 (OpenAI).
 - [KnowledgeCanvas/knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Chat with your files, audio, video, csv with your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
 - [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
@@ -14327,7 +14342,7 @@
 - [doc-sys/cli](https://github.com/doc-sys/cli) - Comand Line Interface to configure and deploy
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [JLChnToZ/uniterm](https://github.com/JLChnToZ/uniterm) - 🚧Universal Terminal Emulator, might be a great toy terminal front-end for geeks.
-- [satackey/action-docker-layer-caching](https://github.com/satackey/action-docker-layer-caching) - [CAUTION] This repository is not actively maintained.
+- [satackey/action-docker-layer-caching](https://github.com/satackey/action-docker-layer-caching) - [CAUTION] This repository is not actively maintained. / Enable Docker layer caching in your GitHub Actions workflow.
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
 - [phibr0/obsidian-charts](https://github.com/phibr0/obsidian-charts) - Charts - Obsidian Plugin | Create editable, interactive and animated Charts in Obsidian via Chart.js
 - [PicGo/PicGo-Core](https://github.com/PicGo/PicGo-Core) - :zap:A tool for pictures uploading. Both CLI & API supports.
