@@ -1061,6 +1061,7 @@
 
 ## CSS 
 
+- [OfficeDev/Excel-Content-Add-in-Humongous-Insurance](https://github.com/OfficeDev/Excel-Content-Add-in-Humongous-Insurance) - The Humongous Insurance content add-in shows how you can use the new JavaScript API for Microsoft Excel 2016 to create a compelling Excel add-in.
 - [sanogotech/flask-now-ui-dashboard](https://github.com/sanogotech/flask-now-ui-dashboard) - Flask Dashboard NowUI - Open-Source Admin Panel | AppSeed
 - [stla/cascadeSelect](https://github.com/stla/cascadeSelect) - A cascade select widget for Shiny.
 - [jimbrig/codefolio](https://github.com/jimbrig/codefolio) - CodersRank Example Site
@@ -1431,6 +1432,7 @@
 
 ## Elixir 
 
+- [hashrocket/tilex](https://github.com/hashrocket/tilex) - Today I Learned
 - [Arp-G/csv2sql](https://github.com/Arp-G/csv2sql) - A blazing fast fully-automated CSV to database importer
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
 - [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) - A toolkit for data mapping and language integrated query.
@@ -2109,6 +2111,7 @@
 
 ## HTML 
 
+- [simonw/til](https://github.com/simonw/til) - Today I Learned
 - [secretGeek/today-i-learned](https://github.com/secretGeek/today-i-learned) - My notes from continual learning 🤔💡📗
 - [skolo-online/chat-gpt-starter](https://github.com/skolo-online/chat-gpt-starter) - This is a Python Flask starter pack for a ChatGPT project that uses OpenAI API to create a ChatGPT chatbox.
 - [jaantollander/Markdown-Templates](https://github.com/jaantollander/Markdown-Templates) - Templates for creating scientific, academic and technical documents using Markdown and Pandoc that support equations, code blocks, citations, Unicode symbols and vector graphics.
@@ -2955,6 +2958,10 @@
 
 ## JavaScript 
 
+- [OfficeDev/office-js-snippets](https://github.com/OfficeDev/office-js-snippets) - A collection of code snippets built with Script Lab
+- [joethei/browser-link-favicons](https://github.com/joethei/browser-link-favicons) - See the favicon for a linked website.
+- [joethei/obsidian-releases](https://github.com/joethei/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
+- [milooy/TIL](https://github.com/milooy/TIL) - Today I Learned
 - [pelauimagineering/apple-music-token-generator](https://github.com/pelauimagineering/apple-music-token-generator) - 
 - [sheminusminus/apple-music-token-node](https://github.com/sheminusminus/apple-music-token-node) - JS generator for Apple Music API developer tokens
 - [SimpleMindedGuy/Simple-Obsidian-Vault](https://github.com/SimpleMindedGuy/Simple-Obsidian-Vault) - My weird obsidian setup, with some weird scripts.
@@ -4504,6 +4511,7 @@
 
 ## Lua 
 
+- [AkashRajpurohit/dotfiles](https://github.com/AkashRajpurohit/dotfiles) - 🗄 my dotfile configs
 - [jalvesaq/cmp-nvim-r](https://github.com/jalvesaq/cmp-nvim-r) - 
 - [chrisgrieser/.config](https://github.com/chrisgrieser/.config) - pseudometa's dotfiles
 - [latipun7/dotfiles](https://github.com/latipun7/dotfiles) - 🏡 Home sweet ~/.
@@ -4679,6 +4687,9 @@
 
 ## Others 
 
+- [stakater/til](https://github.com/stakater/til) - :memo: Today I Learned
+- [wajahatkarim3/Today-I-Learned](https://github.com/wajahatkarim3/Today-I-Learned) - 📝 Today I Learned - A list of all things I learn on daily basis.
+- [thoughtbot/til](https://github.com/thoughtbot/til) - Today I Learned
 - [isontic/Specter](https://github.com/isontic/Specter) - Bug Tracker for Specter for Stats.fm Desktop app.
 - [BrettVerney/netEngTools](https://github.com/BrettVerney/netEngTools) - 
 - [BrettVerney/cliSnips](https://github.com/BrettVerney/cliSnips) - A handy collection of config snippets for CLI based network appliances
@@ -5187,7 +5198,7 @@
 - [tborychowski/self-hosted-cookbook](https://github.com/tborychowski/self-hosted-cookbook) - A cookbook, for docker-compose based recipes, for self-hosted applications and services.
 - [zeroday0619/WindowsTerminal-Configuration](https://github.com/zeroday0619/WindowsTerminal-Configuration) - Windows Terminal Configuration
 - [apsolut-archive/dotwindows-deprecated](https://github.com/apsolut-archive/dotwindows-deprecated) - windows configuration files - my list for fast transfer to new windows machine
-- [MilanAryal/config](https://github.com/MilanAryal/config) - Personal checklist for setting up a new Mac's dev environment.
+- [milanaryal/config](https://github.com/milanaryal/config) - Personal checklist for setting up a new Mac's dev environment.
 - [davidxia/gpg-conf](https://github.com/davidxia/gpg-conf) - ~/.gnupg/gpg.conf best practices
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [simple-works/dll-icons](https://github.com/simple-works/dll-icons) - 🔣 Icons compiled into Windows DLL resource files.
@@ -6167,6 +6178,7 @@
 
 ## PowerShell 
 
+- [OfficeDev/open-xml-docs-ref-dotnet](https://github.com/OfficeDev/open-xml-docs-ref-dotnet) - Open XML SDK content source for publishing reference docs to docs.microsoft.com
 - [secretGeek/today-i-learned-staging](https://github.com/secretGeek/today-i-learned-staging) - the markdown source of today-i-learned
 - [secretGeek/ok-ps](https://github.com/secretGeek/ok-ps) - .ok folder profiles for Powershell
 - [codenewa/helpful-alias-powershell](https://github.com/codenewa/helpful-alias-powershell) - Useful powershell alias
@@ -7328,6 +7340,7 @@
 
 ## Python 
 
+- [iamogbz/nvshim](https://github.com/iamogbz/nvshim) - 🍄 Automagically use the correct version of node with nvm
 - [lsblakk/tools](https://github.com/lsblakk/tools) - tools
 - [makecodes/django-dbml](https://github.com/makecodes/django-dbml) - This app can generate a DBML output for all installed models.
 - [NunaInc/sql_tools](https://github.com/NunaInc/sql_tools) - Python libraries for helping developers produce and maintain data analysis projects
@@ -12143,7 +12156,7 @@
 - [HenrikBengtsson/progressr](https://github.com/HenrikBengtsson/progressr) - 三 R package: An Inclusive, Unifying API for Progress Updates
 - [hrbrmstr/speedtest](https://github.com/hrbrmstr/speedtest) - :triangular_ruler: Measure upload/download speed/bandwidth for your network with R
 - [ropensci-archive/notary](https://github.com/ropensci-archive/notary) - :no_entry: ARCHIVED :no_entry: Signing and Verification of R Packages
-- [dlab-berkeley/R-Fundamentals](https://github.com/dlab-berkeley/R-Fundamentals) - D-Lab's 12 hour introduction to R Fundamentals. Learn how to create variables and functions, manipulate data frames, make visualizations, use control flow structures, and more, using R in RStudio.
+- [dlab-berkeley/R-Fundamentals-Legacy](https://github.com/dlab-berkeley/R-Fundamentals-Legacy) - D-Lab's 12 hour introduction to R Fundamentals. Learn how to create variables and functions, manipulate data frames, make visualizations, use control flow structures, and more, using R in RStudio.
 - [alexsanjoseph/compareDF](https://github.com/alexsanjoseph/compareDF) - R Tool to compare two data.frames
 - [pmaji/financial-asset-comparison-tool](https://github.com/pmaji/financial-asset-comparison-tool) - R Shiny app to compare the relative performance of cryptos and equities.
 - [globeandmail/startr](https://github.com/globeandmail/startr) - A template for data journalism in R
@@ -12897,6 +12910,8 @@
 
 ## Shell 
 
+- [zap-zsh/zap](https://github.com/zap-zsh/zap) - :zap: Zap is a minimal zsh plugin manager
+- [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates
 - [Noriller/my-ansible](https://github.com/Noriller/my-ansible) - Use Ansible to provide your personal Linux with apps, configs, shortcuts...
 - [diablodale/pinentry-wsl-ps1](https://github.com/diablodale/pinentry-wsl-ps1) - GUI for GPG within Windows WSL for passwords, pinentry, etc.
 - [majk1/shellrc](https://github.com/majk1/shellrc) - Script collection and custom prompt for various shells and architectures
@@ -13741,6 +13756,12 @@
 
 ## TypeScript 
 
+- [joethei/obsidian-control-characters](https://github.com/joethei/obsidian-control-characters) - Show control/non-printing characters in edit mode
+- [joethei/obsidian-rss](https://github.com/joethei/obsidian-rss) - Read RSS Feeds from inside obsidian
+- [joethei/obsidian-calibre](https://github.com/joethei/obsidian-calibre) - Import information about books from your Calibre Library. WIP
+- [joethei/obsidian-tts](https://github.com/joethei/obsidian-tts) - Text to speech for Obsidian. Hear your notes.
+- [joethei/obsidian-uri-link-redirect-copy](https://github.com/joethei/obsidian-uri-link-redirect-copy) - 
+- [joethei/obsidian-tagcloud](https://github.com/joethei/obsidian-tagcloud) - Show a cloud of your tags/words/links in a note
 - [mjessome/obsidian-global-hotkeys](https://github.com/mjessome/obsidian-global-hotkeys) - Global hotkey support for Obsidian.md
 - [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [statsfm/spotify.js](https://github.com/statsfm/spotify.js) - Statically typed SDK for the Spotify Web API
@@ -14524,6 +14545,7 @@
 
 ## VBA 
 
+- [Sven-Bo/Integrate-ChatGPT-in-Excel-using-VBA](https://github.com/Sven-Bo/Integrate-ChatGPT-in-Excel-using-VBA) - Revolutionize your spreadsheet game with OpenAI's ChatGPT in Microsoft Excel using my custom VBA code. Automate tedious tasks and add a new level of intelligence to your data analysis. The code is ava
 - [sha5010/vim.xlam](https://github.com/sha5010/vim.xlam) - Vim experience in Excel
 - [Sven-Bo/excel-add-in-tutorial-template](https://github.com/Sven-Bo/excel-add-in-tutorial-template) - This tutorial shows you how to create a custom Excel add-in to boost your productivity and add new functionality to Excel. Learn how to create macros, customize the ribbon and toolbar, and distribute 
 - [x-vba/xplus](https://github.com/x-vba/xplus) - Excel Function Library
