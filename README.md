@@ -1967,6 +1967,7 @@
 - [asdf-community/infrastructure](https://github.com/asdf-community/infrastructure) - Infrastructure configuration files
 - [OctopusDeploy/HCLParser](https://github.com/OctopusDeploy/HCLParser) - | Public |
 - [Azure/terraform-azurerm-virtual-machine](https://github.com/Azure/terraform-azurerm-virtual-machine) - Terraform Azure RM Virtual Machine Module
+- [amido/stacks-azure-data](https://github.com/amido/stacks-azure-data) - 
 - [claranet/terraform-azurerm-rg](https://github.com/claranet/terraform-azurerm-rg) - Terraform module for Azure Resource Group
 - [Azure/terraform-azurerm-openai](https://github.com/Azure/terraform-azurerm-openai) - Terraform module for deploying Azure OpenAI Service.
 - [gettek/terraform-azurerm-policy-as-code](https://github.com/gettek/terraform-azurerm-policy-as-code) - Terraform modules that simplify the workflow of custom and built-in Azure Policies
@@ -7375,8 +7376,7 @@
 - [aaomidi/certbot-dns-google-domains](https://github.com/aaomidi/certbot-dns-google-domains) - Google Domains plugin for Certbot.
 - [mohit2152sharma/rewiser-gpt](https://github.com/mohit2152sharma/rewiser-gpt) - Revise your daily devlogs with openai's gpt
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
-- [amido/stacks-azure-data](https://github.com/amido/stacks-azure-data) - 
-- [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Join us at H2O.ai to make the world's best open-source GPT with document and image Q&A, 100% private chat, no data leaks, Apache 2.0 https://arxiv.org/pdf/2306.08161.pdf   Live Demo: https://gpt.h2o.a
+- [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private Q&A and summarization of documents+images or chat with local GPT, 100% private, no data leaks, Apache 2.0. Demo: https://gpt.h2o.ai/
 - [lencx/chat-todo-plugin](https://github.com/lencx/chat-todo-plugin) - ✅ ChatGPT Plugin for managing a TODO list
 - [steamship-core/multimodal-agent-starter](https://github.com/steamship-core/multimodal-agent-starter) - 
 - [steamship-core/python-client](https://github.com/steamship-core/python-client) - 
@@ -8635,7 +8635,7 @@
 - [lggruspe/slipbox](https://github.com/lggruspe/slipbox) - A static site generator for Zettelkasten notes
 - [djplaner/memex](https://github.com/djplaner/memex) - Nascent attempt at using Foam to curate and leverage a personal memex
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
-- [mlcommons/ck](https://github.com/mlcommons/ck) - MLCommons CM is a technology-agnostic language to automate experiments, facilitate reproducible research, and accelerate technology transfer across rapidly evolving software, hardware, models, and dat
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge tools provide a unified interface to access all shared knowledge (research projects, experiments, AI/ML models, code and data) while facilitating reproducible research and transfe
 - [bhrigu123/classifier](https://github.com/bhrigu123/classifier) - Organize files in your directory instantly, by classifying them into different folders
 - [mcharleb/gittagstats](https://github.com/mcharleb/gittagstats) - 
 - [jctanner/ansible-tools](https://github.com/jctanner/ansible-tools) - 
@@ -14569,6 +14569,7 @@
 - [GustavBrock/VBA.Compress](https://github.com/GustavBrock/VBA.Compress) - Zip/unzip or cab/decab files and folders in VBA
 - [VirtualActuary/zebra-vba-packager](https://github.com/VirtualActuary/zebra-vba-packager) - A system for aggregating and mapping VBA projects from different sources into a single library
 - [VirtualActuary/MiscVBAFunctions](https://github.com/VirtualActuary/MiscVBAFunctions) - A collection of standalone VBA functions to easily use in other projects.
+- [serkonda7/vscode-vba](https://github.com/serkonda7/vscode-vba) - VBA and WWB language extension to use with VS Code.
 - [costiagur/incell](https://github.com/costiagur/incell) - An excel function to convert references to numbers in the referenced cells to show description of a formula in the referenced range
 - [TheMayoras/VBA-Helpers](https://github.com/TheMayoras/VBA-Helpers) - Some VBA classes I found useful
 - [BriargateExcel/AddingVBARibbonElements](https://github.com/BriargateExcel/AddingVBARibbonElements) - VBA code to add Custom Toolbars to the Excel Ribbon
@@ -14658,7 +14659,7 @@
 - [DangerMouseB/VBVBACommon](https://github.com/DangerMouseB/VBVBACommon) - Common VB files suitable for XL VBA and VB6
 - [DangerMouseB/VB6Common](https://github.com/DangerMouseB/VB6Common) - Various VB6 utilities
 - [AnHerbWorm/DataAnalysis](https://github.com/AnHerbWorm/DataAnalysis) - Modules (VBA/Python) and Queries (Power Query M) for common data analysis and reporting tasks.
-- [warbe-maker/VBA-Component-Management](https://github.com/warbe-maker/VBA-Component-Management) - Common VBA Component Management with focus on Excel providing: Automated export of changed components, automated update of used Common-Components, Excel VB-Project-Synchronization..
+- [warbe-maker/VBA-Component-Management](https://github.com/warbe-maker/VBA-Component-Management) - Common VBA Component Management: The automated services Export (any component the code has changed), Update (any outdated "Used Common Component"), and Synchronize (the VB-Project of two Workbooks) on
 - [warbe-maker/VBA-Message](https://github.com/warbe-maker/VBA-Message) - Common VBA Message Service as an elaborated alternative to the VBA.MsgBox. No size limit, up to 49 reply buttons with `Application.Run` capability, etc.
 - [HALTEC/VBA-commons-lib](https://github.com/HALTEC/VBA-commons-lib) - A collection of basic auxiliary classes and modules to complement VBA.
 - [ColmBhandal/VbaSync](https://github.com/ColmBhandal/VbaSync) - Vba code for the import/export of other Vba code- for Vba version control.
@@ -14935,7 +14936,6 @@
 
 ## Visual Basic 6.0 
 
-- [serkonda7/vscode-vba](https://github.com/serkonda7/vscode-vba) - VBA and WWB language extension to use with VS Code.
 - [EduardoVB/ProjectExaminer](https://github.com/EduardoVB/ProjectExaminer) - VB6 AddIn. Find controls, list captions and replace fonts
 - [EduardoVB/ComponentDocumenter](https://github.com/EduardoVB/ComponentDocumenter) - For documenting ActiveX components
 - [OlimilO1402/DB_SmartADB](https://github.com/OlimilO1402/DB_SmartADB) - beta-version, small address database, with file in step-format,
