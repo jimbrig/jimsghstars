@@ -482,6 +482,7 @@
 
 ## C# # 
 
+- [Azure-Samples/azure-search-dotnet-utilities](https://github.com/Azure-Samples/azure-search-dotnet-utilities) - C# code samples that help with admin or development tasks in Azure Cognitive Search.
 - [NetOfficeFw/Samples](https://github.com/NetOfficeFw/Samples) - 🎓 Sample projects using NetOffice libraries.
 - [NetOfficeFw/AddInSpy](https://github.com/NetOfficeFw/AddInSpy) - AddInSpy is a diagnostic tool that discovers all registered Microsoft Office add-ins on a computer.
 - [rossknudsen/Kavod.Vba.Compression](https://github.com/rossknudsen/Kavod.Vba.Compression) - Implementation of the compression algorithm used in VBA projects within MS Office applications in C#
@@ -1519,6 +1520,7 @@
 
 ## Go 
 
+- [lesovsky/pgcenter](https://github.com/lesovsky/pgcenter) - Command-line admin tool for observing and troubleshooting Postgres.
 - [cemister/scaffolder](https://github.com/cemister/scaffolder) - CLI tool to instantly generate skeleton project structure with boilerplate code, that's taken from configurable YAML file, to quickly kick-start your project
 - [pauloo27/tuner](https://github.com/pauloo27/tuner) - 🎵 Search and Play songs from YouTube inside your terminal
 - [anshumanbh/git-all-secrets](https://github.com/anshumanbh/git-all-secrets) - A tool to capture all the git secrets by leveraging multiple open source git searching tools
@@ -2116,7 +2118,7 @@
 - [meeuw/unattended-windows-10](https://github.com/meeuw/unattended-windows-10) - Packer templates to install Windows 10 Evaluation using the qemu/kvm builder.
 - [terraform-google-modules/terraform-google-bootstrap](https://github.com/terraform-google-modules/terraform-google-bootstrap) - Bootstraps Terraform usage and related CI/CD in a new Google Cloud organization
 - [dhoer/terraform_examples](https://github.com/dhoer/terraform_examples) - Terraform AWS Windows examples
-- [marcinbojko/hv-packer](https://github.com/marcinbojko/hv-packer) - Hyper-V Generation 2 Packer Templates for Windows 2016/2019/2022, CentOS 7.x/AlmaLinux 8.x/AlmaLinux 9.x/RockyLinux 8.x/9.x/OracleLinux 8.x/Ubuntu 20.04/Ubuntu 22.04
+- [marcinbojko/hv-packer](https://github.com/marcinbojko/hv-packer) - Hyper-V Generation 2 Packer Templates for Windows 2016/2019/2022, CentOS 7x/AlmaLinux 8.x/AlmaLinux 9.x/RockyLinux 8.x/9.x/OracleLinux 8.x/9.x Ubuntu 20.04/Ubuntu 22.04
 - [GoogleCloudPlatform/solutions-terraform-cloudbuild-gitops](https://github.com/GoogleCloudPlatform/solutions-terraform-cloudbuild-gitops) - 
 - [ryboe/private-ip-cloud-sql-db](https://github.com/ryboe/private-ip-cloud-sql-db) - An example set of terraform files for deploying a Cloud SQL DB with a private IP address only
 - [robwleack/terraform-gcp-keys-example](https://github.com/robwleack/terraform-gcp-keys-example) - An example of how you could define cryptographic keys and bindings in a complex object using for_each
@@ -2135,6 +2137,7 @@
 
 ## HTML 
 
+- [lakecountryhuntclub/design-kit](https://github.com/lakecountryhuntclub/design-kit) - LCHC Design Kit and Brand Assets
 - [TimTeaFan/tt_website](https://github.com/TimTeaFan/tt_website) - 
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
 - [secretGeek/today-i-learned](https://github.com/secretGeek/today-i-learned) - My notes from continual learning 🤔💡📗
@@ -2987,6 +2990,8 @@
 
 ## JavaScript 
 
+- [not-a-bank/open-banking-tracker-data](https://github.com/not-a-bank/open-banking-tracker-data) - The open banking API directory
+- [Shopify/shopify-app-template-remix](https://github.com/Shopify/shopify-app-template-remix) - 
 - [EliasSbehat/easy-dev-template](https://github.com/EliasSbehat/easy-dev-template) - React Template
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [Azure-Samples/containerapps-albumui](https://github.com/Azure-Samples/containerapps-albumui) - Container Apps Quickstart: Album UI
@@ -4556,6 +4561,8 @@
 
 ## Liquid 
 
+- [jimbrig/shopify-dawn-theme](https://github.com/jimbrig/shopify-dawn-theme) - Default Shopify "Dawn" Store Theme
+- [lakecountryhuntclub/website-theme](https://github.com/lakecountryhuntclub/website-theme) - 
 - [anstosa/grosinger.dev](https://github.com/anstosa/grosinger.dev) - 
 - [allejo/jekyll-toc](https://github.com/allejo/jekyll-toc) - A GitHub Pages compatible Table of Contents generator without a plugin or JavaScript :octocat:
 
@@ -4742,8 +4749,9 @@
 
 ## Others 
 
-- [Azure-Samples/azure-search-dotnet-utilities](https://github.com/Azure-Samples/azure-search-dotnet-utilities) - C# code samples that help with admin or development tasks in Azure Cognitive Search.
-- [lakecountryhuntclub/design-kit](https://github.com/lakecountryhuntclub/design-kit) - LCHC Design Kit and Brand Assets
+- [lakecountryhuntclub/operations](https://github.com/lakecountryhuntclub/operations) - Operations Documentation
+- [lakecountryhuntclub/lakecountryhuntclub.github.io](https://github.com/lakecountryhuntclub/lakecountryhuntclub.github.io) - Root "docs" repository for https://docs.lakecountryhuntclub.com.
+- [Shopify/awesome-hydrogen](https://github.com/Shopify/awesome-hydrogen) - A curated list of awesome Hydrogen things.
 - [jozefizso/DebugDiag](https://github.com/jozefizso/DebugDiag) - Debug Diagnostic Tool archive.
 - [jozefizso/macro-sign](https://github.com/jozefizso/macro-sign) - 
 - [jozefizso/apimonitor](https://github.com/jozefizso/apimonitor) - 
@@ -5855,7 +5863,7 @@
 - [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs) - A curated list of awesome things related to NestJS 😎
 - [onqtam/awesome-cmake](https://github.com/onqtam/awesome-cmake) - A curated list of awesome CMake resources, scripts, modules and examples.
 - [secfigo/Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) - A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Developme
-- [nuxt-community/awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) - A curated list of awesome things related to Nuxt.js
+- [nuxt/awesome](https://github.com/nuxt/awesome) - A curated list of awesome things related to Nuxt.js
 - [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 - [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - A curated list of Chaos Engineering resources.
 - [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
@@ -7354,7 +7362,7 @@
 - [Daksh777/windows10-debloat](https://github.com/Daksh777/windows10-debloat) - Collection of various scripts and apps to debloat Windows 10 for better privacy, performance and optimization.
 - [gordonbay/Windows-On-Reins](https://github.com/gordonbay/Windows-On-Reins) - Wor is a Powershell script to harden, debloat, optimize, enhance privacy, avoid fingerprinting and improve performance on Windows 10 and 11.
 - [VincentXE/Longhorn](https://github.com/VincentXE/Longhorn) - Windows 10 Debloater
-- [Raphire/Win10Debloat](https://github.com/Raphire/Win10Debloat) - A simple powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. Th
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. Th
 - [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Enhance the security and privacy of your Windows 10 and Windows 11 deployments with our fully optimized, hardened, and debloated script. Adhere to industry best practices and Department of Defense STI
 - [WurstCommander/Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove) - A Powershell-Script for removing / debloating Windows 10 apps. Mandatory apps which can't be uninstalled via start menu will be removed too.
 - [DrEmpiricism/Optimize-Offline](https://github.com/DrEmpiricism/Optimize-Offline) - Optimize-Offline is a Windows 10 offline image optimization framework.
@@ -7435,6 +7443,9 @@
 
 ## Python 
 
+- [gregs1104/pgtune](https://github.com/gregs1104/pgtune) - PostgreSQL configuration wizard
+- [dalibo/pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring.
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [techboy-coder/mmdl](https://github.com/techboy-coder/mmdl) - MMDL (Mega Music Downloader) - A tool to easily download music.
 - [yask123/AutoScreenshotUploader](https://github.com/yask123/AutoScreenshotUploader) - Automagically captures the screenshot of the screen , uploads in imgurl , copies the url into clipboard , deletes the created image file from your desktop
 - [ianzhao05/textshot](https://github.com/ianzhao05/textshot) - Python tool for grabbing text via screenshot
@@ -8120,7 +8131,7 @@
 - [certik/theoretical-physics](https://github.com/certik/theoretical-physics) - Source code of the Theoretical Physics Reference online book
 - [miguelgrinberg/flasky](https://github.com/miguelgrinberg/flasky) - Companion code to my O'Reilly book "Flask Web Development", second edition.
 - [backblaze-b2-samples/b2-python-s3-sample](https://github.com/backblaze-b2-samples/b2-python-s3-sample) - B2 Quick Start Sample App using Python (boto3) and B2 S3 Compatible API.  First in series. This sample app integrates with a pre-staged B2 bucket. See README.md for details.
-- [meltano/meltano](https://github.com/meltano/meltano) - Extract & Load with joy — CLI & version control for ELT without limitations. No more black box. Let your creativity flow.
+- [meltano/meltano](https://github.com/meltano/meltano) - Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations.
 - [polynimbus/polynimbus](https://github.com/polynimbus/polynimbus) - Multi-cloud infrastructure inventory and management tool, supporting AWS, Google Cloud, Azure, Oracle Cloud, Rackspace Cloud, Hetzner Cloud, Alibaba Cloud, e24cloud.com, Linode, Cloudflare, GoDaddy an
 - [sibblegp/b2blaze](https://github.com/sibblegp/b2blaze) - b2blaze
 - [odwyersoftware/mega.py](https://github.com/odwyersoftware/mega.py) - Python library for the https://mega.nz/ API.
@@ -13750,7 +13761,6 @@
 - [heyjaywilson/DevDiary](https://github.com/heyjaywilson/DevDiary) - Developer Diary
 - [rwbutler/Connectivity](https://github.com/rwbutler/Connectivity) - 🌐 Makes Internet connectivity detection more robust by detecting Wi-Fi networks without Internet access.
 - [CoreOffice/CoreXLSX](https://github.com/CoreOffice/CoreXLSX) - Excel spreadsheet (XLSX) format parser written in pure Swift
-- [amosavian/FileProvider](https://github.com/amosavian/FileProvider) - FileManager replacement for Local, iCloud and Remote (WebDAV/FTP/Dropbox/OneDrive) files -- Swift
 - [BLeeEZ/amperfy](https://github.com/BLeeEZ/amperfy) - Amperfy is an iOS app to play songs from an Ampache or Subsonic server
 - [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
 - [GitHawkApp/GitHawk](https://github.com/GitHawkApp/GitHawk) - The (second) best iOS app for GitHub.
@@ -13888,6 +13898,10 @@
 
 ## TypeScript 
 
+- [AntonioErdeljac/next13-ai-saas](https://github.com/AntonioErdeljac/next13-ai-saas) - 
+- [opticdev/optic](https://github.com/opticdev/optic) - OpenAPI linting, diffing and testing. Optic helps prevent breaking changes, publish accurate documentation and improve the design of your APIs.
+- [motifland/markprompt-starter-template](https://github.com/motifland/markprompt-starter-template) - A starter template featuring the Markprompt React component
+- [motifland/markprompt](https://github.com/motifland/markprompt) - Enterprise-grade AI chatbots for your website and docs
 - [jozefizso/vite-plugin-office-addin](https://github.com/jozefizso/vite-plugin-office-addin) - 
 - [safak/typescript-tutorial](https://github.com/safak/typescript-tutorial) - 
 - [Azure-Samples/contoso-real-estate](https://github.com/Azure-Samples/contoso-real-estate) - Enterprise-grade Reference Architecture for JavaScript
