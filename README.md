@@ -485,6 +485,8 @@
 
 ## C# # 
 
+- [LizhuWeng/ExcelToJson](https://github.com/LizhuWeng/ExcelToJson) - A useful tool for converting MS Excel files(.xls or .xlsx) to Json type files
+- [tidys/excel2Json](https://github.com/tidys/excel2Json) - excel转Json工具
 - [wakatime/office-wakatime](https://github.com/wakatime/office-wakatime) - Office Solution add-ins for automatic time tracking and metrics generated from your programming activity.
 - [bytefish/ElasticsearchCodeSearch](https://github.com/bytefish/ElasticsearchCodeSearch) - Index and Search GitHub Repositories using Elasticsearch
 - [hasan-hasanov/ScoopBox](https://github.com/hasan-hasanov/ScoopBox) - ScoopBox is library that helps launch Windows Sandbox with preinstalled applications and/or with predefined scripts.
@@ -1083,6 +1085,8 @@
 
 ## CSS 
 
+- [hitchcliff/front-end-chatjs](https://github.com/hitchcliff/front-end-chatjs) - 
+- [WOLFRIEND/skeleton-mammoth](https://github.com/WOLFRIEND/skeleton-mammoth) - Skeleton Mammoth - a powerful JavaScript library designed to enhance user experience by displaying UI skeleton loaders, also known as placeholders. It allows you to simulate the layout or elements of 
 - [patrickloeber/chatbot-deployment](https://github.com/patrickloeber/chatbot-deployment) - Deployment of PyTorch chatbot with Flask
 - [datadotworld/data.world-r](https://github.com/datadotworld/data.world-r) - R library for data.world
 - [OfficeDev/Excel-Content-Add-in-Humongous-Insurance](https://github.com/OfficeDev/Excel-Content-Add-in-Humongous-Insurance) - The Humongous Insurance content add-in shows how you can use the new JavaScript API for Microsoft Excel 2016 to create a compelling Excel add-in.
@@ -1528,6 +1532,10 @@
 
 ## Go 
 
+- [ntnj/tunwg](https://github.com/ntnj/tunwg) - Secure private tunnel to your local servers
+- [WillAbides/bindown](https://github.com/WillAbides/bindown) - 
+- [WillAbides/release-train](https://github.com/WillAbides/release-train) - 
+- [shurco/goclone](https://github.com/shurco/goclone) - 🌱 goclone - clone websites in a matter of seconds
 - [edahlseng/terraform-provider-shopify](https://github.com/edahlseng/terraform-provider-shopify) - 
 - [lesovsky/pgcenter](https://github.com/lesovsky/pgcenter) - Command-line admin tool for observing and troubleshooting Postgres.
 - [cemister/scaffolder](https://github.com/cemister/scaffolder) - CLI tool to instantly generate skeleton project structure with boilerplate code, that's taken from configurable YAML file, to quickly kick-start your project
@@ -2146,6 +2154,10 @@
 
 ## HTML 
 
+- [fmhy/FMHYedit](https://github.com/fmhy/FMHYedit) - Make changes to FMHY
+- [mprimi/portable-secret](https://github.com/mprimi/portable-secret) - Better privacy without special software
+- [eylenburg/wei_warning](https://github.com/eylenburg/wei_warning) - Warning banner if a user's browser supports Web Environment Integrity (WEI), can be embedded on websites to nudge people to switch to a better browser.
+- [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [lakecountryhuntclub/operations](https://github.com/lakecountryhuntclub/operations) - Operations Documentation
 - [lakecountryhuntclub/design-kit](https://github.com/lakecountryhuntclub/design-kit) - LCHC Design Kit and Brand Assets
 - [TimTeaFan/tt_website](https://github.com/TimTeaFan/tt_website) - 
@@ -2870,6 +2882,7 @@
 
 ## Java 
 
+- [hellokaton/excel-plus](https://github.com/hellokaton/excel-plus) - ❇️ Improve the productivity of the Excel operation library. https://hellokaton.github.io/excel-plus/#/
 - [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.
 - [lightbody/browsermob-proxy](https://github.com/lightbody/browsermob-proxy) - A free utility to help web developers watch and manipulate network traffic from their AJAX applications.
 - [muhammad-taha1/modern-application](https://github.com/muhammad-taha1/modern-application) - a way to create modern apps
@@ -3002,6 +3015,13 @@
 
 ## JavaScript 
 
+- [thdoan/mr-data-converter](https://github.com/thdoan/mr-data-converter) - Set your spreadsheet data free.
+- [photogabble/website](https://github.com/photogabble/website) - 2021-2023 Eleventy build
+- [ikedaosushi/tech-news](https://github.com/ikedaosushi/tech-news) - DailyTechNews
+- [ykdojo/kaguya](https://github.com/ykdojo/kaguya) - A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script.
+- [shusain/chat-gpt-local-history](https://github.com/shusain/chat-gpt-local-history) - A Chrome Extension that uses your local history to find previous chatgpt links and lists them (in case chatgpt history is broken)
+- [paul-gauthier/easy-chat](https://github.com/paul-gauthier/easy-chat) - A ChatGPT UI for young readers, written by ChatGPT
+- [Utkarshn10/Focusly](https://github.com/Utkarshn10/Focusly) - Open source app to remain focused during your deep work sessions.
 - [vitalybe/radio-stream](https://github.com/vitalybe/radio-stream) - A personal music streaming solution
 - [irskep/summertunes](https://github.com/irskep/summertunes) - A web-based music player for Beets
 - [not-a-bank/open-banking-tracker-data](https://github.com/not-a-bank/open-banking-tracker-data) - The open banking API directory
@@ -3707,7 +3727,6 @@
 - [bunsn/boiler-bookmarklet](https://github.com/bunsn/boiler-bookmarklet) - Download financial transactions as a CSV with a bookmarklet.
 - [bunsn/boiler](https://github.com/bunsn/boiler) - Simplify the task of exporting financial data from banking websites.
 - [benweet/stackedit.js](https://github.com/benweet/stackedit.js) - Add StackEdit to any website
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [sapegin/mrm](https://github.com/sapegin/mrm) - Codemods for your project config files
 - [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [fireship-io/3.1-firebase-basics](https://github.com/fireship-io/3.1-firebase-basics) - Firebase - The Basics
@@ -4764,6 +4783,10 @@
 
 ## Others 
 
+- [TheEricBurnett/Excellent-JSON](https://github.com/TheEricBurnett/Excellent-JSON) - Excel file with macro that converts Excel data to JSON. Accompanying tutorial: https://www.youtube.com/watch?v=YgwUS9vvTTU
+- [zenany/weekly](https://github.com/zenany/weekly) - 汇总平时看到的好文章，前端技术 & 产品研发为主...
+- [anakic/querystorm-docs](https://github.com/anakic/querystorm-docs) - 
+- [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
 - [Sage-Bionetworks/data_curator_config](https://github.com/Sage-Bionetworks/data_curator_config) - Project configurations for the Data Curator App
 - [omnivore-app/docs.omnivore](https://github.com/omnivore-app/docs.omnivore) - Documentation for the Omnivore project, build with vitepress
 - [redhat-documentation/supplementary-style-guide](https://github.com/redhat-documentation/supplementary-style-guide) - This project maintains the Red Hat supplementary style guide for product documentation that supplements the IBM Style guide
@@ -6098,6 +6121,7 @@
 
 ## PHP 
 
+- [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform
 - [BrandonXLF/linkcount](https://github.com/BrandonXLF/linkcount) - Web program to see the number of links to a page in any Wikimedia project.
 - [butschster/dbml-parser](https://github.com/butschster/dbml-parser) - DBML parser for PHP8. It's a PHP parser for DBML syntax.
 - [henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker) - Continuously track your internet speed
@@ -7474,6 +7498,11 @@
 
 ## Python 
 
+- [luozhijian/jupyterexcel](https://github.com/luozhijian/jupyterexcel) - Jupyter Extension make notebooks as web api return Json for Excel to Call
+- [openai/plugins-quickstart](https://github.com/openai/plugins-quickstart) - Get a ChatGPT plugin up and running in under 5 minutes!
+- [hegelai/prompttools](https://github.com/hegelai/prompttools) - Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate).
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain
+- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is GPT powered coding in your terminal
 - [Schweinepriester/beets-itunesimport](https://github.com/Schweinepriester/beets-itunesimport) - Plugin for beets to automatically add imported albums to iTunes
 - [alastair/python-musicbrainzngs](https://github.com/alastair/python-musicbrainzngs) - Python bindings for Musicbrainz' NGS webservice
 - [hashhar/jsonschema2sql](https://github.com/hashhar/jsonschema2sql) - Generate CREATE TABLE statements from JSON schema
@@ -8209,7 +8238,7 @@
 - [NitinSPatil15/Project-3-Data-Warehouse-with-AWS](https://github.com/NitinSPatil15/Project-3-Data-Warehouse-with-AWS) - An ETL pipeline that extracts data from S3, stages them in Redshift, and transforms data into a set of dimensional tables
 - [databand-ai/databand_templates](https://github.com/databand-ai/databand_templates) - Templates for monitoring your data lake and warehouses.
 - [PeachstoneIO/peachbox](https://github.com/PeachstoneIO/peachbox) - Python based data warehouse solution for the Lambda Architecture.
-- [vmware/versatile-data-kit](https://github.com/vmware/versatile-data-kit) - Build, run and manage your data pipelines with Python or SQL on any cloud
+- [vmware/versatile-data-kit](https://github.com/vmware/versatile-data-kit) - Build, run and manage your data pipelines with Python or SQL.
 - [openspending/spendb](https://github.com/openspending/spendb) - Next-gen web application for public finance data warehouses, formerly OpenSpending
 - [devlace/datadevops](https://github.com/devlace/datadevops) - How DevOps principles can be applied to Data Pipeline Solution built with Azure Databricks, Data Factory and ADL Gen2. Moved to: https://github.com/Azure-Samples/modern-data-warehouse-dataops
 - [mikekaminsky/dbt-helper](https://github.com/mikekaminsky/dbt-helper) - A helper tool for dbt development and data warehouse management.
@@ -9027,6 +9056,15 @@
 
 ## R 
 
+- [ex0ticOne/TheoremRiskAuto](https://github.com/ex0ticOne/TheoremRiskAuto) - Projeto constituído de um conjunto de scripts para precificação de seguro auto com base nos datasets do sistema Autoseg da SUSEP
+- [kasaai/lapseml](https://github.com/kasaai/lapseml) - Explainable Machine Learning Approaches for Shock Lapse Modeling
+- [mhliu0419/PensionBenefit_Calculator](https://github.com/mhliu0419/PensionBenefit_Calculator) - This project uses data sets of retirees, tvs and active employees to calculate their pension benefit.
+- [brad-cannell/freqtables](https://github.com/brad-cannell/freqtables) - Quickly make tables of descriptive statistics (i.e., counts, percentages, confidence intervals) for categorical variables. This package is designed to work in a tidyverse pipeline, and consideration h
+- [ryanddyi/prism](https://github.com/ryanddyi/prism) - 
+- [btbeal/adheRenceRX](https://github.com/btbeal/adheRenceRX) - A package of helper functions to assist in flexible medication adherence assessment
+- [cran/DCL](https://github.com/cran/DCL) - :exclamation: This is a read-only mirror of the CRAN R package repository.  DCL — Claims Reserving under the Double Chain Ladder Model
+- [cran/NetSimR](https://github.com/cran/NetSimR) - :exclamation: This is a read-only mirror of the CRAN R package repository.  NetSimR — Actuarial Functions for Non-Life Insurance Modelling
+- [GokulSuseendran/Insurance-Fraud-Prediction](https://github.com/GokulSuseendran/Insurance-Fraud-Prediction) - The objective of the project is to predict the risk of auto Insurance fraud using Logistic Regression.
 - [waldronlab/curatedMetagenomicDataCuration](https://github.com/waldronlab/curatedMetagenomicDataCuration) - Sample Metadata Curation for curatedMetagenomicData
 - [andrewallenbruce/provider](https://github.com/andrewallenbruce/provider) - :package: Access Public Healthcare Provider Data in R
 - [AbbasDidar/Fraud-Detection](https://github.com/AbbasDidar/Fraud-Detection) - Fraud Detection in Health Insurance
@@ -12839,6 +12877,9 @@
 
 ## Rust 
 
+- [thistletech/thistle-yocto-build](https://github.com/thistletech/thistle-yocto-build) - Simple yocto build helper tool
+- [jmaczan/xiexie](https://github.com/jmaczan/xiexie) - 🎐 Static site generator
+- [jmaczan/pff](https://github.com/jmaczan/pff) - 📡 Examine your Internet connection quality and status in terminal
 - [lovasoa/SQLpage](https://github.com/lovasoa/SQLpage) - SQL-only webapp builder, empowering data analysts to build websites and applications quickly
 - [mrchypark/hwpr](https://github.com/mrchypark/hwpr) - https://github.com/hahnlee/hwp-rs for R
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
@@ -13097,6 +13138,10 @@
 
 ## Shell 
 
+- [hoffa/gh-backup](https://github.com/hoffa/gh-backup) - Zero-config script to backup GitHub repos and gists
+- [WillAbides/bindown-templates](https://github.com/WillAbides/bindown-templates) - 
+- [steventkrawczyk/Awesome-LLMOps](https://github.com/steventkrawczyk/Awesome-LLMOps) - An awesome & curated list of best LLMOps tools for developers
+- [jmaczan/repeat-sh](https://github.com/jmaczan/repeat-sh) - 🕰️ Repeat any shell command with interval
 - [bardisty/dotfiles](https://github.com/bardisty/dotfiles) - :penguin: dotfiles - Linux config files (beets, cmus, dunst, git, GnuPG, i3, mpv, ranger, rofi, sxhkd, X11, zsh)
 - [hashhar/picard-beets-config](https://github.com/hashhar/picard-beets-config) - MusicBrainz Picard tagger scripts, config and beets config
 - [ctrueden/dotfiles](https://github.com/ctrueden/dotfiles) - My configuration files 🤓
@@ -13948,6 +13993,13 @@
 
 ## TypeScript 
 
+- [lowczarc/ai-tests](https://github.com/lowczarc/ai-tests) - Simple tool to generate unit tests/unit tests boilerplate automagically
+- [rewindui/rewindui](https://github.com/rewindui/rewindui) - A React component library for building modern web applications using Tailwind CSS.
+- [jmaczan/funkcja](https://github.com/jmaczan/funkcja) - 🖇️ Log function body and name to browser's console
+- [jmaczan/spellbook](https://github.com/jmaczan/spellbook) - Shell and Powershell scripts registry
+- [dcalacci/gigbox](https://github.com/dcalacci/gigbox) - Gigbox is an open-source tracker for gig workers, letting workers export their data while sharing it with researchers.
+- [RicardoValdovinos/vite-react-boilerplate](https://github.com/RicardoValdovinos/vite-react-boilerplate) - A production ready, scalable starter template for Vite + React
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted, open-source collaborative bookmark manager to collect, organize and archive webpages.
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [pvojtechovsky/obsidian-link-with-alias](https://github.com/pvojtechovsky/obsidian-link-with-alias) - Obsidian plugin for handy creation of links and alias in front matter of target document
 - [Shopify/hydrogen](https://github.com/Shopify/hydrogen) - Hydrogen is Shopify’s stack for headless commerce. It provides a set of tools, utilities, and best-in-class examples for building dynamic and performant commerce applications. Hydrogen is designed to 
@@ -14438,7 +14490,7 @@
 - [dominique-mueller/hugo-installer](https://github.com/dominique-mueller/hugo-installer) - Installs hugo into your repository.
 - [jcs090218/setup-emacs-windows](https://github.com/jcs090218/setup-emacs-windows) - A Github Action that installs a specific emacs version
 - [mrmartineau/gatsby-theme-code-notes](https://github.com/mrmartineau/gatsby-theme-code-notes) - A Gatsby theme for publishing code-related notes to your website
-- [meshcloud/collie-cli](https://github.com/meshcloud/collie-cli) - Collie CLI allows you to manage your AWS, Azure & GCP cloud landscape through a single view.
+- [meshcloud/collie-cli](https://github.com/meshcloud/collie-cli) - Build and Deploy modular landing zones with collie on AWS, Azure & GCP
 - [auth0/nextjs-auth0](https://github.com/auth0/nextjs-auth0) - Next.js SDK for signing in with Auth0
 - [dy-sh/obsidian-unique-attachments](https://github.com/dy-sh/obsidian-unique-attachments) - Obsidian plugin. Renames attachments, making their names unique.
 - [styxlab/next-cms-ghost](https://github.com/styxlab/next-cms-ghost) - Publish flaring fast blogs with Next.js and Ghost CMS
@@ -14528,6 +14580,7 @@
 - [google-github-actions/get-secretmanager-secrets](https://github.com/google-github-actions/get-secretmanager-secrets) - A GitHub Action for accessing secrets from Google Secret Manager and making them available as outputs.
 - [google-github-actions/deploy-cloudrun](https://github.com/google-github-actions/deploy-cloudrun) - A GitHub Action for deploying services to Google Cloud Run.
 - [jpoehnelt/secrets-sync-action](https://github.com/jpoehnelt/secrets-sync-action) - A Github Action that can sync secrets from one repository to many others.
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [crowi/crowi](https://github.com/crowi/crowi) - Crowi - The Markdown Wiki - Empower the team with sharing your knowledge
 - [wellyshen/use-places-autocomplete](https://github.com/wellyshen/use-places-autocomplete) - 😎 📍 React hook for Google Maps Places Autocomplete.
 - [JustFly1984/react-google-maps-api](https://github.com/JustFly1984/react-google-maps-api) - React Google Maps API
@@ -15157,6 +15210,7 @@
 
 ## Vue 
 
+- [webpilot-ai/Webpilot](https://github.com/webpilot-ai/Webpilot) - 
 - [staniel359/muffon](https://github.com/staniel359/muffon) - Music streaming browser
 - [isontic/Specter-Website](https://github.com/isontic/Specter-Website) - Specter for Stats.fm Website built on Nuxt.js + Vue
 - [OkayHQ/ee-handbook](https://github.com/OkayHQ/ee-handbook) - Engineering Effectiveness Handbook
