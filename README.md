@@ -66,6 +66,7 @@
 - [Liquid](#liquid)
 - [LiveScript](#livescript)
 - [Lua](#lua)
+- [M](#m)
 - [M4](#m4)
 - [MATLAB](#matlab)
 - [MDX](#mdx)
@@ -156,6 +157,7 @@
 
 ## Astro 
 
+- [OliverSpeir/notes](https://github.com/OliverSpeir/notes) - 
 - [brpaz/brunopaz.dev](https://github.com/brpaz/brunopaz.dev) - Sources for my personal website
 - [getbem/getbem.github.io](https://github.com/getbem/getbem.github.io) - Get BEM to all people in simplest way
 - [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
@@ -1093,6 +1095,9 @@
 
 ## CSS 
 
+- [dvdmtw98/notes](https://github.com/dvdmtw98/notes) - Repository to store my makdown notes
+- [krios2146/obsidian-theme-github](https://github.com/krios2146/obsidian-theme-github) - Theme for Obsidian inspired by GitHub color scheme
+- [openai/openai-quickstart-python](https://github.com/openai/openai-quickstart-python) - Python example app from the OpenAI API quickstart tutorial
 - [catppuccin/obsidian](https://github.com/catppuccin/obsidian) - 💎 Soothing pastel theme for Obsidian
 - [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Personal theme for Obsidian
 - [jimbrig/aider-app](https://github.com/jimbrig/aider-app) - Flask app
@@ -2015,6 +2020,7 @@
 
 ## HCL 
 
+- [alkoclick/dotfiles](https://github.com/alkoclick/dotfiles) - Alkoclick's dotfiles
 - [asdf-community/infrastructure](https://github.com/asdf-community/infrastructure) - Infrastructure configuration files
 - [OctopusDeploy/HCLParser](https://github.com/OctopusDeploy/HCLParser) - | Public |
 - [Azure/terraform-azurerm-virtual-machine](https://github.com/Azure/terraform-azurerm-virtual-machine) - Terraform Azure RM Virtual Machine Module
@@ -2165,6 +2171,9 @@
 
 ## HTML 
 
+- [errbufferoverfl/garden.errbufferoverfl.me](https://github.com/errbufferoverfl/garden.errbufferoverfl.me) - 🌱 Personal Website v3.0
+- [JacobLezberg/adventure-log](https://github.com/JacobLezberg/adventure-log) - Content and infrastructure for publishing a record of wizard gambling shenanigans
+- [ben-aaron188/rgpt3](https://github.com/ben-aaron188/rgpt3) - Making requests from R to ChatGPT and the GPT-3 API
 - [ivelasq/rladies-video-feed](https://github.com/ivelasq/rladies-video-feed) - R-Ladies Video Feed R Markdown Dashboard
 - [business-science/free_r_tips](https://github.com/business-science/free_r_tips) - Free R-Tips is a FREE Newsletter provided by Business Science. It comes with bite-sized code tutorials every week.
 - [jimbrig/mslearn-tailspin-spacegame-web](https://github.com/jimbrig/mslearn-tailspin-spacegame-web) - Code used in Microsoft Learn modules to support Azure DevOps
@@ -2369,7 +2378,6 @@
 - [jhelvy/jhelvy_distill](https://github.com/jhelvy/jhelvy_distill) - Source files for my personal website, built using the {distill} R package and deployed with netlify
 - [problemofpoints/noncat-modeling](https://github.com/problemofpoints/noncat-modeling) - Sample non-cat exposure model and simulation calculations
 - [nhs-r-community/Conference_2020](https://github.com/nhs-r-community/Conference_2020) - This repository holds the content for the NHS-R Community conference, November 2020.  Plenary session and lightning talk material will be shared in the relevant folders, and workshop details are below
-- [microsoft/CloudAdoptionFramework](https://github.com/microsoft/CloudAdoptionFramework) - Code samples and extended documentation to support the guidance provided in the Microsoft Cloud Adoption Framework
 - [samarth-p/College-ERP](https://github.com/samarth-p/College-ERP) - A college management system built using Django framework. It is designed for interactions between students and teachers. Features include attendance, marks and time table.
 - [hashicorp/learn-terraform-cloudflare-static-website](https://github.com/hashicorp/learn-terraform-cloudflare-static-website) - 
 - [jdhitsolutions/GitDevTest](https://github.com/jdhitsolutions/GitDevTest) - A practice and scratch Git repository.
@@ -2859,6 +2867,7 @@
 
 ## Haskell 
 
+- [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
 - [mb21/pandoc-placetable](https://github.com/mb21/pandoc-placetable) - Pandoc filter to include CSV data (from file or URL)
 - [acaprojects/m-tools](https://github.com/acaprojects/m-tools) - A collection a useful tools for building Microsoft Power BI queries
@@ -2898,6 +2907,7 @@
 
 ## Java 
 
+- [ebullient/ttrpg-convert-cli](https://github.com/ebullient/ttrpg-convert-cli) - Utility to convert JSON data (for content you own) from 5etools or pf2etools into Obsidian-friendly Markdown.
 - [natf17/shopify-embedded-app](https://github.com/natf17/shopify-embedded-app) - Enables any web app using Spring Security to operate as a Shopify embedded app.
 - [natf17/shopify-spring-boot-embedded-app](https://github.com/natf17/shopify-spring-boot-embedded-app) - A Spring Boot project that provides a template for creating an embedded application in the Shopify environment.
 - [hellokaton/excel-plus](https://github.com/hellokaton/excel-plus) - ❇️ Improve the productivity of the Excel operation library. https://hellokaton.github.io/excel-plus/#/
@@ -3033,6 +3043,10 @@
 
 ## JavaScript 
 
+- [Krakor92/some-custom-dataviews](https://github.com/Krakor92/some-custom-dataviews) - Some Obsidian dvjs views
+- [mayurankv/Obsidian-Code-Styler](https://github.com/mayurankv/Obsidian-Code-Styler) - A plugin for Obsidian.md for styling codeblocks and inline code
+- [gapmiss/croppie-for-obsidian](https://github.com/gapmiss/croppie-for-obsidian) - Image cropping plugin for Obsidian.md
+- [jukben/gbck](https://github.com/jukben/gbck) - 🗳 Intuitive lightweight tool for an easy and seamless backup of your files into Git repository
 - [adrianhajdin/project_next_13_ai_prompt_sharing](https://github.com/adrianhajdin/project_next_13_ai_prompt_sharing) - Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you
 - [auzanxp/googleMapsPolygon](https://github.com/auzanxp/googleMapsPolygon) - React-based web application that integrates with Google Maps API to visualize polygon areas on a map based on server data
 - [emmaliefmann/OC-projet3](https://github.com/emmaliefmann/OC-projet3) - 
@@ -4433,6 +4447,7 @@
 
 ## Jupyter Notebook 
 
+- [kafonek/noteable-euler-gpt](https://github.com/kafonek/noteable-euler-gpt) - Project Euler solutions using the Noteable plugin and ChatGPT
 - [jimsforks/medicare-fraud-detection](https://github.com/jimsforks/medicare-fraud-detection) - A machine learning based application to help detect fraud among Medicare practitioners.
 - [mohamed-lahna/medicare-fraud-detection](https://github.com/mohamed-lahna/medicare-fraud-detection) - A machine learning based application to help detect fraud among Medicare practitioners.
 - [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts) - 🚀 Curated collection of Awesome Python Scripts which will make you go wow. Dive into this world of 360+ scripts. Feel free to contribute. Show your support by ✨this repository.
@@ -4626,6 +4641,7 @@
 
 ## Lua 
 
+- [yutkat/dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: wezterm; Desktop: sway, ulauncher, dunst; OS: ArchLinux (Ubuntu/Fedora/CentOS)
 - [AkashRajpurohit/dotfiles](https://github.com/AkashRajpurohit/dotfiles) - 🗄 my dotfile configs
 - [jalvesaq/cmp-nvim-r](https://github.com/jalvesaq/cmp-nvim-r) - 
 - [chrisgrieser/.config](https://github.com/chrisgrieser/.config) - pseudometa's dotfiles
@@ -4660,6 +4676,10 @@
 - [Parth/dotfiles](https://github.com/Parth/dotfiles) - 
 - [benmarwick/pandanusisotopes](https://github.com/benmarwick/pandanusisotopes) - Research compendium
 
+## M 
+
+- [autonompost/podcasts-transcriptions](https://github.com/autonompost/podcasts-transcriptions) - Podcast Transcription Project
+
 ## M4 
 
 - [matejak/argbash](https://github.com/matejak/argbash) - Bash argument parsing code generator
@@ -4673,6 +4693,7 @@
 
 ## MDX 
 
+- [solderneer/memex](https://github.com/solderneer/memex) - A repository of notes and letters which make up my second brain
 - [vertigis/studio-dev-center](https://github.com/vertigis/studio-dev-center) - The VertiGIS Studio Developer Center website
 - [actuarialopensource/actuarialopensource.org](https://github.com/actuarialopensource/actuarialopensource.org) - Hello!
 - [abhith/abhith.net](https://github.com/abhith/abhith.net) - Personal website and blog running on Gatsby. Contains a collection of developer stories, videos, snippets, and tools grouped by topics.
@@ -4806,6 +4827,13 @@
 
 ## Others 
 
+- [underlines/awesome-marketing-datascience](https://github.com/underlines/awesome-marketing-datascience) - Curated list of useful LLM / Analytics / Datascience resources
+- [AlexiaChen/my-notes](https://github.com/AlexiaChen/my-notes) - A collection of my notes
+- [groepl/Obsidian-Zettelkasten-Starter-Kit](https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit) - A Starter Kit for Obsidian with all essential elements to build up your own Zettelkasten system.
+- [CarterFaceySmith/SecondBrain](https://github.com/CarterFaceySmith/SecondBrain) - Compiled notes on various concepts.
+- [okwilkins/knowledge-system](https://github.com/okwilkins/knowledge-system) - My personal notes and knowledge system for Obsidian.
+- [Maskscot/System-of-Practices-by-Maskscot](https://github.com/Maskscot/System-of-Practices-by-Maskscot) - A distilled version of my PKM system for anyone to use for their endeavors.
+- [arturoherrero/command-line-one-liners](https://github.com/arturoherrero/command-line-one-liners) - Command line one-liners.
 - [devops-collective-inc/big-book-of-powershell-gotchas](https://github.com/devops-collective-inc/big-book-of-powershell-gotchas) - 
 - [devops-collective-inc/creating-html-reports-in-powershell](https://github.com/devops-collective-inc/creating-html-reports-in-powershell) - 
 - [7368697661/Ultra-Lobster](https://github.com/7368697661/Ultra-Lobster) - Ultra Lobster offers a visually pleasing and comfortable working experience, with an emphasis on bringing rounded UI elements, modern design trends, and soft design choices to Obsidian.
@@ -6294,6 +6322,7 @@
 
 ## Perl 
 
+- [mente/dotfiles](https://github.com/mente/dotfiles) - YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen
 - [ironcamel/Graph-Easy](https://github.com/ironcamel/Graph-Easy) - Convert or render graphs (as ASCII, HTML, SVG or via Graphviz)
 - [Tarrasch/zsh-autoenv](https://github.com/Tarrasch/zsh-autoenv) - Autoenv for zsh
 - [davidsclarke/Excel-Template-XLSX](https://github.com/davidsclarke/Excel-Template-XLSX) - Excel-Template-XLSX - Create Excel .xlsx files starting from (one or more) template(s).
@@ -7010,6 +7039,7 @@
 - [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel) - PowerShell module to import/export Excel spreadsheets, without Excel
 - [ethanbergstrom/PCSetup](https://github.com/ethanbergstrom/PCSetup) - PowerShell DSC repository for installing various tools on my PC
 - [MikeShepard/VisioBot3000](https://github.com/MikeShepard/VisioBot3000) - Simple Visio Automation from Powershell
+- [microsoft/CloudAdoptionFramework](https://github.com/microsoft/CloudAdoptionFramework) - Code samples and extended documentation to support the guidance provided in the Microsoft Cloud Adoption Framework
 - [pkelly808/Terraform](https://github.com/pkelly808/Terraform) - Terraform Enterprise API Management
 - [jdhitsolutions/PSPivotTable](https://github.com/jdhitsolutions/PSPivotTable) - A command to create an Excel-like Pivot table in the PowerShell console.
 - [jdhitsolutions/WritingTools](https://github.com/jdhitsolutions/WritingTools) - A collection of files and PowerShell tools to assist in developing and writing a book.
@@ -7455,7 +7485,6 @@
 - [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
 - [canonical/ubuntu-cooker](https://github.com/canonical/ubuntu-cooker) - Ubuntu WSL UWP Builder
 - [Phil-Factor/SQLCloneFamily](https://github.com/Phil-Factor/SQLCloneFamily) - 
-- [microsoftgraph/microsoft-graph-docs](https://github.com/microsoftgraph/microsoft-graph-docs) - Documentation for the Microsoft Graph REST API
 - [jimbrig/jimsdots](https://github.com/jimbrig/jimsdots) - My personalized dotfiles and configs for Windows 10 ⚙️
 - [microsoft/CSS-Exchange](https://github.com/microsoft/CSS-Exchange) - Exchange Server support tools and scripts
 - [hmerritt/win10-setup](https://github.com/hmerritt/win10-setup) - Windows 10/11 setup scripts for fresh installs
@@ -7587,6 +7616,10 @@
 
 ## Python 
 
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+- [dvdmtw98/deployment-config](https://github.com/dvdmtw98/deployment-config) - Scripts to process Markdown Files
+- [okwilkins/personal-website](https://github.com/okwilkins/personal-website) - This repo contains the code for my personal website, www.okwilkins.dev.
+- [OthersideAI/chronology](https://github.com/OthersideAI/chronology) - 
 - [katsully/chatgpt-email-detector](https://github.com/katsully/chatgpt-email-detector) - 
 - [crilleaz/GPT3-Outlook](https://github.com/crilleaz/GPT3-Outlook) - Using ChatGPT3.5-Turbo / GPT3 to automate incoming emails
 - [jimbrig/flaskbase](https://github.com/jimbrig/flaskbase) - 
@@ -7599,7 +7632,7 @@
 - [openai/plugins-quickstart](https://github.com/openai/plugins-quickstart) - Get a ChatGPT plugin up and running in under 5 minutes!
 - [hegelai/prompttools](https://github.com/hegelai/prompttools) - Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate).
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain
-- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is GPT powered coding in your terminal
+- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [Schweinepriester/beets-itunesimport](https://github.com/Schweinepriester/beets-itunesimport) - Plugin for beets to automatically add imported albums to iTunes
 - [alastair/python-musicbrainzngs](https://github.com/alastair/python-musicbrainzngs) - Python bindings for Musicbrainz' NGS webservice
 - [hashhar/jsonschema2sql](https://github.com/hashhar/jsonschema2sql) - Generate CREATE TABLE statements from JSON schema
@@ -8901,7 +8934,7 @@
 - [not-kennethreitz/wsl-guide](https://github.com/not-kennethreitz/wsl-guide) - The Hitchhiker's Guide to Bash on Ubuntu on Windows!
 - [cascadium/wsl-windows-toolbar-launcher](https://github.com/cascadium/wsl-windows-toolbar-launcher) - Adds linux GUI application menu to a windows toolbar
 - [mortensteenrasmussen/docker-registry-manifest-cleanup](https://github.com/mortensteenrasmussen/docker-registry-manifest-cleanup) - Cleans up docker registry by removing untagged manifests from the registry
-- [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [jorisroovers/gitlint](https://github.com/jorisroovers/gitlint) - Linting for your git commit messages
 - [jbernard/dotfiles](https://github.com/jbernard/dotfiles) - Dotfile management made easy
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
@@ -9152,6 +9185,10 @@
 
 ## R 
 
+- [munoztd0/shiny-usage-monitor](https://github.com/munoztd0/shiny-usage-monitor) - Want to see how many people are using your apps? This app allows you to monitor the number of users on your Shiny Server by continuously parsing through your server's logs and charting the data over t
+- [munoztd0/DbVieweR](https://github.com/munoztd0/DbVieweR) - Shiny Database Management Dashboard
+- [JohnCoene/DbVieweR](https://github.com/JohnCoene/DbVieweR) - Shiny Database Management Dashboard
+- [devOpifex/shinymetrics](https://github.com/devOpifex/shinymetrics) - Analytics and telemetry for Shiny applications.
 - [parmsam/psam](https://github.com/parmsam/psam) - Miscellaneous set of functions for personal use
 - [parmsam/dotfiles](https://github.com/parmsam/dotfiles) - setup preferred R dotfile(s)
 - [jimbrig/Rfusen.demo](https://github.com/jimbrig/Rfusen.demo) - Build A Package From Rmarkdown File
@@ -12982,6 +13019,7 @@
 
 ## Rust 
 
+- [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [mertd/topclean](https://github.com/mertd/topclean) - Free up disk space with one command and zero config. Inspired by topgrade and BleachBit.
 - [thistletech/thistle-yocto-build](https://github.com/thistletech/thistle-yocto-build) - Simple yocto build helper tool
 - [jmaczan/xiexie](https://github.com/jmaczan/xiexie) - 🎐 Static site generator
@@ -13247,6 +13285,12 @@
 
 ## Shell 
 
+- [patleeman/dotfiles](https://github.com/patleeman/dotfiles) - 
+- [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
+- [fluxninja/dotfiles](https://github.com/fluxninja/dotfiles) - A modern Zsh/tmux, Vim and Homebrew centric setup for macOS and Linux
+- [mfyz/dotfiles](https://github.com/mfyz/dotfiles) - My dotfiles
+- [TomDeneire/dotfiles](https://github.com/TomDeneire/dotfiles) - 
+- [solderneer/dotfiles](https://github.com/solderneer/dotfiles) - My dotfiles, managed with yadm
 - [CCheminaud/dotfiles](https://github.com/CCheminaud/dotfiles) - ⚙️ All my dotfiles.
 - [Kunal2007-web/KDotfiles](https://github.com/Kunal2007-web/KDotfiles) - Dotfiles repository for easier and faster configuration of programs
 - [hoffa/gh-backup](https://github.com/hoffa/gh-backup) - Zero-config script to backup GitHub repos and gists
@@ -13893,7 +13937,7 @@
 - [rstudio/r-system-requirements](https://github.com/rstudio/r-system-requirements) - System requirements for R packages
 - [jgillman/dotfiles](https://github.com/jgillman/dotfiles) - jgillman's special collection of configs
 - [blay/dotfiles](https://github.com/blay/dotfiles) - My dotfiles
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Fish, Karabiner, VS Code
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Fish, Nix, Karabiner, VS Code
 - [ropensci/actions](https://github.com/ropensci/actions) - Some public GitHub actions
 - [gohugoio/hugoThemes](https://github.com/gohugoio/hugoThemes) - A curated directory of Hugo themes
 - [R-macos/recipes](https://github.com/R-macos/recipes) - System for building static dependent libraries for CRAN packages
@@ -14104,6 +14148,17 @@
 
 ## TypeScript 
 
+- [Frostplexx/obsidian-github-issues](https://github.com/Frostplexx/obsidian-github-issues) - A simple plugin that lets you embed GitHub issues in your Obsidian notes
+- [expandrew/obsidian-unique-note-calendar](https://github.com/expandrew/obsidian-unique-note-calendar) - 📒  See your Obsidian unique notes on a calendar
+- [nikdanilov/whisper-obsidian-plugin](https://github.com/nikdanilov/whisper-obsidian-plugin) - Speech-to-text in Obsidian using OpenAI Whisper
+- [edonyzpc/personal-assistant](https://github.com/edonyzpc/personal-assistant) - An plugin which help you to automatically manage Obsidian.
+- [gapmiss/livecodes-for-obsidian](https://github.com/gapmiss/livecodes-for-obsidian) - Livecodes REPL playground plugin for Obsidian.md
+- [sytone/obsidian-queryallthethings](https://github.com/sytone/obsidian-queryallthethings) - Query all your data stored in Obsidian, this plugin allows SQL based queries against the data collections available in Obsidian and Dataview. Output can then be rendered by Handlebars
+- [karstenpedersen/obsidian-advanced-random-note](https://github.com/karstenpedersen/obsidian-advanced-random-note) - Create commands from custom queries to open random notes
+- [markdown-confluence/markdown-confluence](https://github.com/markdown-confluence/markdown-confluence) - Publish your Markdown Files to Confluence
+- [phibr0/obsidian-commander](https://github.com/phibr0/obsidian-commander) - Commander - Obsidian Plugin | Add Commands to every part of Obsidian's user interface
+- [solderneer/obsidian-ai-tools](https://github.com/solderneer/obsidian-ai-tools) - Adding powerful semantic search, generative answers, and other AI tools to Obsidian, using Supabase + OpenAI.
+- [MarkEdmondson1234/obsidian-ai-tools](https://github.com/MarkEdmondson1234/obsidian-ai-tools) - Adding powerful semantic search, generative answers, and other AI tools to Obsidian, using Supabase + OpenAI.
 - [syncfusion/ej2-react-ui-components](https://github.com/syncfusion/ej2-react-ui-components) - Syncfusion React UI components library offer more than 50+ cross-browser, responsive, and lightweight react UI controls for building modern web applications.
 - [syncfusion/ej2-showcase-angular-appointment-planner](https://github.com/syncfusion/ej2-showcase-angular-appointment-planner) - An demo appointment scheduling application for doctors in a clinic to manage their appointments with patients
 - [codeaid/woth-toolbox](https://github.com/codeaid/woth-toolbox) - Source code for the Way Of The Hunter Toolbox web application
@@ -14881,7 +14936,7 @@
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [akosbalasko/yarle](https://github.com/akosbalasko/yarle) - Yarle - The ultimate converter of Evernote notes to Markdown
 - [svsool/memo](https://github.com/svsool/memo) - Markdown knowledge base with bidirectional [[link]]s built on top of VSCode
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 - [michalyao/evermonkey](https://github.com/michalyao/evermonkey) - Evernote Editing. Redefined.  关于 token 的问题请去 https://github.com/michalyao/evermonkey/issues/94 中查看！
 - [sheilaCat/zknotes](https://github.com/sheilaCat/zknotes) - zettelkasten zettelkasten .vscode plugin for applying zettelkasten notation.
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
@@ -15171,6 +15226,9 @@
 
 ## Vim Script 
 
+- [dvdmtw98/dotfiles](https://github.com/dvdmtw98/dotfiles) - Collection of various configuration files (Dotfiles)
+- [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
+- [vikramthyagarajan/dotfiles](https://github.com/vikramthyagarajan/dotfiles) - All my dotfiles
 - [gildesmarais/dotfiles](https://github.com/gildesmarais/dotfiles) - 🤯 Collection of files whose names are supposed to begin with a dot. But they don't in this repo. rcm handles the dots…
 - [hashhar/dotfiles-tmp](https://github.com/hashhar/dotfiles-tmp) - You are your dotfiles
 - [jamespeapen/Nvim-R](https://github.com/jamespeapen/Nvim-R) - Vim plugin to work with R
