@@ -488,6 +488,11 @@
 
 ## C# # 
 
+- [PowerShell/JsonAdapter](https://github.com/PowerShell/JsonAdapter) - 
+- [Arko109/DownloadManager10](https://github.com/Arko109/DownloadManager10) - A download manager that uses the Background Transfer API.
+- [NateShoffner/Disable-Nvidia-Telemetry](https://github.com/NateShoffner/Disable-Nvidia-Telemetry) - Windows utility to disable Nvidia's telemetry services
+- [IISResetMe/PshUtils](https://github.com/IISResetMe/PshUtils) - .NET and PowerShell helpers
+- [IISResetMe/PSClassy](https://github.com/IISResetMe/PSClassy) - PowerShell type transpilation tools
 - [Jaykul/WindowsConsoleFonts](https://github.com/Jaykul/WindowsConsoleFonts) - A module for working with Console fonts in Windows
 - [syncfusion/winui-demos](https://github.com/syncfusion/winui-demos) - This repository contains the Syncfusion WinUI Controls demos that help to get started and explore its functionality with controls such as Data Grid, Maps, Gauges.
 - [SyncfusionSuccinctlyE-Books/CSharp-Succinctly](https://github.com/SyncfusionSuccinctlyE-Books/CSharp-Succinctly) - This is the companion repo for C# Succinctly by Joe Mayo. Published by Syncfusion.
@@ -2020,6 +2025,7 @@
 
 ## HCL 
 
+- [jakewalsh90/Terraform-Azure](https://github.com/jakewalsh90/Terraform-Azure) - Contains Terraform code for Azure deployment - snippets, useful bits, samples, labs and more. All deployable in small instances with ready to go code. Includes GitHub Actions guide to help with deploy
 - [alkoclick/dotfiles](https://github.com/alkoclick/dotfiles) - Alkoclick's dotfiles
 - [asdf-community/infrastructure](https://github.com/asdf-community/infrastructure) - Infrastructure configuration files
 - [OctopusDeploy/HCLParser](https://github.com/OctopusDeploy/HCLParser) - | Public |
@@ -3043,6 +3049,7 @@
 
 ## JavaScript 
 
+- [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [Krakor92/some-custom-dataviews](https://github.com/Krakor92/some-custom-dataviews) - Some Obsidian dvjs views
 - [mayurankv/Obsidian-Code-Styler](https://github.com/mayurankv/Obsidian-Code-Styler) - A plugin for Obsidian.md for styling codeblocks and inline code
 - [gapmiss/croppie-for-obsidian](https://github.com/gapmiss/croppie-for-obsidian) - Image cropping plugin for Obsidian.md
@@ -3297,7 +3304,7 @@
 - [marcelorosas/XrayRobot](https://github.com/marcelorosas/XrayRobot) - Friendly robot to upload test cases
 - [EliWimmer/Obsmd-Life-Manager](https://github.com/EliWimmer/Obsmd-Life-Manager) - 
 - [sudokar/generator-tf-module](https://github.com/sudokar/generator-tf-module) - Project scaffolding for Terraform
-- [r3tard/wt-fragment](https://github.com/r3tard/wt-fragment) - Windows Terminal Fragments injector
+- [hehmonke/wt-fragment](https://github.com/hehmonke/wt-fragment) - Windows Terminal Fragments injector
 - [IceEnd/Yosoro](https://github.com/IceEnd/Yosoro) - :shaved_ice:Beautiful Markdown NoteBook. 🏖
 - [lcnbr/PhysVault](https://github.com/lcnbr/PhysVault) - Obsidian notes on physics
 - [maxkomarychev/octions](https://github.com/maxkomarychev/octions) - Collection of GitHub Actions that wrap GitHub REST API
@@ -4827,6 +4834,11 @@
 
 ## Others 
 
+- [microsoft/Microsoft-Win32-Content-Prep-Tool](https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool) - A tool to wrap Win32 App and then it can be uploaded to Intune
+- [CSS-Windows/WindowsDiag](https://github.com/CSS-Windows/WindowsDiag) - Windows Diagnostics, Data Collection and Analysis tools
+- [PowerShellCrack/PSAutopilotOfflineOSDUI](https://github.com/PowerShellCrack/PSAutopilotOfflineOSDUI) - A PowerShell UI used in the MECM Autopilot task sequence
+- [sieger/handbook](https://github.com/sieger/handbook) - 
+- [BoringBoredom/PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub) - collection of various resources devoted to performance and input lag optimization
 - [underlines/awesome-marketing-datascience](https://github.com/underlines/awesome-marketing-datascience) - Curated list of useful LLM / Analytics / Datascience resources
 - [AlexiaChen/my-notes](https://github.com/AlexiaChen/my-notes) - A collection of my notes
 - [groepl/Obsidian-Zettelkasten-Starter-Kit](https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit) - A Starter Kit for Obsidian with all essential elements to build up your own Zettelkasten system.
@@ -6181,6 +6193,7 @@
 
 ## PHP 
 
+- [aguyonp/rsyslog-gui](https://github.com/aguyonp/rsyslog-gui) - Docker image of Rsyslog with Pimpmylog GUI based on debian:stable-slim (latest)
 - [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform
 - [BrandonXLF/linkcount](https://github.com/BrandonXLF/linkcount) - Web program to see the number of links to a page in any Wikimedia project.
 - [butschster/dbml-parser](https://github.com/butschster/dbml-parser) - DBML parser for PHP8. It's a PHP parser for DBML syntax.
@@ -6354,6 +6367,93 @@
 
 ## PowerShell 
 
+- [Xainey/PSHitchhiker](https://github.com/Xainey/PSHitchhiker) - Release Pipeline Example Module
+- [auberginehill/get-installed-programs](https://github.com/auberginehill/get-installed-programs) - Retrieves the programs installed on a local machine. Additionally on a Windows 8 or Windows Server 2012 machine and later – depending whether the script is run in an elevated PowerShell window or not 
+- [TSA-SAUSS/UninstallBloatware](https://github.com/TSA-SAUSS/UninstallBloatware) - Allows administrators to easily specify a list of applications to remove, whether they are traditional Win32 applications or modern AppX packages.  Since not every Win32 application can be removed wit
+- [freedbygrace/ADDAP](https://github.com/freedbygrace/ADDAP) - 
+- [freedbygrace/Remove-UWPs](https://github.com/freedbygrace/Remove-UWPs) - This script allows for the removal of Appx applications from a Windows image during operating system deployment or a mounted Windows image.
+- [aaronparker/automata](https://github.com/aaronparker/automata) - Project Automata - a standardised Microsoft Deployment Toolkit environment
+- [aaronparker/Infrastructure](https://github.com/aaronparker/Infrastructure) - Various scripts and tools for managing infrastructure roles
+- [aaronparker/build](https://github.com/aaronparker/build) - Windows image build scripts
+- [aaronparker/azure](https://github.com/aaronparker/azure) - Build an Azure environment with various tools - ARM templates, Bicep etc.
+- [aaronparker/packagefactory](https://github.com/aaronparker/packagefactory) - A packaging factory for Microsoft Intune using Evergreen, VcRedist, and IntuneWin32App
+- [aaronparker/vcredist](https://github.com/aaronparker/vcredist) - Lifecycle management for the Microsoft Visual C++ Redistributables
+- [Wapitiii/WSAppBak](https://github.com/Wapitiii/WSAppBak) - APPX Backupper and Repacker
+- [MarkMessink/Windows_Defender_Update](https://github.com/MarkMessink/Windows_Defender_Update) - This script updates Windows Defender Antivirus
+- [MarkMessink/Teams_Machine_Wide_Installer](https://github.com/MarkMessink/Teams_Machine_Wide_Installer) - Download and installs Microsoft Teams Machine wide
+- [MarkMessink/Visual-C_Redistributable_installer](https://github.com/MarkMessink/Visual-C_Redistributable_installer) - Download and installation of C++ Redistributable
+- [MarkMessink/Windows_Driver_Update](https://github.com/MarkMessink/Windows_Driver_Update) - This script downloads and installs windows drivers from Windows Update
+- [MarkMessink/Windows_Update](https://github.com/MarkMessink/Windows_Update) - This script downloads and installs windows updates
+- [pointandclicktulsa/AppX-Cleanup](https://github.com/pointandclicktulsa/AppX-Cleanup) - Cleans up stupid AppX packages (BLOATWARE) from Windows 10 Pro.
+- [gforal/Apply-ComputerConfiguration](https://github.com/gforal/Apply-ComputerConfiguration) - A script to import a JSON database of registry settings. Script works best for environments where no user is logged in or when the DEFAULT user is the target (AKA, OSD Task Sequences).
+- [Paulus88/RemoveAppx-AllUsers](https://github.com/Paulus88/RemoveAppx-AllUsers) - For those like me who could not find it on Google, here is how to remove all Microsoft Applications for All System Users.
+- [T-twan/Appx-Uninstaller](https://github.com/T-twan/Appx-Uninstaller) - Powershell script to uninstall windows pre-loaded bloatware
+- [shadow578/appx-autorebundler](https://github.com/shadow578/appx-autorebundler) - 
+- [jlaanstra/AppxManifestHelpers](https://github.com/jlaanstra/AppxManifestHelpers) - This repository contains a PowerShell module to read the contents of the Package.appxmanifest from appx and appxbundle files without extracting them.
+- [mkht/DSCR_AppxPackage](https://github.com/mkht/DSCR_AppxPackage) - PowerShell DSC Resource to manage UWP App Packages
+- [repasscloud/WindowsOptionalFeature](https://github.com/repasscloud/WindowsOptionalFeature) - 
+- [repasscloud/WindowsCapability](https://github.com/repasscloud/WindowsCapability) - 
+- [repasscloud/libsfw-corelib](https://github.com/repasscloud/libsfw-corelib) - Library of Software Packages Core Library
+- [repasscloud/libsfw-ps](https://github.com/repasscloud/libsfw-ps) - PowerShell scripts used for libsfw
+- [repasscloud/AppxPackageBuilder](https://github.com/repasscloud/AppxPackageBuilder) - 
+- [david-sd96/RAX](https://github.com/david-sd96/RAX) - Remove-appx Auto eXecutable
+- [YunoGasai17/Remove-AppX-apps](https://github.com/YunoGasai17/Remove-AppX-apps) - Script to remove AppXs
+- [elpollouk/AppxClean](https://github.com/elpollouk/AppxClean) - Script to help removal of default appx packages
+- [Noemata/AppxInstaller](https://github.com/Noemata/AppxInstaller) - Appx Installer Utility
+- [sparkymarky138/powershell](https://github.com/sparkymarky138/powershell) - DSIM list Appx package
+- [UsefulScripts01/HPDrivers](https://github.com/UsefulScripts01/HPDrivers) - Update all HP device drivers with a single command
+- [UsefulScripts01/PSHyperVTemplate](https://github.com/UsefulScripts01/PSHyperVTemplate) - Create Hyper-V virtual machines from XML templates
+- [dave-britten/Remove-AppxPackageInteractive](https://github.com/dave-britten/Remove-AppxPackageInteractive) - Powershell script with GUI for removing AppxPackages (and AppxProvisionedPackages)
+- [UsefulScripts01/RemoveAppx](https://github.com/UsefulScripts01/RemoveAppx) - 
+- [PowerShellCrack/AdminRunasMenu](https://github.com/PowerShellCrack/AdminRunasMenu) - A WPF menu driven by powershell to perform administrator functions
+- [PowerShellCrack/PSInstallPackage](https://github.com/PowerShellCrack/PSInstallPackage) - A powershell script that uses xml's files to install a package of applications
+- [PowerShellCrack/OSDeployUI](https://github.com/PowerShellCrack/OSDeployUI) - UI designed for OSdeploy
+- [exchange12rocks/WU](https://github.com/exchange12rocks/WU) - Windows Update related scripts & functions
+- [exchange12rocks/PS](https://github.com/exchange12rocks/PS) - General purpose PowerShell scripts
+- [exchange12rocks/PVATest](https://github.com/exchange12rocks/PVATest) - 
+- [exchange12rocks/SplitOutput](https://github.com/exchange12rocks/SplitOutput) - 
+- [exchange12rocks/PSGPPreferences](https://github.com/exchange12rocks/PSGPPreferences) - A way to manage Group Policy Preferences through PowerShell
+- [FozzyHosting/ResourceLocker](https://github.com/FozzyHosting/ResourceLocker) - A network host synchronization framework that helps to prevent unexpected downtime during maintenance.
+- [Sorrowfulgod/UpdateService](https://github.com/Sorrowfulgod/UpdateService) - Update windows servers without service downtime
+- [FozzyHosting/SimpleTextLogger](https://github.com/FozzyHosting/SimpleTextLogger) - A simple (but with features), pure-PowerShell logger.
+- [FozzyHosting/AutomaticMaintenance](https://github.com/FozzyHosting/AutomaticMaintenance) - Helps IT engineers to establish a continuous update process in large intertangled infrastructures.
+- [PowerShellCrack/MDTWSUSOfflinePatching](https://github.com/PowerShellCrack/MDTWSUSOfflinePatching) - Used for limited bandwidth or offline imaging
+- [PowerShellCrack/PSM365EndpointAnalyzerUI](https://github.com/PowerShellCrack/PSM365EndpointAnalyzerUI) - PowerShell driven UI that checks M365 Endpoints availability
+- [PowerShellCrack/PSAutopilotLocalAdmin](https://github.com/PowerShellCrack/PSAutopilotLocalAdmin) - PowerShell script to create local admin during Autopilot enrollment
+- [PowerShellCrack/MyAzureProfileScript](https://github.com/PowerShellCrack/MyAzureProfileScript) - Profile script for your system to simply manage VMs in Azure
+- [PowerShellCrack/PSPMSMAM](https://github.com/PowerShellCrack/PSPMSMAM) - Powershell scripts to monitor and manage a Plex Media System
+- [PowerShellCrack/PSExportSystemInventory](https://github.com/PowerShellCrack/PSExportSystemInventory) - PowerShell script that exports System inventory such as hardware, missing drivers GPO, updates, etc
+- [PowerShellCrack/YetAnotherCMLoggerPSModule](https://github.com/PowerShellCrack/YetAnotherCMLoggerPSModule) - Another module that writes a log in cmtrace format but with an output
+- [PowerShellCrack/InstallLatestModulesPSModule](https://github.com/PowerShellCrack/InstallLatestModulesPSModule) - A function that will install the latest Posh module.
+- [PowerShellCrack/MSFTLinkDownloaderPSModule](https://github.com/PowerShellCrack/MSFTLinkDownloaderPSModule) - A module that will download files from Microsoft Link ID's
+- [PowerShellCrack/WinGetWrapperModule](https://github.com/PowerShellCrack/WinGetWrapperModule) - A wrapper around winget command line utility without using colbalt or third party
+- [PowerShellCrack/PSAVDDeploymentToolkit](https://github.com/PowerShellCrack/PSAVDDeploymentToolkit) - A deployment toolkit to build hosts images with applications stored "offline"
+- [FriendsOfMDT/PSD](https://github.com/FriendsOfMDT/PSD) - PowerShell Deployment
+- [PowerShellCrack/PSIntuneAutopilotCmdlets](https://github.com/PowerShellCrack/PSIntuneAutopilotCmdlets) - Cmdlets for Intune Autopilot
+- [PowerShellCrack/PSCombineAutoPilotHashes](https://github.com/PowerShellCrack/PSCombineAutoPilotHashes) - Combine single exported Autopilot hashes
+- [PowerShellCrack/PSAutopilotReadinessCheck](https://github.com/PowerShellCrack/PSAutopilotReadinessCheck) - A PowerShell script to check to ensure a device is ready for Autopilot and is assigned to everything it needs to be successful..
+- [PowerShellCrack/OSDOOBEUI](https://github.com/PowerShellCrack/OSDOOBEUI) - OOBE like user interface for Operating System Deployments
+- [PowerShellCrack/STIGSCAPWinTool](https://github.com/PowerShellCrack/STIGSCAPWinTool) - Applies DISA STIGS GPO Policy's offline
+- [PowerShellCrack/OS-Customizations](https://github.com/PowerShellCrack/OS-Customizations) - Variety of customization scripts such as app removal, local user, timezone
+- [PowerShellCrack/OSDComputerName](https://github.com/PowerShellCrack/OSDComputerName) - Scripts used with SCCM or MDT
+- [PowerShellCrack/OS-Configs](https://github.com/PowerShellCrack/OS-Configs) - Applies optimizations and configurations for Windows 10
+- [PowerShellCrack/PSBuiltinAppxRemovalWhitelist](https://github.com/PowerShellCrack/PSBuiltinAppxRemovalWhitelist) - A PowerShell script to remove builtin Apps on Windows 10 and Windows 11
+- [djdallmann/GamingPCSetup](https://github.com/djdallmann/GamingPCSetup) - A research and evidence based approach to optimizing your gaming PC, configuration and setup. Recommendations found in this guide are based on curated reputable technical references, and personal rese
+- [amitxv/PC-Tuning](https://github.com/amitxv/PC-Tuning) - Guidance to configure Windows based systems for real-time tasks
+- [Carterpersall/Experiments](https://github.com/Carterpersall/Experiments) - My Experiments with Various Things
+- [IISResetMe/PshOneLiners](https://github.com/IISResetMe/PshOneLiners) - A public repo for ridiculous PowerShell one-liners
+- [IISResetMe/PSdotNETRuntimeHacks](https://github.com/IISResetMe/PSdotNETRuntimeHacks) - PowerShell implementations of .NET runtime config hacks
+- [IISResetMe/ProxyAlias](https://github.com/IISResetMe/ProxyAlias) - Simple proxy function generator
+- [IISResetMe/Advent-of-PshOneLiners](https://github.com/IISResetMe/Advent-of-PshOneLiners) - advent of code in compact PowerShell statements
+- [IISResetMe/dotSplat](https://github.com/IISResetMe/dotSplat) - Named parameter mapper for .NET methods
+- [CosmosKey/MeasureScript](https://github.com/CosmosKey/MeasureScript) - 
+- [IISResetMe/PSOAS](https://github.com/IISResetMe/PSOAS) - PowerShell OpenAPI Specification Client Module Generator
+- [IISResetMe/PSCache](https://github.com/IISResetMe/PSCache) - Generic PowerShell cache implementation
+- [IISResetMe/PSProfiler](https://github.com/IISResetMe/PSProfiler) - PowerShell Script Profiler
+- [potatoqualitee/devcontainers](https://github.com/potatoqualitee/devcontainers) - Dev Containers, Codespaces and more for Azure PowerShell Function Apps
+- [nohwnd/Assert](https://github.com/nohwnd/Assert) - A set of advanced assertions for Pester to simplify how you write tests.
+- [JustinGrote/ModuleFast](https://github.com/JustinGrote/ModuleFast) - A "fast and loose" way to install modules from Powershell Gallery quickly. Meant for CICD, not production
+- [PowerShell/PowerShell-RFC](https://github.com/PowerShell/PowerShell-RFC) - RFC (Request for Comments) documents for community feedback on design changes and improvements to PowerShell ecosystem
 - [RedeployAB/PSScaffold](https://github.com/RedeployAB/PSScaffold) - A PowerShell module for scaffolding Modules and Builds
 - [janegilring/PSVersion](https://github.com/janegilring/PSVersion) - Articfacts for PowerShell build numbers
 - [tathamoddie/New-Machine.ps1](https://github.com/tathamoddie/New-Machine.ps1) - Stuff I run when I build a new laptop
@@ -6441,7 +6541,7 @@
 - [jhwohlgemuth/pwsh-prelude](https://github.com/jhwohlgemuth/pwsh-prelude) - PowerShell “standard” library for supercharging your productivity. Provides a powerful cross-platform scripting environment enabling efficient analysis and sustainable science in myriad contexts.
 - [jjcarrier/PS-TextTable](https://github.com/jjcarrier/PS-TextTable) - A PowerShell module to convert from text-based tables into objects
 - [jjcarrier/PS-TableUI](https://github.com/jjcarrier/PS-TableUI) - A simple PowerShell UI for working with selections of objects
-- [jjcarrier/PS-WinGet-Essentials](https://github.com/jjcarrier/PS-WinGet-Essentials) - A Powershell UI to assist in upgrading software from winget
+- [jjcarrier/PS-WinGet-Essentials](https://github.com/jjcarrier/PS-WinGet-Essentials) - Provides essential functionality for software management centered around WinGet using PowerShell
 - [mikefrobbins/SystemConfiguration](https://github.com/mikefrobbins/SystemConfiguration) - Repo to store various configurations for computer systems
 - [mikefrobbins/PowerShell](https://github.com/mikefrobbins/PowerShell) - PowerShell scripts and functions
 - [SMSAgentSoftware/Azure](https://github.com/SMSAgentSoftware/Azure) - 
@@ -7047,7 +7147,7 @@
 - [jdhitsolutions/PSHyperV](https://github.com/jdhitsolutions/PSHyperV) - A set of PowerShell tools for working with Hyper-V from a Windows 10 desktop.
 - [jdhitsolutions/PowerShellLab](https://github.com/jdhitsolutions/PowerShellLab) - My Autolab configuration for a set of virtual machines for learning PowerShell
 - [jdhitsolutions/PSBitly](https://github.com/jdhitsolutions/PSBitly) - A PowerShell module for managing bitly links
-- [jdhitsolutions/WindowsUpdateSetting](https://github.com/jdhitsolutions/WindowsUpdateSetting) - A set of PowerShell commands for configuring Windows Update settings on Windows 10
+- [jdhitsolutions/WindowsUpdateSetting](https://github.com/jdhitsolutions/WindowsUpdateSetting) - A set of PowerShell commands for configuring Windows Update settings on Windows 10 and 11 desktops.
 - [jdhitsolutions/PSScriptingInventory](https://github.com/jdhitsolutions/PSScriptingInventory) - A demonstration PowerShell module to analyze files for PowerShell commands.
 - [jdhitsolutions/PSReadlineHelper](https://github.com/jdhitsolutions/PSReadlineHelper) - A PowerShell module with a functions and tools to make it easier to use the PSReadline module.
 - [jdhitsolutions/Windows10](https://github.com/jdhitsolutions/Windows10) - My AutoLab configuration files for a stand-alone Windows 10 desktop.
@@ -7616,6 +7716,9 @@
 
 ## Python 
 
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [amitxv/service-list-builder](https://github.com/amitxv/service-list-builder) - Create batch scripts to seamlessly toggle between minimal and default services in Windows based on user-defined lists
+- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [dvdmtw98/deployment-config](https://github.com/dvdmtw98/deployment-config) - Scripts to process Markdown Files
 - [okwilkins/personal-website](https://github.com/okwilkins/personal-website) - This repo contains the code for my personal website, www.okwilkins.dev.
@@ -9222,6 +9325,7 @@
 - [shahronak47/informationtag](https://github.com/shahronak47/informationtag) - Add @info tag in roxygen2 skeleton
 - [shahronak47/shinyRatings](https://github.com/shahronak47/shinyRatings) - An intuitive way of providing star rating in a shiny app.
 - [TimTeaFan/sigdashboard](https://github.com/TimTeaFan/sigdashboard) - A dashboard to estimate confidence intervals and sample sizes
+- [JosiahParry/valve](https://github.com/JosiahParry/valve) - Redirects your plumbing for you.
 - [edgararuiz/callthat](https://github.com/edgararuiz/callthat) - Lets you test {plumber} API endpoints within {testthat}
 - [davetang/muse](https://github.com/davetang/muse) - Updated posts from my blog
 - [davetang/learning_r](https://github.com/davetang/learning_r) - R notes
@@ -9642,7 +9746,6 @@
 - [richfitz/rcmdshlib](https://github.com/richfitz/rcmdshlib) - :construction_worker: Build shared libraries for R, from R
 - [ropensci/taxizedb](https://github.com/ropensci/taxizedb) - Tools for Working with Taxonomic SQL Databases
 - [CARLOS666P/DataPackageR](https://github.com/CARLOS666P/DataPackageR) - An R package
-- [Everlane/everlaneR](https://github.com/Everlane/everlaneR) - quality-of-life R package for Everlane Data
 - [JohnCoene/shiny-endpoints](https://github.com/JohnCoene/shiny-endpoints) - Dynamic endpoints in shiny
 - [kbruncati/researchr](https://github.com/kbruncati/researchr) - 
 - [JohnCoene/bsutils](https://github.com/JohnCoene/bsutils) - Utilities for Bootstrap 5
@@ -13026,7 +13129,6 @@
 - [jmaczan/pff](https://github.com/jmaczan/pff) - 📡 Examine your Internet connection quality and status in terminal
 - [lovasoa/SQLpage](https://github.com/lovasoa/SQLpage) - SQL-only webapp builder, empowering data analysts to build websites and applications quickly
 - [mrchypark/hwpr](https://github.com/mrchypark/hwpr) - https://github.com/hahnlee/hwp-rs for R
-- [JosiahParry/valve](https://github.com/JosiahParry/valve) - Redirects your plumbing for you.
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [simeg/eureka](https://github.com/simeg/eureka) - 💡 CLI tool to input and store your ideas without leaving the terminal
 - [nikolassv/bartib](https://github.com/nikolassv/bartib) - A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
@@ -13181,7 +13283,7 @@
 ## SCSS 
 
 - [damiankorcz/Prism-Theme](https://github.com/damiankorcz/Prism-Theme) - A Comprehensive, Highly-Customisable and Elegant Light/Dark Theme for Obsidian.md
-- [WOLFRIEND/skeleton-mammoth](https://github.com/WOLFRIEND/skeleton-mammoth) - Skeleton Mammoth - a powerful JavaScript library designed to enhance user experience by displaying UI skeleton loaders, also known as placeholders. It allows you to simulate the layout or elements of 
+- [WOLFRIEND/skeleton-mammoth](https://github.com/WOLFRIEND/skeleton-mammoth) - Skeleton Mammoth - a powerful CSS library designed to enhance user experience by displaying UI skeleton loaders, also known as placeholders. It allows you to simulate the layout or elements of a websi
 - [app-generator/flask-now-ui-dashboard](https://github.com/app-generator/flask-now-ui-dashboard) - Flask Dashboard - Now UI Design | AppSeed
 - [forwards/website_source](https://github.com/forwards/website_source) - source for blogdown website
 - [ovh/design-system](https://github.com/ovh/design-system) - A collection of assets, guidelines and UI components for building consistent user experiences across OVHcloud products.
@@ -13212,7 +13314,6 @@
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [bencodezen/obsidian-night-owl-theme](https://github.com/bencodezen/obsidian-night-owl-theme) - An Obsidian theme inspired by the original Night Owl VS Code Theme by Sarah Drasner!
 - [lvalnegri/workshops-setup_cloud_analytics_machine](https://github.com/lvalnegri/workshops-setup_cloud_analytics_machine) - Tips and Tricks to setup a cloud machine for Analytics and Data Science with R, RStudio and Shiny Servers, Python and JupyterLab
-- [nikvoronin/blog](https://github.com/nikvoronin/blog) - A personal wiki-like notebooks aka zettelkasten
 - [andybyers21/notes.ajb.app](https://github.com/andybyers21/notes.ajb.app) - This is the data for my Evergreen notes vault
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [rstudio/quillt](https://github.com/rstudio/quillt) - A pkgdown template for the R Markdown Ecosystem
@@ -13285,6 +13386,7 @@
 
 ## Shell 
 
+- [Voronenko/dotfiles](https://github.com/Voronenko/dotfiles) - portable configuration files for unix environment
 - [patleeman/dotfiles](https://github.com/patleeman/dotfiles) - 
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [fluxninja/dotfiles](https://github.com/fluxninja/dotfiles) - A modern Zsh/tmux, Vim and Homebrew centric setup for macOS and Linux
