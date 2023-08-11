@@ -1100,6 +1100,7 @@
 
 ## CSS 
 
+- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   An application to securely communicate passwords over the web.  Passwords automatically expire after a certain number of views and/or time has passed.  Track who, what and when.
 - [dvdmtw98/notes](https://github.com/dvdmtw98/notes) - Repository to store my makdown notes
 - [krios2146/obsidian-theme-github](https://github.com/krios2146/obsidian-theme-github) - Theme for Obsidian inspired by GitHub color scheme
 - [openai/openai-quickstart-python](https://github.com/openai/openai-quickstart-python) - Python example app from the OpenAI API quickstart tutorial
@@ -1379,7 +1380,7 @@
 
 - [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
 - [AlvaroRojas/Soundal](https://github.com/AlvaroRojas/Soundal) - A Music Player App made with Flutter, based on BlackHole
-- [gokadzev/Musify](https://github.com/gokadzev/Musify) - Music Streaming and Downloading app made in Flutter!
+- [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock Music's Full Potential: Stream, Download, and Play with Ease, All in One App!
 - [nrubin29/finale](https://github.com/nrubin29/finale) - A fully-featured Last.fm client and scrobbler with Shazam-like scrobbling, a collage generator, home screen widgets, and more!
 - [xsoulspace/sheets_manager_excel_addin](https://github.com/xsoulspace/sheets_manager_excel_addin) - Excel Web Addin to manage Worksheets easier inside a Excel Workbook
 - [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) - A GUI to quickly manage your WSL2 instances
@@ -4834,6 +4835,7 @@
 
 ## Others 
 
+- [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
 - [microsoft/Microsoft-Win32-Content-Prep-Tool](https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool) - A tool to wrap Win32 App and then it can be uploaded to Intune
 - [CSS-Windows/WindowsDiag](https://github.com/CSS-Windows/WindowsDiag) - Windows Diagnostics, Data Collection and Analysis tools
 - [PowerShellCrack/PSAutopilotOfflineOSDUI](https://github.com/PowerShellCrack/PSAutopilotOfflineOSDUI) - A PowerShell UI used in the MECM Autopilot task sequence
@@ -6367,6 +6369,10 @@
 
 ## PowerShell 
 
+- [manojlds/YDeliver](https://github.com/manojlds/YDeliver) - YDeliver is a (opinionated) build and deployment framework aimed at .NET projects.
+- [PureStorage-OpenConnect/powershell-toolkit-3](https://github.com/PureStorage-OpenConnect/powershell-toolkit-3) - PowerShell Toolkit 3.x
+- [tlindsay42/ArmorPowerShell](https://github.com/tlindsay42/ArmorPowerShell) - Community PowerShell Module for Armor
+- [jimbrig/PowerShell-Module-Template](https://github.com/jimbrig/PowerShell-Module-Template) - PowerShell Core Module Template Module
 - [Xainey/PSHitchhiker](https://github.com/Xainey/PSHitchhiker) - Release Pipeline Example Module
 - [auberginehill/get-installed-programs](https://github.com/auberginehill/get-installed-programs) - Retrieves the programs installed on a local machine. Additionally on a Windows 8 or Windows Server 2012 machine and later – depending whether the script is run in an elevated PowerShell window or not 
 - [TSA-SAUSS/UninstallBloatware](https://github.com/TSA-SAUSS/UninstallBloatware) - Allows administrators to easily specify a list of applications to remove, whether they are traditional Win32 applications or modern AppX packages.  Since not every Win32 application can be removed wit
@@ -14218,7 +14224,7 @@
 - [masonlr/obsidian-starter-templates](https://github.com/masonlr/obsidian-starter-templates) - :rocket: Starter templates for Obsidian.md
 - [pllk/cphb](https://github.com/pllk/cphb) - Competitive Programmer's Handbook
 - [kaneplusplus/listdown](https://github.com/kaneplusplus/listdown) - https://kaneplusplus.github.io/listdown
-- [alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
+- [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
 - [rstudio-education/tidyverse-cookbook](https://github.com/rstudio-education/tidyverse-cookbook) - Code recipes for doing data science with R's tidyverse
 - [DivadNojnarg/outstanding-shiny-ui](https://github.com/DivadNojnarg/outstanding-shiny-ui) - Outstanding User Interfaces with Shiny CRC Press book online version
 - [timelyportfolio/pandoclatextemplate](https://github.com/timelyportfolio/pandoclatextemplate) - Rmarkdown Template using pandoc-latex-template
@@ -14250,6 +14256,12 @@
 
 ## TypeScript 
 
+- [supabase/storage-api](https://github.com/supabase/storage-api) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase-community/nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.
+- [a16z-infra/ai-getting-started](https://github.com/a16z-infra/ai-getting-started) - A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs
+- [a16z-infra/companion-app](https://github.com/a16z-infra/companion-app) - AI companions with memory: a lightweight stack to create and host your own AI companions
+- [TejasQ/on-awesome](https://github.com/TejasQ/on-awesome) - A little package to respond to people typing the word 'awesome' in web apps.
+- [getcursor/old](https://github.com/getcursor/old) - A Codemirror-based editor with *most* modern need-to-haves (e.g. LSP, Copilot, Vim, Remote SSH)
 - [Frostplexx/obsidian-github-issues](https://github.com/Frostplexx/obsidian-github-issues) - A simple plugin that lets you embed GitHub issues in your Obsidian notes
 - [expandrew/obsidian-unique-note-calendar](https://github.com/expandrew/obsidian-unique-note-calendar) - 📒  See your Obsidian unique notes on a calendar
 - [nikdanilov/whisper-obsidian-plugin](https://github.com/nikdanilov/whisper-obsidian-plugin) - Speech-to-text in Obsidian using OpenAI Whisper
@@ -14901,7 +14913,7 @@
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [JLChnToZ/uniterm](https://github.com/JLChnToZ/uniterm) - 🚧Universal Terminal Emulator, might be a great toy terminal front-end for geeks.
 - [satackey/action-docker-layer-caching](https://github.com/satackey/action-docker-layer-caching) - [CAUTION] This repository is not actively maintained. / Enable Docker layer caching in your GitHub Actions workflow.
-- [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
+- [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy 🍑🍆
 - [phibr0/obsidian-charts](https://github.com/phibr0/obsidian-charts) - Charts - Obsidian Plugin | Create editable, interactive and animated Charts in Obsidian via Chart.js
 - [PicGo/PicGo-Core](https://github.com/PicGo/PicGo-Core) - :zap:A tool for pictures uploading. Both CLI & API supports.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
@@ -14915,7 +14927,7 @@
 - [snyk/release-notes-preview](https://github.com/snyk/release-notes-preview) - GitHub Action for providing release notes preview for semantic releases
 - [aws-solutions/serverless-image-handler](https://github.com/aws-solutions/serverless-image-handler) - A solution to dynamically handle images on the fly, utilizing SharpJS
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
-- [phibr0/cycle-through-panes](https://github.com/phibr0/cycle-through-panes) - Cycle through Panes - Obsidian Plugin
+- [Vinzent03/tab-switcher](https://github.com/Vinzent03/tab-switcher) - Cycle through Panes - Obsidian Plugin
 - [Vinzent03/find-unlinked-files](https://github.com/Vinzent03/find-unlinked-files) - Find files, which are nowhere linked, so they are maybe lost in your vault.
 - [erichalldev/obsidian-smart-random-note](https://github.com/erichalldev/obsidian-smart-random-note) - A smart random note plugin for Obsidian
 - [avr/obsidian-reading-time](https://github.com/avr/obsidian-reading-time) - 
