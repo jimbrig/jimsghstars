@@ -201,6 +201,7 @@
 
 ## Batchfile 
 
+- [swagkarna/Defeat-Defender-V1.2.0](https://github.com/swagkarna/Defeat-Defender-V1.2.0) - Powerful batch script to dismantle complete windows defender protection and even bypass tamper protection ..Disable Windows-Defender Permanently....Hack windows. POC
 - [Iristallite/WSB-autosetup](https://github.com/Iristallite/WSB-autosetup) - Generate a config file for Windows Sandbox (also automatically installs the 2010-2022 Visual C++ Redistributables)
 - [TomasHubelbauer/windows-sandbox-script](https://github.com/TomasHubelbauer/windows-sandbox-script) - Windows Sandbox exploration
 - [jozefizso/intel-drivers](https://github.com/jozefizso/intel-drivers) - 
@@ -1411,6 +1412,7 @@
 
 ## Dockerfile 
 
+- [mikenye/docker-picard](https://github.com/mikenye/docker-picard) - Docker container for MusicBrainz Picard
 - [b-rodrigues/ess_dev_env](https://github.com/b-rodrigues/ess_dev_env) - 
 - [cloudwise-devops/terraform-deployer-container](https://github.com/cloudwise-devops/terraform-deployer-container) - Custom Terraform image packaged with alll needed for deployments to work
 - [cloudwise-devops/terraform-deployer](https://github.com/cloudwise-devops/terraform-deployer) - 
@@ -2025,7 +2027,7 @@
 
 ## Groovy 
 
-- [docToolchain/docToolchain](https://github.com/docToolchain/docToolchain) - a AsciiDoc Toolchain for Software Architecture Documentation
+- [docToolchain/docToolchain](https://github.com/docToolchain/docToolchain) - a AsciiDoc Toolchain for technical Software Documentation, focused on Software Architecture Documentation
 - [aim42/htmlSanityCheck](https://github.com/aim42/htmlSanityCheck) - Standalone (batch- and command-line) and Gradle-plugin html sanity checker - detects missing images, dead links and cross-references, duplicate link targets (anchors) and the like.
 - [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) - A DSL for data-driven computational pipelines
 - [TWCable/grabbit](https://github.com/TWCable/grabbit) - Grabbit - Fast Content Sync tool for AEM/CQ
@@ -3060,6 +3062,9 @@
 
 ## JavaScript 
 
+- [trazyn/SoundcloudMobX](https://github.com/trazyn/SoundcloudMobX) - 🎵 SoundcloudMobX is the Soundcloud for iOS, Build with React-Native and MobX.
+- [soundcloud/soundcloud-custom-player](https://github.com/soundcloud/soundcloud-custom-player) - The SoundCloud custom javascript based player
+- [andrewngu/sound-redux](https://github.com/andrewngu/sound-redux) - A Soundcloud client built with React / Redux
 - [decentralized-identity/attestations](https://github.com/decentralized-identity/attestations) - Attestation API implementations for various languages and platforms.
 - [Mumma6/npm-package-tutorial](https://github.com/Mumma6/npm-package-tutorial) - 
 - [estebanthi/propython](https://github.com/estebanthi/propython) - My personal blog's app
@@ -3355,7 +3360,6 @@
 - [Gjorsi/blockchain-ticket-system](https://github.com/Gjorsi/blockchain-ticket-system) - Ethereum-based smart contract ticket sale system. React web app using MetaMask and Web3.js to interact with blockchain.
 - [dsaltares/musicplayer-server](https://github.com/dsaltares/musicplayer-server) - Backend for a simple music player app
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
-- [ahochsteger/gmail2gdrive](https://github.com/ahochsteger/gmail2gdrive) - Gmail2GDrive is a Google Apps Script which automatically stores and sorts Gmail attachments into Google Drive folders.
 - [pixelcog/gmail-to-pdf](https://github.com/pixelcog/gmail-to-pdf) - A Google Apps Script library for converting Gmail messages to PDFs for easy archival.
 - [rclone/rclone-webui-react](https://github.com/rclone/rclone-webui-react) - A full fledged UI for the rclone cloud sync tool
 - [dimitrov-adrian/RcloneTray](https://github.com/dimitrov-adrian/RcloneTray) - Simple cross-platform GUI for Rclone
@@ -4662,6 +4666,7 @@
 ## Lua 
 
 - [yutkat/dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: wezterm; Desktop: sway, ulauncher, dunst; OS: ArchLinux (Ubuntu/Fedora/CentOS)
+- [scottmckendry/Windots](https://github.com/scottmckendry/Windots) - A collection of scripts and configuration files for Windows
 - [AkashRajpurohit/dotfiles](https://github.com/AkashRajpurohit/dotfiles) - 🗄 my dotfile configs
 - [jalvesaq/cmp-nvim-r](https://github.com/jalvesaq/cmp-nvim-r) - 
 - [chrisgrieser/.config](https://github.com/chrisgrieser/.config) - pseudometa's dotfiles
@@ -4950,7 +4955,7 @@
 - [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
 - [dendronhq/awesome-dendron](https://github.com/dendronhq/awesome-dendron) - A big list of Dendron docs, talks, tools, examples, articles, extensions, vaults, showcases, and more that the internet has to offer.
 - [HariAcidReign/JavaScript-A-Z-Notes](https://github.com/HariAcidReign/JavaScript-A-Z-Notes) - Trying to document all of my knowledge about Javascript for future reference. Get your JS fundas in lucid English right here!
-- [duffney/gophers-guide-to-the-coding-interview](https://github.com/duffney/gophers-guide-to-the-coding-interview) - Embark on a journey through 100 LeetCode questions with Go as I meticulously track my progress in this dedicated repository.
+- [duffney/gophers-guide-to-the-coding-interview](https://github.com/duffney/gophers-guide-to-the-coding-interview) - Embark on a journey through 150 LeetCode questions with Go as I meticulously track my progress in this dedicated repository.
 - [actuarial-tools/IntegrationModel](https://github.com/actuarial-tools/IntegrationModel) - Analytical application using Django and Dash
 - [actuarial-tools/PyDjangoDash](https://github.com/actuarial-tools/PyDjangoDash) - Analytical Web Application using Python, Django and Dash
 - [moodymudskipper/realquick](https://github.com/moodymudskipper/realquick) - One line object summaries
@@ -5421,7 +5426,7 @@
 - [kirillseva/avant-r-python](https://github.com/kirillseva/avant-r-python) - R and python xgboost in one image
 - [kirillseva/R-buildpack](https://github.com/kirillseva/R-buildpack) - 
 - [learn-anything/command-line-tools](https://github.com/learn-anything/command-line-tools) - Awesome Command Line Utilities
-- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - List of applications and tools that make my macOS experience even more amazing
+- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - Apps/tools I use on macOS
 - [theritiktiwari/dev-resources](https://github.com/theritiktiwari/dev-resources) - Here you can find the resources regarding your tech. You can also help someone by uploading some resources.
 - [ventoy/vtoytoolchain](https://github.com/ventoy/vtoytoolchain) - Toolchain package for ventoy
 - [ventoy/backend](https://github.com/ventoy/backend) - This is persistence backend image files for Ventoy
@@ -6384,6 +6389,15 @@
 
 ## PowerShell 
 
+- [levicm/win-tools](https://github.com/levicm/win-tools) - This is the a set of Windows 10/11 tool scripts, from a creation of multiple debloat scripts and gists from github.
+- [franckferman/Hyper-V_Toolbox](https://github.com/franckferman/Hyper-V_Toolbox) - 🤖 Inspired by Vagrant and Docker, Hyper-V Toolbox is aimed at providing users with a more efficient and user-friendly tool for virtual machine management.
+- [felikcat/W11Boost](https://github.com/felikcat/W11Boost) - 🚀Permanently activates Windows, better FPS and ping in games, gets rid of bloat, can harden security via DoD STIGs, less stuttering, and brings back privacy. No breaking apps by default.
+- [CameliaD/File-Organizer](https://github.com/CameliaD/File-Organizer) - This Git repository contains a PowerShell script with a user-friendly interface to automatically organize cluttered files into folders by year and month. Ideal for individuals who struggle with file o
+- [RylandDeGregory/PSTagLib](https://github.com/RylandDeGregory/PSTagLib) - PowerShell module and collection of PowerShell utilities for managing audio file metadata tags.
+- [nt4f04uNd/pwsh-download-songs](https://github.com/nt4f04uNd/pwsh-download-songs) - A simple powershell utility to easily grab and download songs and playlists from popular websites
+- [EZTechhelp/EZT-FileWatcher](https://github.com/EZTechhelp/EZT-FileWatcher) - Creates events to monitor changes using FileSystemWatcher and trigger actions for provided file/folder paths
+- [EZTechhelp/EZT-MediaPlayer](https://github.com/EZTechhelp/EZT-MediaPlayer) - Universal media player built in PowerShell and WPF that allows playback and management of media from sources such as local disk, Spotify, YouTube, Twitch and more. Main audio engine powered by LibVLCS
+- [StephenCasella/SoundCloud-Playlist-Sync](https://github.com/StephenCasella/SoundCloud-Playlist-Sync) - A utility to synchronize local directories with SoundCloud playlists.
 - [brianary/scripts](https://github.com/brianary/scripts) - General-purpose PowerShell, F#, and other scripts
 - [brianary/DotNetGlobalToolProvider](https://github.com/brianary/DotNetGlobalToolProvider) - OneGet package provider for dotnet global tools.
 - [EvotecIT/O365Essentials](https://github.com/EvotecIT/O365Essentials) - A module that helps to manage some tasks on Office 365/Azure via undocumented API
@@ -6574,7 +6588,6 @@
 - [tyconsulting/SharePointSDK_PowerShellModule](https://github.com/tyconsulting/SharePointSDK_PowerShellModule) - This PowerShell module provides activities that can be used to manage Sharepoint lists. It supports SharePoint 2013, SharePoint Online, and SharePoint 2010 (Limited). Details about this release can be
 - [tyconsulting/azurepolicy](https://github.com/tyconsulting/azurepolicy) - 
 - [microsoft/ARI](https://github.com/microsoft/ARI) - Azure Resource Inventory - It's a Powerful tool to create EXCEL inventory from Azure Resources with low effort
-- [scottmckendry/Windots](https://github.com/scottmckendry/Windots) - A collection of scripts and configuration files for Windows
 - [flexxxxer/WindowsSandbox-ConfigsAndScripts](https://github.com/flexxxxer/WindowsSandbox-ConfigsAndScripts) - Ready-made Windows Sandbox launch profiles and scripts that automate the routine
 - [AmanDhally/OutlookTools](https://github.com/AmanDhally/OutlookTools) - OutlookTools
 - [colemination/PowerOutlook](https://github.com/colemination/PowerOutlook) - Sample code from Owning MS Outlook with Powershell
@@ -7767,6 +7780,15 @@
 
 ## Python 
 
+- [adamjakab/BeetsPluginDescribe](https://github.com/adamjakab/BeetsPluginDescribe) - Let's see what you've got in your library
+- [adammillerio/beets-copyartifacts](https://github.com/adammillerio/beets-copyartifacts) - A plugin for beets that moves non-music files during the import process.
+- [geigerzaehler/beets-check](https://github.com/geigerzaehler/beets-check) - Verify and store checksums in your beets library
+- [adamjakab/BeetsPluginTemplate](https://github.com/adamjakab/BeetsPluginTemplate) - An empty plugin template for Beets
+- [adamjakab/BeetsPluginAutofix](https://github.com/adamjakab/BeetsPluginAutofix) - A beets plugin to execute repetitive tasks in one go
+- [metabrainz/picard-plugins](https://github.com/metabrainz/picard-plugins) - Picard plugins: use 1.0 branch for Picard &lt; 2.0 (python 2/Qt4) and 2.0 branch for Picard &gt;= 2.0 (python 3/Qt5)
+- [sdushantha/soundcloud-dl](https://github.com/sdushantha/soundcloud-dl) - 🎵 Download SoundCloud music at 128kbps with album art and tags
+- [linnit/Soundcloud-Downloader](https://github.com/linnit/Soundcloud-Downloader) - Download songs from SoundCloud, even if the song is not available for download
+- [soundcloud/soundcloud-python](https://github.com/soundcloud/soundcloud-python) - A Python wrapper around the Soundcloud API
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
 - [commaai/research](https://github.com/commaai/research) - dataset and code for 2016 paper "Learning a Driving Simulator"
 - [estebanthi/Design-Patterns-Series](https://github.com/estebanthi/Design-Patterns-Series) - 
@@ -7788,7 +7810,7 @@
 - [scraggo/bookmarks-markdown-utils](https://github.com/scraggo/bookmarks-markdown-utils) - Collection of command-line tools for Chrome, OneTab, Evernote, and FireFox bookmark management. The tools are mostly to convert proprietary formats to markdown and organizing and add tags.
 - [luozhijian/jupyterexcel](https://github.com/luozhijian/jupyterexcel) - Jupyter Extension make notebooks as web api return Json for Excel to Call
 - [openai/plugins-quickstart](https://github.com/openai/plugins-quickstart) - Get a ChatGPT plugin up and running in under 5 minutes!
-- [hegelai/prompttools](https://github.com/hegelai/prompttools) - Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate).
+- [hegelai/prompttools](https://github.com/hegelai/prompttools) - Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB).
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [Schweinepriester/beets-itunesimport](https://github.com/Schweinepriester/beets-itunesimport) - Plugin for beets to automatically add imported albums to iTunes
@@ -8525,7 +8547,7 @@
 - [NitinSPatil15/Project-3-Data-Warehouse-with-AWS](https://github.com/NitinSPatil15/Project-3-Data-Warehouse-with-AWS) - An ETL pipeline that extracts data from S3, stages them in Redshift, and transforms data into a set of dimensional tables
 - [databand-ai/databand_templates](https://github.com/databand-ai/databand_templates) - Templates for monitoring your data lake and warehouses.
 - [PeachstoneIO/peachbox](https://github.com/PeachstoneIO/peachbox) - Python based data warehouse solution for the Lambda Architecture.
-- [vmware/versatile-data-kit](https://github.com/vmware/versatile-data-kit) - Build, run and manage your data pipelines with Python or SQL.
+- [vmware/versatile-data-kit](https://github.com/vmware/versatile-data-kit) - One framework to develop, deploy and operate data workflows with Python and SQL.
 - [openspending/spendb](https://github.com/openspending/spendb) - Next-gen web application for public finance data warehouses, formerly OpenSpending
 - [devlace/datadevops](https://github.com/devlace/datadevops) - How DevOps principles can be applied to Data Pipeline Solution built with Azure Databricks, Data Factory and ADL Gen2. Moved to: https://github.com/Azure-Samples/modern-data-warehouse-dataops
 - [mikekaminsky/dbt-helper](https://github.com/mikekaminsky/dbt-helper) - A helper tool for dbt development and data warehouse management.
@@ -9061,7 +9083,7 @@
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [lynnlangit/gcp-essentials](https://github.com/lynnlangit/gcp-essentials) - Example gcloud statements and service info for GCP services. Sample code for GCP services and ML courses on LinkedIn Learning
-- [oilshell/oil](https://github.com/oilshell/oil) - Oil is a new Unix shell.  It's our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
+- [oilshell/oil](https://github.com/oilshell/oil) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [jescresswell/route-optimization](https://github.com/jescresswell/route-optimization) - Produces optimal routing for freight deliveries, accounting for multiple trucks working in tandem, and multiple dispatch depots.
 - [zalando/patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [jefftriplett/pinboard-bookmarks-updater](https://github.com/jefftriplett/pinboard-bookmarks-updater) - 🤖 Opinionated Pinboard.in Bookmarks Updater
@@ -9370,7 +9392,7 @@
 - [waldronlab/curatedMetagenomicDataCuration](https://github.com/waldronlab/curatedMetagenomicDataCuration) - Sample Metadata Curation for curatedMetagenomicData
 - [andrewallenbruce/provider](https://github.com/andrewallenbruce/provider) - :package: Access Public Healthcare Provider Data in R
 - [AbbasDidar/Fraud-Detection](https://github.com/AbbasDidar/Fraud-Detection) - Fraud Detection in Health Insurance
-- [oobianom/quickcode](https://github.com/oobianom/quickcode) - A compilation of some my quick, simple but often used R codes
+- [oobianom/quickcode](https://github.com/oobianom/quickcode) - An R package made out of my scrapbook of commonly used functions.
 - [jeroen/badgen](https://github.com/jeroen/badgen) - 
 - [RinteRface/webR4Shiny](https://github.com/RinteRface/webR4Shiny) - Setup webR compatible infrastructure in your Shiny package project
 - [stla/swipeR](https://github.com/stla/swipeR) - Carousels in R.
@@ -9395,7 +9417,6 @@
 - [ppatrzyk/lastfmR](https://github.com/ppatrzyk/lastfmR) - R package for getting last.fm data
 - [statnmap/squirrels.fusen](https://github.com/statnmap/squirrels.fusen) - An example of use for {fusen} along with presentation
 - [JfrAziz/r-plumber](https://github.com/JfrAziz/r-plumber) - Rplumber: Rest API witth R. a boilerplate to setup a new project with R plumber
-- [fractal-dynamics/r-plumber-nix](https://github.com/fractal-dynamics/r-plumber-nix) - 
 - [datasketch/plumber-demo](https://github.com/datasketch/plumber-demo) - 
 - [analythium/tryr](https://github.com/analythium/tryr) - Client/Server Error Handling for HTTP APIs
 - [cloudyr/AzureAuth](https://github.com/cloudyr/AzureAuth) - OAuth 2.0 authentication with Azure Active Directory. Submit issues and PRs at https://github.com/Azure/AzureAuth
@@ -14579,6 +14600,7 @@
 - [Siemienik/XToolset](https://github.com/Siemienik/XToolset) - Typed import, and export XLSX spreadsheet to JS / TS. Template-based create, render, and export data into excel files.
 - [microsoft/connected-workbooks](https://github.com/microsoft/connected-workbooks) - Microsoft backed, Excel advanced xlsx workbook generation JavaScript library
 - [microsoft/vscode-powerquery](https://github.com/microsoft/vscode-powerquery) - Visual Studio Code extension for Power Query / M.
+- [ahochsteger/gmail2gdrive](https://github.com/ahochsteger/gmail2gdrive) - Gmail Processor is an open-source project that automates the processing of Gmail messages and attachments using Google Apps Script and execute actions (e.g. store attachments in a GDrive folder, log i
 - [kevinitsDevaluado/EverMusic_Frontend](https://github.com/kevinitsDevaluado/EverMusic_Frontend) - Backend EverMusic
 - [faisalsayed10/firefiles](https://github.com/faisalsayed10/firefiles) - The open‑source alternative to Dropbox. ⚡️
 - [ElonH/RcloneNg](https://github.com/ElonH/RcloneNg) - An angular web application for rclone
@@ -14981,7 +15003,7 @@
 - [snyk/release-notes-preview](https://github.com/snyk/release-notes-preview) - GitHub Action for providing release notes preview for semantic releases
 - [aws-solutions/serverless-image-handler](https://github.com/aws-solutions/serverless-image-handler) - A solution to dynamically handle images on the fly, utilizing SharpJS
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
-- [Vinzent03/tab-switcher](https://github.com/Vinzent03/tab-switcher) - Cycle through Panes - Obsidian Plugin
+- [Vinzent03/tab-switcher](https://github.com/Vinzent03/tab-switcher) - Tab Switcher - Obsidian Plugin
 - [Vinzent03/find-unlinked-files](https://github.com/Vinzent03/find-unlinked-files) - Find files, which are nowhere linked, so they are maybe lost in your vault.
 - [erichalldev/obsidian-smart-random-note](https://github.com/erichalldev/obsidian-smart-random-note) - A smart random note plugin for Obsidian
 - [avr/obsidian-reading-time](https://github.com/avr/obsidian-reading-time) - 
