@@ -490,6 +490,8 @@
 
 ## C# # 
 
+- [editorconfig/editorconfig-core-net](https://github.com/editorconfig/editorconfig-core-net) - EditorConfig Core library and command line utility written in C# for .NET/Mono  http://editorconfig.org
+- [mono/taglib-sharp](https://github.com/mono/taglib-sharp) - Library for reading and writing metadata in media files
 - [indented-automation/PSToolbox](https://github.com/indented-automation/PSToolbox) - A WPF application to front PowerShell commands
 - [PoshCode/Pansies](https://github.com/PoshCode/Pansies) - Powershell ANSI Escape Sequences, functions for colored output, etc.
 - [Inedo/pgscan](https://github.com/Inedo/pgscan) - Dependency scanner for ProGet.
@@ -1411,6 +1413,7 @@
 
 ## Dockerfile 
 
+- [jimbrig/navidrome-server](https://github.com/jimbrig/navidrome-server) - Personal Media Server for my Music Library
 - [mikenye/docker-picard](https://github.com/mikenye/docker-picard) - Docker container for MusicBrainz Picard
 - [b-rodrigues/ess_dev_env](https://github.com/b-rodrigues/ess_dev_env) - 
 - [cloudwise-devops/terraform-deployer-container](https://github.com/cloudwise-devops/terraform-deployer-container) - Custom Terraform image packaged with alll needed for deployments to work
@@ -2348,7 +2351,7 @@
 - [mattblackwell/inters](https://github.com/mattblackwell/inters) - Tools for estimating interactions
 - [ObsidianPublisher/template-gh-pages](https://github.com/ObsidianPublisher/template-gh-pages) - The template for Obsidian Mkdocs Publisher, a free obsidian publish alternative throught Mkdocs.
 - [LesFerch/DesktopPic](https://github.com/LesFerch/DesktopPic) - Display or stamp images on your Windows desktop wallpaper
-- [devOpifex/titan](https://github.com/devOpifex/titan) - Prometheus monitoring for shiny applications, plumber APIs, and other R web services
+- [devOpifex/titan](https://github.com/devOpifex/titan) - :rage3: Prometheus monitoring for shiny applications, plumber APIs, and other R web services
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [M-Scott-Lassiter/Excel-File-Cataloger](https://github.com/M-Scott-Lassiter/Excel-File-Cataloger) - Builds an easy to search webpage that tags and catalogs all the files and folders from a specified directory.
 - [ClaudioZandonella/trackdown](https://github.com/ClaudioZandonella/trackdown) - R package for collaborative writing and editing of R Markdown (or Sweave) documents in Google Docs.
@@ -3064,7 +3067,7 @@
 
 - [airsonic-advanced/airsonic-advanced](https://github.com/airsonic-advanced/airsonic-advanced) - 
 - [devOpifex/windy.penguins](https://github.com/devOpifex/windy.penguins) - Example of application using {windy}
-- [devOpifex/windy](https://github.com/devOpifex/windy) - Tailwind for Shiny
+- [devOpifex/windy](https://github.com/devOpifex/windy) - :cyclone: Tailwind for Shiny
 - [trazyn/SoundcloudMobX](https://github.com/trazyn/SoundcloudMobX) - 🎵 SoundcloudMobX is the Soundcloud for iOS, Build with React-Native and MobX.
 - [soundcloud/soundcloud-custom-player](https://github.com/soundcloud/soundcloud-custom-player) - The SoundCloud custom javascript based player
 - [andrewngu/sound-redux](https://github.com/andrewngu/sound-redux) - A Soundcloud client built with React / Redux
@@ -3562,7 +3565,7 @@
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
 - [TejasQ/add-gitignore](https://github.com/TejasQ/add-gitignore) - An interactive CLI tool that adds a .gitignore to your projects.
-- [alexfernandez/loadtest](https://github.com/alexfernandez/loadtest) - Runs a load test on the selected URL. Easy to extend minimally for your own ends.
+- [alexfernandez/loadtest](https://github.com/alexfernandez/loadtest) - Runs a load test on the selected URL. Fast and easy to use. Can be integrated in your own workflow using the API.
 - [sindresorhus/pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots
 - [lirantal/npq](https://github.com/lirantal/npq) - 🎖safely* install packages with npm or yarn by auditing them as part of your install process
 - [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!
@@ -4856,6 +4859,9 @@
 
 ## Others 
 
+- [deadlydog/Oh-My-Posh.DeadlydogTheme](https://github.com/deadlydog/Oh-My-Posh.DeadlydogTheme) - Custom theme called 'deadlydog' for oh-my-posh
+- [winget-run/wingetdotrun](https://github.com/winget-run/wingetdotrun) - 📦 Finding winget packages made easy 🔍
+- [deadlydog/Template.NewGitRepo](https://github.com/deadlydog/Template.NewGitRepo) - A template repository to use as a starting point for new git repos with basic boilerplate things that every git repo should have
 - [PoshCode/PowerShellFAQ](https://github.com/PoshCode/PowerShellFAQ) - A collection of frequently asked questions (and answers)
 - [jensihnow/AzurePublicIPAddressRanges](https://github.com/jensihnow/AzurePublicIPAddressRanges) - Azure Public IP Address Ranges tracked in XML Format
 - [minoveaz/minoveaz](https://github.com/minoveaz/minoveaz) - 
@@ -6392,6 +6398,8 @@
 
 ## PowerShell 
 
+- [deadlydog/PowerShell.Experiment.ClassInModule](https://github.com/deadlydog/PowerShell.Experiment.ClassInModule) - An experimental repo to reproduce a PowerShell issue I am seeing when using a class in a module
+- [brianary/PSModuleTemplate](https://github.com/brianary/PSModuleTemplate) - A .NET Core template for a binary F# PowerShell module
 - [gui-cs/F7History](https://github.com/gui-cs/F7History) - Use F7 as "Show Command History" in Powershell
 - [levicm/win-tools](https://github.com/levicm/win-tools) - This is the a set of Windows 10/11 tool scripts, from a creation of multiple debloat scripts and gists from github.
 - [franckferman/Hyper-V_Toolbox](https://github.com/franckferman/Hyper-V_Toolbox) - 🤖 Inspired by Vagrant and Docker, Hyper-V Toolbox is aimed at providing users with a more efficient and user-friendly tool for virtual machine management.
@@ -8921,7 +8929,7 @@
 - [jupyterhub/jupyterhub-deploy-docker](https://github.com/jupyterhub/jupyterhub-deploy-docker) - Reference deployment of JupyterHub with docker
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
 - [rememberYou/old-dotfiles](https://github.com/rememberYou/old-dotfiles) - Old personal dotfiles configuration
-- [microsoft/recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
+- [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
 - [microsoft/hi-ml](https://github.com/microsoft/hi-ml) - HI-ML toolbox for deep learning for medical imaging and Azure integration
 - [microsoft/dstoolkit-mlops-base](https://github.com/microsoft/dstoolkit-mlops-base) - Support ML teams to accelerate their model deployment to production leveraging Azure
 - [0xSeb/aws_secrets_manager_psql_rotation_lambda](https://github.com/0xSeb/aws_secrets_manager_psql_rotation_lambda) - A lambda function to rotate PostgreSQL database user's passwords stored in AWS Secrets Manager.
@@ -9385,7 +9393,7 @@
 - [munoztd0/shiny-usage-monitor](https://github.com/munoztd0/shiny-usage-monitor) - Want to see how many people are using your apps? This app allows you to monitor the number of users on your Shiny Server by continuously parsing through your server's logs and charting the data over t
 - [munoztd0/DbVieweR](https://github.com/munoztd0/DbVieweR) - Shiny Database Management Dashboard
 - [JohnCoene/DbVieweR](https://github.com/JohnCoene/DbVieweR) - Shiny Database Management Dashboard
-- [devOpifex/shinymetrics](https://github.com/devOpifex/shinymetrics) - Analytics and telemetry for Shiny applications.
+- [devOpifex/shinymetrics](https://github.com/devOpifex/shinymetrics) - :straight_ruler: Analytics and telemetry for Shiny applications.
 - [parmsam/psam](https://github.com/parmsam/psam) - Miscellaneous set of functions for personal use
 - [parmsam/dotfiles](https://github.com/parmsam/dotfiles) - setup preferred R dotfile(s)
 - [jimbrig/Rfusen.demo](https://github.com/jimbrig/Rfusen.demo) - Build A Package From Rmarkdown File
@@ -9856,7 +9864,7 @@
 - [mpadge/dev_guide](https://github.com/mpadge/dev_guide) - rOpenSci Packages: Development, Maintenance, and Peer Review
 - [mpadge/mpmisc](https://github.com/mpadge/mpmisc) - Miscellaneous R functions which I load in my .Rprofile
 - [mpadge/typetracer](https://github.com/mpadge/typetracer) - Trace Function Parameter Types in R
-- [devOpifex/leprechaun](https://github.com/devOpifex/leprechaun) - Code generator for lean and robust shiny applications
+- [devOpifex/leprechaun](https://github.com/devOpifex/leprechaun) - :four_leaf_clover: Code generator for lean and robust shiny applications
 - [OHDSI/FeatureExtraction](https://github.com/OHDSI/FeatureExtraction) - An R package for generating features (covariates) for a cohort using data in the Common Data Model.
 - [wlandau/dotfiles](https://github.com/wlandau/dotfiles) - my .bashrc and related files
 - [wlandau/targets-four-minutes](https://github.com/wlandau/targets-four-minutes) - Get started with the {targets} R package in four minutes
@@ -9916,7 +9924,7 @@
 - [b-rodrigues/chronicler](https://github.com/b-rodrigues/chronicler) - 
 - [richfitz/redux](https://github.com/richfitz/redux) - :telephone_receiver::computer: Redis client for R
 - [r-dbi/RMariaDB](https://github.com/r-dbi/RMariaDB) - An R interface to MariaDB
-- [aryoda/tryCatchLog](https://github.com/aryoda/tryCatchLog) - R code for better error handling incl. logging with a full (!) stack trace incl. line numbers, post-mortem analysis and support for parallel processing
+- [aryoda/tryCatchLog](https://github.com/aryoda/tryCatchLog) - R package for better error handling incl. logging with a full (!) stack trace incl. line numbers, post-mortem analysis and support for parallel processing
 - [feddelegrand7/css_shiny](https://github.com/feddelegrand7/css_shiny) - 
 - [s-u/RJDBC](https://github.com/s-u/RJDBC) - R interface to databases using JDBC
 - [ropensci-review-tools/pkgcheck-action](https://github.com/ropensci-review-tools/pkgcheck-action) - GitHub action for {pkgcheck}
@@ -13731,7 +13739,6 @@
 - [richinfante/github-clone-all](https://github.com/richinfante/github-clone-all) - Clone all your github repos for backups & local development.
 - [TonnyL/toolman](https://github.com/TonnyL/toolman) - A collection of tools
 - [pavanchhatpar/csv-to-sql-converter](https://github.com/pavanchhatpar/csv-to-sql-converter) - A shell script that converts a csv file (Excel Sheet) to an SQL file that can be imported in a MySQL database
-- [marlonrichert/.config](https://github.com/marlonrichert/.config) - ⚙️ Bootstrappable user environment for macOS & Ubuntu
 - [marlonrichert/zsh-edit](https://github.com/marlonrichert/zsh-edit) - 🛠 Better command line editing tools for Zsh
 - [marlonrichert/zsh-launchpad](https://github.com/marlonrichert/zsh-launchpad) - 🚀 Simple, educational dotfiles template to get started with Zsh and learn about its features
 - [daviwil/dotfiles](https://github.com/daviwil/dotfiles) - The path to GNUrvana
