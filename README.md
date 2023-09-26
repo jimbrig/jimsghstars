@@ -3449,7 +3449,6 @@
 - [Rotifer/Spreadsheet2SQL](https://github.com/Rotifer/Spreadsheet2SQL) - GAS code to convert values in a spreadsheet to SQL statements. Header row is used to for the "CREATE TABLE" statement, data rows are used to create "INSERT" statements. Cangenerate SQLite, MySQL and P
 - [magicmark/composerize](https://github.com/magicmark/composerize) - 🏃→🎼  docker run asdlksjfksdf &gt; docker-composerize up
 - [pugjs/pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js
-- [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [aws-samples/serverless-s3-uploader](https://github.com/aws-samples/serverless-s3-uploader) - AWS Serverless Application Repo example for serverless uploading to S3. Questions? @jbesw.
 - [ken107/aws-lambda-shell-execute](https://github.com/ken107/aws-lambda-shell-execute) - An AWS Lambda function that executes a shell command and returns the output.  Additional executable binaries can be deployed with and used by the function.
 - [nytlabs/github-s3-deploy](https://github.com/nytlabs/github-s3-deploy) - AWS Lambda function, triggered by Github/SNS webhook, to sync new commits in an S3 bucket
@@ -3536,7 +3535,6 @@
 - [thura10/airwave](https://github.com/thura10/airwave) - Share Files between iOS and Windows without hassle.
 - [Appsilon/rhinoverse.dev](https://github.com/Appsilon/rhinoverse.dev) - The landing page for Rhinoverse: a collection of open-source R packages for enterprise Shiny apps.
 - [wviechtb/mathjaxr](https://github.com/wviechtb/mathjaxr) - R package to make use of Mathjax in Rd files
-- [ernstc/SqlDataInspector](https://github.com/ernstc/SqlDataInspector) - This is an Azure Data Studio extension that let you inspect the data in your database with just few clicks.
 - [OHDSI/DataQualityDashboard](https://github.com/OHDSI/DataQualityDashboard) - A tool to help improve data quality standards in observational data science.
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [unep-grid/mapx](https://github.com/unep-grid/mapx) - MapX
@@ -7586,7 +7584,7 @@
 - [poshsecurity/Pipeline-My-Dev-Machine](https://github.com/poshsecurity/Pipeline-My-Dev-Machine) - Using Azure Pipelines to manage your own PC
 - [torbenmoeller/setup-scripts](https://github.com/torbenmoeller/setup-scripts) - Jump start your windows setup or: Install Chrome without using the Internet Explorer
 - [mackilinen/mackilinen](https://github.com/mackilinen/mackilinen) - 
-- [MichaelJolley/devtoolbox](https://github.com/MichaelJolley/devtoolbox) - A PowerShell module that enables software developers to speed up their CLI workflow.
+- [michaeljolley/devtoolbox](https://github.com/michaeljolley/devtoolbox) - A PowerShell module that enables software developers to speed up their CLI workflow.
 - [MattiasC85/Scripts](https://github.com/MattiasC85/Scripts) - A mix of scripts/tools I've made, put together or simply found online
 - [volllly/Dotted](https://github.com/volllly/Dotted) - Cross platform dotfile managing and dev environment bootstrapping tool
 - [ur0n2/dotfiles-for-windows](https://github.com/ur0n2/dotfiles-for-windows) - dotfiles for windows
@@ -8473,7 +8471,7 @@
 - [zayd62/mkdocs-versioning](https://github.com/zayd62/mkdocs-versioning) - A tool that allows for versioning sites built with mkdocs
 - [oprypin/mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) - MkDocs plugin to specify the navigation in Markdown instead of YAML
 - [blueswen/mkdocs-glightbox](https://github.com/blueswen/mkdocs-glightbox) - A MkDocs plugin supports image lightbox (zoom effect) with GLightbox.
-- [timvink/mkdocs-charts-plugin](https://github.com/timvink/mkdocs-charts-plugin) - Mkdocs plugin to add charts to your pages
+- [timvink/mkdocs-charts-plugin](https://github.com/timvink/mkdocs-charts-plugin) - Mkdocs plugin to add vegalite charts to your pages
 - [oprypin/mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) - MkDocs plugin to programmatically generate documentation pages during the build
 - [jdoiro3/mkdocs-multirepo-plugin](https://github.com/jdoiro3/mkdocs-multirepo-plugin) - Build documentation in multiple repos into one site.
 - [rosscdh/mkdocs-markdownextradata-plugin](https://github.com/rosscdh/mkdocs-markdownextradata-plugin) - A MkDocs plugin that injects the mkdocs.yml extra variables into the markdown template
@@ -14848,6 +14846,7 @@
 - [microsoft/PowerBI-Cli](https://github.com/microsoft/PowerBI-Cli) - Power BI command line tool for managing Power BI Embedded workspace collections
 - [dataform-co/dataform](https://github.com/dataform-co/dataform) - Dataform is a framework for managing SQL based data operations in BigQuery, Snowflake, and Redshift
 - [prisma/migrate](https://github.com/prisma/migrate) - Issues for Prisma Migrate are now tracked at prisma/prisma. This repo was used to track issues for Prisma Migrate Experimental and is now deprecated.
+- [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [kolberszymon/NextJS-AWSS3](https://github.com/kolberszymon/NextJS-AWSS3) - 
 - [botpress/cdk-postgresql](https://github.com/botpress/cdk-postgresql) - AWS CDK Constructs for PostgreSQL
 - [meilisearch/meilisearch-js-plugins](https://github.com/meilisearch/meilisearch-js-plugins) - The search client to use Meilisearch with InstantSearch.
@@ -14981,6 +14980,7 @@
 - [allianz/ng-aquila](https://github.com/allianz/ng-aquila) - Angular UI Component library for the Open Insurance Platform
 - [PiyushSuthar/Windows-11-Web](https://github.com/PiyushSuthar/Windows-11-Web) - Awe-amazing Windows 11 clone. Oh wait, Not for your Computer, but for the web! ⚡
 - [dzsquared/jupyter-publish-action](https://github.com/dzsquared/jupyter-publish-action) - GitHub action for publishing a remote Jupyter book for Azure Data Studio 📘
+- [ernstc/SqlDataInspector](https://github.com/ernstc/SqlDataInspector) - This is an Azure Data Studio extension that let you inspect the data in your database with just few clicks.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
@@ -15142,7 +15142,7 @@
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 - [gajus/slonik](https://github.com/gajus/slonik) - A Node.js PostgreSQL client with runtime and build time type safety, and composable SQL.
 - [kriasoft/relay-starter-kit](https://github.com/kriasoft/relay-starter-kit) - 💥  Monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, Relay, Material UI.
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [Purii/react-native-tableview-simple](https://github.com/Purii/react-native-tableview-simple) - Flexible and lightweight React Native component for UITableView made with pure CSS
@@ -15509,9 +15509,6 @@
 - [lopperman/just-VBA](https://github.com/lopperman/just-VBA) - VBA Utilities - 100% MAC & PC Compatible
 - [thetrik/VbTrickThreading](https://github.com/thetrik/VbTrickThreading) - Module for working with multithreading in VB6
 - [vbaidiot/ariawase](https://github.com/vbaidiot/ariawase) - Ariawase is free library for VBA cowboys.
-- [DangerMouseB/XLVBA](https://github.com/DangerMouseB/XLVBA) - Some useful VBA modules specifically for XL
-- [DangerMouseB/VBVBACommon](https://github.com/DangerMouseB/VBVBACommon) - Common VB files suitable for XL VBA and VB6
-- [DangerMouseB/VB6Common](https://github.com/DangerMouseB/VB6Common) - Various VB6 utilities
 - [AnHerbWorm/DataAnalysis](https://github.com/AnHerbWorm/DataAnalysis) - Modules (VBA/Python) and Queries (Power Query M) for common data analysis and reporting tasks.
 - [warbe-maker/VBA-Component-Management](https://github.com/warbe-maker/VBA-Component-Management) - Common VBA Component Management: The automated services Export (any component the code has changed), Update (any outdated "Used Common Component"), and Synchronize (the VB-Project of two Workbooks) on
 - [warbe-maker/VBA-Message](https://github.com/warbe-maker/VBA-Message) - Common VBA Message Service as an elaborated alternative to the VBA.MsgBox. No size limit, up to 49 reply buttons with `Application.Run` capability, etc.
@@ -15574,14 +15571,14 @@
 - [Aeraphe/xdebug](https://github.com/Aeraphe/xdebug) - This package provides a way to simulate VBA Immediate Window in Output VSCode window
 - [hiro-yano/ddlGeneratorPSQLFromExcel](https://github.com/hiro-yano/ddlGeneratorPSQLFromExcel) - 
 - [dnissim/VBA_General](https://github.com/dnissim/VBA_General) - A general library of functions for interacting with different data objects in Excel, and effectively working with array data in memory.
-- [Eru-js/vba-file](https://github.com/Eru-js/vba-file) - Visual Basic script that creates and writes data to a specified file type
+- [erujs/vba-file](https://github.com/erujs/vba-file) - Visual Basic script that creates and writes data to a specified file type
 - [dnissim/VBA_Progress-Bar](https://github.com/dnissim/VBA_Progress-Bar) - An easy to use VBA userform for visualizing macro progress.
 - [santosrai/VBA-For-Everyone](https://github.com/santosrai/VBA-For-Everyone) - This is utility module with lots of reuseable functions for VBA
 - [rfl808/Notify](https://github.com/rfl808/Notify) - A simple module that uses windows notify api to send messages to the user.
 - [EszopiCoder/excel-regexp-fx](https://github.com/EszopiCoder/excel-regexp-fx) - Regular Expression Functions Excel Add-In
 - [happybono/GEOSage](https://github.com/happybono/GEOSage) - A VBA application for geocoding and reverse geocoding in Microsoft Excel. Supports both Google's free and enterprise for business geocoder (Google Maps APIs for Business, Google Maps for Work or Googl
 - [sergey-frolov-pets/excel-helpers](https://github.com/sergey-frolov-pets/excel-helpers) - Excel tools and VBA snippets for focused business tasks
-- [Eru-js/vba-webdata](https://github.com/Eru-js/vba-webdata) - Visual Basic script that returns table data from a website to excel sheet
+- [erujs/vba-webdata](https://github.com/erujs/vba-webdata) - Visual Basic script that returns table data from a website to excel sheet
 - [PGS62/JuliaExcel.jl](https://github.com/PGS62/JuliaExcel.jl) - Call Julia from Microsoft Excel worksheets and from VBA
 - [MarkJohnstoneGitHub/VBA-IDictionary](https://github.com/MarkJohnstoneGitHub/VBA-IDictionary) - VBA dictionary alternative to the Scripting.Dictionary which is Mac compatible and implements a IScriptingDictionary interface.
 - [JWock82/xlFrame](https://github.com/JWock82/xlFrame) - A free VBA library to make structural analysis easy in Microsoft Excel
