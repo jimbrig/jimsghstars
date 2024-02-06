@@ -118,6 +118,8 @@ ui <- shiny::fluidPage(
 server <- function(input, output, session) {
   
   data <- shiny::reactive({
+    
+    req(input$last_updated, input$created, input$stars, input$language)
 
     dat |>
       dplyr::filter(
@@ -137,7 +139,7 @@ server <- function(input, output, session) {
 
   })
   
-  observeEvent(data(), {
+  observeEvent(list(data()), {
     
     dat <- data()
     
@@ -164,9 +166,15 @@ server <- function(input, output, session) {
       max = max(dat$stargazers),
       value = 0
     )
+    
+    reactable::updateReactable(
+      "table",
+      data = dat
+    )
+    
   }, ignoreInit = TRUE)
 
-  output$table <- reactable::renderReactable({ # DT::renderDT({
+  output$table <- reactable::renderReactable({
 
     out <- data()
 
@@ -235,17 +243,6 @@ server <- function(input, output, session) {
 
   })
 
-  shiny::observeEvent(list(
-    data(),
-    input$last_updated,
-    input$created,
-    input$stars,
-    input$language
-  ), {
-    reactable::updateReactable(
-      "table"
-    )
-  })
 }
 
 # Run the application
