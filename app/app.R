@@ -53,6 +53,11 @@ ui <- shiny::fluidPage(
   theme = bslib::bs_theme(
     bootswatch = "cyborg"
   ),
+  
+  # Favicon
+  shiny::tags$head(
+    shiny::tags$link(rel = "icon", type = "image/x-icon", href = "favicon.ico")
+  ),
 
   # Application title
   shiny::titlePanel("JIMBRIG'S GITHUB STARRED REPOS"),
