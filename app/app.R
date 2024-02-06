@@ -1,6 +1,5 @@
 library(shiny)
 library(fs)
-library(DT)
 library(qs)
 library(stringr)
 library(dplyr)
@@ -48,14 +47,10 @@ tbl_theme <- reactable::reactableTheme(
   )
 )
 
-# dat$repo = paste0("<a href='", dat$url, "'>", dat$repo, "</a>")
-# dat <- dplyr::select(dat, -url)
-
 # Define UI for application that draws a histogram
 ui <- shiny::fluidPage(
 
   theme = bslib::bs_theme(
-    # bootswatch = "darkly"
     bootswatch = "cyborg"
   ),
 
@@ -109,7 +104,6 @@ ui <- shiny::fluidPage(
       width = 9,
       reactable::reactableOutput("table") |>
         shinycustomloader::withLoader()
-      # DT::DTOutput("table")
     )
   )
 
@@ -117,10 +111,8 @@ ui <- shiny::fluidPage(
 
 # Define server logic required to draw a histogram
 server <- function(input, output, session) {
-
+  
   data <- shiny::reactive({
-
-    # browser()
 
     dat |>
       dplyr::filter(
@@ -210,26 +202,10 @@ server <- function(input, output, session) {
       fullWidth = TRUE
     )
 
-    # DT::datatable(
-    #   out,
-    #   escape = FALSE,
-    #   rownames = FALSE,
-    #   colnames = stringr::str_to_title(colnames(out)),
-    #   caption = paste0(
-    #     "Last updated on ",
-    #     stringr::str_sub(basename(dat_file), 1, 10)
-    #   ),
-    #   extensions = c("Buttons"),
-    #   options = list(
-    #     dom = "Bflrtip",
-    #     pageLength = 10,
-    #     lengthMenu = c(10, 25, 50, 100),
-    #     buttons = c('copy', 'csv', 'excel', 'pdf', 'print')
-    #   )
-    # )
   })
 
   shiny::observeEvent(list(
+    data(),
     input$last_updated,
     input$created,
     input$stars,
