@@ -130,6 +130,12 @@ server <- function(input, output, session) {
         .data$created <= input$created[2],
         .data$stargazers >= input$stars,
         .data$language %in% input$language
+      ) |>
+      dplyr::mutate(
+        url = stringr::str_replace(
+          stringr::str_replace(url, "api.github.com", "github.com"),
+          "repos/", ""
+        )
       )
 
   })
@@ -153,10 +159,11 @@ server <- function(input, output, session) {
       columns = list(
         repo = reactable::colDef(
           name = "Repository",
+          html = TRUE,
           cell = function(value, index) {
             url <- out[index, "url"]
             if (nchar(url) < 3) return("")
-            htmltools::tags$a(href = url, target = "_blank", as.character(value))
+            htmltools::tags$a(href = as.character(url), target = "_blank", as.character(value))
           }),
         description = reactable::colDef(
           name = "Description",
