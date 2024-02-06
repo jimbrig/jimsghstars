@@ -131,19 +131,45 @@ server <- function(input, output, session) {
       )
 
   })
+  
+  observeEvent(data(), {
+    
+    dat <- data()
+    
+    shiny::updateDateRangeInput(
+      session,
+      "last_updated",
+      start = min(dat$last_updated, na.rm = TRUE),
+      end = max(dat$last_updated, na.rm = TRUE),
+      min = min(dat$last_updated, na.rm = TRUE),
+      max = max(dat$last_updated, na.rm = TRUE)
+    )
+    shiny::updateDateRangeInput(
+      session,
+      "created",
+      start = min(dat$created, na.rm = TRUE),
+      end = max(dat$created, na.rm = TRUE),
+      min = min(dat$created, na.rm = TRUE),
+      max = max(dat$created, na.rm = TRUE)
+    )
+    shiny::updateSliderInput(
+      session,
+      "stars",
+      min = 0,
+      max = max(dat$stargazers),
+      value = 0
+    )
+  }, ignoreInit = TRUE)
 
   output$table <- reactable::renderReactable({ # DT::renderDT({
 
     out <- data()
 
-    # browser()
-
     reactable::reactable(
       data = out,
       theme = tbl_theme,
       defaultColDef = reactable::colDef(
-        align = "center"#,
-        # minWidth = 100
+        align = "center"
       ),
       defaultSorted = c(
         "stargazers"
