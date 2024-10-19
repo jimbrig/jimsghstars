@@ -558,7 +558,6 @@
 - [CCcat8059/FastWeb](https://github.com/CCcat8059/FastWeb) - PowerToys Run Plugin
 - [CoreyHayward/PowerToys-Run-ClipboardManager](https://github.com/CoreyHayward/PowerToys-Run-ClipboardManager) - PowerToys Run Plugin enabling searching of the clipboard history and pasting the selected item.
 - [TBM13/BrowserSearch](https://github.com/TBM13/BrowserSearch) - PowerToys Run plugin to search your browser history
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [codemagic-ci-cd/codemagic-sample-projects](https://github.com/codemagic-ci-cd/codemagic-sample-projects) - A collection of sample apps built with Codemagic CI/CD. Please see the codemagic.yaml file for a sample workflow configuration.
 - [dylan-george-field/work-from-home-log](https://github.com/dylan-george-field/work-from-home-log) - Log your WiFi network hourly ⌚
 - [mmanela/MarkdownOutlook](https://github.com/mmanela/MarkdownOutlook) - Write outlook emails in markdown
@@ -1042,6 +1041,7 @@
 - [isciences/exactextractr](https://github.com/isciences/exactextractr) - R package for fast and accurate raster zonal statistics
 - [osm2pgsql-dev/osm2pgsql](https://github.com/osm2pgsql-dev/osm2pgsql) - OpenStreetMap data to PostgreSQL converter
 - [majorkingleo/xstow](https://github.com/majorkingleo/xstow) - 
+- [felikcat/W11Boost](https://github.com/felikcat/W11Boost) - 🚀Optimizes Windows without changing its usage. Does not: break apps or ruin security.
 - [Const-me/Whisper](https://github.com/Const-me/Whisper) - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
 - [riverar/mach2](https://github.com/riverar/mach2) - Windows Feature Control Multi-tool
 - [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
@@ -2619,6 +2619,7 @@
 
 ## HTML 
 
+- [codingthefuturewithai/python-trainer](https://github.com/codingthefuturewithai/python-trainer) - 
 - [codingforentrepreneurs/Cursor-Hello-World](https://github.com/codingforentrepreneurs/Cursor-Hello-World) - Learn Cursor basics to build and deploy an HTML website to the internet.
 - [vikram-rawat/Best_R_Practices](https://github.com/vikram-rawat/Best_R_Practices) - A book for defining best R practices
 - [annakrystalli/dataspice-tutorial](https://github.com/annakrystalli/dataspice-tutorial) - Tutorial in practical research data management: creating simple metadata files using dataspice
@@ -5140,7 +5141,7 @@
 - [nosir/obelisk.js](https://github.com/nosir/obelisk.js) - Build pixel isometric graphics with HTML5 canvas
 - [sebhildebrandt/systeminformation](https://github.com/sebhildebrandt/systeminformation) - System Information Library for Node.JS
 - [rstudio/shinytableau](https://github.com/rstudio/shinytableau) - Extend Tableau dashboards using Shiny
-- [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. (This is currently not being maintained)
+- [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. (This is currently not being actively maintained)
 - [nirgn975/generator-jekyll-starter-kit](https://github.com/nirgn975/generator-jekyll-starter-kit) - 🚀 Jekyll Progressive Web App Generator.
 - [faviator/faviator](https://github.com/faviator/faviator) - A simple easy favicon generator.
 - [smuyyh/GitHubWidgets](https://github.com/smuyyh/GitHubWidgets) - GitHub html widget, include User Widget、Repo Widget and Activity Widget.
@@ -5650,6 +5651,7 @@
 - [yeyu2/Youtube_demos](https://github.com/yeyu2/Youtube_demos) - 
 - [mistralai/cookbook](https://github.com/mistralai/cookbook) - 
 - [robertheubanks/AI-Engineering-Demo-Day](https://github.com/robertheubanks/AI-Engineering-Demo-Day) - 
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [SamurAIGPT/langchain-course](https://github.com/SamurAIGPT/langchain-course) - Learn to build and deploy AI apps.
 - [cohere-ai/notebooks](https://github.com/cohere-ai/notebooks) - Code examples and jupyter notebooks for the Cohere Platform
 - [groq/groq-api-cookbook](https://github.com/groq/groq-api-cookbook) - 
@@ -8347,7 +8349,6 @@
 - [gui-cs/F7History](https://github.com/gui-cs/F7History) - Use F7 as "Show Command History" in Powershell
 - [levicm/win-tools](https://github.com/levicm/win-tools) - This is the a set of Windows 10/11 tool scripts, from a creation of multiple debloat scripts and gists from github.
 - [franckferman/Hyper-V_Toolbox](https://github.com/franckferman/Hyper-V_Toolbox) - 🪷 Streamlining Virtual Machine Management. Inspired by Vagrant and Docker, Hyper-V Toolbox is aimed at providing users with a more efficient and user-friendly tool for virtual machine management.
-- [felikcat/W11Boost](https://github.com/felikcat/W11Boost) - 🚀Optimizes Windows without changing its usage. Does not: break apps or ruin security.
 - [CameliaD/File-Organizer](https://github.com/CameliaD/File-Organizer) - This Git repository contains a PowerShell script with a user-friendly interface to automatically organize cluttered files into folders by year and month. Ideal for individuals who struggle with file o
 - [RylandDeGregory/PSTagLib](https://github.com/RylandDeGregory/PSTagLib) - PowerShell module and collection of PowerShell utilities for managing audio file metadata tags.
 - [nt4f04uNd/pwsh-download-songs](https://github.com/nt4f04uNd/pwsh-download-songs) - A simple powershell utility to easily grab and download songs and playlists from popular websites
@@ -9720,7 +9721,6 @@
 - [jonluca/Anubis](https://github.com/jonluca/Anubis) - Subdomain enumeration and information gathering tool
 - [timkitch/langchain-sql-agent](https://github.com/timkitch/langchain-sql-agent) - 
 - [timkitch/yt-coding-assistants-rag-tutorial](https://github.com/timkitch/yt-coding-assistants-rag-tutorial) - 
-- [codingthefuturewithai/python-trainer](https://github.com/codingthefuturewithai/python-trainer) - 
 - [thaddavis/crewai_and_agentops_demo_2](https://github.com/thaddavis/crewai_and_agentops_demo_2) - 
 - [codingforentrepreneurs/reflex-gpt](https://github.com/codingforentrepreneurs/reflex-gpt) - Build a Python Reflex App with OpenAI, a Neon Postgres + Vector Database, and Deploy to a Virtual Machine
 - [codingforentrepreneurs/Cursor-Django](https://github.com/codingforentrepreneurs/Cursor-Django) - Learn how to build your first full stack web app with English and Cursor AI
@@ -15238,7 +15238,7 @@
 - [r-lib/jose](https://github.com/r-lib/jose) - Javascript Object Signing and Encryption for R
 - [colearendt/xlsx](https://github.com/colearendt/xlsx) - An R package to interact with Excel files using the Apache POI java library
 - [business-science/correlationfunnel](https://github.com/business-science/correlationfunnel) - Speed Up Exploratory Data Analysis (EDA)
-- [r-lib/log4r](https://github.com/r-lib/log4r) - A log4j derivative for R.
+- [r-lib/log4r](https://github.com/r-lib/log4r) - A fast & lightweight approach to logging in R based on the widely-emulated Apache Log4j project.
 - [mikemeredith/AHMbook](https://github.com/mikemeredith/AHMbook) - R package with functions and data for the book 'Applied Hierarchical Modeling in Ecology'
 - [seanhardison1/vcrshiny](https://github.com/seanhardison1/vcrshiny) - A shiny app for visualizing research data from the Virginia Coast Reserve LTER
 - [USCbiostats/slurmR](https://github.com/USCbiostats/slurmR) - slurmR: A Lightweight Wrapper for Slurm
@@ -17963,7 +17963,7 @@
 - [firecamp-dev/firecamp](https://github.com/firecamp-dev/firecamp) - Developer-first OpenSource API DevTool, Postman/Insomnia alternative.
 - [fosslife/devtools-x](https://github.com/fosslife/devtools-x) - Collection of offline first developer utilities available as non-electron desktop application. all in one place, cross-platform, 10MB app!
 - [AidanTilgner/ScrapeTools](https://github.com/AidanTilgner/ScrapeTools) - Just some web scraping scripts
-- [MikeBirdTech/obsidian-open-interpreter](https://github.com/MikeBirdTech/obsidian-open-interpreter) - Bring the power of Open Interpreter into your Obsidian vault
+- [MikeBirdTech/obsidian-open-interpreter](https://github.com/MikeBirdTech/obsidian-open-interpreter) - The power of Open Interpreter in your Obsidian vault
 - [aws-solutions/generative-ai-application-builder-on-aws](https://github.com/aws-solutions/generative-ai-application-builder-on-aws) - Generative AI Application Builder on AWS facilitates the development, rapid experimentation, and deployment of generative artificial intelligence (AI) applications without requiring deep experience in
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [zizdlp/zbook](https://github.com/zizdlp/zbook) - ZBook,An alternative solution for team-level GitBook
@@ -18781,7 +18781,7 @@
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
 - [Shopify/polaris](https://github.com/Shopify/polaris) - Shopify’s design system to help us work together to build a great experience for all of our merchants.
 - [greybax/MSEdgeSearchClicker](https://github.com/greybax/MSEdgeSearchClicker) - Microsoft Edge browser search clicker with random words
-- [bcms/cms](https://github.com/bcms/cms) - ⭐️ BCMS is a Headless CMS for developers & their clients. Works nicely with Gatsby, Next.js & Nuxt. You can even self-host it.
+- [bcms/cms](https://github.com/bcms/cms) - ⭐️ BCMS is a Headless CMS for developers & their clients. Works nicely with Gatsby, Next.js & Nuxt. This is an open-source version for self-hosting.
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓
 - [MarsX-dev/devhunt](https://github.com/MarsX-dev/devhunt) - A launching platform for dev tools, built by developers. Open-source and collaborative, we use GitHub pull requests for listings and user logins for genuine voting. Join us at DevHunt to showcase your
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
