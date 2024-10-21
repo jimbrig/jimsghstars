@@ -1145,6 +1145,7 @@
 - [rstudio/rstudio-launcher-plugin-sdk](https://github.com/rstudio/rstudio-launcher-plugin-sdk) - The RStudio Launcher Plugin SDK is a software development kit used to create plugins that integrate orchestration tools with the RStudio Job Launcher.
 - [sdllc/jsclientlib](https://github.com/sdllc/jsclientlib) - R support package for the JS front-end client
 - [sdllc/controlr](https://github.com/sdllc/controlr) - controlR is a node module for running commands in an external R process.
+- [SymbolixAU/googlePolylines](https://github.com/SymbolixAU/googlePolylines) - R package for encoding objects using Google's Polyline Encoding Algorithm
 - [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows) - A framework for building native Windows apps with React.
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
@@ -2039,7 +2040,7 @@
 - [chanify/chanify](https://github.com/chanify/chanify) - Chanify is a safe and simple notification tools. This repository is command line tools for Chanify.
 - [Zibbp/navidrome-utils](https://github.com/Zibbp/navidrome-utils) - Navidrome Utils
 - [linode/docker-volume-linode](https://github.com/linode/docker-volume-linode) - Docker Volume driver for Linode Block Storage
-- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [tlowerison/credential-1password](https://github.com/tlowerison/credential-1password) - 1Password credential helper for git + docker 🏄
 - [Keeper-Security/terraform-provider-secretsmanager](https://github.com/Keeper-Security/terraform-provider-secretsmanager) - 
 - [tomakado/projector](https://github.com/tomakado/projector) - A flexible, language and framework agnostic tool that allows you to generate projects from templates.
@@ -3153,7 +3154,6 @@
 - [darekkay/dev-tools](https://github.com/darekkay/dev-tools) - Developer tools
 - [darekkay/config-files](https://github.com/darekkay/config-files) - My collection of .dotfiles, settings and snippets.
 - [smach/R4JournalismBook](https://github.com/smach/R4JournalismBook) - Companion site for my book Practical R for Mass Communication & Journalism, part of the CRC Press R Series
-- [SymbolixAU/googlePolylines](https://github.com/SymbolixAU/googlePolylines) - R package for encoding objects using Google's Polyline Encoding Algorithm
 - [SymbolixAU/mapdeck](https://github.com/SymbolixAU/mapdeck) - R interface to Deck.gl and Mapbox
 - [Appsilon/data.validator](https://github.com/Appsilon/data.validator) - validate your data and create nice reports straight from R
 - [ColoradoDemography/shiny-landing-page](https://github.com/ColoradoDemography/shiny-landing-page) - 
@@ -5975,7 +5975,7 @@
 - [primer/design](https://github.com/primer/design) - Primer Design Guidelines
 - [frictionlessdata/datapackage-v2-draft](https://github.com/frictionlessdata/datapackage-v2-draft) - This repository has been merged back into https://github.com/frictionlessdata/datapackage.
 - [mendableai/nextra-test](https://github.com/mendableai/nextra-test) - 
-- [remcostoeten/snippets.remcostoeten](https://github.com/remcostoeten/snippets.remcostoeten) - This is an app containing various snippets, guides, and productivity scripts I use personally or for my job. The site is maintained via Markdown.mdx and powered by Nextra, which is a static site gener
+- [remcostoeten/snippets.remcostoeten](https://github.com/remcostoeten/snippets.remcostoeten) - A personal snippet storage documentation site for anything I need to remember. Build in NextJS, maintained through MDX.
 - [radix-ui/website](https://github.com/radix-ui/website) - Website and documentation for Radix.
 - [oedotme/website](https://github.com/oedotme/website) - Personal website and blog built with Astro, MDX, Tailwind CSS and hosted on Vercel.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
@@ -6182,6 +6182,7 @@
 - [TablePlus/DBngin](https://github.com/TablePlus/DBngin) - DB Engine
 - [kriasoft/Folder-Structure-Conventions](https://github.com/kriasoft/Folder-Structure-Conventions) - Folder / directory structure options and naming conventions for software projects
 - [pilcrowonpaper/copenhagen](https://github.com/pilcrowonpaper/copenhagen) - A basic guideline on implementing auth for the web
+- [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [ixpantia/prodr](https://github.com/ixpantia/prodr) - 
 - [andyquinterom/shinyFitness](https://github.com/andyquinterom/shinyFitness) - Fitness app built on R Shiny.
 - [gitcommitshow/awesome-authentication](https://github.com/gitcommitshow/awesome-authentication) - Resources to learn and implement authentication in your application
@@ -16433,6 +16434,7 @@
 - [hendrikschneider/jekyll-analytics](https://github.com/hendrikschneider/jekyll-analytics) - Plugin to easily add webanalytics to your jekyll site. Currently Google Analytics, Piwik and mPulse are supported.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
+- [bitol-io/open-data-contract-standard](https://github.com/bitol-io/open-data-contract-standard) - Home of the Open Data Contract Standard (ODCS).
 - [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) - A guide to contributing to open source
 - [jei-doubleton/city-ordinance-cli](https://github.com/jei-doubleton/city-ordinance-cli) - CLI that scrapes MuniCode to provide text of local ordinances
 - [Shopify/shopify_app](https://github.com/Shopify/shopify_app) - A Rails Engine for building Shopify Apps
@@ -16981,7 +16983,6 @@
 - [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) - Guide by Example
 - [zeriontech/contract-template](https://github.com/zeriontech/contract-template) - Clean contract template with right environment
 - [calcom/docker](https://github.com/calcom/docker) - The Docker configuration for Cal.com is an effort powered by people within the community. Cal.com, Inc. does not provide official support for Docker, but we will accept fixes and documentation. Use at
-- [bitol-io/open-data-contract-standard](https://github.com/bitol-io/open-data-contract-standard) - Home of the Open Data Contract Standard (ODCS).
 - [scottashipp/noted](https://github.com/scottashipp/noted) - Lightweight CLI for taking markdown notes in a journal-like (time-seried) fashion
 - [mona-actions/gh-repo-stats](https://github.com/mona-actions/gh-repo-stats) - GH CLI extension to pull statistics on repository metadata used in GitHub migrations
 - [chmouel/gh-get-asset](https://github.com/chmouel/gh-get-asset) - GH extensions to get an asset from a release
@@ -17382,7 +17383,7 @@
 - [ChrisTitusTech/zsh](https://github.com/ChrisTitusTech/zsh) - My ZSH Config
 - [basvandriel/dotfiles](https://github.com/basvandriel/dotfiles) - 
 - [santiMartDev/dotfiles](https://github.com/santiMartDev/dotfiles) - This is my dotfiles repo, please feel free to share and contribute!
-- [LeoColomb/dotfiles](https://github.com/LeoColomb/dotfiles) - 🔧 .files OS agnostic
+- [LeoColomb/dotfiles](https://github.com/LeoColomb/dotfiles) - 🔧 Operating-system agnostic dotfiles
 - [exTerEX/wsldots](https://github.com/exTerEX/wsldots) - Personal dotfiles for Windows Subsystems for Linux (WSL)
 - [joshhighet/kerchow](https://github.com/joshhighet/kerchow) - amplify your terminal for security research  🏎 🖥️
 - [orhun/git-cliff-action](https://github.com/orhun/git-cliff-action) - GitHub action to generate a changelog based on the Git history
@@ -18019,7 +18020,6 @@
 - [pilcrowonpaper/arctic](https://github.com/pilcrowonpaper/arctic) - OAuth 2.0 clients for popular providers
 - [lucia-auth/examples](https://github.com/lucia-auth/examples) - A collection of example projects built with Lucia
 - [pilcrowonpaper/oslo](https://github.com/pilcrowonpaper/oslo) - A collection of auth-related utilities
-- [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [triggerdotdev/schema-infer](https://github.com/triggerdotdev/schema-infer) - Infers JSON Schemas and Type Definitions from example JSON
 - [triggerdotdev/fuzzy-json-search](https://github.com/triggerdotdev/fuzzy-json-search) - Search a JSON document by path, content, and inferred content
@@ -19873,7 +19873,6 @@
 - [todar/VBA-Userform-EventListener](https://github.com/todar/VBA-Userform-EventListener) - 🎉 A very easy way to add event listeners to a userform.
 - [ViperSRT3g/VBA-General](https://github.com/ViperSRT3g/VBA-General) - A repository of various modules and classes for interacting with Excel and doing other... things.
 - [ws-garcia/VBA-CSV-interface](https://github.com/ws-garcia/VBA-CSV-interface) - The power you need to cleanse, filter, sort, reshape, manage and analyze data from CSV files.
-- [kellyethridge/VBCorLib](https://github.com/kellyethridge/VBCorLib) - The VBCorLib framework brings many of the powerful .NET classes to VB6.
 - [tankalxat34/vbaRequests](https://github.com/tankalxat34/vbaRequests) - The simple module for making requests to websites on VBA Excel
 - [stanislavsabev/FxRange](https://github.com/stanislavsabev/FxRange) - VBA Class to manage Table-like Range in Excel
 - [HenriAugusto/VBA-Scripts](https://github.com/HenriAugusto/VBA-Scripts) - Compilation of Visual Basic For Applications scripts
@@ -20120,6 +20119,7 @@
 - [OlimilO1402/DB_SmartADB](https://github.com/OlimilO1402/DB_SmartADB) - beta-version, small address database, with file in step-format,
 - [sancarn/stdVBA-Inspiration](https://github.com/sancarn/stdVBA-Inspiration) - Sample VB6 and VBA code used for inspiration of syntax/algorithms for usage in the stdVBA library
 - [Planet-Source-Code/sql-server-utils__1-14711](https://github.com/Planet-Source-Code/sql-server-utils__1-14711) - 
+- [kellyethridge/VBCorLib](https://github.com/kellyethridge/VBCorLib) - The VBCorLib framework brings many of the powerful .NET classes to VB6.
 - [dragokas/hijackthis](https://github.com/dragokas/hijackthis) - A free utility that finds malware, adware and other security threats
 
 ## Vue 
