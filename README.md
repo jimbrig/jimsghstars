@@ -357,6 +357,7 @@
 - [MobilityDB/MobilityDB](https://github.com/MobilityDB/MobilityDB) - MobilityDB is a geospatial trajectory data management & analysis platform, built on PostgreSQL and PostGIS.
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
 - [Marketcircle/bpylist](https://github.com/Marketcircle/bpylist) - Parse and Generate binary plists and NSKeyedArchiver archives
+- [felikcat/W11Boost](https://github.com/felikcat/W11Boost) - 🚀Optimizes Windows without changing its usage. Does not: break apps or ruin security.
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [Biswa96/WSLInstall](https://github.com/Biswa96/WSLInstall) - Install any GNU/Linux userspace in WSL
 - [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) - Samples for CUDA Developers which demonstrates features in CUDA Toolkit
@@ -824,7 +825,6 @@
 - [Azure-Samples/active-directory-dotnetcore-devicecodeflow-v2](https://github.com/Azure-Samples/active-directory-dotnetcore-devicecodeflow-v2) - .NET Core console application letting a user acquire a token for the Microsoft Graph by signing in through another device having a Web browser, with the Azure AD v2.0 endpoint
 - [microsoft/PTVS](https://github.com/microsoft/PTVS) - Python Tools for Visual Studio
 - [aws/aws-tools-for-powershell](https://github.com/aws/aws-tools-for-powershell) - The AWS Tools for PowerShell lets developers and administrators manage their AWS services from the PowerShell scripting environment.
-- [microsoft/PartsUnlimited](https://github.com/microsoft/PartsUnlimited) - .Net Core + SQL Azure app for DevOps Scenarios
 - [Azure-Samples/openhack-devops-team](https://github.com/Azure-Samples/openhack-devops-team) - DevOps OpenHack Team environment APIs
 - [PowerShell/SecretManagement](https://github.com/PowerShell/SecretManagement) - PowerShell module to consistent usage of secrets through different extension vaults
 - [jb262/ActuarialMaths.NonLife](https://github.com/jb262/ActuarialMaths.NonLife) - Class library for actuarial claims reserving and tariff rating for non-life insurances
@@ -1041,7 +1041,6 @@
 - [isciences/exactextractr](https://github.com/isciences/exactextractr) - R package for fast and accurate raster zonal statistics
 - [osm2pgsql-dev/osm2pgsql](https://github.com/osm2pgsql-dev/osm2pgsql) - OpenStreetMap data to PostgreSQL converter
 - [majorkingleo/xstow](https://github.com/majorkingleo/xstow) - 
-- [felikcat/W11Boost](https://github.com/felikcat/W11Boost) - 🚀Optimizes Windows without changing its usage. Does not: break apps or ruin security.
 - [Const-me/Whisper](https://github.com/Const-me/Whisper) - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
 - [riverar/mach2](https://github.com/riverar/mach2) - Windows Feature Control Multi-tool
 - [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
@@ -1215,7 +1214,7 @@
 - [romainfrancois/chew](https://github.com/romainfrancois/chew) - hashing tools for R
 - [romainfrancois/css](https://github.com/romainfrancois/css) - tidy css manipulation
 - [RfastOfficial/Rfast](https://github.com/RfastOfficial/Rfast) - A collection of Rfast functions for data analysis.  Note 1: The vast majority of the functions accept matrices only, not data.frames.  Note 2: Do not have matrices or vectors with have missing data (i
-- [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
+- [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
 - [eddelbuettel/rcppsimdjson](https://github.com/eddelbuettel/rcppsimdjson) - Rcpp Bindings for the 'simdjson' Header Library
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [bnosac/sentencepiece](https://github.com/bnosac/sentencepiece) - R package for Byte Pair Encoding / Unigram modelling based on Sentencepiece
@@ -1572,6 +1571,7 @@
 
 ## CoffeeScript 
 
+- [dropbox/zxcvbn](https://github.com/dropbox/zxcvbn) - Low-Budget Password Strength Estimation
 - [tanaikech/ImgApp](https://github.com/tanaikech/ImgApp) - This is a library of image tools for Google Apps Script.
 - [alecperkins/shiny](https://github.com/alecperkins/shiny) - Shiny CSS
 - [alexkirsz/dispatch-proxy](https://github.com/alexkirsz/dispatch-proxy) - Combine internet connections, increase your download speed
@@ -1877,7 +1877,7 @@
 - [Keeper-Security/git-ssh-sign](https://github.com/Keeper-Security/git-ssh-sign) - Git SSH sign feature for Keeper Secrets Manager
 - [jianyuan/onetab-export-to-json](https://github.com/jianyuan/onetab-export-to-json) - 🔖 Export URLs directly from OneTab's LevelDB database to JSON
 - [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
-- [GlobalCyberAlliance/domain-security-scanner](https://github.com/GlobalCyberAlliance/domain-security-scanner) - Scan domains and receive advice based on their BIMI, DKIM, DMARC, and SPF records
+- [globalcyberalliance/domain-security-scanner](https://github.com/globalcyberalliance/domain-security-scanner) - Scan domains and receive advice based on their BIMI, DKIM, DMARC, and SPF records
 - [tierpod/dmarc-report-converter](https://github.com/tierpod/dmarc-report-converter) - Convert dmarc reports from xml to human-readable formats
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [inbucket/inbucket](https://github.com/inbucket/inbucket) - Disposable webmail server (similar to Mailinator) with built in SMTP, POP3, RESTful servers; no DB required.
@@ -3714,6 +3714,8 @@
 
 ## JavaScript 
 
+- [stuporfly/ObsidianTodoistProjects](https://github.com/stuporfly/ObsidianTodoistProjects) - 
+- [Pierrad/obsidian-github-copilot](https://github.com/Pierrad/obsidian-github-copilot) - A bridge between Obsidian and Github Copilot
 - [Automattic/juice](https://github.com/Automattic/juice) - Juice inlines CSS stylesheets into your HTML source.
 - [codingforentrepreneurs/Try-Reactjs](https://github.com/codingforentrepreneurs/Try-Reactjs) - Star repo to vote for new version
 - [oaa-tools/bookmarklets-library](https://github.com/oaa-tools/bookmarklets-library) - JavaScript library used to create accessibility bookmarklets
@@ -3741,7 +3743,7 @@
 - [ankane/setup-postgres](https://github.com/ankane/setup-postgres) - The missing action for Postgres
 - [GoogleCloudPlatform/nodejs-docs-samples](https://github.com/GoogleCloudPlatform/nodejs-docs-samples) - Node.js samples for Google Cloud Platform products.
 - [Fannon/mobo](https://github.com/Fannon/mobo) - Mobo is a command line tool that helps building and deploying Semantic MediaWiki structure in an agile, model-driven way.
-- [penghuili/easyy.click](https://github.com/penghuili/easyy.click) - 1 click to open frequently used links, or copy frequently used notes.
+- [penghuili/easyy.click](https://github.com/penghuili/easyy.click) - Manage frequently used links and notes.
 - [uploadcare/file-uploader](https://github.com/uploadcare/file-uploader) - Stack-agnostic library for uploading, processing, and editing images on-the-fly
 - [sugia/codeflow](https://github.com/sugia/codeflow) - Instant Code Base Insights for Any Language
 - [bladefist/JsonUtils](https://github.com/bladefist/JsonUtils) - Json to C#, VB.Net, Javascript and SQL Server Table
@@ -5971,6 +5973,7 @@
 
 ## MDX 
 
+- [niledatabase/niledatabase](https://github.com/niledatabase/niledatabase) - PostgreSQL reengineered for multi-tenant apps
 - [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu) - A technical explainer by @kognise of how your computer runs programs, from start to finish.
 - [primer/design](https://github.com/primer/design) - Primer Design Guidelines
 - [frictionlessdata/datapackage-v2-draft](https://github.com/frictionlessdata/datapackage-v2-draft) - This repository has been merged back into https://github.com/frictionlessdata/datapackage.
@@ -6158,6 +6161,7 @@
 
 ## Others 
 
+- [restcase/apibldr](https://github.com/restcase/apibldr) - Bugs, Issues and Info about ApiBldr
 - [danielmiessler/Telos](https://github.com/danielmiessler/Telos) - Telos is an open-sourced framework for creating Deep Context about things that matter to humans.
 - [danielmiessler/Daemon](https://github.com/danielmiessler/Daemon) - An open-source personal API framework.
 - [sofia099/RocksetGPT](https://github.com/sofia099/RocksetGPT) - 
@@ -7786,7 +7790,6 @@
 - [mcanouil/hex-stickers](https://github.com/mcanouil/hex-stickers) - Hex Stickers from R Packages or R Shiny Application
 - [Ractuary/ractuary-dialect](https://github.com/Ractuary/ractuary-dialect) - Standardized definitions for common actuarial/insurance terms
 - [bradleyboehmke/data-science-learning-resources](https://github.com/bradleyboehmke/data-science-learning-resources) - A collection of data science and machine learning resources that I've found helpful (I only post what I've read!)
-- [jeroen/solarisvm](https://github.com/jeroen/solarisvm) - VMware image with R on Solaris
 - [rmflight/rerrors](https://github.com/rmflight/rerrors) - collection of errors in R as well as explanations
 - [knapply/ds4le-book](https://github.com/knapply/ds4le-book) - 
 - [patrickshox/Mojave-Dark-RStudio-Theme](https://github.com/patrickshox/Mojave-Dark-RStudio-Theme) - A Total-IDE Dark RStudio Theme inspired by Apple's dark aestheticcc.
@@ -8051,6 +8054,7 @@
 
 ## PowerShell 
 
+- [Blakelishly/PowerShellRedfishTools](https://github.com/Blakelishly/PowerShellRedfishTools) - A collection of helpful tools to interface with BMC targets that support the Redfish specification.
 - [rainersigwald/dotfiles](https://github.com/rainersigwald/dotfiles) - Configuration for my user profile.
 - [SAGSA/SystemInfo](https://github.com/SAGSA/SystemInfo) - Fast gather system information on a local or remote computer
 - [106094/modules](https://github.com/106094/modules) - auto testing psm
@@ -9718,6 +9722,9 @@
 
 ## Python 
 
+- [posit-dev/shiny-assistant](https://github.com/posit-dev/shiny-assistant) - Chat assistant for Shiny
+- [posit-dev/brand-yml](https://github.com/posit-dev/brand-yml) - Unified branding with a single yaml file.
+- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation
 - [llmware-ai/llmware](https://github.com/llmware-ai/llmware) - Unified framework for building enterprise RAG pipelines with small, specialized models
 - [jonluca/Anubis](https://github.com/jonluca/Anubis) - Subdomain enumeration and information gathering tool
 - [timkitch/langchain-sql-agent](https://github.com/timkitch/langchain-sql-agent) - 
@@ -9787,6 +9794,7 @@
 - [timkitch/ai-shell-command-generator](https://github.com/timkitch/ai-shell-command-generator) - 
 - [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
 - [marella/chatdocs](https://github.com/marella/chatdocs) - Chat with your documents offline using AI.
+- [insightsengineering/r-pkgdown-multiversion](https://github.com/insightsengineering/r-pkgdown-multiversion) - Github Action to generate multiple versions of pkgdown docs for R packages
 - [jcheng5/py-sidebot](https://github.com/jcheng5/py-sidebot) - 
 - [google-gemini/generative-ai-python](https://github.com/google-gemini/generative-ai-python) - The official Python library for the Google Gemini API
 - [pielco11/fav-up](https://github.com/pielco11/fav-up) - IP lookup by favicon using Shodan
@@ -9986,7 +9994,7 @@
 - [shaharluftig/create-fastapi-app](https://github.com/shaharluftig/create-fastapi-app) - 
 - [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi) - Cookiecutter fastapi is a framework for jumpstarting production-ready fastapi projects quickly.
 - [creepykedi/Fastapi-jewels-tutorial](https://github.com/creepykedi/Fastapi-jewels-tutorial) - Repo for my youtube tutorial
-- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024
+- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - [NeurIPS 2024] SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [a-real-ai/pywinassistant](https://github.com/a-real-ai/pywinassistant) - The first open source Large Action Model generalist Artificial Narrow Intelligence that controls completely human user interfaces by only using natural language. PyWinAssistant utilizes Visualization-
 - [mit-han-lab/efficientvit](https://github.com/mit-han-lab/efficientvit) - Efficient vision foundation models for high-resolution generation and perception.
@@ -10033,7 +10041,7 @@
 - [bhancockio/crew-ai-local-llm](https://github.com/bhancockio/crew-ai-local-llm) - 
 - [bhancockio/trip-planner-with-crewai-2_0](https://github.com/bhancockio/trip-planner-with-crewai-2_0) - 
 - [bhancockio/crew-ai-crash-course](https://github.com/bhancockio/crew-ai-crash-course) - 
-- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen
+- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen
 - [bhancockio/bhancockio-crewai-plus-crash-course](https://github.com/bhancockio/bhancockio-crewai-plus-crash-course) - 
 - [bhancockio/instagram-llama3-crewai](https://github.com/bhancockio/instagram-llama3-crewai) - 
 - [Tech-Watt/YOUTUBE-TUTORIAL-CODES](https://github.com/Tech-Watt/YOUTUBE-TUTORIAL-CODES) - How to Use the Repository You can browse the code for each playlist and episode by navigating to the corresponding folder in the repository. Each folder contains the code used in the video, along with
@@ -10091,7 +10099,7 @@
 - [SqueezeAILab/LLMCompiler](https://github.com/SqueezeAILab/LLMCompiler) - [ICML 2024] LLMCompiler: An LLM Compiler for Parallel Function Calling
 - [hwchase17/testing-hosted-langserve](https://github.com/hwchase17/testing-hosted-langserve) - 
 - [AnswerDotAI/RAGatouille](https://github.com/AnswerDotAI/RAGatouille) - Easily use and train state of the art late-interaction retrieval methods (ColBERT) in any RAG pipeline. Designed for modularity and ease-of-use, backed by research.
-- [princeton-nlp/SWE-bench](https://github.com/princeton-nlp/SWE-bench) - [ICLR 2024] SWE-Bench: Can Language Models Resolve Real-world Github Issues?
+- [princeton-nlp/SWE-bench](https://github.com/princeton-nlp/SWE-bench) - [ICLR 2024] SWE-bench: Can Language Models Resolve Real-world Github Issues?
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
 - [kelvins/awesome-mlops](https://github.com/kelvins/awesome-mlops) - :sunglasses: A curated list of awesome MLOps tools
 - [hwchase17/langchain-streamlit-template](https://github.com/hwchase17/langchain-streamlit-template) - 
@@ -10135,7 +10143,7 @@
 - [tonykipkemboi/ollama_streamlit_demos](https://github.com/tonykipkemboi/ollama_streamlit_demos) - Streamlit UI for Ollama that has support for vision and chat models
 - [pytorch/torchtune](https://github.com/pytorch/torchtune) - PyTorch native finetuning library
 - [dvlab-research/MGM](https://github.com/dvlab-research/MGM) - Official repo for "Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models"
-- [xlang-ai/OSWorld](https://github.com/xlang-ai/OSWorld) - OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
+- [xlang-ai/OSWorld](https://github.com/xlang-ai/OSWorld) - [NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections.
 - [meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama) - Set of tools to assess and improve LLM security.
 - [aio-libs/yarl](https://github.com/aio-libs/yarl) - Yet another URL library
@@ -10509,7 +10517,7 @@
 - [luozhijian/jupyterexcel](https://github.com/luozhijian/jupyterexcel) - Jupyter Extension make notebooks as web api return Json for Excel to Call
 - [openai/plugins-quickstart](https://github.com/openai/plugins-quickstart) - Get a ChatGPT plugin up and running in under 5 minutes!
 - [hegelai/prompttools](https://github.com/hegelai/prompttools) - Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB).
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Open and self-hostable. Get answers from the internet or your docs. Use any online or local LLM (e.g gpt, claude, gemini, llama, qwen, mistral). Access from web, obsidian, emacs,
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the internet or your docs. Use any online or local LLM (e.g gpt, claude, gemini, llama, qwen, mistral). Build custom agents, personalized automati
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [Schweinepriester/beets-itunesimport](https://github.com/Schweinepriester/beets-itunesimport) - Plugin for beets to automatically add imported albums to iTunes
 - [alastair/python-musicbrainzngs](https://github.com/alastair/python-musicbrainzngs) - Python bindings for Musicbrainz' NGS webservice
@@ -10584,9 +10592,10 @@
 - [steamship-core/python-client](https://github.com/steamship-core/python-client) - 
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
 - [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%
+- [ujj/obsidian-notes-meets-openai](https://github.com/ujj/obsidian-notes-meets-openai) - Using OpenAI embeddings to connect book notes in an Obsidian vault
 - [mmz-001/knowledge_gpt](https://github.com/mmz-001/knowledge_gpt) - Accurate answers and instant citations for your documents.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [amosjyng/vcr-langchain](https://github.com/amosjyng/vcr-langchain) - Record and replay LLM interactions for langchain
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
 - [arpanneupane19/Python-Flask-Authentication-Tutorial](https://github.com/arpanneupane19/Python-Flask-Authentication-Tutorial) - 
@@ -11013,7 +11022,7 @@
 - [zayd62/mkdocs-versioning](https://github.com/zayd62/mkdocs-versioning) - A tool that allows for versioning sites built with mkdocs
 - [oprypin/mkdocs-literate-nav](https://github.com/oprypin/mkdocs-literate-nav) - MkDocs plugin to specify the navigation in Markdown instead of YAML
 - [blueswen/mkdocs-glightbox](https://github.com/blueswen/mkdocs-glightbox) - A MkDocs plugin supports image lightbox (zoom effect) with GLightbox.
-- [timvink/mkdocs-charts-plugin](https://github.com/timvink/mkdocs-charts-plugin) - Mkdocs plugin to add vegalite charts to your pages
+- [timvink/mkdocs-charts-plugin](https://github.com/timvink/mkdocs-charts-plugin) - Mkdocs plugin to add plots from data using vegalite
 - [oprypin/mkdocs-gen-files](https://github.com/oprypin/mkdocs-gen-files) - MkDocs plugin to programmatically generate documentation pages during the build
 - [jdoiro3/mkdocs-multirepo-plugin](https://github.com/jdoiro3/mkdocs-multirepo-plugin) - Build documentation in multiple repos into one site.
 - [rosscdh/mkdocs-markdownextradata-plugin](https://github.com/rosscdh/mkdocs-markdownextradata-plugin) - A MkDocs plugin that injects the mkdocs.yml extra variables into the markdown template
@@ -12188,7 +12197,6 @@
 - [benjaminguinaudeau/systemr](https://github.com/benjaminguinaudeau/systemr) - A small package that create an api to run system command outside rstudio
 - [systats/CDN](https://github.com/systats/CDN) - Serving static files for shiny apps.
 - [notPlancha/settingsSync](https://github.com/notPlancha/settingsSync) - R package and Rstudio Addin to sync its settings, keymaps and keyboard shortcuts, using Google Drive.
-- [insightsengineering/r-pkgdown-multiversion](https://github.com/insightsengineering/r-pkgdown-multiversion) - Github Action to generate multiple versions of pkgdown docs for R packages
 - [InsightRX/json2test](https://github.com/InsightRX/json2test) - R library to allow tests and reference values for R packages to be specfied in JSON format
 - [r-lib/cereal](https://github.com/r-lib/cereal) - Serialize vctrs objects to JSON 🥣
 - [ropensci/jsonld](https://github.com/ropensci/jsonld) - R wrapper for jsonld.js JavaScript library
@@ -16552,6 +16560,8 @@
 
 ## Rust 
 
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Start recording your screen today ... or be left behind. Works with Ollama. Alternative to Rewind.ai & Zapier. Open. Secure. You own your data. Rust.
+- [jasonjmcghee/plock](https://github.com/jasonjmcghee/plock) - From anywhere you can type, query and stream the output of an LLM or any other script
 - [schemamap/schemamap](https://github.com/schemamap/schemamap) - Instant batch data import for Postgres
 - [peshrawahmed/auto-spec-ai](https://github.com/peshrawahmed/auto-spec-ai) - Auto-Spec-AI leverages Large Language Models (LLMs) to automatically generate OpenAPI 3.1.0 compliant documentation for any project. Perfect for large-scale systems that lack comprehensive documentati
 - [mufeedvh/gisture](https://github.com/mufeedvh/gisture) - A minimal and flexible blog generator based on GitHub Gist.
@@ -16814,7 +16824,6 @@
 - [edenai/yodabot](https://github.com/edenai/yodabot) - 
 - [hrbrmstr/quarto-organization-template](https://github.com/hrbrmstr/quarto-organization-template) - A Quarto RevealJS Organization Boilerplate Template You Can Clone And Modify Quickly
 - [18F/brand](https://github.com/18F/brand) - 18F Brand
-- [bitwarden/brand](https://github.com/bitwarden/brand) - Logos, icons, screenshots, and other media related to the Bitwarden brand.
 - [andrewheiss/diy-api-plumber-quarto-ojs](https://github.com/andrewheiss/diy-api-plumber-quarto-ojs) - 📔 Use Make and {plumber} to create your own API and show live data in Quarto with R and Observable JS
 - [claire-codes/hugo-blog](https://github.com/claire-codes/hugo-blog) - 🐞✍️ Personal blog
 - [moldach/scss-shiny](https://github.com/moldach/scss-shiny) - An Binder example of integrating SCSS (and HTML) from CodePen into a Shiny Application
@@ -16983,6 +16992,7 @@
 - [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) - Guide by Example
 - [zeriontech/contract-template](https://github.com/zeriontech/contract-template) - Clean contract template with right environment
 - [calcom/docker](https://github.com/calcom/docker) - The Docker configuration for Cal.com is an effort powered by people within the community. Cal.com, Inc. does not provide official support for Docker, but we will accept fixes and documentation. Use at
+- [bitwarden/brand](https://github.com/bitwarden/brand) - Logos, icons, screenshots, and other media related to the Bitwarden brand.
 - [scottashipp/noted](https://github.com/scottashipp/noted) - Lightweight CLI for taking markdown notes in a journal-like (time-seried) fashion
 - [mona-actions/gh-repo-stats](https://github.com/mona-actions/gh-repo-stats) - GH CLI extension to pull statistics on repository metadata used in GitHub migrations
 - [chmouel/gh-get-asset](https://github.com/chmouel/gh-get-asset) - GH extensions to get an asset from a release
@@ -17941,6 +17951,9 @@
 
 ## TypeScript 
 
+- [coleam00/bolt.new-any-llm](https://github.com/coleam00/bolt.new-any-llm) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
+- [wonderwhy-er/bolt.new-with-download-project-as-zip](https://github.com/wonderwhy-er/bolt.new-with-download-project-as-zip) - Prompt, run, edit, and deploy full-stack web applications
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [Ssentiago/obsidian-openapi-renderer](https://github.com/Ssentiago/obsidian-openapi-renderer) - Integrate OpenAPI specification management into Obsidian with features for version control, visualization, editing, and easy navigation of API specs.
 - [chasebank87/unofficial-fabric-plugin](https://github.com/chasebank87/unofficial-fabric-plugin) - Integrate fabric by danielmiessler/fabric into Obsidian
 - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
@@ -18232,7 +18245,7 @@
 - [heracek/practical-monorepo-nx](https://github.com/heracek/practical-monorepo-nx) - Practical monorepo with Nx
 - [guillaumeduhan/teams-next-shadcn](https://github.com/guillaumeduhan/teams-next-shadcn) - 📦 Teams project with Next, Supabase & Shadcn
 - [thorwebdev/edgy-edge-functions](https://github.com/thorwebdev/edgy-edge-functions) - The Edgiest Edge Functions out there!
-- [guillaumeduhan/useritem](https://github.com/guillaumeduhan/useritem) - Never code this component again.
+- [guillaumeduhan/useritem](https://github.com/guillaumeduhan/useritem) - A lightweight and modular React component to display your users informations.
 - [saas-js/saas-ui](https://github.com/saas-js/saas-ui) - The React component library for startups, built with Chakra UI.
 - [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
 - [marcelscruz/dev-resources](https://github.com/marcelscruz/dev-resources) - A collaborative list of resources for developers
@@ -18886,7 +18899,7 @@
 - [vasilecampeanu/obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver) - Weaver is a useful Obsidian plugin that integrates ChatGPT/GPT-3 into your note-taking workflow. This plugin makes it easy to access AI-generated suggestions and insights within Obsidian, helping you 
 - [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - THE Copilot in Obsidian
 - [joethei/obsidian-control-characters](https://github.com/joethei/obsidian-control-characters) - Show control/non-printing characters in edit mode
-- [joethei/obsidian-rss](https://github.com/joethei/obsidian-rss) - Read RSS Feeds from inside obsidian
+- [joethei/obsidian-rss](https://github.com/joethei/obsidian-rss) - Read RSS Feeds from inside Obsidian
 - [joethei/obsidian-calibre](https://github.com/joethei/obsidian-calibre) - Import information about books from your Calibre Library. WIP
 - [joethei/obsidian-tts](https://github.com/joethei/obsidian-tts) - Text to speech for Obsidian. Hear your notes.
 - [joethei/obsidian-uri-link-redirect-copy](https://github.com/joethei/obsidian-uri-link-redirect-copy) - 
@@ -19391,7 +19404,6 @@
 - [akosbalasko/obsidian-autotagger-plugin](https://github.com/akosbalasko/obsidian-autotagger-plugin) - This plugin offers smart tags for notes by performing Named Entity Recognition (NER) on the content
 - [atomcorp/themes](https://github.com/atomcorp/themes) - Themes for Windows Terminal
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [tgrosinger/tq-obsidian](https://github.com/tgrosinger/tq-obsidian) - Yet another Obsidian task manager
 - [wojtekmaj/react-calendar](https://github.com/wojtekmaj/react-calendar) - Ultimate calendar for your React app.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
@@ -20124,6 +20136,7 @@
 
 ## Vue 
 
+- [jolaleye/cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 - [frictionlessdata/frictionlessdata.io](https://github.com/frictionlessdata/frictionlessdata.io) - The main repository of the Frictionless Data project. Website, issues, and discussions
 - [tzuyi0817/PDF-signature](https://github.com/tzuyi0817/PDF-signature) - Online instant PDF signature website.
 - [nuxtbase/nuxt3-starter](https://github.com/nuxtbase/nuxt3-starter) - 💚 A Better Nuxt 3 Starter Template，generate by nuxi.
