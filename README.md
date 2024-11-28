@@ -1013,6 +1013,8 @@
 
 ## C++ 
 
+- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
+- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [jart/json.cpp](https://github.com/jart/json.cpp) - JSON for Classic C++
 - [ropensci/graphql](https://github.com/ropensci/graphql) - Bindings to libgraphqlparser for R
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
@@ -1855,6 +1857,8 @@
 
 ## Go 
 
+- [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework
+- [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go, the easiest way to write LLM-based programs in Go
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int
 - [0xsha/CloudBrute](https://github.com/0xsha/CloudBrute) - Awesome cloud enumerator
 - [editorconfig-checker/editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig
@@ -2653,6 +2657,7 @@
 
 ## HTML 
 
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [continuedev/amplified.dev](https://github.com/continuedev/amplified.dev) - 🔊 We believe in a future where developers are amplified, not automated
 - [6chaoran/data-story](https://github.com/6chaoran/data-story) - data story tech-blog
 - [AtlantaRUsers/Meetups](https://github.com/AtlantaRUsers/Meetups) - All slides and materials from our meetups
@@ -3759,6 +3764,7 @@
 
 ## JavaScript 
 
+- [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [metaskills/experts](https://github.com/metaskills/experts) - Experts.js is the easiest way to create and deploy OpenAI's Assistants and link them together as Tools to create advanced Multi AI Agent Systems with expanded memory and attention to detail.
 - [oobianom/shinyStorePlus](https://github.com/oobianom/shinyStorePlus) - An R package with in-browser storage for Shiny persistent, synchronized data from the inputs using IndexedDB. Transfer browser link parameters to Shiny input or output values.
 - [RReverser/github-editorconfig](https://github.com/RReverser/github-editorconfig) - Browser extension that provides EditorConfig support for GitHub
@@ -3956,7 +3962,7 @@
 - [sprity/sprity-cli](https://github.com/sprity/sprity-cli) - Command line interface for sprity
 - [anseki/htmlclean-cli](https://github.com/anseki/htmlclean-cli) - Simple and safety HTML/SVG cleaner to minify without changing its structure.
 - [monsterlessonsacademy/monsterlessonsacademy](https://github.com/monsterlessonsacademy/monsterlessonsacademy) - 
-- [yihui/misc.js](https://github.com/yihui/misc.js) - Miscellaneous tools and utilities in JavaScript
+- [yihui/lite.js](https://github.com/yihui/lite.js) - Miscellaneous lightweight tools and utilities in JavaScript
 - [oklai/koala](https://github.com/oklai/koala) - Koala is a GUI application for less, sass and coffeescript compilation, to help web developers to the development more efficient.
 - [hypebright/scroll-to-top-shiny](https://github.com/hypebright/scroll-to-top-shiny) - Creating a "scroll to top" button in Shiny that becomes visible when the user starts to scroll the page
 - [MUK-Dev/test-button-muk-dev](https://github.com/MUK-Dev/test-button-muk-dev) - A test button component library made in tutorial
@@ -5669,6 +5675,7 @@
 
 ## Jupyter Notebook 
 
+- [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
 - [julep-ai/julep](https://github.com/julep-ai/julep) - A new DSL and server for AI agents and multi-step tasks
 - [corbt/clippy-ai](https://github.com/corbt/clippy-ai) - VS Code extension to connect to OpenAI Codex
 - [GoogleCloudPlatform/applied-ai-engineering-samples](https://github.com/GoogleCloudPlatform/applied-ai-engineering-samples) - This repository compiles code samples and notebooks demonstrating how to use Generative AI on Google Cloud Vertex AI.
@@ -5737,7 +5744,6 @@
 - [yeyu2/Youtube_demos](https://github.com/yeyu2/Youtube_demos) - 
 - [mistralai/cookbook](https://github.com/mistralai/cookbook) - 
 - [robertheubanks/AI-Engineering-Demo-Day](https://github.com/robertheubanks/AI-Engineering-Demo-Day) - 
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [SamurAIGPT/langchain-course](https://github.com/SamurAIGPT/langchain-course) - Learn to build and deploy AI apps.
 - [cohere-ai/notebooks](https://github.com/cohere-ai/notebooks) - Code examples and jupyter notebooks for the Cohere Platform
 - [groq/groq-api-cookbook](https://github.com/groq/groq-api-cookbook) - 
@@ -6255,6 +6261,7 @@
 
 ## Others 
 
+- [jcheng5/pharma-ai-2024](https://github.com/jcheng5/pharma-ai-2024) - 
 - [codefuse-ai/Awesome-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM) - [TMLR] A curated list of language modeling researches for code and related datasets.
 - [continuedev/Awesome-DevAI](https://github.com/continuedev/Awesome-DevAI) - 😎 Awesome list of resources about using and building AI software development systems
 - [continuedev/prompt-file-examples](https://github.com/continuedev/prompt-file-examples) - Sample .prompt files to use with Continue
@@ -9820,7 +9827,6 @@
 - [matt9ucci/PSProfiles](https://github.com/matt9ucci/PSProfiles) - My PowerShell profiles
 - [ddneves/awesome-azure-learning](https://github.com/ddneves/awesome-azure-learning) - This repo includes plenty of references for Azure learning, especially for the Azure certs and Azure architecture, and any other learning materials e.g. security and automation topics.
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [RamblingCookieMonster/PSSlack](https://github.com/RamblingCookieMonster/PSSlack) - PowerShell module for simple Slack integration
 - [dotps1/PSAppVeyor](https://github.com/dotps1/PSAppVeyor) - A PowerShell Module to interact with the AppVeyor REST Api.
 - [dotps1/PSGist](https://github.com/dotps1/PSGist) - A PowerShell module to work with GitHub Gists.
@@ -9873,6 +9879,10 @@
 
 ## Python 
 
+- [AutoPackAI/beebot](https://github.com/AutoPackAI/beebot) - An Autonomous AI Agent that works
+- [microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe) - LLM-powered multiagent persona simulation for imagination enhancement and business insights.
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
+- [paulpierre/markdown-crawler](https://github.com/paulpierre/markdown-crawler) - A multithreaded 🕸️ web crawler that recursively crawls a website and creates a 🔽 markdown file for each page, designed for LLM RAG
 - [apple/ml-ferret](https://github.com/apple/ml-ferret) - 
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 - [harsxv/tinystatus](https://github.com/harsxv/tinystatus) - Tiny status page generated by a Python script
@@ -9955,7 +9965,7 @@
 - [codingforentrepreneurs/reflex-gpt](https://github.com/codingforentrepreneurs/reflex-gpt) - Build a Python Reflex App with OpenAI, a Neon Postgres + Vector Database, and Deploy to a Virtual Machine
 - [codingforentrepreneurs/Cursor-Django](https://github.com/codingforentrepreneurs/Cursor-Django) - Learn how to build your first full stack web app with English and Cursor AI
 - [colearendt/shiny-chat](https://github.com/colearendt/shiny-chat) - 
-- [bflashcp3f/schema-to-json](https://github.com/bflashcp3f/schema-to-json) - [EMNLP 2024 Findings] "Schema-Driven Information Extraction from Heterogeneous Tables"
+- [bflashcp3f/schema-to-json](https://github.com/bflashcp3f/schema-to-json) - EMNLP 2024 Findings "Schema-Driven Information Extraction from Heterogeneous Tables"
 - [Andryas/example-gcp-scrapy](https://github.com/Andryas/example-gcp-scrapy) - 
 - [RMNCLDYO/groq-ai-toolkit](https://github.com/RMNCLDYO/groq-ai-toolkit) - A versatile CLI and Python wrapper for Groq AI's breakthrough LPU Inference Engine. Streamline the creation of chatbots and generate dynamic text with speeds of up to 800 tokens/sec.
 - [jgravelle/Grompt](https://github.com/jgravelle/Grompt) - Grompt is a Python utility that uses the Groq LLM provider service to instantly refactor amazingly detailed and effective prompts. It's designed to optimize user prompts for better results when workin
@@ -10419,6 +10429,7 @@
 - [nav13n/chatbot](https://github.com/nav13n/chatbot) - A rasa based slack chatbot to find the best restaurants given a city, cuisine and budget.
 - [Significant-Gravitas/Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) - Plugins for Auto-GPT
 - [AI-Engineer-Foundation/agent-protocol](https://github.com/AI-Engineer-Foundation/agent-protocol) - Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [oliveirabruno01/babyagi-asi](https://github.com/oliveirabruno01/babyagi-asi) - BabyAGI: an Autonomous and Self-Improving agent, or BASI
 - [cohere-ai/cohere-python](https://github.com/cohere-ai/cohere-python) - Python Library for Accessing the Cohere API
 - [techwithtim/Price-Tracking-Web-Scraper](https://github.com/techwithtim/Price-Tracking-Web-Scraper) - An automated price tracker that uses bright data, playwright, react and flask.
@@ -12183,6 +12194,7 @@
 - [MrWeckx/obsidian_apps](https://github.com/MrWeckx/obsidian_apps) - I couldn't wait to see new features of obsidian implemented so here's something i guess?
 - [ArchieAtkinson/Obsidoro](https://github.com/ArchieAtkinson/Obsidoro) - DEPRECATED. An Pomodoro Timer for Obsidian.
 - [Spec04/obs_alias_generator](https://github.com/Spec04/obs_alias_generator) - Generate Alias file for Obsidian vault
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [sloretz/off-your-rocker](https://github.com/sloretz/off-your-rocker) - Extensions for osrf/rocker
 - [PythonNut/resilio-sync-cli](https://github.com/PythonNut/resilio-sync-cli) - Reversed engineered API wrapper and CLI for Resilio Sync
 - [lilydjwg/pssh](https://github.com/lilydjwg/pssh) - Parallel SSH Tools
@@ -12274,6 +12286,11 @@
 
 ## R 
 
+- [brodieG/ansistyle](https://github.com/brodieG/ansistyle) - Style Console Output With Ansi Escape Sequences
+- [tjmahr/notestar](https://github.com/tjmahr/notestar) - notestar is a notebook system built on the targets package: notes with targets.
+- [r-multiverse/multitools](https://github.com/r-multiverse/multitools) - Tools for contributing packages to R-multiverse
+- [r-multiverse/multiverse.internals](https://github.com/r-multiverse/multiverse.internals) - Internal infrastructure for R-multiverse
+- [jcheng5/pharma-sidebot](https://github.com/jcheng5/pharma-sidebot) - 
 - [jonthegeek/zoomer](https://github.com/jonthegeek/zoomer) - Zoom API in R
 - [kevin-m-kent/youtubeR](https://github.com/kevin-m-kent/youtubeR) - 
 - [selkamand/assertions](https://github.com/selkamand/assertions) - Assertions with Beautiful and Customizable Error Messages
@@ -12281,7 +12298,6 @@
 - [hedgehogqa/r-hedgehog](https://github.com/hedgehogqa/r-hedgehog) - Release with confidence, state-of-the-art property testing for R.
 - [Martin-McCoy/shinyVirga](https://github.com/Martin-McCoy/shinyVirga) - A Collection of R shiny utilities by Virga Labs
 - [ReneNyffenegger/about-r](https://github.com/ReneNyffenegger/about-r) - About R
-- [surveydown-dev/demo-show-if](https://github.com/surveydown-dev/demo-show-if) - Demo survey showcasing how to conditionally display questions using the `sd_show_if()` function
 - [tadascience/mistral.ai](https://github.com/tadascience/mistral.ai) - 🌬️ mistral.ai R 📦
 - [edavidaja/zd-cli](https://github.com/edavidaja/zd-cli) - 
 - [skranz/gemini_emb](https://github.com/skranz/gemini_emb) - Test Gemini Embeddings
@@ -17300,7 +17316,6 @@
 - [hwchase17/configs](https://github.com/hwchase17/configs) - 
 - [pry0cc/axiom](https://github.com/pry0cc/axiom) - The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!
 - [2KAbhishek/dots2k](https://github.com/2KAbhishek/dots2k) - Passionately Crafted CLI Setup 🐧❤️
-- [joshbuchea/config](https://github.com/joshbuchea/config) - Custom recipe to get a new Mac running from scratch, setup applications and developer environment
 - [sathishvj/gencmd-bash](https://github.com/sathishvj/gencmd-bash) - generate cmd line commands with MakerSuite/Palm/Google Cloud
 - [Schniz/dotfiles](https://github.com/Schniz/dotfiles) - my dotfiles
 - [SixArm/unix-shell-script-kit](https://github.com/SixArm/unix-shell-script-kit) - Unix shell script kit with many utility functions, constant exit codes, and POSIX helpers.
@@ -18276,6 +18291,8 @@
 
 ## TypeScript 
 
+- [Nutlope/picMenu](https://github.com/Nutlope/picMenu) - Visualize menus in seconds with AI
+- [betterstack-community/uptime-badges](https://github.com/betterstack-community/uptime-badges) - 
 - [pontusab/cursor.directory](https://github.com/pontusab/cursor.directory) - Find the best cursor rules for your framework and language
 - [continuedev/npm-template](https://github.com/continuedev/npm-template) - Package Manager Template
 - [varse-io/varse](https://github.com/varse-io/varse) - A fast application config manager
@@ -18286,7 +18303,7 @@
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [gabrielpetersson/fast-grid](https://github.com/gabrielpetersson/fast-grid) - World's most performant DOM-based web table. Try it! fast-grid.vercel.app/
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
-- [lee88688/aider-composer](https://github.com/lee88688/aider-composer) - aider's VSCode extension, seamlessly integrated into VSCode
+- [lee88688/aider-composer](https://github.com/lee88688/aider-composer) - Aider's VSCode extension, seamlessly integrated into VSCode
 - [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe) - Turn expensive prompts into cheap fine-tuned models
 - [RhysSullivan/tenant-kit](https://github.com/RhysSullivan/tenant-kit) - A collection of documentation, components, and resources for building multi-tenant applications.
 - [vanxh/openbio](https://github.com/vanxh/openbio) - Open source beautiful link in bio pages.
@@ -20542,7 +20559,7 @@
 
 ## Vue 
 
-- [HugoRCD/shelve](https://github.com/HugoRCD/shelve) - Shelve, is a project management tool for developer to make project creation and management easier
+- [HugoRCD/shelve](https://github.com/HugoRCD/shelve) - Shelve is an all-in-one development workspace that revolutionizes how developers manage environments and collaborate on projects.
 - [jolaleye/cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 - [frictionlessdata/frictionlessdata.io](https://github.com/frictionlessdata/frictionlessdata.io) - The main repository of the Frictionless Data project. Website, issues, and discussions
 - [tzuyi0817/PDF-signature](https://github.com/tzuyi0817/PDF-signature) - Online instant PDF signature website.
