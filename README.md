@@ -886,7 +886,7 @@
 - [jessehouwing/WindowsFileHistoryCleaner](https://github.com/jessehouwing/WindowsFileHistoryCleaner) - Simple command line executable to turn a File History share back into a snapshot of files
 - [Disassembler0/RoboBackup](https://github.com/Disassembler0/RoboBackup) - Windows service for orchestrating file backups via robocopy utility.
 - [colinkiama/UWP-Package-Installer](https://github.com/colinkiama/UWP-Package-Installer) - An UWP installer for appx/appxbundle packages
-- [telerik/UI-For-UWP](https://github.com/telerik/UI-For-UWP) - This repo contains the source code for Telerik UI for Universal Windows Platform (UWP), which includes 20+ UI controls for developers building UWP applications.
+- [telerik/UI-For-UWP](https://github.com/telerik/UI-For-UWP) - Telerik UI for Universal Windows Platform (UWP) is no longer supported.
 - [MahApps/MahApps.Metro.IconPacks](https://github.com/MahApps/MahApps.Metro.IconPacks) - Awesome icon packs for WPF and UWP in one library
 - [micahlmartin/SettingsManager](https://github.com/micahlmartin/SettingsManager) - A utility for managing machine.config settings
 - [Orbmu2k/nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - 
@@ -2760,7 +2760,7 @@
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
 - [siamkreative/Contract-Killer-Generator](https://github.com/siamkreative/Contract-Killer-Generator) - Based on the popular open-source contract for web designers and developers, this generator lets you create a contract within minutes and export it to PDF.
 - [alejandro-ao/exa-crewai](https://github.com/alejandro-ao/exa-crewai) - 
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Crawl Smarter, Faster, Freely. For AI.
 - [4GeeksAcademy/html-forms-tutorial-exercises](https://github.com/4GeeksAcademy/html-forms-tutorial-exercises) - 
 - [4GeeksAcademy/javascript-events-tutorial-exercises](https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises) - 
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -3764,6 +3764,7 @@
 
 ## JavaScript 
 
+- [openai/openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [metaskills/experts](https://github.com/metaskills/experts) - Experts.js is the easiest way to create and deploy OpenAI's Assistants and link them together as Tools to create advanced Multi AI Agent Systems with expanded memory and attention to detail.
 - [oobianom/shinyStorePlus](https://github.com/oobianom/shinyStorePlus) - An R package with in-browser storage for Shiny persistent, synchronized data from the inputs using IndexedDB. Transfer browser link parameters to Shiny input or output values.
@@ -6897,7 +6898,6 @@
 - [jameslairdsmith/talk-automation-R](https://github.com/jameslairdsmith/talk-automation-R) - 
 - [casact/ef-Unifying-Triangle-Methods](https://github.com/casact/ef-Unifying-Triangle-Methods) - 
 - [brotherkaif/dev-notes](https://github.com/brotherkaif/dev-notes) - Personal notes relating to development.
-- [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [OfficeDev/office-control-ids](https://github.com/OfficeDev/office-control-ids) - Provides the official IDs of controls in the Office UI
 - [jeffpar/kbarchive](https://github.com/jeffpar/kbarchive) - Microsoft KnowledgeBase Archive
 - [jrgilbertson/lifelong-learning-system-template](https://github.com/jrgilbertson/lifelong-learning-system-template) - This repository is a getting started kit for a lifelong learning system with Obsidian and Anki.
@@ -9879,6 +9879,7 @@
 
 ## Python 
 
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [AutoPackAI/beebot](https://github.com/AutoPackAI/beebot) - An Autonomous AI Agent that works
 - [microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe) - LLM-powered multiagent persona simulation for imagination enhancement and business insights.
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
@@ -11403,6 +11404,7 @@
 - [Beakerboy/Excel-Addin-Generator](https://github.com/Beakerboy/Excel-Addin-Generator) - Tools to create an Excel Addin from VBA code
 - [Biswa96/WinLight](https://github.com/Biswa96/WinLight) - Download Windows 10 Spotlight Lock screen images anywhere using Content Delivery Management
 - [data-dot-all/dataall](https://github.com/data-dot-all/dataall) - A modern data marketplace that makes collaboration among diverse users (like business, analysts and engineers) easier, increasing efficiency and agility in data projects on AWS.
+- [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [hugovk/lastfm-tools](https://github.com/hugovk/lastfm-tools) - Some Python CLI tools for talking to the Last.fm API
 - [linode/linode-cli](https://github.com/linode/linode-cli) - The official Linode command line interface.
 - [tbertinmahieux/MSongsDB](https://github.com/tbertinmahieux/MSongsDB) - Code for the Million Song Dataset, the dataset contains metadata and audio analysis for a million tracks, a collaboration between The Echo Nest and LabROSA. See website for details.
@@ -12286,6 +12288,7 @@
 
 ## R 
 
+- [surveydown-dev/demos](https://github.com/surveydown-dev/demos) - A collection of demo surveys showcasing capabilities of surveydown
 - [brodieG/ansistyle](https://github.com/brodieG/ansistyle) - Style Console Output With Ansi Escape Sequences
 - [tjmahr/notestar](https://github.com/tjmahr/notestar) - notestar is a notebook system built on the targets package: notes with targets.
 - [r-multiverse/multitools](https://github.com/r-multiverse/multitools) - Tools for contributing packages to R-multiverse
@@ -16890,7 +16893,7 @@
 - [sigoden/upt](https://github.com/sigoden/upt) - Universal Package-management Tool for any OS.
 - [andyquinterom/asynchttp](https://github.com/andyquinterom/asynchttp) - async HTTP library for R
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI tools & agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - nextjs for desktop agents. agents powered by 24/7 screen, voice, keyboard, mouse, camera recording. sandboxed. keyboard and mouse control in js
 - [jasonjmcghee/plock](https://github.com/jasonjmcghee/plock) - From anywhere you can type, query and stream the output of an LLM or any other script
 - [schemamap/schemamap](https://github.com/schemamap/schemamap) - Instant batch data import for Postgres
 - [peshrawahmed/auto-spec-ai](https://github.com/peshrawahmed/auto-spec-ai) - Auto-Spec-AI leverages Large Language Models (LLMs) to automatically generate OpenAPI 3.1.0 compliant documentation for any project. Perfect for large-scale systems that lack comprehensive documentati
@@ -18291,6 +18294,9 @@
 
 ## TypeScript 
 
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
+- [w3cj/use-x](https://github.com/w3cj/use-x) - Practice implementing custom react hooks with full test suites and examples.
+- [w3cj/next-start](https://github.com/w3cj/next-start) - A basic Next.js starter.
 - [Nutlope/picMenu](https://github.com/Nutlope/picMenu) - Visualize menus in seconds with AI
 - [betterstack-community/uptime-badges](https://github.com/betterstack-community/uptime-badges) - 
 - [pontusab/cursor.directory](https://github.com/pontusab/cursor.directory) - Find the best cursor rules for your framework and language
