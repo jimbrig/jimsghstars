@@ -16,6 +16,9 @@ on:
 jobs:
   update-and-deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Required to commit and push changes
+      actions: read    # Required to access workflow artifacts
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
       SHINY_ACCOUNT: ${{ secrets.SHINY_ACCOUNT }}
