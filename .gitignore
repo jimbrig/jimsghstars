@@ -2,3 +2,27 @@
 *secrets*
 *.Renviron*
 .Rproj.user
+
+# R specific
+.Rhistory
+.RData
+.Rdata
+*.Rproj
+
+# Shiny app
+rsconnect/
+*.rsconnect
+
+# Credentials and secrets
+.env
+.env.local
+*.pem
+*.key
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
