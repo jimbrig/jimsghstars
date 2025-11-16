@@ -1,9 +1,14 @@
-name: Update Data
+# DEPRECATED: This workflow has been superseded by update-and-deploy.yml
+# This file is kept for reference but is no longer active.
+# See .github/workflows/update-and-deploy.yml for the current workflow.
 
-on:
-  schedule:
-    - cron: "0 8 * * *"
-  workflow_dispatch:
+name: Update Data (DEPRECATED)
+
+# Workflow disabled - triggers removed
+# on:
+#   schedule:
+#     - cron: "0 8 * * *"
+#   workflow_dispatch:
   
 jobs:
   update:
